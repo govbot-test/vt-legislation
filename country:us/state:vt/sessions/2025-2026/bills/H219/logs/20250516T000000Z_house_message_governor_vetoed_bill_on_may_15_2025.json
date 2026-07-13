@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "House message: Governor vetoed bill on May 15, 2025",
+    "occurred_at": "2025-05-16",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-veto"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillsIntroduced/2026/",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/status/2026/H.219",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillDetailedStatus/2026/465",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillRollCalls/2026/465",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 219"
+}

@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "House message: Governor allowed to become law without signature on June 5, 2025",
+    "occurred_at": "2025-06-09",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillsIntroduced/2026/",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/status/2026/H.1",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillDetailedStatus/2026/27",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillRollCalls/2026/27",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 1"
+}

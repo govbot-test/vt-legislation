@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Rep. Kornheiser of Brattleboro moved that the Committee on Ways and Means be relieved of the bill and that the same be committed to the Committee on Commerce and Economic Development, which was agreed to",
+    "occurred_at": "2025-03-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillsIntroduced/2026/",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/status/2026/H.420",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillDetailedStatus/2026/409",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillRollCalls/2026/409",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 420"
+}

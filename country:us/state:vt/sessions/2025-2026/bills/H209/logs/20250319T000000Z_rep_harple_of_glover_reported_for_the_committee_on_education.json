@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Rep. Harple of Glover reported for the Committee on Education",
+    "occurred_at": "2025-03-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillsIntroduced/2026/",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/status/2026/H.209",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillDetailedStatus/2026/815",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillRollCalls/2026/815",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 209"
+}

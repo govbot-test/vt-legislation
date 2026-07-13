@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "Senate proposal of amendment concurred in with further amendment thereto, as offered by Rep. Harple of Glover, Brady of Williston, Brown of Richmond, Conlon of Cornwall, Dobrovich of Williamstown, Long of Newfane, McCann of Montpelier, Quimby of Lyndon, Taylor of Milton, and Toof of St. Albans Town",
+    "occurred_at": "2025-05-23",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillsIntroduced/2026/",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/status/2026/H.209",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillDetailedStatus/2026/815",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillRollCalls/2026/815",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 209"
+}

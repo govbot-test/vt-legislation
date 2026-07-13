@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Rep. Corcoran of Bennington moved to postpone action until 5/21/2025, which was agreed to",
+    "occurred_at": "2025-05-16",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillsIntroduced/2026/",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/status/2026/H.488",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillDetailedStatus/2026/657",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillRollCalls/2026/657",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 488"
+}

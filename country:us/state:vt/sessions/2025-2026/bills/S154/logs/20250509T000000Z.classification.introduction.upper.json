@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "Read 1st time & referred to Committee on Finance",
+    "occurred_at": "2025-05-09",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillsIntroduced/2026/",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/status/2026/S.154",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillDetailedStatus/2026/980",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillRollCalls/2026/980",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S 154"
+}

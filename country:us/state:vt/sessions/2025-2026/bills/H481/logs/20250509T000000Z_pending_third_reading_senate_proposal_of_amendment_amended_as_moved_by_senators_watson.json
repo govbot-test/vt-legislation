@@ -1,0 +1,33 @@
+{
+  "action": {
+    "description": "Pending third reading, Senate proposal of amendment amended as moved by Senator(s) Watson",
+    "occurred_at": "2025-05-09",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillsIntroduced/2026/",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/status/2026/H.481",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillDetailedStatus/2026/1088",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillRollCalls/2026/1088",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 481"
+}

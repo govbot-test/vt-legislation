@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Rep. LaLonde of South Burlington moved that the Committee on Judiciary be relieved of the bill and that the same be committed to the Committee on Agriculture, Food Resiliency, and Forestry, which was agreed to",
+    "occurred_at": "2025-05-22",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillsIntroduced/2026/",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/status/2026/S.45",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillDetailedStatus/2026/610",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillRollCalls/2026/610",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S 45"
+}

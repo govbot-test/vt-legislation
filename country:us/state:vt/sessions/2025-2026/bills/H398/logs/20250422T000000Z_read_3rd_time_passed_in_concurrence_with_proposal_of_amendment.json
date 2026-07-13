@@ -1,0 +1,33 @@
+{
+  "action": {
+    "description": "Read 3rd time & passed in concurrence with proposal of amendment",
+    "occurred_at": "2025-04-22",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillsIntroduced/2026/",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/status/2026/H.398",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillDetailedStatus/2026/302",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillRollCalls/2026/302",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 398"
+}

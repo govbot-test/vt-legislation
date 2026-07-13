@@ -1,0 +1,34 @@
+{
+  "action": {
+    "description": "Read 2nd time, reported favorably with proposal of amendment by Senator Clarkson for Committee on Government Operations",
+    "occurred_at": "2025-04-22",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "committee-passage-favorable",
+      "reading-2"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillsIntroduced/2026/",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/status/2026/H.463",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillDetailedStatus/2026/508",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillRollCalls/2026/508",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 463"
+}

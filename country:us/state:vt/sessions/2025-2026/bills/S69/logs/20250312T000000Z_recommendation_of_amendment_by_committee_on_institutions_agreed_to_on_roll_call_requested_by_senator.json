@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Recommendation of amendment by Committee on Institutions agreed to on roll call, requested by Senator Ram Hinsdale, Passed -- Needed 15 of 30 to Pass -- Yeas = 25, Nays = 5",
+    "occurred_at": "2025-03-12",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillsIntroduced/2026/",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/status/2026/S.69",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillDetailedStatus/2026/974",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillRollCalls/2026/974",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S 69"
+}

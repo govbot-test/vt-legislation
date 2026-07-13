@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Rep. Brady of Williston moved to postpone action until 5/30/2025, which was agreed to",
+    "occurred_at": "2025-05-29",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillsIntroduced/2026/",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/status/2026/H.480",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillDetailedStatus/2026/1079",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillRollCalls/2026/1079",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 480"
+}

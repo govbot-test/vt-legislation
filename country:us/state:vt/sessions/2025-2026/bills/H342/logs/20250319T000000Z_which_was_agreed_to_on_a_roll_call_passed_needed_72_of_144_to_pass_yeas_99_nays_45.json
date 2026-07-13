@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Which was agreed to on a Roll Call Passed -- Needed 72 of 144 to Pass -- Yeas = 99, Nays = 45",
+    "occurred_at": "2025-03-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillsIntroduced/2026/",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/status/2026/H.342",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillDetailedStatus/2026/672",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillRollCalls/2026/672",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 342"
+}

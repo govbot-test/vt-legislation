@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "3rd reading ordered on roll call Passed -- Needed 15 of 30 to Pass -- Yeas = 29, Nays = 1",
+    "occurred_at": "2025-03-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillsIntroduced/2026/",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/status/2026/S.44",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillDetailedStatus/2026/400",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillRollCalls/2026/400",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S 44"
+}
