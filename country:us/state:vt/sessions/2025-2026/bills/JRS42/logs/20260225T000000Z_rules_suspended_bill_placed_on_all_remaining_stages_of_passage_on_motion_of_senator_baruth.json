@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Rules suspended & bill placed on all remaining stages of passage, on motion of Senator Baruth",
+    "occurred_at": "2026-02-25",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://legislature.vermont.gov/bill/loadAllResolutionsByChamber/2026/both",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/status/2026/J.R.S.42",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillDetailedStatus/2026/1567",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillRollCalls/2026/1567",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "JRS 42"
+}

@@ -26,6 +26,16 @@
       "_processing": {
         "log_file_created": "2026-07-13T05:34:16Z"
       }
+    },
+    {
+      "description": "House message: House adopted Conference Committee report",
+      "date": "2026-05-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:27:51Z"
+      }
     }
   ],
   "sponsorships": [
@@ -41,10 +51,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "As Introduced",
+      "note": "As IntroducedOpens in a new window",
       "links": [
         {
-          "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0325/H-0325%20As%20Introduced.pdf",
+          "url": "http://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0325/H-0325%20As%20Introduced.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -103,7 +113,7 @@
     "division_id": "ocd-division/country:us/state:vt"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:34:16Z",
+    "logs_latest_update": "2026-07-14T13:27:51Z",
     "text_extraction_latest_update": "2026-07-13T07:18:05.256449Z"
   }
 }

@@ -26,6 +26,192 @@
       "_processing": {
         "log_file_created": "2026-07-13T05:34:15Z"
       }
+    },
+    {
+      "description": "Notice Calendar: Favorable with Amendment",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:27:52Z"
+      }
+    },
+    {
+      "description": "Action Calendar: Favorable with Amendment",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:27:52Z"
+      }
+    },
+    {
+      "description": "Read second time",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:27:52Z"
+      }
+    },
+    {
+      "description": "Rep. Duke of Burlington reported for the Committee on Commerce and Economic Development",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:27:52Z"
+      }
+    },
+    {
+      "description": "Report of Committee on Commerce and Economic Development agreed to",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:27:52Z"
+      }
+    },
+    {
+      "description": "Third Reading ordered",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:27:52Z"
+      }
+    },
+    {
+      "description": "Action Calendar: Third Reading",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:27:52Z"
+      }
+    },
+    {
+      "description": "Rep. Duke of Burlington moved to postpone action until Feburary 26, 2026, which was agreed to",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:27:52Z"
+      }
+    },
+    {
+      "description": "Action Calendar: Action postponed until February 26, 2026",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:27:52Z"
+      }
+    },
+    {
+      "description": "Rep. Duke of Burlington moved to postpone action until March 10, 2026, which was agreed to",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:27:52Z"
+      }
+    },
+    {
+      "description": "Action Calendar: Action postponed until March 10, 2026",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:27:52Z"
+      }
+    },
+    {
+      "description": "Action Calendar: Action postponed until March 10, 2026",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:27:52Z"
+      }
+    },
+    {
+      "description": "Rep. Duke of Burlington moved to postpone action until March 11, 2026, which was agreed to",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:27:52Z"
+      }
+    },
+    {
+      "description": "Action Calendar: Action postponed until March 11, 2026",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:27:52Z"
+      }
+    },
+    {
+      "description": "Rep. Duke of Burlington moved to postpone action until March 13, 2026, which was agreed to",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:27:52Z"
+      }
+    },
+    {
+      "description": "Action Calendar: Action postponed until March 13, 2026",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:27:52Z"
+      }
+    },
+    {
+      "description": "Action Calendar: Action postponed until March 13, 2026",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:27:52Z"
+      }
+    },
+    {
+      "description": "Rep. Marcotte of Coventry moved to recommit the bill to the Committee on Commerce and Economic Development, which was agreed to",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:27:52Z"
+      }
     }
   ],
   "sponsorships": [
@@ -113,10 +299,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "As Introduced",
+      "note": "As IntroducedOpens in a new window",
       "links": [
         {
-          "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0205/H-0205%20As%20Introduced.pdf",
+          "url": "http://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0205/H-0205%20As%20Introduced.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -175,7 +361,7 @@
     "division_id": "ocd-division/country:us/state:vt"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:34:15Z",
+    "logs_latest_update": "2026-07-14T13:27:52Z",
     "text_extraction_latest_update": "2026-07-13T06:20:03.256347Z"
   }
 }

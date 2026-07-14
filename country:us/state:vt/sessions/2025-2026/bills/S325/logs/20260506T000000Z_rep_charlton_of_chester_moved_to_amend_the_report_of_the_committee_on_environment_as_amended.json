@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Rep. Charlton of Chester moved to amend the report of the Committee on Environment, as amended",
+    "occurred_at": "2026-05-06",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillsIntroduced/2026/",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/status/2026/S.325",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillDetailedStatus/2026/2160",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillRollCalls/2026/2160",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S 325"
+}

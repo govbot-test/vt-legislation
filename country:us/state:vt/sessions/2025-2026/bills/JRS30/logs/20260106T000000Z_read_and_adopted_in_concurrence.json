@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Read and adopted in concurrence",
+    "occurred_at": "2026-01-06",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://legislature.vermont.gov/bill/loadAllResolutionsByChamber/2026/both",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/status/2026/J.R.S.30",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillDetailedStatus/2026/2043",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillRollCalls/2026/2043",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "JRS 30"
+}

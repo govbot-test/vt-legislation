@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Rep. Burditt of West Rutland, Arsenault of Williston, Christie of Hartford, Dolan of Essex Junction, Goodnow of Brattleboro, Goslant of Northfield, Harvey of Castleton, LaLonde of South Burlington, Malay of Pittsford, and Oliver of Sheldon moved to amend the report of the Committee on Judiciary, as amended, which was agreed to",
+    "occurred_at": "2026-05-26",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillsIntroduced/2026/",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/status/2026/S.193",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillDetailedStatus/2026/2025",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillRollCalls/2026/2025",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S 193"
+}

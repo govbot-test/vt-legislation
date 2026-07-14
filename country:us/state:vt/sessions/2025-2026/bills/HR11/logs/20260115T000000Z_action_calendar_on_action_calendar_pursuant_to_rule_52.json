@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Action Calendar: On Action Calendar pursuant to Rule 52",
+    "occurred_at": "2026-01-15",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://legislature.vermont.gov/bill/loadAllResolutionsByChamber/2026/both",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/status/2026/H.R.11",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillDetailedStatus/2026/2106",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillRollCalls/2026/2106",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR 11"
+}

@@ -634,6 +634,26 @@
       "_processing": {
         "log_file_created": "2026-07-13T05:34:16Z"
       }
+    },
+    {
+      "description": "Action Calendar: Unfinished Business",
+      "date": "2026-01-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:27:52Z"
+      }
+    },
+    {
+      "description": "Rep. Wood of Waterbury moved to commit the bill to the Committee on Human Services, which was agreed to",
+      "date": "2026-01-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:27:52Z"
+      }
     }
   ],
   "sponsorships": [
@@ -681,10 +701,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "As Introduced",
+      "note": "As IntroducedOpens in a new window",
       "links": [
         {
-          "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0091/H-0091%20As%20Introduced.pdf",
+          "url": "http://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0091/H-0091%20As%20Introduced.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -692,10 +712,10 @@
       "classification": ""
     },
     {
-      "note": "As Passed By the House (Official)",
+      "note": "As Passed By the House (OfficialOpens in a new window)",
       "links": [
         {
-          "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0091/H-0091%20As%20passed%20by%20the%20House%20Official.pdf",
+          "url": "http://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0091/H-0091%20As%20passed%20by%20the%20House%20Official.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -703,10 +723,10 @@
       "classification": ""
     },
     {
-      "note": "As Passed By the House (Unofficial)",
+      "note": "As Passed By the House (UnofficialOpens in a new window)",
       "links": [
         {
-          "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0091/H-0091%20As%20Passed%20by%20the%20House%20Unofficial.pdf",
+          "url": "http://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0091/H-0091%20As%20Passed%20by%20the%20House%20Unofficial.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -714,10 +734,10 @@
       "classification": ""
     },
     {
-      "note": "Senate Proposal of Amendment (Official)",
+      "note": "Senate Proposal of Amendment (OfficialOpens in a new window)",
       "links": [
         {
-          "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0091/H-0091%20Senate%20proposal%20of%20amendment%20Official.pdf",
+          "url": "http://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0091/H-0091%20Senate%20proposal%20of%20amendment%20Official.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -725,10 +745,10 @@
       "classification": ""
     },
     {
-      "note": "Senate Proposal of Amendment (Unofficial)",
+      "note": "Senate Proposal of Amendment (UnofficialOpens in a new window)",
       "links": [
         {
-          "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0091/H-0091%20Senate%20Proposal%20of%20Amendment%20Unofficial.pdf",
+          "url": "http://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0091/H-0091%20Senate%20Proposal%20of%20Amendment%20Unofficial.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -736,10 +756,10 @@
       "classification": ""
     },
     {
-      "note": "As Passed by Both House and Senate (Official)",
+      "note": "As Passed by Both House and Senate (OfficialOpens in a new window)",
       "links": [
         {
-          "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0091/H-0091%20As%20Passed%20by%20Both%20House%20and%20Senate%20Official.pdf",
+          "url": "http://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0091/H-0091%20As%20Passed%20by%20Both%20House%20and%20Senate%20Official.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -747,10 +767,10 @@
       "classification": ""
     },
     {
-      "note": "As Passed by Both House and Senate (Unofficial)",
+      "note": "As Passed by Both House and Senate (UnofficialOpens in a new window)",
       "links": [
         {
-          "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0091/H-0091%20As%20Passed%20by%20Both%20House%20and%20Senate%20Unofficial.pdf",
+          "url": "http://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0091/H-0091%20As%20Passed%20by%20Both%20House%20and%20Senate%20Unofficial.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -820,7 +840,7 @@
     "division_id": "ocd-division/country:us/state:vt"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:34:16Z",
+    "logs_latest_update": "2026-07-14T13:27:52Z",
     "text_extraction_latest_update": "2026-07-13T06:37:29.296795Z"
   }
 }

@@ -26,6 +26,16 @@
       "_processing": {
         "log_file_created": "2026-07-13T05:34:15Z"
       }
+    },
+    {
+      "description": "Rep. Mihaly of Calais moved that the Committee on General and Housing be relieved of the bill and that the same be committed to the Committee on Commerce and Economic Development, which was agreed to",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:27:52Z"
+      }
     }
   ],
   "sponsorships": [
@@ -121,10 +131,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "As Introduced",
+      "note": "As IntroducedOpens in a new window",
       "links": [
         {
-          "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0334/H-0334%20As%20Introduced.pdf",
+          "url": "http://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0334/H-0334%20As%20Introduced.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -183,7 +193,7 @@
     "division_id": "ocd-division/country:us/state:vt"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:34:15Z",
+    "logs_latest_update": "2026-07-14T13:27:52Z",
     "text_extraction_latest_update": "2026-07-13T06:48:49.758172Z"
   }
 }

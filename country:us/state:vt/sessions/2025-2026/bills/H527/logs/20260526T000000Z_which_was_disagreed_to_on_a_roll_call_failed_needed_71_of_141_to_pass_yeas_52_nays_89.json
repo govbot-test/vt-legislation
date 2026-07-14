@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Which was disagreed to on a Roll Call Failed -- Needed 71 of 141 to Pass -- Yeas = 52, Nays = 89",
+    "occurred_at": "2026-05-26",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillsIntroduced/2026/",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/status/2026/H.527",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillDetailedStatus/2026/1478",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillRollCalls/2026/1478",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 527"
+}

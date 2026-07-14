@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "Signed by Governor on March 24, 2026",
+    "occurred_at": "2026-03-24",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillsIntroduced/2026/",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/status/2026/H.649",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillDetailedStatus/2026/1844",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillRollCalls/2026/1844",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 649"
+}

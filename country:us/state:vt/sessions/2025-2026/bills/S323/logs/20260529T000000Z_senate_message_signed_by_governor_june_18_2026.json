@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "Senate Message: Signed by Governor June 18, 2026",
+    "occurred_at": "2026-05-29",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillsIntroduced/2026/",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/status/2026/S.323",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillDetailedStatus/2026/1888",
+        "note": ""
+      },
+      {
+        "url": "http://legislature.vermont.gov/bill/loadBillRollCalls/2026/1888",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S 323"
+}
