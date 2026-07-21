@@ -1,0 +1,128 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED S.277
+2026 Page 1 of 5
+1 S.277
+2 Introduced by Senator Gulick
+3 Referred to Committee on
+4 Date:
+5 Subject: Labor; employment practices; minimum wages; mandatory overtime
+6 Statement of purpose of bill as introduced: This bill proposes to prohibit
+7 mandatory overtime for nurses except in emergency circumstances.
+8 An act relating to prohibiting mandatory overtime for nurses
+9 It is hereby enacted by the General Assembly of the State of Vermont:
+10 Sec. 1. 21 V.S.A. § 388 is added to read:
+11 § 388. PROHIBITION ON MANDATORY OVERTIME FOR NURSES
+12 (a) Policy. The purpose of this section is to promote patient safety, protect
+13 the health of nurses, and improve working conditions in hospitals and long-
+14 term care facilities for nurses providing direct patient care or clinical services
+15 to patients by prohibiting mandatory overtime.
+16 (b) Definitions. As used in this section:
+17 (1) “Employer” means a hospital or a long-term care facility.
+18 (2) “Hospital” means a place devoted primarily to the maintenance and
+19 operation of diagnostic and therapeutic facilities for inpatient medical or
+VT LEG #385216 v.2
+
+BILL AS INTRODUCED S.277
+2026 Page 2 of 5
+1 surgical care of individuals who have an illness, disease, injury, or physical
+2 disability, or for obstetrics that is licensed or required to be licensed pursuant
+3 to 18 V.S.A. chapter 43.
+4 (3) “Long-term care facility” means a residential care home, nursing
+5 home, assisted living residence, home for persons who are terminally ill, or
+6 therapeutic community residence that is licensed or required to be licensed
+7 pursuant to 33 V.S.A. chapter 71.
+8 (4) “Mandatory overtime” means work that is required of a nurse by an
+9 employer in excess of an agreed-upon, predetermined, regularly scheduled
+10 shift, provided that in no case shall the predetermined and regularly scheduled
+11 number of hours exceed 12 hours in any 24-hour period or 48 hours in any
+12 workweek.
+13 (5) “Nurse” means a registered nurse or a licensed practical nurse
+14 required to be licensed pursuant to 26 V.S.A. chapter 28, subchapter 1, and
+15 who receives an hourly wage and has direct responsibility to oversee or carry
+16 out nursing care in a hospital or a long-term care facility setting.
+17 (6) “On-call time” means time spent by a nurse who is not working but
+18 who is compensated for being available.
+19 (c) Prohibition on mandatory overtime. No nurse shall be required to work
+20 mandatory overtime. A nurse may not be disciplined for refusing to work in
+21 excess of an agreed-upon, predetermined, regularly scheduled shift but may be
+VT LEG #385216 v.2
+
+BILL AS INTRODUCED S.277
+2026 Page 3 of 5
+1 disciplined for refusing to work mandatory overtime if any of the exceptions to
+2 the prohibition on mandatory overtime pursuant to subsection (d) of this
+3 section apply.
+4 (d) Exceptions to prohibition on mandatory overtime. Notwithstanding
+5 subsection (c) of this section, the prohibition against mandatory overtime shall
+6 not apply if:
+7 (1) a federal, State, or local state of emergency has been declared;
+8 (2) the nurse is actively engaged in an ongoing medical or surgical
+9 procedure and the continued presence of the nurse through the completion of
+10 the procedure is necessary to the health and safety of the patient; or
+11 (3) an unforeseen disaster or other catastrophic event occurs that
+12 substantially affects or increases the need for health care services. An
+13 unforeseen disaster or catastrophic event is one that does not occur regularly,
+14 increases the need for nurses to provide safe patient care, and could not be
+15 prudently anticipated by the employer. It does not include situations in which
+16 the employer fails to have sufficient nursing staff to meet the usual and
+17 predictable nursing needs of its patients.
+18 (e) Good faith effort required. If an employer determines that an exception
+19 exists pursuant to subsection (d) of this section, the employer shall make a
+20 good faith effort to meet the staffing need through voluntary overtime or
+21 calling per diems and agency nurses before requiring mandatory overtime.
+VT LEG #385216 v.2
+
+BILL AS INTRODUCED S.277
+2026 Page 4 of 5
+1 (f) On call time. The provisions of this section shall not apply to on-call
+2 time, but an employer may not use on-call time as a substitute for mandatory
+3 overtime.
+4 (g) Voluntary overtime. A nurse may voluntarily agree to work overtime.
+5 (h) Off duty. Any nurse who works more than 12 consecutive hours, as
+6 permitted by this section, must be allowed at least 10 consecutive hours off-
+7 duty immediately following the worked overtime.
+8 (i) Collective bargaining agreements. Nothing in this section shall be
+9 construed to limit, alter, or modify the terms, conditions, or provisions of a
+10 collective bargaining agreement entered into between an employer and a labor
+11 organization representing nurses.
+12 Sec. 2. 21 V.S.A. § 389 is added to read:
+13 § 389. REPORT ON MANDATORY OVERTIME FOR NURSES; NOTICE
+14 (a) Employers shall report all instances of mandatory overtime and the
+15 circumstances requiring its use to the Vermont Department of Health within 30
+16 days after occurrence. The report shall be in writing and shall include:
+17 (1) an explanation for the use of mandatory overtime and identification
+18 of any applicable exception to the prohibition on mandatory overtime pursuant
+19 to subsection 388(d) of this subchapter; and
+VT LEG #385216 v.2
+
+BILL AS INTRODUCED S.277
+2026 Page 5 of 5
+1 (2) the good faith efforts the employer undertook to meet the staffing
+2 need, pursuant to subsection 388(e) of this subchapter, before requiring
+3 mandatory overtime.
+4 (b) Reports shall be subject to inspection and copying pursuant to 1 V.S.A.
+5 chapter 5, subchapter 3. Any personally identifiable information about nurses
+6 or patients shall be redacted from the reports prior to inspection and copying.
+7 (c) Employers shall post and maintain in a conspicuous place in each of the
+8 employer’s places of business a printed notice of the provisions of section 388
+9 of this subchapter.
+10 Sec. 3. 21 V.S.A. § 390 is added to read:
+11 § 390. INVESTIGATION OF COMPLAINTS; PENALTIES
+12 (a) The Commissioner of Labor shall have the power and authority as set
+13 forth in section 385 of this subchapter to investigate complaints brought
+14 pursuant to section 388 of this subchapter.
+15 (b) An employer who is determined to have violated section 388 of this
+16 subchapter shall be fined $1,000.00 for the first violation, $1,500.00 for the
+17 second violation, and $2,000.00 for the third and any subsequent violations.
+18 (c) An employer who fails to comply with section 389 of this subchapter
+19 shall be fined $500.00 per violation.
+20 Sec. 4. EFFECTIVE DATE
+21 This act shall take effect on July 1, 2026.
+VT LEG #385216 v.2

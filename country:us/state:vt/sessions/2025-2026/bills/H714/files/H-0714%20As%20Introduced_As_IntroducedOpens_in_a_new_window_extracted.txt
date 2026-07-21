@@ -1,0 +1,190 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.714
+2026 Page 1 of 8
+1 H.714
+2 Introduced by Representatives Casey of Montpelier and Priestley of Bradford
+3 Referred to Committee on
+4 Date:
+5 Subject: Executive; State employees; automated employment decision making
+6 Statement of purpose of bill as introduced: This bill proposes to require the
+7 State to disclose the use of automated employment decision-making tools to its
+8 employees and to provide that the use of automated employment decision
+9 making shall not affect the rights of State employees covered by existing
+10 collective bargaining agreements. This bill also proposes to create a study
+11 committee on the impact of the disclosure of automated employment decision-
+12 making tools on State employees and the feasibility of extending the disclosure
+13 requirement and protections for unionized employees to municipal employees,
+14 teachers and employees of public schools, and employees of public institutions
+15 of higher education.
+16 An act relating to automated employment decision making and State
+17 employees
+18 It is hereby enacted by the General Assembly of the State of Vermont:
+19 Sec. 1. 3 V.S.A. § 269 is added to read:
+20 § 269. AUTOMATED EMPLOYMENT DECISION-MAKING TOOL
+VT LEG #386334 v.1
+
+BILL AS INTRODUCED H.714
+2026 Page 2 of 8
+1 (a) Definitions. As used in this section:
+2 (1) “Automated employment decision-making tool” means any software
+3 that uses algorithms, computational models, or artificial intelligence
+4 techniques, or a combination thereof, to materially automate or replace human
+5 decision making regarding employment, including wages and other
+6 compensation, hiring, recruitment, discipline, and promotion. “Automated
+7 employment decision-making tool” does not include any software used
+8 primarily for basic computerized processes, such as calculators, spell-check
+9 tools, autocorrect functions, spreadsheets, electronic communications, or any
+10 tool that relates only to internal office management, such as ordering office
+11 supplies or processing payments, and that does not materially affect the rights,
+12 liberties, benefits, safety, or welfare of any individual State employee.
+13 (2) “State agency” means any agency, department, or division of the
+14 State.
+15 (b) Disclosure of automated employment decision-making tools. Any State
+16 agency that utilizes automated employment decision-making tools shall
+17 publish and maintain a list of the tools on the State agency’s website. The
+18 disclosure shall include:
+19 (1) a description of each automated employment decision-making tool
+20 utilized by the State agency;
+VT LEG #386334 v.1
+
+BILL AS INTRODUCED H.714
+2026 Page 3 of 8
+1 (2) the date the State agency began using each automated employment
+2 decision-making tool;
+3 (3) a summary of the purpose and use of each automated employment
+4 decision-making tool; and
+5 (4) any other information about the tools deemed relevant by the State
+6 agency.
+7 (c) Bargaining rights.
+8 (1) The use of an automated employment decision-making tool by a
+9 State agency shall not affect the rights of State employees pursuant to an
+10 existing collective bargaining agreement or affect the existing bargaining
+11 relationship between the State and employees covered by a collective
+12 bargaining agreement.
+13 (2) The use of an automated employment decision-making tool shall not
+14 result in:
+15 (A) the discharge, displacement, or loss of position, including partial
+16 displacement such as a reduction in the hours of nonovertime work, wages, or
+17 employment benefits, of State employees;
+18 (B) the impairment of existing collective bargaining agreements; or
+19 (C) the transfer of existing duties and functions currently performed
+20 by employees of a State agency to an automated employment decision-making
+21 tool.
+VT LEG #386334 v.1
+
+BILL AS INTRODUCED H.714
+2026 Page 4 of 8
+1 (3) The use of an automated employment decision-making tool shall not
+2 alter the rights, benefits, or privileges, including terms and conditions of
+3 employment, classified service status, and collective bargaining unit
+4 membership status, of all existing employees of a State agency, and the
+5 collective bargaining unit membership status of all existing employees of a
+6 State agency shall be preserved and protected.
+7 Sec. 2. STUDY COMMITTEE ON AUTOMATED EMPLOYMENT
+8 DECISION-MAKING TOOLS AND PUBLIC EMPLOYEES;
+9 REPORT
+10 (a) Creation. There is created the Study Committee on Automated
+11 Employment Decision-Making Tools and Public Employees to examine the
+12 impact of the disclosure of automated employment decision-making tools on
+13 State employees and the feasibility of extending the disclosure requirement and
+14 protections for unionized employees to municipal employees, teachers and
+15 other public school employees, and employees of public institutions of higher
+16 education.
+17 (b) Membership. The Study Committee shall be composed of nine
+18 members as follows:
+19 (1) one current member of the House of Representatives, appointed by
+20 the Speaker of the House;
+VT LEG #386334 v.1
+
+BILL AS INTRODUCED H.714
+2026 Page 5 of 8
+1 (2) one current member of the Senate, appointed by the Committee on
+2 Committees;
+3 (3) one representative of the Department of Human Resources,
+4 appointed by the Commissioner of Human Resources;
+5 (4) one representative of the Agency of Administration, appointed by
+6 the Secretary of Administration;
+7 (5) one member who is a bargaining representative on behalf of State
+8 employees, appointed by the Vermont State Employees’ Association;
+9 (6) one representative of a statewide teachers’ union, appointed by the
+10 Vermont-National Education Association;
+11 (7) one representative of municipal employees, appointed by the
+12 Vermont League of Cities and Towns;
+13 (8) one representative of a public institution of higher education,
+14 appointed jointly by the President of the University of Vermont and the
+15 Chancellor of the Vermont State Colleges; and
+16 (9) one public member with expertise in labor law or automated or
+17 algorithmic decision making, appointed by the Governor.
+18 (c) Powers and duties. The Study Committee shall examine and make
+19 findings and recommendations regarding the following:
+20 (1) the effectiveness of the disclosure requirements for automated
+21 employment decision-making tools pursuant to 3 V.S.A. § 269;
+VT LEG #386334 v.1
+
+BILL AS INTRODUCED H.714
+2026 Page 6 of 8
+1 (2) the extent to which existing statutory and collectively bargained
+2 employee protections adequately protect unionized State employees from
+3 adverse employment actions resulting from the use of automated employment
+4 decision-making tools;
+5 (3) the interaction between automated employment decision-making
+6 tools and the dispute resolution mechanisms in collective bargaining
+7 agreements covering State employees;
+8 (4) the feasibility, benefits, risks, and potential unintended consequences
+9 of extending the disclosure and labor protection requirements of 3 V.S.A.
+10 § 269 to:
+11 (A) municipal employees;
+12 (B) teachers and other public school employees; and
+13 (C) employees of public institutions of higher education;
+14 (5) the administrative, fiscal, and operational impacts of extending
+15 coverage under 3 V.S.A. §269 to additional categories of public employees;
+16 and
+17 (6) whether statutory amendments, phased implementation, or
+18 differentiated approaches are advisable for different categories of public
+19 employees.
+VT LEG #386334 v.1
+
+BILL AS INTRODUCED H.714
+2026 Page 7 of 8
+1 (d) Assistance. The Study Committee shall have the administrative,
+2 technical, and legal assistance of the Department of Human Resources. The
+3 Joint Fiscal Office shall provide fiscal analysis upon request.
+4 (e) Report. On or before December 15, 2028, the Study Committee shall
+5 submit a written report to the House Committees on Commerce and Economic
+6 Development and on Government Operations and Military Affairs and the
+7 Senate Committees on Government Operations and on Education with its
+8 findings and any recommendations for legislative action.
+9 (f) Meetings.
+10 (1) The committee member representing the Department of Human
+11 Resources shall call the first meeting of the Study Committee to occur on or
+12 before September 1, 2027.
+13 (2) The members of the Study Committee shall select a chair from
+14 among its legislative members at the first meeting.
+15 (3) A majority of the membership shall constitute a quorum.
+16 (4) The Study Committee shall cease to exist upon submission of its
+17 report or on January 15, 2029, whichever occurs first.
+18 (g) Compensation and reimbursement.
+19 (1) For attendance at meetings during adjournment of the General
+20 Assembly, a legislative member of the Study Committee shall be entitled to per
+21 diem compensation and reimbursement of expenses pursuant to 2 V.S.A. § 23
+VT LEG #386334 v.1
+
+BILL AS INTRODUCED H.714
+2026 Page 8 of 8
+1 for not more than six meetings. These payments shall be made from monies
+2 appropriated to the General Assembly.
+3 (2) Except for those members otherwise regularly employed by the
+4 State, other members of the Study Committee shall be entitled to per diem
+5 compensation and reimbursement of expenses as permitted under 32 V.S.A.
+6 § 1010 for not more than six meetings. These payments shall be made from
+7 monies appropriated to the Department of Human Resources.
+8 Sec. 3. EFFECTIVE DATE
+9 This act shall take effect on July 1, 2026.
+VT LEG #386334 v.1

@@ -1,0 +1,53 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED S.274
+2026 Page 1 of 2
+1 S.274
+2 Introduced by Senators Watson and Perchlik
+3 Referred to Committee on
+4 Date:
+5 Subject: Taxation; sales and use tax; domestic use exemption; fuel sales
+6 Statement of purpose of bill as introduced: This bill proposes to narrow the
+7 sales and use tax exemption for fuel used in a residence for domestic use by
+8 precluding the exemption when sales are made to a second home, short-term
+9 rental property, or other nonhomestead residential property.
+10 An act relating to the sales and use tax exemption for fuel used in a
+11 residence for domestic use
+12 It is hereby enacted by the General Assembly of the State of Vermont:
+13 Sec. 1. 32 V.S.A. § 9741(26) is amended to read:
+14 (26)(A) Sales of electricity, oil, gas, and other fuels used in a residence
+15 for all domestic use, including heating, but not including fuel sold at retail in
+16 free-standing containers, or sold as part of a transaction where a free-standing
+17 container is exchanged without a separate charge. Wood pellets sold to an
+18 individual on the vendor’s premises or delivered to an individual’s residence
+19 shall be presumed to be purchased for residential use and shall be exempt sales
+20 under this subdivision unless the vendor knew or ought reasonably to have
+VT LEG #384991 v.1
+
+BILL AS INTRODUCED S.274
+2026 Page 2 of 2
+1 known that the wood pellets were not purchased for residential use. A
+2 certificate of exemption shall not be required for exempt retail sales of wood
+3 pellets to an individual. The Commissioner shall by rule determine that
+4 portion of the sales attributable to domestic use where fuels are used for
+5 purposes in addition to domestic use.
+6 (B) As used in this subdivision (26), “residence” means any
+7 residential property that was not included on the most recent list published
+8 pursuant to subdivision (C) of this subdivision (26) as most recently classified
+9 as “nonhomestead residential” under section 4152a of this title.
+10 (C) Annually on July 1, the Commissioner shall publish a list of
+11 addresses for all properties most recently classified as “nonhomestead
+12 residential” under section 4152a of this title. Notwithstanding section 9703 of
+13 this title, or any other provision of law to the contrary, a seller shall be held
+14 harmless from sales tax liability resulting from a transaction in which the seller
+15 relied on the list published pursuant to this subdivision (26)(C) and tax was not
+16 collected due to an error or omission on the list.
+17 Sec. 2. EFFECTIVE DATE
+18 This act shall take effect on July 1, 2029.
+VT LEG #384991 v.1

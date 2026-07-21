@@ -1,0 +1,279 @@
+Title: 
+Official Title: 
+Source: versions - As Passed By the Senate (OfficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.213
+2026 Page 1 of 9
+1 S.213
+2 Introduced by Senators Hardy and Watson
+3 Referred to Committee on Natural Resources and Energy
+4 Date: January 7, 2026
+5 Subject: Conservation and development; public water systems; smart meters;
+6 opt out
+7 Statement of purpose of bill as introduced: This bill proposes to provide that
+8 if a public water system uses smart meters to measure water usage, the public
+9 water system shall notify the user of the proposed use of smart meters and
+10 allow the user to opt out of the use of the smart meter.
+An act relating to the use of smart meters by public water systems
+An act relating to the use of advanced metering infrastructure devices
+11 It is hereby enacted by the General Assembly of the State of Vermont:
+12 Sec. 1. 10 V.S.A. § 1671 is amended to read:
+13 § 1671. DEFINITIONS
+14 As used in this chapter:
+15 (1) “Drinking water” means noncarbonated water that is intended for
+16 human consumption or other consumer uses whether provided by a public
+17 water system or in a container, bottle, or package, or in bulk, including water
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.213
+2026 Page 2 of 9
+1 used for production of ice, foodstuffs, or other products designed for human
+2 consumption.
+3 (2) “Department” means the Department of Environmental
+4 Conservation.
+5 (3) “Person” means any individual,; partnership,; company,;
+6 corporation,; cooperative,; association,; unincorporated association,; joint
+7 venture,; trust,; the State of Vermont or any department, agency, subdivision,
+8 or municipality,; the U.S. government or any department, agency, or
+9 subdivision,; or any other legal or commercial entity.
+10 (4) “Public water source” means any surface water or groundwater
+11 supply used as a source of drinking water for a public water system.
+12 (5)(A) “Public water system” means any system, or combination of
+13 systems owned or controlled by a person, that provides drinking water through
+14 pipes or other constructed conveyances to the public and that:
+15 (i) has at least 15 service connections; or
+16 (ii) serves an average of at least 25 individuals for at least 60 days
+17 a year.
+18 (B) “Public water system” shall also mean means any part of a piped
+19 system that does not provide drinking water, if use of such a part could affect
+20 the quality or quantity of the drinking water supplied by the system. “Public
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.213
+2026 Page 3 of 9
+1 water system” shall also mean means a system that bottles drinking water for
+2 public distribution and sale.
+3 (6) “Secretary” means the Secretary of Natural Resources or the
+4 Secretary’s designee.
+5 * * *
+6 (14) “Smart meter” means a wired smart meter or a wireless smart
+7 meter.
+8 (15) “Wired smart meter” means an advanced metering infrastructure
+9 device using a fixed wire for two-way communication between the device and
+10 a public water system.
+11 (16) “Wireless smart meter” means an advanced metering infrastructure
+12 device using radio or other wireless means for two-way communication
+13 between the device and a public water system.
+14 Sec. 2. 10 V.S.A. § 1675 is amended to read:
+15 § 1675. PERMITS; CONDITIONS; DURATION; SUSPENSION OF
+16 REVOCATION
+17 (a) Authority to issue, renew, or deny permit. The Secretary may issue,
+18 renew, or deny a public water system permit required by this chapter. As part
+19 of this authority, the Secretary may issue general operating permits for the
+20 operation of transient noncommunity water systems.
+21 * * *
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.213
+2026 Page 4 of 9
+1 (j) Smart meters; customer rights. If a public water system requires a user
+2 of the system to install a meter to measure usage, the public water system may
+3 install a wireless smart meter on a user’s premises, provided that the public
+4 water system:
+5 (1) provides prior written notice to the user indicating that the meter
+6 will use radio or other wireless means for two-way communication between
+7 the meter and the public water system and informing the user of the user’s
+8 rights under subdivisions (2) and (3) of this subsection;
+9 (2) allows a user to choose not to have a wireless smart meter installed,
+10 provided that the public water system may charge the user for the cost of the
+11 alternative meter and any additional service charge required for the public
+12 water system to operate the alternative meter; and
+13 (3) allows a user to require removal of a previously installed wireless
+14 smart meter for any reason and at an agreed-upon time, without incurring any
+15 charge for such removal.
+16 (k) Cybersecurity measures. As a condition of a public water system
+17 issued under this chapter, the Secretary shall require a public water system
+18 using smart meters to demonstrate that the public water system has
+19 implemented and is administering cybersecurity measures to protect the
+20 computer infrastructure and data of the public water system from unauthorized
+21 access that could result in theft, damage, or disruption of service.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.213
+2026 Page 5 of 9
+1 Sec. 3. DEVELOPMENT OF CYBERSECURITY MEASURES FOR
+2 PUBLIC WATER SYSTEMS; IMPLEMENTATION
+3 (a) The Secretary of Natural Resources shall develop cybersecurity
+4 measures that all public water systems permitted under 10 V.S.A. chapter 56
+5 shall implement if the public water system is using smart meters to monitor
+6 customer usage. At a minimum, the cybersecurity measures shall be consistent
+7 with the cybersecurity actions recommended by the Vermont Rural Water
+8 Association.
+9 (b) A public water system permitted under 10 V.S.A. chapter 56 shall have
+10 until July 1, 2027, to demonstrate to the Secretary of Natural Resources
+11 compliance with the cybersecurity requirements of 10 V.S.A. § 1675(k).
+12 Sec. 4. EFFECTIVE DATE
+13 This act shall take effect on passage.
+Sec. 1. 10 V.S.A. § 1671 is amended to read:
+§ 1671. DEFINITIONS
+As used in this chapter:
+(1) “Drinking water” means noncarbonated water that is intended for
+human consumption or other consumer uses whether provided by a public
+water system or in a container, bottle, or package, or in bulk, including water
+used for production of ice, foodstuffs, or other products designed for human
+consumption.
+(2) “Department” means the Department of Environmental
+Conservation.
+(3) “Person” means any individual,; partnership,; company,;
+corporation,; cooperative,; association,; unincorporated association,; joint
+venture,; trust,; the State of Vermont or any department, agency, subdivision,
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.213
+2026 Page 6 of 9
+or municipality,; the U.S. government or any department, agency, or
+subdivision,; or any other legal or commercial entity.
+(4) “Public water source” means any surface water or groundwater
+supply used as a source of drinking water for a public water system.
+(5)(A) “Public water system” means any system, or combination of
+systems owned or controlled by a person, that provides drinking water through
+pipes or other constructed conveyances to the public and that:
+(i) has at least 15 service connections; or
+(ii) serves an average of at least 25 individuals for at least 60
+days a year.
+(B) “Public water system” shall also mean means any part of a
+piped system that does not provide drinking water, if use of such a part could
+affect the quality or quantity of the drinking water supplied by the system.
+“Public water system” shall also mean means a system that bottles drinking
+water for public distribution and sale.
+(6) “Secretary” means the Secretary of Natural Resources or the
+Secretary’s designee.
+* * *
+(14) “Advanced metering infrastructure device” means a meter or
+related communications equipment that is part of an advanced metering
+infrastructure system and enables measurement of utility usage and two-way
+communication between the meter and the utility, and includes both wired and
+wireless devices.
+(15) “Advanced metering infrastructure” or “AMI” means an
+integrated system of meters, including communications and data management
+systems that measure, record, and transmit utility usage data at regular
+intervals and enable two-way communication between the utility and the
+customer.
+Sec. 2. 10 V.S.A. § 1672 is amended to read:
+§ 1672. AUTHORITY OF THE AGENCY OF NATURAL RESOURCES
+(a) Except as provided in subsections (c) through (f) of this section, to
+prevent and minimize public health hazards, the Secretary shall have authority
+over and shall regulate the purity of drinking water; the adequacy,
+construction, and operation of public water systems; public water sources; and
+public water source protection areas.
+* * *
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.213
+2026 Page 7 of 9
+(h) Upon request of the Secretary, the Cybersecurity Advisory Council shall
+develop nonbinding guidance for public water systems regarding generally
+accepted cybersecurity practices, including information relevant to metering
+systems and customer data. On its own motion, the Cybersecurity Advisory
+Council may at any time issue guidance for public water systems regarding
+generally accepted cybersecurity practices. The Council may issue guidance
+under this subsection as part of its annual report and in any other outreach
+method utilized by the Council specific to public water systems or other critical
+infrastructure systems.
+Sec. 3. 10 V.S.A. § 1675 is amended to read:
+§ 1675. PERMITS; CONDITIONS; DURATION; SUSPENSION OF
+REVOCATION
+(a) Authority to issue, renew, or deny permit. The Secretary may issue,
+renew, or deny a public water system permit required by this chapter. As part
+of this authority, the Secretary may issue general operating permits for the
+operation of transient noncommunity water systems.
+* * *
+(j) Advanced metering infrastructure device; customer rights. If a public
+water system requires a user of the system to install a meter to measure usage,
+the public water system may install an advanced metering infrastructure device
+on a user’s premises, provided that the public water system:
+(1) provides prior written notice to the user indicating that the advanced
+metering infrastructure device will use radio or other wireless means for two-
+way communication between the device and the public water system and
+informing the user of the user’s rights under subdivisions (2) and (3) of this
+subsection;
+(2) allows a user to choose not to have an advanced metering
+infrastructure device installed, provided that the public water system may
+charge the user for the cost of the alternative device and any additional service
+charge required for the public water system to operate the alternative device;
+and
+(3) allows a user to require removal of a previously installed advanced
+metering infrastructure device for any reason and at an agreed-upon time,
+without incurring any charge for such removal.
+Sec. 4. 30 V.S.A. § 2811 is amended to read:
+§ 2811. SMART METERS ADVANCED METERING INFRASTRUCTURE
+DEVICES; CUSTOMER RIGHTS; REPORTS
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.213
+2026 Page 8 of 9
+(a) Definitions. As used in this section, the following terms shall have the
+following meanings:
+(1) “Smart meter” means a wired smart meter or a wireless smart meter
+“Advanced metering infrastructure device” means a meter or related
+communications equipment that is part of an advanced metering infrastructure
+system and enables measurement of utility usage and two-way communication
+between the meter and the utility, and includes both wired and wireless
+devices.
+(2) “Wired smart meter” means an advanced metering infrastructure
+device using a fixed wire for two-way communication between the device and
+an electric company “Advanced metering infrastructure” or “AMI” means an
+integrated system of meters, including communications and data management
+systems that measure, record, and transmit utility usage data at regular
+intervals and enable two-way communication between the utility and the
+customer.
+(3) “Wireless smart meter” means an advanced metering infrastructure
+device using radio or other wireless means for two-way communication
+between the device and an electric company. [Repealed.]
+(b) Customer rights. Notwithstanding any law, order, or agreement to the
+contrary, an electric company may install a wireless smart meter advanced
+metering infrastructure device on a customer’s premises, provided the
+company:
+(1) provides prior written notice to the customer indicating that the
+meter device will use radio or other wireless means for two-way
+communication between the meter and the company and informing the
+customer of his or her the customer’s rights under subdivisions (2) and (3) of
+this subsection;
+(2) allows a customer to choose not to have a wireless smart meter an
+advanced metering infrastructure device installed, at no additional monthly or
+other charge provided that the electric company may charge the customer for
+the cost of the alternative device and any additional service charge required
+for the electric company to operate the alternative device; and
+(3) allows a customer to require removal of a previously installed
+wireless smart meter advanced metering infrastructure device for any reason
+and at an agreed-upon time, without incurring any charge for such removal.
+(c) Reports. On January 1, 2014 and again on January 1, 2016, the
+Commissioner of Public Service shall publish a report on the savings realized
+through the use of smart meters as well as on the occurrence of any breaches
+to a company’s cyber-security infrastructure. The reports shall be based on
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.213
+2026 Page 9 of 9
+electric company data requested by and provided to the Commissioner of
+Public Service and shall be in a form and in a manner the Commissioner
+deems necessary to accomplish the purposes of this subsection. The reports
+shall be submitted to the Senate Committees on Finance and on Natural
+Resources and Energy and the House Committees on Commerce and Economic
+Development and on Energy and Technology.
+(d) Health report.
+(1) On or before January 15, 2013, the Commissioner of Health and the
+Commissioner of Public Service shall jointly submit a report to the Senate
+Committee on Finance and the House Committee on Commerce and Economic
+Development. The report shall include: an update of the Department of
+Health’s 2012 report entitled “Radio Frequency Radiation and Health: Smart
+Meters”; a summary of the Department’s activities monitoring the deployment
+of wireless smart meters in Vermont, including a representative sample of
+postdeployment radio frequency level testing; and recommendations relating to
+evidence-based surveillance on the potential health effects of wireless smart
+meters.
+(2) The Commissioner of Public Service, in consultation with the
+Commissioner of Health, shall select and retain an independent expert, not an
+employee of the State, to perform the research and writing of the report
+identified in subdivision (1) of this subsection. The Commissioner of Public
+Service may allocate the costs of retaining the independent expert to electric
+utilities in accordance with sections 20 and 21 of this title (particular
+proceedings; personnel; assessment of costs).
+Sec. 5. EFFECTIVE DATE
+This act shall take effect on passage.

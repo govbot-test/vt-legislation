@@ -1,0 +1,137 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED S.270
+2026 Page 1 of 6
+1 S.270
+2 Introduced by Senator Perchlik
+3 Referred to Committee on
+4 Date:
+5 Subject: Energy; electric vehicle supply equipment (EVSE); electric vehicle
+6 charging; housing; common interest communities; condominiums;
+7 planned community; infrastructure
+8 Statement of purpose of bill as introduced: This bill proposes to establish a
+9 right-to-charge requirement to permit property owners within a common
+10 interest community to install and use electric vehicle supply equipment
+11 (EVSE).
+12 An act relating to a right to charge electric vehicles at home
+13 It is hereby enacted by the General Assembly of the State of Vermont:
+14 Sec. 1. 27A V.S.A. § 1-204 is amended to read:
+15 § 1-204. PREEXISTING COMMON INTEREST COMMUNITIES
+16 (a)(1) Unless excepted under section 1-203 of this title, the following
+17 sections and subdivisions of this title apply to a common interest community
+18 created in this State before January 1, 1999: sections 1-103, 1-105, 1-106, 1-
+19 107, 2-103, 2-104, and 2-121, subdivisions 3-102(a)(1) through (6) and (11)
+20 through (16), and sections 3-111, 3-116, 3-118, 4-109, and 4-117 to the extent
+VT LEG #385869 v.1
+
+BILL AS INTRODUCED S.270
+2026 Page 2 of 6
+1 necessary to construe the applicable sections. The sections and subdivisions
+2 described in this subdivision apply only to events and circumstances occurring
+3 after December 31, 1998, and do not invalidate existing provisions of the
+4 declarations, bylaws, plats, or plans of those common interest communities.
+5 * * *
+6 (3) Unless excepted under section 1-203 of this title, section 3-125 of
+7 this title shall apply to a common interest community created in this State
+8 before January 1, 1999. Section 3-125 applies only to events and
+9 circumstances occurring after June 30, 2026, and does not invalidate existing
+10 provisions of the declarations, bylaws, plats, or plans of those common interest
+11 communities.
+12 * * *
+13 Sec. 2. 27A V.S.A. § 3-125 is added to read:
+14 § 3-125. ELECTRIC VEHICLE SUPPLY EQUIPMENT
+15 (a) Definitions. As used in this section:
+16 (1) “Electric vehicle supply equipment (EVSE)” means a device or
+17 system designed and used specifically to transfer electrical energy to a plug-in
+18 electric vehicle.
+19 (2) “EVSE owner” means the unit owner who applies to install an EVSE
+20 and each successive unit owner associated with the initial application to install
+21 the EVSE unless there is a specific change in ownership of the EVSE, in which
+VT LEG #385869 v.1
+
+BILL AS INTRODUCED S.270
+2026 Page 3 of 6
+1 case the EVSE owner shall be the owner specified in a conveying document
+2 memorializing the change in ownership of the EVSE.
+3 (3) “Plug-in electric vehicles” has the same meaning as in 23 V.S.A.
+4 § 4(85).
+5 (4) “Reasonable restrictions” are restrictions that do not significantly
+6 increase the cost of the EVSE or significantly decrease the efficiency or
+7 specified performance of the EVSE.
+8 (b) Protected uses.
+9 (1) Any covenant, restriction, or condition contained in any deed,
+10 contract, security instrument, or other instrument affecting the transfer or sale
+11 of any interest in a common interest community, and any provision of a
+12 governing document associated with a common interest community, such as a
+13 declaration, bylaw, or rule, that either effectively prohibits or unreasonably
+14 restricts the installation or use of an EVSE within a unit owner’s unit or in a
+15 designated parking space, including a deeded parking space, a parking space in
+16 a unit owner’s exclusive use common element, or a parking space that is
+17 specifically designated for use by a particular unit owner, or is in conflict with
+18 this section is void and unenforceable.
+19 (2) This subsection shall not apply to provisions that impose reasonable
+20 restrictions on EVSE. However, it is the policy of the State to promote,
+VT LEG #385869 v.1
+
+BILL AS INTRODUCED S.270
+2026 Page 4 of 6
+1 encourage, and remove obstacles to the use of plug-in electric vehicles,
+2 including access to EVSE at home.
+3 (3) The EVSE and all modifications and improvements to the common
+4 interest community shall comply with federal, State, and local law, and all
+5 applicable zoning requirements; land use requirements; and covenants,
+6 conditions, and restrictions.
+7 (4) If approval is required for the installation or use of EVSE, the
+8 application for approval shall be processed and approved by the association in
+9 the same manner as an application for approval of an architectural modification
+10 to the common interest community and shall not be intentionally avoided or
+11 delayed. The approval or denial of an application shall be in writing. If an
+12 application is not denied in writing within 60 days from the date of receipt of
+13 the application, the application shall be deemed approved, unless that delay is
+14 the result of a reasonable request for additional information.
+15 (5) If the EVSE is to be placed in a common element or a limited
+16 common element, as designated in the common interest community’s
+17 declaration, the following provisions apply:
+18 (A) The unit owner first shall obtain approval from the association to
+19 install the EVSE, and the association shall approve the installation if the unit
+20 owner agrees in writing to do all of the following:
+VT LEG #385869 v.1
+
+BILL AS INTRODUCED S.270
+2026 Page 5 of 6
+1 (i) comply with the association’s architectural standards for the
+2 installation of the EVSE;
+3 (ii) engage a licensed contractor to install the EVSE; and
+4 (iii) pay for both the costs associated with the installation of the
+5 EVSE and the electricity usage associated with the EVSE.
+6 (B) The unit owner and each successive owner of the EVSE shall be
+7 responsible for all of the following:
+8 (i) costs for damage to the EVSE, common element, or limited
+9 common element resulting from the installation, maintenance, repair, removal,
+10 or replacement of the EVSE;
+11 (ii) costs for the maintenance, repair, and replacement of the
+12 EVSE until the EVSE has been removed and for the restoration of the common
+13 element or limited common element after removal;
+14 (iii) cost of electricity associated with the EVSE; and
+15 (iv) disclosing to prospective buyers of the unit the existence of
+16 any EVSE and the related responsibilities of the unit owner under this section.
+17 (6) An association that intentionally violates this subsection shall be
+18 liable to the applicant unit owner or other party for actual damages and shall
+19 pay a civil penalty to the applicant unit owner or other party in an amount not
+20 to exceed $1,000.00.
+VT LEG #385869 v.1
+
+BILL AS INTRODUCED S.270
+2026 Page 6 of 6
+1 (7) In any action by a unit owner requesting to have an EVSE installed
+2 and seeking to enforce compliance with this section, the prevailing plaintiff
+3 shall be awarded reasonable attorney’s fees.
+4 Sec. 3. EFFECTIVE DATE
+5 This act shall take effect on July 1, 2026.
+VT LEG #385869 v.1

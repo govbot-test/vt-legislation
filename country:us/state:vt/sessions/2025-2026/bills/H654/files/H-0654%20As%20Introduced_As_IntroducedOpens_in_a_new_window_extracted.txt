@@ -1,0 +1,212 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.654
+2026 Page 1 of 9
+1 H.654
+2 Introduced by Representative Headrick of Burlington
+3 Referred to Committee on
+4 Date:
+5 Subject: Internal security and public safety; aeronautics and surface
+6 transportation; airspace; Vermont Airspace Safety and Unidentified
+7 Anomalous Phenomena Task Force
+8 Statement of purpose of bill as introduced: This bill proposes to create the
+9 Vermont Airspace Safety and Unidentified Anomalous Phenomena Task Force
+10 to evaluate reports of unidentified anomalous phenomena, assess airspace and
+11 public safety risks, coordinate with academic institutions and federal agencies,
+12 and develop recommendations to improve incident reporting, response, and
+13 analysis.
+14 An act relating to Vermont Airspace Safety and Unidentified Anomalous
+15 Phenomena Task Force
+16 It is hereby enacted by the General Assembly of the State of Vermont:
+17 Sec. 1. FINDINGS
+18 The General Assembly finds:
+19 (1) The federal government has formally acknowledged the existence of
+20 unidentified anomalous phenomena (UAP) and has established the All-Domain
+VT LEG #386315 v.1
+
+BILL AS INTRODUCED H.654
+2026 Page 2 of 9
+1 Anomaly Resolution Office within the U.S. Department of Defense to
+2 coordinate federal investigation and oversight of UAP-related reports.
+3 (2) In 2023, the U.S. Congress enacted the Unidentified Anomalous
+4 Phenomena Disclosure Act as an amendment to the National Defense
+5 Authorization Act, establishing requirements for transparency, centralized
+6 records management, and standardized federal investigation of UAP. The
+7 amendment was a bipartisan effort led by Senators Charles E. Schumer,
+8 Michael D. Rounds, Marco Rubio, and Kirsten E. Gillibrand.
+9 (3) Independent research organizations have developed expertise in the
+10 scientific investigation of UAP. The Scientific Coalition for UAP Studies, a
+11 nonprofit interdisciplinary research organization composed of scientists,
+12 engineers, law enforcement, and former military and intelligence professionals,
+13 has conducted peer-reviewed analyses and collaborates with academic
+14 institutions and government partners to advance scientific understanding of
+15 UAP.
+16 (4) Vermont has experienced recent public reports of unidentified aerial
+17 objects that have required law enforcement response, including low-altitude
+18 drone-like sightings and aircraft safety concerns. These incidents underscore
+19 the need for a coordinated State-led mechanism to assess and respond to
+20 airspace hazards.
+VT LEG #386315 v.1
+
+BILL AS INTRODUCED H.654
+2026 Page 3 of 9
+1 Sec. 2. 5 V.S.A. chapter 9, subchapter 3 is added to read:
+2 Subchapter 3. Vermont Airspace Safety and Unidentified Anomalous
+3 Phenomena Task Force
+4 § 241. VERMONT AIRSPACE SAFETY AND UNIDENTIFIED
+5 ANOMALOUS PHENOMENA TASK FORCE
+6 (a) Definitions. As used in this section:
+7 (1) “SCU” means the Scientific Coalition for UAP Studies.
+8 (2) “Unidentified anomalous phenomena” means any object operating in
+9 the atmosphere or underwater that cannot be readily attributed to a known or
+10 conventional source, including unknown aircraft, drones, or other anomalous
+11 objects exhibiting performance characteristics not consistent with currently
+12 understood technologies, such as instantaneous acceleration absent observable
+13 inertia or hypersonic velocity without a corresponding thermal signature or
+14 sonic boom.
+15 (b) Creation. There is created within the Department of Public Safety the
+16 Vermont Airspace Safety and Unidentified Anomalous Phenomena Task
+17 Force. The Task Force shall coordinate its work jointly through the
+18 Department of Public Safety and the Agency of Transportation and may
+19 engage independent experts to support its charge.
+20 (c) Purpose. The purpose of the Task Force is to:
+VT LEG #386315 v.1
+
+BILL AS INTRODUCED H.654
+2026 Page 4 of 9
+1 (1) evaluate reports of unidentified anomalous phenomena, including
+2 drones, balloons, and objects exhibiting anomalous behavior that cannot be
+3 readily identified as weather phenomena, commercial products, or
+4 conventional technologies legally operating in Vermont airspace;
+5 (2) assess airspace and public safety risks;
+6 (3) coordinate Vermont’s response with federal, academic, and private
+7 sector partners; and
+8 (4) develop recommendations to improve incident reporting, emergency
+9 response, transparency, and scientific analysis.
+10 (d) Membership. The Task Force shall be composed of the following 10
+11 members:
+12 (1) the Commissioner of Public Safety or designee, who shall serve as
+13 Co-Chair;
+14 (2) the Secretary of Transportation or designee, who shall serve as Co-
+15 Chair;
+16 (3) one member of the House of Representatives, appointed by the
+17 Speaker of the House;
+18 (4) one member of the Senate, appointed by the Committee on
+19 Committees;
+20 (5) a representative of the Vermont National Guard, appointed by the
+21 Adjutant General;
+VT LEG #386315 v.1
+
+BILL AS INTRODUCED H.654
+2026 Page 5 of 9
+1 (6) a representative of the Vermont Bureau of Criminal Investigation,
+2 appointed by the Governor in consultation with the Commissioner of Public
+3 Safety;
+4 (7) a representative of the Vermont airport system or general aviation
+5 operations, appointed by the Governor in consultation with the Secretary of
+6 Transportation;
+7 (8) one academic expert in aerospace or atmospheric science, appointed
+8 by the Governor;
+9 (9) one independent expert in radar or sensor systems, appointed by the
+10 Governor; and
+11 (10) a representative of the Vermont Intelligence Center, appointed by
+12 the Commissioner of Public Safety.
+13 (e) Technical assistance. The Task Force shall have the scientific and
+14 technical assistance of SCU. SCU shall serve as the principal scientific analyst
+15 for data and evidence related to unidentified anomalous phenomena. SCU may
+16 receive incident reports and related information from State agencies, apply
+17 scientific methodologies to analyze the data, and furnish the Task Force with
+18 detailed analytical reports and findings. All analyses, conclusions, and
+19 hypotheses developed by SCU under this subsection shall be submitted to the
+20 Task Force for review and approval. The Task Force shall retain ultimate
+21 authority over the use of any analytical results in policy development or public
+VT LEG #386315 v.1
+
+BILL AS INTRODUCED H.654
+2026 Page 6 of 9
+1 communications. SCU’s work shall be conducted pursuant to guidelines
+2 established by the Task Force to ensure scientific integrity, objectivity, and
+3 consistency with State investigative standards.
+4 (f) Powers and duties. The Task Force shall:
+5 (1) review and analyze reports of unidentified anomalous phenomena
+6 activity in Vermont;
+7 (2) collaborate with federal, academic, and private sector partners to
+8 improve information sharing and data consistency;
+9 (3) develop best practices for voluntary reporting, secure data storage,
+10 and analysis;
+11 (4) assess aviation and public safety risks posed by unidentified aerial
+12 objects, including unregistered drones or other anomalous craft, and
+13 recommend procedures for incident response, pilot reporting, and emergency
+14 coordination;
+15 (5) hold at least one public meeting annually to share information and
+16 collect input; and
+17 (6) submit an annual report with findings and recommendations
+18 pursuant to subsection (i) of this section.
+19 (g) Administrative support. The Department of Public Safety and the
+20 Agency of Transportation shall provide administrative, technical, and legal
+21 support to the Task Force as needed. This may include staff assistance,
+VT LEG #386315 v.1
+
+BILL AS INTRODUCED H.654
+2026 Page 7 of 9
+1 meeting logistics, public communications, and coordination with other state or
+2 federal entities. The Task Force may also request support from other
+3 departments or agencies as necessary to carry out its responsibilities.
+4 (h) Transparency and public access.
+5 (1) The Task Force shall maintain a public web page hosted by the
+6 Department of Public Safety containing notices of upcoming meetings,
+7 meeting minutes, and any nonconfidential materials.
+8 (2) A confidential, voluntary reporting process for unidentified
+9 anomalous phenomena sightings by Vermont residents or officials may be
+10 developed in consultation with SCU and the Department of Public Safety.
+11 (3) Reports, data, and findings shall be made publicly available, subject
+12 to State and federal privacy or security restrictions.
+13 (4) All confidential reports shall be retained in a secure system
+14 maintained by the Department of Public Safety or a designated technical
+15 partner.
+16 (i) Reports. Annually on or before December 15, the Task Force shall
+17 submit a written report to the Governor, the House Committees on
+18 Transportation and on Government Operations and Military Affairs, and the
+19 Senate Committees on Transportation and on Government Operations. The
+20 report shall include:
+VT LEG #386315 v.1
+
+BILL AS INTRODUCED H.654
+2026 Page 8 of 9
+1 (1) a summary of activities and findings of the Task Force during the
+2 previous year;
+3 (2) any recommendations for legislative or administrative action to
+4 enhance public and aviation safety potentially affected by documented
+5 unidentified anomalous phenomena activity; and
+6 (3) any recommendations for advancements in research collaboration
+7 between government, academic institutions, and private sector to improve
+8 detection, response, and analysis of unidentified anomalous phenomena.
+9 (j) Compensation and reimbursement.
+10 (1) For attendance at meetings during adjournment of the General
+11 Assembly, a legislative member of the Task Force serving in the member’s
+12 capacity as a legislator shall be entitled to per diem compensation and
+13 reimbursement of expenses pursuant to 2 V.S.A. § 23 for not more than 12
+14 meetings. These payments shall be made from monies appropriated to the
+15 General Assembly.
+16 (2) Other members of the Task Force shall be entitled to per diem
+17 compensation and reimbursement of expenses as permitted under 32 V.S.A.
+18 § 1010 for not more than 12 meetings. These payments shall be made from
+19 monies appropriated to the Department of Public Safety.
+20 (k) FAA jurisdiction. Nothing in this section shall be construed to
+21 supersede or conflict with the jurisdiction of the Federal Aviation
+VT LEG #386315 v.1
+
+BILL AS INTRODUCED H.654
+2026 Page 9 of 9
+1 Administration over airspace and aviation safety. The Task Force shall not
+2 promulgate or enforce air safety regulations but may make policy
+3 recommendations relevant to state coordination and public information.
+4 Sec. 3. EFFECTIVE DATE
+5 This act shall take effect on July 1, 2026.
+VT LEG #386315 v.1

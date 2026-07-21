@@ -1,0 +1,828 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.944
+2026 Page 1 of 34
+1 H.944
+2 Introduced by Committee on Transportation
+3 Date:
+4 Subject: Transportation; annual Transportation Program; Municipal Equipment
+5 and Vehicle Loan Fund; Agency of Transportation; State highway
+6 design standards; bonding; bridge inspections; Public Transit
+7 Advisory Council; Green Mountain Transit Authority; public private
+8 partnerships; Transportation Board; Transportation Alternatives Grant
+9 Program; speed limits; Drive Electric Vermont; Caledonia County
+10 State Airport
+11 Statement of purpose of bill as introduced: This bill proposes to adopt the
+12 State’s annual Transportation Program and make miscellaneous changes to the
+13 laws relating to transportation.
+14 An act relating to the fiscal year 2027 Transportation Program and
+15 miscellaneous changes to laws related to transportation
+16 It is hereby enacted by the General Assembly of the State of Vermont:
+17 * * * Transportation Program Adopted as Amended; Definitions * * *
+18 Sec. 1. TRANSPORTATION PROGRAM ADOPTED; DEFINITIONS
+19 (a) Adoption. The Agency of Transportation’s Proposed Fiscal Year 2027
+20 Transportation Program appended to the Agency of Transportation’s proposed
+VT LEG #386920 v.6
+
+BILL AS INTRODUCED H.944
+2026 Page 2 of 34
+1 fiscal year 2027 budget, as amended by this act, is adopted to the extent
+2 federal, State, and local funds are available.
+3 (b) Definitions. As used in this act, unless otherwise indicated:
+4 (1) “Agency” means the Agency of Transportation.
+5 (2) “Candidate project” means a project approved by the General
+6 Assembly that is not anticipated to have significant expenditures for
+7 preliminary engineering or right-of-way expenditures, or both, during the
+8 budget year and funding for construction is not anticipated within a predictable
+9 time frame.
+10 (3) “Development and evaluation (D&E) project” means a project
+11 approved by the General Assembly that is anticipated to have preliminary
+12 engineering expenditures or right-of-way expenditures, or both, during the
+13 budget year and that the Agency is committed to delivering to construction on
+14 a timeline driven by priority and available funding.
+15 (4) “Electric vehicle supply equipment (EVSE)” and “electric vehicle
+16 supply equipment available to the public” have the same meanings as in
+17 30 V.S.A. § 201.
+18 (5) “Front-of-book project” means a project approved by the General
+19 Assembly that is anticipated to have construction expenditures during the
+20 budget year or the following three years, or both, with expected expenditures
+21 shown over four years.
+VT LEG #386920 v.6
+
+BILL AS INTRODUCED H.944
+2026 Page 3 of 34
+1 (6) “Plug-in electric vehicle (PEV),” “plug-in hybrid electric vehicle
+2 (PHEV),” and “battery electric vehicle (BEV)” have the same meanings as in
+3 23 V.S.A. § 4(85).
+4 (7) “Secretary” means the Secretary of Transportation.
+5 (8) “TIB funds” means monies deposited in the Transportation
+6 Infrastructure Bond Fund in accordance with 19 V.S.A. § 11f.
+7 (9) The table heading “As Proposed” means the Proposed
+8 Transportation Program referenced in subsection (a) of this section; the table
+9 heading “As Amended” means the amendments as made by this act; the table
+10 heading “Change” means the difference obtained by subtracting the “As
+11 Proposed” figure from the “As Amended” figure; the terms “change” or
+12 “changes” in the text refer to the project- and program-specific amendments,
+13 the aggregate sum of which equals the net “Change” in the applicable table
+14 heading; and “State” in any tables amending authorizations indicates that the
+15 source of funds is State monies in the Transportation Fund, unless otherwise
+16 specified.
+17 * * * Repeal of Municipal Equipment and Vehicle Loan Fund Rules * * *
+18 Sec. 2. RULES REGARDING MUNICIPAL HEAVY EQUIPMENT LOAN
+19 FUND; REPEAL
+20 The Rules Regarding Municipal Heavy Equipment Loan Fund (CVR 14-
+21 053-002) are repealed. The Municipal Equipment and Vehicle Loan Fund, as
+VT LEG #386920 v.6
+
+BILL AS INTRODUCED H.944
+2026 Page 4 of 34
+1 the successor to the Municipal Heavy Equipment Loan Fund, shall be
+2 administered as provided pursuant to 29 V.S.A. § 1601.
+3 * * * Statement of Policy; Highways and Bridges * * *
+4 Sec. 3. 19 V.S.A. § 10c is amended to read:
+5 § 10c. STATEMENT OF POLICY; HIGHWAYS AND BRIDGES
+6 * * *
+7 (b) For projects that are not on the National Highway System, the Agency
+8 shall develop and implement maintain State standards and guidance for
+9 geometric design. Design speeds may be lower than legal speeds. Design
+10 speeds lower than legal speeds may be used without the requirement of a
+11 formal design exception, provided appropriate warnings are posted if
+12 appropriate warning signs, signals, and markings are used as provided pursuant
+13 to 23 V.S.A. § 1025.
+14 * * *
+15 * * * Agency of Transportation Duties * * *
+16 Sec. 4. 19 V.S.A. § 10 is amended to read:
+17 § 10. DUTIES
+18 The Agency shall, except where otherwise specifically provided by law:
+19 * * *
+20 (8)(A) Require any contractor or contractors employed in any project of
+21 the Agency for construction of a transportation improvement to file in the
+VT LEG #386920 v.6
+
+BILL AS INTRODUCED H.944
+2026 Page 5 of 34
+1 office of the Secretary a good and sufficient surety bond to the State of
+2 Vermont, executed by a surety company authorized to transact business in this
+3 State in such the sum as required by the Agency shall direct, conditioned for
+4 the compliance by the contractor or contractors and their agents and servants,
+5 with all matters and things set forth and specified to be by the principal kept,
+6 done, and performed at the time and in the manner in the contract between the
+7 Agency and the contractor or contractors specified and to pay over, make
+8 good, and reimburse the State of Vermont for all loss or losses and damage or
+9 damages that the State of Vermont may sustain by reason of failure or default
+10 on the part of the contractor or contractors. The Agency is authorized to
+11 require any other condition in the bond that may from time to time be
+12 necessary. The Secretary at his or her discretion as to, as the Secretary
+13 determines is in the best interest of the State, may accept other good and
+14 sufficient surety in lieu of a bond and, in cases involving contracts for
+15 $100,000.00 $250,000.00 or less, may waive the requirement of a performance
+16 bond.
+17 (B) During an emergency event, the Secretary may, in the Secretary’s
+18 discretion, waive the bonding requirements of this subdivision (8) for
+19 immediate, temporary stabilization work related to public safety or State
+20 infrastructure. Permanent work shall be subject to the requirements of
+21 subdivision (A) of this subdivision (8).
+VT LEG #386920 v.6
+
+BILL AS INTRODUCED H.944
+2026 Page 6 of 34
+1 (9)(A) Require any contractor or contractors employed in any project of
+2 the Agency for construction of a transportation improvement to file an
+3 additional surety bond to the Secretary and the Secretary’s successor in office,
+4 for the benefit of labor, materialmen, and others, executed by a surety company
+5 authorized to transact business in this State. The surety bond shall be in such
+6 the sum as required by the Agency shall direct, conditioned for the payment,
+7 settlement, liquidation, and discharge of the claims of all creditors for
+8 material,; merchandise,; labor,; rent,; hire of vehicles, power shovels, rollers,
+9 concrete mixers, tools, and other appliances,; professional services,;
+10 premiums,; and other services used or employed in carrying out the terms of
+11 the contract between the contractor and the State and. The surety bond shall be
+12 further conditioned for the following accruing during the term of performance
+13 of the contract: the payment of taxes, both State and municipal, and the
+14 payment of unemployment insurance contributions to the Vermont
+15 Commissioner of Labor; provided, however, in.
+16 (B) In order to obtain the benefit of the security, the claimant shall
+17 file with the Secretary a sworn statement of the claimant’s claim, within 90
+18 days after the final acceptance of the project by the State or within 90 days
+19 from the time the taxes or unemployment contributions to the Vermont
+20 Commissioner of Labor are due and payable, and, within one year after the
+21 filing of the claim, shall bring a petition in the Superior Court in the name of
+VT LEG #386920 v.6
+
+BILL AS INTRODUCED H.944
+2026 Page 7 of 34
+1 the Secretary, with notice and summons to the principal, surety, and the
+2 Secretary, to enforce the claim or intervene in a petition already filed. The
+3 Secretary may, if the Secretary determines that it is in the best interests of the
+4 State, accept other good and sufficient surety in lieu of a bond and, in cases
+5 involving contracts for $100,000.00 $250,000.00 or less, may waive the
+6 requirement of a surety bond.
+7 (C) During an emergency event, the Secretary may, in the Secretary’s
+8 discretion, waive the requirements of this subdivision (9) for immediate
+9 emergency stabilization work related to public safety or State infrastructure.
+10 Permanent work shall be subject to the requirements of subdivision (A) of this
+11 subdivision (9).
+12 * * *
+13 * * * Bridge Inspections; Posting; Closure * * *
+14 Sec. 5. 19 V.S.A. § 1514 is added to read:
+15 § 1514. BRIDGE INSPECTION; POSTING; CLOSURE
+16 (a) Definition. As used in this section, “bridge” means a structure to which
+17 the National Bridge Inspection Standards apply pursuant to 23 C.F.R.
+18 § 650.303.
+19 (b) Bridge inspections. The Agency shall inspect bridges on State
+20 highways and town highways in accordance with the requirements of the
+21 National Bridge Inspection Standards.
+VT LEG #386920 v.6
+
+BILL AS INTRODUCED H.944
+2026 Page 8 of 34
+1 (c) Municipally maintained bridges.
+2 (1) For a bridge for which a municipality has maintenance
+3 responsibility, the Agency shall advise the municipality of its inspection
+4 findings and any noted deficiencies.
+5 (2) The Agency shall notify a municipality if a bridge for which the
+6 municipality has maintenance responsibility requires posting or closure and,
+7 upon receiving notification, the municipality shall post or close the bridge, as
+8 appropriate.
+9 (3) If necessary to protect the public from an imminent hazard, the
+10 Agency may post or close a bridge for which a municipality has maintenance
+11 responsibility.
+12 (4) A municipality shall be responsible for all costs and expenses related
+13 to the posting or closure of a bridge for which it has maintenance
+14 responsibilities, including the costs of any required notifications, procedures,
+15 signage or traffic control devices, and barricades.
+16 (d) Agency-maintained bridges.
+17 (1) For any bridge for which the Agency has maintenance responsibility,
+18 the Agency shall have the sole responsibility and authority to determine
+19 whether the bridge shall be posted or closed, except that a municipality may
+20 close an Agency-maintained bridge during an emergency.
+VT LEG #386920 v.6
+
+BILL AS INTRODUCED H.944
+2026 Page 9 of 34
+1 (2) If a municipality becomes aware of any deficiencies or structural
+2 conditions that could impact the Agency’s determination of whether to post or
+3 close a bridge, the municipality shall promptly notify the Agency.
+4 (3) The Agency shall be responsible for all costs associated with posting
+5 or closing an Agency-maintained bridge, including any required notifications,
+6 procedures, signage or traffic control devices, and barricades.
+7 (e) Enforcement and penalties. In addition to any other penalties provided
+8 by law, a person that violates a bridge posting or closure by a municipality or
+9 the Agency shall be subject to a civil penalty of not more than $1,000.00.
+10 Sec. 6. 23 V.S.A. § 2302 is amended to read:
+11 § 2302. TRAFFIC VIOLATION DEFINED
+12 (a) As used in this chapter, “traffic violation” means:
+13 * * *
+14 (11) a violation of subsection 1006b(b) of this title, relating to operation
+15 of a prohibited vehicle in Smugglers’ Notch; section 1006c of this title, relating
+16 to requirements for use of tire chains; or subsections 4120(a) and (b) of this
+17 title, relating to violations of an out-of-service order; or
+18 (12) a violation of section 4123 of this title, relating to authorizing
+19 railroad crossing violations; or
+20 (13) a violation of 19 V.S.A. § 1514, relating to use of a bridge in
+21 violation of a posting or closure.
+VT LEG #386920 v.6
+
+BILL AS INTRODUCED H.944
+2026 Page 10 of 34
+1 * * *
+2 * * * Public Transit Advisory Council * * *
+3 Sec. 7. 24 V.S.A. § 5084 is amended to read:
+4 § 5084. PUBLIC TRANSIT ADVISORY COUNCIL
+5 (a) The Public Transit Advisory Council shall be created by the Secretary
+6 of Transportation under 19 V.S.A. § 7(f)(5), to and shall consist of the
+7 following members:
+8 * * *
+9 (8) a representative of the Community of Vermont Elders AARP
+10 Vermont;
+11 (9) a representative of private bus operators and taxi services;
+12 [Repealed.]
+13 (10) a representative of Vermont intercity private bus operators;
+14 * * *
+15 * * * Green Mountain Transit Authority * * *
+16 Sec. 8. 24 App. V.S.A. ch. 801, § 7 is amended to read:
+17 § 7. Annual budget and assessments
+18 (a) On or before February 15 in each year, the Board of Commissioners
+19 shall prepare a budget for the Authority for the next fiscal year, which shall
+20 include an estimate of the revenue of the Authority from fares and other
+21 sources, except membership assessments, and the expenses for the next fiscal
+VT LEG #386920 v.6
+
+BILL AS INTRODUCED H.944
+2026 Page 11 of 34
+1 year, including debt service, and at such time the Board of Commissioners
+2 shall call a meeting of the residents of its members for the purpose of
+3 presenting the proposed budget and inviting discussion thereon. The meeting
+4 shall be held at a place within the County and shall be warned by a notice
+5 published in a newspaper of general circulation in the County at least 15 days
+6 prior to the meeting. The notice shall contain a copy of the proposed budget,
+7 and members of the legislative body of each member municipality shall be
+8 notified of the meeting by certified mail. The proposed budget may include, in
+9 addition to revenues from fares and other sources, anticipated voluntary local
+10 match contributions, grants, donations, and other nonassessment revenues that
+11 may be offered by a member municipality or another public or private source.
+12 * * *
+13 (f)(1) The Authority shall be permitted to seek and accept voluntary local
+14 match contributions.
+15 (2) Notwithstanding the formula for apportionment, the Authority may
+16 accept voluntary local match contributions from a member municipality or
+17 another public or private source for the purposes of:
+18 (A) meeting federal, State, or other grant matching requirements; and
+19 (B) supporting Authority programs, capital projects, and operations.
+20 (3) A voluntary local match contribution accepted pursuant to this
+21 subsection shall be in addition to any assessment required pursuant to this
+VT LEG #386920 v.6
+
+BILL AS INTRODUCED H.944
+2026 Page 12 of 34
+1 section and shall not reduce, offset, or otherwise modify the assessment
+2 apportioned to any member municipality pursuant to the formula for
+3 apportionment unless the formula is amended in accordance with the
+4 provisions of this section.
+5 * * * Public-Private Partnership Sunset Extension * * *
+6 Sec. 9. 2018 Acts and Resolves No. 158, Sec. 21 as amended by 2023 Acts
+7 and Resolves No. 62, Sec. 41 is further amended to read:
+8 Sec. 21. REPEAL OF TRANSPORTATION P3 AUTHORITY
+9 19 V.S.A. chapter 26, subchapter 2 shall be repealed on July 1, 2026 2029.
+10 * * * Transportation Board * * *
+11 Sec. 10. 19 V.S.A. § 5 is amended to read:
+12 § 5. TRANSPORTATION BOARD; POWERS AND DUTIES
+13 * * *
+14 (d) Specific duties and responsibilities. The Board shall:
+15 * * *
+16 (7) provide appellate review, when requested in writing by an applicant
+17 or permittee, of Agency decisions and rulings regarding private and
+18 commercial access to State highway rights-of-way pursuant to the permit
+19 process established in section 1111 of this title;
+20 * * *
+VT LEG #386920 v.6
+
+BILL AS INTRODUCED H.944
+2026 Page 13 of 34
+1 * * * Transportation Alternatives Grant Program * * *
+2 Sec. 11. 19 V.S.A. § 38 is amended to read:
+3 § 38. TRANSPORTATION ALTERNATIVES GRANT PROGRAM
+4 (a), (b) [Repealed.]
+5 (c) The Transportation Alternatives Grant Program is created. The Grant
+6 Program shall be administered by the Agency and shall be funded in the
+7 amount provided for in 23 U.S.C. § 133(h), less the funds set aside for the
+8 Recreational Trails Program. Awards shall be made to eligible entities as
+9 defined under 23 U.S.C. § 133(h), and awards under the Grant Program shall
+10 be limited to the activities authorized under federal law and shall not exceed
+11 $300,000.00 $600,000.00 per grant allocation.
+12 * * *
+13 (f)(1) In fiscal year 2024 2027 and thereafter, 50 percent of Grant Program
+14 funds, or such lesser sum if all eligible applications amount to less than 50
+15 percent of Grant Program funds, shall be reserved for municipalities for
+16 environmental mitigation projects relating to stormwater and highways,
+17 including eligible salt and sand shed projects, and the balance of Grant
+18 Program funds shall be awarded for any eligible activity, including
+19 environmental mitigation projects relating to stormwater and highways, such
+20 as eligible salt and sand shed projects, and infrastructure-related projects and
+VT LEG #386920 v.6
+
+BILL AS INTRODUCED H.944
+2026 Page 14 of 34
+1 systems that will provide safe routes for nondrivers, and in accordance with the
+2 priorities established in subdivision (2) of this subsection.
+3 * * *
+4 Sec. 12. 2023 Acts and Resolves No. 62, Sec. 11 is amended to read:
+5 Sec. 11. TRANSPORTATION ALTERNATIVES GRANT PROGRAM
+6 AWARDS IN STATE FISCAL YEARS 2024 TO 2027
+7 Notwithstanding 19 V.S.A. § 38(c), Transportation Alternatives Grant
+8 Program awards in State fiscal years 2024 to 2027 2026 shall not exceed
+9 $600,000.00 per grant allocation. Notwithstanding 19 V.S.A. § 38(c),
+10 Transportation Alternatives Grant Program awards in State fiscal year 2027
+11 shall not exceed $1,200,000.00 per grant allocation.
+12 * * * Consultation Regarding Municipal Programs * * *
+13 Sec. 13. MUNICIPAL TRANSPORTATION PROGRAMS; ONGOING
+14 EVALUATION; IDENTIFICATION OF IMPROVEMENTS
+15 (a) In addition to ongoing work pursuant to 2025 Acts and Resolves No.
+16 43, Sec. 15, the Agency of Transportation, in consultation with the Vermont
+17 League of Cities and Towns and the Vermont Association of Planning and
+18 Development Agencies, shall:
+19 (1) continue examining the requirements of 19 V.S.A. § 309c,
+20 cancellation of locally managed projects, as set forth in 2024 Acts and
+21 Resolves No. 43, Sec. 14, to evaluate the obligations, risks, and benefits
+VT LEG #386920 v.6
+
+BILL AS INTRODUCED H.944
+2026 Page 15 of 34
+1 imposed by the provisions of that section on the State and the local sponsor of
+2 a locally managed project and to identify potential changes to the provisions of
+3 that section to ensure that State and federal transportation funding resources
+4 are appropriately administered;
+5 (2) continue evaluating the State’s Town Highway Aid and municipal
+6 grant programs administered by the Agency, as set forth in 2024 Acts and
+7 Resolves No. 43, Sec. 16, to identify potential efficiencies and improvements
+8 related to the administration of Town Highway Aid and municipal grant
+9 programs; and
+10 (3)(A) examine the provisions in the Vermont statutes related to the
+11 procedures for establishing speed limits; and
+12 (B) identify potential opportunities to simplify and clarify those
+13 provisions to assist municipalities in meeting local needs, including safety and
+14 context sensitivity.
+15 (b) The Agency shall, on or before January 15, 2027, submit to the House
+16 and Senate Committees on Transportation any recommendations for legislative
+17 action.
+18 * * * PILOT Special Fund * * *
+19 Sec. 14. 32 V.S.A. § 3709 is amended to read:
+20 § 3709. PILOT SPECIAL FUND
+VT LEG #386920 v.6
+
+BILL AS INTRODUCED H.944
+2026 Page 16 of 34
+1 (a) There is hereby established a PILOT Special Fund consisting of local
+2 option tax revenues paid to the State Treasurer pursuant to 24 V.S.A. § 138.
+3 This Fund shall be managed by the Commissioner of Taxes pursuant to chapter
+4 7, subchapter 5 of this title. Notwithstanding subdivision 588(3) of this title,
+5 all interest earned on the Fund shall be retained in the Fund for use in meeting
+6 future obligations. The Fund shall be exclusively for payments required under
+7 chapter 123, subchapters 4 and 4C of this title chapter, and for any additional
+8 State payments in lieu of taxes for correctional facilities, and as provided in
+9 subsection (c) of this section. The Commissioner of Finance and Management
+10 may draw warrants for disbursements from this Fund in anticipation of
+11 receipts.
+12 * * *
+13 (c) If the local option tax revenues deposited in the PILOT Special Fund
+14 pursuant to 24 V.S.A. § 138 in any State fiscal year exceed the full amount of
+15 all payments made under subchapters 4 and 4C of this chapter plus any
+16 amounts appropriated from the PILOT Special Fund to the Department of
+17 Taxes for expenses related to grand list and appraisal assistance, one-half of
+18 the excess amount shall be transferred to the Transportation Fund in the next
+19 fiscal year and allocated to general State aid for town highways as provided
+20 pursuant to 19 V.S.A. § 306(a).
+VT LEG #386920 v.6
+
+BILL AS INTRODUCED H.944
+2026 Page 17 of 34
+1 Sec. 15. 19 V.S.A. § 306 is amended to read:
+2 § 306. APPROPRIATION; STATE AID FOR TOWN HIGHWAYS
+3 (a) General State aid to town highways.
+4 * * *
+5 (4)(A) In addition to the amounts appropriated pursuant to subdivision
+6 (1) of this subsection (a), amounts transferred to the Transportation Fund from
+7 the PILOT Special Fund pursuant to 32 V.S.A. § 3709(c) shall be appropriated
+8 for class 1, 2, and 3 town highways and shall be apportioned, distributed, and
+9 used in the same manner as provided pursuant to subdivision (3) of this
+10 subsection (a).
+11 (B) Amounts appropriated pursuant to this subdivision (4) shall not
+12 decrease the amount appropriated pursuant to subdivision (1) of this subsection
+13 (a) or be subject to the annual inflationary adjustment provided for in
+14 subdivisions (1) and (2) of this subsection (a).
+15 * * *
+16 * * * Drive Electric Vermont * * *
+17 Sec. 16. DRIVE ELECTRIC VERMONT; APPROPRIATION
+18 In State fiscal year 2027, the sum of $192,000.00 is appropriated from the
+19 Transportation Fund to the Agency of Transportation to support the
+20 continuation of the Agency’s partnership with Drive Electric Vermont. The
+VT LEG #386920 v.6
+
+BILL AS INTRODUCED H.944
+2026 Page 18 of 34
+1 monies shall be used for programs and activities that support increased
+2 ownership and use of plug-in electric vehicles in the State through:
+3 (1) stakeholder coordination;
+4 (2) consumer education and outreach;
+5 (3) infrastructure development; and
+6 (4) the provision of technical assistance and support to Vermont
+7 municipalities and Vermont businesses desiring to electrify their vehicle fleets.
+8 * * * Caledonia County State Airport * * *
+9 Sec. 17. 2023 Acts and Resolves No. 62, Sec. 8 is amended to read:
+10 Sec. 8. SALE OR LEASE OF CALEDONIA COUNTY STATE
+11 AIRPORT
+12 (a)(1) The Agency of Transportation is authorized to issue a request for
+13 proposals for the purchase or lease of the Caledonia County State Airport,
+14 located in the Town of Lyndon, and the Agency shall consult with the Town of
+15 Lyndon on any requests for proposals related to the purchase or lease of the
+16 Airport prior to the issuance of any requests for proposals related to the
+17 purchase or lease of the Airport.
+18 (2) The request for proposal shall include a request for a business plan,
+19 which shall, at a minimum, include the prospective purchaser’s or lessor’s
+20 plans for investments in the Airport and the surrounding communities and may
+VT LEG #386920 v.6
+
+BILL AS INTRODUCED H.944
+2026 Page 19 of 34
+1 include plans for partnerships with secondary and post-secondary institutions
+2 in the surrounding communities.
+3 (b) Subject to obtaining any necessary approvals from the U.S. Federal
+4 Aviation Administration, the Vermont Secretary of Transportation, as agent for
+5 the State, is authorized to convey the Airport property by warranty deed
+6 according to the terms of a purchase and sale agreement or through a long-term
+7 lease.
+8 (c) Any such conveyance shall:
+9 (1) include assignment of the State’s interest in easements, leases,
+10 licenses, and other agreements pertaining to the Airport and the acceptance of
+11 the State’s obligations under such easements, leases, licenses, and other
+12 agreements that requires, at a minimum, that any leases and terms of leases that
+13 are in effect at the time of the conveyance of the Airport are fully honored for
+14 the balance of the lease term;
+15 (2) ensure that there are investments in the Airport to address current
+16 deficiencies and necessary repairs;
+17 (3) ensure that the Airport continues to be a public-use airport and that
+18 the public continues to have access to the Airport for general aviation uses in
+19 perpetuity;
+VT LEG #386920 v.6
+
+BILL AS INTRODUCED H.944
+2026 Page 20 of 34
+1 (4) ensure that the Airport continues to be identified as a public-use
+2 airport within the National Plan of Integrated Airport Systems until at least
+3 2050, subject to federal determination;
+4 (5) include, if the Airport is conveyed through a purchase and sale
+5 agreement, a six-month right of first refusal, running from the date that the
+6 owner of the Airport provides notice to the State of an intent to sell the Airport,
+7 for the State to repurchase the Airport at fair market value before the Airport is
+8 resold or transferred to a new owner; and
+9 (6)(5) include, if the Airport is leased, that the lease cannot be either
+10 assigned or the lessor cannot sub-lease all or substantially all of the Airport
+11 without the written approval of the Vermont Secretary of Transportation.
+12 (d) The Agency shall not proceed with a sale or lease of the Airport unless:
+13 (1) there is a fair market value offer, as required under 19 V.S.A.
+14 § 10k(b) or 26a(a), that meets the requirements of subsection (c) of this
+15 section; and
+16 (2) the Town of Lyndon is given the opportunity to review and comment
+17 on the final purchase and sale agreement or lease as applicable.
+18 (e) This section shall constitute specific prior approval, including of any
+19 sale or lease terms, by the General Assembly for purposes of 5 V.S.A. § 204.
+VT LEG #386920 v.6
+
+BILL AS INTRODUCED H.944
+2026 Page 21 of 34
+1 Sec. 18. 2023 Acts and Resolves No. 62, Sec. 9 is amended to read:
+2 Sec. 9. REPEAL OF AUTHORITY FOR SALE OR LEASE OF
+3 CALEDONIA COUNTY STATE AIRPORT
+4 Sec. 8 of this act shall be repealed on May 1, 2026 November 1, 2027.
+5 * * * Mileage-Based User Fee * * *
+6 Sec. 19. 23 V.S.A. chapter 43 is added to read:
+7 CHAPTER 43. MILEAGE-BASED USER FEE
+8 § 4301. PURPOSE
+9 The purpose of this chapter is to impose a mileage-based user fee for battery
+10 electric vehicle pleasure cars to ensure that battery electric vehicles contribute
+11 to the Transportation Fund in an amount that reflects the annual miles traveled
+12 by each vehicle.
+13 § 4302. DEFINITIONS
+14 As used in this chapter:
+15 (1) “Account manager” means a person that the Agency of
+16 Transportation or Department of Motor Vehicles contracts with to administer
+17 and manage the mileage-based user fee.
+18 (2) “Annual vehicle miles traveled” means the total number of miles that
+19 a BEV is driven during the mileage reporting period.
+20 (3) “BEV” means a battery electric vehicle pleasure car.
+VT LEG #386920 v.6
+
+BILL AS INTRODUCED H.944
+2026 Page 22 of 34
+1 (4) “Mileage-based user fee” means the fee charged for the annual
+2 vehicle miles traveled by a BEV pursuant to section 4303 of this chapter.
+3 (5) “Mileage-based user fee rate” means the per-mile usage fee charged
+4 to the owner or lessee of a BEV pursuant to section 4303 of this chapter.
+5 (6) “Mileage reporting period” means:
+6 (A) the time period between annual inspections; or
+7 (B) the time period between the most recent annual inspection and a
+8 terminating event.
+9 (7) “Terminating event” means any of the following:
+10 (A) the registering of a BEV that had been registered in Vermont in a
+11 different state;
+12 (B) a change in ownership or lesseeship of a BEV; or
+13 (C) the termination of a BEV’s registration.
+14 § 4303. MILEAGE-BASED USER FEE; ASSESSMENT; CALCULATION;
+15 PAYMENT; EXEMPTIONS
+16 (a) Annual mileage-based user fee.
+17 (1) Except as otherwise provided pursuant to subsections (b) and (c) of
+18 this section, the Commissioner shall, for each BEV registered in Vermont,
+19 calculate pursuant to subsection (d) of this section a mileage-based user fee
+20 within 14 days after the conclusion of the BEV’s mileage reporting period.
+VT LEG #386920 v.6
+
+BILL AS INTRODUCED H.944
+2026 Page 23 of 34
+1 (2) As soon as practicable after calculating the amount of the mileage-
+2 based user fee due for a BEV, the Commissioner shall mail to the registered
+3 owner or lessee of the BEV a statement of the amount of the mileage-based
+4 user fee assessed pursuant to this section.
+5 (3) Not more than 45 days after a mileage-based user fee assessment is
+6 mailed pursuant to subsection (a) of this section, the owner or lessee of the
+7 BEV shall:
+8 (A) remit the full amount of the mileage-based user fee to the
+9 Commissioner; or
+10 (B) enter into an agreement with the Commissioner to pay the
+11 amount of the mileage-based user fee in quarterly or monthly installments.
+12 (b) Pay-as-you-go option.
+13 (1) The Commissioner may, in the Commissioner’s sole discretion,
+14 establish a pay-as-you-go mileage-based user fee program that BEV owners
+15 and lessees may opt into in lieu of paying an annual mileage-based user fee
+16 pursuant to subsection (a) of this section.
+17 (2) Owners and lessees that opt into the pay-as-you-go mileage-based
+18 user fee program shall report the mileage shown on the odometer of the owner
+19 or lessee’s BEV at times and in a manner required by the Commissioner.
+20 (3) As soon as practicable after receiving the report, the Commissioner
+21 shall calculate pursuant to subsection (d) of this section the applicable mileage-
+VT LEG #386920 v.6
+
+BILL AS INTRODUCED H.944
+2026 Page 24 of 34
+1 based user fee due for the BEV and mail to the registered owner or lessee of
+2 the BEV a statement of the amount of the mileage-based user fee assessed.
+3 (4) The owner or lessee of the BEV shall remit the full amount due to
+4 the Commissioner within not more than 30 days after the assessment is mailed.
+5 (5)(A) At the conclusion of each mileage reporting period for a BEV
+6 enrolled in the pay-as-you-go mileage-based user fee program, the
+7 Commissioner shall determine if the actual miles traveled by the BEV during
+8 the mileage reporting period were greater than or less than the miles reported
+9 by the owner or lessee during that period.
+10 (B) If the actual mileage was less than the amount reported, the
+11 owner or lessee of the BEV shall receive a credit equal to the difference
+12 between the mileage reported and the actual miles traveled multiplied by the
+13 rate established pursuant to subsection (e) of this section. The credit shall be
+14 applied to reduce the next amount due from the owner or lessee pursuant to
+15 subdivision (3) of this subsection (b).
+16 (C) If the actual mileage was greater, the owner or lessee of the BEV
+17 shall be assessed an amount equal to the difference between actual miles
+18 traveled and the mileage reported multiplied by the rate established pursuant to
+19 subsection (e) of this section. That amount shall be added to the next amount
+20 due from the owner or lessee pursuant to subdivision (3) of this subsection (b).
+VT LEG #386920 v.6
+
+BILL AS INTRODUCED H.944
+2026 Page 25 of 34
+1 (c) Mileage-based user fee for newly registered vehicles.
+2 (1) The owner or lessee of a BEV that is being registered in Vermont for
+3 the first time may elect to opt into the pay-as-you-go mileage-based user fee
+4 program established pursuant to subsection (b) of this section, provided the
+5 Commissioner has made the program available to owners and lessees of BEVs.
+6 (2)(A) The owner or lessee of a BEV that is being registered in Vermont
+7 for the first time who does not opt into the pay-as-you-go mileage-based user
+8 fee program as provided in subdivision (1) of this subsection (c) shall be
+9 assessed upon registration of the BEV an estimated mileage-based user fee
+10 equal to the rate established pursuant to subsection (e) of this section
+11 multiplied by the average annual vehicle miles traveled by pleasure cars
+12 registered in Vermont.
+13 (B) The fee shall be paid as provided pursuant to subdivision (a)(3)
+14 of this section.
+15 (C)(i) Upon completion of the first mileage reporting period for the
+16 BEV, the Commissioner shall determine if the actual miles traveled by the
+17 BEV during the mileage reporting period were greater than or less than the
+18 mileage that the fee assessed pursuant to subdivision (A) of this subdivision
+19 (c)(2) was based on.
+20 (ii) If the actual mileage was less, the owner or lessee of the BEV
+21 shall receive a credit equal to the difference between the mileage that the fee
+VT LEG #386920 v.6
+
+BILL AS INTRODUCED H.944
+2026 Page 26 of 34
+1 assessed pursuant to subdivision (A) of this subdivision (c)(2) was based on
+2 and the actual miles traveled multiplied by the rate established pursuant to
+3 subsection (e) of this section. The credit shall be applied to reduce the amount
+4 of the next mileage-based user fee for the BEV that is assessed pursuant to
+5 subsection (a) or (b) of this section.
+6 (iii) If the actual mileage was greater, the owner or lessee of the
+7 BEV shall be assessed an amount equal to the difference between actual miles
+8 traveled and the mileage that the fee assessed pursuant to subdivision (A) of
+9 this subdivision (c)(2) was based on multiplied by the rate established pursuant
+10 to subsection (e) of this section. That amount shall be added to the amount of
+11 the next mileage-based user fee assessed for the BEV pursuant to subsection
+12 (a) or (b) of this section.
+13 (d) Calculation of the mileage-based user fee. The Commissioner shall
+14 calculate the mileage-based user fee of each BEV by multiplying the miles
+15 traveled by the BEV during the applicable period by the rate established
+16 pursuant to subsection (e) of this section. The number of miles traveled shall
+17 be equal to:
+18 (1) for a mileage reporting period, the difference between the mileage
+19 shown on the BEV’s odometer at the end of the mileage reporting period and
+20 the mileage shown on the BEV’s odometer at the beginning of the mileage
+21 reporting period; and
+VT LEG #386920 v.6
+
+BILL AS INTRODUCED H.944
+2026 Page 27 of 34
+1 (2) for a report filed by an owner or lessee as part of the pay-as-you-go
+2 mileage-based user fee program pursuant to subsection (b) of this section, the
+3 difference between the mileage reported by the owner or lessee and the most
+4 recent prior mileage reported for the BEV.
+5 (e) Mileage-based user fee rate. For mileage reporting periods
+6 commencing in calendar year 2027, the mileage-based user fee rate shall be
+7 $0.014 per mile traveled by a BEV during its mileage reporting period.
+8 (f) Exemptions. The mileage-based user fee assessed pursuant to this
+9 section shall not apply to BEVs owned or operated by the Government of the
+10 United States.
+11 (g) Fee in addition to other fees and taxes. A mileage-based user fee
+12 assessed pursuant to this section shall be in addition to any other fees and taxes
+13 imposed by this title.
+14 (h) Review of amount assessed. A person may, within 15 days after an
+15 assessment pursuant to subsections (a), (b), and (c) of this section, appeal the
+16 amount of the assessment to the Commissioner. The Commissioner shall
+17 establish procedures for filing and hearing appeals pursuant to this subsection
+18 that are consistent with the provisions of sections 105–107 of this title. The
+19 procedures shall include a process by which an appellant can resolve the
+20 dispute prior to the issuance of a final administrative decision on the appeal.
+VT LEG #386920 v.6
+
+BILL AS INTRODUCED H.944
+2026 Page 28 of 34
+1 (i) Refunds. Upon occurrence of a terminating event, the Commissioner
+2 shall issue a refund to the owner or lessee of a BEV for any amounts paid by
+3 the owner or lessee that are in excess of the amount due pursuant to this
+4 chapter.
+5 § 4304. REPORTS
+6 (a) Upon completion of an inspection of a BEV pursuant to section 1222 of
+7 this title, an inspection mechanic shall report the mileage shown on the BEV’s
+8 odometer to the Department in the manner required by the Commissioner.
+9 (b) Upon the occurrence of a terminating event, the owner or lessee of a
+10 BEV shall report the mileage shown on the BEV’s odometer at the time of the
+11 terminating event to the Department in the time and manner required by the
+12 Commissioner.
+13 § 4305. FAILURE TO PAY FEE WHEN DUE; INTEREST
+14 (a) Any person who fails to pay the mileage-based user fee when due shall
+15 owe, in addition to the mileage-based user fee, interest calculated at one and
+16 one-half percent per month on the amount of the mileage-based user fee that
+17 remains unpaid. The maximum amount of interest that may accrue pursuant to
+18 this subsection shall not exceed 18 percent of the amount of the unpaid fee.
+19 (b) The Commissioner may waive some or all of the interest and penalties
+20 required pursuant to subsection (a) of this section if the Commissioner
+21 determines that the delay in payment was due to excusable neglect.
+VT LEG #386920 v.6
+
+BILL AS INTRODUCED H.944
+2026 Page 29 of 34
+1 § 4306. FAILURE TO FILE REPORT; PENALTY RATE
+2 If the Commissioner is unable to determine the annual vehicle miles
+3 traveled for a BEV because a person failed to file a report required by section
+4 4304 of this chapter or failed to have the BEV inspected as required pursuant
+5 to section 1222 of this title within a reasonable period of time after the report
+6 or inspection is due, the Commissioner shall calculate the mileage-based user
+7 fee for the BEV based on the 98th percentile of the miles traveled by BEVs
+8 registered in Vermont during mileage reporting periods ending in the
+9 preceding calendar year.
+10 § 4307. REGISTRATION; SUSPENSION OR REFUSAL
+11 (a) Suspension of registration. The Commissioner may suspend or refuse
+12 to renew the registration of a BEV if the Commissioner determines, following
+13 notice and an opportunity for a hearing as provided pursuant to subsection (b)
+14 of this section, that the owner or lessee of the BEV:
+15 (1) failed to file a report required pursuant to section 4304 of this
+16 chapter;
+17 (2) filed a report containing an intentional misrepresentation,
+18 misstatement, or omission of material information required by this chapter; or
+19 (3) is delinquent at the time of renewal in the payment amount due
+20 pursuant to the provisions of this chapter.
+VT LEG #386920 v.6
+
+BILL AS INTRODUCED H.944
+2026 Page 30 of 34
+1 (b) Notice and opportunity for hearing. The Commissioner shall provide
+2 the owner or lessee of a BEV with not less than 15 days’ notice of the intent to
+3 suspend or not to renew the registration of the BEV pursuant to the provisions
+4 of this section. The owner or lessee shall be provided with the opportunity for
+5 a hearing and shall be permitted to be represented by counsel at the hearing.
+6 § 4308. POWERS OF THE COMMISSIONER
+7 (a) General authority. The Commissioner shall have the authority to
+8 administer and enforce the provisions of this chapter.
+9 (b) Additional powers. In addition to any powers or authority specifically
+10 granted to the Commissioner pursuant to the provisions of this chapter, the
+11 Commissioner may do the following:
+12 (1) Adopt rules pursuant to 3 V.S.A. chapter 25 as the Commissioner
+13 determines necessary to administer and enforce the provisions of this chapter.
+14 (2) Prescribe forms appropriate to the purposes of this chapter.
+15 (3) Contract with an account manager to administer and manage the
+16 mileage-based user fee.
+17 (4) With the approval of the Governor and Secretary, enter into
+18 agreements with other states, the District of Columbia, and Canadian
+19 provinces, providing for the reciprocal enforcement of mileage-based user fee
+20 or tax laws imposed by the jurisdictions entering into such an agreement,
+21 which agreement may empower a duly authorized officer of any contracting
+VT LEG #386920 v.6
+
+BILL AS INTRODUCED H.944
+2026 Page 31 of 34
+1 jurisdiction that extends such authority to officers or employees of this State, to
+2 sue for the collection of that state’s or province’s mileage-based user fee or
+3 taxes in the courts of this State.
+4 (5) Hold hearings, cause depositions to be taken, administer oaths, and
+5 examine under oath any person relating to any matter under this chapter.
+6 (6) Compel the attendance of witnesses and order the production of any
+7 relevant books, records, papers, accounts, or other documents of any person the
+8 Commissioner has reason to believe is liable for the payment of a mileage-
+9 based user fee or of any person believed to have information pertinent to any
+10 matter under investigation by the Commissioner at any hearing held under this
+11 chapter. The fees for travel and attendance of witnesses summoned or used by
+12 the Commissioner and fees for officers shall be the same as for witnesses and
+13 officers before a court and shall be paid by the State upon presentation of
+14 proper bills of cost to the Commissioner of Finance and Management, but no
+15 fees or expenses shall be payable to a witness charged with liability for
+16 reporting or paying a mileage-based user fee.
+17 (c) Examinations under oath. Any examination under oath conducted by
+18 the Commissioner may, at the Commissioner’s discretion, be reduced to
+19 writing, and intentional false testimony shall be deemed perjury and be
+20 punishable as such.
+VT LEG #386920 v.6
+
+BILL AS INTRODUCED H.944
+2026 Page 32 of 34
+1 (d) Compulsory process. Upon application of the Commissioner, a
+2 superior judge may compel the attendance of witnesses, the giving of
+3 testimony, and the production of any books, records, papers, vouchers,
+4 accounts, or documents before the Commissioner in the same manner, to the
+5 same extent, and subject to the same penalties as if before a Superior Court.
+6 § 4309. JUDICIAL REVIEW
+7 (a) Notice of appeal. An aggrieved person may appeal any final decision,
+8 order, or finding of the Commissioner under this chapter pursuant to Rule 74
+9 of the Vermont Rules of Civil Procedure. The appeal shall be to the
+10 Washington Superior Court or, in the discretion of the appellant, to the
+11 Superior Court in the county where the appellant resides or has a principal
+12 place of business.
+13 (b) Exclusivity of remedy. The appeal provided by this section shall be the
+14 exclusive remedy available to any person for review of a final decision of the
+15 Commissioner under this chapter.
+16 Sec. 20. 23 V.S.A. § 361 is amended to read:
+17 § 361. PLEASURE CARS
+18 * * *
+19 (c) In addition to the registration fee set forth in subsection (a) of this
+20 section, there shall be an annual EV infrastructure fee for a pleasure car that is
+21 a plug-in hybrid electric vehicle, as defined in subdivision 4(85)(B) of this
+VT LEG #386920 v.6
+
+BILL AS INTRODUCED H.944
+2026 Page 33 of 34
+1 title, equal to one-half the amount of the annual fee collected in subsection (a)
+2 of this section, or a biennial EV infrastructure fee equal to the annual fee
+3 collected in subsection (a) of this section.
+4 (d) The annual and biennial EV infrastructure fees collected in subsection
+5 (c) of this section shall be allocated to deposited in the Transportation Fund for
+6 programs administered by the Agency of Commerce and Community
+7 Development to increase Vermonters’ access to level 1 and 2 electric vehicle
+8 supply equipment (EVSE) charging ports at workplaces or multiunit dwellings,
+9 or both.
+10 Sec. 21. MILEAGE-BASED USER FEE; TRANSITION
+11 BEV pleasure cars that are registered in Vermont on December 31, 2026,
+12 shall transition to the mileage-based user fee established pursuant to 23 V.S.A.
+13 chapter 43 as follows:
+14 (1) The initial mileage reporting period for each BEV shall commence
+15 on its first annual inspection occurring on or after January 1, 2027.
+16 (2) The BEV shall receive a credit equal to $89.00 towards the amount
+17 of the mileage-based user fee due pursuant to 23 V.S.A. § 4303 for the initial
+18 mileage reporting period.
+VT LEG #386920 v.6
+
+BILL AS INTRODUCED H.944
+2026 Page 34 of 34
+1 Sec. 22. ALLOCATION OF FISCAL YEAR 2027 MILEAGE-BASED USER
+2 FEE REVENUES
+3 All net revenues generated by the mileage-based user fee in State fiscal year
+4 2027 shall be allocated to the appropriation for general State aid to town
+5 highways pursuant to 19 V.S.A. § 306(a) in State fiscal year 2028. The
+6 amounts allocated pursuant to this section shall be in addition to any amounts
+7 appropriated pursuant to the requirements of 19 V.S.A. § 306(a).
+8 * * * Effective Dates * * *
+9 Sec. 23. EFFECTIVE DATES
+10 (a) Secs. 19 (mileage-based user fee), 20 (infrastructure fee for PHEVs),
+11 21 (transition to mileage-based user fee), and 22 (allocation of fiscal year 2027
+12 mileage-based user fee revenues) shall take effect on January 1, 2027.
+13 (b) The remaining sections shall take effect on July 1, 2026.
+VT LEG #386920 v.6

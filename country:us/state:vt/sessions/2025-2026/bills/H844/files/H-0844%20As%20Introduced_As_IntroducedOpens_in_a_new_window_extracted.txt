@@ -1,0 +1,92 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.844
+2026 Page 1 of 4
+1 H.844
+2 Introduced by Representative Lueders of Lincoln
+3 Referred to Committee on
+4 Date:
+5 Subject: Utility tariffs; taxation; sales and use tax; sales tax exemptions; sales
+6 tax on fuel; surcharge; weatherization assistance
+7 Statement of purpose of bill as introduced: This bill proposes to disallow the
+8 owner of a property from using the sales and use tax exemption for certain
+9 fuels when the property has been used as a second home or short-term rental in
+10 the past 12 months. The bill further proposes to impose a surcharge on
+11 residential fuel sales to second homes and short-term rentals to help pay for
+12 weatherization assistance.
+13 An act relating to sales tax and a new surcharge paid on fuel by owners of
+14 short-term rental and second home properties
+15 It is hereby enacted by the General Assembly of the State of Vermont:
+16 Sec. 1. 32 V.S.A. § 9741(26) is amended to read:
+17 (26)(A) Sales of electricity, oil, gas, and other fuels used in a residence
+18 for all domestic use, including heating, but not including fuel sold at retail in
+19 free-standing containers, or sold as part of a transaction where a free-standing
+20 container is exchanged without a separate charge. Wood pellets sold to an
+VT LEG #386389 v.1
+
+BILL AS INTRODUCED H.844
+2026 Page 2 of 4
+1 individual on the vendor’s premises or delivered to an individual’s residence
+2 shall be presumed to be purchased for residential use and shall be exempt sales
+3 under this subdivision (26) unless the vendor knew or ought reasonably to have
+4 known that the wood pellets were not purchased for residential use. A
+5 certificate of exemption shall not be required for exempt retail sales of wood
+6 pellets to an individual. The Commissioner shall by rule determine that
+7 portion of the sales attributable to domestic use where fuels are used for
+8 purposes in addition to domestic use.
+9 (B) As used in this subdivision (26), “residence” means any
+10 residential property that has not:
+11 (i) had an occupancy subject to the short-term rental surcharge
+12 under section 9301 of this title in past 12 months; or
+13 (ii) been occupied by the owner for fewer than 183 days in the
+14 past 12 months.
+15 Sec. 2. 32 V.S.A. chapter 233, subchapter 5 is added to read:
+16 Subchapter 5. Residential Fuels Surcharge
+17 § 9821. SURCHARGE ON CERTAIN RESIDENTIAL FUEL
+18 TRANSACTIONS; IMPOSITION
+19 (a) A vendor shall collect a surcharge of three percent of the sales price
+20 charged for retail sales of electricity, oil, gas, and other fuels used in a
+VT LEG #386389 v.1
+
+BILL AS INTRODUCED H.844
+2026 Page 3 of 4
+1 residence for all domestic use, provided the sale is to a residential property that
+2 has:
+3 (1) had an occupancy subject to the short-term rental surcharge under
+4 section 9301 of this title in past 12 months; or
+5 (2) been occupied by the owner for fewer than 183 days in the past 12
+6 months.
+7 (b) All sales exempt from sales and use tax under subdivision 9741(26) of
+8 this chapter shall be exempt from the surcharge imposed under this section.
+9 (c) The surcharge shall be in addition to any tax assessed under section
+10 9771 of this chapter. The surcharge assessed under this section shall be paid,
+11 collected, remitted, and enforced under this chapter in the same manner as the
+12 sales tax assessed under section 9771 of this chapter.
+13 (d) Revenue from the surcharge imposed under this section shall be
+14 deposited in the Home Weatherization Assistance Fund under 33 V.S.A.
+15 § 2501.
+16 Sec. 3. 33 V.S.A. § 2501 is amended to read:
+17 § 2501. HOME WEATHERIZATION ASSISTANCE FUND
+18 * * *
+19 (b) The Fund shall be composed of the receipts from the gross receipts tax
+20 on retail sales of fuel imposed by section 2503 of this title, receipts from the
+21 surcharge on retail sales of certain residential fuels imposed by 32 V.S.A.
+VT LEG #386389 v.1
+
+BILL AS INTRODUCED H.844
+2026 Page 4 of 4
+1 § 9821, such funds as may be allocated from the Oil Overcharge Fund, such
+2 funds as may be allocated from the federal Low Income Energy Assistance
+3 Program, such funds as may be deposited or transferred into the Fund by the
+4 Vermont Low Income Trust for Electricity, and such other funds as may be
+5 appropriated by the General Assembly.
+6 * * *
+7 Sec. 4. EFFECTIVE DATE
+8 This act shall take effect on August 1, 2026.
+VT LEG #386389 v.1

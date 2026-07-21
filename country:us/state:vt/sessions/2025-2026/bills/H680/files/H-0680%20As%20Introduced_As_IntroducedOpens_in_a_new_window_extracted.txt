@@ -1,0 +1,368 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.680
+2026 Page 1 of 15
+1 H.680
+2 Introduced by Representatives Olson of Starksboro, Cole of Hartford,
+3 Garofano of Essex, Greer of Bennington, Keyser of Rutland
+4 City, Labor of Morgan, Masland of Thetford, McCann of
+5 Montpelier, and Yacovone of Morristown
+6 Referred to Committee on
+7 Date:
+8 Subject: Health; health care professionals; primary care; Agency of Human
+9 Services; Green Mountain Care Board
+10 Statement of purpose of bill as introduced: This bill proposes to establish a
+11 primary care access reform program in which participating primary care
+12 providers would receive a monthly payment from the patient’s health insurer or
+13 other payer for each participating patient that would cover the patient’s routine
+14 primary care services for the month without any cost-sharing requirements.
+15 The bill would require reports from the Agency of Human Services on
+16 expanding the program and from the Green Mountain Care Board on site-
+17 neutral reimbursements. The bill would also invest funds in primary care
+18 workforce development programs for fiscal year 2027 and eliminate the 2027
+19 sunset on a primary care physician scholarship program.
+20 An act relating to a primary care access reform program
+VT LEG #386171 v.1
+
+BILL AS INTRODUCED H.680
+2026 Page 2 of 15
+1 It is hereby enacted by the General Assembly of the State of Vermont:
+2 Sec. 1. FINDINGS; LEGISLATIVE INTENT
+3 (a) The General Assembly finds that:
+4 (1) Good access to primary care is essential for the health of Vermonters
+5 and for reducing the need for more costly services, but Vermont’s health care
+6 system currently does not provide access to primary care with the timeliness
+7 and scope that Vermonters need. This lack of access pushes patients to seek
+8 traditional primary care services from specialists, urgent care clinics,
+9 emergency departments, pharmacies, out-of-state telehealth platforms, and
+10 other sources, further fragmenting care, reducing the professional satisfaction
+11 of primary care clinicians, and undermining patient trust in the primary care
+12 medical system.
+13 (2) Primary care clinicians and patients face significant system-imposed
+14 administrative and cost burdens that delay or restrict provision of and access to
+15 high-value primary care. In addition, primary care clinicians are not
+16 compensated commensurate with their value to the health care system. As a
+17 result, many primary care clinicians are leaving their Vermont practices, and
+18 too few new clinicians are replacing them. Other clinicians are choosing a
+19 concierge or direct-care practice model in an effort to restore the focus on the
+20 patient-provider relationship and to avoid some of the cumbersome barriers in
+21 the health care system. While these models offer significant benefits to both
+VT LEG #386171 v.1
+
+BILL AS INTRODUCED H.680
+2026 Page 3 of 15
+1 patients and providers, the patient panel sizes are generally much smaller than
+2 in traditional practice models, so more such practices are needed to meet the
+3 State’s overall primary care needs.
+4 (3) Vermont’s health care system is in a state of crisis. Premiums in the
+5 commercial health insurance markets are increasingly out of reach for
+6 individual Vermonters, their families, private employers, and public employers
+7 such as schools and State and local governments. Increasing support for our
+8 primary care system in service of improving access to primary and preventive
+9 services is Vermont’s best opportunity for short- and long-term improvements
+10 to Vermont’s health care system and to the health of Vermonters.
+11 (4) Access reform for primary care must support the four key functions
+12 of primary care—first-contact access, comprehensiveness, coordination, and
+13 continuity—which are essential to meeting the goals of improved quality and
+14 reduced spending. The success of access reform is highly dependent on
+15 alignment across payers and is unlikely to work if only a small subset of a
+16 practice’s patient population is included. Increased investment in primary care
+17 across public and private payers using value-based care models designed for
+18 primary care will contribute significantly to improving health, reducing
+19 inequities, reducing the per capita cost of care over time, and improving the
+20 well-being of the primary care team.
+VT LEG #386171 v.1
+
+BILL AS INTRODUCED H.680
+2026 Page 4 of 15
+1 (5) A national time study revealed that during the office day, physicians
+2 spent 27.0 percent of their total time on direct clinical face time with patients
+3 and 49.2 percent of their time on electronic health records and desk work. A
+4 2022 study found that primary care clinicians would need to work 26.7 hours
+5 per day to provide guideline-recommended primary care to the typical patient
+6 panel, including documentation and message management.
+7 (6) In 2020, the Green Mountain Care Board and the Department of
+8 Vermont Health Access submitted a report to the General Assembly that
+9 calculated primary care spending, both across all payers and by payer type, as a
+10 proportion of health care spending. The report found that 10.2 percent of all
+11 health care spending was allocated to primary care, though investment varied
+12 by payer, with Medicare at 6.5 percent, Medicaid at 24.3 percent, and
+13 commercial health insurance at 9.2 percent.
+14 (7) The Green Mountain Care Board and the Agency of Human Services
+15 already have experience calculating primary care spending using both a State-
+16 specific definition of primary care and the New England States Consortium
+17 Systems Organization’s (NESCSO) definition. Vermont is required to set a
+18 primary care spending target for purposes of the federal AHEAD model and
+19 has already proposed using the NESCSO definition of primary care.
+20 (b) By enacting this act, it is the intent of the General Assembly to invest in
+21 primary care by establishing a streamlined primary care payment system that
+VT LEG #386171 v.1
+
+BILL AS INTRODUCED H.680
+2026 Page 5 of 15
+1 will promote the public good by increasing access to primary care in order to
+2 improve the health of Vermonters and reduce health care system costs.
+3 Sec. 2. 18 V.S.A. § 721 is added to read:
+4 § 721. PRIMARY CARE ACCESS REFORM PROGRAM
+5 (a)(1) The Agency of Human Services, in coordination with the Green
+6 Mountain Care Board, the Blueprint for Health, and the Vermont Steering
+7 Committee for Comprehensive Primary Health Care, and in consultation with
+8 other interested stakeholders, shall develop and implement a primary care
+9 access reform program that will promote the public good by investing in
+10 primary care and reducing administrative burdens in order to increase access to
+11 care and reduce health system costs.
+12 (2) The primary care access reform program shall be voluntary for
+13 primary care practices and shall be funded by allocating a portion of
+14 commercial health insurance premiums; a portion of premium equivalents from
+15 other participating payers; and, to the extent permitted by federal law, waivers
+16 of federal law, and federal initiatives, public funds from Medicare and
+17 Medicaid.
+18 (3) The program shall collect and aggregate payments from participating
+19 payers in order to provide a capitated, per-member per-month payment to each
+20 participating primary care practice to cover all of the routine primary care
+VT LEG #386171 v.1
+
+BILL AS INTRODUCED H.680
+2026 Page 6 of 15
+1 needs of attributed patients who are covered by participating plans, without
+2 any patient cost-sharing requirements.
+3 (b)(1) To the extent that the program includes any practice participation
+4 requirements, administrative or documentation requirements, or quality
+5 measurements, the Agency shall establish them in a manner that streamlines
+6 and reduces the administrative burdens on primary care practices imposed by
+7 the program and by public and private payers, including aligning with and
+8 incorporating necessary Blueprint for Health requirements.
+9 (2) The program shall establish not more than 12 quality measures and
+10 may require a primary care practice to adopt not more than six of them. Each
+11 quality measure shall be claims-derived, patient-centered, appropriate for a
+12 primary care setting, and supported by peer-reviewed, evidence-based research
+13 indicating that the measure is actionable and that its use will lead to
+14 improvements in patient health.
+15 (3) The program shall identify and reform administrative burdens and
+16 requirements imposed on primary care providers, including data collection
+17 requirements, data system coordination, increased uniformity of requirements
+18 across networks and payers, and electronic health records requirements.
+19 (4) Practice participation requirements shall include reasonable access
+20 improvement standards, the goals of which are to make meaningful progress
+21 toward reducing the percentage of primary care practices that are not accepting
+VT LEG #386171 v.1
+
+BILL AS INTRODUCED H.680
+2026 Page 7 of 15
+1 new patients and toward reducing the average wait times for appointments.
+2 The standards shall incorporate metrics for measuring progress in achieving
+3 these goals. Initiatives that practices may implement to meet the access
+4 improvement standards may include accepting walk-in patients, increasing the
+5 number of same-day appointments, adopting extended hours, and undertaking
+6 other appropriate access improvement efforts.
+7 (c) The Agency shall adopt by rule a risk-adjusted allocation model for
+8 primary care practices participating in the access reform program that may be
+9 informed by previous accountable care organization payment methodologies
+10 and may blend base per-member per-month capitated payments with fee-for-
+11 service payments as needed for specific primary care services. The allocation
+12 shall include a reimbursement model and level that:
+13 (1) accomplishes Vermont’s primary care spending target as set forth in
+14 subsection (h) of this section;
+15 (2) supports sufficient access to and sustainability of primary care
+16 services in Vermont;
+17 (3) incorporates different methodologies as needed to address the unique
+18 needs of all practice types, including independent practices, federally qualified
+19 health centers and rural health centers, and hospital-based primary care
+20 practices;
+VT LEG #386171 v.1
+
+BILL AS INTRODUCED H.680
+2026 Page 8 of 15
+1 (4) incorporates a methodology with the flexibility necessary to support
+2 and adjust for the different scope of services delivered by different practices;
+3 (5) accounts for the closure of accountable care organizations;
+4 (6) accurately attributes patients to primary care practices;
+5 (7) is sufficient to support practices in offering comprehensive, team-
+6 based primary care that includes supports for mental health and social drivers
+7 of health; and
+8 (8) to the extent permitted under federal law, does not require
+9 individuals covered by participating health plans to pay cost-sharing amounts
+10 when receiving routine primary care services from participating primary care
+11 providers and practices.
+12 (d) The Agency shall operate a payment pool to:
+13 (1) collect the primary care allocation of premiums, premium
+14 equivalents, and public program funds due from each payer; and
+15 (2) determine the per capita payments or other payment mechanism to
+16 distribute the funds to participating primary care practices.
+17 (e) The Agency of Human Services shall adopt rules in accordance with 3
+18 V.S.A. chapter 25 to implement the primary care access reform program,
+19 including:
+VT LEG #386171 v.1
+
+BILL AS INTRODUCED H.680
+2026 Page 9 of 15
+1 (1) determining the scope of the primary care services to be included in
+2 the capitated rate and the primary care practices that are eligible for
+3 participation in the program;
+4 (2) if using, practice participation requirements, administrative and
+5 documentation requirements, and quality measurements, in accordance with
+6 subsection (b) of this section;
+7 (3) the risk-adjusted allocation model, in accordance with subsection (c)
+8 of this section;
+9 (4) operation of the payment pool, in accordance with subsection (d) of
+10 this section;
+11 (5) program parameters that address and mitigate against practices
+12 avoiding high-risk patients or otherwise engaging in adverse selection, while
+13 also striving to maximize practice eligibility and participation;
+14 (6) definitions of direct and indirect primary care spending and
+15 appropriate limits on indirect primary care spending as a percentage of health
+16 care spending, as set forth in subdivision (g)(2) of this section; and
+17 (7) benchmarks for determining the program’s performance, as set forth
+18 in subdivision (g)(3) of this section.
+19 (f) The Agency of Human Services or the Green Mountain Care Board, or
+20 both, shall enter into negotiations with the Centers for Medicare and Medicaid
+21 Services in order to secure Medicare participation in the primary care access
+VT LEG #386171 v.1
+
+BILL AS INTRODUCED H.680
+2026 Page 10 of 15
+1 reform program. The Agency or Board, or both, shall also conduct outreach to
+2 self-funded, nongovernmental employer-sponsored plans regarding
+3 opportunities for their voluntary participation in the program and to discuss
+4 with interested plans the appropriate allocation of premium equivalents to be
+5 paid into the payment pool, which amounts should not unfairly disadvantage
+6 individuals covered by fully insured plans, self-funded governmental plans, or
+7 public benefit programs.
+8 (g)(1) Implementation of the primary care access reform program shall
+9 increase the proportion of total annual health care spending on behalf of
+10 Vermont residents that is spent on primary care, with an initial primary care
+11 spending allocation target of 15 percent of the total amount spent for all health
+12 care services delivered to Vermont residents both within and outside Vermont,
+13 to be met not later than January 1, 2029. The Agency shall establish a
+14 transitional schedule that increases the proportion of primary care spending
+15 over time in order to achieve the primary care spending target. The increased
+16 spending for primary care shall not result in an increase in the overall amount
+17 of health care spending for Vermont residents’ care.
+18 (2) The Agency shall limit indirect primary care spending, as defined by
+19 rule, as a percentage of total primary care spending for purposes of the primary
+20 care spending target.
+VT LEG #386171 v.1
+
+BILL AS INTRODUCED H.680
+2026 Page 11 of 15
+1 (3) The Agency may establish a new, higher primary care spending
+2 target after the initial target has been achieved if the Agency’s analysis
+3 determines that the primary care access reform program has met specific
+4 benchmarks established by the Agency by rule, in areas including access to
+5 primary care, quality of primary care services delivered, impact on health
+6 outcomes, and containment of overall health care costs.
+7 (4) For purposes of the primary care spending allocation target, the
+8 Agency shall use a definition of primary care services that aligns with the
+9 definition used in the 2020 report determining the proportion of health care
+10 spending in Vermont that is allocated to primary care, which was submitted to
+11 the General Assembly by the Green Mountain Care Board and the Department
+12 of Vermont Health Access in accordance with 2019 Acts and Resolves No. 17,
+13 Sec. 2, and with the definition of primary care services used by the New
+14 England States Consortium Systems Organization (NESCSO).
+15 (5)(A) Each health insurer with at least 5,000 covered lives under a
+16 health insurance plan issued, delivered, or issued for delivery in Vermont shall
+17 comply with the requirements of this subsection (g), including meeting or
+18 exceeding the annual primary care spending targets established pursuant to this
+19 subsection (g).
+20 (B) In meeting its annual primary care spending obligations, each
+21 health insurer shall:
+VT LEG #386171 v.1
+
+BILL AS INTRODUCED H.680
+2026 Page 12 of 15
+1 (i) ensure that the individuals covered by its fully insured plans do
+2 not bear a greater financial burden than their fair share of the expenses related
+3 to the insurer’s compliance with its obligations under this subsection (g), with
+4 a proportional amount borne by individuals covered by noninsured plans
+5 administered by the insurer, if any; and
+6 (ii) for nonprimary care services, adjust reimbursement rates,
+7 implement utilization management tools, and take other steps as needed to
+8 avoid increasing the health insurer’s total health care spending, to the extent
+9 feasible and in accordance with rules and guidance adopted by the program.
+10 (C) As used in this subdivision (5), “health insurer” has the same
+11 meaning as in section 9402 of this title.
+12 (D) The Agency, in consultation with the Department of Financial
+13 Regulation and the Green Mountain Care Board, may adopt rules as
+14 appropriate to carry out the purposes of this subdivision (5).
+15 Sec. 3. PRIMARY CARE ACCESS REFORM PROGRAM;
+16 IMPLEMENTATION DATE; REPORTS
+17 (a) The Agency of Human Services shall begin operating the primary care
+18 access reform program established in Sec. 2 of this act on or before July 1,
+19 2027.
+20 (b) On or before December 15, 2026, the Agency of Human Services, in
+21 coordination with the Green Mountain Care Board, shall report to the House
+VT LEG #386171 v.1
+
+BILL AS INTRODUCED H.680
+2026 Page 13 of 15
+1 Committee on Health Care, the Senate Committee on Health and Welfare, and
+2 the Health Reform Oversight Committee regarding:
+3 (1) progress in establishing the primary care access reform program and
+4 a timeline for its implementation; and
+5 (2) options for revenue sources and mechanisms, along with an
+6 operational and financial plan, for expanding the program not later than
+7 January 1, 2028, to any patient of a participating practice, regardless of type of
+8 the individual’s health coverage or coverage status.
+9 Sec. 4. VERMONT CLINICIAN LANDSCAPE; SITE-NEUTRAL
+10 REIMBURSEMENTS; REPORTS
+11 On or before January 1, 2027, the Green Mountain Care Board shall report
+12 to the House Committee on Health Care and the Senate Committee on Health
+13 and Welfare with:
+14 (1) an updated version of the Board’s 2017 Vermont Clinician
+15 Landscape Study report that reflects the current climate among practicing
+16 clinicians in Vermont; and
+17 (2) an updated version of the Board’s previous reporting regarding site-
+18 neutral reimbursements pursuant to 2015 Acts and Resolves No. 54, Sec. 23;
+19 2016 Acts and Resolves No. 143, Sec. 5; and 2017 Acts and Resolves No. 85,
+20 Sec. E.345.1, including the current state of reimbursement differentials based
+21 on practice setting and ownership type, along with a description of any
+VT LEG #386171 v.1
+
+BILL AS INTRODUCED H.680
+2026 Page 14 of 15
+1 significant efforts that have been implemented since 2017 toward achieving
+2 site-neutral reimbursements.
+3 Sec. 5. INVESTMENTS IN PRIMARY CARE WORKFORCE
+4 The sum of $6,750,000.00 is appropriated from the General Fund to the
+5 Department of Health in fiscal year 2027 for investments in the primary care
+6 workforce as follows:
+7 (1) $1,250,000.00 for the first year of implementation of the Maple
+8 Mountain Family Medicine Residency Program, a new Teaching Health Center
+9 Graduate Medical Education Program that will increase the number of family
+10 medicine residents practicing in rural regions of Vermont. It is the intent of the
+11 General Assembly to appropriate funds in future fiscal years to allow for full
+12 implementation of the Program.
+13 (2) $500,000.00 for the Medical Student Incentive Scholarship Program
+14 at the University of Vermont College of Medicine established pursuant to 18
+15 V.S.A. § 33.
+16 (3) $5,000,000.00 for the Vermont Educational Loan Repayment
+17 Program established pursuant to 18 V.S.A. § 32, to be used for loan repayment
+18 for physicians licensed pursuant to 26 V.S.A. chapter 23 or 33; naturopathic
+19 physicians licensed pursuant to 26 V.S.A. chapter 81; advanced practice
+20 registered nurses licensed pursuant to 26 V.S.A. chapter 28, subchapter 2; and
+21 physician assistants licensed pursuant to 26 V.S.A. chapter 31, who practice in
+VT LEG #386171 v.1
+
+BILL AS INTRODUCED H.680
+2026 Page 15 of 15
+1 primary care, in order to fully fund existing demand for the Program using the
+2 number of applicants and the needs demonstrated when additional funding was
+3 made available through the American Rescue Plan Act, P. L. No. 117-2. It is
+4 the intent of the General Assembly to continue this investment annually until
+5 Vermont reaches an adequate supply of primary care clinicians relative to
+6 benchmarks.
+7 Sec. 6. 2020 Acts and Resolves No. 155, Sec. 7a, as amended by 2021 Acts
+8 and Resolves No. 74, Sec. E.311.2, is further amended to read:
+9 Sec. 7a. SUNSET
+10 18 V.S.A. § 33 (medical students; primary care) is repealed on July 1, 2027.
+11 [Deleted.]
+12 Sec. 7. EFFECTIVE DATES
+13 This act shall take effect on passage, except that Sec. 5 (investments in
+14 primary care workforce) shall take effect on July 1, 2026.
+VT LEG #386171 v.1

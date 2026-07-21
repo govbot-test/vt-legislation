@@ -1,0 +1,782 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.863
+2026 Page 1 of 32
+1 H.863
+2 Introduced by Representatives Burke of Brattleboro, Lalley of Shelburne,
+3 Pouech of Hinesburg, Tomlinson of Winooski, White of
+4 Waitsfield, Austin of Colchester, Bartholomew of Hartland,
+5 Campbell of St. Johnsbury, Casey of Montpelier, Cina of
+6 Burlington, Cole of Hartford, Dodge of Essex, Eastes of
+7 Guilford, Holcombe of Norwich, James of Manchester,
+8 Kleppner of Burlington, Logan of Burlington, McGill of
+9 Bridport, Mrowicki of Putney, Rachelson of Burlington, and
+10 Torre of Moretown
+11 Referred to Committee on
+12 Date:
+13 Subject: Highways; motor vehicles; transportation; retail delivery fee;
+14 gasoline; diesel fuel; local option tax; transportation program funding;
+15 electric vehicles; electric bicycles; electric vehicle supply equipment;
+16 electric vehicle incentive programs; electric vehicle tax credits; public
+17 transit; school transit; vehicle miles traveled; pollinator habitat; road
+18 salt
+19 Statement of purpose of bill as introduced: This bill proposes to do the
+20 following: (1) impose a fee on retail deliveries that are subject to the sales and
+21 use tax; (2) permit municipalities to adopt a local option tax on sales of
+VT LEG #386234 v.4
+
+BILL AS INTRODUCED H.863
+2026 Page 2 of 32
+1 gasoline and diesel fuel; (3) appropriate funds to various transportation
+2 programs; (4) amend the primary purposes for which Transportation
+3 Alternatives Program grants will be issued; (5) require electric vehicle supply
+4 equipment (EVSE) that is available for public use to accept credit cards for
+5 payment; (6) require EVSE that is available for public use to make real-time
+6 status information available to third parties; (7) establish laws to permit
+7 property owners and tenants to install EVSE; (8) appropriate funds to support
+8 the purchase of electric vehicles; (9) establish an income tax credit for the
+9 purchase of certain electric vehicles; (10) require a study of potential changes
+10 to laws and rules to enhance safety in relation to electric bicycles; (11) require
+11 the Agency of Transportation and Agency of Natural Resources to develop a
+12 process for calculating statewide reductions in vehicle miles traveled; (12)
+13 require public transit agencies and school districts and supervisory unions to
+14 meet annually to examine opportunities to provide education-related
+15 transportation; (13) require the Agency of Transportation to create pollinator
+16 habitat along State highways and to create best management practices for
+17 municipalities interested in creating pollinator habitat along municipal
+18 highways; and (14) require the Secretary of Natural Resources to update the
+19 Vermont Local Roads curriculum with training for best management practices
+20 for spreading salt.
+VT LEG #386234 v.4
+
+BILL AS INTRODUCED H.863
+2026 Page 3 of 32
+1 An act relating to transportation initiatives to improve equity and
+2 infrastructure, increase resiliency, and reduce emissions
+3 It is hereby enacted by the General Assembly of the State of Vermont:
+4 * * * Transportation Revenues * * *
+5 * * * Retail Delivery Fee * * *
+6 Sec. 1. 23 V.S.A. chapter 26 is added to read:
+7 CHAPTER 26. RETAIL DELIVERY FEE
+8 § 2551. DEFINITIONS
+9 As used in this chapter:
+10 (1) “Commissioner” means the Commissioner of Taxes.
+11 (2) “Persons required to collect tax” has the same meaning as in
+12 32 V.S.A. § 9701.
+13 (3) “Retail delivery” means a delivery of tangible personal property to a
+14 person located in Vermont as part of a retail sale by a vendor. “Retail
+15 delivery” does not include pickup of tangible personal property at a vendor’s
+16 place of business, including curbside pickup.
+17 (4) “Tangible personal property” has the same meaning as in 32 V.S.A.
+18 § 9701, except that it does not include electricity, water, gas, steam, and
+19 prewritten computer software.
+20 (5) “Vendor” has the same meaning as in 32 V.S.A. § 9701.
+VT LEG #386234 v.4
+
+BILL AS INTRODUCED H.863
+2026 Page 4 of 32
+1 § 2552. FEE ON RETAIL DELIVERIES
+2 (a)(1) All retail deliveries by persons required to collect tax pursuant to
+3 32 V.S.A. chapter 233 shall be subject to a delivery fee of $0.30.
+4 (2) A vendor may elect to collect the fee imposed pursuant to this
+5 section from the purchaser.
+6 (3) For purposes of 32 V.S.A. chapter 233, the delivery fee imposed
+7 pursuant to this section shall not be included in the sales price of the tangible
+8 personal property sold as part of a retail sale and shall be separately stated on
+9 any invoice, bill of sale, or similar document given to the purchaser.
+10 (b) If the vendor collects the delivery fee from the purchaser, the delivery
+11 fee must be charged in addition to any other delivery fee.
+12 (c) The delivery fee imposed pursuant to this section shall only be charged
+13 once per retail transaction regardless of the number of:
+14 (1) items of tangible personal property purchased; or
+15 (2) shipments needed to deliver the items of tangible personal property
+16 purchased.
+17 (d)(1) The delivery fee imposed pursuant to this section shall be
+18 nonrefundable if any or all items of tangible personal property that were
+19 purchased are returned to the vendor or the vendor provides a refund or credit
+20 in an amount that is equal to or less than the purchase price of the items.
+VT LEG #386234 v.4
+
+BILL AS INTRODUCED H.863
+2026 Page 5 of 32
+1 (2) The delivery fee imposed pursuant to this section shall be refunded
+2 to the purchaser if the retail delivery is canceled by the purchaser, vendor, or
+3 the delivery provider.
+4 § 2553. RETURNS; PAYMENT OF RETAIL DELIVERY FEES
+5 (a) A vendor shall report the amount of fees collected on a return
+6 prescribed by the Commissioner. The return shall include any other
+7 information that the Commissioner deems necessary for the administration of
+8 this chapter.
+9 (b) Returns required pursuant to this section shall be submitted to the
+10 Commissioner on the same schedule as the vendor is required to submit sales
+11 tax returns pursuant to 32 V.S.A. § 9775.
+12 (c) All fees collected by a vendor for the time period covered by a return
+13 shall be remitted to the Commissioner at the same time the vendor submits the
+14 return.
+15 § 2554. ADMINISTRATION; OVERPAYMENTS; REFUNDS;
+16 ENFORCEMENT; PENALTIES
+17 The provisions of 32 V.S.A. chapter 233 relating to administration, refunds
+18 of overpayments, enforcement, penalties, and appeals shall apply to this
+19 chapter.
+VT LEG #386234 v.4
+
+BILL AS INTRODUCED H.863
+2026 Page 6 of 32
+1 § 2555. DEPOSIT AND USE OF FEES
+2 Retail delivery fees collected pursuant to this chapter shall be deposited into
+3 the Transportation Fund and used to support the provision of town highway aid
+4 pursuant to 19 V.S.A. § 306(a).
+5 Sec. 2. 19 V.S.A. § 306 is amended to read:
+6 § 306. APPROPRIATION; STATE AID FOR TOWN HIGHWAYS
+7 (a) General State aid to town highways.
+8 (1) An annual appropriation to class 1, 2, and 3 town highways shall be
+9 made. This appropriation shall increase over the previous fiscal year’s
+10 appropriation pursuant to this subdivision by the same percentage change as
+11 the following, whichever is less, or shall remain at the previous fiscal year’s
+12 appropriation pursuant to this subdivision if either of the following are
+13 negative or zero:
+14 * * *
+15 (3) In addition to the amounts appropriated pursuant to subdivision (1)
+16 of this subsection, the total amount of retail delivery fees collected pursuant to
+17 23 V.S.A. chapter 26 for the prior fiscal year shall be included in the amount
+18 appropriated pursuant to this subsection but shall not be counted for purposes
+19 of determining the amount by which the amounts appropriated pursuant to
+20 subdivision (1) shall increase each fiscal year.
+21 (4) The funds appropriated shall be distributed to towns as follows:
+VT LEG #386234 v.4
+
+BILL AS INTRODUCED H.863
+2026 Page 7 of 32
+1 * * *
+2 * * * Local Option Tax on Gasoline and Diesel Fuel Sales * * *
+3 Sec. 3. 24 V.S.A. § 138 is amended to read:
+4 § 138. LOCAL OPTION TAXES
+5 (a) Local option taxes are authorized under this section for the purpose of
+6 affording municipalities an alternative method of raising municipal revenues.
+7 Except as provided in subsection (h) of this section, and subject to certification
+8 by the Commissioner of Taxes, a local option tax shall be effective beginning
+9 on the next tax quarter following 90 days’ notice to the Department of Taxes of
+10 the imposition.
+11 (b) If the legislative body of a municipality by a majority vote
+12 recommends, the voters of a municipality may, at an annual or special meeting
+13 warned for that purpose, by a majority vote of those present and voting, assess
+14 any or all of the following:
+15 (1) a one percent sales tax;
+16 (2) a one percent meals and alcoholic beverages tax;
+17 (3) a one percent rooms tax;
+18 (4) a one percent tax upon each gallon of gasoline motor fuel sold or
+19 delivered by a distributor;
+20 (5) a one percent tax upon each gallon of diesel fuel sold or delivered by
+21 a distributor.
+VT LEG #386234 v.4
+
+BILL AS INTRODUCED H.863
+2026 Page 8 of 32
+1 (c)(1) Any tax Taxes imposed under the authority subdivisions (b)(1)–(3)
+2 of this section shall be collected and administered by the Department of Taxes,
+3 in accordance with State law governing such State tax or taxes and subdivision
+4 (2) of this subsection; provided, however, that a sales tax imposed under this
+5 section shall be collected on each sale that is subject to the Vermont sales tax
+6 using a destination basis for taxation. Taxes imposed under subdivisions (b)(4)
+7 and (5) of this section shall be collected and administered by the Department of
+8 Motor Vehicles in accordance with State law governing such tax. Except with
+9 respect to taxes collected on the sale of aviation jet fuel, a per-return fee of
+10 $5.96 shall be assessed, 75 percent of which shall be borne by the
+11 municipality, and 25 percent of which shall be borne by the State to be paid
+12 from the PILOT Special Fund. Notwithstanding 32 V.S.A. § 603 or any other
+13 provision of law or municipal charter to the contrary, revenue from the fee
+14 shall be used to compensate the Department departments for the costs of
+15 administering and collecting the local option tax and of administering the State
+16 appraisal and litigation program established in 32 V.S.A. § 5413. The fee shall
+17 be subject to the provisions of 32 V.S.A. § 605.
+18 (2) Notwithstanding any other law or municipal charter to the contrary,
+19 if the Commissioner applicable commissioner determines that local option tax
+20 was collected on a transaction in a municipality not authorized to impose local
+21 option tax under this section, the Commissioner commissioner shall either
+VT LEG #386234 v.4
+
+BILL AS INTRODUCED H.863
+2026 Page 9 of 32
+1 refund the erroneously collected tax pursuant to 23 V.S.A. chapter 27 or 28, or
+2 32 V.S.A. chapter 233 or 225 or, if the purchaser cannot reasonably be
+3 determined, deposit the erroneously collected tax as required for State diesel
+4 fuel and gasoline taxes pursuant to 19 V.S.A. § 11(2); State sales and use tax
+5 pursuant to 16 V.S.A. § 4025(a)(6); or State meals and rooms tax pursuant to
+6 10 V.S.A. § 1388(a)(4), 16 V.S.A. § 4025(a)(4), and 32 V.S.A. § 435(b)(7).
+7 (d)(1) Except as provided in subsection (c) of this section and subdivision
+8 (2) of this subsection with respect to taxes collected on the sale of aviation jet
+9 fuel, of the taxes collected under this section, 75 percent of the taxes shall be
+10 paid on a quarterly basis to the municipality in which they were collected, after
+11 reduction for the costs of administration and collection under subsection (c) of
+12 this section. Revenues received by a municipality may be expended for
+13 municipal services only, and not for education expenditures. Any remaining
+14 revenue shall be deposited into the PILOT Special Fund established by 32
+15 V.S.A. § 3709.
+16 (2)(A) Of the taxes collected under this section on the sale of aviation jet
+17 fuel, on a quarterly basis, 70 percent of the taxes shall be paid to the
+18 municipality in which they were collected, and 30 percent shall be deposited in
+19 the Transportation Fund.
+VT LEG #386234 v.4
+
+BILL AS INTRODUCED H.863
+2026 Page 10 of 32
+1 (B) All revenues referenced in subdivision (A) of this subdivision (2)
+2 shall be used exclusively for aviation purposes consistent with 49 U.S.C.
+3 § 47133 and Federal Aviation Administration regulations and policies.
+4 (e) As used in this section, “municipality” means a city, town, or
+5 incorporated village.
+6 (f) Nothing in this section shall affect the validity of any existing provision
+7 of law or municipal charter authorizing a municipality to impose a tax similar
+8 to the local option taxes authorized in this section.
+9 (g) If the legislative body of a municipality by a majority vote recommends
+10 or by petition of ten 10 percent of the voters of a municipality recommends, the
+11 voters of a municipality may at an annual or special meeting warned for that
+12 purpose by a majority vote of those present and voting rescind any or all of the
+13 local option taxes assessed under subsection (b) of this section.
+14 (h)(1) The Commissioner of Taxes may limit the number of municipalities
+15 enacting a local option tax under subsection (b) of this section to five per
+16 calendar year. For local option taxes authorized under subdivisions (b)(4) and
+17 (5) of this section, the Commissioner of Taxes shall consult with the
+18 Commissioner of Motor Vehicles before acting pursuant to this subsection.
+19 (2) The Commissioner of Taxes shall certify the first five notices from
+20 municipalities it receives under subsection (a) of this section in each calendar
+VT LEG #386234 v.4
+
+BILL AS INTRODUCED H.863
+2026 Page 11 of 32
+1 year and those municipalities may proceed to assess a local option tax
+2 according to subsection (a) of this section.
+3 (3) In the Commissioner’s discretion, after receiving notice from the
+4 fifth municipality pursuant to subsection (a) of this section in a calendar year,
+5 the Commissioner of Taxes may delay certification, or reject further notices for
+6 that year, if the Commissioner determines that additional certifications would
+7 cause an undue burden on tax administration.
+8 (i) As used in this section:
+9 (1) “Diesel fuel” means “fuel” as defined in 23 V.S.A. § 3002.
+10 (2) “Distributor” means “distributor” as defined in 23 V.S.A. § 3002 or
+11 3102.
+12 (3) “Gasoline motor fuel” means “gasoline or other motor fuel” as set
+13 forth in 23 V.S.A. § 3101, except that it does not include aviation gasoline.
+14 * * * Appropriations for Transportation Programs * * *
+15 Sec. 4. APPROPRIATIONS
+16 (a) The sum of $3,590,000.00 is appropriated from the Transportation Fund
+17 to the Agency of Transportation in fiscal year 2027 for rural transit
+18 administrative support.
+19 (b) The sum of $5,740,250.00 is appropriated from the Transportation Fund
+20 to the Agency of Transportation in fiscal year 2027 for rural transit operating
+21 support.
+VT LEG #386234 v.4
+
+BILL AS INTRODUCED H.863
+2026 Page 12 of 32
+1 (c) The sum of $4,800,000.00 is appropriated from the Transportation Fund
+2 to the Agency of Transportation in fiscal year 2027 to provide grant assistance
+3 to the Green Mountain Transit Authority.
+4 (d) The sum of $200,000.00 is appropriated from the Transportation Fund
+5 to the Agency of Transportation in fiscal year 2027 for the Better Connections
+6 Grant Program.
+7 (e) The sum of $340,000.00 is appropriated from the Transportation Fund
+8 to the Agency of Transportation in fiscal year 2027 for the Mobility and
+9 Transportation Innovations Grant Program.
+10 (f) The sum of $1,169,905.00 is appropriated from the Transportation Fund
+11 to the Agency of Transportation in fiscal year 2027 for funding to support
+12 bicycle and pedestrian facilities.
+13 (g) The sum of $523,966.00 is appropriated from the Transportation Fund
+14 to the Agency of Transportation in fiscal year 2027 to be deposited in the
+15 Downtown Transportation Fund for use in the Transportation Alternatives
+16 Grant Program.
+17 (h) The sum of $325,000.00 is appropriated from the General Fund to the
+18 Agency of Transportation to support the continuation of the Agency’s
+19 partnership with Drive Electric Vermont. The monies shall be used for
+20 programs and activities that support increased ownership and use of plug-in
+21 electric vehicles in the State through:
+VT LEG #386234 v.4
+
+BILL AS INTRODUCED H.863
+2026 Page 13 of 32
+1 (1) stakeholder coordination;
+2 (2) consumer education and outreach;
+3 (3) infrastructure development; and
+4 (4) the provision of technical assistance and support to Vermont
+5 municipalities and Vermont businesses desiring to electrify their vehicle fleets.
+6 * * * Transportation Alternatives Grant Program * * *
+7 Sec. 5. 19 V.S.A. § 38 is amended to read:
+8 § 38. TRANSPORTATION ALTERNATIVES GRANT PROGRAM
+9 * * *
+10 (f)(1) In fiscal year 2024 2027 and thereafter, 50 80 percent of Grant
+11 Program funds, or such lesser sum if all eligible applications amount to less
+12 than 50 80 percent of Grant Program funds, shall be reserved for municipalities
+13 for environmental mitigation projects relating to stormwater and highways,
+14 including eligible salt and sand shed projects, bicycle and pedestrian facilities
+15 and safe routes to schools, and the balance of Grant Program funds shall be
+16 awarded for any eligible activity and in accordance with the priorities
+17 established in subdivision (2) of this subsection.
+18 (2) In evaluating applications for Transportation Alternatives grants, the
+19 Agency shall give preferential weighting to projects involving as a primary
+20 feature a bicycle or pedestrian facility. The degree of preferential weighting
+VT LEG #386234 v.4
+
+BILL AS INTRODUCED H.863
+2026 Page 14 of 32
+1 and the circumstantial factors sufficient to overcome the weighting shall be in
+2 the complete discretion of the Agency.
+3 * * *
+4 * * * Publicly Available EV Chargers * * *
+5 Sec. 6. 19 V.S.A. § 2908 is added to read:
+6 § 2908. PUBLIC EVSE; REQUIRED FORMS OF PAYMENT
+7 All EVSE available to the public that require payment for use shall accept
+8 credit cards for payment of all applicable charges and fees in addition to any
+9 other form of payment accepted by the EVSE.
+10 Sec. 7. 19 V.S.A. § 2909 is added to read:
+11 § 2909. PUBLIC EVSE; REAL-TIME STATUS; AVAILABILITY
+12 All EVSE available to the public that is built or replaced on or after January
+13 1, 2027, shall make its status, including whether it is available for use, in use,
+14 or out of service, available in real time to the public and any entities that
+15 aggregate information regarding the status of publicly available EVSE for the
+16 purpose of advising potential users regarding the availability of EVSE for use.
+17 * * * Private Electric Vehicle Supply Equipment * * *
+18 Sec. 8. 9 V.S.A. § 4468b is added to read:
+19 § 4468b. ELECTRIC VEHICLE SUPPLY EQUIPMENT
+20 (a) As used in this section:
+VT LEG #386234 v.4
+
+BILL AS INTRODUCED H.863
+2026 Page 15 of 32
+1 (1) “Electric vehicle supply equipment (EVSE)” means a device or
+2 system designed and used specifically to transfer electrical energy to a plug-in
+3 electric vehicle.
+4 (2) “EVSE time-of-use (TOU) meter” means an electric meter supplied
+5 and installed by an electric distribution utility that is separate from, and in
+6 addition to, any other electric meter and is devoted exclusively to the charging
+7 of plug-in electric vehicles and that tracks the TOU when charging occurs. An
+8 EVSE TOU meter includes any wiring or conduit necessary to connect the
+9 meter to an EVSE, regardless of whether it is supplied or installed by an
+10 electric utility.
+11 (b) For any rental agreement executed, extended, or renewed on and after
+12 January 1, 2027, a landlord shall approve a written request of a tenant to install
+13 EVSE at a parking space allotted for the tenant that meets the requirements of
+14 this section and complies with the landlord’s procedural approval process for
+15 modification to the property.
+16 (c) This section does not apply to residential rental properties where:
+17 (1) EVSE already exists for tenants in a ratio that is equal to or greater
+18 than 10 percent of the designated parking spaces;
+19 (2) parking is not provided as part of the lease agreement; or
+20 (3) there are fewer than five parking spaces.
+VT LEG #386234 v.4
+
+BILL AS INTRODUCED H.863
+2026 Page 16 of 32
+1 (d) A landlord shall not be obligated to provide an additional parking space
+2 to a tenant in order to accommodate EVSE.
+3 (e) If the EVSE has the effect of providing the tenant with a reserved
+4 parking space, the landlord may charge a monthly rental amount for that
+5 parking space.
+6 (f) The EVSE or EVSE TOU meter, or both, and all modifications and
+7 improvements to the property shall comply with federal, State, and local law,
+8 and all applicable zoning requirements, land use requirements, and covenants,
+9 conditions, and restrictions.
+10 (g) A tenant’s written request to make a modification to the property in
+11 order to install and use EVSE shall include the tenant’s consent to enter into a
+12 written agreement that includes the following:
+13 (1) Compliance with the landlord’s requirements for the installation,
+14 use, maintenance, and removal of the EVSE or both the EVSE and EVSE TOU
+15 meter and installation, use, and maintenance of the infrastructure for the EVSE
+16 or both the EVSE and EVSE TOU meter.
+17 (2) Compliance with the landlord’s requirements for the tenant to
+18 provide a complete financial analysis and scope of work regarding the
+19 installation of the EVSE or both the EVSE and EVSE TOU meter and its
+20 infrastructure.
+VT LEG #386234 v.4
+
+BILL AS INTRODUCED H.863
+2026 Page 17 of 32
+1 (3) Obligation of the tenant to pay the landlord all costs associated with
+2 the landlord’s installation of the EVSE or both the EVSE and EVSE TOU
+3 meter and related infrastructure prior to any modification or improvement
+4 being made to the leased property. The costs associated with modifications
+5 and improvements shall include the cost of permits, supervision, construction,
+6 and, solely if required by the contractor and consistent with its past
+7 performance of work for the landlord, performance bonds.
+8 (4) Obligation of the tenant to pay as part of rent for the costs associated
+9 with the electrical usage, whether or not through an EVSE TOU meter, of the
+10 EVSE; costs for damage, maintenance, repair, removal, and replacement of the
+11 EVSE or both the EVSE and EVSE TOU meter; and costs for modifications or
+12 improvements made to the property associated with the EVSE or both the
+13 EVSE and EVSE TOU meter.
+14 (h) The tenant and each successor tenant shall obtain personal liability
+15 coverage in an amount not to exceed 10 times the annual rent charged for the
+16 dwelling unit covering property damage and personal injury proximately
+17 caused by the installation or operation of the EVSE or both the EVSE and
+18 EVSE TOU meter. The policy shall be maintained in full force and effect from
+19 the time of installation of the EVSE or both the EVSE and EVSE TOU meter
+20 until the EVSE or the EVSE and EVSE TOU meter is removed or the tenant
+21 forfeits possession of the dwelling unit to the landlord.
+VT LEG #386234 v.4
+
+BILL AS INTRODUCED H.863
+2026 Page 18 of 32
+1 (i) Notwithstanding subsection (h) of this section, no insurance shall be
+2 required of a tenant installing an EVSE or both an EVSE and EVSE TOU
+3 meter if the following are satisfied:
+4 (1) the EVSE has been certified by a Nationally Recognized Testing
+5 Laboratory that is approved by the Occupational Safety and Health
+6 Administration of the U.S. Department of Labor; and
+7 (2) the EVSE and any associated alterations to the dwelling’s electrical
+8 system are performed by a licensed electrician, and the EVSE TOU meter, if
+9 applicable, is installed by the electric distribution utility providing service.
+10 (j) A landlord that intentionally violates this section shall be liable to the
+11 tenant or other party for actual damages and shall pay a civil penalty to the
+12 tenant or other party in an amount not to exceed $1,000.00.
+13 (k) In any action by a tenant requesting to have an EVSE installed and
+14 seeking to enforce compliance with this section, the prevailing plaintiff shall
+15 be awarded reasonable attorney’s fees.
+16 Sec. 9. 27A V.S.A. § 1-204 is amended to read:
+17 § 1-204. PREEXISTING COMMON INTEREST COMMUNITIES
+18 (a)(1) Unless excepted under section 1-203 of this title, the following
+19 sections and subdivisions of this title apply to a common interest community
+20 created in this State before January 1, 1999: sections 1-103, 1-105, 1-106, 1-
+21 107, 2-103, 2-104, and 2-121,; subdivisions 3-102(a)(1) through (6) and (11)
+VT LEG #386234 v.4
+
+BILL AS INTRODUCED H.863
+2026 Page 19 of 32
+1 through (16),; and sections 3-111, 3-116, 3-118, 4-109, and 4-117 to the extent
+2 necessary to construe the applicable sections. The sections and subdivisions
+3 described in this subdivision apply only to events and circumstances occurring
+4 after December 31, 1998, and do not invalidate existing provisions of the
+5 declarations, bylaws, plats, or plans of those common interest communities.
+6 * * *
+7 (3) Unless excepted under section 1-203 of this title, section 3-125 of
+8 this title shall apply to a common interest community created in this State
+9 before January 1, 1999. Section 3-125 applies only to events and
+10 circumstances occurring after June 30, 2026, and does not invalidate existing
+11 provisions of the declarations, bylaws, plats, or plans of those common interest
+12 communities.
+13 * * *
+14 Sec. 10. 27A V.S.A. § 3-125 is added to read:
+15 § 3-125. ELECTRIC VEHICLE SUPPLY EQUIPMENT
+16 (a) Definitions. As used in this section:
+17 (1) “Electric vehicle supply equipment (EVSE)” means a device or
+18 system designed and used specifically to transfer electrical energy to a plug-in
+19 electric vehicle.
+20 (2) “EVSE owner” means the unit owner who applies to install an EVSE
+21 and each successive unit owner associated with the initial application to install
+VT LEG #386234 v.4
+
+BILL AS INTRODUCED H.863
+2026 Page 20 of 32
+1 the EVSE unless there is a specific change in ownership of the EVSE, in which
+2 case the EVSE owner shall be the owner specified in a conveying document
+3 memorializing the change in ownership of the EVSE.
+4 (3) “EVSE time-of-use (TOU) meter” means an electric meter supplied
+5 and installed by an electric distribution utility that is separate from, and in
+6 addition to, any other electric meter and is devoted exclusively to the charging
+7 of plug-in electric vehicles and that tracks the TOU when charging occurs. An
+8 EVSE TOU meter includes any wiring or conduit necessary to connect the
+9 meter to an EVSE, regardless of whether it is supplied or installed by an
+10 electric utility.
+11 (4) “Plug-in electric vehicle” has the same meaning as in 23 V.S.A.
+12 § 4(85).
+13 (5) “Reasonable restrictions” are restrictions that do not significantly
+14 increase the cost of the EVSE or EVSE TOU meter, or both, or significantly
+15 decrease the efficiency or specified performance of the EVSE or EVSE TOU
+16 meter, or both.
+17 (b) Protected uses.
+18 (1) Any covenant, restriction, or condition contained in any deed,
+19 contract, security instrument, or other instrument affecting the transfer or sale
+20 of any interest in a common interest community, and any provision of a
+21 governing document associated with a common interest community, such as a
+VT LEG #386234 v.4
+
+BILL AS INTRODUCED H.863
+2026 Page 21 of 32
+1 declaration or bylaws, that either effectively prohibits or unreasonably restricts
+2 the installation or use of EVSE or an EVSE TOU meter, or both, within a unit
+3 owner’s unit or in a designated parking space, including a deeded parking
+4 space, a parking space in a unit owner’s exclusive use common element, or a
+5 parking space that is specifically designated for use by a particular unit owner
+6 or is in conflict with this section is void and unenforceable.
+7 (2) This subsection shall not apply to provisions that impose reasonable
+8 restrictions on EVSE or EVSE TOU meters, or both. However, it is the policy
+9 of the State to promote, encourage, and remove obstacles to the use of plug-in
+10 electric vehicles, including access to EVSE at home.
+11 (3) The EVSE or EVSE TOU meter, or both, and all modifications and
+12 improvements to the common interest community shall comply with federal,
+13 State, and local law, and all applicable zoning requirements, land use
+14 requirements, and covenants, conditions, and restrictions.
+15 (4) If approval is required for the installation or use of EVSE or EVSE
+16 TOU meters, or both, the application for approval shall be processed and
+17 approved by the association in the same manner as an application for approval
+18 of an architectural modification to the common interest community and shall
+19 not be intentionally avoided or delayed. The approval or denial of an
+20 application shall be in writing. If an application is not denied in writing within
+21 60 days from the date of receipt of the application, the application shall be
+VT LEG #386234 v.4
+
+BILL AS INTRODUCED H.863
+2026 Page 22 of 32
+1 deemed approved, unless that delay is the result of a reasonable request for
+2 additional information.
+3 (5) If the EVSE or EVSE TOU meter, or both, is to be placed in a
+4 common element or a limited common element, as designated in the common
+5 interest community’s declaration, the following provisions apply:
+6 (A) The unit owner first shall obtain approval from the association to
+7 install the EVSE or EVSE TOU meter, or both, and the association shall
+8 approve the installation if the unit owner agrees in writing to do all of the
+9 following:
+10 (i) comply with the association’s architectural standards for the
+11 installation of the EVSE or EVSE TOU meter, or both;
+12 (ii) engage a licensed contractor to install the EVSE and, if
+13 necessary, to install wiring or conduit necessary to connect the EVSE to an
+14 EVSE TOU meter;
+15 (iii) engage the electric distribution utility providing service to
+16 install the EVSE TOU meter, if applicable;
+17 (iv) provide a certificate of insurance that names the association as
+18 an additional insured under the unit owner’s insurance policy within 14 days
+19 after approval; and
+VT LEG #386234 v.4
+
+BILL AS INTRODUCED H.863
+2026 Page 23 of 32
+1 (v) pay for both the costs associated with the installation of the
+2 EVSE or both the EVSE and EVSE TOU meter and the electricity usage
+3 associated with the EVSE.
+4 (B) The unit owner and each successive owner of the EVSE or both
+5 the EVSE and EVSE TOU meter shall be responsible for all of the following:
+6 (i) costs for damage to the EVSE or EVSE TOU meter, or both; a
+7 common element; or a limited common element resulting from the installation,
+8 maintenance, repair, removal, or replacement of the EVSE or EVSE TOU
+9 meter, or both;
+10 (ii) costs for the maintenance, repair, and replacement of the
+11 EVSE or EVSE TOU meter, or both, until the EVSE has been removed and for
+12 the restoration of the common element or limited common element after
+13 removal;
+14 (iii) cost of electricity associated with the EVSE; and
+15 (iv) disclosing to prospective buyers of the unit the existence of
+16 any EVSE or EVSE TOU meters, or both, and the related responsibilities of
+17 the unit owner under this section.
+18 (C) The owner of EVSE, whether the EVSE is located within a unit
+19 or within a common element or a limited common element, shall, at all times,
+20 maintain a liability coverage policy that names the association as an additional
+21 insured. The unit owner that submitted the application to install the EVSE or
+VT LEG #386234 v.4
+
+BILL AS INTRODUCED H.863
+2026 Page 24 of 32
+1 EVSE TOU meter, or both, shall provide the association with the
+2 corresponding certificate of insurance within 14 days following approval of the
+3 application. That unit owner and each successor EVSE owner shall annually
+4 provide the association with the certificate of insurance.
+5 (D) An EVSE owner shall not be required to maintain a homeowner
+6 liability coverage policy for an existing National Electrical Manufacturers
+7 Association standard alternating current power plug.
+8 (6) Installation of EVSE or both EVSE and an EVSE TOU meter for the
+9 exclusive use of a unit owner in a common element or limited common
+10 element shall be authorized by the association only if installation in the unit
+11 owner’s unit or designated parking space is impossible or unreasonably
+12 expensive. In such cases, the association shall enter into a license agreement
+13 with the unit owner for the use of the space in a common element or limited
+14 common element and the unit owner shall comply with all of the requirements
+15 in subdivision (5) of this subsection.
+16 (7) The association may install EVSE or both EVSE and an EVSE TOU
+17 meter in the common element or limited common element for the use of all
+18 unit owners in the association and, in that case, the association shall develop
+19 appropriate terms of use for the EVSE.
+VT LEG #386234 v.4
+
+BILL AS INTRODUCED H.863
+2026 Page 25 of 32
+1 (8) Subject to subdivision (3) of this subsection, an association may
+2 create a new parking space where one did not previously exist to facilitate the
+3 installation of an EVSE.
+4 (9) An association that intentionally violates this subsection shall be
+5 liable to the applicant unit owner or other party for actual damages and shall
+6 pay a civil penalty to the applicant unit owner or other party in an amount not
+7 to exceed $1,000.00.
+8 (10) In any action by a unit owner requesting to have an EVSE installed
+9 and seeking to enforce compliance with this section, the prevailing plaintiff
+10 shall be awarded reasonable attorney’s fees.
+11 * * * Efficient Vehicle Incentive Program Funding * * *
+12 Sec. 11. APPROPRIATIONS FOR VEHICLE INCENTIVE PROGRAMS
+13 (a) The sum of $3,000,000.00 is appropriated from the General Fund to the
+14 Agency of Transportation in fiscal year 2027 for the purpose of funding the
+15 MileageSmart Program established pursuant to 19 V.S.A. § 2903.
+16 (b) The sum of $70,000.00 is appropriated from the General Fund to the
+17 Agency of Transportation in fiscal year 2027 for the purpose of funding the
+18 eBike Incentive Program established pursuant to 2021 Acts and Resolves No.
+19 55, Sec. 28, as amended by 2022 Acts and Resolves No. 184, Sec. 23.
+VT LEG #386234 v.4
+
+BILL AS INTRODUCED H.863
+2026 Page 26 of 32
+1 * * * Electric Vehicle Tax Credit * * *
+2 Sec. 12. 32 V.S.A. § 5830h is added to read:
+3 § 5830h. VERMONT ELECTRIC VEHICLE TAX CREDIT
+4 (a) Definitions. As used in this section:
+5 (1) “Electric vehicle” has the same meaning as “plug-in electric vehicle”
+6 under 23 V.S.A. § 4(85).
+7 (2) “Qualifying taxpayer” means a sole proprietorship or pass-through
+8 entity primarily engaged in the business of selling motor vehicles at retail. For
+9 purposes of this subdivision, “primarily” means at least 80 percent of the
+10 taxpayer’s gross receipts are from sales of motor vehicles, as defined under
+11 23 V.S.A. § 4(21).
+12 (b) Credit. A qualifying taxpayer shall be entitled to a nonrefundable credit
+13 against the tax imposed by section 5822 of this title for the taxable year. The
+14 credit shall be for $5,000.00 for every new electric vehicle sold at retail and
+15 $2,500.00 for every used electric vehicle sold at retail.
+16 (c) Requirement to pass the credit on to the consumer. The credit under
+17 this section shall only be available for electric vehicles resold in the taxable
+18 year where the retail sales price was reduced in an amount equal to, or
+19 exceeding, the amount of credit claimed under this section.
+VT LEG #386234 v.4
+
+BILL AS INTRODUCED H.863
+2026 Page 27 of 32
+1 Sec. 13. 32 V.S.A. § 5813 is amended to read:
+2 § 5813. STATUTORY PURPOSES
+3 * * *
+4 (bb) The statutory purpose of the electric vehicle tax credit in section
+5 5830h of this title is to incentivize Vermonters to purchase new and used
+6 electric vehicles.
+7 * * * Study of Regulation of Electric Bicycles * * *
+8 Sec. 14. STUDY OF REGULATION OF ELECTRIC BICYCLES; REPORT
+9 (a) The Secretary of Transportation, in consultation with the Commissioner
+10 of Public Safety, the Vermont League of Cities and Towns, and Local Motion,
+11 shall study Vermont’s State laws and rules, as well as Vermont municipalities’
+12 ordinances, related to electric bicycles and motor-assisted bicycles. In
+13 particular, the Secretary shall examine the following in relation to electric
+14 bicycles and motor-assisted bicycles in Vermont:
+15 (1) the enforcement of applicable laws, rules, and ordinances, including
+16 the rate of enforcement and challenges or barriers to enforcement;
+17 (2) the efficacy of applicable safety-related laws, rules, and ordinances;
+18 (3) recent trends among laws, rules, and ordinances for electric bicycles
+19 and motor-assisted bicycles in jurisdictions outside Vermont; and
+20 (4) potential changes to Vermont’s statutes related to electric bicycles
+21 and motor-assisted bicycles that could enhance the safety of individuals using
+VT LEG #386234 v.4
+
+BILL AS INTRODUCED H.863
+2026 Page 28 of 32
+1 electric bicycles and motor-assisted bicycles as well as other individuals using
+2 roadways, sidewalks, and multiuse paths.
+3 (b) On or before December 15, 2026, the Secretary shall submit a written
+4 report to the House and Senate Committees on Transportation with the
+5 Secretary’s findings pursuant to subsection (a) of this section and any
+6 recommendations for legislative action.
+7 * * * Study of Vehicle Miles Traveled Reduction Target * * *
+8 Sec. 15. VEHICLE MILES TRAVELED; REDUCTION; TARGET
+9 (a) The Secretary of Transportation, in consultation with the Secretary of
+10 Natural Resources, shall develop a process for setting annual and longer-term
+11 targets for reducing the amount of vehicle miles traveled in Vermont. On or
+12 before December 15, 2026, the Secretary of Transportation shall submit a
+13 written report to the House and Senate Committees on Transportation that
+14 outlines the process developed pursuant to this subsection and includes a
+15 proposal for legislative action necessary to implement that process.
+16 (b) As used in this section, “vehicle miles traveled” means the estimated
+17 sum of all the miles traveled by motor vehicles in Vermont during a calendar
+18 year.
+19 * * * Education Transportation * * *
+20 Sec. 16. 24 V.S.A. § 5095 is added to read:
+VT LEG #386234 v.4
+
+BILL AS INTRODUCED H.863
+2026 Page 29 of 32
+1 § 5095. COORDINATION WITH SUPERVISORY UNIONS AND
+2 SCHOOL DISTRICTS
+3 (a) A public transit system, as that term is defined pursuant to subdivisions
+4 5088(6)(A)–(C) of this subchapter, and the school districts and supervisory
+5 unions within the public transit system’s area of operation shall meet at least
+6 once every two years to examine opportunities for the public transit system and
+7 the school district or supervisory union to coordinate transportation services to
+8 provide more effective transportation to students enrolled in the school district
+9 or supervisory union.
+10 (b) The public transit system and the school district or supervisory union,
+11 as applicable, shall specifically examine opportunities to provide students
+12 enrolled in the school district or supervisory union with transportation:
+13 (1) to and from school;
+14 (2) to after-school activities; and
+15 (3) from school to locations where students work, shop, obtain health
+16 care, or engage in recreational or extracurricular activities.
+17 (c) Any changes made to the public transit system’s routes or the services it
+18 provides as a result of the meetings required pursuant to this section shall be
+19 designed to:
+20 (1) maintain or increase the general public’s access to the public transit
+21 system;
+VT LEG #386234 v.4
+
+BILL AS INTRODUCED H.863
+2026 Page 30 of 32
+1 (2) increase usage of the public transit system;
+2 (3) support or increase the financial self-sufficiency of the public transit
+3 system;
+4 (4) reduce the school district’s or supervisory union’s costs related to
+5 student transportation; and
+6 (5) comply with all applicable Federal Transit Administration
+7 regulations for student transportation.
+8 * * * Pollinator Habitat * * *
+9 Sec. 17. 19 V.S.A. § 46 is added to read:
+10 § 46. POLLINATOR HABITAT ALONG HIGHWAYS;
+11 IDENTIFICATION; CREATION; BEST MANAGEMENT
+12 PRACTICES; ANNUAL REPORT
+13 (a)(1) The Agency of Transportation shall create and maintain pollinator
+14 habitats within State highway rights-of-way in locations selected in
+15 consultation with the Agency of Natural Resources.
+16 (2) Habitat locations shall be planted, to the extent possible, with native
+17 plants.
+18 (3) Plants chosen for a habitat location shall:
+19 (A) provide food and nesting habitat for pollinators found in the area
+20 of the habitat location;
+VT LEG #386234 v.4
+
+BILL AS INTRODUCED H.863
+2026 Page 31 of 32
+1 (B) be able to tolerate runoff from the highway, including salt;
+2 (C) be adapted to growing in the soil conditions found within the
+3 highway right-of-way; and
+4 (D) be maintained in a manner designed to minimize disruptions to
+5 pollinator populations.
+6 (b) The Agency of Transportation, in consultation with the Agency of
+7 Natural Resources and the Vermont League of Cities and Towns, shall develop
+8 best management practices for the identification, creation, and maintenance of
+9 pollinator habitat along municipal highways. The best management practices
+10 shall include information regarding:
+11 (1) identification of potential habitat locations;
+12 (2) plant selection; and
+13 (3) habitat maintenance, including modifications to mowing and other
+14 routine maintenance practices.
+15 (c) The Secretary of Transportation shall annually, on or before January 15,
+16 report to the House and Senate Committees on Transportation regarding:
+17 (1) the total amount of pollinator habitat that has been created within
+18 State highway rights-of-way;
+19 (2) any new pollinator habitat created within State highway rights-of-
+20 way during the preceding calendar year;
+VT LEG #386234 v.4
+
+BILL AS INTRODUCED H.863
+2026 Page 32 of 32
+1 (3) any changes or updates made during the preceding calendar year to
+2 the Agency’s best management practices for the identification, creation, and
+3 maintenance of pollinator habitat along municipal highways; and
+4 (4) changes in maintenance costs for unpaved portions of State highway
+5 rights-of-way and changes in mowing practices along State highways.
+6 * * * Municipal Salt Application; Local Roads Curriculum * * *
+7 Sec. 18. MUNICIPAL SALT APPLICATORS; VERMONT LOCAL ROADS
+8 CURRICULUM; AFFIRMATIVE DEFENSE
+9 On or before November 1, 2027, the Secretary of Natural Resources, in
+10 collaboration with the Secretary of Transportation, shall identify and make
+11 changes to the Vermont Local Roads curriculum to create training for best
+12 management practices for spreading salt on roads, parking lots, and sidewalks.
+13 * * * Effective Dates * * *
+14 Sec. 19. EFFECTIVE DATES
+15 (a) This section shall take effect on passage.
+16 (b) Notwithstanding 1 V.S.A. § 214, Secs. 12 and 13 (electric vehicle tax
+17 credit) shall take effect retroactively on January 1, 2026, and shall apply to
+18 taxable years beginning on and after January 1, 2026.
+19 (c) The remaining sections of this act shall take effect on July 1, 2026.
+VT LEG #386234 v.4

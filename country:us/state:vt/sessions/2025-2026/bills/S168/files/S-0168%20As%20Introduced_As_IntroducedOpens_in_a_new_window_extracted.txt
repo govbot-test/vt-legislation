@@ -1,0 +1,92 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED S.168
+2026 Page 1 of 4
+1 S.168
+2 Introduced by Senator Westman
+3 Referred to Committee on
+4 Date:
+5 Subject: Crimes; grand larceny; retail theft
+6 Statement of purpose of bill as introduced: This bill proposes to permit the
+7 aggregate value of stolen property to be used to satisfy the $900.00 threshold
+8 that determines whether a crime is (1) grand larceny or petit larceny; and
+9 (2) felony retail theft or misdemeanor retail theft.
+10 An act relating to the aggregate value of stolen property in certain crimes
+11 It is hereby enacted by the General Assembly of the State of Vermont:
+12 Sec. 1. 13 V.S.A. § 2501 is amended to read:
+13 § 2501. GRAND LARCENY
+14 (a) A person who steals from the actual or constructive possession of
+15 another, other than from his or her person, money, goods, chattels, bank notes,
+16 bonds, promissory notes, bills of exchange or other bills, orders, or certificates,
+17 or a book of accounts for or concerning money, or goods due or to become due
+18 or to be delivered, or a deed or writing containing a conveyance of land, or any
+19 other valuable contract in force, or a receipt, release or defeasance, writ,
+20 process, or public record, shall be imprisoned not more than 10 years or fined
+VT LEG #385824 v.1
+
+BILL AS INTRODUCED S.168
+2026 Page 2 of 4
+1 not more than $5,000.00, or both, if the money or other property stolen exceeds
+2 $900.00 in value.
+3 (b) It shall be a violation of subsection (a) of this section if:
+4 (1) a person acts in concert with one or more persons on one or more
+5 occasions within a period of 180 days to commit the offense of petit larceny in
+6 violation of section 2502 of this title; and
+7 (2) the aggregate value of the money or other property stolen exceeds
+8 $900.00.
+9 Sec. 2. 13 V.S.A. chapter 57, subchapter 4, is amended to read:
+10 Subchapter 4. Shoplifting
+11 * * *
+12 § 2575. OFFENSE OF RETAIL THEFT
+13 A person commits the offense of retail theft when the person, with intent of
+14 depriving a merchant wrongfully of the lawful possession of merchandise,
+15 money, or credit:
+16 (1) takes and carries away or causes to be taken and carried away or aids
+17 and abets the carrying away of any merchandise from a retail mercantile
+18 establishment without paying the retail value of the merchandise; or
+19 * * *
+VT LEG #385824 v.1
+
+BILL AS INTRODUCED S.168
+2026 Page 3 of 4
+1 § 2577. PENALTY
+2 (a) A person convicted of the offense of retail theft of merchandise having
+3 a retail value not in excess of $250.00 shall be punished by a fine of not more
+4 than $500.00 or imprisonment for not more than 30 days, or both.
+5 (b) A person convicted of the offense of retail theft of merchandise having
+6 a retail value in excess of $250.00 and not in excess of $900.00 shall:
+7 (1) for a first offense, be punished by a fine of not more than $500.00 or
+8 imprisonment for not more than six months, or both;
+9 (2) for a second offense, be punished by a fine of not more than
+10 $1,000.00 or imprisonment for not more than two years, if the second offense
+11 occurs not more than two years after the first offense;
+12 (3) for a third offense, be punished by a fine of not more than $1,500.00
+13 or imprisonment for not more than three years, or both, if the third offense
+14 occurs not more than two years after the second offense; or
+15 (4) for a fourth or subsequent offense, be punished by a fine of not more
+16 than $2,500.00 or imprisonment for not more than 10 years, or both, if the
+17 fourth or subsequent offense occurs not more than two years after the
+18 immediately preceding offense.
+19 (c)(1) A person convicted of the offense of retail theft of merchandise
+20 having a retail value in excess of $900.00 shall be punished by a fine of not
+21 more than $1,000.00 or imprisonment for not more than 10 years, or both.
+VT LEG #385824 v.1
+
+BILL AS INTRODUCED S.168
+2026 Page 4 of 4
+1 (2) A person shall be punished pursuant to this subsection if:
+2 (A) the person acts in concert with one or more persons on one or
+3 more occasions within a period of 180 days to commit the offense of retail
+4 theft in violation of subdivision 2575(1) of this title; and
+5 (B) the aggregate value of the merchandise taken away exceeds
+6 $900.00.
+7 * * *
+8 Sec. 3. EFFECTIVE DATE
+9 This act shall take effect on passage.
+VT LEG #385824 v.1

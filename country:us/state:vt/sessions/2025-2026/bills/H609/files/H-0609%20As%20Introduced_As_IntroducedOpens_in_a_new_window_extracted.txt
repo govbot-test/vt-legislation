@@ -1,0 +1,134 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.609
+2026 Page 1 of 6
+1 H.609
+2 Introduced by Representatives Campbell of St. Johnsbury and James of
+3 Manchester
+4 Referred to Committee on
+5 Date:
+6 Subject: Public service; energy; thermal energy networks
+7 Statement of purpose of bill as introduced: This bill proposes to allow the
+8 formation of a fire district for the purpose of operating a thermal energy
+9 network. It would also clarify that the Public Utility Commission has
+10 jurisdiction over entities operating thermal energy networks other than
+11 municipalities.
+12 An act relating to thermal energy networks
+13 It is hereby enacted by the General Assembly of the State of Vermont:
+14 Sec. 1. 30 V.S.A. § 201 is amended to read:
+15 § 201. DEFINITIONS
+16 As used in this chapter:
+17 * * *
+18 (7) “Thermal energy exchange” means piped noncombustible fluids
+19 used for transferring heat into and out of buildings for the purpose of avoiding,
+20 eliminating, reducing any existing or new on-site greenhouse gas emissions of
+VT LEG #386309 v.1
+
+BILL AS INTRODUCED H.609
+2026 Page 2 of 6
+1 all types of heating and cooling processes, including comfort heating and
+2 cooling, domestic hot water, and refrigeration.
+3 (8) “Thermal energy exchange network” means all real estate, fixtures,
+4 and personal property operated, owned, used, or to be used for or in connection
+5 with or to facilitate distribution infrastructure project that supplies thermal
+6 energy to more than one household, dwelling unit, or network group of
+7 buildings that are not commonly owned. This definition does not include a
+8 mutual benefit enterprise, cooperative or common interest community that is
+9 owned by the persons it serves and that provides thermal energy exchange
+10 services only to its members, a landlord providing thermal energy exchange
+11 services only to its tenants where the service is included in the lease
+12 agreement, or any entity that provides thermal energy exchange services only
+13 to itself.
+14 Sec. 2. 30 V.S.A. § 203 is amended to read:
+15 § 203. JURISDICTION OF CERTAIN PUBLIC UTILITIES
+16 The Public Utility Commission and the Department of Public Service shall
+17 have jurisdiction over the following described companies within the State, their
+18 directors, receivers, trustees, lessees, or other persons or companies owning or
+19 operating the companies and of all plants, lines, exchanges, and equipment of
+20 the companies used in or about the business carried on by them in this State as
+21 covered and included in this chapter. This jurisdiction shall be exercised by
+VT LEG #386309 v.1
+
+BILL AS INTRODUCED H.609
+2026 Page 3 of 6
+1 the Commission and the Department so far as may be necessary to enable them
+2 to perform the duties and exercise the powers conferred upon them by law.
+3 The Commission and the Department may, when they deem the public good
+4 requires, examine the plants, equipment, lines, exchanges, stations, and
+5 property of the companies subject to their jurisdiction under this chapter.
+6 * * *
+7 (7) A person or company, other than a municipality or entity otherwise
+8 exempted under section 231 of this title, that owns or operates a thermal
+9 energy exchange network as defined in section 201 of this title.
+10 (8) Notwithstanding subdivisions (1) and (2) of this section, the
+11 Commission and Department shall not have jurisdiction over persons otherwise
+12 not regulated by the Commission that are engaged in the siting, construction,
+13 ownership, operation, or control of a facility that sells or supplies electricity to
+14 the public exclusively for charging a plug-in electric vehicle, as defined in
+15 23 V.S.A. § 4(85). These persons may charge by the kWh for owned or
+16 operated electric vehicle supply equipment, as defined in section 201 of this
+17 title, but shall not be treated as an electric distribution utility just because
+18 electric vehicle supply equipment charges by the kWh.
+19 (8)(9) For purposes of this section, “storage” has the same meaning as
+20 “energy storage facility” as defined in section 201 of this title.
+VT LEG #386309 v.1
+
+BILL AS INTRODUCED H.609
+2026 Page 4 of 6
+1 Sec. 3. 30 V.S.A. § 231 is amended to read:
+2 § 231. CERTIFICATE OF PUBLIC GOOD; ABANDONMENT OF
+3 SERVICE; HEARING
+4 * * *
+5 (d) Any person or company may petition for a certificate of public good
+6 pursuant to subsection (a) of this section to own or operate a thermal energy
+7 exchange network; provided, however, that any utility with existing authority
+8 established before July 1, 2026, to provide retail electric or natural gas service
+9 shall also be authorized to own or operate a thermal energy exchange network
+10 subject to the provisions of this title and rules issued by the Commission.
+11 Notwithstanding any other State law to the contrary, a municipality or fire
+12 district established for the purpose of operating a thermal energy exchange
+13 network utility shall have the authority to construct, operate, set rates for,
+14 finance, and use eminent domain for a thermal energy exchange network utility
+15 without a certificate of public good or approval by the Commission. Nothing
+16 in this section shall alter the requirements of 10 V.S.A. chapter 151, including
+17 for district energy projects such as those described in subdivision 209(e)(1) of
+18 this title.
+VT LEG #386309 v.1
+
+BILL AS INTRODUCED H.609
+2026 Page 5 of 6
+1 Sec. 4. 20 V.S.A. § 2601 is amended to read:
+2 § 2601. GENERALLY
+3 A fire district may vote to adopt the town manager system in compliance
+4 with 24 V.S.A. chapter 37. It may vote a tax upon the taxable estate for the
+5 protection of property in the district from damage by fire; for the acquisition,
+6 construction, and maintenance of sewers and sewage treatment works;
+7 sidewalks; public parks; water works, water companies, and equipment and
+8 real estate used in connection therewith, including reservoirs and dams; for
+9 lighting; for the construction, operation, and maintenance of thermal energy
+10 exchange networks; and for other lawful purposes. The prudential committee
+11 and collector shall have the same power in assessing, levying, and collecting
+12 the tax, as town officers have in assessing and collecting town taxes, including
+13 the collection of interest on overdue taxes. The prudential committee may
+14 expend such sums for acquiring, constructing, and maintaining sewers and
+15 sewage treatment works; sidewalks; public parks; water works, water
+16 companies,; thermal energy exchange networks; and all equipment and real
+17 estate used in connection therewith, including reservoirs and dams; and for
+18 lighting purposes as the fire district may vote. The committee may use and
+19 occupy such portions of the highways within the district as may be necessary
+20 for constructing and maintaining sewers and sewage treatment works;
+VT LEG #386309 v.1
+
+BILL AS INTRODUCED H.609
+2026 Page 6 of 6
+1 sidewalks; public parks; water works and mains, thermal energy exchange
+2 networks; and for lighting purposes.
+3 Sec. 5. EFFECTIVE DATE
+4 This act shall take effect on July 1, 2026.
+VT LEG #386309 v.1

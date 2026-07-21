@@ -1,0 +1,45 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED S.300
+2026 Page 1 of 2
+1 S.300
+2 Introduced by Senators Williams and Heffernan
+3 Referred to Committee on
+4 Date:
+5 Subject: Human services; opioid use disorder; urine drug screening; fentanyl
+6 Statement of purpose of bill as introduced: This bill proposes to require that a
+7 hospital screen for fentanyl as part of any urine drug screening conducted to
+8 assist in diagnosing the patient’s condition.
+9 An act relating to screening for fentanyl during a hospital-administered
+10 urine drug screening
+11 It is hereby enacted by the General Assembly of the State of Vermont:
+12 Sec. 1. 18 V.S.A. § 4755 is added to read:
+13 § 4755. FENTANYL; URINE DRUG SCREENING
+14 (a) If a patient is treated in a hospital licensed pursuant to chapter 43 of this
+15 title and the hospital conducts a urine drug screening to assist in diagnosing the
+16 patient’s condition, the hospital shall include testing for fentanyl as part of the
+17 urine drug screening.
+18 (b)(1) A hospital conducting a urine drug screening pursuant to this section
+19 and its employees shall not disclose the screening results for fentanyl to a law
+VT LEG #378306 v.4
+
+BILL AS INTRODUCED S.300
+2026 Page 2 of 2
+1 enforcement officer, unless the screening result is sought pursuant to a valid
+2 warrant or subpoena.
+3 (2) A hospital and its employees shall be immune from civil and
+4 criminal liability for disclosing the screening results to a law enforcement
+5 officer in good faith reliance on the provisions of subdivision (1) of this
+6 subsection.
+7 (c) As used in this section, “urine drug screening” means a chemical
+8 analysis intended to test patients for the presence of multiple drugs, including
+9 cocaine, opioids, and phencyclidine.
+10 Sec. 2. EFFECTIVE DATE
+11 This act shall take effect on July 1, 2026.
+VT LEG #378306 v.4

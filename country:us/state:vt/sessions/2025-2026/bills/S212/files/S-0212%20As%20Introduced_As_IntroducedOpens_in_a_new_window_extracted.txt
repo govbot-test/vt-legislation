@@ -1,0 +1,241 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED S.212
+2026 Page 1 of 10
+1 S.212
+2 Introduced by Senator Watson
+3 Referred to Committee on
+4 Date:
+5 Subject: Conservation and development; potable water supply and wastewater
+6 connections; municipal authority
+7 Statement of purpose of bill as introduced: This bill proposes to authorize the
+8 Agency of Natural Resources (ANR) to delegate to municipalities the
+9 permitting and technical review of potable water supply and wastewater
+10 system connections. The bill also would require ANR to adopt a general
+11 permit for municipal potable water supply and wastewater system connections
+12 that are reviewed by delegated municipalities.
+13 An act relating to potable water supply and wastewater system connections
+14 It is hereby enacted by the General Assembly of the State of Vermont:
+15 Sec. 1. 10 V.S.A. § 1971 is amended to read:
+16 § 1971. PURPOSE
+17 It is the purpose of this chapter to:
+18 (1) establish a comprehensive program to regulate the construction,
+19 replacement, modification, and operation of potable water supplies and
+20 wastewater systems in the State in order to protect human health and the
+VT LEG #385485 v.1
+
+BILL AS INTRODUCED S.212
+2026 Page 2 of 10
+1 environment, including potable water supplies, surface water, and
+2 groundwater;
+3 * * *
+4 (6) allow delegation of the permitting program created by this chapter to
+5 municipalities demonstrating the capacity to administer the chapter of technical
+6 review of potable water supply and wastewater system connections pursuant to
+7 the rules of the Agency adopted under this chapter.
+8 Sec. 2. 10 V.S.A. § 1972 is amended to read:
+9 § 1972. DEFINITIONS
+10 For the purposes of this chapter:
+11 * * *
+12 (6) “Potable water supply” means the source, treatment, and conveyance
+13 equipment used to provide water used or intended to be used for human
+14 consumption, including drinking, washing, bathing, the preparation of food, or
+15 laundering. This definition includes a service connection to a public water
+16 system of any size that does not require a permit pursuant to chapter 56 of this
+17 title. This definition does not include any internal piping or plumbing, except
+18 for mechanical systems, such as pump stations and storage tanks or lavatories,
+19 that are located inside a building or structure and that are integral to the
+20 operation of a potable water system. This definition also does not include a
+21 potable water supply that is subject to regulation under chapter 56 of this title.
+VT LEG #385485 v.1
+
+BILL AS INTRODUCED S.212
+2026 Page 3 of 10
+1 * * *
+2 (10) “Wastewater system” means any piping, pumping, treatment, or
+3 disposal system used for the conveyance and treatment of sanitary waste or
+4 used water, including carriage water, shower and wash water, and process
+5 wastewater. This definition does not include any internal piping or plumbing,
+6 except for mechanical systems, such as pump stations and storage tanks or
+7 toilets, that are located inside a building or structure and that are integral to the
+8 operation of a wastewater system. This definition also does not include
+9 wastewater systems that are used exclusively for the treatment and disposal of
+10 animal manure. In this chapter, “wastewater system” refers to a soil-based
+11 disposal system of less than 6,500 gallons per day, or a sewerage sanitary
+12 sewer collection system connection of any size.
+13 Sec. 3. 10 V.S.A. § 1973 is amended to read:
+14 § 1973. PERMITS
+15 (a) Except as provided in this section and sections 1974 and 1978 of this
+16 title, a person shall obtain a permit from the Secretary before:
+17 * * *
+18 (7) making a new or modified connection to a new or existing potable
+19 water supply or wastewater system; or
+20 * * *
+VT LEG #385485 v.1
+
+BILL AS INTRODUCED S.212
+2026 Page 4 of 10
+1 (f)(1) The Secretary shall give deference to a certification by a licensed
+2 designer with respect to the engineering design or judgment exercised by the
+3 designer in order to minimize Agency review of certified designs. Nothing in
+4 this section shall limit the responsibility of the licensed designer to comply
+5 with all standards and rules, or the authority of the Secretary to review and
+6 comment on design aspects of an application or to enforce Agency rules with
+7 respect to the design or the design certification.
+8 (2) The Secretary shall issue a permit for a new or modified connection
+9 to a water main and a sewer main or indirect discharge system from a building
+10 or structure in a designated downtown development district upon submission
+11 of an application under subsection (b) of this section that consists solely of the
+12 certification of a licensed designer, in accordance with subsection (d) of this
+13 section, and a letter from the owner of the water main and sewer main or
+14 indirect discharge system allocating the capacity needed to accommodate the
+15 new or modified connection. However, this subdivision (2) shall not apply if
+16 the Secretary finds one of the following:
+17 (A) The Secretary has prohibited the system that submitted the
+18 allocation letter from issuing new allocation letters due to a lack of capacity.
+19 (B) As a result of an audit of the application performed on a random
+20 basis or in response to a complaint, the system is not designed in accordance
+21 with the rules adopted under this chapter.
+VT LEG #385485 v.1
+
+BILL AS INTRODUCED S.212
+2026 Page 5 of 10
+1 * * *
+2 (k)(1) The Secretary shall adopt a general permit for municipal potable
+3 water supply and wastewater system connections that are reviewed by
+4 municipalities with authority delegated to them pursuant to section 1976 of this
+5 chapter.
+6 (2) The Secretary may adopt by rule general permitting programs for
+7 other activities permitted under this section.
+8 Sec. 4. 10 V.S.A. § 1976 is amended to read:
+9 § 1976. DELEGATION OF CONNECTION AUTHORITY TO
+10 MUNICIPALITIES
+11 (a)(1) The Secretary may delegate to a municipality authority to:
+12 (A) implement all sections of this chapter, except for sections 1975
+13 and 1978 of this title; or
+14 (B) implement permitting under this chapter for the subdivision of
+15 land, a building or structure, or a campground when the subdivision, building
+16 or structure, or campground is served by sewerage connections and water
+17 service lines, provided that:
+18 (i) the lot, building or structure, or campground utilizes both a
+19 sanitary sewer service line and a water service line; and
+VT LEG #385485 v.1
+
+BILL AS INTRODUCED S.212
+2026 Page 6 of 10
+1 (ii) the water main and sanitary sewer collection line that the water
+2 service line and sanitary sewer service line are connected to are owned and
+3 controlled by the delegated municipality.
+4 (2) If a municipality submits a written request for delegation of this
+5 chapter, the Secretary shall delegate authority to the municipality to implement
+6 and administer provisions of this chapter, the rules adopted under this chapter,
+7 and the enforcement provisions of chapter 201 of this title relating to this
+8 chapter, provided that the Secretary is satisfied that the municipality:
+9 (A) has established a process for accepting, reviewing, and processing
+10 applications and issuing permits, that shall adhere to the rules established by
+11 the Secretary for potable water supplies and wastewater systems, including
+12 permits, by rule, for sewerage connections;
+13 (B) has hired, appointed, or retained on contract, or will hire, appoint,
+14 or retain on contract, a licensed designer to perform technical work that must
+15 be done by a municipality under this section to grant permits;
+16 (C) will take timely and appropriate enforcement actions pursuant to
+17 the authority of chapter 201 of this title;
+18 (D) commits to reporting annually to the Secretary on a form and date
+19 determined by the Secretary;
+VT LEG #385485 v.1
+
+BILL AS INTRODUCED S.212
+2026 Page 7 of 10
+1 (E) will only issue permits for water service lines and sanitary sewer
+2 service lines when there is adequate capacity in the public water supply system
+3 source, wastewater treatment facility, or indirect discharge system; and
+4 (F) will comply with all other requirements of the rules adopted under
+5 section 1978 of this title The Secretary may delegate to a municipality
+6 authority to conduct technical review of municipal potable water supply and
+7 wastewater system connections, provided that the water main and sanitary
+8 sewer collection line that the water service line and sanitary sewer service line
+9 are connected to are owned and controlled by the delegated municipality.
+10 (2) If a municipality submits a request for delegation of authority under
+11 this subsection, the Secretary shall delegate authority to the municipality to
+12 implement and administer provisions of this chapter governing municipal
+13 potable water supply and wastewater system connections, provided that the
+14 municipality:
+15 (A) is qualified to perform the technical review as determined by the
+16 Secretary;
+17 (B) receives authorization from the municipal legislative body to
+18 administer a program for review of potable water supply and wastewater
+19 system connections;
+20 (C) meets any other requirement for the delegation program as
+21 adopted by the Secretary in writing;
+VT LEG #385485 v.1
+
+BILL AS INTRODUCED S.212
+2026 Page 8 of 10
+1 (D) will only issue permits for water service lines and sanitary sewer
+2 service lines when there is adequate capacity in the public water system,
+3 wastewater treatment facility, or indirect discharge system; and
+4 (E) complies with the requirements for connection and all
+5 requirements of the Agency’s rules adopted under section 1978 of this title.
+6 * * *
+7 (f) The Secretary may review municipal implementation of this section on
+8 a random basis, or in response to a complaint, or on his or her the Secretary’s
+9 own motion. This review may include consideration of the municipal
+10 implementation itself, as well as consideration of the practices, testing
+11 procedures employed, systems designed, system designs approved, installation
+12 procedures used, and any work associated with the performance of these tasks.
+13 Sec. 5. 3 V.S.A. § 2822(j) is amended to read:
+14 (j) In accordance with subsection (i) of this section, the following fees are
+15 established for permits, licenses, certifications, approvals, registrations, orders,
+16 and other actions taken by the Agency of Natural Resources.
+17 * * *
+18 (4) For potable water supply and wastewater permits issued under 10
+19 V.S.A. chapter 64. Projects under this subdivision include: a wastewater
+20 system, including a sewerage connection; and a potable water supply,
+21 including a connection to a public water supply:
+VT LEG #385485 v.1
+
+BILL AS INTRODUCED S.212
+2026 Page 9 of 10
+1 (A) Original applications, or major amendments for a project with the
+2 following proposed design flows. In calculating the fee, the highest proposed
+3 design flow whether wastewater or water shall be used:
+4 (i) design flows 560 gpd or less: $306.25 per application;
+5 (ii) design flows greater than 560 and less than or equal to 2,000
+6 gpd: $870.00 per application;
+7 (iii) design flows greater than 2,000 and less than or equal to
+8 6,500 gpd: $3,000.00 per application;
+9 (iv) design flows greater than 6,500 and less than or equal to
+10 10,000 gpd: $7,500.00 per application;
+11 (v) design flows greater than 10,000 gpd: $13,500.00 per
+12 application.
+13 (B) Minor amendments: $150.00.
+14 (C) Minor projects: $270.00.
+15 As used in this subdivision (j)(4)(C), “minor project” means a project
+16 that meets the following: there is an increase in design flow but no
+17 construction is required; there is no increase in design flow but construction is
+18 required, excluding replacement potable water supplies and wastewater
+19 systems; or there is no increase in design flow and no construction is required,
+20 excluding applications that contain designs that require technical review.
+VT LEG #385485 v.1
+
+BILL AS INTRODUCED S.212
+2026 Page 10 of 10
+1 (D) Notwithstanding the other provisions of this subdivision, when a
+2 project is located in a Vermont neighborhood, as designated under 24 V.S.A.
+3 chapter 76A, the fee shall be no not more than $50.00 in situations in which the
+4 application has received an allocation for sewer capacity from an approved
+5 municipal system. This limitation shall not apply in the case of fees charged as
+6 part of a duly delegated municipal program.
+7 (E) Projects permitted under a municipal potable water supply or
+8 wastewater system connection general permit as established in 10 V.S.A.
+9 § 1973(k)(1) or as adopted by rule per 10 V.S.A. § 1973(k)(2): $500.
+10 * * *
+11 Sec. 6. EFFECTIVE DATE
+12 This act shall take effect on July 1, 2026.
+VT LEG #385485 v.1

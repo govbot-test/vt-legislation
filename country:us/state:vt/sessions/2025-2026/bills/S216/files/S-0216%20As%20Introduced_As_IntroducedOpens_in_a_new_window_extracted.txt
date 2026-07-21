@@ -1,0 +1,190 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED S.216
+2026 Page 1 of 8
+1 S.216
+2 Introduced by Senator Watson
+3 Referred to Committee on
+4 Date:
+5 Subject: Conservation and development; water quality; restoration; general
+6 permit
+7 Statement of purpose of bill as introduced: This bill would require that the
+8 Secretary of Natural Resources adopt by rule on or before December 1, 2027, a
+9 general permit for ecological restoration projects for waters of the State. The
+10 bill also would require the Department of Environmental Conservation Dam
+11 Safety Program in coordination with stakeholders to examine the
+12 environmental review process required for a dam order needed for repair or
+13 rehabilitation of existing dams and consider what, and to what extent, other
+14 factors should be considered before a dam order for repair is granted.
+15 An act relating to ecological restoration projects on waters of the State
+16 It is hereby enacted by the General Assembly of the State of Vermont:
+17 Sec. 1. FINDINGS AND PURPOSE
+18 (a) Findings. The General Assembly finds that:
+19 (1) Vermont’s natural landscape has been influenced by humans for
+20 centuries, but, since European settlement, much of the infrastructure, such as
+VT LEG #385760 v.1
+
+BILL AS INTRODUCED S.216
+2026 Page 2 of 8
+1 dams, old roads, berms, undersized culverts, bridges, and mines, causes long-
+2 term negative impacts on natural and human communities long after the
+3 intended use and in some cases past a safe threshold of functionality.
+4 (2) Over the last two centuries, human channel management practices,
+5 such as riverbank armoring, straightening, dredging, and berming, have created
+6 a degraded condition in many Vermont rivers and streams where flows are
+7 largely kept within the channel, resulting in increased stream power, reduced
+8 access to floodplains, and increased erosion hazards and flood damages.
+9 (3) As Vermont experiences a rapidly warming climate, implementation
+10 of water restoration projects can help prevent public harm and property
+11 damage while also working to address and reverse some of the direct causes of
+12 impairment by restoring natural processes such as sediment transport,
+13 floodplain function, water flow and filtration, soil stabilization, nutrient
+14 cycling, and native species interaction and succession.
+15 (4) Restored stream and river systems can attenuate flood waters, filter
+16 stormwater, store carbon, and provide habitat refuge for diverse species.
+17 Protecting these natural systems will best prepare us to adapt for our future.
+18 Improved conditions for species diversity within an ecosystem enhances its
+19 stability and ability to recover from disturbance.
+20 (5) Dam removal projects are river restoration projects that offer many
+21 benefits to flood resilience, public safety, aquatic habitat, stream equilibrium,
+VT LEG #385760 v.1
+
+BILL AS INTRODUCED S.216
+2026 Page 3 of 8
+1 water quality, and recreation. Studies have found that the long-term ecological
+2 benefits, such as improved water quality and temperature, natural sediment
+3 transport, and resident and migratory species passage and recovery,
+4 demonstrate that dam removal is an effective long-term river restoration tool.
+5 (6) The Vermont General Assembly enacted 2024 Acts and Resolves
+6 No. 121, known as the Flood Safety Act, that requires a State policy of a net
+7 gain of wetlands to be achieved through protection of existing wetlands and
+8 restoration of wetlands that were previously adversely affected.
+9 (7) Ecological restoration is prioritized in numerous State and regional
+10 plans, including Vermont’s Climate Action Plan, the Resilience
+11 Implementation Strategy, Vermont Conservation Design, the State Wildlife
+12 Action Plan, and Lake Champlain Basin Program’s Opportunities for Action.
+13 (8) By reducing the impacts of flooding on communities and
+14 infrastructure, river and stream restoration projects can also reduce the damage
+15 caused by increasingly frequent flooding and the cost of repairs and recovery
+16 while reducing the costs of delays.
+17 (9) The development review process for water restoration projects
+18 results in significant delays and adds unnecessary costs. As these types of
+19 projects are often publicly funded, the goal is to limit the strain on these
+20 resources and complete as many water restoration projects as possible with
+VT LEG #385760 v.1
+
+BILL AS INTRODUCED S.216
+2026 Page 4 of 8
+1 these limited funds to make communities as flood and drought resilient as
+2 possible.
+3 (b) Purpose.
+4 (1) The damage from the devastating floods of 2023 and 2024 was
+5 compounded by centuries of human activities that have led to the degradation
+6 of Vermont’s rivers and their surrounding watersheds. There is a need to
+7 restore the natural functions of waters of the State and the associated
+8 floodplains and wetlands in order to address flood and drought resiliency,
+9 water quality degradation, and biodiversity decline.
+10 (2) Despite this need, water restoration projects currently require a
+11 complicated regulatory review process involving multiple state permits in
+12 order to move the projects forward. However, these permits were created to
+13 ensure that development would limit impacts to natural systems and, therefore,
+14 these permits are inappropriate for ecological restoration since they create
+15 barriers that delay implementation and increase the cost of critical restoration
+16 projects.
+17 (3) Due to an urgent need to achieve the public safety and long-term
+18 ecological benefits of water restoration projects, such as dam removals,
+19 traditional development projects and restoration projects must be regulated
+20 differently, and with a categorically elevated degree of efficiency for
+21 restoration projects. Under this proposal, the Department of Environmental
+VT LEG #385760 v.1
+
+BILL AS INTRODUCED S.216
+2026 Page 5 of 8
+1 Conservation and the Department of Fish and Wildlife should work together to
+2 establish general permit criteria for water restoration projects. This would
+3 provide a holistic approach that streamlines the regulatory process, and
+4 promotes efficient, effective restoration to meet the scale of the problems that
+5 the State’s river systems and human communities face.
+6 Sec. 2. 10 V.S.A. chapter 47, subchapter 3B is added to read:
+7 Subchapter 3B. River Restoration Projects
+8 § 1361. DEFINITIONS
+9 As used in this subchapter:
+10 (1) “Ecological restoration” means the process of assisting in the
+11 recovery of the structure and function of a natural condition following negative
+12 impacts through human actions, such as development including infrastructure
+13 and altering rivers and flood plains.
+14 (2) “Ecosystems” are dynamic communities of plants, animals, and
+15 microorganisms interacting with their physical environment.
+16 (3) “Dam removal” means all actions needed to eliminate the risk of
+17 dam failure–related inundation below the dam and channel instability upstream
+18 of the dam, including partial or complete structural removal to the extent that
+19 the dam is no longer capable of impounding water, liquid, or sediment and
+20 natural river functions are restored, including sediment transport and upstream
+21 and downstream aquatic organism passage.
+VT LEG #385760 v.1
+
+BILL AS INTRODUCED S.216
+2026 Page 6 of 8
+1 (4) “Secretary” means the Secretary of Natural Resources.
+2 § 1362. RIVER RESTORATION PROJECTS; GENERAL PERMIT
+3 (a) On or before December 1, 2026, the Secretary shall adopt by rule a
+4 general permit for ecological restoration projects for waters of the State with
+5 the explicit objectives of increasing flood resilience, improving water quality,
+6 and increasing biodiversity that are accomplished through natural resources
+7 restoration practices including dam removal, culvert replacement, berm
+8 removal, and floodplain restoration projects.
+9 (b) The general permit shall consider whether all or some of the criteria of
+10 the following current permits should be incorporated into a water restoration
+11 general permit, including a stream alteration permit, a dam safety order, a
+12 wetlands determination or permit, a rare and threatened species review, a Clean
+13 Water Act Section 401 water quality certification, a stormwater construction
+14 general or individual permit, an insignificant waste management event permit,
+15 and a shoreland protection permit.
+16 § 1363. DAM SAFETY ORDER
+17 (a) The Department of Environmental Conservation Dam Safety Program,
+18 in coordination with stakeholders including engineers, municipalities, utilities,
+19 project proponents, and restoration practitioners, shall examine the
+20 environmental review process required for a dam order needed for repair or
+21 rehabilitation of existing dams under 10 V.S.A. chapter 43 and consider what,
+VT LEG #385760 v.1
+
+BILL AS INTRODUCED S.216
+2026 Page 7 of 8
+1 and to what extent, other factors should be considered before a dam order for
+2 repair is granted.
+3 (b) The examination required by subsection (a) of this section shall
+4 encompass the scope of the current environmental review process and the
+5 effects of the proposed project on public safety as required in section 1086 of
+6 this title, as well as the impacts on ecological restoration for flood resiliency,
+7 and include prioritization of the following:
+8 (1) identify improvements that will more comprehensively address the
+9 public safety and environmental impacts of these projects, including an
+10 alternatives analysis for dam breaching or dam removal;
+11 (2) identify specific criteria that the Department of Fish and Wildlife
+12 investigation required under section 1084 of this title will address to limit
+13 impacts on fish and wildlife in the vicinity of a dam; and
+14 (3) that the greatest benefit to the people of the State shall include
+15 ecological restoration, as well as public safety, scenic and recreational values,
+16 fish and wildlife, existing public recreational uses, creation of any hazard to
+17 public use, and attainment of Vermont Water Quality Standards, and how each
+18 of these factors weighs into the recommendations in the dam order.
+19 Sec. 3. IMPLEMENTATION; REPORT TO GENERAL ASSEMBLY
+20 On or before December 1, 2027, the Department of Environmental
+21 Conservation shall submit to the House Committee on Environment and the
+VT LEG #385760 v.1
+
+BILL AS INTRODUCED S.216
+2026 Page 8 of 8
+1 Senate Committee on Natural Resources and Energy the recommended
+2 changes to the dam safety environmental review process required under 10
+3 V.S.A. § 1363. The recommendations shall include potential statutory changes
+4 to 10 V.S.A. chapter 43 that address the factors listed in 10 V.S.A. § 1363(b).
+5 Sec. 4. EFFECTIVE DATE
+6 This act shall take effect on July 1, 2026.
+VT LEG #385760 v.1

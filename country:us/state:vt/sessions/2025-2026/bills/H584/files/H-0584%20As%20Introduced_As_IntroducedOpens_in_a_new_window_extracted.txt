@@ -1,0 +1,65 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.584
+2026 Page 1 of 3
+1 H.584
+2 Introduced by Representative Casey of Montpelier
+3 Referred to Committee on
+4 Date:
+5 Subject: Taxation; income tax; public safety pensions
+6 Statement of purpose of bill as introduced: This bill proposes to exclude
+7 income from public safety pensions and survivor benefits from Vermont
+8 income taxation.
+9 An act relating to excluding public safety pension and survivor benefit
+10 income from income taxation
+11 It is hereby enacted by the General Assembly of the State of Vermont:
+12 Sec. 1. 32 V.S.A. § 5811 is amended to read:
+13 § 5811. DEFINITIONS
+14 As used in this chapter unless the context requires otherwise:
+15 * * *
+16 (21) “Taxable income” means, in the case of an individual, federal
+17 adjusted gross income determined without regard to 26 U.S.C. § 168(k) and:
+18 * * *
+19 (B) decreased by the following items of income (to the extent such
+20 income is included in federal adjusted gross income):
+VT LEG #386326 v.1
+
+BILL AS INTRODUCED H.584
+2026 Page 2 of 3
+1 * * *
+2 (iv) the portion of certain retirement income and federally taxable
+3 benefits received under the federal Social Security Act that is required to be
+4 excluded under section 5830e of this chapter;
+5 (v) the amount of any federal deduction or credit that the taxpayer
+6 would have been allowed for the cultivation, testing, processing, or sale of
+7 cannabis or cannabis products as authorized under 7 V.S.A. chapter 33 or 37,
+8 but for 26 U.S.C. § 280E; and
+9 (vi) the amount of interest paid by a qualified resident taxpayer
+10 during the taxable year on a qualified education loan for the costs of attendance
+11 at an eligible educational institution; and
+12 (vii) any pension or survivor benefit income received from a U.S.
+13 state or municipality relating to service as a police officer, firefighter, or
+14 emergency medical technician; and
+15 * * *
+16 Sec. 2. 32 V.S.A. § 5813 is amended to read:
+17 § 5813. STATUTORY PURPOSES
+18 * * *
+19 (bb) The statutory purpose of the exemption of pension and survivor
+20 benefit income in subdivision 5811(21)(B)(vii) of this title is to lessen the tax
+VT LEG #386326 v.1
+
+BILL AS INTRODUCED H.584
+2026 Page 3 of 3
+1 burden on Vermonters who derive part of their income from benefits for public
+2 safety professionals.
+3 Sec. 3. EFFECTIVE DATE
+4 Notwithstanding 1 V.S.A. § 214, this act shall take effect retroactively on
+5 January 1, 2026, and apply to taxable years beginning on and after January 1,
+6 2026.
+VT LEG #386326 v.1
