@@ -1,0 +1,137 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.529
+2026 Page 1 of 6
+1 H.529
+2 Introduced by Representative LaLonde of South Burlington
+3 Referred to Committee on
+4 Date:
+5 Subject: Criminal procedures; conditions of release; pretrial supervision
+6 Statement of purpose of bill as introduced: This bill proposes to permit pretrial
+7 supervision officers to file a motion with the Criminal Division to review
+8 pretrial supervision conditions upon a violation of a court-imposed condition.
+9 An act relating to enforcing violations of court-imposed pretrial supervision
+10 conditions
+11 It is hereby enacted by the General Assembly of the State of Vermont:
+12 Sec. 1. 13 V.S.A. § 7555 is amended to read:
+13 § 7555. PRETRIAL SUPERVISION PROGRAM
+14 (a) Purpose. The purpose of the Pretrial Supervision Program is to assist
+15 eligible people persons through the use of evidence-based strategies to improve
+16 pretrial compliance with conditions of release, to coordinate and support the
+17 provision of pretrial services when appropriate, to ensure attendance at court
+18 appearances, and to decrease the potential to recidivate while awaiting trial.
+19 (b) Definition. As used in this section, “absconded” has the same meaning
+20 as “absconding” as defined in 28 V.S.A. § 722(1)(B)–(C) 722(1)(B) and (C).
+VT LEG #385253 v.1
+
+BILL AS INTRODUCED H.529
+2026 Page 2 of 6
+1 (c) Pretrial supervision.
+2 (1) Except as provided in subsection (g) of this section, beginning on
+3 January 1, 2025, the Pretrial Supervision Program shall, if ordered by the court
+4 pursuant to subsection (d) of this section, monitor defendants who have been
+5 charged with violating a condition of release pursuant to section 7559 of this
+6 title or have not fewer than five pending dockets and pose a risk of
+7 nonappearance at court hearings, a risk of flight, or a risk of endangering the
+8 public.
+9 (2) The Department shall assign a pretrial supervision officer to monitor
+10 defendants in a designated region of Vermont and help coordinate any pretrial
+11 services needed by the defendant. The Department shall determine the
+12 appropriate level of supervision using evidence-based screenings of those
+13 defendants eligible to be placed in the Program. The Department’s supervision
+14 levels may include use of:
+15 (A) the Department’s telephone monitoring system;
+16 (B) telephonic meetings with a pretrial supervision officer;
+17 (C) in-person meetings with a pretrial supervision officer;
+18 (D) electronic monitoring; or
+19 (E) any other means of contact deemed appropriate.
+20 (3) When placing a defendant into the Program pursuant to subsection
+21 (d) of this section, the court shall issue an order that sets the defendant’s level
+VT LEG #385253 v.1
+
+BILL AS INTRODUCED H.529
+2026 Page 3 of 6
+1 of supervision based on the recommendations submitted by the Department of
+2 Corrections.
+3 (d) Procedure.
+4 (1) At arraignment or at a subsequent hearing, the prosecutor or the
+5 defendant may move, or on the court’s own motion, that the defendant be
+6 reviewed by the court to determine whether the defendant is appropriate for
+7 pretrial supervision. The review shall be scheduled upon the court’s receipt of
+8 a report from the Department of Corrections containing recommendations
+9 pertaining to the defendant’s supervision level.
+10 (2) A defendant is eligible for pretrial supervision if the person has:
+11 (A) violated conditions of release pursuant to section 7559 of this
+12 title; or
+13 (B) not fewer than five pending court dockets.
+14 (3) After a hearing and review of the Department of Corrections’ report
+15 containing the defendant’s supervision level recommendations, the court may
+16 order that the defendant be released to the Pretrial Supervision Program,
+17 provided that the court finds placing the defendant under pretrial supervision
+18 will reasonably ensure the person’s appearance in court when required, will
+19 reasonably mitigate the risk of flight, or reasonably ensure protection of the
+20 public. In making such a determination, the court shall consider the following:
+VT LEG #385253 v.1
+
+BILL AS INTRODUCED H.529
+2026 Page 4 of 6
+1 (A) the nature of the violation of conditions of release pursuant to
+2 section 7559 of this title;
+3 (B) the nature and circumstances of the underlying offense or
+4 offenses with which the defendant is charged;
+5 (C) the defendant’s prior convictions, history of violence, medical
+6 and mental health needs, history of supervision, and risk of flight;
+7 (D) any risk or undue burden to third parties or risk to public safety
+8 that may result from the placement; or
+9 (E) any other factors that the court deems appropriate.
+10 (e) Compliance and review.
+11 (1) Pretrial supervision officers shall notify the prosecutor and use
+12 reasonable efforts to notify the defendant of any violations of court-imposed
+13 Program conditions committed by the defendant.
+14 (2) Pretrial supervision officers may notify the prosecutor and use
+15 reasonable efforts to notify the defendant of any violations of Department-
+16 imposed administrative conditions committed by the defendant.
+17 (3)(A) Upon the motion of the prosecutor or the defendant, or on the
+18 court’s own motion, a defendant’s compliance with pretrial supervision
+19 conditions may be reviewed by the court.
+VT LEG #385253 v.1
+
+BILL AS INTRODUCED H.529
+2026 Page 5 of 6
+1 (B) Pretrial supervision officers may file a motion to review pretrial
+2 supervision conditions for a violation of court-imposed Program conditions
+3 committed by the defendant.
+4 (4) Upon submission of the pretrial supervision officer’s sworn affidavit
+5 by the prosecutor, the court may issue a warrant for the arrest of a defendant
+6 who fails to report to the pretrial supervision officer, commits multiple
+7 violations of supervision requirements, or has absconded.
+8 (f) Policies and procedures.
+9 (1) On or before November 1, 2024, the Department of Corrections shall
+10 establish written policies and procedures for the Pretrial Supervision Program
+11 to be used by the Department and any contractors or grantees that the
+12 Department engages with to assist in the monitoring operations of the Program
+13 and to assist the courts in understanding the Program.
+14 (2) The Department shall develop policies and procedures concerning
+15 supervision levels, evidence-based criteria for each supervision level, and the
+16 means of contact that is appropriate for each supervision level.
+17 (g) Contingent on funding. The Pretrial Supervision Program established
+18 in this section shall operate only to the extent funds are appropriated for its
+19 operation. If the Program is not operating in a particular county, the courts
+20 shall not order pretrial supervision as a condition of release in accordance with
+21 section 7554 of this title.
+VT LEG #385253 v.1
+
+BILL AS INTRODUCED H.529
+2026 Page 6 of 6
+1 (h) Program support. The Department may support the operation of the
+2 Program through grants of financial assistance to, or contracts for services
+3 with, any public entity that meets the Department’s requirements.
+4 Sec. 2. EFFECTIVE DATE
+5 This act shall take effect on July 1, 2026.
+VT LEG #385253 v.1

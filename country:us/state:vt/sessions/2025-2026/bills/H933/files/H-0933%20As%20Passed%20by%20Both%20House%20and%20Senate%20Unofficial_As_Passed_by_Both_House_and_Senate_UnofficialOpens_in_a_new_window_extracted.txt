@@ -1,0 +1,1762 @@
+Title: 
+Official Title: 
+Source: versions - As Passed by Both House and Senate (UnofficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 1 of 72
+1 H.933
+2 An act relating to miscellaneous administrative and policy changes to the
+3 tax laws
+4 It is hereby enacted by the General Assembly of the State of Vermont:
+5 * * * Credit for Taxes Paid in Another State by an S Corporation * * *
+6 Sec. 1. REPEAL
+7 32 V.S.A. § 5916 (denial of tax credits for S corporations) is repealed.
+8 * * * Property Transfer Tax * * *
+9 Sec. 2. 32 V.S.A. § 9602 is amended to read:
+10 § 9602. TAX ON TRANSFER OF TITLE TO PROPERTY
+11 A tax is hereby imposed upon the transfer by deed of title to property
+12 located in this State, or a transfer or acquisition of a controlling interest in any
+13 person with title to property in this State. The amount of the tax equals 1.25
+14 percent of the value of the property transferred, or $1.00, whichever is greater,
+15 except as follows:
+16 * * *
+17 (4) Tax shall be imposed at the rate of 3.4 percent of the value of the
+18 property transferred with respect to transfers of residential property:
+19 (A) residential property that is fit for habitation on a year-round
+20 basis;
+21 (B) that will not be used as the principal residence of the transferee;
+22 and
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 2 of 72
+1 (C) for which the transferee will not be required to provide a landlord
+2 certificate pursuant to section 6069 of this title.
+3 (5) If a transfer would have been subject to the tax rate under
+4 subdivision (4) of this section but for the transferee’s filing of a landlord
+5 certificate of rent for which there is no bona fide landlord-tenant relationship
+6 between the parties, the Commissioner shall assess tax at the rate under
+7 subdivision (4) of this section on the transfer. To make this determination, the
+8 Commissioner may consider whether the transferee and tenant are related
+9 parties, whether the transferee charges the tenant fair market rent, whether the
+10 transferee is an entity with a business purpose other than the avoidance of
+11 property transfer tax, and any other factor the Commissioner deems relevant.
+12 * * * Current Use; Land Use Change Tax * * *
+13 Sec. 3. 32 V.S.A. § 3757 is amended to read:
+14 § 3757. LAND USE CHANGE TAX
+15 (a) Land that has been classified as agricultural land or managed forestland
+16 pursuant to this chapter shall be subject to a land use change tax upon the
+17 development of that land, as defined in section 3752 of this chapter. The tax
+18 shall be at the rate of 10 percent of the full fair market value of the changed
+19 land determined without regard to the use value appraisal. If changed land is a
+20 portion of a parcel, the fair market value of the changed land shall be the fair
+21 market value of the changed land as a separate parcel, divided by the common
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 3 of 72
+1 level of appraisal. Such fair market value shall be determined as of the date
+2 the land is no longer eligible for use value appraisal. This tax shall be in
+3 addition to the annual property tax imposed upon such property. Nothing in
+4 this section shall be construed to require payment of an additional land use
+5 change tax upon the subsequent development of the same land, nor shall it be
+6 construed to require payment of a land use change tax merely because
+7 previously eligible land becomes ineligible, provided no development of the
+8 land has occurred.
+9 (b) Any owner of eligible land who wishes to withdraw land from use
+10 value appraisal shall notify the Director, who shall in turn notify the local
+11 assessing official. In the alternative, if the Director determines that
+12 development has occurred, the Director shall notify the local assessing official
+13 of his or her the Director’s determination. Thereafter, land that has been
+14 withdrawn or developed shall be appraised and listed at its full fair market
+15 value in accordance with the provisions of chapter 121 of this title and
+16 subsection 3756(d) of this title, according to the appraisal model and land
+17 schedule of the municipality.
+18 (c) For the purposes of the land use change tax, the determination of the
+19 fair market value of the land shall be made by the local assessing officials in
+20 accordance with the provisions of subsection (b) of this section and divided by
+21 the municipality’s most recent common level of appraisal as determined by the
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 4 of 72
+1 Director. The determination shall be made within 30 days after the Director
+2 notifies the local assessing officials of the date that the owner has petitioned
+3 for withdrawal from use value appraisal or that the Director or local assessing
+4 official has determined that development has occurred. The local assessing
+5 officials shall notify the Director and the owner of their determination, and the.
+6 Failing a determination of the fair market value of the withdrawn portion of the
+7 parcel by the local assessing officials within 30 days as required under this
+8 subsection, the Director shall establish the fair market value of the changed
+9 land and notify the local assessing officials and the owner of the Director’s
+10 determination within 30 days. The provisions for appeal relating to property
+11 tax assessments in chapter 131 of this title shall apply, except that the owner
+12 shall have 30 days to appeal the determination to the municipality or to the
+13 Director as applicable under this subsection. If an owner erroneously appeals a
+14 municipality’s determination to the Director, the Director may forward the
+15 appeal to the municipality and, provided the appeal to the Director is made
+16 within 30 days as permitted under this subsection, the appeal shall be
+17 considered timely filed to the municipality.
+18 (d) The land use change tax shall be due and payable by the owner 30 days
+19 after the tax notice is mailed to the taxpayer owner. The tax shall be paid to
+20 the Commissioner, who, if the municipality’s local assessing officials timely
+21 determine fair market value of the withdrawn portion of the parcel pursuant to
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 5 of 72
+1 subsection (c) of this section, shall remit to the municipality the lesser of one-
+2 half the tax paid or $2,000.00. The Director and shall deposit three-quarters of
+3 the remainder of the tax paid in the Education Fund, and one-quarter of the
+4 remainder of the tax paid in the General Fund. If the municipality’s local
+5 assessing officials fail to timely determine fair market value of the withdrawn
+6 portion of the parcel pursuant to subsection (c) of this section, the municipality
+7 shall forfeit any tax paid and the Commissioner shall deposit three-quarters of
+8 the tax paid in the Education Fund, and one-quarter of the tax paid in the
+9 General Fund. The Commissioner shall issue a form to the assessing officials
+10 that shall provide for a description of the land developed, the amount of tax
+11 payable, and the fair market value of the land at the time of development or
+12 withdrawal from use value appraisal. The owner shall fill out the form and
+13 shall sign it under the penalty of perjury. After receipt of the completed and
+14 signed form, the Commissioner shall furnish the owner with one copy, shall
+15 retain one copy, and shall forward one copy to the local assessing officials, one
+16 copy to the register of deeds of the municipality in which the land is located,
+17 and one copy to the Secretary of Agriculture, Food and Markets if the land is
+18 agricultural land and in all other cases to the Commissioner of Forests, Parks
+19 and Recreation.
+20 * * *
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 6 of 72
+1 Sec. 4. 32 V.S.A. § 3758(b) is amended to read:
+2 (b) Any owner who is aggrieved by the determination of the fair market
+3 value of classified land for the purpose of computing the land use change tax
+4 may appeal in the same manner as an appeal of a grand list valuation under this
+5 title, except that the owner shall have 30 days to appeal the determination to
+6 the municipality or to the Director as applicable under subsection 3757(c) of
+7 this chapter.
+8 Sec. 4a. 32 V.S.A. § 3755(b)(2) is amended to read:
+9 (2) A management report of whatever activity has occurred, signed by
+10 the an owner or forester working on behalf of an owner, has been filed with the
+11 Department of Taxes’ Director of Property Valuation and Review on or before
+12 February 1 of the year following the year when the management activity
+13 occurred.
+14 Sec. 4b. 32 V.S.A. § 4463 is amended to read:
+15 § 4463. OBJECTIONS TO APPEAL
+16 When a taxpayer, an agent designated by the legislative body of the town,
+17 or selectboard claims that an appeal to the Director is in any manner defective
+18 or was not lawfully taken, on or before 14 30 days after mailing of the notice
+19 of appeal by the clerk under Rule 74(b) of the Vermont Rules of Civil
+20 Procedure receipt of the appeal by the Director, the taxpayer, town agent, or
+21 selectboard shall file objections in writing with the Director, and furnish the
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 7 of 72
+1 appellant or appellant’s attorney with a copy of the objections. When the
+2 taxpayer, agent, or selectboard so requests, the Director shall thereupon fix a
+3 time and place for hearing the objections, and shall notify all parties thereof, by
+4 mail or otherwise. Upon hearing or otherwise, the Director shall pass upon the
+5 objections and make such order in relation thereto as is required by law. The
+6 order shall be recorded or attached in the town clerk’s office in the book
+7 wherein the appeal is recorded.
+8 Sec. 4c. REPEAL; GRAND LIST CONTENTS
+9 2025 Acts and Resolves No. 73, Sec. 60 (grand list contents) is repealed.
+10 * * * Municipal Grand List Stabilization Program * * *
+11 Sec. 5. 32 V.S.A. § 3710(c) is amended to read:
+12 (c) Upon notification by the Commissioner of Public Safety, the
+13 Commissioner of Taxes shall certify the payment amounts and make an annual
+14 payment to each municipality for each eligible property to compensate for the
+15 loss of municipal property tax. The payment shall be calculated using the
+16 grand list value of the acquired property for the year during which the property
+17 was either damaged by flooding or identified as flood-prone by the
+18 Commissioner of Public Safety, multiplied by the municipal tax rate, including
+19 any submunicipal tax rates, in effect each in the immediately preceding year.
+20 This payment shall be made on or before January 1 of each year for five years.
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 8 of 72
+1 * * * Communications Property; Inventories * * *
+2 Sec. 6. 32 V.S.A. § 3602b is amended to read:
+3 § 3602b. COMMUNICATIONS PROPERTY
+4 (a) All communications property shall be set in the grand list as real estate.
+5 (b) Communications property owned by a nonmunicipal communications
+6 service provider shall be taxed at appraisal value as defined in section 3481 of
+7 this title.
+8 (c) As used in this section, “communications property” means tangible
+9 personal property used to enable the real-time, two-way, electromagnetic
+10 transmission of information, such as audio, video, and data, that is so fitted and
+11 attached as to be part of a local, state, national, or international
+12 communications network, as well as facilities that are part of a cable television
+13 system as defined in 30 V.S.A. § 501(2). The term includes wires, cables,
+14 conduit, pipes, antennas, poles, and wireless towers. The term does not include
+15 property used solely for one-way, broadcast radio or television transmission
+16 serving the general public and owned and operated by a licensed broadcaster.
+17 (d)(1) On or before May 1 of each year, the Division of Property Valuation
+18 and Review of the Department of Taxes shall provide the listers in each
+19 municipality with the valuation of all taxable communications property of any
+20 communications service provider situated therein as reported by such provider
+21 to the Division.
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 9 of 72
+1 (2) On or before March 31 of each year, each communications service
+2 provider shall submit to the Division a sworn inventory of all its taxable
+3 communications property in a form that identifies the valuation of its property
+4 in each municipality. If the communications service provider fails to submit
+5 the inventory on or before April 15 and in the form prescribed, the
+6 Commissioner may fine the provider not more than $100.00 for each violation,
+7 unless the provider’s failure is due to factors beyond the provider’s control.
+8 (3) The Division shall prescribe the form of the inventory required under
+9 subdivision (2) of this subsection and the officer or officers who shall submit
+10 the sworn inventory. If a communications service provider willfully omits to
+11 make, swear to, and submit an inventory, or to answer any interrogatory
+12 therein, or makes a false answer or statement therein, then the Division shall
+13 ascertain the amount and fair market value of the provider’s communications
+14 property using the best information available to the Division. In addition to the
+15 fine under subdivision (2) of this subsection, the provider shall be barred from
+16 any statutory appeal under this chapter or chapter 129 or 131 of this title of the
+17 value set by the Division under this subdivision.
+18 (4) The valuations provided to the listers pursuant to this section shall be
+19 used by the listers in determining and fixing the valuations of communications
+20 property for the purposes of property taxation.
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 10 of 72
+1 * * * Equalization Study * * *
+2 Sec. 7. 32 V.S.A. § 5405(a) is amended to read:
+3 (a) Annually, on or before April 1, the Commissioner shall determine the
+4 equalized education property tax grand list and coefficient of dispersion for
+5 each municipality in the State; provided, however, that for purposes of
+6 equalizing grand lists pursuant to this section, the equalized education property
+7 tax grand list of a municipality that establishes a tax increment financing
+8 district or a housing development site under 24 V.S.A. chapter 53, subchapter
+9 7 shall include the fair market value of the property in the district or site and
+10 not the original taxable value of the property, and further provided that the
+11 unified towns and gores of Essex County may be treated as one municipality
+12 for the purpose of determining an equalized education property grand list and a
+13 coefficient of dispersion, if the Director determines that all such entities have a
+14 uniform appraisal schedule and uniform appraisal practices.
+15 Sec. 8. 32 V.S.A. § 5406 is amended to read:
+16 § 5406. NOTICE OF FAIR MARKET VALUE AND COEFFICIENT OF
+17 DISPERSION
+18 * * *
+19 (c) If the Director of Property Valuation and Review certifies that a
+20 municipality has completed a townwide reappraisal, the common level of
+21 appraisal for that municipality shall be equal to its new grand list value divided
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 11 of 72
+1 by its most recent equalized grand list value 100 percent, for purposes of
+2 determining education property tax rates.
+3 * * * Health IT Fund Sunset Extension * * *
+4 Sec. 9. 2013 Acts and Resolves No. 73, Sec. 60(10), as amended by 2017 Acts
+5 and Resolves No. 73, Sec. 14, 2018 Acts and Resolves No. 187, Sec. 5, 2019
+6 Acts and Resolves No. 71, Sec. 21, 2021 Acts and Resolves No. 73, Sec. 14,
+7 2023 Acts and Resolves No. 78, Sec. E.306.1, and 2024 Acts and Resolves No.
+8 144, Sec. 11, is further amended to read:
+9 (10) Secs. 48–51 (health care claims tax) shall take effect on July 1,
+10 2013, and Sec. 52 (Health IT-Fund; sunset) shall take effect on July 1, 2026
+11 2031.
+12 Sec. 10. 2019 Acts and Resolves No. 6, Sec. 105, as amended by 2019 Acts
+13 and Resolves No. 71, Sec. 19, 2022 Acts and Resolves No. 83, Sec. 75, 2023
+14 Acts and Resolves No. 78, Sec. E.306.2, and 2024 Acts and Resolves No. 144,
+15 Sec. 12, is further amended to read:
+16 Sec. 105. EFFECTIVE DATES
+17 * * *
+18 (b) Sec. 73 (further amending 32 V.S.A. § 10402) shall take effect on July
+19 1, 2026 2031.
+20 * * *
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 12 of 72
+1 * * * Inflation Index Updates * * *
+2 Sec. 11. 16 V.S.A. § 559(e)(7) is amended to read:
+3 (7) Nothing in this section shall require a school board or supervisory
+4 union board to invite or advertise for bids if it is renewing a contract entered
+5 into pursuant to subsection (a) of this section, provided that:
+6 (A) annual costs will not increase more than the most recent New
+7 England Economic Project Cumulative Price Index National Income and
+8 Product Accounts (NIPA) implicit price deflator, as of November 15, for State
+9 state and local government purchases of goods and services, consumption
+10 expenditures and gross investment published by the U.S. Department of
+11 Commerce, Bureau of Economic Analysis;
+12 (B) the total amount of the contract does not exceed an increase of 30
+13 percent more than the total amount of the original contract,; and
+14 (C) the contract for the renewal period allows termination by the
+15 board following an annual review of performance.
+16 Sec. 12. 16 V.S.A. § 2959a(d) is amended to read:
+17 (d) If the amount of Medicaid reimbursement funds received for services
+18 provided in the prior State fiscal year exceeds $25,000,000.00, in addition to
+19 the 50 percent of the funds paid to supervisory unions submitting Medicaid
+20 bills, 25 percent of the amounts in excess of the $25,000,000.00 shall be paid
+21 into an incentive fund created in the Agency of Education. These funds shall
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 13 of 72
+1 be used for an incentive payment to supervisory unions with student
+2 participation rates of over 80 percent in accordance with a formula to be
+3 developed by the Agency, in consultation with the Vermont Superintendents
+4 Association. For any incentive payments made subsequent to fiscal year 2007,
+5 the $25,000,000.00 threshold of this subsection shall be increased by the
+6 percentage increase of the most recent New England Economic Project
+7 Cumulative Price Index National Income and Product Accounts (NIPA)
+8 implicit price deflator, as of November 15, for state and local government
+9 purchases of goods and services consumption expenditures and gross
+10 investment published by the U.S. Department of Commerce, Bureau of
+11 Economic Analysis, from fiscal year 2005 through the fiscal year for which the
+12 payment is being determined, plus an additional one-tenth of one percent.
+13 Sec. 13. 16 V.S.A. § 4011(b) is amended to read:
+14 (b) For each fiscal year, the base education amount shall be $6,800.00,
+15 increased by the most recent New England Economic Project Cumulative Price
+16 Index National Income and Product Accounts (NIPA) implicit price deflator,
+17 as of November 15, for state and local government purchases of goods and
+18 services consumption expenditures and gross investment published by the U.S.
+19 Department of Commerce, Bureau of Economic Analysis, from fiscal year
+20 2005 through the fiscal year for which the amount is being determined, plus an
+21 additional one-tenth of one percent.
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 14 of 72
+1 Sec. 14. 32 V.S.A. § 5401(12)(B) is amended to read:
+2 (B) In excess of 118 percent of the statewide average district per
+3 pupil education spending increased by inflation, as determined by the Secretary
+4 of Education on or before November 15 of each year based on the passed
+5 budgets to date. As used in this subdivision, “increased by inflation” means
+6 increasing the statewide average district per pupil education spending for fiscal
+7 year 2025 by the most recent New England Economic Project cumulative price
+8 index National Income and Product Accounts (NIPA) implicit price deflator, as
+9 of November 15, for state and local government purchases of goods and
+10 services consumption expenditures and gross investment published by the U.S.
+11 Department of Commerce, Bureau of Economic Analysis, from fiscal year
+12 2025 through the fiscal year for which the amount is being determined.
+13 * * * Homestead Declaration and Property Tax Credit * * *
+14 Sec. 15. 32 V.S.A. § 6062(c) is amended to read:
+15 (c) When a homestead is owned by two or more persons as joint tenants,
+16 tenants by the entirety, or tenants in common and one or more of these persons
+17 are not members of the claimant’s household, the property tax is the same
+18 proportion of the property tax levied on that homestead as the proportion of
+19 ownership of the homestead by the claimant and members of the claimant’s
+20 household; provided, however, that:
+21 * * *
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 15 of 72
+1 (3) the property tax of a claimant who is a joint tenant with a former
+2 spouse and who has possession of the homestead pursuant to the joint owners’
+3 final divorce decree is the property tax for which the claimant is responsible
+4 under the joint owners’ final divorce decree or any modifying orders; and
+5 (4) if the homestead is a portion of a duplex and all owners of the duplex
+6 occupy some portion of the building as their principal residence, the property
+7 tax of the claimant shall be that percentage of the total property tax equal to the
+8 ratio of the claimant’s principal residence value to the total duplex building
+9 value; and
+10 (5) the property tax of a claimant who is a joint tenant or tenant by the
+11 entirety with a spouse who is not a member of the household, and who is party
+12 to a divorce or separation proceeding in a court of law, shall be 100 percent of
+13 the property tax.
+14 * * * Estate Tax * * *
+15 Sec. 16. 32 V.S.A. § 7444(a) is amended to read:
+16 (a) An executor shall submit a Vermont estate tax return to the
+17 Commissioner, on a form prescribed by the Commissioner, when a decedent
+18 has an interest in property with a situs in Vermont and one or both of the
+19 following apply:
+20 (1) a federal estate tax return is required to be filed under 26 U.S.C.
+21 § 6018; or
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 16 of 72
+1 (2) the sum of the federal gross estate and federal adjusted taxable gifts,
+2 as defined in 26 U.S.C. § 2001(b), made within two years of the date of the
+3 decedent’s death exceeds $2,750,000.00 $5,000,000.00.
+4 Sec. 17. 32 V.S.A. § 5930u(h) is amended to read:
+5 (h) Credit allocation; Down Payment Assistance Program.
+6 (1) In fiscal year 2016 through fiscal year 2019, the allocating agency
+7 may award up to $125,000.00 in total first-year credit allocations for loans
+8 through the Down Payment Assistance Program created in subdivision (b)(2)
+9 of this section.
+10 (2) In fiscal year 2020 through fiscal year 2026, the allocating agency
+11 may award up to $250,000.00 in total first-year credit allocations for loans
+12 through the Down Payment Assistance Program created in subdivision (b)(3)
+13 of this section.
+14 (3) In fiscal year 2027 through fiscal year 2031, the allocating agency
+15 may award up to $350,000.00 in total first-year credit allocations for loans
+16 through the Down Payment Assistance Program created in subdivision (b)(3)
+17 of this section.
+18 * * * Federal Tax Credit for SGO Contributions * * *
+19 Sec. 18. FINDINGS
+20 The General Assembly finds:
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 17 of 72
+1 (1) Section 25F of the Internal Revenue Code creates a new federal
+2 program to subsidize scholarships for expenses at public and private schools.
+3 (2) Under the terms of the statute, states may voluntarily elect to
+4 participate in the program, or they may decline to participate.
+5 (3) The decision concerning whether or not to participate in the program
+6 is to be made by “the Governor of the State or by such other individual,
+7 agency, or entity as is designated under State law to make such elections on
+8 behalf of the State with respect to Federal tax benefits.”
+9 Sec. 19. 3 V.S.A. § 24 is added to read:
+10 § 24. GOVERNOR’S LIST OF SCHOLARSHIP GRANTING
+11 ORGANIZATIONS
+12 (a) Annually on December 1, the Governor or designee may elect to
+13 provide a list of organizations that satisfy the conditions of subsection (b) of
+14 this section to the U.S. Secretary of the Treasury for purposes of making the
+15 federal qualified elementary and secondary education scholarship tax credit
+16 available for Vermont taxpayers under 26 U.S.C. § 25F. It shall be presumed
+17 that an organization listed in the previous year will be listed in the subsequent
+18 year unless the Governor finds that the organization has failed to meet the
+19 requirements of this section.
+20 (b) An organization shall not be listed unless the organization meets the
+21 following criteria:
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 18 of 72
+1 (1) it qualifies as a “scholarship granting organization” as defined under
+2 26 U.S.C. § 25F(c)(5);
+3 (2) it is a nonprofit organization with the core mission of providing
+4 educational opportunities to economically underprivileged students through
+5 afterschool programs, summer programs, tutoring, and similar programs;
+6 (3) all grants and scholarships provided by the organization are to
+7 students attending a public school, as defined in 16 V.S.A. § 11(a)(7), or an
+8 independent school, as defined in 16 V.S.A. § 11(a)(8), that is also capable of
+9 receiving public tuition;
+10 (4) all grants and scholarships provided by the organization are for
+11 students to attend a program offered by a program provider that has entered
+12 into a memorandum of understanding pursuant to subsection (c) of this section
+13 with a public school, as defined in 16 V.S.A. § 11(a)(7); an independent
+14 school, as defined in 16 V.S.A. § 11(a)(8), that is also capable of receiving
+15 public tuition; or a school district, as defined in 16 V.S.A. § 11(a)(10); and
+16 (5) when determining whether to award a scholarship, the organization
+17 does not discriminate against any student because of race, color, religion,
+18 ancestry, national origin, sex, sexual orientation, gender identity, place of birth,
+19 crime victim status, or age or against a student with a disability, as that term is
+20 defined under 21 V.S.A. § 495d(5).
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 19 of 72
+1 (c) The memorandum of understanding between a program provider and
+2 school required under subdivision (b)(4) of this section shall include
+3 verification that the program provider offers a program that:
+4 (1) is for after school, during a school break, for supplemental tutoring,
+5 or similar;
+6 (2) is educational in nature; and
+7 (3) does not discriminate against any student because of race, color,
+8 religion, ancestry, national origin, sex, sexual orientation, gender identity,
+9 place of birth, crime victim status, or age or against a student with a disability,
+10 as that term is defined under 21 V.S.A. § 495d(5).
+11 (d) Annually, on or before January 15, each scholarship granting
+12 organization listed pursuant to subsection (a) of this section in the previous
+13 calendar year shall provide a report to the House and Senate Committees on
+14 Education providing the following information relating to activity in the
+15 previous year:
+16 (1) the total amount provided in scholarships under this section;
+17 (2) the total number of scholarships provided under this section;
+18 (3) the total number of scholarship recipients;
+19 (4) a complete list of afterschool programs, summer programs, tutoring,
+20 and similar programs that scholarship recipients attended using scholarship
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 20 of 72
+1 funds provided by the organization and the amount of scholarship funds
+2 received by each program;
+3 (5) the total number of individuals who made donations to the
+4 organization, including the zip code of each individual donor;
+5 (6) the total amount of money received as donations;
+6 (7) the total amount spent on administrative costs with a description of
+7 those administrative costs and an accounting of any unspent funds currently
+8 held; and
+9 (8) a list identifying all employees, officers, and board members of the
+10 organization that includes, for every individual, the name of the position held
+11 and compensation received.
+12 (e) In the Governor’s discretion, the Governor may audit an organization
+13 seeking placement on the list, or a program receiving scholarship funds under
+14 this section, to ensure the organization meets all the requirements for
+15 placement as provided by this section and applicable federal law. The
+16 Governor shall not list an organization that the Governor knows is not in
+17 compliance with the requirements of this section or 26 U.S.C. § 25F(c)(5).
+18 (f)(1) If the Attorney General finds that any provision of this act is
+19 rendered invalid due to a federal act, federal agency rule, or court of competent
+20 jurisdiction, the Attorney General shall submit written notice of the
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 21 of 72
+1 invalidation to the Governor, the Speaker of the House, and the President Pro
+2 Tempore of the Senate that the provision is invalid.
+3 (2) Upon receipt of the notice provided under subdivision (1) of this
+4 subsection, neither the Governor nor the Governor’s designee shall provide a
+5 list of organizations to the U.S. Secretary of the Treasury under subsection (a)
+6 of this section until the General Assembly has enacted legislation addressing
+7 the invalidated provision.
+8 * * * Definition of Parcel * * *
+9 Sec. 20. 32 V.S.A. § 4152(a)(3) is amended to read:
+10 (3) A brief description of each parcel of taxable real estate in the town.
+11 “Parcel” means all contiguous land in the same ownership, together with all
+12 improvements thereon, except for purposes of mapping and per parcel
+13 payments under subsections 4041a(a) and 5405(f) of this title, for which
+14 “parcel” means a separate and sellable lot or piece of real estate.
+15 * * *
+16 * * * Department of Fish and Wildlife Fee Setting * * *
+17 Sec. 21. 10 V.S.A. § 4132 is amended to read:
+18 § 4132. GENERAL DUTIES OF COMMISSIONER
+19 (a) The Commissioner shall have charge of the enforcement of the
+20 provisions of this part.
+21 * * *
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 22 of 72
+1 (e)(1) The Commissioner, subject to the direction and approval of the
+2 Secretary, shall adopt and publish rules in the name of the Agency for
+3 reasonable fees or charges for the use of the lands, roads, buildings, other
+4 property, and the use of and tuition for the Green Mountain Conservation
+5 Camps, notwithstanding 32 V.S.A. § 603. Notwithstanding 32 V.S.A. § 603
+6 and with the approval of the Secretary, the Commissioner may:
+7 (A) issue licenses for the long-term use of Department of Fish and
+8 Wildlife lands for research, academic study, commercial use, or use by
+9 regulated utilities; and
+10 (B) set the tuition for the Green Mountain Conservation Camps.
+11 (2) The Commissioner shall adopt by rule the fees to be charged for
+12 licenses and tuition authorized under this subsection. The Commissioner is
+13 prohibited from adopting by rule a requirement that an individual possess a
+14 license or permit in order to access lands owned or controlled by the
+15 Department of Fish and Wildlife.
+16 (3) Fees collected for the use of fish and wildlife lands and properties
+17 under this subsection shall be deposited in the Fish and Wildlife Fund.
+18 (4) As used in this subsection, “license” means a written instrument
+19 issued by the Commissioner that authorizes research, academic study,
+20 commercial use, or use by regulated utilities on Department lands but does not
+21 vest the licensee with any property rights.
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 23 of 72
+1 * * *
+2 Sec. 22. REPEAL; COMMISSIONER OF FISH AND WILDLIFE RULE ON
+3 FEES FOR THE USE OF FISH AND WILDLIFE DEPARTMENT
+4 LANDS AND FACILITIES
+5 Notwithstanding 3 V.S.A. § 848, Commissioner of Fish and Wildlife Rule
+6 2008-01, CVR 12-010-075, Fees for the Use of Fish and Wildlife Department
+7 Lands and Facilities will remain in effect through June 30, 2027, and will be
+8 repealed on July 1, 2027.
+9 Sec. 23. DEPARTMENT OF FISH AND WILDLIFE REPORT ON FEES
+10 On or before January 15, 2027, the Commissioner of Fish and Wildlife shall
+11 submit to the House Committee on Ways and Means and the Senate
+12 Committee on Finance recommended fees to be charged for the use of the
+13 lands, roads, buildings, or other property owned or controlled by the
+14 Department of Fish and Wildlife so that the General Assembly, consistent with
+15 the requirements of 32 V.S.A. § 603, shall establish the fees by statute for the
+16 service or product provided or regulatory function performed.
+17 * * * Grand List Assessment Date * * *
+18 Sec. 24. 24 V.S.A. § 1892(b) is amended to read:
+19 (b) When adopted by the act of the legislative body of that municipality,
+20 the plan shall be recorded with the municipal clerk and lister or assessor, and
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 24 of 72
+1 the creation of the district shall occur at 12:01 a.m. on April January 1 of the
+2 calendar year so voted by the municipal legislative body.
+3 Sec. 25. 24 V.S.A. § 1904(b)(2) is amended to read:
+4 (2) When adopted by the act of the legislative body of that municipality,
+5 the plan shall be recorded with the municipal clerk and lister or assessor, and
+6 the creation of the district shall occur at 12:01 a.m. on April January 1 of the
+7 calendar year so voted by the municipal legislative body.
+8 Sec. 26. 32 V.S.A. § 3481(1)(B)(iv) is amended to read:
+9 (iv) a capitalization rate that is typical for the geographic area
+10 determined and published annually prior to April January 1 by the Division of
+11 Property Valuation and Review after consultation with the Vermont Housing
+12 Finance Agency.
+13 Sec. 27. 32 V.S.A. § 3482 is amended to read:
+14 § 3482. PROPERTY LISTED AT ONE PERCENT
+15 Except as otherwise provided, all real and personal estate shall be set in the
+16 list at one percent of its listed value on April January 1, of the year of its
+17 appraisal.
+18 Sec. 28. 32 V.S.A. § 3485 is amended to read:
+19 § 3485. RECORDS TO BE KEPT RELATING TO DEEDS AND
+20 MORTGAGES
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 25 of 72
+1 (a) Annually on April January 1, town municipal clerks shall furnish the
+2 listers with copies of the property tax returns filed by the clerk under section
+3 9610 of this title relating to deeds that were filed for record during the year
+4 ending on the first day of such month. However, upon request in writing by
+5 the listers, on or before the 15th day of each month, town municipal clerks
+6 shall furnish the listers with copies of the property transfer tax returns to deeds
+7 that were filed for record during the next preceding calendar month.
+8 (b) Failure on the part of the town municipal clerk to furnish the copies
+9 required under subsection (a) of this section shall not render the town liable in
+10 damages to any person. A town municipal clerk who willfully fails to furnish
+11 the copies required under subsection (a) of this section shall be fined $10.00
+12 for each offense.
+13 Sec. 29. 32 V.S.A. § 3603(a) is amended to read:
+14 (a) Construction equipment and other personal estate used in the
+15 construction or repair of highways, dams, reservoirs, public utilities, or
+16 buildings shall be listed and taxed on the same basis as other personal estate in
+17 the town in which it is located on April January 1. Such equipment brought
+18 into the State after April January 1 and prior to December 15 of any year shall
+19 be taxed as other personal estate for that year in the town in which it is first
+20 used for a normal full work shift. The owner or person in charge of any
+21 equipment enumerated in this section shall, upon request of the Treasurer or
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 26 of 72
+1 tax collector of any municipality, present evidence that it has been listed for
+2 tax purposes in a municipality in this State. The Transportation Board and
+3 other State agencies shall insert in all contracts for construction a term by
+4 which the contractor agrees to pay taxes assessed under this section and section
+5 4151 of this title.
+6 Sec. 30. 32 V.S.A. § 3610(b) is amended to read:
+7 (b) The listers of each town and the appraisers of each unorganized town
+8 and gore shall list every perpetual lease in a separate record in which shall be
+9 shown as to each lease a brief description of the leased land, the fair market
+10 value of the land as appraised by them, the name of the lessor, the annual rental
+11 payable under the lease, and as of April January 1 of each year the name and
+12 address of the lessee. If for any reason the lease is exempt under subsection
+13 (d) of this section, the reason for the exemption shall be noted.
+14 Sec. 31. 32 V.S.A. § 3618(c)(2) is amended to read:
+15 (2) “Net book value” of property means the cost less depreciation of the
+16 property as shown on the federal income tax return required to be filed with the
+17 federal authorities on or nearest in advance of April January 1 in any year.
+18 Sec. 32. 32 V.S.A. § 3651 is amended to read:
+19 § 3651. GENERAL RULE
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 27 of 72
+1 Taxable real estate shall be set in the list to the last owner or possessor
+2 thereof on April January 1 in each year in the town, village, school, and fire
+3 district where it is situated.
+4 Sec. 33. 32 V.S.A. § 3691 is amended to read:
+5 § 3691. GENERAL RULE
+6 Taxable tangible personal estate shall be set in the list to the last owner
+7 thereof on April January 1 in each year, in the town, village, school, and fire
+8 district where such property is situated, with the exception that such personal
+9 estate situated within this State owned by persons residing outside the State or
+10 by persons unknown to the listers shall be set in the list to the person having
+11 the same in charge, in the town, village, school, and fire district where the
+12 same is situated and shall be holden for all taxes assessed on such list.
+13 However, tangible personal estate owned by nonresident persons or
+14 corporation, and used in this State by the State or a department or institution
+15 thereof, under lease, contract or other agreement, written or oral, may be set in
+16 the list in the town where so used, to such nonresident owner.
+17 Sec. 34. 32 V.S.A. § 3692(b) is amended to read:
+18 (b) A trailer coach shall be taxed as real property by the town in which it is
+19 located notwithstanding subsection (a) of this section if it is situated in the
+20 town on the same trailer site or camp site for more than 180 days during the
+21 365 days prior to April January 1. A trailer coach shall not be taxed as real
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 28 of 72
+1 property if it is stored on property on which the owner resides in another
+2 dwelling as a permanent residence.
+3 Sec. 35. 32 V.S.A. § 3708 is amended to read:
+4 § 3708. PAYMENTS IN LIEU OF TAXES FOR LANDS HELD BY THE
+5 AGENCY OF NATURAL RESOURCES
+6 * * *
+7 (b) The State shall annually pay on or before October 31 to each
+8 municipality a payment in lieu of taxes (PILOT) that shall be the base payment
+9 as set forth under this section, for all ANR land, excluding buildings or other
+10 improvements thereon, as of April January 1 of the current year.
+11 (c) The State shall establish the base payment for all ANR land, excluding
+12 buildings or other improvements thereon, as follows;:
+13 (1) On on parcels acquired before April 1, 2016, 0.60 percent of the fair
+14 market value as appraised by the Director of Property Valuation and Review as
+15 of April 1 of fiscal year 2015;
+16 (2) On on parcels acquired on or after April 1, 2016, the municipal tax
+17 rate of the fair market value as assessed on April January 1 in the year of
+18 acquisition by the municipality in which it is located.
+19 * * *
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 29 of 72
+1 Sec. 36. 32 V.S.A. § 3755(b) is amended to read:
+2 (b) Managed forestland shall be eligible for use value appraisal under this
+3 chapter only if:
+4 (1) The land is subject to a forest management plan, subject to a
+5 conservation management plan in the case of lands certified under 10 V.S.A.
+6 § 6306(b), that is filed in the manner and form required by the Department of
+7 Forests, Parks and Recreation and that:
+8 * * *
+9 (D) Provides for continued conservation management, reserve
+10 forestland management, or forest crop production on the parcel for 10 years.
+11 An initial forest management plan or conservation management plan must be
+12 filed with the Department of Forests, Parks and Recreation on or before
+13 October 1 and shall be effective for a 10-year period beginning the following
+14 April January 1. Prior to expiration of a 10-year plan and on or before April
+15 January 1 of the year in which the plan expires, the owner shall file a new
+16 conservation or forest management plan for the next succeeding 10 years to
+17 remain in the program.
+18 * * *
+19 (2) A management report of whatever activity has occurred, signed by
+20 an owner or forester working on behalf of an owner, has been filed with the
+21 Department of Taxes’ Director of Property Valuation and Review on or before
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 30 of 72
+1 February 1 of the year following the year when the management activity
+2 occurred.
+3 (3) There has not been filed with the Director an adverse inspection
+4 report by the Department stating that the management of the tract is contrary to
+5 the forest management plan, conservation management plan, or contrary to the
+6 minimum acceptable standards for forest or conservation management. The
+7 management activity report shall be on a form prescribed by the Commissioner
+8 of Forests, Parks and Recreation in consultation with the Commissioner of
+9 Taxes and shall be signed by all the owners and shall contain the tax
+10 identification numbers of all the owners. All information contained within the
+11 management activity report shall be forwarded to the Department of Forests,
+12 Parks and Recreation, except for any tax identification number included in the
+13 report. If any owner satisfies the Department that he or she the owner was
+14 prevented by accident, mistake, or misfortune from filing an initial or revised
+15 management plan that is required to be filed on or before October 1, or a
+16 management plan update that is required to be filed on or before April January
+17 1 of the year in which the plan expires, or a management activity report that is
+18 required to be filed on or before February 1 of the year following the year
+19 when the management activity occurred, the owner may submit that
+20 management plan or management activity report at a later date; provided,
+21 however, no initial or revised management plan shall be received later than
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 31 of 72
+1 December 31, and no management plan update shall be received later than one
+2 year after April January 1 of the year the plan expires, and no management
+3 activity report shall be received later than March 1.
+4 Sec. 37. 32 V.S.A. § 3802a is amended to read:
+5 § 3802a. REQUIREMENT TO PROVIDE INSURANCE INFORMATION
+6 Before April January 1 of each year, owners of property exempt from
+7 taxation under subdivisions 3802(4), (6), (9), (12), and (15) and under
+8 subdivisions 5401(10)(D), (F), (G), and (J) of this title shall provide their local
+9 assessing officials with information regarding the insurance replacement cost
+10 of the exempt property or with a written explanation of why the property is not
+11 insured.
+12 Sec. 38. 32 V.S.A. § 3850(d) is amended to read:
+13 (d) If a dwelling unit is certified as blighted under subsection (b) of this
+14 section, the exemption shall take effect on the April January 1 following the
+15 certification of the dwelling unit.
+16 Sec. 39. 32 V.S.A. § 4001(a) is amended to read:
+17 (a) Annually on April January 1, at the expense of the State, the Director
+18 shall furnish to the several town municipal clerks and boards of appraisers for
+19 unorganized towns and gores inventory forms sufficient in number to meet the
+20 requirements of this chapter. Such forms shall be formulated by the Director
+21 and, among other things, shall contain suitable interrogatories requiring each
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 32 of 72
+1 taxpayer to furnish therein a brief statement of all of each taxpayer’s taxable
+2 property, real and personal, and such other information, including income and
+3 expense information with respect to any income-producing properties, as will
+4 enable the listers or appraisers to appraise such part thereof as is required by
+5 law to be by them appraised, and to make up the abstract of individual lists and
+6 grand list in the manner prescribed by law.
+7 Sec. 40. 32 V.S.A. § 4004 is amended to read:
+8 § 4004. RETURN OF INVENTORIES BY INDIVIDUALS
+9 On or before April January 20, unless otherwise required, every taxable
+10 person shall procure such inventory form, make full answers to all
+11 interrogatories therein, subscribe the same, make oath thereto, and deliver or
+12 forward the same to one of the listers in the town wherein such person owns or
+13 possesses property required by law to be set to him or her the person in the
+14 grand list. When notice in writing to file, deliver, or forward such inventory on
+15 or before a given date is delivered by one of the listers to a person, or mailed
+16 postage prepaid to him or her the person at his or her the person’s last known
+17 post office address, such person, within the time therein specified, shall
+18 properly fill out such inventory and deliver or forward the same to one of the
+19 listers, notwithstanding he or she the person may not own or possess property
+20 subject to taxation. Persons taxable only for real estate shall not be required to
+21 file such inventory unless notified so to do as herein provided.
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 33 of 72
+1 Sec. 41. 32 V.S.A. § 4041 is amended to read:
+2 § 4041. EXAMINATION OF PROPERTY; APPRAISAL
+3 On April January 1, the listers and assessors shall proceed to take up such
+4 inventories and make such personal examination of the property that they are
+5 required to appraise as will enable them to appraise it at its fair market value.
+6 When a board of listers is of the opinion that expert advice or assistance is
+7 needed in making any appraisal required by law, it may, with approval of
+8 selectboard the legislative body of the municipality or by vote of the town
+9 municipality, employ such assistance.
+10 Sec. 42. 32 V.S.A. § 4044 is amended to read:
+11 § 4044. APPRAISAL OF PERSONALTY ON APRIL JANUARY 1
+12 Unless otherwise provided, the taxable personal estate contained in the
+13 inventory shall be appraised by the listers at its fair market value on April
+14 January 1.
+15 Sec. 43. 32 V.S.A. § 4045 is amended to read:
+16 § 4045. APPRAISAL ON OTHER THAN APRIL JANUARY 1
+17 If any business is normally operated for a period less than 12 consecutive
+18 months and is not in operation on April January 1, an inventory shall be filed
+19 with the listers at least 15 days prior to the anticipated annual suspension of
+20 such business and the stock in trade shall be appraised for the period of
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 34 of 72
+1 operation so as to represent an average of values of such property during that
+2 period in which the business has been carried on.
+3 Sec. 44. 32 V.S.A. § 4605 is amended to read:
+4 § 4605. ASSESSMENT WHEN APPRAISAL ON OTHER THAN APRIL
+5 JANUARY 1
+6 * * *
+7 Sec. 45. 32 V.S.A. § 5401(7) is amended to read:
+8 (7) “Homestead”:
+9 (A) “Homestead” means the principal dwelling and parcel of land
+10 surrounding the dwelling, owned and occupied by a resident individual as the
+11 individual’s domicile or owned and fully leased on April January 1, provided
+12 the property is not leased for more than 182 days out of the calendar year or,
+13 for purposes of the renter credit under subsection 6066(b) of this title, is rented
+14 and occupied by a resident individual as the individual’s domicile.
+15 * * *
+16 (G) For purposes of homestead declaration and application of the
+17 homestead property tax rate, “homestead” also means a residence that was the
+18 homestead of the decedent at the date of death and, from the date of death
+19 through the next April January 1, is held by the estate of the decedent and not
+20 rented.
+21 * * *
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 35 of 72
+1 Sec. 46. 32 V.S.A. § 5404a(a)(6) is amended to read:
+2 (6) An exemption of a portion of the value of a qualified rental unit
+3 parcel. An owner of a qualified rental unit parcel shall be entitled to an
+4 exemption on the education property tax grand list of 10 percent of the grand
+5 list value of the parcel, multiplied by the ratio of square footage of
+6 improvements used for or related to residential rental purposes to total square
+7 footage of all improvements, multiplied by the ratio of qualified rental units to
+8 total residential rental units on the parcel. “Qualified rental units” means
+9 residential rental units that are subject to rent restriction under provisions of
+10 State or federal law but excluding units subject to rent restrictions under only
+11 one of the following programs: Section 8 moderate rehabilitation, Section 8
+12 housing choice vouchers, or Section 236 or Section 515 rural development
+13 rental housing. A municipality shall allow the percentage exemption under
+14 this subsection upon presentation by the taxpayer to the municipality, by April
+15 January 1, of a certificate of education grand list value exemption obtained
+16 from the Vermont Housing Finance Agency (VHFA). VHFA shall issue a
+17 certificate of exemption upon presentation by the taxpayer of information that
+18 VHFA and the Commissioner shall require. A certificate of exemption issued
+19 by VHFA under this subsection shall expire upon transfer of the building, upon
+20 expiration of the rent restriction, or after 10 years, whichever first occurs;
+21 provided, however, that the certificate of exemption may be renewed after 10
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 36 of 72
+1 years and every 10 years thereafter if VHFA finds that the property continues
+2 to meet the requirements of this subsection.
+3 Sec. 47. 32 V.S.A. § 5405 is amended to read:
+4 § 5405. DETERMINATION OF EQUALIZED EDUCATION PROPERTY
+5 TAX GRAND LIST AND COEFFICIENT OF DISPERSION
+6 (a) Annually, on or before April 1, the Commissioner shall determine the
+7 equalized education property tax grand list and coefficient of dispersion for
+8 each municipality in the State; provided, however, that for purposes of
+9 equalizing grand lists pursuant to this section, the equalized education property
+10 tax grand list of a municipality that establishes a tax increment financing
+11 district shall include the fair market value of the property in the district and not
+12 the original taxable value of the property, and further provided that the unified
+13 towns and gores of Essex County may be treated as one municipality for the
+14 purpose of determining an equalized education property grand list and a
+15 coefficient of dispersion, if the Director determines that all such entities have a
+16 uniform appraisal schedule and uniform appraisal practices.
+17 * * *
+18 (c) In determining the fair market value of property that is required to be
+19 listed at fair market value, the Commissioner shall take into consideration
+20 those factors required by section 3481 of this title. The Commissioner shall
+21 value property as of April January 1 preceding the determination and shall take
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 37 of 72
+1 account of all homestead declaration information available before October 1
+2 each year.
+3 * * *
+4 Sec. 48. 32 V.S.A. § 5410 is amended to read:
+5 § 5410. DECLARATION OF HOMESTEAD
+6 (a) A homestead owner shall declare ownership of a homestead for
+7 purposes of education property tax.
+8 (b) Annually, on or before the due date for filing the Vermont income tax
+9 return, without extension, each homestead owner shall, on a form prescribed
+10 by the Commissioner, which shall be verified under the pains and penalties of
+11 perjury, declare the owner’s homestead, if any, as of, or expected to be as of,
+12 April January 1 of the year in which the declaration is made.
+13 * * *
+14 (d) The Commissioner shall provide a list of homesteads in each town to
+15 the town municipal listers and assessors by May 15. The listers and assessors
+16 shall notify the Commissioner by June 1 of any residences on the
+17 Commissioner’s list that do not qualify as homesteads. The listers and
+18 assessors shall separately identify homesteads in the grand list.
+19 * * *
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 38 of 72
+1 * * * Municipal Tax Collection; State Oversight * * *
+2 Sec. 49. 32 V.S.A. chapter 133, subchapter 9 is amended to read:
+3 Subchapter 9. Delinquent Taxes
+4 § 5131. SUPERVISION BY DIRECTOR
+5 The Director shall supervise the collection of delinquent taxes by officials
+6 of towns and other municipal corporations. [Repealed.]
+7 § 5132. CONFERENCES; BULLETINS; FORMS
+8 The Director may examine a tax list in the hands of a collector; shall confer
+9 from time to time with collectors, advise them concerning their official duties,
+10 and furnish them printed instructions and directions relating thereto; shall issue
+11 such bulletins as in the Director’s judgment will aid in enforcing the law; and
+12 shall formulate and furnish the necessary forms for the use of officials required
+13 to make returns to the Director. [Repealed.]
+14 § 5133. MEETINGS OF TAX COLLECTORS
+15 The Director shall call meetings of collectors of taxes to be held at such
+16 places and at such times as he or she shall designate for the purpose of
+17 instruction as to the law governing their official duties and concerning the
+18 collection of delinquent taxes. [Repealed.]
+19 § 5134. FAILURE TO ATTEND MEETINGS; COMPENSATION
+20 Collectors shall attend all meetings for instruction to which they are
+21 summoned in writing by the Director. When a collector is unable to attend, he
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 39 of 72
+1 or she shall notify forthwith the Director stating the cause of such inability and,
+2 in his or her discretion, the Director may summon such collector to attend such
+3 other meeting as he or she may designate. Collectors attending such meetings
+4 shall receive therefor from the treasury of their municipality not less than
+5 $10.00 per day and their necessary expenses. [Repealed.]
+6 § 5135. RETURNS TO DIRECTOR
+7 Collectors and other officials named in this chapter shall render such
+8 assistance, furnish such information, and make such returns to the Director in
+9 relation to the subject of delinquent taxes and the administration of the law in
+10 reference thereto as he or she may require. [Repealed.]
+11 * * *
+12 Sec. 50. [Deleted.]
+13 Sec. 51. [Deleted.]
+14 Sec. 52. [Deleted.]
+15 Sec. 53. [Deleted.]
+16 * * * 10-Year Tax Study * * *
+17 Sec. 54. VERMONT 10-YEAR TAX STUDY
+18 (a) The Joint Fiscal Office, with assistance from the Office of Legislative
+19 Counsel, and under the direction of the Joint Fiscal Committee, shall conduct a
+20 decennial study of Vermont State taxes.
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 40 of 72
+1 (b) In conducting the study, the Joint Fiscal Office shall:
+2 (1) Starting with 2015, analyze historical trends comparing Vermont
+3 taxes to the tax systems of other states, including a comparison of the
+4 percentage of Vermont revenue from each State-level source to the percentage
+5 of revenue from each state-level source in other states.
+6 (2) Analyze Vermont’s taxation levels and tax responsibilities per
+7 capita, per income level, and by incidence on typical Vermont families of
+8 varying incomes, and on typical Vermont business enterprises of varying sizes
+9 and types, and analyze trends in the taxpayer revenue bases for various tax
+10 types.
+11 (3) Analyze and identify any issues or trends relating to tax flight, tax
+12 avoidance, and gaps in enforcement.
+13 (4) Recommend areas for further research and analysis, including ways
+14 to further research the topics of wealth and income in Vermont’s aging
+15 demographic.
+16 (c) Based upon the information resulting from the study in subsection (b) of
+17 this section, the Joint Fiscal Office shall, as part of the study or separately,
+18 review income eligibility criteria for various tax provisions and benefit
+19 programs to assess where potential gaps in eligibility or benefits cliffs may
+20 exist under Vermont’s existing tax laws.
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 41 of 72
+1 (d) For purposes of the study conducted under this section, the Department
+2 of Taxes shall provide assistance as requested by the Joint Fiscal Office.
+3 (e) In fiscal year 2027, $100,000.00 is appropriated from the General Fund
+4 to the Joint Fiscal Office for consultant assistance, data analysis, and other
+5 expenses related to the study conducted under this section. The duty to
+6 implement this section is contingent upon an appropriation of funds in fiscal
+7 year 2027 from the General Fund to the Joint Fiscal Office for the specific
+8 purposes described in this section.
+9 (f) The Joint Fiscal Office shall submit the Vermont 10-year tax study to
+10 the House Committee on Ways and Means and the Senate Committee on
+11 Finance on or before January 15, 2027.
+12 * * * Link-Up and Decoupling from Federal Income Tax Laws * * *
+13 Sec. 55. 32 V.S.A. § 5811 is amended to read:
+14 § 5811. DEFINITIONS
+15 As used in this chapter unless the context requires otherwise:
+16 * * *
+17 (18) “Vermont net income” means, for any taxable year and for any
+18 corporate taxpayer:
+19 (A) the taxable income of the taxpayer for that taxable year under the
+20 laws of the United States, without regard to 26 U.S.C. § 168(k), and excluding
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 42 of 72
+1 income that under the laws of the United States is exempt from taxation by the
+2 states:
+3 (i) increased by:
+4 (I) the amount of any deduction for State and local taxes on or
+5 measured by income, franchise taxes measured by net income, franchise taxes
+6 for the privilege of doing business and capital stock taxes; and
+7 (II) to the extent such income is exempted from taxation under
+8 the laws of the United States by, the amount received by the taxpayer on and
+9 after January 1, 1986, as interest income from state and local obligations, other
+10 than obligations of Vermont and its political subdivisions, and any dividends
+11 or other distributions from any fund to the extent such dividend or distribution
+12 is attributable to such Vermont State or local obligations;
+13 (III) the amount of any deduction for a federal net operating
+14 loss; and
+15 (IV) an amount equal to the bonus depreciation deduction taken
+16 on the taxpayer’s federal income tax return for the taxable year under Section
+17 168(k) or (n) of the Internal Revenue Code;
+18 (V) for any taxpayer that does not qualify as an eligible
+19 taxpayer, an amount equal to any deduction taken on the taxpayer’s federal
+20 income tax return for the taxable year under 26 U.S.C. § 174A and Pub. L. No.
+21 119-21, 139 Stat. 72 (2025) § 70302(f)(2). For purposes of this subdivision
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 43 of 72
+1 (V), the term “eligible taxpayer” means any taxpayer (other than a tax shelter
+2 prohibited from using the cash receipts and disbursements method of
+3 accounting under 26 U.S.C. § 448(a)(3)) that meets the gross receipts test of
+4 26 U.S.C. § 448(c) for the taxable year; and
+5 (VI) an amount equal to the amount of income deducted under
+6 Section 250 of the Internal Revenue Code for the taxable year to the extent
+7 deducted from net income; and
+8 (ii) decreased by:
+9 (I) the “gross-up of dividends” required by the federal Internal
+10 Revenue Code to be taken into taxable income in connection with the
+11 taxpayer’s election of the foreign tax credit;
+12 (II) the amount of income that results from the required
+13 reduction in salaries and wages expense for corporations claiming the Targeted
+14 Job or WIN credits; and
+15 (III) any federal deduction or credit that the taxpayer would
+16 have been allowed for the cultivation, testing, processing, or sale of cannabis
+17 or cannabis products as authorized under 7 V.S.A. chapter 33 or 37, but for
+18 26 U.S.C. § 280E;
+19 (IV) for the taxable year in which the bonus depreciation
+20 deduction is taken on the taxpayer’s federal income tax return under Section
+21 168(k) or (n) of the Internal Revenue Code and for each applicable taxable
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 44 of 72
+1 year thereafter, an amount equal to the depreciation deduction that would be
+2 allowed on that property if the taxpayer had made the election under Section
+3 168(k)(7) or (n)(6) of the Internal Revenue Code to not claim depreciation on
+4 that property. In the taxable year that property is sold or otherwise disposed
+5 of, an additional deduction shall be allowed to the extent the amount of
+6 depreciation claimed under Section 168(k) or (n) of the Internal Revenue Code
+7 on that property has not been recovered through the additional deductions
+8 provided under this subdivision (18). The aggregate amount deducted under
+9 this subdivision (18)(A)(ii)(IV) in all taxable years for any one piece of
+10 property shall not exceed the amount of the bonus depreciation deduction taken
+11 on that property on the taxpayer’s federal income tax return under Section
+12 168(k) or (n) of the Internal Revenue Code, or exceed the amount of the
+13 additional modifications taken for that property on the taxpayer’s Vermont
+14 income tax return under subdivision (i)(IV) of this subdivision (18)(A);
+15 (V) for a taxpayer that does not qualify as an eligible taxpayer
+16 for the taxable year, as defined under subdivision (i)(V) of this subdivision
+17 (18)(A), for the taxable year in which a deduction is taken on the taxpayer’s
+18 federal income tax return under 26 U.S.C. § 174A, or Pub. L. No. 119-21, 139
+19 Stat. 72 (2025) § 70302(f)(2), or both, and for each applicable taxable year
+20 thereafter, an amount equal to the deduction that would be allowed under
+21 26 U.S.C. § 174 applied as those provisions were in effect on December 31,
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 45 of 72
+1 2024. The aggregate amount deducted under this subdivision (18)(A)(ii)(V) in
+2 all taxable years may not exceed the amount of the deduction taken on that
+3 expenditure on the taxpayer’s federal income tax return under the Internal
+4 Revenue Code, or exceed the amount of the addition modifications taken on
+5 the taxpayer’s Vermont income tax return under subdivision (i)(V) of this
+6 subdivision (18)(A);
+7 (VI) for a taxpayer that qualifies as an eligible taxpayer for the
+8 taxable year as defined under subdivision (i)(V) of this subdivision (18)(A) and
+9 has domestic research or experimental expenditures, as defined in 26 U.S.C.
+10 § 174A, as added by subsection 174A(a), which are paid or incurred in taxable
+11 years beginning after December 31, 2021, and before January 1, 2025, and
+12 which was charged to capital account pursuant to 26 U.S.C. § 174 as those
+13 provisions were in effect on December 31, 2024, and further elected under
+14 Pub. L. No. 119-21, 139 Stat. 72 (2025) § 70302(f)(1) to substitute “December
+15 31, 2021” for “December 31, 2024” as the applicable effective date for certain
+16 provisions in 26 U.S.C. § 174A and accordingly filed an amended federal
+17 return for each taxable year affected by such election, for the tax year
+18 beginning on or after January 1, 2025, and for each applicable taxable year
+19 thereafter, a taxpayer may elect to deduct any remaining unamortized amount
+20 with respect to such expenditures in the first taxable year beginning after
+21 December 31, 2024, or to deduct such remaining unamortized amount with
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 46 of 72
+1 respect to such expenditures ratably over the two-taxable year period
+2 beginning with the first taxable year beginning after December 31, 2024. The
+3 aggregate amount deducted under this subdivision (A)(ii)(VI) when combined
+4 with any other deduction for the domestic research or experimental
+5 expenditure allowed pursuant to Vermont’s adoption of the statutes of the
+6 United States relating to the federal income tax under section 5824 of this
+7 chapter in all taxable years may not exceed the amount of the deduction taken
+8 for that expenditure on the taxpayer’s federal income tax return under the
+9 Internal Revenue Code; and
+10 (VII) for a taxpayer that qualifies as an eligible taxpayer for the
+11 taxable year as defined under subdivision (i)(V) of this subdivision (18)(A) and
+12 has made an addition modification under subdivision (i)(V) in a prior tax year,
+13 an amount equal to the subtraction modification that would have been allowed
+14 in this taxable year under subdivision (A)(ii)(V) of this subdivision (18) but for
+15 the taxpayer’s current status as an eligible taxpayer. The aggregate amount
+16 deducted under this subdivision (18)(A)(ii)(VII) in all taxable years for any
+17 expenditure may not exceed the amount of the deduction taken for that
+18 expenditure on the taxpayer’s federal income tax return under the Internal
+19 Revenue Code, or exceed the amount of the addition modifications taken for
+20 that expenditure on the taxpayer’s Vermont income tax return under
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 47 of 72
+1 subdivision (i)(V) of this subdivision (18)(A) for expenditures paid or incurred
+2 in taxable years on or after January 1, 2025.
+3 * * *
+4 (21) “Taxable income” means, in the case of an individual, federal
+5 adjusted gross income determined without regard to 26 U.S.C. § 168(k) and:
+6 (A) increased by the following items of income (to the extent such
+7 income is excluded from federal adjusted gross income):
+8 (i) interest income from non-Vermont state and local obligations;
+9 and
+10 (ii) dividends or other distributions from any fund to the extent
+11 they are attributable to non-Vermont state or local obligations; and
+12 (iii) an amount equal to the bonus depreciation deduction taken on
+13 the taxpayer’s federal income tax return for the taxable year under Section
+14 168(k) or (n) of the Internal Revenue Code, including any amount of bonus
+15 depreciation deduction carried over on the taxpayer’s federal income tax return
+16 as part of a net operating loss from a prior taxable year that is deducted in the
+17 current taxable year; and
+18 (iv) for any taxpayer that does not qualify as an eligible taxpayer,
+19 an amount equal to any deduction taken on the taxpayer’s federal income tax
+20 return for the taxable year under 26 U.S.C. § 174A, or Pub. L. No. 119-21, 139
+21 Stat. 72 (2025) § 70302(f)(2), or both, and any amount of these deductions
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 48 of 72
+1 carried over on the taxpayer’s federal income tax return as part of a net
+2 operating loss from a prior tax year that is deducted in the current taxable year.
+3 For purposes of this subdivision (iv), the term “eligible taxpayer” means any
+4 taxpayer (other than a tax shelter prohibited from using the cash receipts and
+5 disbursements method of accounting under 26 U.S.C. § 448(a)(3)) that meets
+6 the gross receipts test of 26 U.S.C. § 448(c) for the taxable year; and
+7 (B) decreased by the following items of income (to the extent such
+8 income is included in federal adjusted gross income):
+9 (i) income from U.S. government obligations;
+10 (ii) with respect to adjusted net capital gain income as defined in
+11 26 U.S.C. § 1(h) reduced by the total amount of any qualified dividend
+12 income: either the first $5,000.00 of such adjusted net capital gain income or
+13 40 percent of adjusted net capital gain income from the sale of assets held by
+14 the taxpayer for more than three years, except not adjusted net capital gain
+15 income from:
+16 (I) the sale of any real estate or portion of real estate used by
+17 the taxpayer as a primary or nonprimary residence; or
+18 (II) the sale of depreciable personal property other than farm
+19 property and standing timber; or stocks or bonds publicly traded or traded on
+20 an exchange, or any other financial instruments; regardless of whether sold by
+21 an individual or business; and provided that the total amount of decrease under
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 49 of 72
+1 this subdivision (21)(B)(ii) shall not exceed 40 percent of federal taxable
+2 income or $350,000.00, whichever is less;
+3 (iii) recapture of State and local income tax deductions not taken
+4 against Vermont income tax;
+5 (iv) the portion of certain retirement income and federally taxable
+6 benefits received under the federal Social Security Act that is required to be
+7 excluded under section 5830e of this chapter;
+8 (v) the amount of any federal deduction or credit that the taxpayer
+9 would have been allowed for the cultivation, testing, processing, or sale of
+10 cannabis or cannabis products as authorized under 7 V.S.A. chapter 33 or 37,
+11 but for 26 U.S.C. § 280E; and
+12 (vi) the amount of interest paid by a qualified resident taxpayer
+13 during the taxable year on a qualified education loan for the costs of attendance
+14 at an eligible educational institution;
+15 (vii) for the taxable year in which the bonus depreciation
+16 deduction is taken on the taxpayer’s federal income tax return under Section
+17 168(k) or (n) of the Internal Revenue Code and for each applicable taxable
+18 year thereafter, an amount equal to the depreciation deduction that would be
+19 allowed on that property if the taxpayer had made the election under Section
+20 168(k)(7) or (n)(6) of the Internal Revenue Code to not claim bonus
+21 depreciation on that property. In the taxable year that property is sold or
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 50 of 72
+1 otherwise disposed of, an additional deduction shall be allowed to the extent
+2 the amount of depreciation claimed under Section 168(k) or (n) of the Internal
+3 Revenue Code on that property has not been recovered through the additional
+4 deductions provided under this subdivision (21). The aggregate amount
+5 deducted under this subdivision (21)(B)(vii) in all taxable years for any one
+6 piece of property shall not exceed the amount of the bonus depreciation
+7 deduction taken on that property on the taxpayer’s federal income tax return
+8 under Section 168(k) or (n) of the Internal Revenue Code, or exceed the
+9 amount of the addition modifications taken for that property on the taxpayer’s
+10 Vermont income tax return under subdivision (A)(iii) of this subdivision (21);
+11 and
+12 (viii) for a taxpayer that does not qualify as an eligible taxpayer
+13 for the taxable year, as defined under subdivision (A)(iv) of this subdivision
+14 (21), for the taxable year in which a deduction is taken on the taxpayer’s
+15 federal income tax return under 26 U.S.C. § 174A, or Pub. L. No. 119-21, 139
+16 Stat. 72 (2025) § 70302(f)(2), or both, and for each applicable taxable year
+17 thereafter, an amount equal to the deduction that would be allowed under
+18 26 U.S.C. § 174 applied as those provisions were in effect on December 31,
+19 2024. The aggregate amount deducted under this subdivision (21)(B)(viii) in
+20 all taxable years may not exceed the amount of the deduction taken on that
+21 expenditure on the taxpayer’s federal income tax return under the Internal
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 51 of 72
+1 Revenue Code, or exceed the amount of the addition modifications taken on
+2 the taxpayer’s Vermont income tax return under subdivision (A)(iv) of this
+3 subdivision (21);
+4 (ix) for a taxpayer that qualifies as an eligible taxpayer for the
+5 taxable year as defined under subdivision (A)(iv) of this subdivision (21) and
+6 has domestic research or experimental expenditures, as defined in 26 U.S.C.
+7 § 174A, as added by subsection 174A(a), which are paid or incurred in taxable
+8 years beginning after December 31, 2021, and before January 1, 2025, and
+9 which was charged to capital account pursuant to 26 U.S.C. § 174 as those
+10 provisions were in effect on December 31, 2024, and elected under Pub. L. No.
+11 119-21, 139 Stat. 72 (2025) § 70302(f)(1) to substitute “December 31, 2021”
+12 for “December 31, 2024” as the applicable effective date for certain provisions
+13 in 26 U.S.C. § 174A and accordingly filed an amended federal return for each
+14 taxable year affected by such election, for the tax year beginning on or after
+15 January 1, 2025, and for each applicable taxable year thereafter, a taxpayer
+16 may elect to deduct any remaining unamortized amount with respect to such
+17 expenditures in the first taxable year beginning after December 31, 2024, or to
+18 deduct such remaining unamortized amount with respect to such expenditures
+19 ratably over the two-taxable year period beginning with the first taxable year
+20 beginning after December 31, 2024. The aggregate amount deducted under
+21 this subdivision (21)(B)(ix) when combined with any other deduction for the
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 52 of 72
+1 domestic research or experimental expenditure allowed pursuant to Vermont’s
+2 adoption of the statutes of the United States relating to the federal income tax
+3 under section 5824 of this chapter in all taxable years may not exceed the
+4 amount of the deduction taken for that expenditure on the taxpayer’s federal
+5 income tax return under the Internal Revenue Code; and
+6 (x) for a taxpayer that qualifies as an eligible taxpayer for the
+7 taxable year as defined under subdivision (A)(iv) of this subdivision (21) and
+8 has made an addition modification under subdivision (A)(iv) of this
+9 subdivision (21) in a prior tax year, an amount equal to the subtraction
+10 modification that would have been allowed in this taxable year under
+11 subdivision (viii) of this subdivision (21)(B) but for the taxpayer’s current
+12 status as an eligible taxpayer. The aggregate amount deducted under this
+13 subdivision (21)(B)(x) in all taxable years for any expenditure may not exceed
+14 the amount of the deduction taken for that expenditure on the taxpayer’s
+15 federal income tax return under the Internal Revenue Code, or exceed the
+16 amount of the addition modifications taken for that expenditure on the
+17 taxpayer’s Vermont income tax return under subdivision (A)(iv) of this
+18 subdivision (21) for expenditures paid or incurred in taxable years on or after
+19 January 1, 2025; and
+20 * * *
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 53 of 72
+1 (28) “Taxable income” means, in the case of an estate or a trust, federal
+2 taxable income determined without regard to 26 U.S.C. § 168(k) and:
+3 (A) increased by the following items of income:
+4 (i) interest income from non-Vermont state and local obligations;
+5 (ii) dividends or other distributions from any fund to the extent
+6 they are attributable to non-Vermont state or local obligations; and
+7 (iii) the amount of State and local income taxes deducted from
+8 federal gross income for the taxable year; and
+9 (iv) an amount equal to the bonus depreciation deduction taken on
+10 the taxpayer’s federal income tax return for the taxable year under Section
+11 168(k) or (n) of the Internal Revenue Code, including any amount of bonus
+12 depreciation deduction carried over on the taxpayer’s federal income tax return
+13 as part of a net operating loss from a prior tax year that is deducted in the
+14 current taxable year; and
+15 (v) for any taxpayer that does not qualify as an eligible taxpayer,
+16 an amount equal to any deduction taken on the taxpayer’s federal income tax
+17 return for the taxable year under 26 U.S.C. § 174A or Pub. L. No. 119-21, 139
+18 Stat. 72 (2025) § 70302(f)(2), or both, and any amount of these deductions
+19 carried over on the taxpayer’s federal income tax return as part of a net
+20 operating loss from a prior tax year that is deducted in the current taxable year.
+21 For purposes of this subdivision (v), the term “eligible taxpayer” means any
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 54 of 72
+1 taxpayer (other than a tax shelter prohibited from using the cash receipts and
+2 disbursements method of accounting under 26 U.S.C. § 448(a)(3)) that meets
+3 the gross receipts test of 26 U.S.C. § 448(c) for the taxable year; and
+4 (B) decreased by the following items of income:
+5 (i) income from U.S. government obligations;
+6 (ii) with respect to adjusted net capital gain income as defined in
+7 26 U.S.C. § 1(h) reduced by the total amount of any qualified dividend
+8 income: either the first $5,000.00 of such adjusted net capital gain income or
+9 40 percent of adjusted net capital gain income from the sale of assets held by
+10 the taxpayer for more than three years, except not adjusted net capital gain
+11 income from:
+12 (I) the sale of any real estate or portion of real estate used by
+13 the taxpayer as a primary or nonprimary residence; or
+14 (II) the sale of depreciable personal property other than farm
+15 property and standing timber; or stocks or bonds publicly traded or traded on
+16 an exchange, or any other financial instruments; regardless of whether sold by
+17 an individual or business; and provided that the total amount of decrease under
+18 this subdivision (28)(B)(ii) shall not exceed 40 percent of federal taxable
+19 income or $350,000.00, whichever is less; and
+20 (iii) recapture of State and local income tax deductions not taken
+21 against Vermont income tax;
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 55 of 72
+1 (iv) for the taxable year in which the bonus depreciation deduction
+2 is taken on the taxpayer’s federal income tax return under Section 168(k) or (n)
+3 of the Internal Revenue Code and for each applicable taxable year thereafter,
+4 an amount equal to the depreciation deduction that would be allowed on that
+5 property if the taxpayer had made the election under Section 168(k)(7) or
+6 (n)(6) of the Internal Revenue Code to not claim bonus depreciation on that
+7 property. In the taxable year that property is sold or otherwise disposed of, an
+8 additional deduction shall be allowed to the extent the amount of depreciation
+9 claimed under Section 168(k) or (n) of the Internal Revenue Code on that
+10 property has not been recovered through the additional deductions provided
+11 under this subdivision (28). The aggregate amount deducted under this
+12 subdivision (28)(B)(iv) in all taxable years for any one piece of property shall
+13 not exceed the amount of the bonus depreciation deduction taken on that
+14 property on the taxpayer’s federal income tax return under Section 168(k) or
+15 (n) of the Internal Revenue Code, or exceed the amount of the addition
+16 modifications taken on that property on the taxpayer’s Vermont income tax
+17 return under subdivision (A)(iv) of this subdivision (28);
+18 (v) for a taxpayer that does not qualify as an eligible taxpayer for
+19 the taxable year, as defined under subdivision (A)(v) of this subdivision (28),
+20 for the taxable year in which a deduction is taken on the taxpayer’s federal
+21 income tax return under 26 U.S.C. § 174A, or Pub. L. No. 119-21, 139 Stat. 72
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 56 of 72
+1 (2025) § 70302(f)(2), or both, and for each applicable taxable year thereafter,
+2 an amount equal to the deduction that would be allowed under 26 U.S.C. § 174
+3 applied as those provisions were in effect on December 31, 2024. The
+4 aggregate amount deducted under this subdivision (v) in all taxable years may
+5 not exceed the amount of the deduction taken on that expenditure on the
+6 taxpayer’s federal income tax return under the Internal Revenue Code, or
+7 exceed the amount of the addition modifications taken on the taxpayer’s
+8 Vermont income tax return under subdivision (A)(v) of this subdivision (28);
+9 (vi) for a taxpayer that qualifies as an eligible taxpayer for the
+10 taxable year as defined under subdivision (A)(v) of this subdivision (28) and
+11 has domestic research or experimental expenditures, as defined in 26 U.S.C.
+12 § 174A, as added by subsection 174A(a), which are paid or incurred in taxable
+13 years beginning after December 31, 2021, and before January 1, 2025, and
+14 which was charged to capital account pursuant to 26 U.S.C. § 174 as those
+15 provisions were in effect on December 31, 2024, and elected under Pub. L. No.
+16 119-21, 139 Stat. 72 (2025) § 70302(f)(1) to substitute “December 31, 2021”
+17 for “December 31, 2024” as the applicable effective date for certain provisions
+18 in 26 U.S.C. § 174A and accordingly filed an amended federal return for each
+19 taxable year affected by such election, for the tax year beginning on or after
+20 January 1, 2025, and for each applicable taxable year thereafter, a taxpayer
+21 may elect to deduct any remaining unamortized amount with respect to such
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 57 of 72
+1 expenditures in the first taxable year beginning after December 31, 2024, or to
+2 deduct such remaining unamortized amount with respect to such expenditures
+3 ratably over the two-taxable year period beginning with the first taxable year
+4 beginning after December 31, 2024. The aggregate amount deducted under
+5 this subdivision (28)(B)(vi) when combined with any other deduction for the
+6 domestic research or experimental expenditure allowed pursuant to Vermont’s
+7 adoption of the statutes of the United States relating to the federal income tax
+8 under section 5824 of this chapter in all taxable years may not exceed the
+9 amount of the deduction taken for that expenditure on the taxpayer’s federal
+10 income tax return under the Internal Revenue Code; and
+11 (vii) for a taxpayer that qualifies as an eligible taxpayer for the
+12 taxable year as defined under subdivision (A)(v) of this subdivision (28) and
+13 has made an addition modification under subdivision (A)(v) of this subdivision
+14 (28) in a prior tax year, an amount equal to the subtraction modification that
+15 would have been allowed in this taxable year under subdivision (v) of this
+16 subdivision (28)(B) but for the taxpayer’s current status as an eligible
+17 taxpayer. The aggregate amount deducted under this subdivision in all taxable
+18 years for any expenditure may not exceed the amount of the deduction taken
+19 for that expenditure on the taxpayer’s federal income tax return under the
+20 Internal Revenue Code, or exceed the amount of the addition modifications
+21 taken for that expenditure on the taxpayer’s Vermont income tax return under
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 58 of 72
+1 subdivision (A)(v) of this subdivision (28) for expenditures paid or incurred in
+2 taxable years on or after January 1, 2025.
+3 * * *
+4 Sec. 55a. 32 V.S.A. § 5811 is amended to read:
+5 § 5811. DEFINITIONS
+6 As used in this chapter:
+7 * * *
+8 (21) “Taxable income” means, in the case of an individual, federal
+9 adjusted gross income and:
+10 (A) increased by the following items of income (to the extent such
+11 income is excluded from federal adjusted gross income):
+12 * * *
+13 (v) an amount equal to any income or gain from the sale or
+14 exchange of qualified small business stock excluded from federal gross income
+15 for the taxable year under Section 1202(a) of the Internal Revenue Code; and
+16 (B) decreased by the following items of income (to the extent such
+17 income is included in federal adjusted gross income):
+18 (i) income from U.S. government obligations;
+19 (ii)(I) with respect to adjusted net capital gain income as defined
+20 in 26 U.S.C. § 1(h) reduced by the total amount of any qualified dividend
+21 income: either the first $5,000.00 of such adjusted net capital gain income or
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 59 of 72
+1 40 percent of adjusted net capital gain income from the sale of assets held by
+2 the taxpayer for more than three years, except not adjusted net capital gain
+3 income from:
+4 (I)(aa) the sale of any real estate or portion of real estate used
+5 by the taxpayer as a primary or nonprimary residence; or
+6 (II)(bb) the sale of depreciable personal property other than
+7 farm property and standing timber; or stocks or bonds publicly traded or traded
+8 on an exchange, or any other financial instruments; regardless of whether sold
+9 by an individual or business; and provided that the total amount of decrease
+10 under this subdivision (21)(B)(ii) shall not exceed 40 percent of federal taxable
+11 income or $350,000.00, whichever is less;
+12 (II) notwithstanding the limitation under subdivision (I)(bb) of
+13 this subdivision (ii) relating to “stocks or bonds publicly traded or traded on an
+14 exchange, or any other financial instruments,” gains from the sale or exchange
+15 of qualified small business stock added to taxable income under subdivision
+16 (A)(v) of this subdivision (21) may be decreased pursuant to this subdivision
+17 (ii); accordingly, for the purposes of this subdivision (ii), adjusted net capital
+18 gain income, federal adjusted gross income, and federal taxable income shall
+19 include any amounts added to a taxpayer’s taxable income pursuant to
+20 subdivision (A)(v) of this subdivision (21); and
+21 * * *
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 60 of 72
+1 (28) “Taxable income” means, in the case of an estate or a trust, federal
+2 taxable income and:
+3 (A) increased by the following items of income:
+4 * * *
+5 (vi) an amount equal to any income or gain from the sale or
+6 exchange of qualified small business stock excluded from federal gross income
+7 for the taxable year under Section 1202(a) of the Internal Revenue Code; and
+8 (B) decreased by the following items of income:
+9 (i) income from U.S. government obligations;
+10 (ii)(I) with respect to adjusted net capital gain income as defined
+11 in 26 U.S.C. § 1(h) reduced by the total amount of any qualified dividend
+12 income: either the first $5,000.00 of such adjusted net capital gain income or
+13 40 percent of adjusted net capital gain income from the sale of assets held by
+14 the taxpayer for more than three years, except not adjusted net capital gain
+15 income from:
+16 (I)(aa) the sale of any real estate or portion of real estate used
+17 by the taxpayer as a primary or nonprimary residence; or
+18 (II)(bb) the sale of depreciable personal property other than
+19 farm property and standing timber; or stocks or bonds publicly traded or traded
+20 on an exchange, or any other financial instruments; regardless of whether sold
+21 by an individual or business; and provided that the total amount of decrease
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 61 of 72
+1 under this subdivision (28)(B)(ii) shall not exceed 40 percent of federal taxable
+2 income or $350,000.00, whichever is less;
+3 (II) notwithstanding the limitation under subdivision (I)(bb) of
+4 this subdivision (ii) relating to “stocks or bonds publicly traded or traded on an
+5 exchange, or any other financial instruments,” gains from the sale or exchange
+6 of qualified small business stock added to taxable income under subdivision
+7 (A)(vi) of this subdivision (28) may be decreased pursuant to this subdivision
+8 (ii); accordingly, for the purposes of this subdivision (ii), adjusted net capital
+9 gain income, federal adjusted gross income, and federal taxable income shall
+10 include any amounts added to a taxpayer’s taxable income pursuant to
+11 subdivision (A)(vi) of this subdivision (28); and
+12 * * *
+13 Sec. 56. 32 V.S.A. § 5822 is amended to read:
+14 § 5822. TAX ON INCOME OF INDIVIDUALS, TRUSTS, AND ESTATES
+15 * * *
+16 (e) The tax determined under subsections (a) through (d) of this section
+17 shall be reduced by a percentage equal to the portion of adjusted gross income
+18 that is not Vermont income; provided, however, that if a taxpayer’s Vermont
+19 income exceeds the taxpayer’s adjusted gross income, no reduction shall be
+20 made and provided, further, that if a taxpayer has zero or negative Vermont
+21 income and the taxpayer’s Vermont income computed without regard to the
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 62 of 72
+1 reductions in subsection 5823(a) of this chapter does not equal or exceed the
+2 taxpayer’s adjusted gross income, no tax shall be due under this section. For
+3 the purposes of this subsection, adjusted gross income means federal adjusted
+4 gross income modified by the additions and subtractions provided for in
+5 subdivisions 5811(21)(A) and (B) of this chapter for an individual, and federal
+6 adjusted gross income modified by the additions and subtractions provided for
+7 in subdivisions 5811(28)(A) and (B) of this chapter for an estate or a trust.
+8 Sec. 57. 32 V.S.A. § 5823 is amended to read:
+9 § 5823. VERMONT INCOME OF INDIVIDUALS, ESTATES, AND
+10 TRUSTS
+11 * * *
+12 (b) For any taxable year, the Vermont income of a nonresident individual,
+13 estate, or trust is the sum of the following items of income to the extent they
+14 are required to be included in the federal adjusted gross income of the
+15 individual after the value of those items are modified by the additions and
+16 subtractions provided for in subdivisions 5811(21)(A) and (B) of this chapter
+17 or the gross federal adjusted gross income of an estate or trust after the value of
+18 those items are modified by the additions and subtractions provided for in
+19 subdivisions (28)(A) and (B) of this chapter for that taxable year:
+20 * * *
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 63 of 72
+1 Sec. 58. 32 V.S.A. § 5930ii is amended to read:
+2 § 5930ii. RESEARCH AND DEVELOPMENT TAX CREDIT
+3 (a) A taxpayer of this State shall be eligible for a credit against the tax
+4 imposed under this chapter in an amount equal to 27 75 percent of the amount
+5 of the federal tax credit allowed in the taxable year for eligible research and
+6 development expenditures under 26 U.S.C. § 41(a) that are made within this
+7 State.
+8 (b) Any unused credit available under subsection (a) of this section may be
+9 carried forward for up to 10 years.
+10 (c) Each year, on or before January 15, the Department of Taxes shall
+11 publish a list containing the names of the taxpayers who have claimed a credit
+12 under this section during the most recent completed calendar year.
+13 Sec. 59. 32 V.S.A. § 5930ee is amended to read:
+14 § 5930ee. LIMITATIONS
+15 Beginning in fiscal year 2010 and thereafter, the State Board may award tax
+16 credits to all qualified applicants under this subchapter, provided that:
+17 (1) the total amount of tax credits awarded annually, together with sales
+18 tax reallocated under section 9819 of this title, does not exceed $3,000,000.00
+19 $3,500,000.00;
+20 * * *
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 64 of 72
+1 Sec. 60. 32 V.S.A. § 5824 is amended to read:
+2 § 5824. ADOPTION OF FEDERAL INCOME TAX LAWS
+3 The statutes of the United States relating to the federal income tax, as in
+4 effect on December 31, 2024 2025, but without regard to federal income tax
+5 rates under 26 U.S.C. § 1, are hereby adopted for the purpose of computing the
+6 tax liability under this chapter and shall continue in effect as adopted until
+7 amended, repealed, or replaced by act of the General Assembly.
+8 Sec. 61. 32 V.S.A. § 7402(8) is amended to read:
+9 (8) “Laws of the United States” means the U.S. Internal Revenue Code
+10 of 1986, as amended through December 31, 2024 2025. As used in this
+11 chapter, “Internal Revenue Code” has the same meaning as “laws of the United
+12 States” as defined in this subdivision. The date through which amendments to
+13 the U.S. Internal Revenue Code of 1986 are adopted under this subdivision
+14 shall continue in effect until amended, repealed, or replaced by act of the
+15 General Assembly.
+16 * * * Revenue Deposits; Purchase and Use and Meals and Rooms Taxes * * *
+17 Sec. 62. 16 V.S.A. § 4025 is amended to read:
+18 § 4025. EDUCATION FUND
+19 (a) The Education Fund is established to comprise the following:
+20 * * *
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 65 of 72
+1 (4) 25 29 percent of the revenues from the meals and rooms taxes
+2 imposed under 32 V.S.A. chapter 225;
+3 (5) one-third 27 percent of the revenues raised from the purchase and
+4 use tax imposed by 32 V.S.A. chapter 219, notwithstanding 19 V.S.A. § 11(1);
+5 * * *
+6 Sec. 63. 32 V.S.A. § 435(b)(7) is amended to read:
+7 (7) 69 65 percent of the meals and rooms taxes levied pursuant to
+8 chapter 225 of this title;
+9 * * * Burlington Waterfront TIF * * *
+10 Sec. 63a. BURLINGTON WATERFRONT TAX INCREMENT
+11 FINANCING DISTRICT; FINDINGS; INTENT
+12 (a) The General Assembly finds that:
+13 (1) 1985 Acts and Resolves No. 87 authorized municipalities to create
+14 tax increment financing districts and to retain municipal tax increment
+15 pursuant to 24 V.S.A. chapter 53, subchapter 5.
+16 (2) The City of Burlington created the Burlington Waterfront Tax
+17 Increment Financing (TIF) District in the Lake Street area of the City on
+18 January 22, 1996, prior to the creation of the statewide education property tax
+19 in 1997 Acts and Resolves No. 60.
+20 (3) 1997 Acts and Resolves No. 60, Sec. 45, created a statewide
+21 education property tax and authorized each municipality with an existing tax
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 66 of 72
+1 increment financing district under 24 V.S.A. chapter 53, subchapter 5, to
+2 expand the existing district by June 30, 1997, and “to collect all state and local
+3 property taxes on properties within the tax increment financing district and
+4 apply those revenues to repayment of debt issued to finance improvements
+5 within the tax increment financing district” (emphasis added). This provision
+6 authorized the City of Burlington to retain 100 percent of the Burlington
+7 Waterfront TIF District’s municipal and education property tax increment.
+8 (4) The City of Burlington voted to expand the Burlington Waterfront
+9 TIF District on June 23, 1997, to include property extending along Cherry
+10 Street from Battery Street to Church Street.
+11 (5) 2009 Acts and Resolves No. 54, Sec. 83, extended the City of
+12 Burlington’s authority to incur indebtedness for the TIF district by five years
+13 beginning January 1, 2010, and tasked the City of Burlington with submitting
+14 to the Joint Fiscal Committee “a proposal for implementation of a payment to
+15 the education fund in lieu of tax increment which would approximate 25
+16 percent of the new incremental education property tax revenue and the
+17 mechanism for payment by the City to the education fund, including payment
+18 dates.”
+19 (6) The City of Burlington submitted the proposal to the Joint Fiscal
+20 Committee on August 31, 2009, and explained that the payment in lieu of tax
+21 increment was intended to reduce the administrative complexity that would
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 67 of 72
+1 result from having “two TIF rates and two ‘original taxable bases’ within the
+2 same district.” The proposal provided for a payment to the Education Fund of
+3 25 percent of “the new incremental education property taxes” (emphasis
+4 added) on properties within the Burlington Waterfront TIF District other than
+5 35 Cherry Street and 41 Cherry Street. For these two properties, the City
+6 proposed to retain 100 percent of the property tax increment.
+7 (7) The Joint Fiscal Committee approved the City of Burlington’s
+8 proposal on September 10, 2009, and the General Assembly enacted the terms
+9 of the proposal in 2011 Acts and Resolves No. 45, Sec.16. This legislation left
+10 untouched the municipal property tax increment retention percentage.
+11 (8) 2013 Acts and Resolves No. 80 codified the City of Burlington’s
+12 authorization to use education tax increment financing for the Burlington
+13 Waterfront TIF District at 24 V.S.A. § 1892(d), extended the City’s authority
+14 to incur indebtedness for the TIF district for five years beginning January 1,
+15 2015, and clarified that the extension of the City’s debt incurrence period did
+16 not extend the City’s tax increment retention period.
+17 (9) 2016 Acts and Resolves No. 134, Sec. 9a, extended the period to
+18 incur indebtedness for an additional one and a half years for three properties
+19 located at 49 Church Street and 75 Cherry Street, as designated on the City of
+20 Burlington’s Tax Parcel Maps as Parcel ID# 044-4-004-000, Parcel ID# 044-4-
+21 004-001, and Parcel ID# 044-4-033-000. For these three properties, the
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 68 of 72
+1 General Assembly further authorized the City of Burlington to extend the
+2 City’s tax increment retention period until June 30, 2035.
+3 (10) 2020 Acts and Resolves No. 175, Sec. 29, further extended the
+4 period to incur indebtedness for these same three properties to June 30, 2022,
+5 provided that certain contingencies were met, and clarified that the extension
+6 of the City’s debt incurrence period for these three properties did not extend
+7 the City’s tax increment retention period.
+8 (11) 2021 Acts and Resolves No. 73, Sec. 26a, further extended the
+9 period to incur indebtedness for these same three properties to June 30, 2023.
+10 (b) It is the intent of the General Assembly to clarify that the City of
+11 Burlington may retain State education tax increment and municipal tax
+12 increment until June 30, 2035, consistent with the methodology approved by
+13 the Joint Fiscal Committee on September 10, 2009, for the following three
+14 properties located at 49 Church Street and 75 Cherry Street, as designated on
+15 the City of Burlington’s Tax Parcel Maps:
+16 (1) Parcel ID# 044-4-004-000;
+17 (2) Parcel ID# 044-4-004-001; and
+18 (3) Parcel ID# 044-4-033-000.
+19 (c) This section shall not be construed to modify the tax increment
+20 retention percentages for the Burlington Waterfront TIF District.
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 69 of 72
+1 Sec. 63b. ADJUSTMENT OF RETENTION PERCENTAGES
+2 On or before November 15, 2029, the City of Burlington shall submit an
+3 updated tax increment financing plan for the Burlington Waterfront Tax
+4 Increment Financing (TIF) District to the Vermont Economic Progress
+5 Council. The plan shall include adjustments and updates of appropriate data
+6 and information sufficient for the Council to determine, based on tax increment
+7 financing debt actually incurred and the history of increment generated,
+8 whether the municipal tax increment and State education tax increment
+9 percentages should be continued or adjusted to a lower percentage to be
+10 retained for the remaining duration of the retention period and still provide
+11 sufficient municipal and State education tax increment to service the remaining
+12 debt.
+13 Sec. 63c. 16 V.S.A. § 4025 is amended to read:
+14 § 4025. EDUCATION FUND
+15 (a) The Education Fund is established to comprise the following:
+16 * * *
+17 (4) 29 32.5 percent of the revenues from the meals and rooms taxes
+18 imposed under 32 V.S.A. chapter 225;
+19 (5) 27 21 percent of the revenues raised from the purchase and use tax
+20 imposed by 32 V.S.A. chapter 219, notwithstanding 19 V.S.A. § 11(1);
+21 * * *
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 70 of 72
+1 Sec. 63d. 32 V.S.A. § 435(b)(7) is amended to read:
+2 (7) 65 61.5 percent of the meals and rooms taxes levied pursuant to
+3 chapter 225 of this title;
+4 Sec. 63e. LEGISLATIVE INTENT; TRANSPORTATION AND
+5 EDUCATION FUNDS
+6 It is the intent of the General Assembly, in future fiscal years, to gradually
+7 shift additional revenue generated by the motor vehicle purchase and use tax to
+8 the Transportation Fund. It is further intended that any future changes
+9 resulting in a decrease of revenues deposited in the Education Fund be
+10 accompanied by other revenue policy measures that mitigate any impact on
+11 statewide education property taxes.
+12 * * * Effective Dates * * *
+13 Sec. 64. EFFECTIVE DATES
+14 This act shall take effect on passage except:
+15 (1) Notwithstanding 1 V.S.A. § 214, Sec. 1 (credit for taxes paid in
+16 another state by an S corporation) shall take effect retroactively on January 1,
+17 2025, and shall apply to taxable years beginning on and after January 1, 2025.
+18 (2) Secs. 3 and 4 (current use; land use change tax) shall take effect on
+19 October 1, 2026.
+20 (3) Sec. 6 (communications property) shall take effect on January 1,
+21 2027, and apply to grand lists lodged beginning on April 1, 2027.
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 71 of 72
+1 (4) Sec. 20 (grand list definition of parcel) shall take effect on April 1,
+2 2028, and shall apply to grand lists lodged on and after that date.
+3 (5) Sec. 22 (Department of Fish and Wildlife rule on fees) shall take
+4 effect on July 1, 2027.
+5 (6) Secs. 24–48 (grand list assessment date) shall take effect on July 1,
+6 2031, and shall apply to grand lists lodged after that date.
+7 (7) Sec. 58 (Vermont research and development tax credit) shall take
+8 effect on January 1, 2027, and shall apply to taxable years beginning on and
+9 after January 1, 2027.
+10 (8) Notwithstanding 1 V.S.A. § 214, Secs. 55, 56, and 57 (decoupling
+11 from select provisions of IRC) and Secs. 60 and 61 (annual link-up) shall take
+12 effect retroactively on January 1, 2026, and shall apply to taxable years
+13 beginning on and after January 1, 2025.
+14 (9) Notwithstanding 1 V.S.A. § 214, Sec. 55a (decoupling from IRC
+15 section 1202(a)) shall take effect retroactively on January 1, 2026, and shall
+16 apply to taxable years beginning on and after January 1, 2026.
+17 (10) Secs. 62 and 63 (deposit of meals and rooms tax and purchase and
+18 use tax revenues) shall take effect on July 1, 2026, and apply beginning with
+19 fiscal year 2027.
+VT LEG #390104 v.1
+
+AS PASSED BY HOUSE AND SENATE H.933
+2026 Page 72 of 72
+1 (11) Secs. 63c and 63d (deposit of meals and rooms tax and purchase
+2 and use tax revenues) shall take effect on July 1, 2027, and apply beginning
+3 with fiscal year 2028.
+VT LEG #390104 v.1

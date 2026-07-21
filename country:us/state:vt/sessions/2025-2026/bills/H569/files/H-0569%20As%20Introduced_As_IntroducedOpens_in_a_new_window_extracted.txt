@@ -1,0 +1,140 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.569
+2026 Page 1 of 6
+1 H.569
+2 Introduced by Representative Goldman of Rockingham
+3 Referred to Committee on
+4 Date:
+5 Subject: Health; hospitals; advanced practice registered nurses
+6 Statement of purpose of bill as introduced: This bill proposes to amend
+7 statutes relating to hospital licensure and to hospital patients’ rights to specify
+8 that an advanced practice registered nurse may be the health care professional
+9 responsible for a hospital patient’s care.
+10 An act relating to the role of advanced practice registered nurses in hospital
+11 care
+12 It is hereby enacted by the General Assembly of the State of Vermont:
+13 Sec. 1. 18 V.S.A. § 1851 is amended to read:
+14 § 1851. DEFINITIONS
+15 As used in this subchapter:
+16 (1) “Advanced practice registered nurse” or “APRN” means an
+17 individual licensed under 26 V.S.A. chapter 28, subchapter 2.
+18 (2) “Hospital” means a hospital required to be licensed under chapter 43
+19 of this title.
+VT LEG #385546 v.1
+
+BILL AS INTRODUCED H.569
+2026 Page 2 of 6
+1 (2)(3) “Patient” means a person an individual admitted to a hospital on
+2 an inpatient basis.
+3 (4) “Physician” means an individual licensed under 26 V.S.A. chapter
+4 23 or 33.
+5 Sec. 2. 18 V.S.A. § 1852 is amended to read:
+6 § 1852. PATIENTS’ BILL OF RIGHTS; ADOPTION
+7 (a) The General Assembly hereby adopts the “Bill of Rights for Hospital
+8 Patients” as follows:
+9 (1) The patient has the right to considerate and respectful care at all
+10 times and under all circumstances with recognition of his or her the patient’s
+11 personal dignity.
+12 (2) The patient shall have an attending physician or APRN who is
+13 responsible for coordinating a the patient’s care. Physician consultation and
+14 support shall be available to an attending APRN at all times in accordance with
+15 applicable standards of practice and regulatory requirements.
+16 (3) The patient has the right to obtain, from the physician or APRN
+17 coordinating his or her the patient’s care, complete and current information
+18 concerning diagnosis, treatment, and any known prognosis in terms the patient
+19 can reasonably be expected to understand. If the patient consents or if the
+20 patient is incompetent or unable to understand, immediate family members or a
+21 guardian may also obtain this information. The patient has the right to know
+VT LEG #385546 v.1
+
+BILL AS INTRODUCED H.569
+2026 Page 3 of 6
+1 by name the attending physician or APRN primarily responsible for
+2 coordinating his or her the patient’s care.
+3 (4) Except in emergencies, the patient has the right to receive from the
+4 patient’s physician or APRN information necessary to give informed consent
+5 prior to the start of any procedure or treatment, or both. Such information for
+6 informed consent should include the specific procedure or treatment, or both;
+7 the medically significant risks involved; and the probable duration of
+8 incapacitation. Where medically significant alternatives for care or treatment
+9 exist, or when the patient requests information concerning medical alternatives,
+10 the patient has the right to such information. The patient also has the right to
+11 know the name of the person responsible for the procedures or treatment, or
+12 both.
+13 * * *
+14 (7) The patient has the right to expect that all communications and
+15 records pertaining to his or her the patient’s care shall be treated as
+16 confidential. Only medical personnel, or individuals under the supervision of
+17 medical personnel, directly treating the patient, or those persons monitoring the
+18 quality of that treatment, or researching the effectiveness of that treatment,
+19 shall have access to the patient’s medical records. Others may have access to
+20 those records only with the patient’s written authorization.
+21 * * *
+VT LEG #385546 v.1
+
+BILL AS INTRODUCED H.569
+2026 Page 4 of 6
+1 (9) The patient has the right to know the identity and professional status
+2 of individuals providing service to him or her the patient and to know which
+3 physician, APRN, or other practitioner is primarily responsible for his or her
+4 the patient’s care. This includes the patient’s right to know of the existence of
+5 any professional relationship among individuals who are treating him or her
+6 the patient, as well as the relationship to any other health care or educational
+7 institutions involved in his or her the patient’s care.
+8 * * *
+9 (11) The patient has the right to expect reasonable continuity of care.
+10 The patient has the right to be informed by the attending physician or APRN of
+11 any continuing health care requirements following discharge.
+12 * * *
+13 (13) The patient has the right to know what hospital rules and
+14 regulations apply to his or her the patient’s conduct as a patient.
+15 * * *
+16 (b) Failure to comply with any provision of this section may constitute a
+17 basis for disciplinary action against a physician under 26 V.S.A. chapter 23 or
+18 33 or against an APRN under 26 V.S.A. chapter 28. A complaint may be filed
+19 with the Board of Medical Practice or the Office of Professional Regulation as
+20 applicable based on the license held by the practitioner.
+VT LEG #385546 v.1
+
+BILL AS INTRODUCED H.569
+2026 Page 5 of 6
+1 (c) A summary of the hospital’s obligations under this section, written in
+2 clear language and in easily readable print, shall be distributed to patients upon
+3 admission and posted conspicuously at each nurse’s station. Such notice shall
+4 also indicate that as an alternative or in addition to the hospital’s complaint
+5 procedures, the patient may directly contact the licensing agency, the Office of
+6 Professional Regulation, or the Board of Medical Practice, as applicable. The
+7 address and telephone number of the licensing agency, the Office of
+8 Professional Regulation, and the Board of Medical Practice shall be included
+9 in the notice.
+10 Sec. 3. 18 V.S.A. § 1905 is amended to read:
+11 § 1905. LICENSE REQUIREMENTS
+12 Upon receipt of an application for a license and the license fee, the licensing
+13 agency shall issue a license when it determines that the applicant and hospital
+14 facilities meet the following minimum standards:
+15 * * *
+16 (5) All patients admitted to the hospital shall be under the care of a State
+17 registered and licensed practicing physician as defined by the laws of the State
+18 of Vermont physician licensed pursuant to 26 V.S.A. chapter 23 or 33 or an
+19 advanced practice registered nurse licensed pursuant to 26 V.S.A. chapter 28,
+20 subchapter 2. All hospitals shall use the uniform credentialing application
+21 form described in subsection 9408a(b) of this title.
+VT LEG #385546 v.1
+
+BILL AS INTRODUCED H.569
+2026 Page 6 of 6
+1 * * *
+2 (8) Professional case records shall be compiled for all patients and
+3 signed by the attending physician or advanced practice registered nurse. These
+4 records shall be kept on file for a minimum of 10 years.
+5 * * *
+6 Sec. 4. EFFECTIVE DATE
+7 This act shall take effect on passage.
+VT LEG #385546 v.1

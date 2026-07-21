@@ -1,0 +1,132 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.579
+2026 Page 1 of 6
+1 H.579
+2 Introduced by Representative Sheldon of Middlebury
+3 Referred to Committee on
+4 Date:
+5 Subject: Conservation and development; water quality; alum application
+6 Statement of purpose of bill as introduced: This bill proposes to prohibit a
+7 person from discharging alum into a water of the State without first obtaining a
+8 permit from the Secretary of Natural Resources. The bill also would require
+9 the Secretary to adopt by rule permit criteria for the use of alum in lakes,
+10 ponds, and other waterbodies in the State.
+11 An act relating to establishing criteria for the application of alum to
+12 Vermont waters
+13 It is hereby enacted by the General Assembly of the State of Vermont:
+14 Sec. 1. FINDINGS
+15 The General Assembly finds that:
+16 (1) Some Vermont lakes and ponds have experienced persistent
+17 cyanobacteria blooms in recent years that typically start in early summer and
+18 last into the fall. These blooms impair recreation and may contain toxins that
+19 can harm individuals, pets, and wildlife.
+VT LEG #385779 v.1
+
+BILL AS INTRODUCED H.579
+2026 Page 2 of 6
+1 (2) Cyanobacteria blooms are often driven by high phosphorus
+2 concentrations, and some waterbodies, including Lake Champlain, have been
+3 listed by the Department of Environmental Conservation as “impaired” by
+4 phosphorus. For impaired waterbodies subject to an established Total
+5 Maximum Daily Load (TMDL) for phosphorus, the Agency of Natural
+6 Resources (ANR) has worked with partners to reduce nonpoint sources of
+7 phosphorus in the watershed.
+8 (3) Despite phosphorus reduction efforts, residual or legacy phosphorus
+9 may persist in a waterbody and continue to contribute to cyanobacteria blooms.
+10 (4) Applying alum to a waterbody or treating the waterbody with alum can
+11 limit or temporarily eliminate cyanobacteria blooms as the alum binds to
+12 phosphorus and immobilizes it in the lake sediment, thereby preventing the
+13 phosphorus from contributing as fuel to the cyanobacteria blooms.
+14 (5) While effective in reducing blooms and lowering water turbidity, alum
+15 treatment can harm aquatic invertebrates, fish, plants, and other aquatic biota.
+16 Vermont has established a State water quality standard for aluminum because
+17 of these harmful effects.
+18 (6) The beneficial results of alum treatment are temporary if the sources of
+19 phosphorus, particularly nutrient runoff from farm fields, wastewater, and
+20 developed lands, are not reduced to near zero prior to the application of the
+21 alum.
+VT LEG #385779 v.1
+
+BILL AS INTRODUCED H.579
+2026 Page 3 of 6
+1 (7) If the discharge of phosphorus is not curbed prior to application, the
+2 alum treatment will need to be repeated every few years, in a cycle that has not
+3 been well studied and may continue to harm lake water quality and aquatic
+4 biota.
+5 Sec. 2. 10 V.S.A. § 1285 is added to read:
+6 § 1285. PERMITTING STANDARDS FOR APPLICATION OF ALUM;
+7 RULEMAKING
+8 (a) As used in this section:
+9 (1) “Alum” means a class of hydrated double sulfate salts of aluminum
+10 that includes aluminum sulfate, sodium aluminate, potassium aluminum
+11 sulfate, or other aluminum compounds that are deposited in water for the
+12 purpose of the aluminum particles binding to phosphorus particles to prevent
+13 the phosphorus from contributing to cyanobacteria blooms.
+14 (2) “Applicant” means the entity applying for the alum treatment permit.
+15 (3) “Cyanobacteria” means photosynthetic bacteria that are naturally
+16 found in freshwater, including Lake Champlain and other Vermont waters.
+17 (4) “Cyanobacteria bloom” or “harmful algal bloom” means a dense
+18 growth of cyanobacteria in freshwater or brackish water that results in
+19 discolored water or scums and may produce toxins that can harm individuals,
+20 animals, or the environment.
+VT LEG #385779 v.1
+
+BILL AS INTRODUCED H.579
+2026 Page 4 of 6
+1 (b) No person shall discharge alum into a water of the State without first
+2 obtaining a permit from the Secretary in accordance with section 1263 of this
+3 title, the Vermont Water Quality Standards, and the Vermont Water Pollution
+4 Control Permit Regulations. An applicant for an alum discharge permit is
+5 limited to the municipality or municipalities in which the waterbody proposed
+6 for treatment is located.
+7 (c) On or before December 1, 2026, the Secretary shall adopt by rule permit
+8 criteria for the use of alum in lakes, ponds, and other waterbodies in the State
+9 for the treatment of cyanobacteria and to limit cyanobacteria blooms. The rule
+10 shall require the applicant to do the following before a permit can be granted:
+11 (1) demonstrate a direct injury from the loss of water quality and the
+12 cyanobacteria blooms in the waterbody, such as health impacts or reduced
+13 value of property adjacent to the waterbody;
+14 (2) present an analysis of alternative approaches other than the use of
+15 alum to reduce or eliminate the cyanobacteria blooms and, when appropriate,
+16 show that alternative approaches were implemented but did not result in
+17 measurable water quality improvements;
+18 (3) establish a notification process to adequately inform the public prior
+19 to and after the alum treatment;
+VT LEG #385779 v.1
+
+BILL AS INTRODUCED H.579
+2026 Page 5 of 6
+1 (4) require the reduction or elimination of phosphorus loading from
+2 external sources to the waterbody proposed for alum treatment and that these
+3 limits on external phosphorus loads will be maintained post-treatment;
+4 (5) comply with the Vermont Water Quality Standards to protect
+5 designated uses and manage the concentration levels of aluminum so as not to
+6 exceed acute or chronic numeric criteria set for aquatic life, including meeting
+7 the criteria set for acceptable chronic toxicity to freshwater aquatic biota, such
+8 as native plants, macroinvertebrates, mollusks, and fish, residing in the
+9 waterbody proposed for alum treatment;
+10 (6) monitor impacts to aquatic biota, turbidity, and water quality,
+11 including levels of pH, hardness, temperature, total phosphorus, sediment
+12 phosphorus, dissolved aluminum, dissolved oxygen, and other factors as
+13 determined by the Secretary, both pre- and post-treatment with alum, which
+14 can be performed by a subcontracted third party if needed; and
+15 (7) assume the costs of the treatment and the pre- and post-treatment
+16 monitoring processes.
+17 Sec. 3. IMPLEMENTATION
+18 The Secretary of Natural Resources shall not issue a permit under 10 V.S.A.
+19 § 1285 for the application of alum to a lake or pond until the rulemaking
+20 required under 10 V.S.A. § 1285(c) is complete.
+VT LEG #385779 v.1
+
+BILL AS INTRODUCED H.579
+2026 Page 6 of 6
+1 Sec. 4. EFFECTIVE DATE
+2 This act shall take effect on passage.
+VT LEG #385779 v.1

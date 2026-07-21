@@ -1,0 +1,2925 @@
+Title: 
+Official Title: 
+Source: versions - As Passed by Both House and Senate (OfficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 1 of 94
+1 S.323
+2 Introduced by Committee on Agriculture
+3 Date: January 29, 2026
+4 Subject: Agriculture; taxation; personal income tax; property transfer tax;
+5 permitting; food processing establishments; miscellaneous subjects
+6 Statement of purpose of bill as introduced: This bill proposes to prohibit
+7 municipal regulation of agricultural activities that are subject to the Required
+8 Agricultural Practices Rule. This bill also would provide Vermont income,
+9 capital gains, and property transfer taxexemptions for certain farmers and
+10 certain sales of agricultural property. The bill designates a “farm kitchen
+11 operation” as a new category of food processing establishment. This bill
+12 clarifies that a milk producer may request an administrative hearing regarding
+13 a purchasing dispute. This bill also would enable the Agency of Agriculture,
+14 Food and Markets to provide contracts in addition to grants for the Farm-to-
+15 School program. The bill repeals the Interstate Pest Control Compact that has
+16 ceased operations, makes miscellaneous changes to the exam requirements to
+17 become a licensed pesticide applicator, and updates seed laws to conform to
+18 common standards. This bill also would give the Vermont Economic
+19 Development Authority the authority to administer the Vermont Agricultural
+20 Credit Program.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 2 of 94
+1 An act relating to miscellaneous agricultural subjects
+2 It is hereby enacted by the General Assembly of the State of Vermont:
+3 * * * Municipal Agriculture Regulation * * *
+4 Sec. 1. FINDINGS AND INTENT; MUNICIPALREGULATION OF
+5 AGRICULTURE
+6 (a) For purposes of Sec. 2 of this act, the General Assembly finds that:
+7 (1) Since enactment of 2004 Acts and Resolves No. 115, it has been
+8 both the intent of the General Assembly and the controlling law that a
+9 municipality shall not regulate farming, including the construction of farm
+10 structures.
+11 (2) The Vermont Supreme Court’s decision in In re 8 Taft Street DRB &
+12 NOV Appeals, 2025 VT 27 misconstrued the intent of the General Assembly
+13 and reversed application of the past 20 years of law to hold that municipalities
+14 may regulate farming by municipal bylaw.
+15 (3) To avoid the unchecked and unintended consequences of the
+16 decision in In re 8 Taft Street DRB & NOV Appeals, 2025 VT 27, it is
+17 necessary for the General Assembly to clarify and restate that municipalities
+18 under ordinance or bylaw shall not regulate farming or the construction of
+19 farm structures as set forth in 24 V.S.A. § 4413(d).
+20 (b) For purposes of Sec. 2 of this act, it is the intent of the General
+21 Assembly to overturn the holding in In re 8 Taft Street DRB & NOV Appeals,
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 3 of 94
+1 2025 VT 27 and to clarify that municipalities lack authority to regulate
+2 farming or the construction of farm structures as set forth in 24 V.S.A.
+3 § 4413(d).
+4 Sec. 2. 24 V.S.A. § 4413(d) is amended to read:
+5 (d)(1) A bylaw under this chapter shall not regulate:
+6 (A) required agricultural practices, including the construction of farm
+7 structures, as those practices are defined by the Secretary of Agriculture, Food
+8 and Markets the cultivation or other use of land for growing plants, including
+9 for food, fiber, Christmas trees, maple sap, or horticultural, viticultural, and
+10 orchard crops;
+11 (B) the raising, feeding, or management of a small backyard poultry
+12 flock, excluding roosters;
+13 (C) farming that meets the minimum threshold criteria in the
+14 Required Agricultural Practices Rule and is therefore required to comply with
+15 the Required Agricultural Practices Rule;
+16 (D) the construction of farm structures, including as defined in the
+17 Required Agricultural Practices Rule;
+18 (B)(E) accepted silvicultural practices, as defined by the
+19 Commissioner of Forests, Parks and Recreation, including practices that are in
+20 compliance with the Acceptable Management Practices for Maintaining Water
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 4 of 94
+1 Quality on Logging Jobs in Vermont, as adopted by the Commissioner of
+2 Forests, Parks and Recreation; or
+3 (C)(F) forestry operations.
+4 (2) As used in this section:
+5 (A) “Farming” has the same meaning as in 10 V.S.A. § 6001(22) or
+6 in the Required Agricultural Practices Rule.
+7 (B) “Farm structure” means a building, enclosure, or fence for
+8 housing livestock, raising horticultural or agronomic plants, or carrying out
+9 other practices associated with accepted agricultural or farming practices,
+10 including a silo, as “farming” is defined in 10 V.S.A. § 6001(22), but excludes
+11 a dwelling for human habitation.
+12 (B)(C) “Forestry operations” has the same meaning as in 10 V.S.A.
+13 § 2602.
+14 (D) “Poultry” has the same meaning as in 6 V.S.A. § 1459(4).
+15 * * *
+16 Sec. 3. Section 3 of the Agency of Agriculture, Food and Markets, Vermont
+17 Required Agricultural Practices Rule for the Agricultural Nonpoint Source
+18 Pollution Control Program is amended to read:
+19 Section 3. Required Agricultural Practices Activities and Applicability
+20 3.1 Persons engaged in farming and the agricultural practices as defined in
+21 Section 3.2 of this rule and who meet the minimum threshold criteria for
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 5 of 94
+1 applicability of this rule as found in Section 3.1(a)–(g) must meet all
+2 applicable Required Agricultural Practices conditions, restrictions, and
+3 operating standards, and are not subject to municipal zoning bylaws. Persons
+4 engaged in farming who are in compliance with these conditions, restrictions,
+5 and operating standards, as applicable, shall be presumed to not have a
+6 discharge of agricultural wastes to waters of the State. Compliance with the
+7 Required Agricultural Practices Rule is required if a person:
+8 (a) is required to be permitted or certified by the Secretary, consistent with
+9 the requirements of 6 V.S.A. Chapter 215 and this rule; or
+10 (b) has produced an annual gross income from the sale of agricultural
+11 products of $2,000.00 $5,000.00 or more in an average year; or
+12 (c) is preparing, tilling, fertilizing, planting, protecting, irrigating, and
+13 harvesting crops for sale or donation on a farm that is no less than 4.0
+14 contiguous acres in size; or
+15 (d) is raising, feeding, or managing at least the following number of adult
+16 livestock on a farm that is no less than 4.0 contiguous acres in size:
+17 (1) four equines;
+18 (2) five cattle, cows, or American bison;
+19 (3) 15 swine;
+20 (4) 15 goats;
+21 (5) 15 sheep;
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 6 of 94
+1 (6) 15 cervids;
+2 (7) 50 turkeys;
+3 (8) 50 geese;
+4 (9) 100 laying hens;
+5 (10) 250 broilers, pheasant, Chukar partridge, or Coturnixquail;
+6 (11) three camelids;
+7 (12) four ratites;
+8 (13) 30 rabbits;
+9 (14) 100 ducks;
+10 (15) 1,000 pounds of cultured trout; or
+11 (16) other livestock types, combinations, or numbers as designated by
+12 the Secretary based upon or resulting from the impacts upon water quality
+13 consistent with this rule; or
+14 (e) is raising, feeding, or managing other livestock types, combinations,
+15 and numbers, or managing crops or engaging in other agricultural practices on
+16 at least 1.0 and less than 4.0 contiguous acres in size that the Secretary has
+17 determined, after the opportunity for a hearing, to be causing adverse water
+18 quality impacts and in a municipality where no ordinances are in place to
+19 manage the activities causing the water quality impacts and has sufficient land
+20 base for appropriate nutrient and waste management. The Secretary has the
+21 discretion to determine, after consultation with the appropriate municipal
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 7 of 94
+1 authority, if the land base is adequate to properly manage the number and type
+2 of livestock while evaluating whether compliance with the Required
+3 Agricultural Practices is reasonable or impractical; or
+4 (f) is managed by a farmer filing with the Internal Revenue Service a
+5 1040(F) income taxstatement in at least one of the past two years is raising,
+6 feeding, or managing livestock on less than 1.0 contiguous acre or on between
+7 1.0 and 4.0 contiguous acres in a municipality that lacks ordinances or bylaws
+8 to regulate livestock, and the Secretary determines, after an opportunity for a
+9 hearing, that the livestock are causing significant adverse water quality impacts
+10 and the Required Agricultural Practices should apply to protect water quality;
+11 or
+12 (g) has a prospective business or farm management plan, approved by the
+13 Secretary, describing how the farm will meet the threshold requirements of this
+14 section.
+15 3.2 The agricultural practices on farms meeting that meet the minimum
+16 threshold criteria set forth in Section 3.1 that are governed by this rule and are
+17 not subject to municipal zoning bylaws include:
+18 (a) the confinement, feeding, fencing, and watering of livestock;
+19 (b) the storage and handling of agricultural wastes principally produced on
+20 the farm;
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 8 of 94
+1 (c) the collection of maple sap principally produced from trees on the farm
+2 and/or production of maple syrup from sap principally produced on the farm;
+3 (d) the preparation, tilling, fertilization, planting, protection, irrigation, and
+4 harvesting of crops;
+5 (e) the ditching and subsurface drainage of farm fields and the construction
+6 of farm ponds;
+7 (f) the stabilization of farm fields adjacent to banks of surface water, and
+8 the establishment and maintenance of vegetated buffer zones and riparian
+9 buffer zones;
+10 (g) the construction and maintenance of farm structures, farm roads, and
+11 associated infrastructure;
+12 (h) the on-site storage, preparation, production, and sale of fuel or power
+13 from agricultural products or wastes principally produced on the farm;
+14 (i) the on-site storage, preparation, and sale of agricultural products
+15 principally produced on the farm from raw agricultural commodities
+16 principally produced on the farm;
+17 (j) the on-site storage of agricultural inputs for use on the farm including,
+18 but not limited to, lime, fertilizer, pesticides, compost and other soil
+19 amendments, and the equipment necessary for operation of the farm; and
+20 (k) the management of livestock mortalities produced on the farm.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 9 of 94
+1 * * * Vermont Income, Capital Gains, and Property Transfer Tax* * *
+2 Sec. 4. 32 V.S.A. § 5811(21) is amended to read:
+3 (21) “Taxable income” means, in the case of an individual, federal
+4 adjusted gross income determined without regard to 26 U.S.C. § 168(k) and:
+5 * * *
+6 (B) decreased by the following items of income (to the extent such
+7 income is included in federal adjusted gross income):
+8 * * *
+9 (ii) with respect to adjusted net capital gain income as defined in
+10 26 U.S.C. § 1(h) reduced by the total amount of any qualified dividend
+11 income: either the first $5,000.00 of such adjusted net capital gain income or
+12 40 percent of adjusted net capital gain income from the sale of assets held by
+13 the taxpayer for more than three years, except not adjusted net capital gain
+14 income from:
+15 (I) the sale of any real estate or portion of real estate used by
+16 the taxpayer as a primary or nonprimary residence; or
+17 (II) the sale of depreciable personal property other than farm
+18 property and standing timber; or stocks or bonds publicly traded or traded on
+19 an exchange, or any other financial instruments; regardless of whether sold by
+20 an individual or business; and provided that the total amount of decrease under
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 10 of 94
+1 this subdivision (21)(B)(ii) shall not exceed 40 percent of federal taxable
+2 income or $350,000.00, whichever is less;
+3 * * *
+4 (v) the amount of any federal deduction or credit that the taxpayer
+5 would have been allowed for the cultivation, testing, processing, or sale of
+6 cannabis or cannabis products as authorized under 7 V.S.A. chapter 33 or 37,
+7 but for 26 U.S.C. § 280E; and
+8 (vi) the amount of interest paid by a qualified resident taxpayer
+9 during the taxable year on a qualified education loan for the costs of
+10 attendance at an eligible educational institution; and
+11 (vii) the amount of any net farm profit, provided the taxpayer’s
+12 net farm profit during the taxable year did not exceed $10,000.00; and
+13 (viii) in addition to the exclusion allowed under subdivision (ii) of
+14 this subdivision (21)(B), adjusted net capital gain income from the sale of real
+15 estate that is part of a farming operation, provided the buyer continues using
+16 the real estate as part of a farming operation and:
+17 (I) is related to the seller by blood, marriage, civil union, or
+18 adoption; or
+19 (II) was an employee of the farming operation for a minimum
+20 of 10 years prior to the sale.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 11 of 94
+1 (III) A buyer that purchased real estate pursuant to this
+2 subdivision (viii) shall be subject to the taximposed by this chapter upon
+3 development of the real estate by the buyer. If the development by the buyer
+4 occurs on a portion of the real estate, the prorated portion of the capital gain
+5 shall be subject to the taximposed by this chapter. The amount of this tax
+6 shall be determined as of the date the development occurs. “Development” has
+7 the same meaning as in subdivision 3752(5) of this title.
+8 * * *
+9 Sec. 5. 32 V.S.A. § 9603 is amended to read:
+10 § 9603. EXEMPTIONS
+11 The following transfers are exempt from the taximposed by this chapter:
+12 * * *
+13 (5) Transfers between two spouses, or parent and child or child’s
+14 spouse, or grandparent and grandchild or grandchild’s spouse, without actual
+15 consideration therefor; and also transfers in trust or by decree of court to the
+16 extent of the benefit to the donor or one or more of the related persons named
+17 in this subdivision; and transfers from a trust named in this subdivision
+18 conveying or releasing the property free of trust as between those related
+19 persons and without actual consideration therefor.
+20 * * *
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 12 of 94
+1 (29) Transfers of property that is part of a farming operation, provided
+2 the transferee will continue using the real estate as part of a farming operation
+3 and:
+4 (A) is related to the seller by blood, marriage, civil union, or
+5 adoption; or
+6 (B) was an employee of the farming operation for a minimum of 10
+7 years prior to the transfer.
+8 (C) A buyer that purchased real estate pursuant to this subdivision
+9 (29) shall be subject to the taximposed by this chapter upon development of
+10 the real estate by the buyer. If the development occurs on a portion of the real
+11 estate, the portion shall be subject to the taximposed by this chapter. The
+12 amount of this taxshall be equal to the taximposed by this chapter as of the
+13 date the development occurs. “Development” has the same meaning as in
+14 subdivision 3752(5) of this title.
+15 * * * Accessory On-Farm Structure Permit * * *
+16 Sec. 6. 10 V.S.A. § 6081(t) is amended to read:
+17 (t) No permit or permit amendment is required for the construction of
+18 improvements for an accessory on-farm business for the storage or sale of
+19 qualifying products or the other eligible enumerated products as defined in
+20 24 V.S.A. § 4412(11)(A)(i)(I). No permit or permit amendment is required for
+21 the construction of improvements for an accessory on-farm business for the
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 13 of 94
+1 preparation or processing of qualifying products as defined in 24 V.S.A.
+2 § 4412(11)(A)(i)(I), provided that more than 50 percent of the total annual
+3 sales of the prepared or processed qualifying products that come from products
+4 not produced on the farm where the business is located do not exceed
+5 $250,000.00. This subsection shall not apply to the construction of
+6 improvements related to hosting events or farm stays as part of an accessory
+7 on-farm business as defined in 24 V.S.A. § 4412(11)(A)(i)(II).
+8 * * * Agricultural Land Definition * * *
+9 Sec. 7. 32 V.S.A. § 3752(1) is amended to read:
+10 (1) “Agricultural land” means any land, exclusive of any housesite, in
+11 active use to grow hay or cultivated crops, pasture livestock, cultivate trees
+12 bearing edible fruit, or produce an annual maple product, and that is 25 acres
+13 or more in size, except as provided in this subdivision (1). Agricultural land
+14 shall include buffer zones as defined and required in the Agency of
+15 Agriculture, Food and Markets’ Required Agricultural Practices rule adopted
+16 under 6 V.S.A. chapter 215. There shall be a presumption that the land is used
+17 for agricultural purposes if:
+18 (A) it is owned by a farmer and is part of the overall farm unit;
+19 (B) it is used by a farmer as part of the farmer’s operation under
+20 written lease for at least three years; or
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 14 of 94
+1 (C) it has produced an annual gross income from the sale of farm
+2 crops or the equivalent value of donated farm crops in one of two, or three of
+3 the five, calendar years preceding of at least:
+4 (i) $2,000.00 for parcels of up to 25 acres; and
+5 (ii) $75.00 per acre for each acre over 25, with the total income
+6 required not to exceed $5,000.00.
+7 (iii) Exceptions to these income requirements may be made in
+8 cases of orchard lands planted to fruit-producing trees, bushes, or vines that are
+9 not yet of bearing age. As used in this section, the term “farm crops” also
+10 includes animal fiber, cider, wine, and cheese, produced on the enrolled land
+11 or on a housesite adjoining the enrolled land, from agricultural products grown
+12 on the enrolled land.
+13 * * * Farm Kitchens * * *
+14 Sec. 8. 18 V.S.A. § 4301 is amended to read:
+15 § 4301. DEFINITIONS
+16 (a) As used in this chapter:
+17 * * *
+18 (9) “Farm kitchen operation” means an accessory on-farm business as
+19 defined in 24 V.S.A. § 4412 that utilizes a dedicated kitchen facility located on
+20 the premises of a working farm for the purposes of preparing, preserving,
+21 packaging, labeling, or storing food products derived from crops, livestock, or
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 15 of 94
+1 other agricultural goods grown or raised on the farm for farm-direct sales,
+2 donation, or distribution.
+3 (10) “Food” means articles of food, drink, confectionery, or condiment
+4 for human consumption, whether simple, mixed, or compound, and all
+5 substances and ingredients used in the preparation thereof.
+6 (10)(11) “Food manufacturing establishment” or “food processor”
+7 means all buildings, rooms, basements, cellars, lofts, or other premises or part
+8 thereof used, occupied, or maintained for the purpose of manufacturing,
+9 preparing, packing, canning, bottling, keeping, storing, handling, serving, or
+10 distributing food for sale. A food manufacturing establishment includes food
+11 processors, bakeries, cottage food operations, farm kitchen operations,
+12 distributers, and warehouses. A food manufacturing establishment does not
+13 include a place where only maple syrup or maple products, as defined in
+14 6 V.S.A. § 481, are prepared for human consumption.
+15 (11)(12) “Food service establishment” means entities that prepare,
+16 serve, and sell food to the public, including restaurants, temporary food
+17 vendors, caterers, mobile food units, and limited operations as defined in rule.
+18 (12)(13) “Lodging establishment” means a place where overnight
+19 accommodations are regularly provided to the transient, traveling, or
+20 vacationing public, including hotels, motels, inns, and bed and breakfasts.
+21 “Lodging establishment” does not include short-term rentals.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 16 of 94
+1 (13)(14) “Salvage food” means any food product from which the label
+2 on the packaging has been lost or destroyed or that has been subjected to
+3 possible damage as the result of an accident, fire, flood, or other cause that
+4 prevents the product from meeting the specifications of the manufacturer or
+5 the packer but is otherwise suitable for human consumption.
+6 (14)(15) “Salvage food facility” means any food vendor for which
+7 salvage food comprises 50 percent or more of gross sales.
+8 (15)(16) “Seafood vending facility” means a store, motor vehicle, retail
+9 stand, or similar place from which a person sells seafood for human
+10 consumption.
+11 (16)(17) “Shellfish reshipper and repacker” means an establishment
+12 engaging in interstate commerce of molluskan shellfish.
+13 (17)(18) “Short-term rental” means a furnished house, condominium, or
+14 other dwelling room or self-contained dwelling unit rented to the transient,
+15 traveling, or vacationing public for a period of fewer than 30 consecutive days
+16 and for more than 14 days per calendar year.
+17 (b) Nothing in this chapter shall be construed to modify or affect laws or
+18 rules of the Agency of Agriculture, Food and Markets.
+19 Sec. 9. 18 V.S.A. § 4353 is amended to read:
+20 § 4353. FEES
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 17 of 94
+1 (a) The Commissioner may establish by rule any requirement the
+2 Department needs to determine the applicable categories or exemptions for
+3 licenses. The following license fees shall be paid annually to the Department
+4 at the time of making the application according to the following schedules:
+5 * * *
+6 (3) Food manufacturing establishment — a fee for any person or
+7 persons that process food for resale to restaurants, stores, or individuals
+8 according to the following schedule:
+9 (A) Food manufacturing establishments; nonbakeries
+10 I — Gross receipts of $10,001.00 to $50,000.00; $175.00
+11 II — Gross receipts of over $50,000.00; $275.00
+12 III — Gross receipts of $10,000.00 or less are exempt
+13 pursuant to section 4358 of this title
+14 (B) Food manufacturing establishment; bakeries
+15 I — Home bakery; $100.00
+16 II — Small commercial; $200.00
+17 III — Large commercial; $350.00
+18 (C) Food manufacturing establishments; cottage food operations —
+19 Gross receipts of $30,000.00 or less from the sale of cottage food products are
+20 exempt pursuant to section 4358 of this title.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 18 of 94
+1 (D) Food manufacturing establishments; farm kitchen operations —
+2 $75.00.
+3 * * *
+4 * * * New Electric Generation Facility Siting * * *
+5 Sec. 10. 30 V.S.A. § 248 is amended to read:
+6 § 248. NEW GAS AND ELECTRIC PURCHASES, INVESTMENTS, AND
+7 FACILITIES; CERTIFICATE OF PUBLIC GOOD
+8 (a)(1) No company, as defined in section 201 of this subchapter, may:
+9 * * *
+10 (4)(A) With respect to a facility located in the State, in response to a
+11 request from one or more members of the public or a party, the Public Utility
+12 Commission shall hold a nonevidentiary public hearing on a petition for such
+13 finding and certificate. The public hearing shall either be remotely accessible
+14 or held in at least one county in which any portion of the construction of the
+15 facility is proposed to be located, or both. The Commission in its discretion
+16 may hold a nonevidentiary public hearing in the absence of any request from a
+17 member of the public or a party. From the comments made at a public
+18 hearing, the Commission shall derive areas of inquiry that are relevant to the
+19 findings to be made under this section and shall address each such area in its
+20 decision. Prior to making findings, if the record does not contain evidence on
+21 such an area, the Commission shall direct the parties to provide evidence on
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 19 of 94
+1 the area. This subdivision (4) does not require the Commission to respond to
+2 each individual comment.
+3 * * *
+4 (E) The Agency of Natural Resources and the Agency of
+5 Agriculture, Food and Markets shall appear as a party parties in any
+6 proceedings held under this subsection (a), shall provide evidence and
+7 recommendations concerning any findings to be made under subdivision (b)(5)
+8 of this section, and may provide evidence and recommendations concerning
+9 any other matters to be determined by the Commission in such a proceeding.
+10 (F) The following shall apply to the participation of the Agency of
+11 Agriculture, Food and Markets in proceedings held under this subsection (a):
+12 (i) In any proceeding regarding an electric generation facility that
+13 will have a capacity greater than 500 kilowatts or an energy storage facility
+14 that will have a capacity greater than 1 megawatt and will be sited on a tract
+15 containing primary agricultural soils as defined in 10 V.S.A. § 6001, the
+16 Agency shall appear as a party and provide evidence and recommendations
+17 concerning any findings to be made under subdivision (b)(5) of this section on
+18 those soils and may provide evidence and recommendations concerning any
+19 other matters to be determined by the Commission in such a proceeding.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 20 of 94
+1 (ii) In a proceeding other than one described in subdivision (i) of
+2 this subdivision (4)(F), the Agency shall have the right to appear and
+3 participate.
+4 * * *
+5 (J) This subdivision (J) applies to an application for an electric
+6 generation facility with a capacity that is greater than 50 kilowatts and to an
+7 application for an energy storage facility that is greater than 1 megawatt,
+8 unless the facility is located on a new or existing structure the primary purpose
+9 of which is not the generation of electricity. In addition to any other
+10 information required by the Commission, the application for such a facility
+11 shall include information that delineates:
+12 (i) the full limits of physical disturbance due to the construction
+13 and operation of the facility and related infrastructure, including areas
+14 disturbed due to the creation or modification of access roads and utility lines
+15 and the clearing or management of vegetation;
+16 (ii) the presence and total acreage of primary, secondary, and local
+17 importance agricultural soils as defined in 10 V.S.A. § 6001 and by the Natural
+18 Resources Conservation Service on each tract to be physically disturbed in
+19 connection with the construction and operation of the facility, the amount of
+20 those soils to be disturbed, and any other proposed impacts to those soils;
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 21 of 94
+1 (iii) all visible infrastructure associated with the facility; and
+2 (iv) all impacts of the facility’s construction and operation under
+3 subdivision (b)(5) of this section, including impacts due to the creation or
+4 modification of access roads and utility lines and the clearing or management
+5 of vegetation.
+6 * * *
+7 (b) Before the Public Utility Commission issues a certificate of public good
+8 as required under subsection (a) of this section, it shall find that the purchase,
+9 investment, or construction:
+10 * * *
+11 (2)(A) Is required to meet the need for present and future demand for
+12 service that could not otherwise be provided in a more cost-effective manner
+13 through energy conservation programs and measures and energy-efficiency and
+14 load management measures, including those developed pursuant to the
+15 provisions of subsection 209(d), section 218c, and subsection 218(b) of this
+16 title. In determining whether this criterion is met, the Commission shall assess
+17 the environmental and economic costs of the purchase, investment, or
+18 construction in the manner set out under subdivision 218c(a)(1) (least cost
+19 integrated plan) of this title and, as to a generation facility, shall consider
+20 whether the facility will avoid, reduce, or defer transmission or distribution
+21 system investments.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 22 of 94
+1 (B) With respect to a solar energy generation facility, to meet this
+2 criterion, a Vermont-licensed engineering firm approved by the Department of
+3 Environmental Conservation shall perform a full-spectrum audit of energy
+4 payback time and carbon dioxide emissions at the cost of the applicant. The
+5 audit shall include a cradle-to-grave calculation, including resource extraction;
+6 mining and procurement; production manufacturing and transportation;
+7 deployment and disposal of all technologies required, including solar panels
+8 concrete, footings, transformers, and batteries; forest ecosystem destruction;
+9 foregoing 25 years of agricultural crops; and construction and landscaping of
+10 the project.
+11 * * *
+12 (5) With respect to an in-state facility, will not have an undue adverse
+13 effect on aesthetics, historic sites, air and water purity, the natural
+14 environment, the use of natural resources, and the public health and safety,
+15 with due consideration having been given to the criteria specified in 10 V.S.A.
+16 §§ 1424a(d) and 6086(a)(1) through (8) and (9)(K), impacts to primary
+17 agricultural soils, agricultural soils of statewide importance or local
+18 importance as defined in 10 V.S.A. § 6001 and as designated by the Natural
+19 Resources Conservation Service, and greenhouse gas impacts. The siting of a
+20 facility or group of physically adjacent or interrelated facilities such that
+21 facility structures and related infrastructure preclude the tilling of soil, seeding,
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 23 of 94
+1 growing, or harvesting of agricultural crops on greater than five acres of
+2 primary, statewide, or local importance agricultural soils, or reduce future
+3 Vermont-based food security or will result in the destruction of forest
+4 ecosystems, forest soils and their unique biology, or increased volatilization
+5 and release of forest soil carbon on more than five acres shall be considered
+6 undue and not in the public good.
+7 * * *
+8 * * * Milk Producers * * *
+9 Sec. 11. 6 V.S.A. § 2752 is amended to read:
+10 § 2752. REFUSALTO PURCHASE; HEARING; SECRETARY’S ORDER
+11 (a) A handler doing business in this State who has a contract either verbal
+12 or written with a producer residing in this State for the purchase of the
+13 producer’s dairy products shall not refuse to purchase them from the producer
+14 except for violations of the sanitary rules or standards applicable to the market
+15 in which the dairy product is sold or marketed, without being deemed guilty of
+16 unfair discrimination. In the event that the refusal is to be based upon reasons
+17 of oversupply or other reasonable grounds, the refusal shall not become
+18 operative until the purchaser has given the producer at least 90 days’ notice of
+19 intention to refuse the producer’s product on these grounds, which shall be
+20 particularly set forth in writing so that the producer may be fully appraised of
+21 the refusal.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 24 of 94
+1 (b) If the producer desires to question the existence or validity of such
+2 grounds of refusal, he or she the producer may do so within 90 days after
+3 receiving the notice or refusal by requesting the Secretary of Agriculture, Food
+4 and Markets for a hearing, and the Secretary is hereby given jurisdiction to
+5 hear and determine the question. The producer shall make complaints of such
+6 contemplated refusal in writing to the Secretary, setting forth the substance of
+7 the refusal notice and requesting to be heard thereon. The Secretary shall then
+8 notify both the producer and the purchaser in writing, sent to them by
+9 registered mail, of the time and place of hearing thereon. The time of the
+10 hearing shall not be less than 10 nor more than 30 days from the date of the
+11 notice. Hearing shall be informal. Both parties shall have an opportunity to
+12 produce evidence.
+13 * * *
+14 (d) If a request for a hearing is made by a purchaser producer, refusal of
+15 the purchaser shall not become operative until hearing and decision in the
+16 purchaser’s favor by the Secretary.
+17 * * *
+18 * * * Farm-to-School Program Contracts * * *
+19 Sec. 12. 6 V.S.A. § 4721 is amended to read:
+20 § 4721. LOCALFOODS GRANT PROGRAM
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 25 of 94
+1 (a) There is created in the Agency of Agriculture, Food and Markets the
+2 Rozo McLaughlin Farm-to-School Program to execute, administer, and award
+3 provide local grants or contracts for the purpose of helping Vermont schools
+4 develop farm-to-school programs that will sustain relationships with local
+5 farmers and producers, enrich the educational experience of students, improve
+6 the health of Vermont children, and enhance Vermont’s agricultural economy.
+7 (b) A school, a school district, a consortium of schools, a consortium of
+8 school districts, a registered or licensed child care provider, or an organization
+9 administering or assisting the development of farm-to-school programs may
+10 apply to the Secretary of Agriculture, Food and Markets for a grant award or
+11 contract to:
+12 * * *
+13 (c) The Secretaries of Agriculture, Food and Markets and of Education and
+14 the Commissioner of Health, in consultation with farmers, child nutrition staff,
+15 educators, organizations administering or assisting the development of farm-
+16 to-school programs, and farm-to-school technical service providers, jointly
+17 shall adopt procedures relating to the content of the grant application
+18 applications or contract bids and the criteria for making awards.
+19 * * *
+20 (e) No award individual grant or contract shall be greater than 20 percent
+21 of the total annual amount funds available for granting except that a grant an
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 26 of 94
+1 award to the following entities may, at the discretion of the Secretary of
+2 Agriculture, Food and Markets, exceed the cap:
+3 (1) Farm-to-School service providers; or
+4 (2) school districts or consortiums of school districts that completed
+5 merger under 2010 Acts and Resolves No. 153, 2012 Acts and Resolves No.
+6 156, or 2015 Acts and Resolves No. 46 on or before July 1, 2019, provided
+7 that the grant is funds are used for the purpose of expanding Farm-to-School
+8 projects to additional schools within the new school district.
+9 * * * Pest Control Compact Repeal * * *
+10 Sec. 13. REPEAL
+11 6 V.S.A. chapter 83 (Pest Control Compact) is repealed on July 1, 2026.
+12 * * * Amending Pesticide Exam Requirements * * *
+13 Sec. 14. 6 V.S.A. § 1112 is amended to read:
+14 § 1112. LICENSING PESTICIDE APPLICATORS; PESTICIDE
+15 COMPANIES; DEALERS
+16 (a) The Secretary may adopt rules requiring persons selling Class A and B
+17 pesticides to be licensed under this chapter. In addition, the Secretary may
+18 adopt rules requiring companies that hire applicators or conduct pesticide
+19 applications to be licensed and applicators who use pesticides to be certified
+20 under this chapter. The Secretary may establish reasonable requirements for
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 27 of 94
+1 obtaining licenses and certificates. The fees for dealers, licensed companies,
+2 and applicator certificates under this chapter shall be as follows:
+3 (1) Class A Dealer License—$50.00;
+4 (2) Class B Dealer License—$50.00;
+5 (3) Pesticide Company License—$75.00;
+6 (4) Commercial and, Noncommercial, and Government Applicator
+7 Certification fee—$30.00 per category or subcategory with a maximum of
+8 $120.00;
+9 (5) second and third time examination Examination fee for dealer
+10 licenses and applicator certification—$25.00; and
+11 (6) Private Applicator—$25.00; and.
+12 (7) State Government, Municipal, and Public Education Institution
+13 Applicators—$30.00.
+14 * * *
+15 (e) There shall be no limitation on the frequency for retaking examinations
+16 for private, commercial, noncommercial, or government applicator
+17 certifications or dealer licenses.
+18 * * * Seed Law Conforming to Universal Standards * * *
+19 Sec. 15. 6 V.S.A. § 641 is amended to read:
+20 § 641. DEFINITIONS
+21 (a) As used in this chapter:
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 28 of 94
+1 (1) “Agricultural seed” includes grass, forage, cereal, oil, fiber, and
+2 other kinds of crop seeds commonly recognized as agricultural seeds, lawn
+3 seeds, and combinations of such seeds, and may include noxious weed seeds
+4 used when the Secretary determines an appropriate use as agricultural seed.
+5 (2) “Secretary” means the Secretary of Agriculture, Food and Markets
+6 or his or her the Secretary’s designee.
+7 (3) “Agency” means the Agency of Agriculture, Food and Markets.
+8 (4) “Flower seed” includes seed of herbaceous plants grown for their
+9 blooms, ornamental foliage, or other ornamental parts and commonly known
+10 and sold under the name of flower or wildflower seed in this State.
+11 (5) “Labeling” includes means tags or other devices attached to, or
+12 written, stamped, or printed on, any container or accompanying any lot of bulk
+13 seeds that are used to provide the seed label information required by this
+14 chapter. “Labeling” includes additional information that describes labeled
+15 seed.
+16 (6) “Noxious weed seeds” include:
+17 (A) “Prohibited noxious weed seeds,” or those weed seeds that are
+18 prohibited from being present in agricultural and, vegetable, flower, tree, or
+19 shrub seed. They are the seeds of weeds that are highly destructive and
+20 difficult to control by good cultural practices and the use of herbicides.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 29 of 94
+1 (B) The term “restricted noxious weed seeds,” or those weed seeds
+2 that are objectionable in agricultural crops, lawns, and gardens of this State
+3 and that are difficult to control can be controlled by good cultural practices or
+4 the use of herbicides.
+5 * * *
+6 (8) “Weed seeds” mean means the seeds of all plants generally
+7 recognized as weeds within this State and include includes prohibited and
+8 noxious weed seeds.
+9 * * *
+10 (11) “Distribute” means to import, manufacture, produce, mix, blend,
+11 offer for sale, sell, barter, or supply seed for the purpose of sowing in the State
+12 through any means, including sales outlets, catalogues, the telephone, the
+13 internet, or any electronic means.
+14 (12) “Distributor” means any person who distributes seeds in or into the
+15 State and affixes the labeling or any relabeling required in section 644 of this
+16 chapter.
+17 (13) “Treated” means seed that received an application of a substance or
+18 process designed to reduce, control, or repel certain disease organisms, insects,
+19 or other pests from attaching to the seed or seedlings, or designed to enhance
+20 the availability or uptake of plant nutrients through root systems.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 30 of 94
+1 (b) In addition to the terms defined in subsection (a) of this section and to
+2 facilitate uniform seed requirements, the Secretary may apply any other term
+3 or definition that the Association of American Seed Control Officials adopted
+4 in its Recommended Uniform State Seed Law, as amended.
+5 Sec. 16. 6 V.S.A. § 642 is amended to read:
+6 § 642. DUTIES AND AUTHORITY OF THE SECRETARY
+7 (a) The Secretary shall enforce and carry out the provisions of this
+8 subchapter, including:
+9 (1) Sampling, inspecting, making analysis of, and testing seeds subject
+10 to the provisions of this subchapter that are transported, sold, or offered or
+11 exposed for sale within distributed in or into the State for sowing purposes.
+12 The Secretary shall notify promptly a person who sells, offers, or exposes
+13 distributes seeds for sale and, if appropriate, the person who labels or
+14 transports seeds of any violation and seizure of the seeds or order to cease sale
+15 of the seeds under section 643 of this title.
+16 * * *
+17 Sec. 17. 6 V.S.A. § 644 is amended to read:
+18 § 644. LABELREQUIREMENTS FOR AGRICULTURAL, FLOWER, AND
+19 VEGETABLE SEEDS
+20 (a) Each container of agricultural, flower, and vegetable seeds that is sold
+21 distributed in this State for sowing purposes shall be labeled.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 31 of 94
+1 (1) All labels shall include:
+2 * * *
+3 (E) the name and address of the labeler or distributor responsible for
+4 labeling the seed.
+5 (2) For all treated agricultural, vegetable, and flower seeds that have
+6 been treated, the label or an additional label shall include:
+7 (A) a A word or statement indicating that describing the seed has
+8 been treated with treatment and identifying the commonly accepted chemical
+9 name or abbreviated chemical name of the applied substance, or a description
+10 of the process used.
+11 (B) A caution statement shall be set forth if If the substance in the
+12 amount present with the seed is harmful to human or other vertebrate animals.,
+13 an appropriate caution statement like “Do not use for food, feed, or oil
+14 purposes.” The caution statement for mercurial and similarly toxic substances
+15 shall be a poison statement or symbol.
+16 (3) For seed treated with an inoculant, the label shall state the date of
+17 expiration of date, meaning the date beyond which the inoculant is not
+18 considered effective.
+19 * * *
+20 (5) All bins and other bulk displays of agricultural, flower, grass, and
+21 vegetable seeds, or mixtures of the described seeds, shall be labeled with the
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 32 of 94
+1 same information that is required to be on containers of agricultural, flower, or
+2 vegetable seeds as applicable.
+3 * * *
+4 Sec. 18. 6 V.S.A. § 646(b) is amended to read:
+5 (b) No person shall be subject to the penalties of this subchapter for having
+6 sold or offered for sale distributing seeds subject to provisions of this
+7 subchapter that were incorrectly labeled or represented as to kind, species, and
+8 subspecies; variety; type; or origin, unless the person has failed to obtain an
+9 invoice, genuine grower’s declaration, or other labeling information or to take
+10 such other reasonable precautions to ensure that the identity of the seed is set
+11 forth. “Genuine grower’s declaration” means a statement signed by the grower
+12 that gives for each lot of seed the lot number, kind, variety (if known), origin,
+13 weight, year of production, date of shipment, and to whom the shipment was
+14 made.
+15 Sec. 19. 6 V.S.A. § 647 is amended to read:
+16 § 647. ADMINISTRATIVE PENALTIES
+17 (a) The Secretary may assess administrative penalties, not to exceed
+18 $250.00 for each offense, in any case he or she the Secretary determines that a
+19 person has committed any of the following violations:
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 33 of 94
+1 (1) sold Distributed seed products without paying the seed inspection
+2 fees for hundredweight tonnage or seed registration fee under section 648 of
+3 this title;.
+4 (2) sold Distributed seed products within the State of Vermont found
+5 deficient in guarantee analysis and labeling as defined by rule; or.
+6 (3) Failed to report the quantity of genetically engineered, treated, and
+7 untreated seed sold in the State during the previous calendar year. Reporting
+8 shall be completed on forms the Secretary prescribes and may include seed
+9 categories, traits, Environmental Protection Agency pesticide product
+10 numbers, active ingredients, application rate on seed, and other information the
+11 Secretary requires.
+12 (3)(4) violated Violated a stop sale order.
+13 * * *
+14 Sec. 20. 6 V.S.A. § 648 is amended to read:
+15 § 648. INSPECTIONS REGISTRATION AND REPORTING
+16 (a) Inspection No person shall distribute seed without registering annually.
+17 Registration fees shall be paid to the Secretary by a manufacturer or,
+18 processor, or distributer that distributes seed in or into the State. Fees shall be
+19 established as follows: The registration fee is $85.00 annually for each
+20 distributor that distributes any seed in or into the State. Registration is for the
+21 calendar year and expires on the last day of December each year.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 34 of 94
+1 (1) $10.00 per ton for any seed sold in containers of more than 10
+2 pounds; and
+3 (2) a flat fee of $85.00 per company for any seed sold.
+4 (b) The following shall be exempt from the inspection fee registration
+5 requirements:
+6 (1) seed not intended for sowing purposes;
+7 (2) seed in storage in, or consigned to, a seed cleaning or processing
+8 establishment for cleaning or processing; and
+9 (3) seed grown, sold, and delivered by a producer on his or her the
+10 producer’s own premises for seeding purposes to the ultimate consumer,
+11 provided such seed has neither been advertised for sale nor been delivered via
+12 commercial carrier, and provided the seed contains no prohibited noxious
+13 weed seeds or not more than one restricted noxious weed seed per 2,000 of the
+14 seeds being sold.; and
+15 (4) interpersonal sharing of seed for home, educational, charitable, or
+16 personal noncommercial use.
+17 (c) The following reports are required:
+18 (1) For those seeds sold A manufacturer, processor, or distributor
+19 distributing seed in containers of more than 10 pounds, a must file an annual
+20 report shall be filed annually on or before January 15 on forms supplied by the
+21 Secretary regarding sales distribution of seed during the previous calendar year
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 35 of 94
+1 and fees based on the,. A fee of $10.00 per ton rate shall accompany the
+2 report. Reporting periods are January 1-June 30 and July 1-December 31 of
+3 seeds distributed in containers of more than 10 pounds shall accompany the
+4 report and is due annually on or before January 15. If a registrant or
+5 distributor does not distribute any seed during the calendar year, a report
+6 indicating that no distribution occurred must be submitted.
+7 (2) For all seeds distributed in or into Vermont regardless of container
+8 size, the manufacturer, processor, or distributor distributing the seed shall
+9 report annually on or before February 15 to the Secretary on a form supplied
+10 by the Secretary. At minimum, the form will require disclosure of the quantity
+11 of seeds containing genetically engineered material, treated seed, and untreated
+12 seed distributed during the previous calendar year. The following
+13 requirements also apply:
+14 (A) for seeds containing genetically engineered material, the seed
+15 type, a brand name for the combination of traits, and any other information the
+16 Secretary determines is appropriate; and
+17 (B) for pesticide treated article seed, the Environmental Protection
+18 Agency pesticide registration number, application rate on seed by the seed
+19 type, and any other information the Secretary determines is appropriate.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 36 of 94
+1 (d) For those seeds sold in containers of 10 pounds or less, the fee of $85.00
+2 per company shall be paid annually prior to distribution in the State. Fees shall
+3 be paid annually on January 1.
+4 (e)(d) All fees shall be deposited in the special fund created by subsection
+5 364(f) of this title and used in accordance with its provisions.
+6 (f)(e) The Secretary may waive seed inspection fees under this chapter,
+7 based on the number of seed varieties sold, and for the sale of heirloom seed
+8 varieties.
+9 (g) For seeds sold in Vermont that contain genetically engineered material,
+10 the manufacturer or processor distributing such seed in Vermont shall report
+11 annually on or before February 15 to the Secretary on forms supplied by the
+12 Secretary regarding sales during the previous calendar year.
+13 (h) For agricultural seeds sold in Vermont, the manufacturer or processor
+14 distributing the seed in Vermont shall report annually on or before February 15
+15 to the Secretary on forms supplied by the Secretary regarding the quantity of
+16 treated article seed and the quantity of untreated seed sold in Vermont during
+17 the previous calendar year.
+18 * * * Consolidate VACP within VEDA * * *
+19 Sec. 21. TRANSFER OF VERMONT AGRICULTURALCREDIT
+20 PROGRAM
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 37 of 94
+1 10 V.S.A. chapter 16A (Vermont Agricultural Credit Program) is repealed
+2 for the purpose of redesignation as 10 V.S.A. chapter 12, subchapter 16.
+3 Sec. 22. 10 V.S.A. chapter 12, subchapter 16 is added to read:
+4 Subchapter 16. Vermont Agricultural Credit Program
+5 § 280hh. DEFINITIONS
+6 As used in this subchapter:
+7 (1) “Agricultural facility” means land and rights in land, buildings,
+8 structures, machinery, and equipment that is used for, or will be used for,
+9 producing, processing, preparing, packaging, storing, distributing, marketing,
+10 or transporting agricultural or forest products that have been at least partially
+11 produced in this State, and working capital reasonably required to operate an
+12 agricultural facility.
+13 (2) “Agricultural land” means real estate capable of supporting
+14 commercial farming or forestry, or both.
+15 (3) “Agricultural products” means crops, livestock, forest products, and
+16 other farm or forest commodities produced as a result of farming or forestry
+17 activities.
+18 (4) “Cash flow” means, on an annual basis, all income, receipts, and
+19 revenues of the applicant or borrower from all sources and all expenses of the
+20 applicant or borrower, including all debt service and other expenses.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 38 of 94
+1 (5) “Farm operation” means the cultivation of land or other uses of land
+2 for the production of food, fiber, horticultural, silvicultural, orchard, maple
+3 syrup, Christmas trees, forest products, or forest crops; the raising, boarding,
+4 and training of equines, and the raising of livestock; or any combination of the
+5 foregoing activities. “Farm operation” also means the storage, preparation,
+6 retail sale, and transportation of agricultural or forest commodities accessory
+7 to the cultivation or use of such land. “Farm operation” also means the
+8 operation of an agritourism business on a farm subject to regulation under the
+9 Required Agricultural Practices. “Farm operation” also means a business that
+10 provides specialty services to farmers, such as foresters, farriers, hoof
+11 trimmers, or large animal veterinarians operating or proposing to operate
+12 mobile units.
+13 (6) “Farm ownership loan” means a loan to acquire or enlarge a farm or
+14 agricultural facility; to make capital improvements, including construction,
+15 purchase, and improvement of farm and agricultural facility buildings, farm
+16 worker housing, or farmer housing that can be made fixtures to the real estate;
+17 to promote soil and water conservation and protection or provide housing; and
+18 to refinance indebtedness incurred for farm ownership or operating loan
+19 purposes, or both.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 39 of 94
+1 (7) “Farmer” means an individual directly engaged in the management
+2 or operation of an agricultural facility or farm operation for whom the
+3 agricultural facility or farm operation constitutes two or more of the following:
+4 (A) is or is expected to become a significant source of the farmer’s
+5 income;
+6 (B) the majority of the farmer’s assets; and
+7 (C) an occupation in which the farmer is actively engaged, either on
+8 a seasonal or year-round basis.
+9 (8) “Forest products business” means an enterprise that is engaged in
+10 managing, harvesting, trucking, processing, manufacturing, crafting, or
+11 distributing forest products at least partially derived from Vermont forests.
+12 (9) “Livestock” includes cattle, sheep, goats, equines, fallow deer, red
+13 deer, reindeer, American bison, swine, poultry, pheasant, chukar partridge,
+14 coturnixquail, ferrets, camelids and ratites, cultured trout propagated by
+15 commercial trout farms, and bees.
+16 (10) “Loan” means an operating loan or farm ownership loan, including
+17 a financing lease, provided that such lease transfers the ownership of the leased
+18 property to each lessee following the payment of all required lease payments
+19 as specified in each lease agreement.
+20 (11) “Operating loan” means a loan to purchase livestock, farm or
+21 forestry equipment, or fixtures to pay annual operating expenses of a farm
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 40 of 94
+1 operation or agricultural facility; to pay loan closing costs; and to refinance
+2 indebtedness incurred for farm ownership or operating loan purposes, or both.
+3 (12) “Program” means the Vermont Agricultural Credit Program
+4 established by this subchapter.
+5 (13) “Project” or “agricultural project” means the creation,
+6 establishment, acquisition, construction, expansion, improvement,
+7 strengthening, reclamation, operation, or renovation of an agricultural facility
+8 or farm operation.
+9 280ii. VERMONT AGRICULTURALCREDIT PROGRAM
+10 (a) The Vermont Agricultural Credit Program provides an alternative
+11 source of sound and constructive credit to farmers and forest products
+12 businesses who are not having their credit needs fully met by conventional
+13 agricultural credit sources at reasonable rates and terms; or, in the alternative,
+14 the granting of the loan shall serve as a substantial inducement for the
+15 establishment or expansion of an eligible agricultural or forestry project within
+16 the State. The Program is intended to meet, either in whole or in part, the
+17 credit needs of eligible agricultural facilities and farm and forest operations in
+18 fulfillment of one or more of the purposes listed in this subsection by making
+19 direct loans and participating in loans made by other agricultural credit
+20 providers:
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 41 of 94
+1 (1) to encourage diversification, cooperative farming, and the
+2 development of innovative techniques for farming and forest products
+3 businesses;
+4 (2) to increase energy efficiency and reduce energy consumption in
+5 agricultural facilities, including the construction of water pollution control
+6 facilities that implement best management practices for farm waste abatement
+7 pursuant to 6 V.S.A. chapter 215;
+8 (3) to encourage innovative and diversified processing, marketing, and
+9 distribution of Vermont agricultural products;
+10 (4) to assist beginning farmers to start new farms and new agricultural
+11 facilities to commence or strengthen their operations;
+12 (5) to assist or financially strengthen existing farms; and
+13 (6) to refinance loans incurred by eligible borrowers for any of the
+14 purposes enumerated in subdivisions (1) through (5) of this subsection.
+15 (b) No borrower shall be approved for a loan from the Authority that
+16 would result in the aggregate principal balances outstanding of all loans to that
+17 borrower exceeding $5,000,000.00.
+18 280jj. GENERALPOWERS
+19 The Authority shall have the powers necessary to carry out the purposes
+20 and provisions of this program and subchapter, including those general powers
+21 conferred on the Authority in section 216 of this title.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 42 of 94
+1 280kk. LOAN ELIGIBILITY STANDARDS
+2 A farmer, forest products business, or a limited liability company,
+3 partnership, corporation, or other business entity with a minimum 20 percent
+4 ownership of which is vested in one or more farmers, forest products
+5 businesses, or a nonprofit corporation, shall be eligible to apply for a farm
+6 ownership or operating loan that shall be intended to expand the agricultural
+7 economy or forest economy of the State, provided the applicant is:
+8 (1) an owner, prospective purchaser, or lessee of agricultural land in the
+9 State or of depreciable machinery, equipment, or livestock to be used in the
+10 State;
+11 (2) a person of sufficient education, training, or experience in the
+12 operation and management of an agricultural facility or farm operation or
+13 forest products business of the type for which the applicant requests the loan;
+14 (3) an operator or proposed operator of an agricultural facility, farm
+15 operation, or forest products business for whom the loan reduces investment
+16 costs to an extent that offers the applicant a reasonable chance to succeed in
+17 the operation and management of an agricultural facility or farm operation;
+18 (4) a creditworthy person under such standards as the Authority may
+19 establish;
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 43 of 94
+1 (5) able to provide and maintain adequate security for the loan by a
+2 mortgage on real property or a security agreement and perfected financing
+3 statement on personal property;
+4 (6) able to demonstrate that the applicant is responsible and able to
+5 manage responsibilities as owner or operator of the farm operation,
+6 agricultural facility, or forest products business;
+7 (7) able to demonstrate that the applicant has made adequate provision
+8 for insurance protection of the mortgaged or secured property while the loan is
+9 outstanding;
+10 (8) a person who possesses the legal capacity to incur loan obligations;
+11 (9) in compliance with such other reasonable eligibility standards as the
+12 Authority may establish;
+13 (10) able to demonstrate that the project plans comply with all
+14 regulations of the municipality where it is to be located and of the State of
+15 Vermont;
+16 (11) able to demonstrate that the making of the loan will be of public
+17 use and benefit;
+18 (12) able to demonstrate that the proposed loan will be adequately
+19 secured by a mortgage on real property or by a security agreement on personal
+20 property; and
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 44 of 94
+1 (13) able to demonstrate that there will be sufficient projected cash flow
+2 to service a reasonable level of debt, including the loan or loans, being
+3 considered by the Authority.
+4 * * * Permitting Large and Medium Farm Operations * * *
+5 Sec. 23. 6 V.S.A. § 4851(i) is amended to read:
+6 (i) A Beginning on July 1, 2026, a person required to obtain a permit under
+7 this section shall submit not be required to pay an annual operating fee of
+8 $2,500.00 to the Secretary. During any calendar year in which a person has an
+9 active Large Concentrated Animal Feeding Operation permit issued by the
+10 Agency of Natural Resources pursuant to the federal Clean Water Act and pays
+11 the required associated fee, that person shall not be required to pay the
+12 $2,500.00 annual operating fee described in this section. The fees collected
+13 under this section shall be deposited in the Agricultural Water Quality Special
+14 Fund under section 4803 of this title.
+15 Sec. 24. 6 V.S.A. § 4858(e) is amended to read:
+16 (e) Operating fee. A Beginning on July 1, 2026, a person required to obtain a
+17 permit or coverage under this section shall submit not be required to pay an
+18 annual operating fee of $1,500.00 to the Secretary. The fees collected under
+19 this section shall be deposited in the Agricultural Water Quality Special Fund
+20 under section 4803 of this title.
+21 * * * Floor Drain Permitting Study * * *
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 45 of 94
+1 Sec. 25. FLOOR DRAIN PERMITTING STUDY; REPORT
+2 (a) The Agency of Natural Resources, in coordination with the Agency of
+3 Agriculture, Food and Markets, shall convene a stakeholder group to report on
+4 how to address the permitting process for installation of floor drains for
+5 purposes of disposing process wastewater into underground injection wells to
+6 better support farmers and their role in the agricultural economy. For purposes
+7 of this study, “process wastewater” has the same meaning as defined in
+8 Agency of Natural Resources, Department of Environmental Conservation
+9 Environmental Protection Rules, Chapter 11, Underground Injection Control
+10 Regulations, Section 11-201.
+11 (b) The group shall examine how the permitting process for installation of
+12 floor drains currently works and whether there are shortcomings or challenges.
+13 The group shall examine the permitting process holistically to understand and
+14 explain the roles of the Agency of Natural Resources and the Agency of
+15 Agriculture, Food and Markets. The group shall develop recommendations to
+16 find efficiencies in the entire process or recommend an alternative permitting
+17 process.
+18 (c) The Secretary of Natural Resources shall submit the report to the House
+19 Committees on Agriculture, Food Resiliency, and Forestry and on
+20 Environment and the Senate Committees on Agriculture and on Natural
+21 Resources and Energy on or before January 15, 2027.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 46 of 94
+1 * * * Effective Date * * *
+2 Sec. 26. EFFECTIVE DATE
+3 This act shall take effect on July 1, 2026.
+* * * Municipal Agriculture Regulation * * *
+Sec. 1. FINDINGS AND INTENT; MUNICIPAL REGULATION OF
+AGRICULTURE
+(a) For purposes of Sec. 2 of this act, the General Assembly finds that:
+(1) Since enactment of 2004 Acts and Resolves No. 115, it has been both
+the intent of the General Assembly and the controlling law that a municipality
+shall not regulate farming, including the construction of farm structures.
+(2) The Vermont Supreme Court’s decision in In re 8 Taft Street DRB &
+NOV Appeals, 2025 VT 27 reversed application of at least the past 20 years of
+law to hold that municipalities may regulate farming by municipal bylaw.
+(3) To avoid the unintended consequences of the decision in In re 8 Taft
+Street DRB & NOV Appeals, 2025 VT 27, it is necessary for the General
+Assembly to clarify and restate that municipalities under ordinance or bylaw
+shall not regulate farming or the construction of farm structures as set forth in
+24 V.S.A. § 4413(d).
+(4) In addition, the General Assembly finds that municipalities shall not
+regulate by bylaw the growing of plants and the raising of a small backyard
+poultry flock, excluding roosters.
+(b) For purposes of Sec. 2 of this act, it is the intent of the General
+Assembly to overturn the holding in In re 8 Taft Street DRB & NOV Appeals,
+2025 VT 27 and to clarify that municipalities lack authority to regulate
+farming or the construction of farm structures as set forth in 24 V.S.A.
+§ 4413(d).
+Sec. 2. 24 V.S.A. § 4413(d) is amended to read:
+(d)(1) A bylaw under this chapter shall not regulate:
+(A) required agricultural practices, including the construction of
+farm structures, as those practices are defined by the Secretary of Agriculture,
+Food and Markets the cultivation or other use of land for growing plants,
+including for food, fiber, Christmas trees, maple sap, or horticultural,
+viticultural, and orchard crops;
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 47 of 94
+(B) the raising, feeding, or management of a small backyard poultry
+flock, excluding roosters;
+(C) farming that meets the minimum threshold criteria in the
+Required Agricultural Practices Rule and is therefore required to comply with
+the Required Agricultural Practices Rule;
+(D) the construction of farm structures, including as defined in the
+Required Agricultural Practices Rule;
+(B)(E) accepted silvicultural practices, as defined by the
+Commissioner of Forests, Parks and Recreation, including practices that are in
+compliance with the Acceptable Management Practices for Maintaining Water
+Quality on Logging Jobs in Vermont, as adopted by the Commissioner of
+Forests, Parks and Recreation; or
+(C)(F) forestry operations.
+(2) As used in this section:
+(A) “Farming” has the same meaning as in 10 V.S.A. § 6001(22) or
+in the Required Agricultural Practices Rule.
+(B) “Farm structure” means a building, enclosure, or fence for
+housing livestock, raising horticultural or agronomic plants, or carrying out
+other practices associated with accepted agricultural or farming practices,
+including a silo, as “farming” is defined in 10 V.S.A. § 6001(22), but excludes
+a dwelling for human habitation.
+(B)(C) “Forestry operations” has the same meaning as in 10 V.S.A.
+§ 2602.
+(D) “Poultry” has the same meaning as in 6 V.S.A. § 1459(4).
+* * *
+Sec. 3. Section 3 of the Agency of Agriculture, Food and Markets, Vermont
+Required Agricultural Practices Rule for the Agricultural Nonpoint Source
+Pollution Control Program is amended to read:
+Section 3. Required Agricultural Practices Activities and Applicability
+3.1 Persons engaged in farming and the agricultural practices as defined in
+Section 3.2 of this rule and who meet the minimum threshold criteria for
+applicability of this rule as found in Section 3.1(a)–(g) must meet all
+applicable Required Agricultural Practices conditions, restrictions, and
+operating standards, and are not subject to municipal zoning bylaws. Persons
+engaged in farming who are in compliance with these conditions, restrictions,
+and operating standards, as applicable, shall be presumed to not have a
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 48 of 94
+discharge of agricultural wastes to waters of the State. Compliance with the
+Required Agricultural Practices Rule is required if a person:
+(a) is required to be permitted or certified by the Secretary, consistent with
+the requirements of 6 V.S.A. Chapter 215 and this rule; or
+(b) has produced an annual gross income from the sale of agricultural
+products of $2,000.00 $5,000.00 or more in an average year; or
+(c) is preparing, tilling, fertilizing, planting, protecting, irrigating, and
+harvesting crops for sale or for charitable contributions of farm crops that are
+allowable under 26 U.S.C. § 170(c) and that are made to an organization that
+is unrelated to the owner of the enrolled land on a farm that is no less than 4.0
+contiguous acres in size; or
+(d) is raising, feeding, or managing at least the following number of adult
+livestock on a farm that is no less than 4.0 contiguous acres in size:
+(1) four equines;
+(2) five cattle, cows, or American bison;
+(3) 15 swine;
+(4) 15 goats;
+(5) 15 sheep;
+(6) 15 cervids;
+(7) 50 turkeys;
+(8) 50 geese;
+(9) 100 laying hens;
+(10) 250 broilers, pheasant, Chukar partridge, or Coturnix quail;
+(11) three camelids;
+(12) four ratites;
+(13) 30 rabbits;
+(14) 100 ducks;
+(15) 1,000 pounds of cultured trout; or
+(16) other livestock types, combinations, or numbers as designated by
+the Secretary based upon or resulting from the impacts upon water quality
+consistent with this rule; or
+(e) is raising, feeding, or managing other livestock types, combinations,
+and numbers, or managing crops or engaging in other agricultural practices
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 49 of 94
+on at least 1.0 and less than 4.0 contiguous acres in size that the Secretary has
+determined, after the opportunity for a hearing, to be causing adverse water
+quality impacts and in a municipality where no ordinances are in place to
+manage the activities causing the water quality impacts and has sufficient land
+base for appropriate nutrient and waste management. The Secretary has the
+discretion to determine, after consultation with the appropriate municipal
+authority, if the land base is adequate to properly manage the number and type
+of livestock while evaluating whether compliance with the Required
+Agricultural Practices is reasonable or impractical; or
+(f) is managed by a farmer filing with the Internal Revenue Service a
+1040(F) income tax statement in at least one of the past two years is raising,
+feeding, or managing livestock on less than 1.0 contiguous acre or on between
+1.0 and 4.0 contiguous acres in a municipality that lacks ordinances or bylaws
+to regulate livestock, and the Secretary determines, after an opportunity for a
+hearing, that the livestock are causing significant adverse water quality
+impacts and the Required Agricultural Practices should apply to protect water
+quality; or
+(g) has a prospective business or farm management plan, approved by the
+Secretary, describing how the farm will meet the threshold requirements of this
+section.
+3.2 The agricultural practices on farms meeting that meet the minimum
+threshold criteria set forth in Section 3.1 that are governed by this rule and are
+not subject to municipal zoning bylaws include:
+(a) the confinement, feeding, fencing, and watering of livestock;
+(b) the storage and handling of agricultural wastes principally produced
+on the farm;
+(c) the collection of maple sap principally produced from trees on the farm
+and/or production of maple syrup from sap principally produced on the farm;
+(d) the preparation, tilling, fertilization, planting, protection, irrigation,
+and harvesting of crops;
+(e) the ditching and subsurface drainage of farm fields and the
+construction of farm ponds;
+(f) the stabilization of farm fields adjacent to banks of surface water, and
+the establishment and maintenance of vegetated buffer zones and riparian
+buffer zones;
+(g) the construction and maintenance of farm structures, farm roads, and
+associated infrastructure;
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 50 of 94
+(h) the on-site storage, preparation, production, and sale of fuel or power
+from agricultural products or wastes principally produced on the farm;
+(i) the on-site storage, preparation, and sale of agricultural products
+principally produced on the farm from raw agricultural commodities
+principally produced on the farm;
+(j) the on-site storage of agricultural inputs for use on the farm including,
+but not limited to, lime, fertilizer, pesticides, compost and other soil
+amendments, and the equipment necessary for operation of the farm; and
+(k) the management of livestock mortalities produced on the farm.
+* * * Accessory On-Farm Structure Permit * * *
+Sec. 4. 10 V.S.A. § 6081(t) is amended to read:
+(t) No permit or permit amendment is required for the construction of
+improvements for an accessory on-farm business for the storage or sale of
+qualifying products or the other eligible enumerated products as defined in
+24 V.S.A. § 4412(11)(A)(i)(I). No permit or permit amendment is required for
+the construction of improvements for an accessory on-farm business for the
+preparation or processing of qualifying products as defined in 24 V.S.A.
+§ 4412(11)(A)(i)(I), provided that more than 50 percent of the total annual
+sales of the prepared or processed qualifying products come from products
+produced on the farm where the business is located, or not more than
+$250,000.00, adjusted for inflation, in total annual sales, or the equivalent
+value of donated farm crops, of the prepared or processed qualifying products
+come from products that are not produced on the farm where the business is
+located. As used in this subsection, “adjusted for inflation” means adjusting
+the dollar amount by the U.S. Consumer Price Index for all Urban Consumers,
+All Items, published by the U.S. Bureau of Labor Statistics, from fiscal year
+2026 through the fiscal year for which the amount is being determined, and
+rounding upward to the nearest whole dollar amount. This subsection shall
+not apply to the construction of improvements related to hosting events or farm
+stays as part of an accessory on-farm business as defined in 24 V.S.A. §
+4412(11)(A)(i)(II). As used in this subsection, “donated farm crops” means
+charitable contributions of farm crops that are allowable under 26 U.S.C.
+§ 170(c) and that are made to an organization that is unrelated to the owner of
+the enrolled land.
+* * * Land Use Value Appraisal * * *
+Sec. 5. 32 V.S.A. § 3752 is amended to read:
+§ 3752. DEFINITIONS
+As used in this subchapter:
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 51 of 94
+(1) “Agricultural land” means any land, exclusive of any housesite, in
+active use to grow hay or cultivated crops, pasture livestock, cultivate trees
+bearing edible fruit, or produce an annual maple product, and that is 25 acres
+or more in size, except as provided in this subdivision (1). Agricultural land
+shall include buffer zones as defined and required in the Agency of Agriculture,
+Food and Markets’ Required Agricultural Practices rule adopted under 6
+V.S.A. chapter 215. There shall be a presumption that the land is used for
+agricultural purposes if:
+(A) it is owned by a farmer and is part of the overall farm unit;
+(B) it is used by a farmer as part of the farmer’s operation under
+written lease for at least three years; or
+(C) it has produced an annual gross income from the sale of farm
+crops, or the equivalent value of donated farm crops, in one of two, or three of
+the five, calendar years preceding of at least:
+(i) $2,000.00 for parcels of up to 25 acres; and
+(ii) $75.00 per acre for each acre over 25, with the total income
+required not to exceed $5,000.00.
+(iii) Exceptions to these income requirements may be made in
+cases of orchard lands planted to fruit-producing trees, bushes, or vines that
+are not yet of bearing age. As used in this section, the term “farm crops” also
+includes animal fiber, cider, wine, and cheese, produced on the enrolled land
+or on a housesite adjoining the enrolled land, from agricultural products
+grown on the enrolled land, and “donated farm crops” means charitable
+contributions of farm crops that are allowable under 26 U.S.C. § 170(c) and
+that are made to an organization that is unrelated to the owner of the enrolled
+land.
+* * *
+Sec. 6. 32 V.S.A. § 3755 is amended to read:
+§ 3755. ELIGIBILITY FOR USE VALUE APPRAISALS
+* * *
+(h) An owner of enrolled agricultural land that is eligible for enrollment
+due to farm crop donations pursuant to subdivision 3752(1)(C) of this chapter
+shall retain receipts or other proof of donation. The receipts or other proof
+shall be available for inspection and examination at any time upon demand by
+the Director and shall be preserved for a period of three years.
+* * * Milk Producers * * *
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 52 of 94
+Sec. 75. 6 V.S.A. § 2752 is amended to read:
+§ 2752. REFUSAL TO PURCHASE; HEARING; SECRETARY’S ORDER
+(a) A handler doing business in this State who has a contract either verbal
+or written with a producer residing in this State for the purchase of the
+producer’s dairy products shall not refuse to purchase them from the producer
+except for violations of the sanitary rules or standards applicable to the market
+in which the dairy product is sold or marketed, without being deemed guilty of
+unfair discrimination. In the event that the refusal is to be based upon reasons
+of oversupply or other reasonable grounds, the refusal shall not become
+operative until the purchaser has given the producer at least 90 days’ notice of
+intention to refuse the producer’s product on these grounds, which shall be
+particularly set forth in writing so that the producer may be fully appraised of
+the refusal.
+(b) If the producer desires to question the existence or validity of such
+grounds of refusal, he or she the producer may do so within 90 days after
+receiving the notice or refusal by requesting the Secretary of Agriculture, Food
+and Markets for a hearing, and the Secretary is hereby given jurisdiction to
+hear and determine the question. The producer shall make complaints of such
+contemplated refusal in writing to the Secretary, setting forth the substance of
+the refusal notice and requesting to be heard thereon. The Secretary shall then
+notify both the producer and the purchaser in writing, sent to them by
+registered mail, of the time and place of hearing thereon. The time of the
+hearing shall not be less than 10 nor more than 30 days from the date of the
+notice. Hearing shall be informal. Both parties shall have an opportunity to
+produce evidence.
+* * *
+(d) If a request for a hearing is made by a purchaser producer, refusal of
+the purchaser shall not become operative until hearing and decision in the
+purchaser’s favor by the Secretary.
+* * *
+* * * Farm-to-School Program Contracts * * *
+Sec. 86. 6 V.S.A. § 4721 is amended to read:
+§ 4721. LOCAL FOODS GRANT PROGRAM
+(a) There is created in the Agency of Agriculture, Food and Markets the
+Rozo McLaughlin Farm-to-School Program to execute, administer, and award
+provide local grants or contracts for the purpose of helping Vermont schools
+develop farm-to-school programs that will sustain relationships with local
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 53 of 94
+farmers and producers, enrich the educational experience of students, improve
+the health of Vermont children, and enhance Vermont’s agricultural economy.
+(b) A school, a school district, a consortium of schools, a consortium of
+school districts, a registered or licensed child care provider, or an organization
+administering or assisting the development of farm-to-school programs may
+apply to the Secretary of Agriculture, Food and Markets for a grant award or
+contract to:
+* * *
+(c) The Secretaries of Agriculture, Food and Markets and of Education and
+the Commissioner of Health, in consultation with farmers, child nutrition staff,
+educators, organizations administering or assisting the development of farm-
+to-school programs, and farm-to-school technical service providers, jointly
+shall adopt procedures relating to the content of the grant application
+applications or contract bids and the criteria for making awards.
+* * *
+(e) No award individual grant or contract shall be greater than 20 percent
+of the total annual amount funds available for granting except that a grant an
+award to the following entities may, at the discretion of the Secretary of
+Agriculture, Food and Markets, exceed the cap:
+(1) Farm-to-School service providers; or
+(2) school districts or consortiums of school districts that completed
+merger under 2010 Acts and Resolves No. 153, 2012 Acts and Resolves No.
+156, or 2015 Acts and Resolves No. 46 on or before July 1, 2019, provided that
+the grant is funds are used for the purpose of expanding Farm-to-School
+projects to additional schools within the new school district.
+* * * Pest Control Compact Repeal * * *
+Sec. 97. REPEAL
+6 V.S.A. chapter 83 (Pest Control Compact) is repealed on July 1, 2026.
+* * * Amending Pesticide Exam Requirements * * *
+Sec. 108. 6 V.S.A. § 1112 is amended to read:
+§ 1112. LICENSING PESTICIDE APPLICATORS; PESTICIDE
+COMPANIES; DEALERS
+(a) The Secretary may adopt rules requiring persons selling Class A and B
+pesticides to be licensed under this chapter. In addition, the Secretary may
+adopt rules requiring companies that hire applicators or conduct pesticide
+applications to be licensed and applicators who use pesticides to be certified
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 54 of 94
+under this chapter. The Secretary may establish reasonable requirements for
+obtaining licenses and certificates. The fees for dealers, licensed companies,
+and applicator certificates under this chapter shall be as follows:
+(1) Class A Dealer License—$50.00;
+(2) Class B Dealer License—$50.00;
+(3) Pesticide Company License—$75.00;
+(4) Commercial and, Noncommercial, and Government Applicator
+Certification fee—$30.00 per category or subcategory with a maximum of
+$120.00;
+(5) second and third time examination Examination fee for dealer
+licenses and applicator certification—$25.00; and
+(6) Private Applicator—$25.00; and.
+(7) State Government, Municipal, and Public Education Institution
+Applicators—$30.00.
+* * *
+(e) There shall be no limitation on the frequency for retaking examinations
+for private, commercial, noncommercial, or government applicator
+certifications or dealer licenses.
+* * * Seed Law Conforming to Universal Standards * * *
+Sec. 119. 6 V.S.A. § 641 is amended to read:
+§ 641. DEFINITIONS
+(a) As used in this chapter:
+(1) “Agricultural seed” includes grass, forage, cereal, oil, fiber, and
+other kinds of crop seeds commonly recognized as agricultural seeds, lawn
+seeds, and combinations of such seeds, and may include noxious weed seeds
+used when the Secretary determines an appropriate use as agricultural seed.
+(2) “Secretary” means the Secretary of Agriculture, Food and Markets
+or his or her the Secretary’s designee.
+(3) “Agency” means the Agency of Agriculture, Food and Markets.
+(4) “Flower seed” includes seed of herbaceous plants grown for their
+blooms, ornamental foliage, or other ornamental parts and commonly known
+and sold under the name of flower or wildflower seed in this State.
+(5) “Labeling” includes means tags or other devices attached to, or
+written, stamped, or printed on, any container or accompanying any lot of bulk
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 55 of 94
+seeds that are used to provide the seed label information required by this
+chapter. “Labeling” includes additional information that describes labeled
+seed.
+(6) “Noxious weed seeds” include:
+(A) “Prohibited noxious weed seeds,” or those weed seeds that are
+prohibited from being present in agricultural and, vegetable, flower, tree, or
+shrub seed. They are the seeds of weeds that are highly destructive and
+difficult to control by good cultural practices and the use of herbicides.
+(B) The term “restricted noxious weed seeds,” or those weed seeds
+that are objectionable in agricultural crops, lawns, and gardens of this State
+and that are difficult to control can be controlled by good cultural practices or
+the use of herbicides.
+* * *
+(8) “Weed seeds” mean means the seeds of all plants generally
+recognized as weeds within this State and include includes prohibited and
+noxious weed seeds.
+* * *
+(11) “Distribute” means to import, manufacture, produce, mix, blend,
+offer for sale, sell, barter, or supply seed for the purpose of sowing in the State
+through any means, including sales outlets, catalogues, the telephone, the
+internet, or any electronic means.
+(12) “Distributor” means any person who distributes seeds in or into
+the State and affixes the labeling or any relabeling required in section 644 of
+this chapter.
+(13) “Treated” means seed that received an application of a substance
+or process designed to reduce, control, or repel certain disease organisms,
+insects, or other pests from attaching to the seed or seedlings, or designed to
+enhance the availability or uptake of plant nutrients through root systems.
+(b) In addition to the terms defined in subsection (a) of this section and to
+facilitate uniform seed requirements, the Secretary may apply any other term
+or definition that the Association of American Seed Control Officials adopted
+in its Recommended Uniform State Seed Law, as amended.
+Sec. 1210. 6 V.S.A. § 642 is amended to read:
+§ 642. DUTIES AND AUTHORITY OF THE SECRETARY
+(a) The Secretary shall enforce and carry out the provisions of this
+subchapter, including:
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 56 of 94
+(1) Sampling, inspecting, making analysis of, and testing seeds subject
+to the provisions of this subchapter that are transported, sold, or offered or
+exposed for sale within distributed in or into the State for sowing purposes.
+The Secretary shall notify promptly a person who sells, offers, or exposes
+distributes seeds for sale and, if appropriate, the person who labels or
+transports seeds of any violation and seizure of the seeds or order to cease sale
+of the seeds under section 643 of this title.
+* * *
+Sec. 1311. 6 V.S.A. § 644 is amended to read:
+§ 644. LABEL REQUIREMENTS FOR AGRICULTURAL, FLOWER, AND
+VEGETABLE SEEDS
+(a) Each container of agricultural, flower, and vegetable seeds that is sold
+distributed in this State for sowing purposes shall be labeled.
+(1) All labels shall include:
+* * *
+(E) the name and address of the labeler or distributor responsible for
+labeling the seed.
+(2) For all treated agricultural, vegetable, and flower seeds that have
+been treated, the label or an additional label shall include:
+(A) a A word or statement indicating that describing the seed has
+been treated with treatment and identifying the commonly accepted chemical
+name or abbreviated chemical name of the applied substance, or a description
+of the process used.
+(B) A caution statement shall be set forth if If the substance in the
+amount present with the seed is harmful to human or other vertebrate animals.,
+an appropriate caution statement like “Do not use for food, feed, or oil
+purposes.” The caution statement for mercurial and similarly toxic substances
+shall be a poison statement or symbol.
+(3) For seed treated with an inoculant, the label shall state the date of
+expiration of date, meaning the date beyond which the inoculant is not
+considered effective.
+* * *
+(5) All bins and other bulk displays of agricultural, flower, grass, and
+vegetable seeds, or mixtures of the described seeds, shall be labeled with the
+same information that is required to be on containers of agricultural, flower, or
+vegetable seeds as applicable.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 57 of 94
+* * *
+Sec. 1412. 6 V.S.A. § 646(b) is amended to read:
+(b) No person shall be subject to the penalties of this subchapter for having
+sold or offered for sale distributing seeds subject to provisions of this
+subchapter that were incorrectly labeled or represented as to kind, species, and
+subspecies; variety; type; or origin, unless the person has failed to obtain an
+invoice, genuine grower’s declaration, or other labeling information or to take
+such other reasonable precautions to ensure that the identity of the seed is set
+forth. “Genuine grower’s declaration” means a statement signed by the
+grower that gives for each lot of seed the lot number, kind, variety (if known),
+origin, weight, year of production, date of shipment, and to whom the shipment
+was made.
+Sec. 1513. 6 V.S.A. § 647 is amended to read:
+§ 647. ADMINISTRATIVE PENALTIES
+(a) The Secretary may assess administrative penalties, not to exceed
+$250.00 for each offense, in any case he or she the Secretary determines that a
+person has committed any of the following violations:
+(1) sold Distributed seed products without paying the seed inspection
+fees for hundredweight tonnage or seed registration fee under section 648 of
+this title;.
+(2) sold Distributed seed products within the State of Vermont found
+deficient in guarantee analysis and labeling as defined by rule; or.
+(3) Failed to report the quantity of genetically engineered, treated, and
+untreated seed sold in the State during the previous calendar year. Reporting
+shall be completed on forms the Secretary prescribes and may include seed
+categories, traits, Environmental Protection Agency pesticide product
+numbers, active ingredients, application rate on seed, and other information
+the Secretary requires.
+(3)(4) violated Violated a stop sale order.
+* * *
+Sec. 1614. 6 V.S.A. § 648 is amended to read:
+§ 648. INSPECTIONS REGISTRATION AND REPORTING
+(a) Inspection No person shall distribute seed without registering annually.
+Registration fees shall be paid to the Secretary by a manufacturer or,
+processor, or distributer that distributes seed in or into the State. Fees shall
+be established as follows: The registration fee is $85.00 annually for each
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 58 of 94
+distributor that distributes any seed in or into the State. Registration is for the
+calendar year and expires on the last day of December each year.
+(1) $10.00 per ton for any seed sold in containers of more than 10
+pounds; and
+(2) a flat fee of $85.00 per company for any seed sold.
+(b) The following shall be exempt from the inspection fee registration
+requirements:
+(1) seed not intended for sowing purposes;
+(2) seed in storage in, or consigned to, a seed cleaning or processing
+establishment for cleaning or processing; and
+(3) seed grown, sold, and delivered by a producer on his or her the
+producer’s own premises for seeding purposes to the ultimate consumer,
+provided such seed has neither been advertised for sale nor been delivered via
+commercial carrier, and provided the seed contains no prohibited noxious
+weed seeds or not more than one restricted noxious weed seed per 2,000 of the
+seeds being sold.; and
+(4) interpersonal sharing of seed for home, educational, charitable, or
+personal noncommercial use.
+(c) The following reports are required:
+(1) For those seeds sold A manufacturer, processor, or distributor
+distributing seed in containers of more than 10 pounds, a must file an annual
+report shall be filed annually on or before January 15 on forms supplied by the
+Secretary regarding sales distribution of seed during the previous calendar
+year, and fees based on the. A fee of $10.00 per ton rate shall accompany the
+report. Reporting periods are January 1-June 30 and July 1-December 31 of
+seeds distributed in containers of more than 10 pounds shall accompany the
+report and is due annually on or before January 15. If a registrant or
+distributor does not distribute any seed during the calendar year, a report
+indicating that no distribution occurred must be submitted.
+(2) For all seeds distributed in or into Vermont regardless of container
+size, the manufacturer, processor, or distributor distributing the seed shall
+report annually on or before February 15 to the Secretary on a form supplied
+by the Secretary. At minimum, the form will require disclosure of the quantity
+of seeds containing genetically engineered material, treated seed, and
+untreated seed distributed during the previous calendar year. The following
+requirements also apply:
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 59 of 94
+(A) for seeds containing genetically engineered material, the seed
+type, a brand name for the combination of traits, and any other information
+the Secretary determines is appropriate; and
+(B) for pesticide treated article seed, the Environmental Protection
+Agency pesticide registration number, application rate on seed by the seed
+type, and any other information the Secretary determines is appropriate.
+(d) For those seeds sold in containers of 10 pounds or less, the fee of
+$85.00 per company shall be paid annually prior to distribution in the State.
+Fees shall be paid annually on January 1.
+(e)(d) All fees shall be deposited in the special fund created by subsection
+364(f) of this title and used in accordance with its provisions.
+(f)(e) The Secretary may waive seed inspection fees under this chapter,
+based on the number of seed varieties sold, and for the sale of heirloom seed
+varieties.
+(g) For seeds sold in Vermont that contain genetically engineered material,
+the manufacturer or processor distributing such seed in Vermont shall report
+annually on or before February 15 to the Secretary on forms supplied by the
+Secretary regarding sales during the previous calendar year.
+(h) For agricultural seeds sold in Vermont, the manufacturer or processor
+distributing the seed in Vermont shall report annually on or before February
+15 to the Secretary on forms supplied by the Secretary regarding the quantity
+of treated article seed and the quantity of untreated seed sold in Vermont
+during the previous calendar year.
+* * * Consolidate VACP within VEDA * * *
+Sec. 1715. TRANSFER OF VERMONT AGRICULTURAL CREDIT
+PROGRAM
+10 V.S.A. chapter 16A (Vermont Agricultural Credit Program) is repealed
+for the purpose of redesignation as 10 V.S.A. chapter 12, subchapter 16.
+Sec. 1816. 10 V.S.A. chapter 12, subchapter 16 is added to read:
+Subchapter 16. Vermont Agricultural Credit Program
+§ 280hh. DEFINITIONS
+As used in this subchapter:
+(1) “Agricultural facility” means land and rights in land, buildings,
+structures, machinery, and equipment that is used for, or will be used for,
+producing, processing, preparing, packaging, storing, distributing, marketing,
+or transporting agricultural or forest products that have been at least partially
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 60 of 94
+produced in this State, and working capital reasonably required to operate an
+agricultural facility.
+(2) “Agricultural land” means real estate capable of supporting
+commercial farming or forestry, or both.
+(3) “Agricultural products” means crops, livestock, forest products, and
+other farm or forest commodities produced as a result of farming or forestry
+activities.
+(4) “Authority” means the Vermont Economic Development Authority
+established under section 213 of this title.
+(5) “Cash flow” means, on an annual basis, all income, receipts, and
+revenues of the applicant or borrower from all sources and all expenses of the
+applicant or borrower, including all debt service and other expenses.
+(6) “Farm operation” means the cultivation of land or other uses of
+land for the production of food, fiber, horticultural, silvicultural, orchard,
+maple syrup, Christmas trees, forest products, or forest crops; the raising,
+boarding, and training of equines, and the raising of livestock; or any
+combination of the foregoing activities. “Farm operation” also means the
+storage, preparation, retail sale, and transportation of agricultural or forest
+commodities accessory to the cultivation or use of such land. “Farm
+operation” also means the operation of an agritourism business on a farm
+subject to regulation under the Required Agricultural Practices. “Farm
+operation” also means a business that provides specialty services to farmers,
+such as foresters, farriers, hoof trimmers, or large animal veterinarians
+operating or proposing to operate mobile units.
+(7) “Farm ownership loan” means a loan to acquire or enlarge a farm
+or agricultural facility; to make capital improvements, including construction,
+purchase, and improvement of farm and agricultural facility buildings, farm
+worker housing, or farmer housing that can be made fixtures to the real estate;
+to promote soil and water conservation and protection or provide housing; and
+to refinance indebtedness incurred for farm ownership or operating loan
+purposes, or both.
+(8) “Farmer” means an individual directly engaged in the management
+or operation of an agricultural facility or farm operation for whom the
+agricultural facility or farm operation constitutes two or more of the following:
+(A) is or is expected to become a significant source of the farmer’s
+income;
+(B) the majority of the farmer’s assets; and
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 61 of 94
+(C) an occupation in which the farmer is actively engaged, either on
+a seasonal or year-round basis.
+(9) “Forest products business” means an enterprise that is engaged in
+managing, harvesting, trucking, processing, manufacturing, crafting, or
+distributing forest products at least partially derived from Vermont forests.
+(10) “Livestock” includes cattle, sheep, goats, equines, fallow deer, red
+deer, reindeer, American bison, swine, poultry, pheasant, chukar partridge,
+coturnix quail, ferrets, camelids and ratites, cultured trout propagated by
+commercial trout farms, and bees.
+(11) “Loan” means an operating loan or farm ownership loan,
+including a financing lease, provided that such lease transfers the ownership of
+the leased property to each lessee following the payment of all required lease
+payments as specified in each lease agreement.
+(12) “Operating loan” means a loan to purchase livestock, farm or
+forestry equipment, or fixtures to pay annual operating expenses of a farm
+operation or agricultural facility; to pay loan closing costs; and to refinance
+indebtedness incurred for farm ownership or operating loan purposes, or both.
+(13) “Program” means the Vermont Agricultural Credit Program
+established by this subchapter.
+(14) “Project” or “agricultural project” means the creation,
+establishment, acquisition, construction, expansion, improvement,
+strengthening, reclamation, operation, or renovation of an agricultural facility
+or farm operation.
+§ 280ii. VERMONT AGRICULTURAL CREDIT PROGRAM
+(a) The Vermont Agricultural Credit Program provides an alternative
+source of sound and constructive credit to farmers and forest products
+businesses who are not having their credit needs fully met by conventional
+agricultural credit sources at reasonable rates and terms; or, in the alternative,
+the granting of the loan shall serve as a substantial inducement for the
+establishment or expansion of an eligible agricultural or forestry project within
+the State. The Program is intended to meet, either in whole or in part, the
+credit needs of eligible agricultural facilities and farm and forest operations in
+fulfillment of one or more of the purposes listed in this subsection by making
+direct loans and participating in loans made by other agricultural credit
+providers:
+(1) to encourage diversification, cooperative farming, and the
+development of innovative techniques for farming and forest products
+businesses;
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 62 of 94
+(2) to increase energy efficiency and reduce energy consumption in
+agricultural facilities, including the construction of water pollution control
+facilities that implement best management practices for farm waste abatement
+pursuant to 6 V.S.A. chapter 215;
+(3) to encourage innovative and diversified processing, marketing, and
+distribution of Vermont agricultural products;
+(4) to assist beginning farmers to start new farms and new agricultural
+facilities to commence or strengthen their operations;
+(5) to assist or financially strengthen existing farms; and
+(6) to refinance loans incurred by eligible borrowers for any of the
+purposes enumerated in subdivisions (1) through (5) of this subsection.
+(b) No borrower shall be approved for a loan from the Authority that would
+result in the aggregate principal balances outstanding of all loans to that
+borrower exceeding $5,000,000.00.
+§ 280jj. GENERAL POWERS
+(a) The Authority shall have the powers necessary to carry out the
+purposes and provisions of this program and subchapter, including those
+general powers conferred on the Authority in section 216 of this title.
+(b) The Authority shall have the powers necessary to dissolve the Vermont
+Agricultural Credit Corporation in accordance with 11B V.S.A. chapter 14.
+Upon dissolution of the Vermont Agricultural Credit Corporation, title to all
+property owned by the Vermont Agricultural Credit Corporation shall vest in
+the Authority.
+§ 280kk. LOAN ELIGIBILITY STANDARDS
+A farmer, forest products business, or a limited liability company,
+partnership, corporation, or other business entity with a minimum 20 percent
+ownership of which is vested in one or more farmers, forest products
+businesses, or a nonprofit corporation, shall be eligible to apply for a farm
+ownership or operating loan that shall be intended to expand the agricultural
+economy or forest economy of the State, provided the applicant is:
+(1) an owner, prospective purchaser, or lessee of agricultural land in the
+State or of depreciable machinery, equipment, or livestock to be used in the
+State;
+(2) a person of sufficient education, training, or experience in the
+operation and management of an agricultural facility or farm operation or
+forest products business of the type for which the applicant requests the loan;
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 63 of 94
+(3) an operator or proposed operator of an agricultural facility, farm
+operation, or forest products business for whom the loan reduces investment
+costs to an extent that offers the applicant a reasonable chance to succeed in
+the operation and management of an agricultural facility or farm operation;
+(4) a creditworthy person under such standards as the Authority may
+establish;
+(5) able to provide and maintain adequate security for the loan by a
+mortgage on real property or a security agreement and perfected financing
+statement on personal property;
+(6) able to demonstrate that the applicant is responsible and able to
+manage responsibilities as owner or operator of the farm operation,
+agricultural facility, or forest products business;
+(7) able to demonstrate that the applicant has made adequate provision
+for insurance protection of the mortgaged or secured property while the loan is
+outstanding;
+(8) a person who possesses the legal capacity to incur loan obligations;
+(9) in compliance with such other reasonable eligibility standards as the
+Authority may establish;
+(10) able to demonstrate that the project plans comply with all
+regulations of the municipality where it is to be located and of the State of
+Vermont;
+(11) able to demonstrate that the making of the loan will be of public
+use and benefit;
+(12) able to demonstrate that the proposed loan will be adequately
+secured by a mortgage on real property or by a security agreement on personal
+property; and
+(13) able to demonstrate that there will be sufficient projected cash flow
+to service a reasonable level of debt, including the loan or loans, being
+considered by the Authority.
+Sec. 1917. 10 V.S.A. § 211(c) is amended to read:
+(c) Therefore, the general public advantage requires:
+* * *
+(7) low-cost capital to assist Vermont family farmers to farm as provided
+in subdivision 272(3) of this title;
+* * *
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 64 of 94
+Sec. 2018. 10 V.S.A. § 212 is amended to read:
+§ 212. DEFINITIONS
+As used in this chapter, with the exception of subchapter 16:
+* * *
+Sec. 2119. 10 V.S.A. § 216 is amended to read:
+§ 216. AUTHORITY; GENERAL POWERS
+The Authority is hereby authorized:
+* * *
+(17) To contribute to the capital of the Vermont Agricultural Credit
+Corporation Program established pursuant to chapter 16A subchapter 16 of
+this title chapter in an amount the Authority determines is necessary and
+appropriate.
+* * *
+Sec. 2220. 10 V.S.A. § 220a is amended to read:
+§ 220a. THE VERMONT JOBS FUND
+(a) There is hereby created the Vermont Jobs Fund, hereinafter called the
+Fund, which shall be used by the Authority as a nonlapsing fund for the
+purposes of this chapter. To it shall be charged all operating expenses of the
+Authority not otherwise provided for and all payments of interest and principal
+required to be made by the Authority under this subchapter. To it shall be
+credited any appropriations made by the General Assembly for the purposes of
+this chapter and all payments required to be made to the Authority under this
+chapter, it being the intent of this section that the Fund shall operate as a
+revolving fund whereby all appropriations and payments made thereto may be
+applied and reapplied for the purposes of this chapter. Monies in the Fund
+may be loaned at interest rates to be set by the Authority for the following:
+* * *
+(b) Monies in the Fund may be loaned to the Vermont Agricultural Credit
+Program to support its lending operations as established in chapter 16A of this
+title at interest rates and on terms and conditions to be set by the Authority to
+establish a line of credit in an amount not to exceed $100,000,000.00 to be
+advanced to the Vermont Agricultural Credit Program to support its lending
+operations as established in chapter 16A of this title.
+(c)(b) Monies in the Fund may be loaned to the Vermont Small Business
+Development Corporation to support its lending operations as established
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 65 of 94
+pursuant to subdivision 216(14) of this title at interest rates and on terms and
+conditions to be set by the Authority.
+(d)(c) Monies in the Fund may be loaned to the Vermont 504 Corporation
+to support its lending operations as established pursuant to subdivision
+216(13) of this title at interest rates and on terms and conditions to be set by
+the Authority.
+(e)(d) The Authority may loan money from the Fund to the Vermont
+Sustainable Energy Loan Fund established under subchapter 13 of this chapter
+at interest rates and on terms and conditions set by the Authority.
+Sec. 2321. 10 V.S.A. § 280a is amended to read:
+§ 280a. ELIGIBLE PROJECTS; AUTHORIZED FINANCING PROGRAMS
+(a) The Authority may develop, modify, and implement any existing or new
+financing program, provided that any specific project that benefits from such
+program shall meet the criteria contained in the Vermont Sustainable Jobs
+Strategy outlined in section 280b of this title. These programs may include:
+* * *
+(12) loans to agricultural enterprises or endeavors administered by the
+Authority under chapter 16A subchapter 16 of this title chapter and any
+programs created thereunder.
+* * *
+* * * Permitting Large and Medium Farm Operations * * *
+Sec. 2422. 6 V.S.A. § 4851(i) is amended to read:
+(i) A Beginning on July 1, 2026, a person required to obtain a permit under
+this section shall submit not be required to pay an annual operating fee of
+$2,500.00 to the Secretary. During any calendar year in which a person has an
+active Large Concentrated Animal Feeding Operation permit issued by the
+Agency of Natural Resources pursuant to the federal Clean Water Act and pays
+the required associated fee, that person shall not be required to pay the
+$2,500.00 annual operating fee described in this section. The fees collected
+under this section shall be deposited in the Agricultural Water Quality Special
+Fund under section 4803 of this title.
+Sec. 2523. 6 V.S.A. § 4858(e) is amended to read:
+(e) Operating fee. A Beginning on July 1, 2026, a person required to
+obtain a permit or coverage under this section shall submit not be required to
+pay an annual operating fee of $1,500.00 to the Secretary. The fees collected
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 66 of 94
+under this section shall be deposited in the Agricultural Water Quality Special
+Fund under section 4803 of this title.
+Sec. 262422. TRANSITION OF HEMP PROCESSOR OVERSIGHT
+6 V.S.A. chapter 34 (hemp) is repealed.
+Sec. 272523. 7 V.S.A. chapter 31, subchapter 3 is added to read:
+Subchapter 3. Hemp
+§ 851. FINDINGS; PURPOSE
+(a) Findings. The General Assembly finds that the federal legal status of
+most hemp products will be contingent upon an amendment to 7 U.S.C.
+§ 1639o, to take effect in November 2026, pursuant to the Continuing
+Appropriations, Agriculture, Legislative Branch, Military Construction and
+Veterans Affairs, and Extensions Act of 2026, Pub. L. No. 119-37. The legality
+of hemp and hemp products in interstate commerce is unsettled and continues
+to evolve.
+(b) Purpose. The purpose of this subchapter is to unify oversight of
+cannabis and hemp-derived cannabinoids under the Cannabis Control Board
+to more effectively prohibit illicit cannabis and cannabis product trade while
+positioning growers and processors of nonintoxicating hemp products to take
+advantage of national market opportunities that may exist.
+§ 852. DEFINITIONS
+As used in this subchapter:
+(1)(A) “Grow” means:
+(i) planting, cultivating, harvesting, or drying of hemp; and
+(ii) selling, storing, and transporting of hemp grown by a grower.
+(B) “Grow” also means to produce.
+(2) “Grower” means a person who is registered with the Board and the
+U.S. Department of Agriculture to produce hemp. “Grower” also means
+producer.
+(3) “Hemp” means the plant Cannabis sativa L. and any part of the
+plant, including the seeds and all derivatives, extracts, cannabinoids, acids,
+salts, isomers, and salts of isomers, whether growing or not, with the federally
+defined tetrahydrocannabinol concentration level of hemp. Hemp is
+considered an agricultural commodity.
+(4)(A) “Hemp product” or “hemp-infused product” means any product
+with the federally defined tetrahydrocannabinol concentration level for hemp
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 67 of 94
+derived from, or made by, processing hemp plants or plant parts, that is
+prepared in a form available for commercial sale, including cosmetics,
+personal care products, food intended for animal or human consumption,
+cloth, cordage, fiber, fuel, paint, paper, construction materials, plastics, and
+any product containing one or more hemp-derived cannabinoids, such as
+cannabidiol.
+(B) Notwithstanding subdivision (A) of this subdivision (4), “hemp
+product” and “hemp-infused product” do not include any substance,
+manufacturing intermediary, or product that:
+(i) is prohibited or deemed a regulated cannabis product by
+administrative rule of the Board; or
+(ii) is not lawful in interstate commerce.
+(C) A hemp-derived product or substance that is excluded from the
+definition of “hemp product” or “hemp-infused product” pursuant to
+subdivision (B) of this subdivision (4) is considered a cannabis product as
+defined by subdivision 831(3) of this title; provided, however, that a person
+duly licensed or registered by the Board lawfully may possess such products in
+conformity with the person’s active hemp processor license.
+(5) “Process” means the storing, drying, trimming, handling,
+compounding, or converting of hemp by a processor for a single grower or
+multiple growers into hemp products or hemp-infused products. “Process”
+includes:
+(A) transporting, aggregating, or packaging hemp from a single
+grower or multiple growers; or
+(B) manufacturing hemp products or hemp-infused products from
+hemp concentrate.
+(6) “Processor” means a person who is licensed by the Board to process
+hemp. A retail establishment selling hemp products or hemp-infused products
+is not a processor.
+§ 853. HEMP; AN AGRICULTURAL PRODUCT
+(a) Hemp is an agricultural product that may be grown as a crop produced,
+possessed, marketed, and commercially traded in Vermont pursuant to the
+provisions of this chapter and administrative rules of the Cannabis Control
+Board.
+(b) The cultivation of hemp shall be subject to and comply with the
+Required Agricultural Practices adopted under 6 V.S.A. § 4810, as amended.
+§ 854. HEMP REGISTRATION AND LICENSURE
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 68 of 94
+(a) Producers. All persons engaged in the production of hemp shall
+register with the Board as growers and shall provide their location, the nature
+of their activities, and evidence that those activities conform to the
+requirements of federal law and regulation. A person shall apply for
+registration or renewal of registration on a form provided by the Board. The
+application shall be accompanied by the fee required under section 857 of this
+subchapter.
+(b) Processors. All persons engaged in the processing of hemp, including
+trade in hemp-derived cannabinoids and process intermediaries, shall be
+licensed by the Board. A person shall apply for a license or renewal of a
+license on a form provided by the Board. The application shall be
+accompanied by the fee required under section 857 of this subchapter.
+(c) Products. All hemp-derived products containing or reasonably
+expected to contain more than 0.4 mg tetrahydrocannabinol shall be registered
+with the Board prior to sale to any person within this State. A person shall
+apply for registration or renewal of registration on a form provided by the
+Board. The application shall be accompanied by the fee required under
+section 857 of this subchapter.
+(d) All applicants. The Board may deny an application for licensure,
+registration, or renewal if the applicant:
+(1) fails to establish that its activities comply with State and federal law;
+(2) refuses the Board or its lawful designees entry upon its premises to
+inspect and confirm compliance, including by sampling hemp and hemp
+products for potency testing;
+(3) fails to submit information requested by the Board; or
+(4) fails to submit the fee required under section 857 of this subchapter.
+§ 855. RULEMAKING AUTHORITY
+(a) The Board may adopt rules to provide for the implementation of this
+subchapter, which may include rules to:
+(1) require hemp to be tested during growth for tetrahydrocannabinol
+levels;
+(2) authorize or specify the method or methods of testing hemp,
+including, where appropriate, the ratio of cannabidiol to tetrahydrocannabinol
+levels or a taxonomic determination using genetic testing;
+(3) require inspection and supervision of hemp during sowing, growing
+season, harvest, storage, processing, and distribution;
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 69 of 94
+(4) require labels or label information for hemp products in order to
+provide consumers with transparent and accurate product content or source
+information, to be free of false or misleading claims and claims contrary to the
+Federal Food, Drug, and Cosmetic Act, 9 U.S.C. §§ 301–399i, or to conform
+with federal requirements;
+(5) establish registration requirements for hemp-derived products sold
+or distributed in the State, including requirements that each product be
+sampled and tested by a laboratory recognized by the Board;
+(6) require disclosure or labeling of the amount of cannabinoids known
+to be present in hemp products sold or distributed in the State;
+(7) require that licensees and registrants, including out-of-state
+purveyors of registered hemp products, obtain and maintain commercially
+reasonable insurance, which for producers of consumer products in final form
+shall include product liability insurance;
+(8) prohibit hazardous additives to hemp products, or specify additive
+limits, relative to substances that are toxic, not generally recognized as safe, or
+designed to make the product more addictive or more appealing to persons
+under 21 years of age or to mislead consumers; or
+(9) specify when a registered hemp product that contains more than 0.4
+mg tetrahydrocannabinol must be restricted for sale to persons 21 years of age
+or older or restricted for sale in specified settings, or both.
+(b) The Board shall adopt rules establishing requirements for the licensure
+of processors of hemp, hemp-derived process intermediaries, and hemp
+products.
+(c) The Board may adopt rules establishing requirements for the consumer
+sale of any product containing tetrahydrocannabinol or other cannabinoids.
+(d) The Board may adopt rules prohibiting any person from making false,
+misleading, or unsubstantiated claims for cannabinoid-containing products.
+§ 856. TEST RESULTS; ENFORCEMENT
+(a) When notified that hemp, a hemp product, or a hemp-infused product
+has a tetrahydrocannabinol concentration exceeding the applicable federally
+defined tetrahydrocannabinol concentration level of hemp, the person licensed
+or registered with the Board to grow or process the hemp shall arrange for
+disposal, remediation, or destruction of the hemp, hemp product, or hemp-
+infused product in a manner consistent with applicable State and federal law.
+(b) To enforce the provisions of this subchapter, the Board, upon presenting
+appropriate credentials, may conduct one or more of the following:
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 70 of 94
+(1) Enter upon any premises where hemp is grown or processed and
+inspect premises, machinery, equipment and facilities, all hemp during any
+growth phase, or any hemp product or hemp-infused product during processing
+or storage. Inspection under this section may include taking samples,
+inspecting records, and inspecting equipment or vehicles used to grow, process,
+or transport hemp, hemp products, or hemp-infused products.
+(2) Inspect any retail location offering hemp products or hemp-infused
+products. Inspection under this section may include taking samples of such
+products.
+(3) Issue and enforce a written or printed “stop sale” order to the owner
+or custodian of any hemp, hemp product, or hemp-infused product subject to
+the requirements of this subchapter or rules adopted under this subchapter that
+the Board finds is in violation of any of the provisions of this subchapter or
+rules adopted under this subchapter. An order may prohibit further sale,
+processing, and movement of the hemp, hemp product, or hemp-infused
+product until the Board has approved and issued a release from the “stop sale”
+order.
+(A) This order shall include the reason for issuance, a description of
+the hemp or hemp products at issue, instructions to separate all hemp or hemp
+products subject to the order, and any recommended measures to remedy the
+basis or bases for the order.
+(B) A person issued a “stop sale” order may appeal that order to the
+Board within 15 days after receipt. The person shall file any appeal by serving
+a letter on the Board, which shall state all grounds for the appeal and identify
+the hemp or hemp products affected by the appeal.
+§ 857. ADMINISTRATIVE PENALTIES
+(a) The Board may assess violations and administrative penalties against
+persons licensed or registered pursuant to this subchapter, as well as persons
+required to be licensed or registered pursuant to this subchapter who fail to
+obtain or maintain required credentials.
+(b) The compliance and enforcement authorities and procedures applicable
+to cannabis establishments shall apply to persons licensed or registered under
+this subchapter.
+(c) The Board may enforce a final administrative penalty by filing a civil
+collection action in any Superior Court.
+§ 858. FEES
+The following fees shall apply to each license or registration application or
+each annual license or registration renewal under this subchapter:
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 71 of 94
+(1) Producer: $50.00.
+(2) Processor: $500.00.
+(3) Product: $75.00.
+Sec. 282624. 18 V.S.A. § 4201(15) is amended to read:
+(15)(A) “Cannabis” means all parts of the plant Cannabis sativa L.,
+except as provided by subdivision (B) of this subdivision (15), whether growing
+or harvested, and includes:
+(i) the seeds of the plant;
+(ii) the resin extracted from any part of the plant; and
+(iii) any compound, manufacture, salt, derivative, mixture, or
+preparation of the plant, its seeds, or resin.
+(B) “Cannabis” does not include:
+(i) the mature stalks of the plant and fiber produced from the
+stalks;
+(ii) oil or cake made from the seeds of the plant;
+(iii) any compound, manufacture, salt, derivative, mixture, or
+preparation of the mature stalks, fiber, oil, or cake;
+(iv) the sterilized seed of the plant that is incapable of
+germination; or
+(v) hemp or hemp products, as defined in 6 V.S.A. § 562 7 V.S.A.
+§ 852.
+Sec. 292725. 32 V.S.A. § 7811(b) is amended to read:
+(b) The tax established in this section shall not be imposed on:
+(1) cannabis-related supplies sold by a dispensary registered under 7
+V.S.A. chapter 37 to registered patients and registered caregivers, as those
+terms are defined in 7 V.S.A. § 972;
+(2) cannabis products, as defined in 7 V.S.A. § 831, that do not contain
+tobacco; or
+(3) hemp or hemp products, as defined in 6 V.S.A. § 562 7 V.S.A. § 852,
+that do not contain tobacco.
+* * * Natural Resources Conservation Council Mortgages * * *
+Sec. 302826. 10 V.S.A. § 723 is amended to read:
+§ 723. POWERS OF SUPERVISORS
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 72 of 94
+The supervisors shall have the following powers:
+* * *
+(5) To obtain options upon and to acquire by purchase, exchange, lease,
+gift, grant or bequest, any property, real or personal; to maintain, administer
+and improve any properties acquired; to receive income from the properties
+and to expend the income in carrying out the purposes and provisions of this
+chapter; and to borrow money, mortgage, sell, lease, or otherwise dispose of
+any of its property or interests in property in furtherance of the purposes and
+the provisions of this chapter,; provided however, that real estate shall not be
+mortgaged, and provided however, that the sale, lease, or other disposition of
+real property of the district is approved by the written consent of the governor;
+* * *
+* * * Effective Date * * *
+Sec. 312927. EFFECTIVE DATE
+This act shall take effect on July 1, 2026.
+* * * Milk Producers * * *
+Sec. 1. 6 V.S.A. § 2752 is amended to read:
+§ 2752. REFUSAL TO PURCHASE; HEARING; SECRETARY’S ORDER
+(a) A handler doing business in this State who has a contract either verbal
+or written with a producer residing in this State for the purchase of the
+producer’s dairy products shall not refuse to purchase them from the producer
+except for violations of the sanitary rules or standards applicable to the market
+in which the dairy product is sold or marketed, without being deemed guilty of
+unfair discrimination. In the event that the refusal is to be based upon reasons
+of oversupply or other reasonable grounds, the refusal shall not become
+operative until the purchaser has given the producer at least 90 days’ notice of
+intention to refuse the producer’s product on these grounds, which shall be
+particularly set forth in writing so that the producer may be fully appraised of
+the refusal.
+(b) If the producer desires to question the existence or validity of such
+grounds of refusal, he or she the producer may do so within 90 days after
+receiving the notice or refusal by requesting the Secretary of Agriculture, Food
+and Markets for a hearing, and the Secretary is hereby given jurisdiction to
+hear and determine the question. The producer shall make complaints of such
+contemplated refusal in writing to the Secretary, setting forth the substance of
+the refusal notice and requesting to be heard thereon. The Secretary shall then
+notify both the producer and the purchaser in writing, sent to them by
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 73 of 94
+registered mail, of the time and place of hearing thereon. The time of the
+hearing shall not be less than 10 nor more than 30 days from the date of the
+notice. Hearing shall be informal. Both parties shall have an opportunity to
+produce evidence.
+* * *
+(d) If a request for a hearing is made by a purchaser producer, refusal of
+the purchaser shall not become operative until hearing and decision in the
+purchaser’s favor by the Secretary.
+* * *
+* * * Farm-to-School Program Contracts * * *
+Sec. 2. 6 V.S.A. § 4721 is amended to read:
+§ 4721. LOCAL FOODS GRANT PROGRAM
+(a) There is created in the Agency of Agriculture, Food and Markets the
+Rozo McLaughlin Farm-to-School Program to execute, administer, and award
+provide local grants or contracts for the purpose of helping Vermont schools
+develop farm-to-school programs that will sustain relationships with local
+farmers and producers, enrich the educational experience of students, improve
+the health of Vermont children, and enhance Vermont’s agricultural economy.
+(b) A school, a school district, a consortium of schools, a consortium of
+school districts, a registered or licensed child care provider, or an organization
+administering or assisting the development of farm-to-school programs may
+apply to the Secretary of Agriculture, Food and Markets for a grant award or
+contract to:
+* * *
+(c) The Secretaries of Agriculture, Food and Markets and of Education and
+the Commissioner of Health, in consultation with farmers, child nutrition staff,
+educators, organizations administering or assisting the development of farm-
+to-school programs, and farm-to-school technical service providers, jointly
+shall adopt procedures relating to the content of the grant application
+applications or contract bids and the criteria for making awards.
+* * *
+(e) No award individual grant or contract shall be greater than 20 percent
+of the total annual amount funds available for granting except that a grant an
+award to the following entities may, at the discretion of the Secretary of
+Agriculture, Food and Markets, exceed the cap:
+(1) Farm-to-School service providers; or
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 74 of 94
+(2) school districts or consortiums of school districts that completed
+merger under 2010 Acts and Resolves No. 153, 2012 Acts and Resolves No.
+156, or 2015 Acts and Resolves No. 46 on or before July 1, 2019, provided that
+the grant is funds are used for the purpose of expanding Farm-to-School
+projects to additional schools within the new school district.
+* * * Pest Control Compact Repeal and Pesticide Exam Requirements * * *
+Sec. 3. REPEAL
+6 V.S.A. chapter 83 (Pest Control Compact) is repealed on July 1, 2026.
+Sec. 4. 6 V.S.A. § 1112 is amended to read:
+§ 1112. LICENSING PESTICIDE APPLICATORS; PESTICIDE
+COMPANIES; DEALERS
+(a) The Secretary may adopt rules requiring persons selling Class A and B
+pesticides to be licensed under this chapter. In addition, the Secretary may
+adopt rules requiring companies that hire applicators or conduct pesticide
+applications to be licensed and applicators who use pesticides to be certified
+under this chapter. The Secretary may establish reasonable requirements for
+obtaining licenses and certificates. The fees for dealers, licensed companies,
+and applicator certificates under this chapter shall be as follows:
+(1) Class A Dealer License—$50.00;
+(2) Class B Dealer License—$50.00;
+(3) Pesticide Company License—$75.00;
+(4) Commercial and, Noncommercial, and Government Applicator
+Certification fee—$30.00 per category or subcategory with a maximum of
+$120.00;
+(5) second and third time examination Examination fee for dealer
+licenses and applicator certification—$25.00; and
+(6) Private Applicator—$25.00; and
+(7) State Government, Municipal, and Public Education Institution
+Applicators—$30.00.
+* * *
+(e) There shall be no limitation on the frequency for retaking examinations
+for private, commercial, noncommercial, or government applicator
+certifications or dealer licenses.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 75 of 94
+* * * Seed Law Changes * * *
+Sec. 5. 6 V.S.A. § 641 is amended to read:
+§ 641. DEFINITIONS
+(a) As used in this chapter:
+(1) “Agricultural seed” includes grass, forage, cereal, oil, fiber, and
+other kinds of crop seeds commonly recognized as agricultural seeds, lawn
+seeds, and combinations of such seeds, and may include noxious weed seeds
+used as agricultural seed.
+(2) “Secretary” means the Secretary of Agriculture, Food and Markets
+or his or her the Secretary’s designee.
+(3) “Agency” means the Agency of Agriculture, Food and Markets.
+(4) “Flower seed” includes seed of herbaceous plants grown for their
+blooms, ornamental foliage, or other ornamental parts and commonly known
+and sold under the name of flower or wildflower seed in this State.
+* * *
+Sec. 6. 6 V.S.A. § 644 is amended to read:
+§ 644. LABEL REQUIREMENTS FOR AGRICULTURAL, FLOWER, AND
+VEGETABLE SEEDS
+(a) Each container of agricultural, flower, and vegetable seeds that is sold
+in this State for sowing purposes shall be labeled.
+(1) All labels shall include:
+* * *
+(5) All bins and other bulk displays of agricultural, flower, grass, and
+vegetable seeds, or mixtures of the described seeds, shall be labeled with the
+same information that is required to be on containers of agricultural, flower, or
+vegetable seeds as applicable.
+* * *
+Sec. 7. 6 V.S.A. § 647 is amended to read:
+§ 647. ADMINISTRATIVE PENALTIES
+(a) The Secretary may assess administrative penalties, not to exceed
+$250.00 for each offense, in any case he or she the Secretary determines that a
+person has committed any of the following violations:
+(1) sold seed products without paying the seed inspection fees for
+hundredweight tonnage or seed registration fee under section 648 of this title;
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 76 of 94
+(2) sold seed products within the State of Vermont found deficient in
+guarantee analysis and labeling as defined by rule; or
+(3) violated a stop sale order.
+* * *
+* * * Consolidate VACP within VEDA * * *
+Sec. 8. TRANSFER OF VERMONT AGRICULTURAL CREDIT
+PROGRAM
+10 V.S.A. chapter 16A (Vermont Agricultural Credit Program) is repealed
+for the purpose of redesignation as 10 V.S.A. chapter 12, subchapter 16.
+Sec. 9. 10 V.S.A. chapter 12, subchapter 16 is added to read:
+Subchapter 16. Vermont Agricultural Credit Program
+§ 280hh. DEFINITIONS
+As used in this subchapter:
+(1) “Agricultural facility” means land and rights in land, buildings,
+structures, machinery, and equipment that is used for, or will be used for,
+producing, processing, preparing, packaging, storing, distributing, marketing,
+or transporting agricultural or forest products that have been at least partially
+produced in this State, and working capital reasonably required to operate an
+agricultural facility.
+(2) “Agricultural land” means real estate capable of supporting
+commercial farming or forestry, or both.
+(3) “Agricultural products” means crops, livestock, forest products, and
+other farm or forest commodities produced as a result of farming or forestry
+activities.
+(4) “Authority” means the Vermont Economic Development Authority
+established under section 213 of this title.
+(5) “Cash flow” means, on an annual basis, all income, receipts, and
+revenues of the applicant or borrower from all sources and all expenses of the
+applicant or borrower, including all debt service and other expenses.
+(6) “Farm operation” means the cultivation of land or other uses of
+land for the production of food, fiber, horticultural crops, silvicultural
+products, orchard crops, maple syrup, Christmas trees, forest products, or
+forest crops; the raising, boarding, and training of equines, and the raising of
+livestock; or any combination of the foregoing activities. “Farm operation”
+also means the storage, preparation, retail sale, and transportation of
+agricultural or forest commodities accessory to the cultivation or use of such
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 77 of 94
+land. “Farm operation” also means the operation of an agritourism business
+on a farm subject to regulation under the Required Agricultural Practices.
+“Farm operation” also means a business that provides specialty services to
+farmers, such as foresters, farriers, hoof trimmers, or large animal
+veterinarians operating or proposing to operate mobile units.
+(7) “Farm ownership loan” means a loan to acquire or enlarge a farm
+or agricultural facility; to make capital improvements, including construction,
+purchase, and improvement of farm and agricultural facility buildings, farm
+worker housing, or farmer housing that can be made fixtures to the real estate;
+to promote soil and water conservation and protection or provide housing; and
+to refinance indebtedness incurred for farm ownership or operating loan
+purposes, or both.
+(8) “Farmer” means an individual directly engaged in the management
+or operation of an agricultural facility or farm operation for whom the
+agricultural facility or farm operation constitutes two or more of the following:
+(A) is or is expected to become a significant source of the farmer’s
+income;
+(B) the majority of the farmer’s assets; and
+(C) an occupation in which the farmer is actively engaged, either on
+a seasonal or year-round basis.
+(9) “Forest products business” means an enterprise that is engaged in
+managing, harvesting, trucking, processing, manufacturing, crafting, or
+distributing forest products at least partially derived from Vermont forests.
+(10) “Livestock” includes cattle, sheep, goats, equines, fallow deer, red
+deer, reindeer, American bison, swine, poultry, pheasant, chukar partridge,
+coturnix quail, ferrets, camelids and ratites, cultured trout propagated by
+commercial trout farms, and bees.
+(11) “Loan” means an operating loan or farm ownership loan,
+including a financing lease, provided that such lease transfers the ownership of
+the leased property to each lessee following the payment of all required lease
+payments as specified in each lease agreement.
+(12) “Operating loan” means a loan to purchase livestock, farm or
+forestry equipment, or fixtures to pay annual operating expenses of a farm
+operation or agricultural facility; to pay loan closing costs; and to refinance
+indebtedness incurred for farm ownership or operating loan purposes, or both.
+(13) “Program” means the Vermont Agricultural Credit Program
+established by this subchapter.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 78 of 94
+(14) “Project” or “agricultural project” means the creation,
+establishment, acquisition, construction, expansion, improvement,
+strengthening, reclamation, operation, or renovation of an agricultural facility
+or farm operation.
+§ 280ii. VERMONT AGRICULTURAL CREDIT PROGRAM
+(a) The Vermont Agricultural Credit Program provides an alternative
+source of sound and constructive credit to farmers and forest products
+businesses who are not having their credit needs fully met by conventional
+agricultural credit sources at reasonable rates and terms; or, in the alternative,
+the granting of the loan shall serve as a substantial inducement for the
+establishment or expansion of an eligible agricultural or forestry project within
+the State. The Program is intended to meet, either in whole or in part, the
+credit needs of eligible agricultural facilities and farm and forest operations in
+fulfillment of one or more of the purposes listed in this subsection by making
+direct loans and participating in loans made by other agricultural credit
+providers:
+(1) to encourage diversification, cooperative farming, and the
+development of innovative techniques for farming and forest products
+businesses;
+(2) to increase energy efficiency and reduce energy consumption in
+agricultural facilities, including the construction of water pollution control
+facilities that implement best management practices for farm waste abatement
+pursuant to 6 V.S.A. chapter 215;
+(3) to encourage innovative and diversified processing, marketing, and
+distribution of Vermont agricultural products;
+(4) to assist beginning farmers to start new farms and new agricultural
+facilities to commence or strengthen their operations;
+(5) to assist or financially strengthen existing farms; and
+(6) to refinance loans incurred by eligible borrowers for any of the
+purposes enumerated in subdivisions (1)–(5) of this subsection.
+(b) No borrower shall be approved for a loan from the Authority that would
+result in the aggregate principal balances outstanding of all loans to that
+borrower exceeding $5,000,000.00.
+§ 280jj. GENERAL POWERS
+(a) The Authority shall have the powers necessary to carry out the
+purposes and provisions of this Program and subchapter, including those
+general powers conferred on the Authority in section 216 of this title.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 79 of 94
+(b) The Authority shall have the powers necessary to dissolve the Vermont
+Agricultural Credit Corporation in accordance with 11B V.S.A. chapter 14.
+Upon dissolution of the Vermont Agricultural Credit Corporation, title to all
+property owned by the Vermont Agricultural Credit Corporation shall vest in
+the Authority.
+§ 280kk. LOAN ELIGIBILITY STANDARDS
+A farmer, forest products business, or a limited liability company,
+partnership, corporation, or other business entity with a minimum 20 percent
+ownership of which is vested in one or more farmers, forest products
+businesses, or a nonprofit corporation, shall be eligible to apply for a farm
+ownership or operating loan that shall be intended to expand the agricultural
+economy or forest economy of the State, provided the applicant is:
+(1) an owner, prospective purchaser, or lessee of agricultural land in the
+State or of depreciable machinery, equipment, or livestock to be used in the
+State;
+(2) a person of sufficient education, training, or experience in the
+operation and management of an agricultural facility or farm operation or
+forest products business of the type for which the applicant requests the loan;
+(3) an operator or proposed operator of an agricultural facility, farm
+operation, or forest products business for whom the loan reduces investment
+costs to an extent that offers the applicant a reasonable chance to succeed in
+the operation and management of an agricultural facility or farm operation;
+(4) a creditworthy person under such standards as the Authority may
+establish;
+(5) able to provide and maintain adequate security for the loan by a
+mortgage on real property or a security agreement and perfected financing
+statement on personal property;
+(6) able to demonstrate that the applicant is responsible and able to
+manage responsibilities as owner or operator of the farm operation,
+agricultural facility, or forest products business;
+(7) able to demonstrate that the applicant has made adequate provision
+for insurance protection of the mortgaged or secured property while the loan is
+outstanding;
+(8) a person who possesses the legal capacity to incur loan obligations;
+(9) in compliance with such other reasonable eligibility standards as the
+Authority may establish;
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 80 of 94
+(10) able to demonstrate that the project plans comply with all
+regulations of the municipality where it is to be located and of the State of
+Vermont;
+(11) able to demonstrate that the making of the loan will be of public
+use and benefit;
+(12) able to demonstrate that the proposed loan will be adequately
+secured by a mortgage on real property or by a security agreement on personal
+property; and
+(13) able to demonstrate that there will be sufficient projected cash flow
+to service a reasonable level of debt, including the loan or loans, being
+considered by the Authority.
+Sec. 10. 10 V.S.A. § 211(c) is amended to read:
+(c) Therefore, the general public advantage requires:
+* * *
+(7) low-cost capital to assist Vermont family farmers to farm as provided
+in subdivision 272(3) of this title;
+* * *
+Sec. 11. 10 V.S.A. § 212 is amended to read:
+§ 212. DEFINITIONS
+As used in this chapter, with the exception of subchapter 16:
+* * *
+Sec. 12. 10 V.S.A. § 216 is amended to read:
+§ 216. AUTHORITY; GENERAL POWERS
+The Authority is hereby authorized:
+* * *
+(17) To contribute to the capital of the Vermont Agricultural Credit
+Corporation Program established pursuant to chapter 16A subchapter 16 of
+this title chapter in an amount the Authority determines is necessary and
+appropriate.
+* * *
+Sec. 13. 10 V.S.A. § 220a is amended to read:
+§ 220a. THE VERMONT JOBS FUND
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 81 of 94
+(a) There is hereby created the Vermont Jobs Fund, hereinafter called the
+Fund, which shall be used by the Authority as a nonlapsing fund for the
+purposes of this chapter. To it shall be charged all operating expenses of the
+Authority not otherwise provided for and all payments of interest and principal
+required to be made by the Authority under this subchapter. To it shall be
+credited any appropriations made by the General Assembly for the purposes of
+this chapter and all payments required to be made to the Authority under this
+chapter, it being the intent of this section that the Fund shall operate as a
+revolving fund whereby all appropriations and payments made thereto may be
+applied and reapplied for the purposes of this chapter. Monies in the Fund
+may be loaned at interest rates to be set by the Authority for the following:
+* * *
+(b) Monies in the Fund may be loaned to the Vermont Agricultural Credit
+Program to support its lending operations as established in chapter 16A of this
+title at interest rates and on terms and conditions to be set by the Authority to
+establish a line of credit in an amount not to exceed $100,000,000.00 to be
+advanced to the Vermont Agricultural Credit Program to support its lending
+operations as established in chapter 16A of this title.
+(c)(b) Monies in the Fund may be loaned to the Vermont Small Business
+Development Corporation to support its lending operations as established
+pursuant to subdivision 216(14) of this title at interest rates and on terms and
+conditions to be set by the Authority.
+(d)(c) Monies in the Fund may be loaned to the Vermont 504 Corporation
+to support its lending operations as established pursuant to subdivision
+216(13) of this title at interest rates and on terms and conditions to be set by
+the Authority.
+(e)(d) The Authority may loan money from the Fund to the Vermont
+Sustainable Energy Loan Fund established under subchapter 13 of this chapter
+at interest rates and on terms and conditions set by the Authority.
+Sec. 14. 10 V.S.A. § 280a is amended to read:
+§ 280a. ELIGIBLE PROJECTS; AUTHORIZED FINANCING PROGRAMS
+(a) The Authority may develop, modify, and implement any existing or new
+financing program, provided that any specific project that benefits from such
+program shall meet the criteria contained in the Vermont Sustainable Jobs
+Strategy outlined in section 280b of this title. These programs may include:
+* * *
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 82 of 94
+(12) loans to agricultural enterprises or endeavors administered by the
+Authority under chapter 16A subchapter 16 of this title chapter and any
+programs created thereunder.
+* * *
+* * * Hemp Oversight * * *
+Sec. 15. TRANSITION OF HEMP PROCESSOR OVERSIGHT
+6 V.S.A. chapter 34 (hemp) is repealed.
+Sec. 16. 7 V.S.A. chapter 31, subchapter 3 is added to read:
+Subchapter 3. Hemp
+§ 851. FINDINGS; PURPOSE
+(a) Findings. The General Assembly finds that the federal legal status of
+most hemp products will be contingent upon an amendment to 7 U.S.C.
+§ 1639o, to take effect in November 2026, pursuant to the Continuing
+Appropriations, Agriculture, Legislative Branch, Military Construction and
+Veterans Affairs, and Extensions Act of 2026, Pub. L. No. 119-37. The legality
+of hemp and hemp products in interstate commerce is unsettled and continues
+to evolve.
+(b) Purpose. The purpose of this subchapter is to unify oversight of
+cannabis and hemp-derived cannabinoids under the Cannabis Control Board
+to more effectively prohibit illicit cannabis and cannabis product trade while
+positioning growers and processors of nonintoxicating hemp products to take
+advantage of national market opportunities that may exist. The purpose of this
+subchapter is also to support small-business hemp producers and processors in
+taking advantage of opportunities for the cultivation and sale of hemp and
+hemp products.
+§ 852. DEFINITIONS
+As used in this subchapter:
+(1)(A) “Grow” means:
+(i) planting, cultivating, harvesting, or drying of hemp; and
+(ii) selling, storing, and transporting of hemp grown by a grower.
+(B) “Grow” also means to produce.
+(2) “Grower” means a person who is registered with the Board and the
+U.S. Department of Agriculture to produce hemp. “Grower” also means
+producer.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 83 of 94
+(3) “Hemp” means the plant Cannabis sativa L. and any part of the
+plant, including the seeds and all derivatives, extracts, cannabinoids, acids,
+salts, isomers, and salts of isomers, whether growing or not, with the federally
+defined tetrahydrocannabinol concentration level of hemp. Hemp is
+considered an agricultural commodity.
+(4)(A) “Hemp product” or “hemp-infused product” means any product
+with the federally defined tetrahydrocannabinol concentration level for hemp
+derived from, or made by, processing hemp plants or plant parts, that is
+prepared in a form available for commercial sale, including cosmetics,
+personal care products, food intended for animal or human consumption,
+cloth, cordage, fiber, fuel, paint, paper, construction materials, plastics, and
+any product containing one or more hemp-derived cannabinoids, such as
+cannabidiol.
+(B) Notwithstanding subdivision (A) of this subdivision (4), “hemp
+product” and “hemp-infused product” do not include any substance,
+manufacturing intermediary, or product that:
+(i) is prohibited or deemed a regulated cannabis product by
+administrative rule of the Board; or
+(ii) is not lawful in interstate commerce.
+(C) A hemp-derived product or substance that is excluded from the
+definition of “hemp product” or “hemp-infused product” pursuant to
+subdivision (B) of this subdivision (4) is considered a cannabis product as
+defined by subdivision 831(3) of this title; provided, however, that a person
+duly licensed or registered by the Board lawfully may possess such products in
+conformity with the person’s active hemp processor license.
+(5) “Process” means the storing, drying, trimming, handling,
+compounding, or converting of hemp by a processor for a single grower or
+multiple growers into hemp products or hemp-infused products. “Process”
+includes:
+(A) transporting, aggregating, or packaging hemp from a single
+grower or multiple growers; or
+(B) manufacturing hemp products or hemp-infused products from
+hemp concentrate.
+(6) “Processor” means a person who is licensed by the Board to process
+hemp. A retail establishment selling hemp products or hemp-infused products
+is not a processor.
+§ 853. HEMP; AN AGRICULTURAL PRODUCT
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 84 of 94
+(a) Hemp is an agricultural product that may be grown as a crop produced,
+possessed, marketed, and commercially traded in Vermont pursuant to the
+provisions of this chapter and administrative rules of the Cannabis Control
+Board.
+(b) The cultivation of hemp shall be subject to and comply with the
+Required Agricultural Practices adopted under 6 V.S.A. § 4810, as amended.
+§ 854. HEMP REGISTRATION AND LICENSURE
+(a) Producers. All persons engaged in the production of hemp shall
+register with the Board as growers and shall provide their location, the nature
+of their activities, and evidence that those activities conform to the
+requirements of federal law and regulation. A person shall apply for
+registration or renewal of registration on a form provided by the Board. The
+application shall be accompanied by the fee required under section 858 of this
+subchapter.
+(b) Processors. All persons engaged in the processing of hemp, including
+trade in hemp-derived cannabinoids and process intermediaries, shall be
+licensed by the Board. A person shall apply for a license or renewal of a
+license on a form provided by the Board. The application shall be
+accompanied by the fee required under section 858 of this subchapter.
+(c) Products. All hemp-derived products containing or reasonably
+expected to contain more than 0.4 mg tetrahydrocannabinol shall be registered
+with the Board prior to sale to any person within this State. A person shall
+apply for registration or renewal of registration on a form provided by the
+Board. The application shall be accompanied by the fee required under
+section 858 of this subchapter.
+(d) All applicants. The Board may deny an application for licensure,
+registration, or renewal if the applicant:
+(1) fails to establish that its activities comply with State and federal law;
+(2) refuses the Board or its lawful designees entry upon its premises to
+inspect and confirm compliance, including by sampling hemp and hemp
+products for potency testing;
+(3) fails to submit information requested by the Board; or
+(4) fails to submit the fee required under section 858 of this subchapter.
+§ 855. RULEMAKING AUTHORITY
+(a) The Board may adopt rules to provide for the implementation of this
+subchapter, which may include rules to:
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 85 of 94
+(1) require hemp to be tested during growth for tetrahydrocannabinol
+levels;
+(2) authorize or specify the method or methods of testing hemp,
+including, where appropriate, the ratio of cannabidiol to tetrahydrocannabinol
+levels or a taxonomic determination using genetic testing;
+(3) require inspection and supervision of hemp during sowing, growing
+season, harvest, storage, processing, and distribution;
+(4) require labels or label information for hemp products in order to
+provide consumers with transparent and accurate product content or source
+information, to be free of false or misleading claims and claims contrary to the
+Federal Food, Drug, and Cosmetic Act, 21 U.S.C. §§ 301–399i, or to conform
+with federal requirements;
+(5) establish sanitary requirements for licensed processing facilities;
+(6) establish registration requirements for hemp-derived products sold
+or distributed in the State, including requirements that each product be
+sampled and tested by a laboratory recognized by the Board;
+(7) require disclosure or labeling of the amount of cannabinoids known
+to be present in hemp products sold or distributed in the State;
+(8) require that licensees and registrants, including out-of-state
+purveyors of registered hemp products, obtain and maintain commercially
+reasonable insurance, which for producers of consumer products in final form
+shall include product liability insurance;
+(9) prohibit hazardous additives to hemp products, or specify additive
+limits, relative to substances that are toxic, not generally recognized as safe, or
+designed to make the product more addictive or more appealing to persons
+under 21 years of age or to mislead consumers;
+(10) specify when a registered hemp product that contains more than 0.4
+mg tetrahydrocannabinol must be restricted for sale to persons 21 years of age
+or older or restricted for sale in specified settings, or both;
+(11) define “craft processors” as a class of small businesses with
+different needs and risks and exempt craft processor licensees from the
+requirements of this subchapter that the Board finds to be unnecessary to
+protect the public health, safety, and welfare;
+(12) waive or reduce licensing fees for craft processor applicants
+pursuant to rule or readily accessible policy;
+(13) exempt certain product categories from the requirement to register
+under this chapter;
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 86 of 94
+(14) establish requirements for the consumer sale of any product
+containing tetrahydrocannabinol or other cannabinoids; or
+(15) prohibit any person from making false, misleading, or
+unsubstantiated claims for cannabinoid-containing products.
+(b) The Board shall adopt rules to:
+(1) establish requirements for the licensure of processors of hemp,
+hemp-derived process intermediaries, and hemp products; and
+(2) regulate the use of processing facilities and equipment to permit
+processors to use the same equipment for hemp and cannabis processing and
+to prevent cross contamination between hemp and cannabis.
+§ 856. TEST RESULTS; ENFORCEMENT
+(a) When notified that hemp, a hemp product, or a hemp-infused product
+has a tetrahydrocannabinol concentration exceeding the applicable federally
+defined tetrahydrocannabinol concentration level of hemp, the person licensed
+or registered with the Board to grow or process the hemp shall arrange for
+disposal, remediation, or destruction of the hemp, hemp product, or hemp-
+infused product in a manner consistent with applicable State and federal law.
+(b) To enforce the provisions of this subchapter, the Board, upon presenting
+appropriate credentials, may conduct one or more of the following:
+(1) Enter upon any premises where hemp is grown or processed and
+inspect premises, machinery, equipment and facilities, all hemp during any
+growth phase, or any hemp product or hemp-infused product during processing
+or storage. Inspection under this section may include taking samples,
+inspecting records, and inspecting equipment or vehicles used to grow, process,
+or transport hemp, hemp products, or hemp-infused products.
+(2) Inspect any retail location offering hemp products or hemp-infused
+products. Inspection under this section may include taking samples of such
+products.
+(3) Issue and enforce a written or printed “stop sale” order to the owner
+or custodian of any hemp, hemp product, or hemp-infused product subject to
+the requirements of this subchapter or rules adopted under this subchapter that
+the Board finds is in violation of any of the provisions of this subchapter or
+rules adopted under this subchapter. An order may prohibit further sale,
+processing, and movement of the hemp, hemp product, or hemp-infused
+product until the Board has approved and issued a release from the “stop sale”
+order.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 87 of 94
+(A) This order shall include the reason for issuance, a description of
+the hemp or hemp products at issue, instructions to separate all hemp or hemp
+products subject to the order, and any recommended measures to remedy the
+basis or bases for the order.
+(B) A person issued a “stop sale” order may appeal that order to the
+Board within 15 days after receipt. The person shall file any appeal by serving
+a letter on the Board, which shall state all grounds for the appeal and identify
+the hemp or hemp products affected by the appeal.
+§ 857. ADMINISTRATIVE PENALTIES
+(a) The Board may assess violations and administrative penalties against
+persons licensed or registered pursuant to this subchapter, as well as persons
+required to be licensed or registered pursuant to this subchapter who fail to
+obtain or maintain required credentials.
+(b) The compliance and enforcement authorities and procedures applicable
+to cannabis establishments shall apply to persons licensed or registered under
+this subchapter.
+(c) The Board may enforce a final administrative penalty by filing a civil
+collection action in any Superior Court.
+§ 858. FEES
+(a) The following fees shall apply to each license or registration
+application or each annual license or registration renewal under this
+subchapter:
+(1) Producer: $50.00.
+(2) Processor: $500.00.
+(3) Product: $75.00.
+(b) Notwithstanding subsection (a) of this section, the Board may issue
+longer registrations, prorated at the same cost per year, for products it deems
+low risk and shelf-stable. The products may be defined and distinguished in
+readily accessible published guidance.
+Sec. 16a. HEMP FEES REPORTING
+On or before January 15, 2027, the Cannabis Control Board shall submit to
+the House Committees on Agriculture, Food Resiliency, and Forestry, on Ways
+and Means, and on Government Operations and Military Affairs and the
+Senate Committees on Agriculture, on Finance, and on Economic
+Development, Housing and General Affairs a report that includes the following
+information:
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 88 of 94
+(1) a summary of all hemp fees in effect in fiscal year 2027, including
+any waivers, reductions, or alterations to the hemp fee schedule as set forth in
+7 V.S.A. § 858;
+(2) a summary of the revenue derived from each fee in fiscal year 2026;
+(3) a comparison of fees in other jurisdictions;
+(4) an analysis of policies or trends that might affect the viability of the
+fee amount; and
+(5) a recommendation regarding how the hemp fee schedule as set forth
+in 7 V.S.A. § 858 may be adjusted to better promote the intent of the General
+Assembly to better support small-business hemp producers and processors.
+Sec. 16b. REPEAL
+7 V.S.A. § 855(a)(12) (waiving or reducing licensing fees for craft
+processors) is repealed on January 1, 2028.
+Sec. 17. 18 V.S.A. § 4201(15) is amended to read:
+(15)(A) “Cannabis” means all parts of the plant Cannabis sativa L.,
+except as provided by subdivision (B) of this subdivision (15), whether growing
+or harvested, and includes:
+(i) the seeds of the plant;
+(ii) the resin extracted from any part of the plant; and
+(iii) any compound, manufacture, salt, derivative, mixture, or
+preparation of the plant, its seeds, or resin.
+(B) “Cannabis” does not include:
+(i) the mature stalks of the plant and fiber produced from the
+stalks;
+(ii) oil or cake made from the seeds of the plant;
+(iii) any compound, manufacture, salt, derivative, mixture, or
+preparation of the mature stalks, fiber, oil, or cake;
+(iv) the sterilized seed of the plant that is incapable of
+germination; or
+(v) hemp or hemp products, as defined in 6 V.S.A. § 562 7 V.S.A.
+§ 852.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 89 of 94
+Sec. 18. 32 V.S.A. § 7811(b) is amended to read:
+(b) The tax established in this section shall not be imposed on:
+(1) cannabis-related supplies sold by a dispensary registered under 7
+V.S.A. chapter 37 to registered patients and registered caregivers, as those
+terms are defined in 7 V.S.A. § 972;
+(2) cannabis products, as defined in 7 V.S.A. § 831, that do not contain
+tobacco; or
+(3) hemp or hemp products, as defined in 6 V.S.A. § 562 7 V.S.A. § 852,
+that do not contain tobacco.
+Sec. 19. 7 V.S.A. § 845 is amended to read:
+§ 845. CANNABIS REGULATION FUND
+(a) There is established the Cannabis Regulation Fund, which shall be
+managed in accordance with 32 V.S.A. chapter 7, subchapter 5. The Fund
+shall be maintained by the Cannabis Control Board.
+(b) The Fund shall be composed of:
+(1) all State application fees, annual license fees, renewal fees, and civil
+penalties collected by the Board pursuant to chapters chapter 31 (cannabis);
+chapter 33 (cannabis establishments); and chapter 37 (medical cannabis
+dispensaries) of this title;
+* * *
+Sec. 20. 7 V.S.A. § 834 is added to read:
+§ 834. SALES RESTRICTIONS
+(a) As used in this section, “unregistered hemp” or “unregistered
+cannabis” means a product required by State law or rule of the Cannabis
+Control Board to be registered with the Cannabis Control Board, including a
+product derived from the unregistered hemp or unregistered cannabis, that is
+not registered on the date a transaction occurs.
+(b) No person shall cause unregistered hemp or unregistered cannabis
+purchased by mail or through a computer network, telephonic network, or
+other electronic network to be shipped to anyone other than a licensed
+cannabis laboratory in this State.
+(c) No person shall, with knowledge or reason to know of the violation,
+provide substantial assistance to a person in violation of this section.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 90 of 94
+(d) A violation of this section is punishable as follows:
+(1) A knowing or intentional violation of this section shall be punishable
+by imprisonment for not more than five years or a fine of not more than
+$5,000.00, or both.
+(2) In addition to or in lieu of any other civil or criminal remedy
+provided by law, upon a determination that a person has violated this section,
+the Attorney General may impose a civil penalty in an amount not to exceed
+$5,000.00 for each violation. For purposes of this subsection, each shipment
+or transport of unregistered hemp or unregistered cannabis shall constitute a
+separate violation.
+(3) The Attorney General may seek an injunction to restrain a
+threatened or actual violation of this section.
+(4) In any action brought pursuant to this section, the State shall be
+entitled to recover the costs of investigation, expert witness fees, the action,
+and reasonable attorney’s fees.
+(5) A person who violates this section engages in an unfair and
+deceptive trade practice in violation of the State’s Consumer Protection Act, 9
+V.S.A. §§ 2451 et seq.
+(6) If a court determines that a person has violated the provisions of this
+section, the court shall order any profits, gain, gross receipts, or other benefit
+from the violation to be disgorged and paid to the State Treasurer for deposit
+in the General Fund.
+(7) Unless otherwise expressly provided, the penalties or remedies, or
+both, under this section are in addition to any other penalties and remedies
+available under any other law of this State.
+* * * Natural Resources Conservation Council Mortgages * * *
+Sec. 21. 10 V.S.A. § 723 is amended to read:
+§ 723. POWERS OF SUPERVISORS
+The supervisors shall have the following powers:
+* * *
+(5) To obtain options upon and to acquire by purchase, exchange, lease,
+gift, grant, or bequest, any property, real or personal; to maintain, administer
+and improve any properties acquired; to receive income from the properties
+and to expend the income in carrying out the purposes and provisions of this
+chapter; and to borrow money, mortgage, sell, lease, or otherwise dispose of
+any of its property or interests in property in furtherance of the purposes and
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 91 of 94
+the provisions of this chapter, provided however, that real estate shall not be
+mortgaged, and provided however, that the sale, lease, or other disposition of
+real property of the district is approved by the written consent of the governor;
+* * *
+* * * CAFO Permit Working Group * * *
+Sec. 22. 10 V.S.A. § 1354 is added to read:
+§ 1354. CONCENTRATED ANIMAL FEEDING OPERATION PERMIT
+PROGRAM WORKING GROUP
+(a) Creation. The Secretary of Natural Resources, in coordination with the
+Secretary of Agriculture, Food and Markets, shall convene a working group of
+interested parties to provide advice and recommendations on the
+implementation of and transition to the Concentrated Animal Feeding
+Operation (CAFO) permit required under section 1353 of this title.
+(b) Membership. The working group shall be composed of the following:
+(1) five livestock farmers who are in good standing, appointed by the
+Speaker of the House as follows:
+(A) one representative of the Champlain Valley Farmer Coalition;
+(B) one representative of the Franklin and Grand Isle Farmers
+Watershed Alliance;
+(C) one representative of the Connecticut River Watershed Farmers
+Alliance;
+(D) one representative of the Vermont Dairy Producers Alliance; and
+(E) one representative of farmers from the Northeast Kingdom;
+(2) three agricultural technical service providers, appointed by the
+Governor;
+(3) three representatives from the environmental advocate community,
+appointed by the Committee on Committees; and
+(4) the executive director or designee from the Vermont Association of
+Conservation Districts.
+(c) Assistance. The Agency of Natural Resources and the Agency of
+Agriculture, Food and Markets shall participate in the working group on an
+advisory and administrative capacity but shall not have appointed members on
+the working group and shall not be required to submit reports to the General
+Assembly. The working group shall have the administrative, technical, and
+legal assistance of the Agency of Natural Resources.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 92 of 94
+(d) Meetings.
+(1) The Secretary of Natural Resources shall call the first meeting of the
+working group to occur on or before November 1, 2026.
+(2) The working group shall select co-chairs from among its members at
+the first meeting. One of the co-chairs shall represent livestock farmers, and
+one co-chair shall represent the environmental advocate community.
+(3) A majority of the membership of the working group shall constitute a
+quorum.
+(4) The working group shall meet at least quarterly, or more frequently
+at the request of the co-chairs or at the request of the Secretary of Natural
+Resources.
+(5) The working group’s meetings shall be open to the public in
+accordance with 1 V.S.A. chapter 5, subchapter 2. Notwithstanding 1 V.S.A.
+§ 313, the working group may go into executive session in order to discuss a
+circumstance or an event regarding a specific farm or regarding a possible
+CAFO permit violation by a specific farm.
+(e) Report. The working group annually shall report to the House
+Committees on Agriculture, Food Resiliency, and Forestry and on Environment
+and the Senate Committees on Agriculture and on Natural Resources and
+Energy. The report may take the form of testimony to committees from
+members of the working group.
+(f) Definition. As used in this section, “good standing” means a farmer
+subject to the requirement of this subchapter or to the requirements of 6 V.S.A.
+chapter 215 and who:
+(1) does not have an active enforcement violation that has reached a
+final order with the Secretary of Natural Resources or the Secretary of
+Agriculture, Food and Markets; and
+(2) is in compliance with the terms of any current grant agreement or
+contract with the Agency of Natural Resources or the Agency of Agriculture,
+Food and Markets.
+Sec. 23. CONCENTRATED ANIMAL FEEDING OPERATION;
+TRAINING ON INSPECTION
+(a) On or before March 1, 2027, the Secretary of Natural Resources shall
+contract with a third-party consultant to:
+(1) assist the Secretary in the development of standards and procedures
+to be used by the Agency of Natural Resources and the Agency of Agriculture,
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 93 of 94
+Food and Markets when inspecting Concentrated Animal Feeding Operations
+(CAFOs) as required by 10 V.S.A. chapter 47, subchapter 3A; and
+(2) provide training to the Agency of Natural Resources and Agency of
+Agriculture, Food and Markets staff on implementation of inspection of
+CAFOs. Farmers who qualify for a CAFO permit may voluntarily attend
+training sessions.
+(b) When the Secretary of Natural Resources and the Secretary of
+Agriculture, Food and Markets commence inspections of CAFOs under 10
+V.S.A. chapter 47, subchapter 3A, the third-party consultant shall accompany
+the Agency of Natural Resources’ inspectors on 10 inspections to ensure
+compliance with the inspection standards developed under subsection (a) of
+this section.
+Sec. 24. CONTINGENCY OF FUNDING
+The duty to implement Sec. 23 of this act (Concentrated Animal Feeding
+Operation; training on inspection) is contingent upon an appropriation of
+funds in fiscal year 2027 from the General Fund to the Agency of Natural
+Resources for the specific purposes described in Sec. 23 of this act.
+* * * Farm and Forestry Operations Security Special Fund * * *
+Sec. 24a. 6 V.S.A. § 4643(e) is amended to read:
+(e) All administratively complete applications shall be evaluated by the
+Review Board. Within 15 days following receipt of an administratively
+complete application, the Review Board by majority vote shall recommend to
+the Secretary whether to issue a payment to the applicant. If the Review Board
+recommends an award under this section, the The Secretary shall issue the
+award make a final award determination within 15 days following the date of
+the Review Board’s recommendation.
+* * * Permitting Large and Medium Farm Operations * * *
+Sec. 24b. 6 V.S.A. § 4851(i) is amended to read:
+(i) A Beginning on July 1, 2026, a person required to obtain a permit under
+this section shall submit not be required to pay an annual operating fee of
+$2,500.00 to the Secretary. During any calendar year in which a person has an
+active Large Concentrated Animal Feeding Operation permit issued by the
+Agency of Natural Resources pursuant to the federal Clean Water Act and pays
+the required associated fee, that person shall not be required to pay the
+$2,500.00 annual operating fee described in this section. The fees collected
+under this section shall be deposited in the Agricultural Water Quality Special
+Fund under section 4803 of this title.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.323
+2026 Page 94 of 94
+Sec. 24c. 6 V.S.A. § 4858(e) is amended to read:
+(e) Operating fee. A Beginning on July 1, 2026, a person required to
+obtain a permit or coverage under this section shall submit not be required to
+pay an annual operating fee of $1,500.00 to the Secretary. The fees collected
+under this section shall be deposited in the Agricultural Water Quality Special
+Fund under section 4803 of this title.
+* * * Effective Dates * * *
+Sec. 25. EFFECTIVE DATES
+(a) Secs. 15–20 (hemp oversight) shall take effect on passage.
+(b) All other sections shall take effect on July 1, 2026.

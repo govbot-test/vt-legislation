@@ -1,0 +1,158 @@
+Title: 
+Official Title: 
+Source: versions - As Passed By the House (OfficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILLAS PASSED BY THE HOUSE H.898
+2026 Page 1 of 7
+1 H.898
+2 Introduced by Committee on Energy and Digital Infrastructure
+3 Date:
+4 Subject: Telecommunications; telephone service; copper-to-fiber network
+5 transitions; VoIP service; backup power; consumer protections
+6 Statement of purpose of bill as introduced: This bill proposes to establish
+7 consumer protections related to a legacy telephone company’s transition from
+8 a copper-based network to a fiber-based network and, in addition, to establish
+9 reporting requirements designed to inform State policy with regard to ensuring
+10 all telephone customers have continuous and reliable access to emergency
+11 services.
+12 An act relating to copper-based to fiber-based telecommunications network
+13 transitions and consumer protections
+14 It is hereby enacted by the General Assembly of the State of Vermont:
+15 Sec. 1. 30 V.S.A. § 227f is added to read:
+16 § 227f. TRANSITION FROM COPPER-BASED TO FIBER-BASED
+17 TELEPHONE SERVICE; CONSUMER PROTECTIONS
+18 (a) Findings. The General Assembly finds that:
+19 (1) When a telecommunications carrier transitions its infrastructure
+20 from a copper-based network to a fiber-based network, it is critical to ensure
+
+BILLAS PASSED BY THE HOUSE H.898
+2026 Page 2 of 7
+1 that existing customers have continued access to high-quality, reliable
+2 telecommunications service.
+3 (2) The transition to Voice over Internet Protocol (VoIP) service over a
+4 fiber-based network may affect service reliability, consumer choices, and
+5 access to emergency services, particularly for vulnerable populations,
+6 including older adults and those with medical dependencies.
+7 (3) Unlike traditional service over a self-powered copper-based
+8 network—otherwise known as plain old telephone service or POTS—a fiber-
+9 based service relies upon an optical network terminal (ONT), which must be
+10 connected to a power source or outlet at a customer’s home or business in
+11 order to be operational.
+12 (4) In the event of a power outage, most backup batteries connected to
+13 the ONT will provide VoIP service for up to eight hours; however, backup
+14 power systems that provide service for a longer duration are also available.
+15 (5) Previously, federal regulations had required providers of facilities-
+16 based, fixed, residential voice services that are not line powered, such as VoIP
+17 service, to offer for sale at least one option with eight hours of standby backup
+18 power, as well as an additional 24-hour option, to ensure customer equipment
+19 maintained E-911 access during a power outage. However, those requirements
+20 were sunset by operation of law on September 1, 2025.
+
+BILLAS PASSED BY THE HOUSE H.898
+2026 Page 3 of 7
+1 (6) There is a need for clear customer safeguards to ensure continuous
+2 and reliable service during the transition to and in the provision of VoIP
+3 service and for enhanced State oversight of customer access to emergency
+4 services, generally.
+5 (b) Intent. It is the intent of the General Assembly to balance telephone
+6 network modernization with customer safeguards during a copper-to-fiber
+7 network transition and to enhance State oversight with regard to ensuring that
+8 all telephone customers have continuous and reliable access to emergency
+9 services.
+10 (c) Definition. As used in this section, “VoIP service” means an
+11 interconnected, facilities-based, fixed, residential voice service that is not line
+12 powered.
+13 (d) Notice of network transition. A telecommunications carrier proposing
+14 to transition from a copper-based network to a fiber-based network in its
+15 service territory shall provide written notice by U.S. first-class mail and email
+16 to the Commissioner of Public Service, the E-911 Board, and all affected
+17 customers at least 120 days, 60 days, and 30 days prior to the planned
+18 transition. In a form and manner prescribed by the Commissioner, the notice
+19 shall include:
+
+BILLAS PASSED BY THE HOUSE H.898
+2026 Page 4 of 7
+1 (1) the date the transition is expected to occur;
+2 (2) the details of service changes, including any potential impact on a
+3 customer’s telephone service and whether the carrier will offer a reasonably
+4 comparable replacement service in relation to pricing, terms, and conditions;
+5 (3) information sufficient to inform customers about the need to test and
+6 verify any auxiliary telecommunications devices, such as alarm systems and
+7 medical alert devices, to ensure they function properly over the new VoIP
+8 service;
+9 (4) disclosures about whether the carrier is obligated to provide
+10 regulated landline voice service to residential customers in its service territory;
+11 (5) information on the need for and availability of backup power
+12 options and battery backup devices to maintain service continuity during a
+13 power outage;
+(6) a link to the consumer protection rules in Public Utility Commission
+Rule 7.600, Standards for Billing, Credit and Collections, and Customer
+Information for Telecommunications Carriers, which includes a Consumer Bill
+of Rights, or how to obtain a hard copy of Rule 7.600 by U.S. mail;
+14 (7) contact information for carrier customer support and for the Division
+15 of Consumer Affairs and Public Information within the Department of Public
+16 Service;
+
+BILLAS PASSED BY THE HOUSE H.898
+2026 Page 5 of 7
+1 (8) information regarding the availability of and eligibility for any
+2 federal, State, or carrier discount programs applicable to the replacement VoIP
+3 service; and
+4 (9) any other disclosures deemed necessary and appropriate by the
+5 Commissioner of Public Service to ensure that the public convenience and
+6 necessity will not be adversely affected by the transition or discontinuance of
+7 service.
+8 (e) VoIP service provider reporting. Beginning on or before November 1,
+9 2026, and annually thereafter, each VoIP service provider shall file a report
+10 with the Department of Public Service detailing the number of customers who
+11 have purchased battery backup systems from the carrier, including the
+12 purchase and installation costs, if applicable; and documenting any known
+13 incidents where E-911 access was impaired or interrupted due to the lack of
+14 backup power.
+15 (f) Enforcement. A telecommunications carrier that violates a provision of
+16 this section shall be subject to the remedies authorized by this title, including
+17 penalties authorized by section 30 of this title and injunctions authorized by
+18 section 209 of this title.
+19 (g) Department monitoring. In addition to reviewing the annual reports
+20 required under subsection (e) of this section, the Commissioner of Public
+21 Service shall review, quarterly, the outage reports submitted to the E-911
+
+BILLAS PASSED BY THE HOUSE H.898
+2026 Page 6 of 7
+1 Board pursuant to the Board’s Rule Governing Outage Reporting
+2 Requirements for Originating Carriers and Electric Power Companies, as well
+3 as the Department’s telecommunications service availability data and any other
+4 relevant data available to the Commissioner, to determine if there are areas of
+5 the State particularly prone to carrier or power outages and assess whether
+6 locations in those areas may be vulnerable to extended periods of time without
+7 access to E-911 service. In addition, the Commissioner, in coordination with
+8 the Office of the Attorney General, shall establish a mechanism for receiving
+9 and tracking any consumer complaints concerning VoIP service quality and
+10 reliability.
+11 (h) Consumer education and outreach. The Commissioner shall develop
+12 consumer education and community outreach initiatives designed to ensure:
+13 (1) all customers impacted by the transition from a copper-based
+14 network to a fiber-based network are aware of their rights and the carrier’s
+15 obligations during the transition; and
+16 (2) all customers who use VoIP service are aware of the risks and best
+17 practices concerning emergency preparedness in the event of a power outage.
+18 (i) Department report. The Commissioner shall include in the
+19 Commissioner’s annual report to the General Assembly findings and
+20 recommendations related to the implementation and enforcement of this
+
+BILLAS PASSED BY THE HOUSE H.898
+2026 Page 7 of 7
+1 section. In the 2027 report only, the Commissioner shall consider and make
+2 recommendations on:
+3 (1) whether the State should establish a program designed to provide
+4 financial assistance to customers with low income for costs associated with the
+5 purchase and installation of backup power equipment; and
+6 (2) whether the State should enact additional backup power obligations
+7 applicable to VoIP service providers.
+8 Sec. 2. EFFECTIVE DATE; APPLICATION
+9 This act shall take effect on passage and shall apply to all
+10 telecommunications carriers on September 1, 2026.

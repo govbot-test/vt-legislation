@@ -1,0 +1,246 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.607
+2026 Page 1 of 10
+1 H.607
+2 Introduced by Representative Krasnow of South Burlington
+3 Referred to Committee on
+4 Date:
+5 Subject: Commerce and trade; property; housing; corporations; taxation
+6 Statement of purpose of bill as introduced: This bill proposes to require that
+7 institutional real estate investors wait 90 days prior to the purchase or
+8 acquisition of single- and two-family residences and to eliminate tax
+9 deductions for depreciation or interest related to these properties for
+10 institutional real estate investors.
+11 An act relating to institutional real estate investors’ purchase of single- and
+12 two-family residences
+13 It is hereby enacted by the General Assembly of the State of Vermont:
+14 Sec. 1. 27 V.S.A. § 547 is added to read:
+15 § 547. REAL ESTATE INVESTORS; 90-DAY WAITING PERIOD FOR
+16 PURCHASE
+17 (a) Definitions. As used in this section:
+18 (1)(A) “Covered entity” means an institutional real estate investor or an
+19 entity that receives funding from an institutional real estate investor for the
+20 purchase of a single-family residence or two-family residence. A loan
+VT LEG #386141 v.2
+
+BILL AS INTRODUCED H.607
+2026 Page 2 of 10
+1 provided in exchange for a mortgage of the residence that is being purchased
+2 shall not be considered funding for the purposes of this subdivision (1),
+3 provided that such mortgage shall be of a type for which members of the
+4 general public can apply.
+5 (B) “Covered entity” does not include:
+6 (i) an organization that is described in section 501(c)(3) of the
+7 Internal Revenue Code and exempt from tax under section 501(a) of the
+8 Internal Revenue Code;
+9 (ii) a land bank;
+10 (iii) a community land trust; or
+11 (iv) a creditor or its loan servicer acquiring ownership of real
+12 property in full or partial satisfaction of a secured debt.
+13 (2)(A) “Institutional real estate investor” means an entity or combined
+14 group that, directly or indirectly:
+15 (i) owns 10 or more single-family residences or two-family
+16 residences, or both;
+17 (ii) manages or receives funds pooled from investors and acts as a
+18 fiduciary with respect to one or more investors; and
+19 (iii) has $30,000,000.00 or more in net value or assets under
+20 management on any day during the taxable year.
+VT LEG #386141 v.2
+
+BILL AS INTRODUCED H.607
+2026 Page 3 of 10
+1 (B) An entity is considered owning a single-family residence or two-
+2 family residence if it directly owns the single-family residence or two-family
+3 residence or indirectly owns 10 percent or more of the single-family residence
+4 or two-family residence.
+5 (3) “Single-family residence” means a residential property consisting of
+6 one dwelling unit, provided that the term does not include:
+7 (A) any single-family residence that is to be used as the principal
+8 residence of any person who has an ownership interest in the covered entity
+9 that seeks to purchase the single-family residence; or
+10 (B) any single-family residence constructed, acquired, or operated
+11 with federal, state, or local appropriated funding sources.
+12 (4) “Two-family residence” means a residential property consisting of
+13 two dwelling units, provided that the term does not include:
+14 (A) any two-family residence in which one of the dwelling units is to
+15 be used as the principal residence of any person who has an ownership interest
+16 in the covered entity that seeks to purchase the two-family residence; or
+17 (B) any two-family residence constructed, acquired, or operated with
+18 federal, state, or local appropriated funding sources.
+19 (b) 90-day waiting period for covered entities.
+20 (1) Notwithstanding any other provision of law to the contrary, a
+21 covered entity shall not purchase, acquire, or offer to purchase or acquire any
+VT LEG #386141 v.2
+
+BILL AS INTRODUCED H.607
+2026 Page 4 of 10
+1 interest in a single-family residence or two-family residence, unless the single-
+2 family residence or two-family residence has been listed for sale to the general
+3 public for at least 90 days.
+4 (2) The 90-day waiting period set forth in subdivision (1) of this
+5 subsection shall restart if the seller changes the asking price for the single-
+6 family residence or two-family residence, and a covered entity shall not
+7 purchase, acquire, or offer to purchase or acquire any interest in the single-
+8 family residence or two-family residence until it has been listed for sale to the
+9 general public at the new asking price for at least an additional 90 days.
+10 (c) Enforcement. A violation of this section shall be deemed an unfair
+11 method of competition in violation of 9 V.S.A. § 2453 and the Attorney
+12 General may restrain prohibited acts in accordance with 9 V.S.A. chapter 63.
+13 Sec. 2. 32 V.S.A. § 5811(18) is amended to read:
+14 (18) “Vermont net income” means, for any taxable year and for any
+15 corporate taxpayer:
+16 (A) the taxable income of the taxpayer for that taxable year under the
+17 laws of the United States, without regard to 26 U.S.C. § 168(k), and excluding
+18 income that under the laws of the United States is exempt from taxation by the
+19 states:
+VT LEG #386141 v.2
+
+BILL AS INTRODUCED H.607
+2026 Page 5 of 10
+1 (i) increased by:
+2 (I) the amount of any deduction for State and local taxes on or
+3 measured by income, franchise taxes measured by net income, franchise taxes
+4 for the privilege of doing business and capital stock taxes;
+5 (II) to the extent such income is exempted from taxation under
+6 the laws of the United States by the amount received by the taxpayer on and
+7 after January 1, 1986, as interest income from state and local obligations, other
+8 than obligations of Vermont and its political subdivisions, and any dividends
+9 or other distributions from any fund to the extent such dividend or distribution
+10 is attributable to such Vermont State or local obligations; and
+11 (III) the amount of any deduction for a federal net operating
+12 loss; and
+13 (IV) any amount required under section 5814 of this chapter
+14 relating to federal depreciation and interest deductions taken by certain real
+15 estate investors; and
+16 * * *
+17 Sec. 3. 32 V.S.A. § 5811(21) is amended to read:
+18 (21) “Taxable income” means, in the case of an individual, federal
+19 adjusted gross income determined without regard to 26 U.S.C. § 168(k) and:
+20 (A) increased by the following items of income (to the extent such
+21 income is excluded from federal adjusted gross income):
+VT LEG #386141 v.2
+
+BILL AS INTRODUCED H.607
+2026 Page 6 of 10
+1 (i) interest income from non-Vermont state and local obligations;
+2 and
+3 (ii) dividends or other distributions from any fund to the extent
+4 they are attributable to non-Vermont state or local obligations; and
+5 (iii) any amount required under section 5814 of this chapter
+6 relating to federal depreciation and interest deductions taken by certain real
+7 estate investors; and
+8 * * *
+9 Sec. 4. 32 V.S.A. § 5814 is added to read:
+10 § 5814. REAL ESTATE INVESTORS; DEPRECIATION AND INTEREST
+11 DEDUCTIONS
+12 (a) Definitions. As used in this section:
+13 (1)(A) “Covered entity” means an institutional real estate investor or an
+14 entity that receives funding from an institutional real estate investor for the
+15 purchase of a single-family residence or two-family residence. A loan
+16 provided in exchange for a mortgage of the residence that is being purchased
+17 shall not be considered funding for the purposes of this subdivision (1),
+18 provided that such mortgage shall be of a type for which members of the
+19 general public can apply.
+VT LEG #386141 v.2
+
+BILL AS INTRODUCED H.607
+2026 Page 7 of 10
+1 (B) “Covered entity” does not include:
+2 (i) an organization that is described in section 501(c)(3) of the
+3 Internal Revenue Code and exempt from tax under section 501(a) of the
+4 Internal Revenue Code;
+5 (ii) a land bank;
+6 (iii) a community land trust; or
+7 (iv) a creditor or its loan servicer acquiring ownership of real
+8 property in full or partial satisfaction of a secured debt.
+9 (2)(A) “Institutional real estate investor” means an entity or combined
+10 group that, directly or indirectly:
+11 (i) owns 10 or more single-family residences or two-family
+12 residences, or both;
+13 (ii) manages or receives funds pooled from investors and acts as a
+14 fiduciary with respect to one or more investors; and
+15 (iii) has $30,000,000.00 or more in net value or assets under
+16 management on any day during the taxable year.
+17 (B) An entity is considered as owning a single-family residence or
+18 two-family residence if it directly owns the single-family residence or two-
+19 family residence or indirectly owns 10 percent or more of the single-family
+20 residence or two-family residence.
+VT LEG #386141 v.2
+
+BILL AS INTRODUCED H.607
+2026 Page 8 of 10
+1 (3) “Single-family residence” means a residential property consisting of
+2 one dwelling unit, provided that the term does not include:
+3 (A) any single-family residence that is to be used as the principal
+4 residence of any person who has an ownership interest in the covered entity
+5 that seeks to purchase the single-family residence; or
+6 (B) any single-family residence constructed, acquired, or operated
+7 with federal, state, or local appropriated funding sources.
+8 (4) “Two-family residence” means a residential property consisting of
+9 two dwelling units, provided that the term does not include:
+10 (A) any two-family residence in which one of the dwelling units is to
+11 be used as the principal residence of any person who has an ownership interest
+12 in the covered entity that seeks to purchase the two-family residence; or
+13 (B) any two-family residence constructed, acquired, or operated with
+14 federal, state, or local appropriated funding sources.
+15 (b) Depreciation and interest deduction for covered properties owned by an
+16 institutional real estate investor.
+17 (1) Notwithstanding any other provision of this chapter to the contrary,
+18 for a corporation, combined group, or any other taxpayer subject to taxation
+19 under section 5832 of this chapter that is an institutional real estate investor or
+20 a partner, member, or shareholder of an entity that is an institutional real estate
+VT LEG #386141 v.2
+
+BILL AS INTRODUCED H.607
+2026 Page 9 of 10
+1 investor, Vermont net income shall be computed with adjustments for
+2 depreciation and interest related to covered properties as follows:
+3 (A) For covered properties, no deduction for depreciation allowed
+4 under the Internal Revenue Code shall be allowed.
+5 (B) For covered properties, the federal interest deduction allowed
+6 under 26 U.S.C. § 163 shall not be allowed and must be added back in the
+7 computation of Vermont net income, except with respect to interest paid or
+8 accrued in the taxable year when the covered property is sold to an individual
+9 for use as the principal residence of an individual or sold to a nonprofit
+10 organization that has as its principal purpose the creation, development, or
+11 preservation of affordable housing. For purposes of this subdivision (1)(B),
+12 any amount of interest that would have been allowed under 26 U.S.C. § 163 in
+13 connection with a covered property but for an election to treat such interest as
+14 chargeable to a capital account shall be treated as an amount allowed under
+15 26 U.S.C. § 163.
+16 (2) Notwithstanding any other provision of this chapter to the contrary,
+17 for a taxpayer that is an institutional real estate investor or a partner, member,
+18 or shareholder of an entity that is an institutional real estate investor, Vermont
+19 taxable income shall be computed with adjustments for depreciation and
+20 interest related to covered properties as follows:
+VT LEG #386141 v.2
+
+BILL AS INTRODUCED H.607
+2026 Page 10 of 10
+1 (A) For covered properties, no deduction for depreciation allowed
+2 under the Internal Revenue Code shall be allowed.
+3 (B) For covered properties, the federal interest deduction allowed
+4 under 26 U.S.C. § 163 shall not be allowed and must be added back in the
+5 computation of Vermont taxable income, except with respect to interest paid or
+6 accrued in the taxable year when the covered property is sold to an individual
+7 for use as the principal residence of an individual or sold to a nonprofit
+8 organization that has as its principal purpose the creation, development, or
+9 preservation of affordable housing. For purposes of this subdivision (2)(B),
+10 any amount of interest that would have been allowed under 26 U.S.C. § 163 in
+11 connection with a covered property but for an election to treat such interest as
+12 chargeable to a capital account shall be treated as an amount allowed under
+13 26 U.S.C. § 163.
+14 Sec. 5. EFFECTIVE DATES
+15 (a) This section shall take effect on passage.
+16 (b) Sec. 1 (90-day waiting period) shall take effect on July 1, 2026.
+17 (c) Notwithstanding 1 V.S.A. § 214, Secs. 2–4 (add back of deductions)
+18 shall take effect retroactively on January 1, 2026, and shall apply to taxable
+19 years beginning on and after January 1, 2026.
+VT LEG #386141 v.2

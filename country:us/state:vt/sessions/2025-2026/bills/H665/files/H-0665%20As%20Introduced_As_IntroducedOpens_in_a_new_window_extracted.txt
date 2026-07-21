@@ -1,0 +1,965 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.665
+2026 Page 1 of 39
+1 H.665
+2 Introduced by Representatives Kimbell of Woodstock and Marcotte of
+3 Coventry
+4 Referred to Committee on
+5 Date:
+6 Subject: Municipal and county government; property; taxation and finance;
+7 land records; town clerks; recording and indexing; liens; transfer of
+8 real property; miscellaneous amendments
+9 Statement of purpose of bill as introduced: This bill proposes to amend
+10 various provisions throughout the Vermont Statutes Annotated to use uniform
+11 and consistent terms related to the submission of instruments for recording in
+12 the land records and indexing in the general index maintained by municipal
+13 clerks.
+14 An act relating to recording, indexing, and the duties of town clerks
+15 It is hereby enacted by the General Assembly of the State of Vermont:
+16 Sec. 1. 6 V.S.A. § 2902 is amended to read:
+17 § 2902. RECORDING NOTICE OF LIEN
+18 A producer’s lien shall not continue for more than 60 days from the time
+19 when payment became due for the last of the dairy products sold unless a
+20 notice of the lien is filed recorded in the land records in the case of real estate
+VT LEG #386384 v.1
+
+BILL AS INTRODUCED H.665
+2026 Page 2 of 39
+1 in the office of the town clerk of the town where the real estate is located and
+2 in the case of personal property in the office of the town clerk of the town
+3 where the handler resides, or, if the handler resides out of state, then in the
+4 town where the personal property is located. Within ten 10 days thereafter, a
+5 copy of the memorandum shall be filed by the producer with the Secretary of
+6 Agriculture, Food and Markets, who may publish it as necessary to provide
+7 notice thereof to other producers of the handler.
+8 Sec. 2. 9 V.S.A. § 1921 is amended to read:
+9 § 1921. EXTENT OF LIEN; NOTICE
+10 * * *
+11 (b) A person who by virtue of a contract or agreement, either in writing or
+12 parol, with an agent, contractor, or subcontractor of the owner thereof,
+13 performs labor or furnishes materials for erecting, repairing, moving, or
+14 altering such improvements shall have a lien, to secure the payment of the
+15 same upon such improvements and the lot of land upon which the same stand,
+16 by giving notice in writing to such owner or his or her owner’s agent having
+17 charge of such property that he or she the person shall claim a lien for labor or
+18 material. The notice shall include the date that payment is due, if known.
+19 Such lien shall extend to the portions of the contract price remaining unpaid at
+20 the time such notice is received.
+VT LEG #386384 v.1
+
+BILL AS INTRODUCED H.665
+2026 Page 3 of 39
+1 (c) A lien herein provided for shall not continue in force for more than 180
+2 days from the time when payment became due for the last of such labor
+3 performed or materials furnished unless a notice of such lien is filed recorded
+4 in the land records in the office of the town clerk as hereinafter provided.
+5 (d) A lien under this section shall not take precedence over a deed or other
+6 conveyance to the extent that consideration therefor has been paid in good faith
+7 before record recording of such lien in the land records. Such lien shall not
+8 take precedence over a mortgage given by the owner thereof upon such
+9 building, property, or improvements and the lot of land on which the same
+10 stand, as security for the payment of money loaned and to be used by such
+11 owner in payment of the expenses of the same, if such mortgage is recorded in
+12 the land records before such lien is filed in the office of the town clerk as
+13 hereinafter provided. If such mortgagee shall receive written notice that any
+14 lien hereunder is to be claimed, such lien shall take precedence over such
+15 mortgage as to all advances thereafter made under such mortgage to such
+16 mortgagor, except such advances as the mortgagee may show were actually
+17 expended in completing such improvements to real property.
+18 * * *
+19 Sec. 3. 9 V.S.A. § 1923 is amended to read:
+20 § 1923. RECORDING NOTICE OF LIEN
+VT LEG #386384 v.1
+
+BILL AS INTRODUCED H.665
+2026 Page 4 of 39
+1 A person claiming a lien under section 1921 of this title shall file submit a
+2 written memorandum for record recording in the land records in the clerk’s
+3 office of the town where such real estate is situated a written memorandum,
+4 signed by him or her the person, asserting his or her the person’s claim, which
+5 shall charge such real estate with such lien as of the visible commencement of
+6 work or delivery of material to the extent and subject to the exceptions
+7 provided in sections 1921 and 1922 of this title. Several such liens, asserted as
+8 aforesaid, shall be paid pro rata, if the sum due or to become due from the
+9 owner thereof is not sufficient to pay the same in full.
+10 Sec. 4. 9 V.S.A. § 1971 is amended to read:
+11 § 1971. UNPAID WAGES; STATUTORY LIEN; PRIORITY OVER
+12 SUBSEQUENT MORTGAGE OR LIEN
+13 (a) A statutory lien is created on the real and personal property of a
+14 corporation for up to 30 days of unpaid wages.
+15 (b) The liability of a corporation to an employee for unpaid wages that
+16 were earned for a 30-day period prior to the filing of a new mortgage or other
+17 lien upon the property of the corporation, in all cases, shall be a first lien
+18 thereon, notwithstanding any mortgage or other lien thereon recorded in the
+19 land records after such wages were earned. Notice of the lien if on personal
+20 property shall be filed with the Secretary of State and, if on real property,
+21 recorded in the land records in the office of the town clerk of the town where
+VT LEG #386384 v.1
+
+BILL AS INTRODUCED H.665
+2026 Page 5 of 39
+1 the real property is located, by the employee or the Department of Labor acting
+2 on behalf of one or more employees. An employee who is owed wages or the
+3 Department of Labor acting on behalf of one or more employees may file an
+4 action to execute on the lien in the Civil Division of the Superior Court in the
+5 county in which the corporation has its principal place of business in the State,
+6 or in the Civil Division of the Washington County Superior Court.
+7 Sec. 5. 9 V.S.A. § 2051 is amended to read:
+8 § 2051. FILING RECORDING IN TOWN CLERK’S OFFICE
+9 Notices of liens upon real or personal property for taxes or other obligations
+10 payable to the United States of America, certificates and notices affecting the
+11 liens, and certificates discharging the liens shall be filed recorded in the land
+12 records in the office of the town clerk of the town in this State within which
+13 the property subject to the lien is situated.
+14 Sec. 6. 9 V.S.A. § 2052 is amended to read:
+15 § 2052. RECORDING OF NOTICE OF LIEN
+16 When a notice of a federal lien is filed recorded in the land records, the
+17 town clerk shall forthwith record index the same in alphabetical order in a
+18 book kept for that purpose the general index with the date and hour of filing
+19 recording the lien. A town clerk shall keep on file in the clerk’s office the
+20 notices of these liens. Liens filed under this section shall be indexed in
+21 accordance with 24 V.S.A. § 1153 or 1161.
+VT LEG #386384 v.1
+
+BILL AS INTRODUCED H.665
+2026 Page 6 of 39
+1 Sec. 7. 9 V.S.A. § 2053 is amended to read:
+2 § 2053. DISCHARGE OF LIEN
+3 When a certificate of discharge of a federal lien is filed recorded in the land
+4 records in the office of the town clerk, the town clerk shall enter index the
+5 same, with the date of filing recording, upon the same page of the record where
+6 the notice of the lien is filed recorded and indexed, and permanently attach the
+7 original certificate of discharge to the original notice of the lien.
+8 Sec. 8. 10 V.S.A. § 865 is amended to read:
+9 § 865. COPY OF AWARD AND JUDGMENT FILED RECORDED AND
+10 INDEXED
+11 A certified copy of the award of the selectboard or of the report of the
+12 commissioners, finally accepted by the Superior Court, with the orders and
+13 judgments of such the court, shall be recorded in the land records and indexed
+14 in the general index in the office of the town clerk where the lands are situated.
+15 Sec. 9. 12 V.S.A. § 2783 is amended to read:
+16 § 2783. OFFICER MAY LODGE COPY IN CLERK’S OFFICE
+17 When the officer holding an execution for collection is directed by the
+18 creditor, his or her or the creditor’s agent or attorney, to levy the same on the
+19 real estate of the debtor, he or she the officer may lodge in submit for
+20 recording in the land records with the office where by law a deed of such real
+21 estate is required to be recorded, a certified copy of the execution, with a
+VT LEG #386384 v.1
+
+BILL AS INTRODUCED H.665
+2026 Page 7 of 39
+1 certificate thereon, under his or her the officer’s hand, stating that he or she the
+2 officer is directed to levy the same on such real estate, designating the same as
+3 it would be described in case of the attachment of real estate.
+4 Sec. 10. 12 V.S.A. § 2800 is amended to read:
+5 § 2800. CERTIFICATE OF REDEMPTION
+6 When the debtor redeems the premises, the clerk or magistrate shall give
+7 him or her the debtor a certificate of such redemption, at his or her the debtor’s
+8 expense, which, if recorded on the margin of the record of such sale in the land
+9 records, shall be full evidence that such land has been redeemed. The clerk or
+10 magistrate shall indicate on the record of the levy of execution where the
+11 certificate of redemption is recorded and indexed.
+12 Sec. 11. 12 V.S.A. § 2802 is amended to read:
+13 § 2802. OFFICER TO LODGE COPY IN CLERK’S OFFICE; NOTICE TO
+14 TENANT
+15 The officer levying an execution on the rents, issues, and profits mentioned
+16 in section 2801 of this title shall lodge in record with the office where by law a
+17 deed of the real estate yielding or paying such rents, issues, and profits is
+18 required to be recorded and indexed, a certified copy of the execution, stating
+19 that he or she the officer is directed to levy the same on the rents, issues, and
+20 profits of the real estate, and designating such real estate as in attachment.
+21 Within ten 10 days thereafter, he or she the officer shall serve a written notice
+VT LEG #386384 v.1
+
+BILL AS INTRODUCED H.665
+2026 Page 8 of 39
+1 of such levy upon the tenant in possession of the described real estate, by
+2 delivering the same to him or her the tenant personally or leaving it at his or
+3 her the tenant’s last and usual place of abode.
+4 Sec. 12. 12 V.S.A. § 2902 is amended to read:
+5 § 2902. RELATION TO OTHER REMEDIES
+6 The lien created by this chapter shall be in addition to and separate from
+7 any other remedy or interest created by law or contract. Any judgment lien
+8 filed recorded in the land records on real property which that has been attached
+9 in the suit in which the judgment is rendered shall relate back to the date of
+10 attachment if the judgment is recorded in the land records within 60 days after
+11 it becomes final.
+12 Sec. 13. 12 V.S.A. § 2903 is amended to read:
+13 § 2903. DURATION AND EFFECTIVENESS
+14 (a) A judgment lien shall be effective for eight years from the issuance of a
+15 final judgment on which it is based except that an action to foreclose the
+16 judgment lien during the eight-year period shall extend the period until the
+17 termination of the foreclosure suit if a copy of the complaint is filed recorded
+18 in the land records on or before eight years from the issuance of the final
+19 judgment.
+20 (b) A judgment that is renewed or revived pursuant to section 506 of this
+21 title shall constitute a lien on real property for eight years from the issuance of
+VT LEG #386384 v.1
+
+BILL AS INTRODUCED H.665
+2026 Page 9 of 39
+1 the renewed or revived judgment if recorded in the land records in accordance
+2 with this chapter. The renewed or revived judgment shall relate back to the
+3 date on which the original lien was first recorded if a copy of the complaint to
+4 renew the judgment was recorded in the land records where the property lies
+5 within eight years after the rendition of the judgment, and the renewed or
+6 revived judgment is subsequently recorded in the land records in accordance
+7 with this chapter.
+8 * * *
+9 (d) If a judgment lien is not satisfied within 30 days of after recording in
+10 the land records, it may be foreclosed and redeemed as provided in this title
+11 and V.R.C.P. 80.1. Unless the court finds that as of the date of foreclosure the
+12 amount of the outstanding debt exceeds the value of the real property being
+13 foreclosed, chapter 172 of this title shall apply to foreclosure of a judgment
+14 lien.
+15 Sec. 14. 12 V.S.A. § 2904 is amended to read:
+16 § 2904. RECORDING
+17 A judgment creditor may record a judgment lien at any time within eight
+18 years from the date the judgment becomes final in the town clerk’s office of
+19 any town where real property of the debtor is located. Recording shall consist
+20 of filing submitting a copy of the judgment with date when it became final,
+21 certified by the clerk of the court issuing the judgment. The certification shall
+VT LEG #386384 v.1
+
+BILL AS INTRODUCED H.665
+2026 Page 10 of 39
+1 be recorded by the town clerk in the land records and indexed in the general
+2 index.
+3 Sec. 15. 12 V.S.A. § 3292 is amended to read:
+4 § 3292. RECORDING BY TOWN OR SUPERIOR CLERK
+5 When a copy of a writ of attachment, on which real estate is attached, is
+6 lodged in submitted to the office of a town or Superior clerk, such clerk shall
+7 enter in a book to be kept for that purpose record in the land records and index
+8 in the general index the names of the parties, the date of the writ, the time
+9 when and the court to which the same is returnable, the nature of the action, the
+10 sum demanded, and the officer’s return thereon.
+11 Sec. 16. 12 V.S.A. § 3293 is amended to read:
+12 § 3293. DISCHARGE OF ATTACHMENT LIEN
+13 (a) When an attachment or sequestration of real estate is made in an action
+14 at law, such real estate shall be discharged from such attachment lien and the
+15 party in whose favor the attachment or sequestration is made, his or her or the
+16 party’s legal representative or attorney of record in the action shall discharge
+17 such attachment upon the record of attachment by recording a certificate of
+18 discharge in the land records in a form similar to a mortgage discharge separate
+19 from mortgage in the town clerk’s office, under any one of the following
+20 conditions:
+21 * * *
+VT LEG #386384 v.1
+
+BILL AS INTRODUCED H.665
+2026 Page 11 of 39
+1 (b) If such attachment or sequestration is not discharged of record as above
+2 provided, any person having any title in or lien on such property may obtain
+3 from the court to which the original writ or process was made returnable, a
+4 certificate stating therein the fulfillment of any one of the conditions set forth
+5 above, and may file submit such certificate in the town or city clerk’s office in
+6 the town or city where such attachment was made. Such clerk shall thereupon
+7 discharge such attachment as follows:
+8 “Discharged by the town (city) clerk per court’s certificate on file.”
+9 * * *
+10 Sec. 17. 12 V.S.A. § 4932 is amended to read:
+11 § 4932. VENUE; JOINDER OF PARTIES; RECORDING
+12 * * *
+13 (b) The plaintiff shall file submit a copy of the complaint in the town
+14 clerk’s office in each town where the mortgaged property is located. The clerk
+15 of the town shall minute on the margin of the record of the mortgage that
+16 record in the land records and index in the general index a copy of foreclosure
+17 proceedings on the mortgage is filed. The filing recording shall be sufficient
+18 notice of the pendency of the action to all persons who acquire any interest or
+19 lien on the mortgaged premises between the dates of filing recording the copy
+20 of foreclosure and the recording of the final judgment in the proceedings.
+21 Without further notice or service, those persons shall be bound by the
+VT LEG #386384 v.1
+
+BILL AS INTRODUCED H.665
+2026 Page 12 of 39
+1 judgment entered in the cause and be foreclosed from all rights or equity in the
+2 premises as completely as though they had been parties in the original action.
+3 * * *
+4 Sec. 18. 12 V.S.A. § 4934 is amended to read:
+5 § 4934. SUPPLEMENTAL JUDGMENT JOINING PARTIES; RECORDING
+6 At any time, without further notice or service on the purchaser or mortgagor
+7 or lienholder whose interest in the property being foreclosed first arose after
+8 the filing recording of the complaint in the land records in the town clerk’s
+9 office, and upon filing certified copies of the deed, mortgage, or attachment
+10 with the clerk of the court by the plaintiff in the foreclosure action, any
+11 Superior judge may sign a supplemental judgment specifically naming that
+12 party. Reference to the deed, mortgage, or lien and the supplemental judgment
+13 may be filed recorded in the town clerk’s office for record recording in the
+14 land records, and it shall have the same force and effect as though that person
+15 had been made a party defendant in the original action.
+16 Sec. 19. 15 V.S.A. § 291 is amended to read:
+17 § 291. WHEN A MARRIED PERSON DESERTS OR FAILS TO SUPPORT
+18 HIS OR HER A SPOUSE
+19 * * *
+20 (f) When filed and recorded in the land records in the office of the clerk of
+21 a town, or served upon a private corporation, such order shall be a lien upon
+VT LEG #386384 v.1
+
+BILL AS INTRODUCED H.665
+2026 Page 13 of 39
+1 such of the real estate and personal property of the defendant in such town, and
+2 upon the stock of the defendant in such corporation as is mentioned in the
+3 order.
+4 * * *
+5 Sec. 20. 19 V.S.A. § 757 is amended to read:
+6 § 757. FILING RECORDING AND INDEXING OF SURVEY AND
+7 APPRAISAL
+8 The commissioners shall also file record and index a copy of the survey and
+9 the appraisal of damages in the land records and general index in the town
+10 clerk’s office at the time of filing their report in the Superior Court.
+11 Sec. 21. 21 V.S.A. § 1336 is amended to read:
+12 § 1336. LIEN; FEE; FORECLOSURE
+13 (a)(1) All contributions, interest, penalties, and costs thereon due and
+14 payable by an employer under the provisions of this chapter shall be a lien
+15 upon the real estate of the employer from the date a lien for the contributions,
+16 interest, penalties, and costs is entered recorded in the land records of the town
+17 in which is located the real estate of the employer is located.
+18 * * *
+19 Sec. 22. 24 V.S.A. § 1061 is amended to read:
+20 § 1061. CONVEYANCE OF REAL ESTATE
+21 * * *
+VT LEG #386384 v.1
+
+BILL AS INTRODUCED H.665
+2026 Page 14 of 39
+1 (d) Subject to the provisions of subsections (a) and (b) of this section, real
+2 estate owned by a city, town, village, or town school district may be conveyed
+3 by an agent designated by the legislative body for that purpose, and the
+4 conveyance shall be under the hand and seal of the agent. The legislative body
+5 shall certify the designation of an agent and have the certificate recorded in the
+6 land records and indexed in the general index by the clerk of the city, town,
+7 village, or town school district.
+8 * * *
+9 Sec. 23. 24 V.S.A. chapter 35 is amended to read:
+10 CHAPTER 35. TOWN CLERKS
+11 * * *
+12 § 1154. RECORDS; COPIES
+13 (a) A town clerk shall record in the land records, at length or by accurate,
+14 legible copy, in books to be furnished by the town:
+15 * * *
+16 (9) other instruments delivered to the town clerk for recording in the
+17 land records.
+18 (b) A temporary permit (if defined by the bylaws of the municipality) is not
+19 required to be recorded in the land records.
+VT LEG #386384 v.1
+
+BILL AS INTRODUCED H.665
+2026 Page 15 of 39
+1 (c) A notice of a municipal land use permit or a notice of violation
+2 specified in subdivision (a)(6) of this section may be recorded in the land
+3 records, and if such the notice is recorded, it shall list:
+4 * * *
+5 (4) whether an appeal of such the permit, certificate, or notice has been
+6 taken;
+7 * * *
+8 § 1154a. RECORDS; RETURN POSTAGE
+9 Whenever an instrument listed in section 1154 of this chapter is filed or left
+10 for record with submitted to the town clerk for recording in the land records,
+11 the town shall bear the costs of returning the original copy of the instrument to
+12 the person who filed or left submitted the instrument for record recording.
+13 § 1155. RECORD OF TRUST MORTGAGE
+14 Trust mortgages may be recorded in the land records by furnishing the town
+15 clerk with a printed copy thereof of the trust mortgage on not smaller than 8
+16 1/4 by 10 3/4 nor larger than 10 1/2 by 16 ledger paper of good quality with
+17 good cloth binding which volume after being duly compared with the original
+18 mortgage shall be filed, attested by him or her and kept in his or her office as a
+19 trust mortgage record recorded in the land records. The clerk shall also certify
+20 on a blank page of the then current mortgage record book the recording of such
+VT LEG #386384 v.1
+
+BILL AS INTRODUCED H.665
+2026 Page 16 of 39
+1 the trust mortgage under the provisions of this section and index the same as
+2 provided in section 1154 of this title.
+3 § 1156. CHATTEL MORTGAGES; CONDITIONAL SALES; DISCHARGE
+4 OF LIEN
+5 Within 15 days after a chattel mortgage, a sufficient memorandum of a
+6 conditional vendor’s lien, or a memorandum of a discharge of such the
+7 mortgage or lien has been delivered submitted to a town clerk for recording in
+8 the land records, accompanied by the recording fee provided in 32 V.S.A.
+9 § 1671, such the clerk shall record such the mortgage, lien, or discharge and
+10 return the original to the person entitled thereto to the original copy.
+11 § 1157. DUTIES OF TOWN CLERK AS TO CHATTEL MORTGAGES
+12 A town clerk shall procure and keep a book of records for mortgages of
+13 personal property and shall keep an alphabetical index of mortgagors and
+14 mortgagees. The record and index shall be open to public inspection. The
+15 clerk shall record in the book any mortgage, transfer, discharge, or officer’s
+16 return of sale upon any mortgage. Reference to the volume and page of the
+17 record of the mortgage shall be made by the clerk upon the margin of the
+18 record of the return, as well as reference on the margin of the record of the
+19 mortgage to the volume and page of the record of the return. When requested,
+20 the clerk shall give a certified copy thereof of the records on payment of his or
+21 her fees as provided in 32 V.S.A. § 1671 and shall certify the time when the
+VT LEG #386384 v.1
+
+BILL AS INTRODUCED H.665
+2026 Page 17 of 39
+1 same is received and recorded. Mortgages or deeds of trust conveying both
+2 real and personal property shall be recorded only as real estate mortgages, but
+3 town clerks shall include in their indices of mortgages of personal property a
+4 reference to the record thereof of the mortgage of personal property. A copy of
+5 the personal mortgage, certified as a true and correct copy by the recording
+6 clerk, may be pasted or otherwise permanently attached in the record books,
+7 provided that space on the back of the sheet to be pasted is allowed for pasting,
+8 and when so done the same shall be deemed to be legally recorded, or if a
+9 person leaving the mortgage for record so desires, it shall be copied into the
+10 records at length by the town clerk.
+11 § 1158. ASSIGNMENT OR DISCHARGE OF MORTGAGE OR
+12 JUDGMENT LIEN
+13 An assignment or discharge of a mortgage or judgment lien shall be duly
+14 recorded in the land records of the town. A mortgage or judgment lien may be
+15 discharged by the mortgagee, judgment creditor, or assignee of such the
+16 mortgage or judgment lien in writing on the margin of the mortgage record or
+17 judgment lien notice. A satisfaction or assignment of the mortgage or
+18 judgment lien recorded elsewhere shall bear a marginal notation of the book
+19 and page of the mortgage or judgment lien record and a corresponding cross-
+20 reference shall be made on the margin of the mortgage or judgment lien notice
+21 record.
+VT LEG #386384 v.1
+
+BILL AS INTRODUCED H.665
+2026 Page 18 of 39
+1 § 1159. INDORSEMENT OF TIME OF RECEIVING INSTRUMENTS
+2 * * *
+3 (b) Within three days following the date an instrument is indorsed, the
+4 clerk shall enter index the name or names of the parties, the type of instrument,
+5 the date of the instrument, and the date and time of recording in a day book,
+6 printed index, or digital index that is open to public inspection. A town clerk
+7 may extend the time for entering indexing the information for good cause
+8 shown, including reasons related to illness or absence of the clerk.
+9 * * *
+10 § 1161. GENERAL INDEX
+11 (a)(1) A town clerk shall keep a general index of transactions affecting the
+12 title to real estate wherein he or she within which the clerk shall enter index in
+13 one column, in alphabetical order, the name of the grantor to the grantee and,
+14 in a parallel column, the name of the grantee from the grantor, of every deed,
+15 conveyance, mortgage, lease, or other instrument affecting the title to real
+16 estate, and each writ of attachment, notice of lien, or other instrument
+17 evidencing or giving notice of an encumbrance on real estate which is filed or
+18 recorded in the town clerk’s office, with the name of the book, volume, or
+19 other manner of recording and the page of record in the following form:
+20 * * *
+VT LEG #386384 v.1
+
+BILL AS INTRODUCED H.665
+2026 Page 19 of 39
+1 (b) For the purposes of this section, “transactions affecting title to real
+2 estate” shall include includes the instruments described in subsections 1154(a)
+3 and (b) of this title. Each owner of record title to the property at the time such
+4 an instrument is issued shall be listed as the grantor. The State of Vermont
+5 shall be listed as the grantee for instruments described in subdivisions
+6 1154(a)(4), (5), and (8) of this title. The municipality issuing the instrument
+7 shall be listed as the grantee for instruments described in subdivision
+8 1154(a)(6) of this title.
+9 * * *
+10 Sec. 24. 24 V.S.A. § 1461 is amended to read:
+11 § 1461. LOCATION OR ALTERATION OF MUNICIPAL LINES;
+12 MONUMENTS
+13 (a) When the legislative bodies of adjoining municipalities are able to agree
+14 as to the location of a municipal line, each legislative body shall vote in
+15 meetings duly warned for the purpose to adopt the location. Prior to the vote,
+16 each legislative body shall hold at least one public hearing duly warned for the
+17 purpose of informing the public of, and allowing public comment on, the
+18 location of the line. Following the meetings, the legislative bodies shall
+19 conduct a, or ratify an existing, survey of the municipal line and file certified
+20 copies of the minutes of the meetings, and the survey, and a list of property
+21 owners, the legal location of whose property is changed by the agreement, with
+VT LEG #386384 v.1
+
+BILL AS INTRODUCED H.665
+2026 Page 20 of 39
+1 the Secretary of State, the clerk of each of the municipalities, and the Vermont
+2 Enhanced 911 Board.
+3 (b) When the legislative bodies of adjoining municipalities are unable to
+4 agree as to the location of a municipal line, or in the absence of a clearly
+5 definable charter line, the legislative bodies shall sign a written agreement to
+6 submit to arbitration pursuant to 12 V.S.A. chapter 192.
+7 * * *
+8 (2) If an award of arbitration would result in an alteration of a municipal
+9 line, the award shall require that a survey be conducted of the municipal line
+10 and apportion the cost of the survey between or among the respective
+11 municipalities as deemed appropriate. Following the survey, one or more of
+12 the legislative bodies shall petition the General Assembly to adopt the
+13 alteration of the municipal line pursuant to the survey. Following enactment of
+14 legislation which alters a municipal line, the legislative bodies shall:
+15 (A) file the survey and a list of property owners, the legal location of
+16 whose property is changed by the award, with the Secretary of State, the clerk
+17 of each of the municipalities, and the Vermont Enhanced 911 Board; and
+18 (B) submit the survey and a list of property owners in each affected
+19 municipality, the legal location of whose property is changed by the award, to
+20 the town clerk for recording in the land records.
+VT LEG #386384 v.1
+
+BILL AS INTRODUCED H.665
+2026 Page 21 of 39
+1 (3) Each legislative body of the adjoining municipalities shall post a
+2 notice of the petition to the General Assembly that specifies the nature and
+3 extent of the proposed legislation in at least two public places and in the town
+4 clerk’s office at least three weeks prior to filing the petition.
+5 (c) When the legislative bodies of adjoining municipalities are able to agree
+6 as to the location of a municipal line and one or more of the legislative bodies
+7 believes that alteration of the existing line or the establishment of a new line is
+8 necessary, the legislative bodies shall conduct a survey of the new municipal
+9 line.
+10 (1) Following the completion of the survey, one or more of these
+11 legislative bodies shall petition the General Assembly to establish the location
+12 of the municipal line. Following the enactment of legislation which that
+13 ratifies the alteration of the municipal line, the legislative bodies shall:
+14 (A) file the survey and a list of property owners, the legal location of
+15 whose property is changed by the legislation, with the Secretary of State, the
+16 clerk of each of the municipalities, and the Vermont Enhanced 911 Board; and
+17 (B) submit the survey and a list of property owners in each affected
+18 municipality, the legal location of whose property is changed by the award, to
+19 the town clerk for recording in the land records.
+20 (2) Each legislative body of the adjoining municipalities shall post a
+21 notice of the petition to the General Assembly that specifies the nature and
+VT LEG #386384 v.1
+
+BILL AS INTRODUCED H.665
+2026 Page 22 of 39
+1 extent of the proposed legislation in at least two public places and in the town
+2 clerk’s office at least three weeks prior to filing the petition.
+3 * * *
+4 (g) Upon receipt of a list of property owners filed pursuant to subsection
+5 (a), (b), or (c) of this section, a municipal clerk shall file record the list in the
+6 land records of the municipality and shall place index in the grantee index of
+7 those records the names of property owners whose land or portion thereof of
+8 land has been added to the municipality and in the grantor index of those
+9 records the names of property owners whose land or portion thereof of land has
+10 been subtracted from the municipality.
+11 Sec. 25. 24 V.S.A. § 1981 is amended to read:
+12 § 1981. ENFORCEMENT OF ORDER FROM JUDICIAL BUREAU
+13 * * *
+14 (b) In addition to any other civil remedies available by law, a final
+15 judgment of the Judicial Bureau that has not been satisfied within 30 days
+16 shall, upon due recordation recording in the land records of the town in which
+17 any real or personal property of the defendant is located, constitute a lien upon
+18 that real or personal property, except for motor vehicles as defined by 23
+19 V.S.A. § 4(21), and may be enforced within the time and in the manner
+20 provided for the collection of taxes pursuant to 32 V.S.A. chapter 133,
+21 subchapter 8.
+VT LEG #386384 v.1
+
+BILL AS INTRODUCED H.665
+2026 Page 23 of 39
+1 * * *
+2 Sec. 26. 24 V.S.A. § 3262 is amended to read:
+3 § 3262. WRITTEN AGREEMENTS; CONSENT OF PROPERTY OWNERS;
+4 ENERGY SAVINGS ANALYSIS
+5 * * *
+6 (d) A written agreement or notice of such the agreement and the analysis
+7 performed pursuant to subsection (b) of this section shall be filed with
+8 submitted to the clerk of the applicable municipality for recording in the land
+9 records of that municipality and shall be disclosed to potential buyers prior to
+10 transfer of property ownership. Personal financial information provided to a
+11 municipality by a participating property owner or potential participating
+12 property owner shall not be subject to disclosure as set forth in 1 V.S.A.
+13 § 317(c)(7). If a notice of agreement is filed instead of the full written
+14 agreement, the notice shall attach the analysis performed pursuant to
+15 subsection (b) of this section and shall include at least each of the following:
+16 * * *
+17 Sec. 27. 24 V.S.A. § 3268 is amended to read:
+18 § 3268. RELEASE OF LIEN
+19 * * *
+VT LEG #386384 v.1
+
+BILL AS INTRODUCED H.665
+2026 Page 24 of 39
+1 (b) Notice of a release of a lien for an assessment under this subchapter
+2 shall be filed with submitted to the clerk of the applicable municipality for
+3 recording in the land records of that municipality.
+4 Sec. 28. 24 V.S.A. § 4423 is amended to read:
+5 § 4423. TRANSFER OF DEVELOPMENT RIGHTS
+6 * * *
+7 (c) The municipality shall maintain a map of areas from which
+8 development rights have been severed. Following issuance of a zoning permit
+9 under this section, the municipality shall effect all the following:
+10 (1) Ensure that the instruments transferring the conservation easements
+11 and the development rights are recorded in the land records.
+12 * * *
+13 (d) Failure to record an instrument in the land records or mark a map does
+14 not invalidate a transfer of development rights. Development rights transferred
+15 under this section shall be valid notwithstanding any subsequent failure to file
+16 a notice of claim under the Marketable Record Title Act.
+17 Sec. 29. 24 V.S.A. § 4449 is amended to read:
+18 § 4449. ZONING PERMIT, CERTIFICATE OF OCCUPANCY, AND
+19 MUNICIPAL LAND USE PERMIT
+20 * * *
+VT LEG #386384 v.1
+
+BILL AS INTRODUCED H.665
+2026 Page 25 of 39
+1 (c)(1) Within 30 days after a municipal land use permit has been issued or
+2 within 30 days of the issuance of any notice of violation, the appropriate
+3 municipal official shall:
+4 (A) deliver the original or a legible copy of the municipal land use
+5 permit or notice of violation or a notice of municipal land use permit generally
+6 in the form set forth in subsection 1154(c) of this title to the town clerk for
+7 recording in the land records as provided in subsection 1154(a) of this title; and
+8 * * *
+9 Sec. 30. 27 V.S.A. § 307 is amended to read:
+10 § 307. VENDOR’S LIENS
+11 The vendor of real estate shall not have a lien thereon for unpaid purchase
+12 money, except such lien as is created and evidenced by deed executed,
+13 acknowledged, and recorded in the land records as deeds of conveyance of real
+14 estate.
+15 Sec. 31. 27 V.S.A. § 308 is amended to read:
+16 § 308. MINES AND QUARRIES
+17 The grantee of a mine, quarry, or of the right of mining and quarrying, in
+18 severance from the ownership of the soil, within 30 days after its execution,
+19 shall cause his or her the grantee’s deed, lease, or other instrument to be
+20 recorded in a book kept for that purpose in the office where by law the land
+21 records in the same manner as a deed of the real estate is required to be
+VT LEG #386384 v.1
+
+BILL AS INTRODUCED H.665
+2026 Page 26 of 39
+1 recorded. A grantee failing to comply with the foregoing provision shall
+2 forfeit to the town, or in case such a mine, quarry, or right of mining or
+3 quarrying is situated in an unorganized town or gore, to the county, $50.00, to
+4 be recovered in an action on this statute.
+5 Sec. 32. 27 V.S.A. § 341 is amended to read:
+6 § 341. REQUIREMENTS GENERALLY; RECORDING
+7 (a) Deeds and other conveyances of lands, or of an estate or interest in land,
+8 shall be signed by the party granting the same and acknowledged by the
+9 grantor before a notary public and recorded at length in the land records in the
+10 clerk’s office of the town in which the lands lie. The acknowledgment before a
+11 notary public shall be valid without an official stamp being affixed to the
+12 notary’s signature.
+13 (b)(1) A deed or other conveyance of land that includes a reference to a
+14 survey prepared or revised after July 1, 1988, may be recorded in the land
+15 records only if it is accompanied by the survey to which it refers, or cites the
+16 volume and page in the land records showing where the survey has previously
+17 been recorded.
+18 * * *
+19 Sec. 33. 27 V.S.A. § 342 is amended to read:
+20 § 342. ACKNOWLEDGMENT AND RECORDING REQUIRED
+VT LEG #386384 v.1
+
+BILL AS INTRODUCED H.665
+2026 Page 27 of 39
+1 A deed of bargain and sale, a mortgage or other conveyance of land in fee
+2 simple or for term of life, or a lease for more than one year from the making
+3 thereof shall not be effectual to hold such lands against any person but the
+4 grantor and his or her the grantor’s heirs, unless the deed or other conveyance
+5 is acknowledged and recorded in the land records.
+6 Sec. 34. 27 V.S.A. § 350 is amended to read:
+7 § 350. CHANGE IN NAME OR STATUS OF OWNER OF REAL ESTATE
+8 Any person or corporation owning real estate or having an interest in real
+9 estate whose name has been changed, and any corporation that has been
+10 merged into or consolidated with another, may file with submit to the town
+11 clerk of the town in which the real estate is located a certificate giving the
+12 names before and after the change, merger, or consolidation, and the town
+13 clerk shall record in the land records and index in the general index the
+14 certificate in the land records.
+15 Sec. 35. 27 V.S.A. § 405 is amended to read:
+16 § 405. VENDOR TO RECORD TITLE ON REQUEST
+17 When a person sells and conveys lands, or an estate or interest in land, the
+18 person shall cause the person’s title deed to be recorded in the land records of
+19 the town clerk’s office of the town in which the property is situated within six
+20 months after request made in writing by a subsequent purchaser of the same
+21 lands or an estate or interest in the lands.
+VT LEG #386384 v.1
+
+BILL AS INTRODUCED H.665
+2026 Page 28 of 39
+1 Sec. 36. 27 V.S.A. § 408 is amended to read:
+2 § 408. RECORDING SUBORDINATION OF LIENS
+3 An agreement for the subordination of a prior lien or other encumbrance on
+4 real property shall be recorded in the land records of the town in which the
+5 property is situated, and a reference to the record of the subordination
+6 agreement shall be noted on the margin of the record of the instrument affected
+7 by the agreement. If not so recorded, the agreement shall bind only the parties
+8 to the agreement.
+9 Sec. 37. 27 V.S.A. § 410 is amended to read:
+10 § 410. LIEN PRIORITIES
+11 * * *
+12 (b) Lien priorities; future advances.
+13 * * *
+14 (4) A future advance made to protect collateral takes priority as of the
+15 date a mortgage is recorded in the land records, even though the mortgagee has
+16 received written notice of an intervening interest at the time the future advance
+17 is made.
+18 * * *
+19 Sec. 38. 27 V.S.A. § 461 is amended to read:
+20 § 461. BY ENTRY ON RECORD
+VT LEG #386384 v.1
+
+BILL AS INTRODUCED H.665
+2026 Page 29 of 39
+1 Mortgages may be discharged by an entry on the margin of the record
+2 thereof in the record of deeds recording in the land records of the town in
+3 which the property is situated, acknowledging satisfaction of the mortgage,
+4 signed by the mortgagee or by his or her the mortgagee’s executor,
+5 administrator, assignee, attorney at law, or attorney acting under a duly
+6 executed and recorded power of attorney, such signature to be witnessed by the
+7 town clerk or assistant town clerk having custody of such record. Such entry
+8 shall have the same effect as a deed of release acknowledged and recorded.
+9 Sec. 39. 27 V.S.A. § 462 is amended to read:
+10 § 462. BY ACKNOWLEDGMENT OF PAYMENT
+11 Mortgages may also be discharged by the mortgagee or by his or her the
+12 mortgagee’s executor, administrator, assignee, attorney at law, or attorney
+13 acting under a duly executed and recorded power of attorney, acknowledging
+14 payment thereof by an entry on the mortgage deed, signing the same in the
+15 presence of one or more witnesses, which entry, upon being recorded on the
+16 margin of the record of such mortgage in the record of deeds in the land
+17 records of the town in which the property in situated, shall discharge such
+18 mortgage and bar all actions brought thereon.
+19 Sec. 40. 27 V.S.A. § 463 is amended to read:
+20 § 463. BY SEPARATE INSTRUMENT
+VT LEG #386384 v.1
+
+BILL AS INTRODUCED H.665
+2026 Page 30 of 39
+1 (a) Mortgages may be discharged by an acknowledgment of satisfaction,
+2 executed by the mortgagee or his or her the mortgagee’s attorney, executor,
+3 administrator, or assigns, which shall be substantially in the following form:
+4 I hereby certify that the following described mortgage is paid in full and
+5 satisfied, viz: ______________ mortgagor to ______________ mortgagee,
+6 dated ______________ 20____, and recorded in book ______, page ______,
+7 of the land records of the town of __________________________________.
+8 (b) When such satisfaction is acknowledged before a notary public and
+9 recorded in the land records, it shall discharge such mortgage and bar actions
+10 brought thereon.
+11 Sec. 41. 27A V.S.A. § 2-104 is amended to read:
+12 § 2-104. DESCRIPTION OF UNITS
+13 A description of a unit that sets forth the name of the common interest
+14 community, the volume and page in which the declaration is recorded in the
+15 land records, the town in which the common interest community is located,
+16 and the identifying number of the unit is a legally sufficient description of that
+17 unit and all rights, obligations, and interests appurtenant to that unit that were
+18 created by the declaration or bylaws.
+19 Sec. 42. 29 V.S.A. § 563 is amended to read:
+20 § 563. ABANDONMENT OF OIL AND GAS INTERESTS;
+21 PRESERVATION
+VT LEG #386384 v.1
+
+BILL AS INTRODUCED H.665
+2026 Page 31 of 39
+1 * * *
+2 (f) The owner of an interest in oil or gas may file record a statement of
+3 interest in the land records of any municipality in which the land affected is
+4 located. The statement shall include a description of the land affected, the
+5 nature of the interest claimed, the book and page of recording of the original
+6 grant of the interest, and the name and address of the person claiming the
+7 interest.
+8 (g) The owner of the surface estate from which an oil and gas interest was
+9 severed may give notice of abandonment under this subsection. Notice shall
+10 contain the name of the record owner of the interest; a description of the land
+11 and the nature of the interest; the book and page of filing recording of the
+12 interest, if it is filed recorded; the name and address of the person giving
+13 notice; and a statement that the interest is presumed abandoned. The notice
+14 shall be published in a newspaper of general circulation in the town or towns
+15 where the land affected is located. If the address of the owner of the oil and
+16 gas interest is shown on record, a copy of the notice shall be mailed to that
+17 address by certified or registered mail within 10 days after the date of
+18 publication.
+19 (h) A copy of the notice under subsection (g) of this section, and an
+20 affidavit, may be filed recorded in the land records of the municipality in
+21 which the land is located. The affidavit shall state that the oil or gas interest
+VT LEG #386384 v.1
+
+BILL AS INTRODUCED H.665
+2026 Page 32 of 39
+1 has been abandoned under the criteria set forth in subsection (b) of this section,
+2 and that notice of abandonment has been given under the criteria set forth in
+3 subsection (g) of this section. After the notice and affidavit have been filed,
+4 unless a court finds to the contrary, the oil and gas interest shall be presumed
+5 abandoned, and the interest of the surface owner shall be presumed for all
+6 purposes free of encumbrance from that interest.
+7 Sec. 43. 30 V.S.A. § 51 is amended to read:
+8 § 51. RESIDENTIAL BUILDING ENERGY STANDARDS; STRETCH
+9 CODE
+10 * * *
+11 (f) Certification.
+12 (1) Issuance; recording. A certification may be issued by a builder, a
+13 licensed professional engineer, a licensed architect, or an accredited home
+14 energy rating organization. If certification is not issued by a licensed
+15 professional engineer, a licensed architect, or an accredited home energy rating
+16 organization, it shall be issued by the builder. Any certification shall certify
+17 that residential construction meets the RBES. The Department of Public
+18 Service will develop and make available to the public a certificate that lists key
+19 features of the RBES. Any person certifying shall use this certificate or one
+20 substantially like it to certify compliance with the RBES. Certification shall be
+21 issued by completing and signing a certificate and permanently affixing it to
+VT LEG #386384 v.1
+
+BILL AS INTRODUCED H.665
+2026 Page 33 of 39
+1 the outside of the heating or cooling equipment, to the electrical service panel
+2 located inside the building, or in a visible location in the vicinity of one of
+3 these three areas. The certificate shall certify that the residential building has
+4 been constructed in compliance with the requirements of the RBES. The
+5 person certifying under this subsection shall provide a copy of each certificate
+6 to the Department of Public Service and shall ensure that a certificate is
+7 recorded in the town land records and indexed in the town land records in the
+8 general index. A builder may contract with a licensed professional engineer, a
+9 licensed architect, or an accredited home energy rating organization to issue
+10 certification and to indemnify the builder from any liability to the owner of the
+11 residential construction caused by noncompliance with the RBES.
+12 * * *
+13 (g) Action for damages.
+14 * * *
+15 (2) A person’s failure to affix the certification as required by this section
+16 shall not be an affirmative defense in such an action against the person.
+17 * * *
+18 Sec. 44. 30 V.S.A. § 53 is amended to read:
+19 § 53. COMMERCIAL BUILDING ENERGY STANDARDS
+20 * * *
+VT LEG #386384 v.1
+
+BILL AS INTRODUCED H.665
+2026 Page 34 of 39
+1 (c) Revision and interpretation of energy standards. On or before January
+2 1, 2011, the Commissioner shall complete rulemaking to amend the
+3 commercial building energy standards to ensure that commercial building
+4 construction must be designed and constructed in a manner that complies with
+5 ANSI/ASHRAE/IESNA standard 90.1-2007 or the 2009 edition of the IECC,
+6 whichever provides the greatest level of energy savings. The Commissioner of
+7 Public Service shall amend and update the CBES by means of administrative
+8 rules adopted in accordance with 3 V.S.A. chapter 25. The Commissioner may
+9 direct the timely and appropriate revision of the CBES after the issuance of
+10 updated standards for commercial construction under the IECC or
+11 ASHRAE/ANSI/IESNA standard 90.1, whichever provides the greatest level
+12 of energy savings. Prior to final adoption of each required revision of the
+13 CBES, the Department of Public Service shall convene an Advisory
+14 Committee to include one or more mortgage lenders; builders; building
+15 designers; architects; civil, mechanical, and electrical engineers; utility
+16 representatives; and other persons with experience and expertise, such as
+17 consumer advocates and energy conservation experts. The Advisory
+18 Committee may provide the Commissioner of Public Service with additional
+19 recommendations for revision of the CBES.
+20 * * *
+VT LEG #386384 v.1
+
+BILL AS INTRODUCED H.665
+2026 Page 35 of 39
+1 (5) The Commissioner of Public Service may grant written variances or
+2 exemptions from the CBES or rules adopted under this section where strict
+3 compliance would entail practical difficulty or unnecessary hardship, or is
+4 otherwise found unwarranted, provided that:
+5 (A) Any such The variance or exemption shall be consistent with
+6 State energy policy, as specified in section 202a of this title.
+7 (B) Any petitioner for such a variance or exemption can demonstrate
+8 that the methods, means, or practices proposed to be taken in lieu of
+9 compliance with the rule or rules provide, in the opinion of the Commissioner,
+10 equal energy efficiency to that attained by compliance with the rule or rules.
+11 (C) A The petitioner shall submit a copy of any such the variance or
+12 exemption shall be recorded by the petitioner to the municipal clerk for
+13 recording in the land records of the city or town in which the building is
+14 located.
+15 * * *
+16 (d) Certification requirement.
+17 * * *
+18 (4) Provision of a certificate as required by subdivision (1) of this
+19 subsection and of a certificate as required by subdivision (2) of this subsection
+20 shall be conditions precedent to:
+21 * * *
+VT LEG #386384 v.1
+
+BILL AS INTRODUCED H.665
+2026 Page 36 of 39
+1 (B) issuance by a municipality of a certificate of occupancy for
+2 commercial construction commencing on or after July 1, 2013, if the
+3 municipality requires such a certificate under 24 V.S.A. chapter 117.
+4 * * *
+5 Sec. 45. 32 V.S.A. § 1671 is amended to read:
+6 § 1671. TOWN CLERK
+7 (a) For the purposes of this section, a “page” is defined as a single side of a
+8 leaf of paper on which is printed, written, or otherwise placed information to
+9 be recorded or filed. The maximum covered area on a page shall be 7 1/2
+10 inches by 14 inches. All letters shall be at least one-sixteenth inch in height or
+11 in at least eight-point type. Unless otherwise provided by law, the fees to town
+12 clerks shall be as follows:
+13 * * *
+14 (2) For filing or recording a copy of a complaint to foreclose a mortgage
+15 as provided in 12 V.S.A. § 4932(b), $15.00 per page.
+16 * * *
+17 (8) For survey plats filed recorded in accordance with 27 V.S.A. chapter
+18 17, a fee of $25.00 per 11 inch by 17 inch 11-inch-by-17-inch sheet, $25.00
+19 per 18 inch by 24 inch 18-inch-by-24-inch sheet, and $25.00 per 24 inch by 36
+20 inch 24-inch-by-36-inch sheet shall be charged.
+21 * * *
+VT LEG #386384 v.1
+
+BILL AS INTRODUCED H.665
+2026 Page 37 of 39
+1 Sec. 46. 32 V.S.A. § 5255 is amended to read:
+2 § 5255. REPORT OF SALE; FORM
+3 Within 30 days after such sale of the land, the collector shall make a
+4 complete return of his or her the collector’s doings and file submit the same for
+5 record recording in the land records in the town clerk’s office of the town
+6 wherein such land lies, which return shall be prima facie evidence of the facts
+7 therein stated and shall be substantially in the following form:
+8 By virtue of a warrant (or warrants as the case may be) lawfully committed to
+9 me for the year(s) 20__________ by the treasurer of the town of
+10 __________________ (or by the selectboard of the town of
+11 ________________ if the town has voted to collect its taxes by its collector
+12 and the tax bill annexed thereto) and the delinquent tax bill annexed thereto, I
+13 gave notice as required by law to the taxpayers of the town of
+14 ________________ of the place where and the time when I would receive such
+15 taxes, and said taxpayers having failed and neglected to pay their said taxes
+16 upon such demand, on the ____ day of ________ 20____, I did extend and
+17 levy my said warrant(s) in the manner provided by law upon the following
+18 described land(s) of the following named delinquent taxpayer situated within
+19 the town, for the following described taxes due thereon, to wit:
+20 Name of Delinquent Taxpayer Description of Land Amount of Tax
+21 And on the ____ day of ________, 20____, I did cause notice of the time and
+VT LEG #386384 v.1
+
+BILL AS INTRODUCED H.665
+2026 Page 38 of 39
+1 place of sale of the above described land(s) to be published three weeks
+2 successively in ________________ a ________ newspaper circulating in the
+3 town of ______ and vicinity, for the issues of ________, which said notice of
+4 sale therein provided that the same would be holden at __________________,
+5 a public place in the town of __________ at ____ o’clock in the ________
+6 noon, unless said land(s) was previously redeemed by the payment of said tax,
+7 and on the ____day of ________, 20____, I gave the delinquent taxpayer ____
+8 notice by registered mail of the time and place of such sale, and on the same
+9 date posted at ____, a public place in said town, notice of the time and place of
+10 such sale (also here insert facts as to the mortgagee, if any).
+11 And he or she (or they) having failed and neglected to pay said taxes and costs,
+12 at _____________ (place of sale) on the ____ day of ________, 20____ at
+13 ____ o’clock in the ________ noon, the time and place set by me for said sale,
+14 pursuant to the notice thereof, I did sell so much of said land(s) as was
+15 necessary to satisfy the tax and costs thereon to
+16 ____________________________________ of _____________, for cash in
+17 the sum of __________, he or she being the highest bidder therefor, the land
+18 and premises thus sold being particularly described as follows (here describe
+19 the lands).
+20 From the proceeds of said sale, I did satisfy myself for my own fees and the
+21 legal costs of said sale amounting in the whole to the sum of _____________,
+VT LEG #386384 v.1
+
+BILL AS INTRODUCED H.665
+2026 Page 39 of 39
+1 and on the ____ day of ________, 20____, turned over to
+2 ______________________________ the treasurer of said town of
+3 __________________, the sum of ________________ in (part) satisfaction of
+4 the taxes due said town on said premises thus sold.
+5 And now at __________________ in said County, this ____ day of ________,
+6 20____, I make return of my doings hereunder by filing the same as herein set
+7 forth with the town clerk of the town of_______________________________
+8 for record as provided by law.
+9 Attest,
+10
+11 _________________________________
+12 Collector of Town Taxes.
+13 Sec. 47. 32 V.S.A. § 5262 is amended to read:
+14 § 5262. RECORDING LANDS NOT REDEEMED
+15 Within 30 days from the expiration of the time for redemption, the collector
+16 shall deposit submit with the town clerk for record recording in the land
+17 records a list of the lands that have not been redeemed, but a failure to comply
+18 with this provision shall not affect the title of the purchaser.
+19 Sec. 48. EFFECTIVE DATE
+20 This act shall take effect on passage.
+VT LEG #386384 v.1

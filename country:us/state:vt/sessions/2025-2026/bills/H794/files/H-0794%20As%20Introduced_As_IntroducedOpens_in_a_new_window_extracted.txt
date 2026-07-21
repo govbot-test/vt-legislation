@@ -1,0 +1,341 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.794
+2026 Page 1 of 14
+1 H.794
+2 Introduced by Representatives Logan of Burlington, Cina of Burlington, and
+3 Tomlinson of Winooski
+4 Referred to Committee on
+5 Date:
+6 Subject: Taxation; income tax; income tax surcharge; wealth proceeds tax; net
+7 investment tax; education property tax; property valuation; tax
+8 classifications; School Construction Aid Special Fund
+9 Statement of purpose of bill as introduced: This bill proposes to create a
+10 personal income tax surcharge imposed on taxpayers with more than
+11 $250,000.00 of AGI; create a wealth proceeds tax imposed on individuals,
+12 estates, and trusts with taxable income over certain thresholds; and create a
+13 property tax classification for nonhomestead residential properties with a tax
+14 rate that is double the rate paid by homestead taxpayers. It further creates the
+15 School Construction Aid Special Fund.
+16 An act relating to increasing taxes on higher income earners and creating
+17 the School Construction Aid Special Fund
+18 It is hereby enacted by the General Assembly of the State of Vermont:
+19 Sec. 1. SHORT TITLE
+VT LEG #386125 v.1
+
+BILL AS INTRODUCED H.794
+2026 Page 2 of 14
+1 This act shall be known and may be cited as the “Preserving Revenue for
+2 State Programs and Economic Resiliency Act.”
+3 Sec. 2. 32 V.S.A. § 5822a is added to read:
+4 § 5822a. PERSONAL INCOME TAX SURCHARGE
+5 (a) There shall be a surcharge applied to the federal adjusted gross income
+6 of individuals with federal adjusted gross income equal to or greater than
+7 $250,000.00. The surcharge shall be at a rate of two percent of the adjusted
+8 gross income exceeding $250,000.00. The surcharge shall be in addition to
+9 any tax assessed under this chapter and shall be paid, collected, and enforced in
+10 the same manner as the tax assessed under section 5822 of this title.
+11 (b) There shall be an additional surcharge applied to the federal adjusted
+12 gross income of individuals with federal adjusted gross income equal to or
+13 greater than $500,000.00. The surcharge shall be at a rate of six percent of the
+14 adjusted gross income exceeding $500,000.00. The surcharge shall be in
+15 addition to any tax assessed under this chapter and shall be paid, collected, and
+16 enforced in the same manner as the tax assessed under section 5822 of this
+17 title.
+18 (c) The surcharges imposed under this section shall be applied to
+19 individuals without regard for filing status.
+20 (d) Annually, the Commissioner of Taxes shall use the process required
+21 under subdivision 5822(b)(2) of this title to adjust for inflation the minimum
+VT LEG #386125 v.1
+
+BILL AS INTRODUCED H.794
+2026 Page 3 of 14
+1 amount of federal adjusted gross income necessary for an individual to incur a
+2 surcharge under this section.
+3 Sec. 3. 32 V.S.A. chapter 149 is added to read:
+4 CHAPTER 149. WEALTH PROCEEDS TAX
+5 § 5701. DEFINITIONS
+6 As used in this chapter:
+7 (1) “Federal modified adjusted gross income” means modified adjusted
+8 gross income as defined in 26 U.S.C. § 1411(d).
+9 (2) “Incomplete gift nongrantor trust” means a resident trust that meets
+10 the following conditions:
+11 (A) the trust does not qualify as a grantor trust under 26 U.S.C.
+12 §§ 671–679; and
+13 (B) the grantor’s transfer of assets to the trust is treated as an
+14 incomplete gift under 26 U.S.C. § 2511.
+15 (3) “Taxable income” has the same meaning as in subdivision 5811(21)
+16 of this title.
+17 (4) “Taxable year” has the same meaning as in subdivision 5811(16) of
+18 this title.
+19 (5) “Threshold amount” has the same meaning as in 26 U.S.C.
+20 § 1411(b).
+VT LEG #386125 v.1
+
+BILL AS INTRODUCED H.794
+2026 Page 4 of 14
+1 (6) “Wealth proceeds” has the same meaning as net investment income
+2 in 26 U.S.C. § 1411(c) as adjusted by section 5702 of this chapter.
+3 § 5702. DETERMINATION OF WEALTH PROCEEDS
+4 The wealth proceeds of an individual, estate, or trust means net investment
+5 income, as defined in 26 U.S.C. § 1411(c), and:
+6 (1) increased by the following to the extent they are excluded from net
+7 investment income:
+8 (A) income from state and local obligations outside Vermont;
+9 (B) net gain excluded under 26 U.S.C. § 1202;
+10 (C) net gain excluded under 26 U.S.C. § 1400Z-2;
+11 (D) net gain attributable to disposition of property held in trade or
+12 business not described under 26 U.S.C. § 1411(c)(2);
+13 (E) net gain described under the exception in 26 U.S.C. § 1411(c)(4);
+14 (F) net gain excluded under 26 U.S.C. § 1411(c)(5), provided it is
+15 attributable to net unrealized appreciation within the meaning of 26 U.S.C.
+16 § 402(e)(4); and
+17 (G) for a taxpayer who transferred property to an incomplete gift
+18 nongrantor trust, any amounts recognized as wealth proceeds under this section
+19 held by the trust, but reduced by any deductions of the trust, to the extent the
+20 wealth proceeds and deductions of the trust would be taken into account in
+VT LEG #386125 v.1
+
+BILL AS INTRODUCED H.794
+2026 Page 5 of 14
+1 computing the taxpayer’s federal taxable income if the trust in its entirety were
+2 treated as a grantor trust for federal tax purposes; and
+3 (2) decreased by the following to the extent they are included in net
+4 investment income:
+5 (A) income from U.S. government obligations; and
+6 (B) any amount exempted from state taxation under the laws of the
+7 United States.
+8 § 5703. IMPOSITION OF WEALTH PROCEEDS TAX
+9 (a) A wealth proceeds tax is imposed for each taxable year on individuals,
+10 estates, and trusts subject to personal income tax pursuant to chapter 151 of
+11 this title as follows:
+12 (1) individuals filing as single or head of household with taxable income
+13 exceeding $200,000.00;
+14 (2) married individuals filing jointly with taxable income exceeding
+15 $250,000.00;
+16 (3) individuals filing as married filing separately with taxable income
+17 exceeding $125,000.00; and
+18 (4) estates and trusts with taxable income exceeding $15,200.00.
+19 (b) The tax imposed under this section shall be in addition to any other tax
+20 imposed under this title.
+VT LEG #386125 v.1
+
+BILL AS INTRODUCED H.794
+2026 Page 6 of 14
+1 (c) Tax is imposed at the rate of four percent of the lesser of:
+2 (1) wealth proceeds for the taxable year; or
+3 (2) federal modified adjusted gross income for the taxable year, reduced
+4 by the threshold amount.
+5 (d) For part-year and nonresident individuals, estates, and trusts, the tax
+6 imposed by this section shall be calculated by multiplying a taxpayer’s total
+7 amount of wealth proceeds for the taxable year by the percentage of wealth
+8 proceeds allocable to Vermont under section 5823 of this title.
+9 § 5704. ADMINISTRATION
+10 The tax imposed under this chapter shall be administered and enforced
+11 under this chapter in the same manner as the income tax imposed under section
+12 5822 of this chapter, including all provisions relating to deficiencies,
+13 assessments, refunds, appeals, enforcement, and collection under chapter 151,
+14 subchapters 8 and 9 of this title.
+15 Sec. 4. 32 V.S.A. § 4152a is added to read:
+16 § 4152a. PROPERTY TAX CLASSIFICATIONS
+17 (a) The grand list of a town shall include one or more tax classifications for
+18 each parcel of real estate. A parcel shall be classified using one of the general
+19 classes of real estate listed under subsection (b) of this section and based on the
+20 considerations set forth in this section and by guidance provided by the
+21 Division of Property Valuation and Review. The listers and assessors shall
+VT LEG #386125 v.1
+
+BILL AS INTRODUCED H.794
+2026 Page 7 of 14
+1 annually update the grand list to include a tax classification not later than June
+2 1 of every year, using information submitted to the Department of Taxes
+3 pursuant to this section. The tax classification may be updated after June 1
+4 when a taxpayer files a, or corrects an erroneously filed, homestead declaration
+5 after June 1.
+6 (b) A parcel shall be assigned one or more of the following general classes:
+7 (1) homestead;
+8 (2) nonhomestead nonresidential;
+9 (3) nonhomestead residential; and
+10 (4) nonhomestead seasonal.
+11 (c) As used in this section:
+12 (1) “Homestead” means a parcel, or portion of a parcel, declared as a
+13 homestead on or before October 15 in accordance with section 5410 of this
+14 title for the current year.
+15 (2) “Nonhomestead nonresidential” means a parcel, or portion of a
+16 parcel, that does not qualify as homestead or nonhomestead residential under
+17 this section.
+18 (3) “Nonhomestead residential” means a parcel, or portion of a parcel,
+19 for which a homestead was not declared in accordance with section 5410 of
+20 this title for the current year and that has a residential property, as defined by
+21 the Commissioner by rule.
+VT LEG #386125 v.1
+
+BILL AS INTRODUCED H.794
+2026 Page 8 of 14
+1 (4) “Nonhomestead seasonal” means a parcel, or portion of a parcel, that
+2 would qualify as nonhomestead residential, except the parcel has no residential
+3 property fit for habitation on a year-round basis. The Commissioner shall
+4 adopt rules further defining residential property fit for habitation on a year-
+5 round basis.
+6 (d) A parcel with two or more portions qualifying for different tax
+7 classifications under this section shall be classified proportionally based on the
+8 percentage of floor space used.
+9 (1) In the case of a homestead with 25 percent or less of floor space used
+10 for a business purpose, the parcel shall be classified as a homestead pursuant to
+11 subdivision 5401(7)(F) of this title.
+12 (2) If a portion of floor space is used for more than one purpose, the use
+13 for which the floor space is most often used shall be considered the primary
+14 use, and the floor space shall be dedicated to that use for purposes of tax
+15 classification.
+16 (e) The Commissioner shall amend existing forms, and publish new forms,
+17 as needed to gather the necessary attestations and declarations required under
+18 this section.
+19 (f) Nothing in this section shall be construed to alter the tax treatment or
+20 enrollment eligibility of property as it relates to use value appraisal under
+21 chapter 124 of this title.
+VT LEG #386125 v.1
+
+BILL AS INTRODUCED H.794
+2026 Page 9 of 14
+1 (g) Persons aggrieved by a decision to classify property for taxation
+2 purposes under this section may appeal in the manner provided for property
+3 valuation appeals under this title.
+4 Sec. 5. 32 V.S.A. § 4152 is amended to read:
+5 § 4152. CONTENTS
+6 (a) When completed, the grand list of a town shall be in such form as the
+7 Director prescribes and shall contain such information as the Director
+8 prescribes, including:
+9 (1) In alphabetical order, the name of each real property owner and each
+10 owner of taxable personal property.
+11 (2) The last known mailing address of all such owners.
+12 (3) A brief description of each parcel of taxable real estate in the town,
+13 including a classification assigned pursuant to section 4152a of this title.
+14 “Parcel” As used in this subdivision, “parcel” means a separate and sellable lot
+15 or piece of real estate. Parcels may be combined to represent all contiguous
+16 land in the same ownership, together with all improvements thereon.
+17 * * *
+18 Sec. 6. 32 V.S.A. § 5402 is amended to read:
+19 § 5402. EDUCATION PROPERTY TAX LIABILITY
+20 (a) A statewide education tax is imposed on all nonhomestead and
+21 homestead property at the following rates:
+VT LEG #386125 v.1
+
+BILL AS INTRODUCED H.794
+2026 Page 10 of 14
+1 (1) The tax rate for nonhomestead nonresidential and nonhomestead
+2 seasonal property shall be $1.59 per $100.00 divided by the statewide
+3 adjustment.
+4 (2) The tax rate for homestead property shall be $1.00 multiplied by the
+5 education property tax spending adjustment for the municipality per $100.00 of
+6 equalized education property value as most recently determined under section
+7 5405 of this title. The homestead property tax rate for each municipality that is
+8 a member of a union or unified union school district shall be calculated as
+9 required under subsection (e) of this section.
+10 (3) The tax rate for nonhomestead residential property shall be $2.00
+11 multiplied by the education property tax spending adjustment for the
+12 municipality per $100.00 of equalized education property value as most
+13 recently determined under section 5405 of this title. The Commissioner of
+14 Taxes shall determine a nonhomestead residential education tax rate for each
+15 municipality that is a member of a union or unified union school district using
+16 the same process as is used for homesteads under subsection (e) of this section.
+17 Nonhomestead residential property shall use the same property dollar
+18 equivalent yield as homesteads in the same municipality.
+19 * * *
+VT LEG #386125 v.1
+
+BILL AS INTRODUCED H.794
+2026 Page 11 of 14
+1 Sec. 7. 32 V.S.A. § 5402b is amended to read:
+2 § 5402b. STATEWIDE EDUCATION TAX YIELDS;
+3 RECOMMENDATION OF THE COMMISSIONER
+4 (a) Annually, not later than December 1, the Commissioner of Taxes, after
+5 consultation with the Secretary of Education, the Secretary of Administration,
+6 and the Joint Fiscal Office, shall calculate and recommend a property dollar
+7 equivalent yield, an income dollar equivalent yield, and a nonhomestead
+8 property tax rate for the following fiscal year. In making these calculations,
+9 the Commissioner shall assume:
+10 * * *
+11 (4) the percentage change in the average education tax bill applied to
+12 nonhomestead nonresidential property and, the percentage change in the
+13 average education tax bill applied to nonhomestead seasonal property, the
+14 percentage change in the average education tax bill applied to nonhomestead
+15 residential property, the percentage change in the average education tax bill of
+16 homestead property, and the percentage change in the average education tax
+17 bill for taxpayers who claim a credit under subsection 6066(a) of this title are
+18 equal;
+19 * * *
+VT LEG #386125 v.1
+
+BILL AS INTRODUCED H.794
+2026 Page 12 of 14
+1 Sec. 8. 16 V.S.A. § 3444 is added to read:
+2 § 3444. SCHOOL CONSTRUCTION AID SPECIAL FUND
+3 (a) Creation. There is created the School Construction Aid Special Fund,
+4 to be administered by the Agency of Education. Monies in the Fund shall be
+5 used for the purposes of:
+6 (1) awarding aid to school construction projects under section 3448 of
+7 this title;
+8 (2) awarding grants through the Facilities Master Plan Grant Program
+9 established in section 3441 of this title;
+10 (3) funding administrative costs of the State Aid for Capital
+11 Construction Costs program; and
+12 (4) awarding emergency aid under section 3448 of this title.
+13 (b) Funds. The Fund shall consist of:
+14 (1) half of the revenue generated by education property tax imposed on
+15 nonhomestead residential properties;
+16 (2) any amounts transferred or appropriated to it by the General
+17 Assembly; and
+18 (3) any interest earned by the Fund.
+19 (c) Wage Requirements. A contract awarded for construction that is paid
+20 for with aid or grant from the Fund shall adhere to the higher of:
+VT LEG #386125 v.1
+
+BILL AS INTRODUCED H.794
+2026 Page 13 of 14
+1 (1) the prevailing wage requirements established for State construction
+2 projects under 29 V.S.A. § 161(b); or
+3 (2) the prevailing local wage requirements as determined by the U.S.
+4 Department of Labor under the Davis-Bacon Act, related federal acts, and
+5 related regulations.
+6 Sec. 9. INTENT; USE OF REVENUE
+7 It is the intent of the General Assembly that the revenue generated by the
+8 income tax surcharge under 32 V.S.A. § 5822a and the wealth proceeds tax
+9 imposed under 32 V.S.A. § 5703 be reserved for the implementation of Green
+10 Mountain Care pursuant to 33 V.S.A. chapter 18, subchapter 2 in satisfaction
+11 of the financing requirements set forth in 33 V.S.A. § 1822(a)(2).
+12 Sec. 10. PROPERTY TAX CLASSIFICATIONS; TRANSITION; DATA
+13 COLLECTION
+14 (a) For calendar year 2027, the Commissioner of Taxes shall amend and
+15 create forms so that taxpayers report information on the use of their property
+16 for such property to be classified as homestead, nonhomestead residential,
+17 nonhomestead nonresidential, nonhomestead seasonal, or a proportional
+18 classification of those uses. The information collected, and classifications
+19 determined, shall align with the definitions and requirements of Sec. 4 of this
+20 act. The Commissioner shall use the information to determine and assign a tax
+VT LEG #386125 v.1
+
+BILL AS INTRODUCED H.794
+2026 Page 14 of 14
+1 classification for every grand list parcel and, on or before October 1, 2027, the
+2 Commissioner shall provide that information to the Joint Fiscal Office.
+3 (b) On or before August 1, 2027, the Commissioner of Taxes shall publish
+4 guidance that interprets and explains the statutory definitions from Sec. 4 of
+5 this act, which shall serve as the Department’s official interpretation until the
+6 Commissioner adopts rules relating to the property classification system
+7 created by this act.
+8 Sec. 11. EFFECTIVE DATES
+9 (a) This section, Sec. 1 (short title), Sec. 9 (intent), and Sec. 10 (transition
+10 provisions) shall take effect on passage.
+11 (b) Notwithstanding 1 V.S.A. § 214, Sec. 2 (income tax surcharge) shall
+12 take effect retroactively on January 1, 2026, and apply to taxable years
+13 beginning on and after January 1, 2026.
+14 (c) Sec. 3 (wealth proceeds tax) shall take effect on January 1, 2027.
+15 (d) Secs. 4–8 (new property tax classifications and rates) shall take effect
+16 on January 1, 2028.
+VT LEG #386125 v.1

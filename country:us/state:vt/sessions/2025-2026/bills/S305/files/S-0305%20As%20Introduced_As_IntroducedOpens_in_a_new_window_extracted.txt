@@ -1,0 +1,663 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED S.305
+2026 Page 1 of 27
+1 S.305
+2 Introduced by Senators Ram Hinsdale, Brennan, Chittenden, Weeks and
+3 Westman
+4 Referred to Committee on
+5 Date:
+6 Subject: Conservation and development; housing; land use; Act 250;
+7 municipal zoning; appeals; manufactured housing; Tier 1B; credit
+8 score; common interest communities; Agency of Natural Resources;
+9 permitting; CHIP
+10 Statement of purpose of bill as introduced: This bill proposes to make multiple
+11 changes related to land use and housing.
+12 An act relating to housing and land use
+13 It is hereby enacted by the General Assembly of the State of Vermont:
+14 * * * Municipal Zoning * * *
+15 Sec. 1. 24 V.S.A. § 4412 is amended to read:
+16 § 4412. REQUIRED PROVISIONS AND PROHIBITED EFFECTS
+17 Notwithstanding any existing bylaw, the following land development
+18 provisions shall apply in every municipality:
+19 (1) Equal treatment of housing and required provisions for affordable
+20 housing.
+VT LEG #385810 v.3
+
+BILL AS INTRODUCED S.305
+2026 Page 2 of 27
+1 * * *
+2 (B) Except as provided in subdivisions 4414(1)(E) and (F) of this
+3 title, no bylaw shall have the effect of excluding mobile homes, modular
+4 housing, or prefabricated housing from any district that allows year-round
+5 residential development in the municipality, except upon the same terms and
+6 conditions as conventional housing is excluded. A municipality may establish
+7 specific site standards in the bylaws to regulate individual sites within
+8 preexisting mobile home parks with regard to distances between structures and
+9 other standards as necessary to ensure public health, safety, and welfare,
+10 provided the standards do not have the effect of prohibiting the replacement of
+11 mobile homes on existing lots.
+12 * * *
+13 (E) Except for flood hazard and fluvial erosion area bylaws adopted
+14 pursuant to section 4424 of this title, no bylaw shall have the effect of
+15 excluding as a permitted use one accessory dwelling unit that is located within
+16 or appurtenant to a single-family dwelling on an owner-occupied lot. A bylaw
+17 shall require a single-family dwelling with an accessory dwelling unit to be
+18 subject to the same review, dimensional, or other controls as required for a
+19 single-family dwelling without an accessory dwelling unit. The criteria for
+20 conversion of an existing detached nonresidential building to habitable space
+VT LEG #385810 v.3
+
+BILL AS INTRODUCED S.305
+2026 Page 3 of 27
+1 for an accessory dwelling unit shall not be more restrictive than the criteria
+2 used for a single-family dwelling without an accessory dwelling unit.
+3 * * *
+4 Sec. 2. 24 V.S.A. § 4303 is amended to read:
+5 § 4303. DEFINITIONS
+6 The following definitions shall apply throughout this chapter unless the
+7 context otherwise requires:
+8 * * *
+9 (42)(A) An area “served by municipal sewer and water infrastructure”
+10 means an area within one-quarter mile of a road with water and sewer lines
+11 where there is capacity or capacity is being added imminently to accommodate
+12 housing or:
+13 (i) an area where residential connections and expansions are
+14 available to municipal water and direct and indirect discharge wastewater
+15 systems and not prohibited by:
+16 (I) State regulations or permits;
+17 (II) identified capacity constraints; or
+18 (III) municipally adopted service and capacity agreements; or
+19 (ii) an area established by the municipality by ordinance or bylaw
+20 where residential connections and expansions are available to municipal water
+21 and direct and indirect discharge wastewater systems and which may exclude:
+VT LEG #385810 v.3
+
+BILL AS INTRODUCED S.305
+2026 Page 4 of 27
+1 (I) flood hazard or inundation areas as established by statute,
+2 river corridors or fluvial erosion areas as established by statute, shorelands,
+3 areas within a zoning district or overlay district the purpose of which is natural
+4 resource protection, and wherever year-round residential development is not
+5 allowed;
+6 (II) areas with identified service limits established by State
+7 regulations or permits, identified capacity constraints, or municipally adopted
+8 service and capacity agreements;
+9 (III) areas served by sewer and water to address an identified
+10 community-scale public health hazard or environmental hazard;
+11 (IV) areas serving a mobile home park that is not within an area
+12 planned for year-round residential growth;
+13 (V) areas serving an industrial site or park;
+14 (VI) areas where service lines are located to serve the areas
+15 described in subdivisions (III)–(V) of this subdivision (ii), but no connections
+16 or expansions are permitted; or
+17 (VII) areas that, through an approved Planned Unit
+18 Development under section 4417 of this title or Transfer of Development
+19 Rights under section 4423 of this title, prohibit year-round residential
+20 development.
+VT LEG #385810 v.3
+
+BILL AS INTRODUCED S.305
+2026 Page 5 of 27
+1 (B) Municipally adopted areas served by municipal sewer and water
+2 infrastructure that limit sewer and water connections and expansions shall not
+3 result in the unequal treatment of housing by discriminating against a year-
+4 round residential use or housing type otherwise allowed in this chapter.
+5 Sec. 3. 24 V.S.A. § 4412a is added to read:
+6 § 4412a. UNION LABOR
+7 Any residential housing construction that uses union labor for construction
+8 may exceed a density bonus in a zoning bylaw by an additional 20 percent.
+9 * * * Zoning Appeals * * *
+10 Sec. 4. 24 V.S.A. § 4471 is amended to read:
+11 § 4471. APPEAL TO ENVIRONMENTAL DIVISION
+12 (a) Participation required. A n interested person who has participated in a
+13 municipal regulatory proceeding authorized under this title may appeal a
+14 decision rendered in that proceeding by an appropriate municipal panel to the
+15 Environmental Division. Participation in a local regulatory proceeding shall
+16 consist of offering, through oral or written testimony, evidence or a statement
+17 of concern related to the subject of the proceeding. An appeal from a decision
+18 of the appropriate municipal panel, or from a decision of the municipal
+19 legislative body under subsection 4415(d) of this title, shall be taken in such
+20 manner as the Supreme Court may by rule provide for appeals from State
+21 agencies governed by 3 V.S.A. §§ 801-816, unless the decision is an
+VT LEG #385810 v.3
+
+BILL AS INTRODUCED S.305
+2026 Page 6 of 27
+1 appropriate municipal panel decision which the municipality has elected to be
+2 subject to review on the record. [Repealed.]
+3 (b) Appeal on the record. If the municipal legislative body has determined
+4 (or been instructed by the voters) to provide that appeals of certain appropriate
+5 municipal panel determinations shall be on the record, has defined what
+6 magnitude or nature of development proposal shall be subject to the production
+7 of an adequate record by the panel, and has provided that the Municipal
+8 Administrative Procedure Act shall apply in these instances, then an appeal
+9 from such a decision of an appropriate municipal panel shall be taken on the
+10 record in accordance with the Vermont Rules of Civil Procedure. [Repealed.]
+11 (c) Notice. Notice of the appeal shall be filed by certified mailing, with
+12 fees, to the Environmental Division and by mailing a copy to the municipal
+13 clerk or the administrative officer, if so designated, who shall supply a list of
+14 interested persons to the appellant within five working days. Upon receipt of
+15 the list of interested persons, the appellant shall, by certified mail, provide a
+16 copy of the notice of appeal to every interested person, and, if any one or more
+17 of those persons are not then parties to the appeal, upon motion they shall be
+18 granted leave by the Division to intervene. [Repealed.]
+19 * * *
+20 Sec. 5. 24 V.S.A. § 4472 is amended to read:
+21 § 4472. EXCLUSIVITY OF REMEDY; FINALITY
+VT LEG #385810 v.3
+
+BILL AS INTRODUCED S.305
+2026 Page 7 of 27
+1 (a) Except as provided in subsections (b) and (c) of this section, the
+2 exclusive remedy of an interested person with respect to There shall be no
+3 appeal of any decision or act taken, or any failure to act, under this chapter or
+4 with respect to any one or more of the provisions of any plan or bylaw shall be
+5 the appeal to the appropriate panel under section 4465 of this title, and the
+6 appeal to the Environmental Division from an adverse decision upon such
+7 appeal under section 4471 of this title. The appeal to the Environmental
+8 Division, if not on the record, as allowed under section 4471 of this title, shall
+9 be governed by the Vermont Rules of Civil Procedure and such interested
+10 person shall be entitled to a de novo trial in the Environmental Division. If the
+11 appeal to the Environmental Division is on the record, according to the
+12 provisions of section 4471 of this title, it shall be governed by the Vermont
+13 Rules of Civil Procedure. Whether proceeding on the record or de novo, the
+14 court shall have and may exercise all powers and authorities of a Superior
+15 Court. There shall be no appeal of an act or decision under this chapter related
+16 to a permit application for a project that has been approved by a vote by the
+17 municipality.
+18 * * *
+19 Sec. 6. 10 V.S.A. § 8503 is amended to read:
+20 § 8503. APPLICABILITY
+21 * * *
+VT LEG #385810 v.3
+
+BILL AS INTRODUCED S.305
+2026 Page 8 of 27
+1 (c) This chapter shall govern all appeals arising under 24 V.S.A. chapter
+2 117, the planning and zoning chapter. [Repealed.]
+3 * * *
+4 Sec. 7. 10 V.S.A. § 8504 is amended to read:
+5 § 8504. APPEALS TO THE ENVIRONMENTAL DIVISION
+6 * * *
+7 (b) Planning and zoning chapter appeals.
+8 (1) Within 30 days of the date of the act or decision, an interested person,
+9 as defined in 24 V.S.A. § 4465, who has participated as defined in 24 V.S.A. §
+10 4471 in the municipal regulatory proceeding under that chapter may appeal to
+11 the Environmental Division an act or decision made under that chapter by a
+12 board of adjustment, a planning commission, or a development review board;
+13 provided, however, that decisions of a development review board under 24
+14 V.S.A. § 4420 with respect to local Act 250 review of municipal impacts are
+15 not subject to appeal but shall serve as presumptions under chapter 151 of this
+16 title.
+17 (2) Notwithstanding subdivision (1) of this subsection, an interested
+18 person may appeal an act or decision under 24 V.S.A. chapter 117 if the
+19 Environmental judge determines that:
+20 (A) there was a procedural defect that prevented the person from
+21 obtaining interested person status or participating in the proceeding;
+VT LEG #385810 v.3
+
+BILL AS INTRODUCED S.305
+2026 Page 9 of 27
+1 (B) the decision being appealed is the grant or denial of interested
+2 person status; or
+3 (C) some other condition exists that would result in manifest injustice
+4 if the person’s right to appeal was disallowed. [Repealed.]
+5 * * *
+6 (f) Stays.
+7 (1) The filing of an appeal shall automatically stay the act or decision in
+8 the following situations:
+9 (A) acts or decisions involving stream alteration permits or shoreline
+10 encroachment permits issued by the Secretary;
+11 (B) the denial of interested person status by a board of adjustment,
+12 planning commission, or development review board.
+13 * * *
+14 (h) De novo hearing. The Environmental Division, applying the
+15 substantive standards that were applicable before the tribunal appealed from,
+16 shall hold a de novo hearing on those issues that have been appealed, except in
+17 the case of:
+18 (1) a decision being appealed on the record pursuant to 24 V.S.A.
+19 chapter 117;
+20 (2) a decision of the Commissioner of Forests, Parks and Recreation
+21 under section 2625 of this title being appealed on the record, in which case the
+VT LEG #385810 v.3
+
+BILL AS INTRODUCED S.305
+2026 Page 10 of 27
+1 court shall affirm the decision, unless it finds that the Commissioner did not
+2 have reasonable grounds on which to base the decision.
+3 * * *
+4 (k) Limitations on appeals. Notwithstanding any other provision of this
+5 section:
+6 (1) there shall be no appeal from a District Commission decision when
+7 the Commission has issued a permit and no hearing was requested or held, or
+8 no motion to alter was filed following the issuance of an administrative
+9 amendment;
+10 (2) a municipal decision regarding whether a particular application
+11 qualifies for a recorded hearing under 24 V.S.A. § 4471(b) shall not be subject
+12 to appeal; and
+13 (3) if a District Commission issues a partial decision under subsection
+14 6086(b) of this title, any appeal of that decision must be taken within 30 days
+15 following the date of that decision; and.
+16 (4) it shall be the goal of the Environmental Division to issue a decision
+17 on a case regarding an appeal of an appropriate municipal panel decision under
+18 24 V.S.A. chapter 117 within 90 days following the close of the hearing.
+19 [Repealed.]
+20 * * *
+VT LEG #385810 v.3
+
+BILL AS INTRODUCED S.305
+2026 Page 11 of 27
+1 (n) Intervention. Any person may intervene in a pending appeal if that
+2 person:
+3 (1) appeared as a party in the action appealed from and retained party
+4 status;
+5 (2) is a party by right;
+6 (3) is the Land Use Review Board;
+7 (4) is a person aggrieved, as defined in this chapter; or
+8 (5) qualifies as an “interested person,” as established in 24 V.S.A. §
+9 4465, with respect to appeals under 24 V.S.A. chapter 117; or [Repealed.]
+10 (6) meets the standard for intervention established in the Vermont Rules
+11 of Civil Procedure.
+12 * * *
+13 * * * Act 250 * * *
+14 Sec. 8. 10 V.S.A. § 6033 is amended to read:
+15 § 6033. REGIONAL PLAN FUTURE LAND USE MAP REVIEW
+16 * * *
+17 (c) To obtain a Tier 1B area status under this section, the regional planning
+18 commission shall demonstrate to the Board that the municipalities with Tier 1B
+19 areas meet the following requirements as included in subdivision 24 V.S.A.
+20 § 4348a(a)(12)(C):
+VT LEG #385810 v.3
+
+BILL AS INTRODUCED S.305
+2026 Page 12 of 27
+1 (1) The municipality has not requested to have opt out of having the area
+2 mapped for Tier 1B. A municipality may request to opt out of Tier 1B area
+3 status by submitting a resolution passed by the municipality to the relevant
+4 regional planning commission and the Board.
+5 * * *
+6 Sec. 9. 10 V.S.A. § 6086 is amended to read:
+7 § 6086. ISSUANCE OF PERMIT; CONDITIONS AND CRITERIA
+8 * * *
+9 (d) State and local permits; presumptions.
+10 (1) State permits.
+11 (A) The Land Use Review Board may by rule A District Commission
+12 shall allow the acceptance of a permit or permits or approval of any State
+13 agency with respect to subdivisions (a)(1) through (5)(a)(1)–(5) of this section
+14 or in lieu of evidence by the applicant. The presumption established by this
+15 subdivision (1) shall only apply to the issues addressed as a part of the terms of
+16 the permit.
+17 (B) In the case of permits issued by the Agency of Natural
+18 Resources, technical determinations of the Agency shall be accorded
+19 substantial deference by the District Commissions.
+VT LEG #385810 v.3
+
+BILL AS INTRODUCED S.305
+2026 Page 13 of 27
+1 (C) The acceptance of such permit or permits shall create a
+2 presumption that the application is not detrimental to the public health and
+3 welfare with respect to the specific requirement for which it is accepted.
+4 (2) Municipal permits.
+5 (A) The Board may by rule allow a permit or permits of a specified
+6 municipal government with respect to subdivisions (a)(1) through (7)(a)(1)–(7)
+7 and (9) and (10) of this section, or a combination of such permits or approvals,
+8 in lieu of evidence by the applicant. The presumption established by this
+9 subdivision (2) shall only apply to the issues addressed as a part of the terms of
+10 the permit.
+11 (B) A District Commission, in accordance with rules adopted by the
+12 Board, shall accept determinations issued by a development review board
+13 under the provisions of 24 V.S.A. § 4420, with respect to local Act 250 review
+14 of municipal impacts.
+15 (C) The acceptance of such approval, positive determinations, permit,
+16 or permits shall create a presumption that the application is not detrimental to
+17 the public health and welfare with respect to the specific requirement for which
+18 it is accepted. In the case of approvals and permits issued by the Agency of
+19 Natural Resources, technical determinations of the Agency shall be accorded
+20 substantial deference by the Commissions. The acceptance of negative
+21 determinations issued by a development review board under the provisions of
+VT LEG #385810 v.3
+
+BILL AS INTRODUCED S.305
+2026 Page 14 of 27
+1 24 V.S.A. § 4420, with respect to local Act 250 review of municipal impacts,
+2 shall create a presumption that the application is detrimental to the public
+3 health and welfare with respect to the specific requirement for which it is
+4 accepted. Any determinations, positive or negative, under the provisions of 24
+5 V.S.A. § 4420 shall create presumptions only to the extent that the impacts
+6 under the criteria are limited to the municipality issuing the decision. Such a
+7 rule may be revoked or amended pursuant to the procedures set forth in 3
+8 V.S.A., chapter 25, the Vermont Administrative Procedure Act.
+9 (3) Rebutting presumptions.
+10 (A) Except as provided in subdivision (B) of this subdivision (3),
+11 permits may be rebutted by evidence that is relevant and admissible.
+12 (B) With respect to permits issued by a State agency that provides
+13 notice, the ability to comment, and a right to appeal, prior to accepting
+14 evidence to rebut a permit the Commission shall determine that the evidence:
+15 (i) was not presented to the State agency issuing the permit that
+16 resulted in the presumption;
+17 (ii) was not capable of being discovered by due diligence prior to
+18 the issuance of the permit;
+19 (iii) is material; and
+20 (iv) is not merely cumulative.
+VT LEG #385810 v.3
+
+BILL AS INTRODUCED S.305
+2026 Page 15 of 27
+1 (4) Rulemaking. The Board shall adopt rules to administer the
+2 requirements of this subsection. The rules adopted by the Board shall not
+3 approve the acceptance of a permit or approval of such an agency or a permit
+4 of a municipal government unless it satisfies the appropriate requirements of
+5 subsection (a) of this section.
+6 * * *
+7 (i) Contingent permit. A District Commission may issue a permit
+8 contingent upon the applicant receiving permits from the Agency of Natural
+9 Resources or other State agency.
+10 Sec. 10. 10 V.S.A. § 6001 is amended to read:
+11 § 6001. DEFINITIONS
+12 As used in this chapter:
+13 * * *
+14 (3)(A) “Development” means each of the following:
+15 * * *
+16 (iv) The construction of housing projects such as cooperatives,
+17 condominiums, or dwellings, or construction or maintenance of mobile homes
+18 or mobile home parks, with 10 or more units, constructed or maintained on a
+19 tract or tracts of land, owned or controlled by a person, within a radius of five
+20 miles of any point on any involved land and within any continuous period of
+21 five years. However:
+VT LEG #385810 v.3
+
+BILL AS INTRODUCED S.305
+2026 Page 16 of 27
+1 * * *
+2 (52) “Involved land” means those portions of any tract or tracts of land
+3 to be physically altered and upon which construction of improvements will
+4 occur for commercial housing purposes, including land that is incidental to the
+5 use such as lawns, parking lots, driveways, leach fields, and accessory
+6 buildings, bearing some relationship to the land that is actually used in the
+7 construction of improvements, such that there is a demonstrable likelihood that
+8 the impact on the values sought to be protected by Act 250 will be
+9 substantially affected by reason of the relationship. Where a project is to be
+10 completed in stages according to a plan, or it is evident under the
+11 circumstances that the project is incidental to or a part of a larger undertaking,
+12 all land involved in the entire project shall be included for the purposes of
+13 determining jurisdiction.
+14 * * * Agency of Natural Resources * * *
+15 Sec. 11. 3 V.S.A. § 2811 is added to read:
+16 § 2811. APPROVED ENGINEERS, CONSULTANTS, AND EXPERTS
+17 (a) The Secretary of Natural Resources shall establish criteria for certifying
+18 engineers, consultants, and other experts as approved for purposes of providing
+19 permitting data or submitting permit applications for any permitting program
+20 administered by the Agency of Natural Resources. The criteria may include
+21 licensing requirements, education requirements, prior work history, and other
+VT LEG #385810 v.3
+
+BILL AS INTRODUCED S.305
+2026 Page 17 of 27
+1 criteria deemed appropriate by the Secretary as indicating the necessary
+2 expertise to provide accurate permitting data or permitting applications.
+3 (b) Upon publication of the criteria for certifying approved engineers,
+4 consultants, and other experts under subsection (a) of this section, the
+5 Secretary of Natural Resources shall accept applications for certification.
+6 Applications shall be submitted on a form or through a process established by
+7 the Secretary.
+8 (c) Upon certification under this section, permitting data or information
+9 submitted by a certified engineer, consultant, or other expert shall be presumed
+10 accurate and any permit application submitted by a certified engineer,
+11 consultant, or other expert shall receive expedited review.
+12 Sec. 12. 3 V.S.A. § 2822(g) is amended to read:
+13 (g)(1) The Secretary shall make all practical efforts to process permits in a
+14 prompt manner and approve or deny any application for a permit to the Agency
+15 of Natural Resources within three months after the date an application is
+16 determined to be administratively complete. The Secretary shall establish time
+17 limits for the processing of each permit as well as procedures and time periods
+18 within which to notify applicants whether an application is complete. Any
+19 denial of an application for a permit shall be based on clear, articulated
+20 standards set forth in a denial letter to the permit applicant.
+VT LEG #385810 v.3
+
+BILL AS INTRODUCED S.305
+2026 Page 18 of 27
+1 (2) The Secretary shall report no later than the third Tuesday of each
+2 annual legislative session to the General Assembly by electronic submission.
+3 The annual report shall assess the Agency’s performance in meeting the time
+4 limits under subdivision (1) of this subsection for processing permit
+5 applications; identify areas that hinder effective Agency performance; list fees
+6 collected for each permit; summarize changes made by the Agency to improve
+7 performance; describe staffing needs for the coming year; certify that the
+8 revenue from the fees collected is at least equal to the costs associated with
+9 those positions; and discuss the operation of the Agency during the preceding
+10 fiscal year and the future goals and objectives of the Agency. The provisions
+11 of 2 V.S.A. § 20(d) (expiration of required reports) shall not apply to the report
+12 to be made under this subsection. This report is in addition to the fee report
+13 and request required by 32 V.S.A. chapter 7, subchapter 6.
+14 * * * Common Interest Communities * * *
+15 Sec. 13. 27A V.S.A. § 1-204 is amended to read:
+16 § 1-204. PREEXISTING COMMON INTEREST COMMUNITIES
+17 (a)(1) Unless excepted under section 1-203 of this title, the following
+18 sections and subdivisions of this title apply to a common interest community
+19 created in this State before January 1, 1999: sections 1-103, 1-105, 1-106, 1-
+20 107, 2-103, 2-104, and 2-121,; subdivisions 3-102(a)(1) through (6)3-
+21 102(a)(1)–(6) and (11) through (16), (11)–(16); and sections 3-111, 3-116, 3-
+VT LEG #385810 v.3
+
+BILL AS INTRODUCED S.305
+2026 Page 19 of 27
+1 118, 4-109, and 4-117 to the extent necessary to construe the applicable
+2 sections. The sections and subdivisions described in this subdivision apply
+3 only to events and circumstances occurring after December 31, 1998, and do
+4 not invalidate existing provisions of the declarations, bylaws, plats, or plans of
+5 those common interest communities.
+6 * * *
+7 (3) Unless excepted under section 1-203 of this title, section 3-125 of
+8 this title shall apply to a common interest community created in this State
+9 before January 1, 1999. Section 3-125 applies only to events and
+10 circumstances occurring after June 30, 2026, and does not invalidate existing
+11 provisions of the declarations, bylaws, plats, or plans of those common interest
+12 communities.
+13 * * *
+14 Sec. 14. 27A V.S.A. § 3-125 is added to read:
+15 § 3-125. PROHIBITED USES DISALLOWED
+16 (a) Leasing units.
+17 (1) Any covenant, restriction, or condition contained in any deed,
+18 contract, security instrument, or other instrument affecting the transfer or sale
+19 of any interest in a common interest community, and any provision of a
+20 governing document associated with a common interest community, such as a
+21 declaration, bylaw, or rule, that either effectively prohibits or unreasonably
+VT LEG #385810 v.3
+
+BILL AS INTRODUCED S.305
+2026 Page 20 of 27
+1 restricts a unit owner from leasing the individual unit owner’s unit for
+2 residential purposes or is in conflict with this section is void and
+3 unenforceable.
+4 (2) Nothing in this subsection shall prevent or prohibit any deed,
+5 contract, security instrument, or other instrument affecting the transfer or sale
+6 of any interest in a common interest community, and any provision of a
+7 governing document associated with a common interest community, such as a
+8 declaration, bylaw, or rule, from preventing the subleasing of a unit or
+9 restricting the leasing of residential units as authorized by subdivision 3-
+10 120(f)(3) of this title.
+11 (3) This subsection shall not be interpreted to authorize transient
+12 occupancy in a hotel, motel, or lodgings that would subject the occupant to a
+13 tax levied under 32 V.S.A. chapter 225.
+14 (4) This subsection shall not be interpreted to authorize a unit owner to
+15 lease a unit as a short-term rental as that term is defined in 18 V.S.A. § 4301.
+16 (5) This subsection shall not apply to common interest communities
+17 reserved exclusively for nonresidential purposes.
+18 (b) Family child care home.
+19 (1) Any covenant, restriction, or condition contained in any deed,
+20 contract, security instrument, or other instrument affecting the transfer or sale
+21 of any interest in a common interest community, and any provision of a
+VT LEG #385810 v.3
+
+BILL AS INTRODUCED S.305
+2026 Page 21 of 27
+1 governing document associated with a common interest community, such as a
+2 declaration, bylaw, or rule, that either effectively prohibits or unreasonably
+3 restricts a unit owner from operating a family child care home, as that term is
+4 defined in 33 V.S.A. § 3511, within the unit owner’s unit is void and
+5 unenforceable.
+6 (2) Notwithstanding subdivision (1) of this subsection, a family child
+7 care home operating within a common interest community shall comply with
+8 applicable federal and State laws relating to the regulation of family child care
+9 homes.
+10 (c) Zoning; land use requirements. Unit owners shall comply with federal,
+11 State, and local laws related to applicable zoning requirements, land use
+12 requirements, and other covenants, conditions, and restrictions.
+13 (d) Leasehold common interest communities. This section shall not apply
+14 to leasehold common interest communities.
+15 * * * Positive Rental Payment Pilot Program * * *
+16 Sec. 15. POSITIVE RENTAL PAYMENT CREDIT REPORTING PILOT
+17 (a) Definitions. As used in this section:
+18 (1) “Contractor” means the third-party vendor that the State Treasurer’s
+19 Office contracts with to administer the pilot program described in this section.
+20 (2) “Dwelling unit” has the same meaning as in 9 V.S.A. § 4451(3).
+VT LEG #385810 v.3
+
+BILL AS INTRODUCED S.305
+2026 Page 22 of 27
+1 (3) “Participant property owner” means a landlord who has agreed in
+2 writing to participate in the pilot program and has satisfied the requirements
+3 described in subsection (c) of this section.
+4 (4) “Participant tenant” means a tenant who has elected to participate in
+5 the pilot program and whose landlord is a participant property owner.
+6 (5) “Rental payment information” means information concerning a
+7 participant tenant’s timely payment of rent. “Rent payment information” does
+8 not include information concerning a participant tenant’s payment or
+9 nonpayment of fees.
+10 (b) Pilot program creation.
+11 (1) The State Treasurer shall create and implement a two-year positive
+12 rental payment reporting pilot program to facilitate the reporting of rent
+13 payment information from participant tenants to consumer reporting agencies.
+14 (2) On or before May 1, 2027, the State Treasurer shall contract with a
+15 third party to administer a positive rental payment pilot program and facilitate
+16 the transmission of rent reporting information from a participant property
+17 owner to a consumer reporting agency. The third-party administrator shall be
+18 required to:
+19 (A) enter into an agreement with one or more participant property
+20 owners in the State in accordance with the requirements of this section for
+21 participation in the pilot program;
+VT LEG #385810 v.3
+
+BILL AS INTRODUCED S.305
+2026 Page 23 of 27
+1 (B) ensure that information to a credit reporting agency includes only
+2 rent payment information after the date on which the participant tenant elected
+3 to participate in the pilot program;
+4 (C) establish a standard form for a participant tenant to use to elect to
+5 participate or cease participation in the pilot program, which shall include a
+6 statement that the tenant’s participation is voluntary and that a participant may
+7 cease participating in the pilot program at any time and for any reason by
+8 providing notice to the participant’s landlord; and
+9 (D) offer an optional financial education course for participant
+10 tenants.
+11 (c) Program agreements. A participant property owner shall agree in
+12 writing:
+13 (1) to participate in the pilot program for the duration of the program;
+14 (2) not to charge a participant tenant for participation in the pilot
+15 program;
+16 (3) to comply with the requirements of the program;
+17 (4) to provide information as required by the State Treasurer concerning
+18 the implementation of the pilot program; and
+19 (5) to assist in the recruitment of tenants to participate in the pilot
+20 program.
+VT LEG #385810 v.3
+
+BILL AS INTRODUCED S.305
+2026 Page 24 of 27
+1 (d) Program participants. On or before June 1, 2027, the contractor shall,
+2 in coordination with the State Treasurer, recruit not more than 10 participant
+3 property owners and, to the extent practicable, not fewer than 100 participant
+4 tenants to participate in the pilot program. The contractor shall seek to select
+5 participant tenants from populations that are under-served and under-
+6 represented in home ownership. The contractor shall also seek to recruit
+7 participant landlords who offer:
+8 (1) a variety of types of dwelling units for rent, including dwelling units
+9 of various sizes;
+10 (2) dwelling units for rent that are located in geographically diverse
+11 areas of the State; and
+12 (3) at least five dwelling units for rent.
+13 (e) Termination. The State Treasurer may terminate the pilot program at
+14 any time in the Treasurer’s sole discretion or terminate participation of a
+15 participant property owner for failure to comply with the requirements of the
+16 program.
+17 (f) Reports.
+18 (1) On or before November 1, 2028, the State Treasurer shall submit an
+19 interim report to the House Committee on General and Housing and the Senate
+20 Committee on Economic Development, Housing and General Affairs regarding
+21 the findings of the pilot program. The report shall include:
+VT LEG #385810 v.3
+
+BILL AS INTRODUCED S.305
+2026 Page 25 of 27
+1 (A) the number of participant tenants, including information
+2 regarding the demographic makeup of participant tenants, such as race,
+3 ethnicity, gender, income, and age, as voluntarily provided by the participants;
+4 (B) the number of participant tenants who ceased participating in the
+5 program;
+6 (C) a breakdown of costs of administering the program, including the
+7 monthly costs associated with rent reporting;
+8 (D) a description of challenges faced by the participant property
+9 owners and participant tenants during the pilot program;
+10 (E) an analysis of the outcomes of rent reporting on participant
+11 tenant’s credit scores; and
+12 (F) recommendations for legislative action, including proposed
+13 statutory language and an appropriation for associated costs.
+14 (2) On or before November 1, 2029, the State Treasurer shall submit a
+15 final report to the House Committee on General and Housing and the Senate
+16 Committee on Economic Development, Housing and General Affairs regarding
+17 the findings of the pilot program. The report shall include an update to the
+18 information required in the interim report.
+VT LEG #385810 v.3
+
+BILL AS INTRODUCED S.305
+2026 Page 26 of 27
+1 Sec. 16. APPROPRIATION
+2 In fiscal year 2027, $100,000.00 shall be appropriated from the General
+3 Fund to the State Treasurer to implement the rental payment pilot program
+4 established in Sec. 15 of this act.
+5 * * * Taxes * * *
+6 Sec. 17. 32 V.S.A. § 5811(21)(C) is amended to read:
+7 (C) decreased by the following exemptions and deductions:
+8 * * *
+9 (iv) an amount equal to the itemized deduction for medical
+10 expenses taken at the federal level by the taxpayer, under 26 U.S.C. § 213:
+11 (I) minus the amount of the Vermont standard deduction and
+12 Vermont personal exemptions taken by the taxpayer under this subdivision
+13 (C); and
+14 (II) minus any amount deducted at the federal level that is
+15 attributable to the payment of an entrance fee or recurring monthly payment
+16 made to a continuing care retirement community regulated under 8 V.S.A.
+17 chapter 151, which exceeds the deductibility limits for premiums paid during
+18 the taxable year on qualified long-term care insurance contracts under 26
+19 U.S.C. 213(d)(10)(A).
+VT LEG #385810 v.3
+
+BILL AS INTRODUCED S.305
+2026 Page 27 of 27
+1 * * * CHIP * * *
+2 Sec. 18. 24 V.S.A. § 1909 is amended to read:
+3 § 1909. HOUSING INFRASTRUCTURE AGREEMENT
+4 (a) The housing infrastructure agreement for a housing infrastructure
+5 project shall:
+6 * * *
+7 (3) obligate the tax increments retained pursuant to section 1910c of this
+8 subchapter for not more than the financing and related costs for the housing
+9 infrastructure project; and
+10 (4) provide that any housing unit within the housing development be
+11 offered exclusively as a primary residence until all indebtedness for the
+12 housing infrastructure project of which the housing development is part has
+13 been retired, provided that this condition shall be satisfied by biennially
+14 providing a landlord certificate or homestead declaration; and [Repealed.]
+15 * * *
+16 * * * Effective Date * * *
+17 Sec. 19. EFFECTIVE DATE
+18 This act shall take effect on July 1, 2026.
+VT LEG #385810 v.3

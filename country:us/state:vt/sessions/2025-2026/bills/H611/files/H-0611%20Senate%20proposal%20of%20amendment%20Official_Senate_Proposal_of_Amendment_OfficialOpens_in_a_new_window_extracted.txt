@@ -1,0 +1,80 @@
+Title: 
+Official Title: 
+Source: versions - Senate Proposal of Amendment (OfficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate proposal of amendment
+H. 611
+An act relating to miscellaneous provisions affecting the Department of
+Vermont Health Access.
+The Senate proposes to the House to amend the bill as follows:
+First: By striking out Sec. 2, 18 V.S.A. § 4682, in its entirety and inserting
+in lieu thereof a new Sec. 2 to read as follows:
+Sec. 2. 18 V.S.A. § 4682 is amended to read:
+§ 4682. DISCRIMINATION AGAINST 340B ENTITIES PROHIBITED
+* * *
+(b) A manufacturer or its agent shall not directly or indirectly require a
+340B covered entity to submit any claims, utilization, encounter, purchase, or
+other data as a condition for allowing the acquisition of a 340B drug by or
+delivery of a 340B drug to a 340B contract pharmacy or a 340B covered entity
+unless the claims or utilization data sharing is required by the U.S. Department
+of Health and Human Services.
+* * *
+(d) A manufacturer or its agent shall offer or otherwise make available
+340B drug pricing to a 340B covered entity or 340B contract pharmacy in the
+form of a discount at the time of purchase and shall not offer or otherwise
+make available 340B drug pricing in the form of a rebate. [Repealed.]
+Second: In Sec. 9, amending 2025 Acts and Resolves No. 50, Sec. 8, in
+subsection (a), by striking out “2026” both times it appears and inserting in
+lieu thereof “2026 2027”
+Third: By striking out Sec. 10, effective date, in its entirety and inserting in
+lieu thereof two new sections to be Secs. 10 and 11 to read as follows:
+Sec. 10. 8 V.S.A. § 4077 is amended to read:
+§ 4077. REPRODUCTIVE HEALTH CARE SERVICES
+* * *
+(h)(1) As used in this subsection:
+(A) “HIV prevention drug” means any preexposure prophylaxis drug
+or postexposure prophylaxis drug, including oral and long-acting injectable
+formulations, that is approved by the FDA for HIV prevention or that is
+otherwise authorized for HIV prevention pursuant to FDA labeling or federal
+clinical guidelines.
+
+(B) “Supportive health service” means any health service that is
+necessary to monitor a patient to ensure the safe and effective ongoing use of
+an HIV prevention drug and includes:
+(i) an office visit;
+(ii) laboratory testing;
+(iii) testing for a sexually transmitted infection;
+(iv) medication self-management and adherence counseling;
+(v) patient education and counseling by the patient’s health care
+provider regarding the appropriate use of the HIV prevention drug; and
+(vi) any other health services that are components of
+comprehensive HIV prevention drug services as determined by the patient’s
+health care provider.
+(2) A health insurance plan shall provide coverage for HIV preexposure
+prophylaxis drugs as recommended by the U.S. Preventive Services Task
+Force as of August 22, 2023. This coverage shall be provided without any
+deductible, coinsurance, co-payment, or other cost-sharing requirement, except
+to the extent that such coverage would disqualify a high-deductible health plan
+from eligibility for a health savings account pursuant to 26 U.S.C. § 223.
+(3) Medicaid and any other public health care assistance program
+offered or administered by the State or by any subdivision or instrumentality
+of the State, except for any program funded in whole or in part by federal
+grants that include prohibitions on coverage of HIV prevention drugs, shall
+provide coverage of HIV prevention drugs and supportive health services and
+shall:
+(A) not require any cost sharing, including co-payments;
+(B) provide coverage without requiring prior authorization or any
+other protocol that may restrict or delay dispensing for at least one FDA-
+approved drug in each category of preexposure and postexposure prophylaxis
+drugs; and
+(C) not deny coverage based on the type of health care professional
+issuing the prescription for any HIV prevention drug for which Medicaid does
+not require prior authorization, provided the health care professional is acting
+within the professional’s authorized scope of practice and is enrolled as a
+participating provider in Vermont Medicaid.
+Sec. 11. EFFECTIVE DATE
+This act shall take effect on passage.

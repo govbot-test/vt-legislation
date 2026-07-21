@@ -1,0 +1,27 @@
+Title: 
+Official Title: 
+Source: versions - Senate Proposal of Amendment (OfficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate proposal of amendment
+H. 583
+An act relating to clinical decision making.
+The Senate proposes to the House to amend the bill as follows:
+First: Sec. 1, 18 V.S.A. chapter 233, in section 9773, in subsection (a),
+following “On or before”, by striking out “July 1, 2026” and inserting in lieu
+thereof “March 1, 2027”
+Second: Sec. 1, 18 V.S.A. chapter 233, in section 9773, in subsection (c),
+following “After”, by striking out “July 1, 2026” and inserting in lieu thereof
+“March 1, 2027”
+Third: Sec. 1, 18 V.S.A. chapter 233, in section 9773, by inserting a
+subsection (d) to read:
+(d) The Green Mountain Care Board shall collaborate with relevant
+stakeholders to develop the processes for reporting data pursuant to this section
+and the Agency of Human Services shall provide relevant, necessary data to
+the Board.
+and by relettering the remaining subsections accordingly
+Fourth: In Sec. 1, 18 V.S.A. chapter 233, in section 9774, in subsection (a),
+by striking out “February” and inserting in lieu thereof “July”

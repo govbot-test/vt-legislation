@@ -1,0 +1,247 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.727
+2026 Page 1 of 10
+1 H.727
+2 Introduced by Representative Sibilia of Dover
+3 Referred to Committee on
+4 Date:
+5 Subject: Utilities; data centers; ratepayer class; siting; reporting
+6 Statement of purpose of bill as introduced: This bill proposes to regulate the
+7 deployment of data centers in Vermont for the purpose of ensuring electric
+8 service reliability and affordability for all Vermonters and preventing any
+9 adverse effects on the State’s environment, natural resources, local
+10 communities, economy, and public health and welfare.
+11 An act relating to sustainable data center deployment
+12 It is hereby enacted by the General Assembly of the State of Vermont:
+13 Sec. 1. 30 V.S.A. chapter 5, subchapter 3 is added to read:
+14 Subchapter 3. Data Centers
+15 § 281. SHORT TITLE
+16 This subchapter shall be known and may be cited as the “Vermont
+17 Sustainable Data Centers Act.”
+18 § 282. PURPOSE
+19 The purpose of this subchapter is to establish a regulatory framework that
+20 ensures responsible growth of an essential industry in a manner that protects
+VT LEG #385527 v.4
+
+BILL AS INTRODUCED H.727
+2026 Page 2 of 10
+1 existing electric ratepayers from unwarranted costs and promotes sustainable
+2 climate, environmental, community, and equity outcomes consistent with State
+3 policy.
+4 § 283. DEFINITIONS
+5 As used in this subchapter:
+6 (1) “Data center” means a facility that uses or is able to use 20
+7 megawatts or more of power and is engaged in providing data processing,
+8 hosting, and related services as described under code 518210 of the 2022 North
+9 American Industry Classification System.
+10 (2) “Facility” means all buildings, equipment, structures, and other
+11 stationary items that are located on a single site or on contiguous or adjacent
+12 sites and that are owned or operated by the same person or by any person that
+13 controls, is controlled by, or is under common control with such person.
+14 § 284. TARIFFS; CONTRACTS
+15 (a) For the purpose of ensuring just and reasonable rates for all ratepayer
+16 classes and mitigating the risk of financial exposure to electric distribution
+17 companies and their existing ratepayers, the Public Utility Commission shall
+18 establish a separate ratepayer class and tariff schedule applicable to data
+19 centers and, in addition, shall require specific provisions in any contract for
+20 electric service entered into by an electric distribution company and a data
+21 center as specified in subsection (c) of this section.
+VT LEG #385527 v.4
+
+BILL AS INTRODUCED H.727
+2026 Page 3 of 10
+1 (b) The Commission shall develop a general tariff with standardized
+2 structures applicable to all electric distribution companies with respect to the
+3 data center ratepayer class, and these requirements shall be reflected in each
+4 company’s individual tariff filings. The standardized structures shall:
+5 (1) include a method for allocating costs that is equal or proportional to
+6 the costs of providing electric service to data centers;
+7 (2) provide for equitable contributions to the efficiency, reliability, and
+8 resiliency of the electricity network;
+9 (3) mitigate the risk of other ratepayer classes paying unwarranted costs,
+10 including any electric generation, distribution, and transmission infrastructure
+11 costs incurred solely to meet the load requirements of a data center;
+12 (4) promote or, at a minimum, not impede in any way an electric
+13 company’s ability to meet renewable electricity targets pursuant to the
+14 Renewable Energy Standard;
+15 (5) reflect the mandatory contractual provisions specified in subsection
+16 (c) of this section; and
+17 (6) meet any other conditions the Commission may require consistent
+18 with the purpose of this section and in the public interest.
+19 (c) A contract for electric service entered into between an electric company
+20 and a data center shall:
+VT LEG #385527 v.4
+
+BILL AS INTRODUCED H.727
+2026 Page 4 of 10
+1 (1) specify the duration of the contract, which shall not be less than 10
+2 years;
+3 (2) specify the date or the estimated date that the electric company will
+4 begin to provide electric service to the data center;
+5 (3) obligate the data center to pay a minimum amount or percentage
+6 based on the data center’s projected electricity usage for the duration of the
+7 contract;
+8 (4) include a reasonable charge for excess demand;
+9 (5) include a collateral requirement sufficient to mitigate the risk of
+10 stranded costs; and
+11 (6) meet any other terms or conditions required by the Commission that
+12 are consistent with the purpose of this section and in the public interest.
+13 § 285. SITING; CERTIFICATE OF PUBLIC GOOD
+14 (a) No person shall in any way begin site preparation for or commence
+15 construction of a data center unless the Commission first finds that the same
+16 will promote the general good of the State and issues a certificate of public
+17 good to that effect pursuant to this section.
+18 (b) Before the Commission issues a certificate of public good as required
+19 under subsection (a) of this section, the Commission shall find that the
+20 proposed data center, including any upgrades to electric generation,
+21 distribution, and transmission facilities necessary to power the data center:
+VT LEG #385527 v.4
+
+BILL AS INTRODUCED H.727
+2026 Page 5 of 10
+1 (1) will not unduly interfere with the orderly development of the region
+2 with due consideration having been given to the recommendations of the
+3 municipal and regional planning commissions, the recommendations of the
+4 municipal legislative bodies, and the land conservation measures contained in
+5 the plan of any affected municipality;
+6 (2) will not adversely affect the efficiency, reliability, and resilience of
+7 the electric power system;
+8 (3) will result in an economic benefit to the State and its residents;
+9 (4) will not have an undue adverse effect on aesthetics, historic sites, air
+10 and water purity, the natural environment, the use of natural resources, and the
+11 public health and safety, with due consideration having been given to the
+12 criteria specified in 10 V.S.A. §§ 1424a(d) (outstanding resource waters) and
+13 6086(a)(1)–(8) and (9)(K) (conditions and criteria for State land use and
+14 development plans), impacts to primary agricultural soils as defined in
+15 10 V.S.A. § 6001, community noise levels, and the attainment of the State’s
+16 greenhouse gas emissions reduction requirements;
+17 (5) is consistent with the principles for resource selection expressed in
+18 the applicable electric distribution company’s approved least-cost integrated
+19 plan;
+VT LEG #385527 v.4
+
+BILL AS INTRODUCED H.727
+2026 Page 6 of 10
+1 (6) is consistent with the Electrical Energy Plan approved by the
+2 Department under section 202 of this title, or that there exists good cause to
+3 permit a variance;
+4 (7) is consistent with the Vermont Long-Range Transmission Plan
+5 prepared by the Vermont Electric Power Company, Inc.;
+6 (8) will not have an adverse effect on any segment of the waters of the
+7 State that have been designated as outstanding resource waters by the Secretary
+8 of Natural Resources;
+9 (9) can be served economically by existing or planned transmission
+10 facilities without undue adverse effect on Vermont utilities or other retail
+11 ratepayer classes;
+12 (10) complies with applicable air pollution control requirements under
+13 the federal Clean Air Act, 42 U.S.C. § 7401 et seq.;
+14 (11) complies with harvesting procedures and procurement standards
+15 that ensure long-term forest health and sustainability, including the guidelines
+16 and standards adopted under 10 V.S.A. § 2750;
+17 (12) is consistent with State energy efficiency requirements;
+18 (13) is consistent with environmental justice and equity policy as
+19 established pursuant to 3 V.S.A. chapter 72; and
+20 (14) adequately accounts for potential facility decommissioning.
+VT LEG #385527 v.4
+
+BILL AS INTRODUCED H.727
+2026 Page 7 of 10
+1 (c) The Commission shall adopt by rule procedures for implementing the
+2 requirements of this section that are modeled after sections 248 and 248a of
+3 this title, to the extent deemed reasonable and necessary by the Commission.
+4 Accordingly, the procedures shall include requirements related to: an
+5 application fee; notice; letter of intent; review period; exemptions from other
+6 law; participation by municipal bodies; consideration of municipal plans and
+7 recommendations; the retention of experts; fees for the participation of other
+8 State entities, as appropriate, including the Department of Public Service, the
+9 Agency of Natural Resources, the Agency of Agriculture, Food and Markets,
+10 the Agency of Commerce and Community Development, and the
+11 Environmental Justice Advisory Council; and a review process.
+12 § 286. DEMAND-SIDE MANAGEMENT
+13 (a) The Commission may establish a demand-side management program
+14 applicable to data centers that includes requirements and standards applicable
+15 to data center energy and water usage. In developing such a program, the
+16 Commission shall consider:
+17 (1) cositing requirements for renewable energy sources, batteries, and
+18 other on-site generation and storage;
+19 (2) water conservation initiatives, such as the use of recycled water for
+20 cooling;
+VT LEG #385527 v.4
+
+BILL AS INTRODUCED H.727
+2026 Page 8 of 10
+1 (3) the establishment of data center microgrids for critical services that
+2 would provide continuous and reliable energy for critical services, operate
+3 independently from an electric company’s power system, ensure uptime during
+4 outages, provide greater efficiencies for managing energy costs and carbon
+5 emissions, and enhance the resilience of the State’s electricity network;
+6 (4) authorization for a data center to procure its own energy resources;
+7 (5) a prohibition on fossil fuel power purchase agreements that provide
+8 incentives or discount rates to data centers;
+9 (6) enhanced energy efficiency standards; and
+10 (7) any other standard or requirement deemed appropriate by the
+11 Commission and consistent with the purpose of this subchapter and in the
+12 public interest.
+13 (b) Any program developed by the Commission pursuant to this section
+14 shall take effect upon approval of the General Assembly by legislative
+15 enactment.
+16 § 287. QUARTERLY AND ANNUAL REPORTS
+17 (a) Data center. Within three months after a data center becomes
+18 operational, and in a form and manner determined by the Commission, the
+19 owner of the data center shall begin submitting quarterly reports to the
+20 Commission and the Department of Public Service. Each quarterly report shall
+VT LEG #385527 v.4
+
+BILL AS INTRODUCED H.727
+2026 Page 9 of 10
+1 include the data center’s water and energy usage, as well as a description of
+2 any interconnection requests the owner has submitted in other states.
+3 (b) Department. Annually, beginning on or before January 1, 2028, the
+4 Commissioner of Public Service shall submit a written report on data centers to
+5 the House Committees on Energy and Digital Infrastructure, on Environment,
+6 and on Agriculture, Food Resiliency, and Forestry and to the Senate
+7 Committees on Finance, on Natural Resources and Energy, and on Agriculture.
+8 The report shall include findings and recommendations related to the energy,
+9 environmental, and economic impacts of data center construction and
+10 deployment in Vermont, including any benefits to all electric ratepayers from
+11 electric infrastructure projects undertaken to provide power to a data center.
+12 § 288. FINANCING STATE AND LOCAL BENEFITS
+13 (a) It is the intent of the General Assembly to establish a financial structure
+14 that will support State and local energy, environmental, and economic benefits
+15 and to finance that structure with:
+16 (1) a percentage of tax revenue generated from sales, property, or
+17 income taxes applicable to data centers;
+18 (2) a data center gross receipts tax; or
+19 (3) another financing mechanism recommended by the Commissioner of
+20 Public Service that the Commissioner deems to be consistent with the purpose
+21 of this subchapter and in the public interest.
+VT LEG #385527 v.4
+
+BILL AS INTRODUCED H.727
+2026 Page 10 of 10
+1 (b) The Commissioner of Public Service, with input from the
+2 Commissioner of Taxes, shall develop findings and recommendations for
+3 implementing the legislative intent of this section, which shall be submitted in
+4 a written report to the House Committees on Energy and Digital Infrastructure,
+5 on Environment, on Ways and Means, and on Agriculture, Food Resiliency,
+6 and Forestry and to the Senate Committees on Finance, on Natural Resources
+7 and Energy, and on Agriculture, on or before January 1, 2028.
+8 § 289. RULES
+9 In addition to the rules required by this subchapter, the Commission may
+10 adopt any other rules it deems necessary to implement and enforce the
+11 provisions of this subchapter consistent with its purpose and in the public
+12 interest.
+13 Sec. 2. APPLICATION
+14 30 V.S.A. chapter 5, subchapter 3 (established in Sec. 1 of this act) shall
+15 apply to any data center not operational on or before the effective date of this
+16 act.
+17 Sec. 3. EFFECTIVE DATE
+18 This act shall take effect on passage.
+VT LEG #385527 v.4

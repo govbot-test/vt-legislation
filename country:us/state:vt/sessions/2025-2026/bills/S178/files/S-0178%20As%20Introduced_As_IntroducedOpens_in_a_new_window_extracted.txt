@@ -1,0 +1,128 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED S.178
+2026 Page 1 of 5
+1 S.178
+2 Introduced by Senator Hashim
+3 Referred to Committee on
+4 Date:
+5 Subject: Criminal procedure; speedy trial
+6 Statement of purpose of bill as introduced: This bill proposes to permit a
+7 defendant to file a motion to dismiss a criminal prosecution if the trial does not
+8 commence within one year after the defendant is charged with a misdemeanor
+9 or within two years after the defendant is charged with a felony.
+10 An act relating to speedy trial procedures in criminal cases
+11 It is hereby enacted by the General Assembly of the State of Vermont:
+12 Sec. 1. 13 V.S.A. § 6506 is added to read:
+13 § 6506. SPEEDY TRIAL STANDARDS
+14 (a)(1) A defendant charged with a nonviolent misdemeanor may move for
+15 dismissal if the trial has not commenced within one year after the charge was
+16 filed.
+17 (2) A defendant charged with a nonviolent felony may move for
+18 dismissal if the trial has not commenced within two years after the charge was
+19 filed.
+VT LEG #385920 v.1
+
+BILL AS INTRODUCED S.178
+2026 Page 2 of 5
+1 (b)(1) The prosecutor shall respond to a motion filed pursuant to subsection
+2 (a) of this section within 14 days, and the court may set the matter for hearing.
+3 The response shall explain why the trial did not commence within the time
+4 period required by subsection (a) of this section, and may refer to any of the
+5 following factors:
+6 (A) the seriousness and circumstances of the charged offense;
+7 (B) the extent of harm resulting from the offense;
+8 (C) the evidence of guilt and its admissibility at trial;
+9 (D) the likelihood of new or additional evidence at trial or retrial;
+10 (E) the defendant’s history, character, and condition;
+11 (F) the length of any pretrial incarceration or any incarceration for
+12 related or similar offenses;
+13 (G) the purpose and effect of imposing a sentence authorized by the
+14 offense;
+15 (H) the impact of dismissal on public confidence in the judicial
+16 system or on the safety and welfare of the community in the event the
+17 defendant is guilty;
+18 (I) the existence of any misconduct by law enforcement personnel in
+19 the investigation, arrest, or prosecution of the defendant;
+20 (J) the existence of any prejudice to defendant as the result of the
+21 passage of time;
+VT LEG #385920 v.1
+
+BILL AS INTRODUCED S.178
+2026 Page 3 of 5
+1 (K) the attitude of the complainant or victim with respect to dismissal
+2 of the case; and
+3 (L) any other relevant fact indicating that judgment of conviction
+4 would serve no useful purpose.
+5 (2) If the prosecutor does not file a response within 14 days to a motion
+6 filed pursuant to subsection (a) of this section, the court may dismiss the case
+7 with prejudice.
+8 (c) For purposes of this section, the following periods shall be excluded
+9 when computing the time within which the trial of any offense must
+10 commence:
+11 (1) Any period of delay resulting from other proceedings concerning the
+12 defendant, including:
+13 (A) delay resulting from an examination of the defendant and hearing
+14 on the defendant’s mental competency or physical incapacity;
+15 (B) delay resulting from a stay of the proceedings due to an
+16 examination or treatment of the defendant pursuant to chapter 157 of this title;
+17 (C) delay resulting from a trial with respect to other charges against
+18 the defendant, which period shall run from the commencement of the other
+19 trial until 14 days after an acquittal or imposition of sentence;
+20 (D) delay resulting from interlocutory appeals;
+21 (E) delay resulting from hearings on pretrial motions;
+VT LEG #385920 v.1
+
+BILL AS INTRODUCED S.178
+2026 Page 4 of 5
+1 (F) delay resulting from proceedings relating to transfer to or from
+2 another divisions of the superior court; or
+3 (G) delay reasonably attributable to any period, not to exceed 30
+4 days, during which any proceeding concerning the defendant is actually under
+5 advisement.
+6 (2) Any period of delay resulting from the absence or unavailability of
+7 the defendant or an essential witness. A defendant or an essential witness shall
+8 be considered absent when the person’s whereabouts are unknown and the
+9 person is attempting to avoid apprehension or prosecution or when the person’s
+10 whereabouts cannot be determined by due diligence. A defendant or an
+11 essential witness shall be considered unavailable whenever the person’s
+12 whereabouts are known but the person’s presence for trial cannot be obtained
+13 by due diligence or the person resists appearing at or being returned for trial.
+14 (3) Any period of delay resulting from the fact that the defendant is
+15 mentally incompetent or physically unable to stand trial.
+16 (4) If the complaint or indictment is dismissed by the prosecution and
+17 subsequently a charge is filed against the defendant for the same or a related
+18 offense, any period of delay from the date the charge was dismissed to the date
+19 the limitations period would commence to run as to the subsequent charge.
+VT LEG #385920 v.1
+
+BILL AS INTRODUCED S.178
+2026 Page 5 of 5
+1 (5) A reasonable period of delay when the defendant is joined for trial
+2 with a codefendant as to whom the time for trial has not run and there is no
+3 cause for granting a severance.
+4 (6) Any period of delay resulting from the court granting a continuance,
+5 if the court granted the continuance on the basis of findings that the ends of
+6 justice served by taking such action outweighed the best interests of the public
+7 and the defendant in a speedy trial. No period of delay resulting from a
+8 continuance granted by the court in accordance with this paragraph shall be
+9 excludable under this subdivision unless the judge sets forth in the record of
+10 the case, either orally or in writing, the reasons for finding that the ends of
+11 justice served by the granting of the continuance outweigh the best interests of
+12 the public and the defendant in a speedy trial.
+13 (7) Any period of time between the day on which a defendant or the
+14 defendant’s counsel and the prosecuting attorney agree in writing that the
+15 defendant will plead guilty or nolo contendere to the charges and such time as
+16 the judge accepts or rejects the plea arrangement.
+17 (8) Any period of time between the day on which the defendant enters a
+18 plea of guilty and the day on which an order of the court permitting the
+19 withdrawal of the plea becomes final.
+20 Sec. 2. EFFECTIVE DATE
+21 This act shall take effect on passage.
+VT LEG #385920 v.1

@@ -1,0 +1,762 @@
+Title: 
+Official Title: 
+Source: versions - As Passed By the House (OfficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILLAS PASSED BY THE HOUSE H.718
+2026 Page 1 of 33
+1 H.718
+2 Introduced by Representative Campbell of St. Johnsbury
+3 Referred to Committee on
+4 Date:
+5 Subject: Public service; building energy; contractors; contractor registry;
+6 building energy standards; Residential Building Energy Standards;
+7 Commercial Building Energy Standards
+8 Statement of purpose of bill as introduced: This bill proposes to direct the
+9 Division of Fire Safety to adopt a residential building code, establish a task
+10 force on improving the contractor registry, require contractors to disclose their
+11 criminal record, update the energy education requirements for regulated
+12 professionals, and grant municipalities the authority to administer and enforce
+13 the Residential Building Energy Standards and the Commercial Building
+14 Energy Standards.
+15 An act relating to building energy efficiency
+16 It is hereby enacted by the General Assembly of the State of Vermont:
+17 * * * Findings * * *
+18 Sec. 1. FINDINGS
+19 The General Assembly finds that:
+
+BILLAS PASSED BY THE HOUSE H.718
+2026 Page 2 of 33
+1 (1) Recommendations by stakeholders and building efficiency experts in
+2 the 2023 Building Energy Code Study Committee and the 2024 and 2025
+3 Building Energy Code Working Group consistently find that Vermont’s
+4 mandatory energy codes, the Residential Building Energy Standards (RBES)
+5 and the Commercial Building Energy Standards (CBES), are a subset of
+6 building construction codes and should eventually be administered by the
+7 Division of Fire Safety, which administers all other building codes.
+8 (2) Vermont has not adopted a residential building construction code,
+9 which means there is no administrative infrastructure or enforcement
+10 mechanism for implementing energy codes consistently and effectively. Lack
+11 of a residential building code also means Vermont lacks a standard-of-care
+12 reference for the public, builders, designers, insurance companies, or the
+13 courts, and such lack also may limit the State’s ability to access certain federal
+14 funding.
+15 (3) Lack of consistent and effective implementation and enforcement of
+16 the RBES in particular has resulted in low compliance rates, according to
+17 studies by the Department of Public Service.
+18 (4) Recommendations of the 2024 and 2025 Working Group include
+19 leveraging the Office of Professional Regulation’s (OPR’s) residential
+20 contractor registry to provide market incentives to contractors to register and
+
+BILLAS PASSED BY THE HOUSE H.718
+2026 Page 3 of 33
+1 obtain voluntary certifications, including in energy codes. However, the
+2 registry has not so far proved effective for the public, contractors, or OPR.
+3 (5) OPR does not have adequate resources to make substantial
+4 improvements to the registry. The 2025 Working Group recommended
+5 convening a Task Force and appropriating funding to assist OPR.
+6 (6) While the RBESs do apply to single-family residences, the
+7 Department of Public Service has advised the General Assembly that enabling
+8 legislation does not provide clear authority for municipalities to administer and
+9 enforce the RBES at the local level. Some municipalities do wish to have that
+10 authority.
+11 * * * Residential Building Code * * *
+12 Sec. 2. ADOPTION OF RESIDENTIALBUILDING CODE;
+13 APPROPRIATION; POSITION
+14 (a) The Division of Fire Safety shall adopt a residential building code to
+15 take effect on January 1, 2028. The residential building code shall be based on
+16 the International Residential Code.
+17 (b) The establishment of one permanent, exempt full-time residential
+18 building code administrator in the Division of Fire Safety is authorized for
+19 fiscal year 2027.
+
+BILLAS PASSED BY THE HOUSE H.718
+2026 Page 4 of 33
+1 Sec. 3. GRANT FUNDING FOR DEVELOPMENT OF RESIDENTIAL
+2 BUILDING CODE
+3 The Commissioner of Public Safety shall seek grant funding to facilitate the
+4 development and adoption of a residential building code pursuant to Sec. 2 of
+5 this act. The Commissioner shall seek funding from both federal and private
+6 grant programs.
+7 * * * Task Force * * *
+8 Sec. 4. RESIDENTIALCONTRACTOR REGULATION TASK FORCE;
+9 REPORTS
+10 (a) Creation. There is created the Residential Contractor Regulation Task
+11 Force to improve the existing residential contractor registry and expedite the
+12 creation of certain voluntary certifications. The Task Force shall act in an
+13 advisory capacity to Office of Professional Regulation.
+14 (b) Membership. The Task Force shall be composed of the following
+15 members:
+16 (1) one member appointed by the Secretary of State;
+17 (2) one member appointed by the Commissioner of Public Safety;
+18 (3) one member appointed by the Vermont Builders and Remodelers
+19 Association;
+20 (4) one member appointed by the American Institute of Architects
+21 Vermont;
+
+BILLAS PASSED BY THE HOUSE H.718
+2026 Page 5 of 33
+1 (5) one member appointed by the Secretary of Education;
+2 (6) one member appointed by the Chancellor of the Vermont State
+3 Colleges System;
+4 (7) one member appointed by Vermont Works for Women;
+5 (8) one member appointed by ReSOURCE;
+6 (9) one member appointed by Efficiency Vermont;
+7 (10) one member appointed by the Commissioner of Public Service; and
+8 (11) one member appointed by the Secretary of Natural Resources.
+9 (c) Powers and duties. The Task Force shall:
+10 (1) address shortcomings in the existing residential contractor registry,
+11 including:
+12 (A) improving public-facing web presence;
+13 (B) identifying cost-efficient marketing strategies to the public and
+14 residential contractors;
+15 (C) identifying and creating lists of trade specialties; and
+16 (D) clarifying the relationship between business-based registrations
+17 and individual-based certifications;
+18 (2) expedite the creation of voluntary certifications, including
+19 identifying, vetting and recommending credentialing entities, with initial
+20 certifications in the following or similar subject areas:
+
+BILLAS PASSED BY THE HOUSE H.718
+2026 Page 6 of 33
+1 (A) construction site supervisor;
+2 (B) basic energy code, both residential and commercial; and
+3 (C) high-performance building; and
+4 (3) assess whether the regulating entity for residential building
+5 contractors should be transferred from the Office of Professional Regulation to
+6 the Division of Fire Safety.
+7 (d) Assistance.
+8 (1) The Task Force shall have the administrative, technical, and legal
+9 assistance of the Office of Professional Regulation.
+10 (2) The Division of Fire Safety and Department of Public Services shall
+11 provide informational assistance and technical expertise to the Task Force
+12 regarding issues related to building codes and energy performance.
+13 (e) Reports. The Task Force will submit annual reports on or before
+14 November 1 beginning in 2026 to the Office of Professional Regulation, the
+15 House Committees on Energy and Digital Infrastructure and on General and
+16 Housing, and the Senate Committees on Economic Development, Housing and
+17 General Affairs and on Natural Resources and Energy with its findings and
+18 any recommendations for legislative action.
+
+BILLAS PASSED BY THE HOUSE H.718
+2026 Page 7 of 33
+1 (f) Meetings.
+2 (1) The Secretary of State, or designee, shall call the first meeting of the
+3 Task Force to occur on or before August 1, 2026, and the Task Force shall then
+4 meet at least monthly through July 2027 and then thereafter at least bimonthly.
+5 (2) The Task Force shall select a chair from among its members at the
+6 first meeting.
+7 (3) A majority of the membership shall constitute a quorum.
+8 (4) The Task Force shall cease to exist on June 30, 2029.
+9 (g) Compensation and reimbursement.
+10 (1) Members of the Task Force who are not otherwise compensated by
+11 their employer for attendance at meetings shall be entitled to per diem
+12 compensation and reimbursement of expenses as permitted under 32 V.S.A.
+13 § 1010.
+14 (2) Payments to members of the Task Force authorized under this
+15 subsection shall be made from monies appropriated to the Office of
+16 Professional Regulation.
+17 (i) Appropriation. The sum of $5,500.00 is appropriated to the Office of
+18 Professional Regulation from the General Fund in fiscal year 2026 for per
+19 diem compensation and reimbursement of expenses for members of the Task
+20 Force.
+
+BILLAS PASSED BY THE HOUSE H.718
+2026 Page 8 of 33
+1 * * * Contractor Disclosure * * *
+2 Sec. 5. 26 VSA § 5509 is amended to read:
+3 § 5509. REQUIREMENTS OF REGISTRANTS
+4 * * *
+5 (d) Adverse background. A person registered under this chapter shall,
+6 prior to executing a contract pursuant to subsection (b) of this section, provide
+7 a client with a written disclosure of any prior criminal convictions, adverse
+8 civil judgments, and violations pursuant to section 5510 of this title.
+9 * * * Energy Education * * *
+10 Sec. 6. 3 V.S.A. § 138 is amended to read:
+11 § 138. REQUIRED EDUCATION FOR SPECIFIED LICENSEES; STATE
+12 ENERGY GOALS
+13 * * *
+14 (b) The Office shall require each of the licensees described in subsection
+15 (a) of this section to complete an education module regarding the State’s
+16 energy goals and how each licensee’s specific profession can further those
+17 goals.
+18 (1) The education module shall be not more than two hours and shall be
+19 required as a condition of initial licensure and each license renewal. The
+20 module shall explain how the work of the profession or trade intersects with
+21 the energy codes and affects the energy, air flow, and moisture management
+
+BILLAS PASSED BY THE HOUSE H.718
+2026 Page 9 of 33
+1 dynamics of the building as an integrated system and include education on any
+2 State or utility incentives relevant to the profession.
+3 (A) The education module for initial licensure shall provide general
+4 information regarding the State’s energy goals.
+5 (B) The education module for license renewal shall provide any
+6 updates on the State’s energy goals and any updates regarding corresponding
+7 State energy programs applicable to the profession.
+8 * * *
+9 Sec. 7. 20 V.S.A. § 2731 is amended to read:
+10 § 2731. RULES; INSPECTIONS; VARIANCES
+11 (a) Rules.
+12 (1) The Commissioner is authorized to adopt rules regarding the
+13 construction of buildings, maintenance and operation of premises, and
+14 prevention of fires and removal of fire hazards, and to prescribe standards
+15 necessary to protect the public, employees, and property against harm arising
+16 out of or likely to arise out of fire.
+17 (2)(A) The Commissioner shall require each of the following
+18 certificants
+19 to complete an education module regarding the State’s energy goals and how
+20 each certificant’s specific profession can further those goals:
+21 * * *
+
+BILLAS PASSED BY THE HOUSE H.718
+2026 Page 10 of 33
+1 (B) The education module shall be not more than two hours and shall
+2 be required as a condition of initial certification and certification renewal. The
+3 module shall explain how the work of the profession or trade intersects with
+4 the energy codes and affects the energy, air flow, and moisture management
+5 dynamics of the building as an integrated system and include education on any
+6 State or utility incentives relevant to the profession.
+7 (i) The education module for initial certification shall provide
+8 general information regarding the State’s energy goals.
+9 (ii) The education module for certification renewal shall provide
+10 any updates on the State’s energy goals and any updates regarding
+11 corresponding State energy programs applicable to the profession.
+12 Sec. 8. 20 V.S.A. § 2884 is amended to read:
+13 § 2884. QUALIFICATIONS OF INSPECTORS
+14 * * *
+15 (b) Education. The Commissioner shall require each boiler inspector to
+16 complete an education module regarding the State’s energy goals and how the
+17 boiler inspection profession can further those goals.
+18 (1) The education module shall be not more than two hours and shall be
+19 required as a condition of initial authorization and authorization renewal. The
+20 module shall explain how the work of the profession or trade intersects with
+21 the energy codes and affects the energy, air flow, and moisture management
+
+BILLAS PASSED BY THE HOUSE H.718
+2026 Page 11 of 33
+1 dynamics of the building as an integrated system and include education on any
+2 State or utility incentives relevant to the profession.
+3 (A) The education module for initial authorization shall provide
+4 general information regarding the State’s energy goals.
+5 (B) The education module for authorization renewal shall provide any
+6 updates on the State’s energy goals and any updates regarding corresponding
+7 State energy programs applicable to the profession.
+8 * * *
+9 Sec. 9. 26 V.S.A. § 905 is amended to read:
+10 § 905. APPLICATION; EXAMINATIONS, EDUCATION, AND FEES
+11 * * *
+12 (g) Pursuant to qualifications and procedures determined by the
+13 Commissioner, the Board shall, upon request, waive application fees for
+14 qualified military members and military spouses.
+15 (1) The education module shall be not more than two hours and shall be
+16 required as a condition of initial licensure and license renewal. The module
+17 shall explain how the work of the profession or trade intersects with the energy
+18 codes and affects the energy, air flow, and moisture management dynamics of
+19 the building as an integrated system and include education on any State or
+20 utility incentives relevant to the profession.
+
+BILLAS PASSED BY THE HOUSE H.718
+2026 Page 12 of 33
+1 (A) The education module for initial licensure shall provide general
+2 information regarding the State’s energy goals.
+3 (B) The education module for license renewal shall provide any
+4 updates on the State’s energy goals and any updates regarding corresponding
+5 State energy programs applicable to the profession.
+6 * * *
+7 Sec. 10. 26 V.S.A. § 2193 is amended to read:
+8 § 2193. APPLICATIONS; EXAMINATIONS, EDUCATION, AND
+9 FEES
+10 * * *
+11 (f) In addition to other education requirements of this subchapter, the
+12 Commissioner shall require each applicant to complete an education module
+13 regarding the State’s energy goals and how the plumbing profession can
+14 further those goals.
+15 (1) The education module shall be not more than two hours and shall be
+16 required as a condition of initial licensure and license renewal, except that
+17 master and journeyman plumbers who complete this education module shall
+18 not be required to complete this education module for any additional specialty
+19 license. The module shall explain how the work of the profession or trade
+20 intersects with the energy codes and affects the energy, air flow, and moisture
+
+BILLAS PASSED BY THE HOUSE H.718
+2026 Page 13 of 33
+1 management dynamics of the building as an integrated system and include
+2 education on any State or utility incentives relevant to the profession.
+3 (A) The education module for initial licensure shall provide general
+4 information regarding the State’s energy goals.
+5 (B) The education module for license renewal shall provide any
+6 updates on the State’s energy goals and any updates regarding corresponding
+7 State energy programs applicable to the profession.
+8 * * *
+9 Sec. 11. ENERGY PROFESSIONALS REGULATION REPORT
+10 The Office of Professional Regulation shall conduct a sunrise process to
+11 assess whether Home Energy Rating Systems raters and energy professionals
+12 should be professions regulated by the Office. The Office shall also assess
+13 whether the regulation of residential building contractors should be transferred
+14 from registration to certification or licensure. On or before July 1, 2027, the
+15 Office shall submit a report with its recommendations to the House
+16 Committees on Energy and Digital Infrastructure and on Government
+17 Operations and Military Affairs and the Senate Committees on Economic
+18 Development, Housing, and General Affairs and on Natural Resources and
+19 Energy.
+
+BILLAS PASSED BY THE HOUSE H.718
+2026 Page 14 of 33
+1 * * * Energy Code Enforcement * * *
+2 Sec. 12. 30 V.S.A. § 51 is amended to read:
+3 § 51. RESIDENTIALBUILDING ENERGY STANDARDS; STRETCH
+4 CODE
+5 * * *
+6 (j) Municipal enforcement. A municipality may administer and enforce the
+7 RBES within the municipality in compliance with this section.
+8 Sec. 13. 30 V.S.A. § 53 is amended to read:
+9 § 53. COMMERCIALBUILDING ENERGY STANDARDS
+10 * * *
+11 (h) Municipal enforcement. A municipality may administer and enforce
+12 the CBES within the municipality in compliance with this section.
+13 * * * Appropriations * * *
+14 Sec. 14. APPROPRIATIONS
+15 (a) In fiscal year 2027, the sum of $200,000.00 is appropriated from the
+16 Fuel Efficiency Fund to the Department of Public Service for the purpose of
+17 funding, as part of the energy efficiency utilities’ 2027–2029 Demand
+18 Resource Plans, consultation and technical support to municipalities that elect
+19 to adopt and enforce the Residential Building Energy Standards and the
+20 Commercial Building Energy Standards.
+
+BILLAS PASSED BY THE HOUSE H.718
+2026 Page 15 of 33
+1 (b) In fiscal year 2027, the sum of $200,000.00 is appropriated from the
+2 Fuel Efficiency Fund to the Office of Professional Regulation for the purpose
+3 of launching, by December 31, 2027, a consumer-oriented website and a
+4 comprehensive marketing plan to raise public and contractor awareness of the
+5 residential contractor registry.
+6 * * * Effective Date * * *
+7 Sec. 15. EFFECTIVE DATE
+8 This act shall take effect on July 1, 2026.
+* * * Findings * * *
+Sec. 1. FINDINGS
+The General Assembly finds that:
+(1) Public policy for several years has implemented strategies to
+stimulate construction to relieve Vermont’s severe housing shortage. These
+actions are gaining momentum without appropriate construction standards for
+one- and two-unit dwellings and with uneven application of energy efficiency
+standards.
+(2) Recommendations by stakeholders and building efficiency experts in
+the 2023 Building Energy Code Study Committee and the 2024 and 2025
+Building Energy Code Working Group consistently find that Vermont’s
+mandatory energy codes, the Residential Building Energy Standards (RBES)
+and the Commercial Building Energy Standards (CBES), are a subset of
+
+BILLAS PASSED BY THE HOUSE H.718
+2026 Page 16 of 33
+building construction codes and should eventually be administered by the
+Division of Fire Safety, which administers all other building codes.
+(3) Vermont has not adopted a residential building construction code
+applicable to one- and two-unit dwellings, which means that for these
+buildings there is no administrative infrastructure or enforcement mechanism
+for implementing energy codes consistently and effectively. Lack of a
+residential building code also means Vermont lacks a standard-of-care
+reference for the public, builders, designers, insurance companies, or the
+courts, and such lack also may limit the State’s ability to access certain federal
+funding.
+(4) Lack of consistent and effective implementation and enforcement of
+the RBES in particular has resulted in low compliance rates, according to
+studies by the Department of Public Service.
+(5) Recommendations of the 2024 and 2025 Working Group include
+leveraging the Office of Professional Regulation’s (OPR’s) residential
+contractor registry to provide market incentives to contractors to register and
+obtain voluntary certifications, including in energy codes. However, the
+registry has not so far proved effective for the public, contractors, or OPR.
+(6) OPR does not have adequate resources to make substantial
+improvements to the registry. The 2025 Working Group recommended
+convening a Task Force and appropriating funding to assist OPR.
+
+BILLAS PASSED BY THE HOUSE H.718
+2026 Page 17 of 33
+(7) While the RBESs do apply to single-family residences, the
+Department of Public Service has advised the General Assembly that enabling
+legislation does not provide clear authority for municipalities to administer
+and enforce the RBES at the local level. Some municipalities do wish to have
+that authority.
+* * * Residential Building Code * * *
+Sec. 2. ADOPTION OF RESIDENTIAL BUILDING CODE
+On or before January 15, 2027, the Director of Fire Safety shall complete
+an assessment on whether and how the State should adopt a residential
+building code. The Director shall submit the report with the recommendation
+to the House Committees on Energy and Digital Infrastructure and on General
+and Housing and the Senate Committee on Economic Development, Housing
+and General Affairs.
+* * * Task Force * * *
+Sec. 3. RESIDENTIAL CONTRACTOR REGISTRY TASK FORCE;
+REPORTS
+(a) Creation. There is created the Residential Contractor Registry Task
+Force to improve the existing residential contractor registry and expedite the
+creation of certain voluntary certifications. The Task Force shall act in an
+advisory capacity to Office of Professional Regulation (OPR).
+
+BILLAS PASSED BY THE HOUSE H.718
+2026 Page 18 of 33
+(b) Membership. The Task Force shall be composed of the following
+members:
+(1) one member appointed by the Secretary of State;
+(2) one member appointed by the Commissioner of Public Safety;
+(3) one member appointed by the Vermont Builders and Remodelers
+Association;
+(4) one member appointed by the American Institute of Architects
+Vermont;
+(5) one member appointed by the Secretary of Education;
+(6) one member appointed by the Chancellor of the Vermont State
+Colleges System;
+(7) one member from the Office of Economic Opportunity’s
+Weatherization Assistance Program;
+(8) one member from the Vermont League of Cities and Towns;
+(9) one member appointed by Efficiency Vermont;
+(10) one member appointed by the Commissioner of Public Service;
+(11) one member from the Vermont Attorney General’s office;
+(12) one member from Associated Builders and Contractors of New
+Hampshire and Vermont;
+(13) one member from Associated General Contractors of Vermont;
+
+BILLAS PASSED BY THE HOUSE H.718
+2026 Page 19 of 33
+(14) one residential contractor not affiliated with Associated Builders
+and Contractors of New Hampshire and Vermont or Associated General
+Contractors of Vermont, appointed by the Governor; and
+(15) one member of the public appointed by the Governor.
+(c) Powers and duties. The Task Force shall advise OPR on ways to:
+(1) address shortcomings in the existing residential contractor registry,
+including:
+(A) improving public-facing web presence;
+(B) identifying cost-efficient outreach strategies to the public and
+residential contractors;
+(C) identifying and creating lists of trade specialties; and
+(D) clarifying the relationship between business-based registrations
+and individual-based certifications;
+(2) expedite the creation of voluntary certifications, including
+identifying, vetting and recommending credentialing entities, with initial
+certifications in the following or similar subject areas:
+(A) construction site supervisor;
+(B) basic energy code, both residential and commercial; and
+(C) high-performance building;
+
+BILLAS PASSED BY THE HOUSE H.718
+2026 Page 20 of 33
+(3) assess how to improve the energy education modules required under
+3 V.S.A. § 138 and whether they should be administered by the Department of
+Public Service;
+(4) assess whether the type of regulation for residential contractors
+should be changed from registration to certification or licensure;
+(5) assess whether and how the regulating entity for residential building
+contractors should be transferred from the Office of Professional Regulation to
+the Division of Fire Safety; and
+(6) consider any other strategies to improve and streamline the
+regulation of the residential construction industry.
+(d) Assistance.
+(1) The Task Force shall have the administrative, technical, and legal
+assistance of the Office of Professional Regulation.
+(2) The Division of Fire Safety and Department of Public Service shall
+provide informational assistance and technical expertise to the Task Force
+regarding issues related to building codes and energy performance.
+(e) Reports. Beginning in 2026, the Task Force shall submit annual reports
+on or before November 1 to the Office of Professional Regulation, the House
+Committees on Energy and Digital Infrastructure and on General and
+Housing, and the Senate Committees on Economic Development, Housing and
+
+BILLAS PASSED BY THE HOUSE H.718
+2026 Page 21 of 33
+General Affairs and on Natural Resources and Energy with its findings and
+any recommendations for legislative action.
+(f) Meetings.
+(1) The member appointed by the Secretary of State shall call the first
+meeting of the Task Force to occur on or before August 1, 2026, and the Task
+Force shall then meet at least monthly through July 2027 and then thereafter at
+least every other month.
+(2) The Task Force shall select a chair from among its members at the
+first meeting.
+(3) A majority of the membership shall constitute a quorum.
+(4) The Task Force shall cease to exist on June 30, 2029.
+(g) Compensation and reimbursement.
+(1) Members of the Task Force who are not otherwise compensated by
+their employer for attendance at meetings shall be entitled to per diem
+compensation and reimbursement of expenses as permitted under 32 V.S.A.
+§ 1010.
+(2) Payments to members of the Task Force authorized under this
+subsection shall be made from monies appropriated to the Office of
+Professional Regulation.
+
+BILLAS PASSED BY THE HOUSE H.718
+2026 Page 22 of 33
+* * * Energy Education * * *
+* * * Architects, Engineers, and Property Inspectors * * *
+Sec. 4. 3 V.S.A. § 138 is amended to read:
+§ 138. REQUIRED EDUCATION FOR SPECIFIED LICENSEES; STATE
+ENERGY GOALS
+* * *
+(b) The Office shall require each of the licensees described in subsection
+(a) of this section to complete an education module regarding the State’s
+energy goals and how each licensee’s specific profession can further those
+goals.
+(1) The education module shall be not more than two hours and shall be
+required as a condition of initial licensure and each license renewal. The
+module shall explain how the work of the profession or trade intersects with
+the energy codes and affects the energy, air flow, and moisture management
+dynamics of the building as an integrated system and include education on any
+State or utility incentives relevant to the profession.
+(A) The education module for initial licensure shall provide general
+information regarding the State’s energy goals.
+(B) The education module for license renewal shall provide any
+updates on the State’s energy goals and any updates regarding corresponding
+State energy programs applicable to the profession.
+
+BILLAS PASSED BY THE HOUSE H.718
+2026 Page 23 of 33
+(2) The Office shall consider any recommendations on these education
+modules provided by relevant stakeholders and approve education modules in
+consultation with the Agency of Natural Resources and the Department of
+Public Service for all the licensees set forth in subsection (a) of this section
+and in consultation with the Department of Taxes for real estate appraisers
+and real estate brokers and sales persons. Beginning January 1, 2028, and
+every 3 years thereafter, the Office shall review these education modules,
+consider recommendations by relevant stakeholders, and update the modules
+as necessary.
+* * * Heating Equipment Technicians * * *
+Sec. 5. 20 V.S.A. § 2731 is amended to read:
+§ 2731. RULES; INSPECTIONS; VARIANCES
+(a) Rules.
+(1) The Commissioner is authorized to adopt rules regarding the
+construction of buildings, maintenance and operation of premises, and
+prevention of fires and removal of fire hazards, and to prescribe standards
+necessary to protect the public, employees, and property against harm arising
+out of or likely to arise out of fire.
+(2)(A) The Commissioner shall require each of the following certificants
+to complete an education module regarding the State’s energy goals and how
+each certificant’s specific profession can further those goals:
+
+BILLAS PASSED BY THE HOUSE H.718
+2026 Page 24 of 33
+* * *
+(B) The education module shall be not more than two hours and shall
+be required as a condition of initial certification and certification renewal.
+The module shall explain how the work of the profession or trade intersects
+with the energy codes and affects the energy, air flow, and moisture
+management dynamics of the building as an integrated system and include
+education on any State or utility incentives relevant to the profession.
+(i) The education module for initial certification shall provide
+general information regarding the State’s energy goals.
+(ii) The education module for certification renewal shall provide
+any updates on the State’s energy goals and any updates regarding
+corresponding State energy programs applicable to the profession.
+(C) The Commissioner shall consider any recommendations on these
+education modules provided by relevant stakeholders and approve education
+modules in consultation with the Agency of Natural Resources and the
+Department of Public Service. Beginning January 1, 2028, and every 3 years
+thereafter, the Commissioner shall review these education modules, consider
+recommendations by relevant stakeholders, and update the modules as
+necessary.
+* * *
+
+BILLAS PASSED BY THE HOUSE H.718
+2026 Page 25 of 33
+* * * Commissioned Boiler Inspectors * * *
+Sec. 6. 20 V.S.A. § 2884 is amended to read:
+§ 2884. QUALIFICATIONS OF INSPECTORS
+* * *
+(b) Education. The Commissioner shall require each boiler inspector to
+complete an education module regarding the State’s energy goals and how the
+boiler inspection profession can further those goals.
+(1) The education module shall be not more than two hours and shall be
+required as a condition of initial authorization and authorization renewal. The
+module shall include education on any State or utility incentives relevant to the
+profession.
+(A) The education module for initial authorization shall provide
+general information regarding the State’s energy goals.
+(B) The education module for authorization renewal shall provide any
+updates on the State’s energy goals and any updates regarding corresponding
+State energy programs applicable to the profession.
+(2) The Commissioner shall consider any recommendations on these
+education modules provided by relevant stakeholders and approve education
+modules in consultation with the Agency of Natural Resources and the
+Department of Public Service. [Repealed.]
+* * *
+
+BILLAS PASSED BY THE HOUSE H.718
+2026 Page 26 of 33
+* * * Electricians * * *
+Sec. 7. 26 V.S.A. § 905 is amended to read:
+§ 905. APPLICATION; EXAMINATIONS, EDUCATION, AND FEES
+* * *
+(g) Pursuant to qualifications and procedures determined by the
+Commissioner, the Board shall, upon request, waive application fees for
+qualified military members and military spouses.
+(1) The education module shall be not more than two hours and shall be
+required as a condition of initial licensure and license renewal. The module
+shall explain how the work of the profession or trade intersects with the energy
+codes and affects the energy, air flow, and moisture management dynamics of
+the building as an integrated system and include education on any State or
+utility incentives relevant to the profession.
+(A) The education module for initial licensure shall provide general
+information regarding the State’s energy goals.
+(B) The education module for license renewal shall provide any
+updates on the State’s energy goals and any updates regarding corresponding
+State energy programs applicable to the profession.
+(2) The Commissioner shall consider any recommendations on these
+education modules provided by relevant stakeholders and approve education
+modules in consultation with the Agency of Natural Resources and the
+
+BILLAS PASSED BY THE HOUSE H.718
+2026 Page 27 of 33
+Department of Public Service. Beginning January 1, 2028, and every 3 years
+thereafter, the Commissioner shall review these education modules, consider
+recommendations by relevant stakeholders, and update the modules as
+necessary.
+* * *
+* * * Plumbers * * *
+Sec. 8. 26 V.S.A. § 2193 is amended to read:
+§ 2193. APPLICATIONS; EXAMINATIONS, EDUCATION, AND
+FEES
+* * *
+(f) In addition to other education requirements of this subchapter, the
+Commissioner shall require each applicant to complete an education module
+regarding the State’s energy goals and how the plumbing profession can
+further those goals.
+(1) The education module shall be not more than two hours and shall be
+required as a condition of initial licensure and license renewal, except that
+master and journeyman plumbers who complete this education module shall
+not be required to complete this education module for any additional specialty
+license. The module shall explain how the work of the profession or trade
+intersects with the energy codes and affects the energy, air flow, and moisture
+
+BILLAS PASSED BY THE HOUSE H.718
+2026 Page 28 of 33
+management dynamics of the building as an integrated system and include
+education on any State or utility incentives relevant to the profession.
+(A) The education module for initial licensure shall provide general
+information regarding the State’s energy goals.
+(B) The education module for license renewal shall provide any
+updates on the State’s energy goals and any updates regarding corresponding
+State energy programs applicable to the profession.
+(2) The Commissioner shall consider any recommendations on these
+education modules provided by relevant stakeholders and approve education
+modules in consultation with the Agency of Natural Resources and the
+Department of Public Service. Beginning January 1, 2028, and every 3 years
+thereafter, the Commissioner shall review these education modules, consider
+recommendations by relevant stakeholders, and update the modules as
+necessary.
+Sec. 9. ENERGY PROFESSIONALS REGULATION REPORT
+The Office of Professional Regulation shall conduct a sunrise process to
+assess whether Home Energy Rating Systems raters and energy professionals
+should be regulated professions. On or before November 1, 2028, the Office
+shall submit a report with its recommendations to the House Committees on
+Energy and Digital Infrastructure and on Government Operations and Military
+
+BILLAS PASSED BY THE HOUSE H.718
+2026 Page 29 of 33
+Affairs and the Senate Committees on Economic Development, Housing, and
+General Affairs and on Natural Resources and Energy.
+* * * Energy Code Enforcement * * *
+Sec. 10. 30 V.S.A. § 51 is amended to read:
+§ 51. RESIDENTIAL BUILDING ENERGY STANDARDS; STRETCH
+CODE
+* * *
+(j) Municipal enforcement. A municipality may enforce the RBES within
+the municipality in compliance with this section.
+(k) Transitional safe harbor compliance.
+(1) This subsection applies to any residential building for which a
+certificate of compliance with the Residential Building Energy Standards was
+filed pursuant to this section using the 2020 RBES compliance path during the
+period beginning on September 17, 2025, the effective date of Executive Order
+No. 06-25 of 2025, and until such time as amendments to the RBES rules are
+adopted.
+(2) A building described in subdivision (1) of this subsection shall be
+deemed to be in compliance with this section. The use of the 2020 RBES
+compliance path during that period shall not, by itself, constitute a violation of
+this section or of any rule adopted under this section.
+
+BILLAS PASSED BY THE HOUSE H.718
+2026 Page 30 of 33
+(3) The State shall not bring an enforcement action under this section
+based solely on the use of the 2020 RBES compliance path for a building
+described in subdivision (1) of this subsection, and no damages, penalties, or
+other relief shall be awarded in an action brought under subsection (g) of this
+section based solely on such use.
+Sec. 11. 30 V.S.A. § 53 is amended to read:
+§ 53. COMMERCIAL BUILDING ENERGY STANDARDS
+* * *
+(h) Municipal enforcement. A municipality may enforce the CBES within
+the municipality in compliance with this section.
+(i) Transitional safe harbor compliance.
+(1) This subsection applies to any commercial building for which the
+builder or owner complied with the version of the 2020 Commercial Building
+Energy Standards as referenced in Executive Order No. 06-25 of 2025 during
+the period beginning on September 17, 2025, the effective date of the Executive
+Order, and until such time as amendments to the CBES rules are adopted.
+(2) A building described in subdivision (1) of this subsection shall be
+deemed to be in compliance with this section. The use of the 2020 version of
+the CBES during that period shall not, by itself, constitute a violation of this
+section or of any rule adopted under this section.
+
+BILLAS PASSED BY THE HOUSE H.718
+2026 Page 31 of 33
+(3) The State shall not bring an enforcement action under this section
+based solely on the use of the 2020 version of the CBES for a building
+described in subdivision (1) of this subsection.
+Sec. 12. 24 V.S.A. § 3101 is amended to read:
+§ 3101. BYLAWS AND ORDINANCES; PENALTIES
+(a) The mayor and board of aldermen of a city, the selectboard of a town,
+or the trustees of an incorporated village, may, in accordance with this
+chapter, establish codes and regulations for the construction, maintenance,
+repair, and alteration of buildings and other structures within the municipality.
+Such codes and regulations may include provisions relating to building
+materials, structural design, passageways, stairways and exits, heating
+systems, fire protection procedures, and such other matters as may be
+reasonably necessary for the health, safety, and welfare of the public, but
+excluding electrical installations subject to regulation under 26 V.S.A. chapter
+15. The adopted codes and regulations may incorporate by reference the
+Residential Building Energy Standards and the Commercial Building Energy
+Standards established pursuant to 30 V.S.A. chapter 2.
+(b) Any code or regulation under subsection (a) of this section shall be
+adopted, amended, or repealed and enforced pursuant to the provisions of
+chapter 59 of this title.
+
+BILLAS PASSED BY THE HOUSE H.718
+2026 Page 32 of 33
+(c) When any municipality adopts or amends a building code, it shall
+impose requirements consistent with the current rules and standards adopted
+by the Commissioner of Public Safety under 20 V.S.A. chapter 173,
+subchapter 2.
+* * *
+(g) Incorporation of the Residential Building Energy Standards and the
+Commercial Building Energy Standards pursuant to subsection (a) of this
+section shall allow the municipality to enforce those standards.
+* * * Appropriations * * *
+Sec. 13. APPROPRIATIONS
+Notwithstanding any provision of law to the contrary:
+(1) In fiscal year 2027, the sum of $200,000.00 is appropriated from the
+General Fund to the Department of Public Service for the purpose of funding,
+as part of the energy efficiency utilities’ 2027–2029 Demand Resource Plans,
+consultation and technical support to municipalities that elect to adopt and
+enforce the Residential Building Energy Standards and the Commercial
+Building Energy Standards.
+(2) In fiscal year 2027, the sum of $200,000.00 is appropriated from the
+General Fund to the Office of Professional Regulation to support the
+Residential Contractor Registry Task Force established in Sec. 3 of this act
+with the goal of identifying a consumer-oriented agency or organization to
+
+BILLAS PASSED BY THE HOUSE H.718
+2026 Page 33 of 33
+host a website to raise public awareness of the residential contractor registry;
+providing funding to that agency or organization to launch and manage the
+website on or before December 31, 2027 and supporting the Office of
+Professional Regulation in the development of voluntary certifications.
+Sec. 13. CONTINGENCY OF FUNDING
+The duty to implement the Residential Contractor Registry Task Force
+described in Sec. 3 of this act is contingent upon an appropriation of funds in
+fiscal year 2027 from the General Fund to the Office of Professional
+Regulation for that purpose.
+* * * Effective Date * * *
+Sec. 14. EFFECTIVE DATE
+This act shall take effect on July 1, 2026.

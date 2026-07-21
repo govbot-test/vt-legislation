@@ -1,0 +1,160 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.677
+2026 Page 1 of 7
+1 H.677
+2 Introduced by Representatives Burtt of Cabot, Branagan of Georgia,
+3 Dobrovich of Williamstown, Higley of Lowell, Labor of
+4 Morgan, Laroche of Franklin, Morgan, L. of Milton, Nelson of
+5 Derby, North of Ferrisburgh, O’Brien of Tunbridge, Page of
+6 Newport City, Pritchard of Pawlet, and Tagliavia of Corinth
+7 Referred to Committee on
+8 Date:
+9 Subject: Public service; energy; solar energy; primary agricultural soils
+10 Statement of purpose of bill as introduced: This bill proposes to require that as
+11 part of electric generation facility siting cases before the Public Utility
+12 Commission, the Agency of Agriculture, Food and Markets be a required
+13 party; require information on secondary and local importance agricultural soils;
+14 and find that preclusion of farming on more than five acres will be an undue
+15 burden.
+16 An act relating to primary, secondary, and local importance agricultural
+17 soils and solar energy generation
+18 It is hereby enacted by the General Assembly of the State of Vermont:
+19 Sec. 1. 30 V.S.A. § 248 is amended to read:
+VT LEG #385284 v.3
+
+BILL AS INTRODUCED H.677
+2026 Page 2 of 7
+1 § 248. NEW GAS AND ELECTRIC PURCHASES, INVESTMENTS, AND
+2 FACILITIES; CERTIFICATE OF PUBLIC GOOD
+3 (a)(1) No company, as defined in section 201 of this subchapter, may:
+4 * * *
+5 (4)(A) With respect to a facility located in the State, in response to a
+6 request from one or more members of the public or a party, the Public Utility
+7 Commission shall hold a nonevidentiary public hearing on a petition for such
+8 finding and certificate. The public hearing shall either be remotely accessible
+9 or held in at least one county in which any portion of the construction of the
+10 facility is proposed to be located, or both. The Commission in its discretion
+11 may hold a nonevidentiary public hearing in the absence of any request from a
+12 member of the public or a party. From the comments made at a public hearing,
+13 the Commission shall derive areas of inquiry that are relevant to the findings to
+14 be made under this section and shall address each such area in its decision.
+15 Prior to making findings, if the record does not contain evidence on such an
+16 area, the Commission shall direct the parties to provide evidence on the area.
+17 This subdivision (4) does not require the Commission to respond to each
+18 individual comment.
+19 * * *
+20 (E) The Agency of Natural Resources and the Agency of Agriculture,
+21 Food and Markets shall appear as a party parties in any proceedings held under
+VT LEG #385284 v.3
+
+BILL AS INTRODUCED H.677
+2026 Page 3 of 7
+1 this subsection (a), shall provide evidence and recommendations concerning
+2 any findings to be made under subdivision (b)(5) of this section, and may
+3 provide evidence and recommendations concerning any other matters to be
+4 determined by the Commission in such a proceeding.
+5 (F) The following shall apply to the participation of the Agency of
+6 Agriculture, Food and Markets in proceedings held under this subsection (a):
+7 (i) In any proceeding regarding an electric generation facility that
+8 will have a capacity greater than 500 kilowatts or an energy storage facility
+9 that will have a capacity greater than 1 megawatt and will be sited on a tract
+10 containing primary agricultural soils as defined in 10 V.S.A. § 6001, the
+11 Agency shall appear as a party and provide evidence and recommendations
+12 concerning any findings to be made under subdivision (b)(5) of this section on
+13 those soils and may provide evidence and recommendations concerning any
+14 other matters to be determined by the Commission in such a proceeding.
+15 (ii) In a proceeding other than one described in subdivision (i) of
+16 this subdivision (4)(F), the Agency shall have the right to appear and
+17 participate.
+18 * * *
+19 (J) This subdivision (J) applies to an application for an electric
+20 generation facility with a capacity that is greater than 50 kilowatts and to an
+21 application for an energy storage facility that is greater than 1 megawatt, unless
+VT LEG #385284 v.3
+
+BILL AS INTRODUCED H.677
+2026 Page 4 of 7
+1 the facility is located on a new or existing structure the primary purpose of
+2 which is not the generation of electricity. In addition to any other information
+3 required by the Commission, the application for such a facility shall include
+4 information that delineates:
+5 (i) the full limits of physical disturbance due to the construction
+6 and operation of the facility and related infrastructure, including areas
+7 disturbed due to the creation or modification of access roads and utility lines
+8 and the clearing or management of vegetation;
+9 (ii) the presence and total acreage of primary, secondary, and local
+10 importance agricultural soils as defined in 10 V.S.A. § 6001 and by the Natural
+11 Resources Conservation Service on each tract to be physically disturbed in
+12 connection with the construction and operation of the facility, the amount of
+13 those soils to be disturbed, and any other proposed impacts to those soils;
+14 (iii) all visible infrastructure associated with the facility; and
+15 (iv) all impacts of the facility’s construction and operation under
+16 subdivision (b)(5) of this section, including impacts due to the creation or
+17 modification of access roads and utility lines and the clearing or management
+18 of vegetation.
+19 * * *
+VT LEG #385284 v.3
+
+BILL AS INTRODUCED H.677
+2026 Page 5 of 7
+1 (b) Before the Public Utility Commission issues a certificate of public good
+2 as required under subsection (a) of this section, it shall find that the purchase,
+3 investment, or construction:
+4 * * *
+5 (2)(A) Is required to meet the need for present and future demand for
+6 service that could not otherwise be provided in a more cost-effective manner
+7 through energy conservation programs and measures and energy-efficiency
+8 and load management measures, including those developed pursuant to the
+9 provisions of subsection 209(d), section 218c, and subsection 218(b) of this
+10 title. In determining whether this criterion is met, the Commission shall assess
+11 the environmental and economic costs of the purchase, investment, or
+12 construction in the manner set out under subdivision 218c(a)(1) (least cost
+13 integrated plan) of this title and, as to a generation facility, shall consider
+14 whether the facility will avoid, reduce, or defer transmission or distribution
+15 system investments.
+16 (B) With respect to a solar energy generation facility, to meet this
+17 criterion, a Vermont-licensed engineering firm approved by the Department of
+18 Environmental Conservation shall perform a full-spectrum audit of energy
+19 payback time and carbon dioxide emissions at the cost of the applicant. The
+20 audit shall include a cradle-to-grave calculation, including resource extraction;
+21 mining and procurement; production manufacturing and transportation;
+VT LEG #385284 v.3
+
+BILL AS INTRODUCED H.677
+2026 Page 6 of 7
+1 deployment and disposal of all technologies required including solar panels
+2 concrete, footings, transformers, batteries; forest ecosystem destruction;
+3 foregoing 25 years of agricultural crops; and construction and landscaping of
+4 the project.
+5 * * *
+6 (5) With respect to an in-state facility, will not have an undue adverse
+7 effect on aesthetics, historic sites, air and water purity, the natural
+8 environment, the use of natural resources, and the public health and safety,
+9 with due consideration having been given to the criteria specified in 10 V.S.A.
+10 §§ 1424a(d) and 6086(a)(1) through (8) and (9)(K), impacts to primary
+11 agricultural soils, agricultural soils of statewide importance or local importance
+12 as defined in 10 V.S.A. § 6001 and as designated by the Natural Resources
+13 Conservation Service, and greenhouse gas impacts. The siting of a facility or
+14 group of physically adjacent or interrelated facilities such that facility
+15 structures and related infrastructure preclude the tilling of soil, seeding,
+16 growing, or harvesting of agricultural crops on greater than five acres of
+17 primary, statewide, or local importance agricultural soils, or reduce future
+18 Vermont-based food security or will result in the destruction of forest
+19 ecosystems, forest soils and their unique biology, or increased volatilization
+20 and release of forest soil carbon on more than five acres shall be considered
+21 undue and not in the public good.
+VT LEG #385284 v.3
+
+BILL AS INTRODUCED H.677
+2026 Page 7 of 7
+1 * * *
+2 Sec. 2. EFFECTIVE DATE
+3 This act shall take effect on July 1, 2026.
+VT LEG #385284 v.3

@@ -1,0 +1,591 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.601
+2026 Page 1 of 24
+1 H.601
+2 Introduced by Representatives McCoy of Poultney and Southworth of Walden
+3 Referred to Committee on
+4 Date:
+5 Subject: Public service; energy; renewable energy; clean energy; nuclear
+6 energy; nuclear storage
+7 Statement of purpose of bill as introduced: This bill proposes to change the
+8 Renewable Energy Standard to the Clean Energy Standard by allowing zero
+9 emission energy to count as part of the Standard. It would also make changes
+10 to the nuclear storage at the former Vermont Yankee site.
+11 An act relating to the Clean Energy Standard
+12 It is hereby enacted by the General Assembly of the State of Vermont:
+13 Sec. 1. 30 V.S.A. § 202b is amended to read:
+14 § 202b. STATE COMPREHENSIVE ENERGY PLAN
+15 * * *
+16 (e) The Commissioner of Public Service (Commissioner) shall file an
+17 annual report on progress in meeting the goals of the Plan. The report shall
+18 address each of the following sectors of energy consumption in the State:
+19 electricity, nonelectric fuels for thermal purposes, and transportation. In
+20 preparing the report, the Commissioner shall consult with the Secretaries of
+VT LEG #386172 v.2
+
+BILL AS INTRODUCED H.601
+2026 Page 2 of 24
+1 Administration, of Agriculture, Food and Markets, of Natural Resources, and
+2 of Transportation and the Commissioner of Buildings and General Services.
+3 * * *
+4 (3) For each sector, the report shall provide:
+5 (A) In millions of British thermal units (MMBTUs) for For the most
+6 recent calendar year for which data are available, the total amount of energy
+7 consumed, the amount of clean and renewable energy consumed, and the
+8 percentage of clean and renewable energy consumed. For the electricity
+9 sector, the report shall also state the amounts in megawatt hours (MWH) of
+10 retail sales and load for Vermont as well as for each retail electricity provider
+11 and the Vermont and New England summer and winter peak electric demand,
+12 including the hour and day of peak demand.
+13 (B) Projections of the energy reductions and shift to clean and
+14 renewable energy expected to occur under existing policies, technologies, and
+15 markets. The most recent available data shall be used to inform these
+16 projections and shall be provided as a supplement to the data described in
+17 subdivision (A) of this subdivision (3).
+18 (C) Recommendations of policies to further the clean and renewable
+19 energy requirements and goals set forth in statute and the Plan, along with an
+20 evaluation of the relative cost-effectiveness and equity-related impacts of
+21 different policy approaches.
+VT LEG #386172 v.2
+
+BILL AS INTRODUCED H.601
+2026 Page 3 of 24
+1 * * *
+2 (7) The report shall include the following information on progress
+3 toward meeting the Renewable Clean Energy Standard (RES CES):
+4 (A) An assessment of the costs and benefits of the RES CES based
+5 on the most current available data, including rate and economic impacts,
+6 customer savings, technology deployment, greenhouse gas emission reductions
+7 achieved both relative to 10 V.S.A § 578 requirements and societally, fuel
+8 price stability, effect on transmission and distribution upgrade costs, and any
+9 recommended changes based on this assessment.
+10 (i) For the most recent calendar year for which data is available,
+11 each retail electricity provider’s retail sales and total load, in MWh; required
+12 amounts of clean and renewable energy for each category of the RES CES as
+13 set forth in section 8005 of this title; and amounts of clean and renewable
+14 energy and tradeable clean and renewable energy credits eligible to satisfy the
+15 requirements of sections 8004 and 8005 of this title actually owned by the
+16 Vermont retail electricity providers, expressed as a percentage of retail sales
+17 and total load MWh purchases made by Vermont retail electricity providers to
+18 meet demand.
+19 * * *
+20 (iv) The report shall assess how costs and benefits of the RES
+21 CES are being distributed across State, to the extent possible given available
+VT LEG #386172 v.2
+
+BILL AS INTRODUCED H.601
+2026 Page 4 of 24
+1 data, by retail electricity service territory, municipality, and environmental
+2 justice focus populations, as defined by 3 V.S.A. § 6002. Such an assessment
+3 shall consider metrics to monitor affordability of electric rates.
+4 (B) Projections, looking at least 10 years ahead, of the impacts of the
+5 RES CES on electric utility rates, total energy consumption, fossil fuel
+6 consumption, and greenhouse gas emissions.
+7 (i) The Department shall consider at least three scenarios based on
+8 high, mid-range, and low energy price forecasts.
+9 (ii) The Department shall provide an opportunity for public comment
+10 on the model during its development and make the model and associated
+11 documents available on the Department’s website.
+12 (iii) The Department shall project, for the State, the impact of the RES
+13 in each of the following areas: electric utility rates, total energy consumption,
+14 electric energy consumption, fossil fuel consumption, and greenhouse gas
+15 emissions. The report shall compare the amount or level in each of these areas
+16 with and without the program.
+17 (C) An assessment of whether the requirements of the RES CES have
+18 been met to date, and any recommended changes needed to achieve those
+19 requirements.
+20 (D) A summary of the activities of distributed renewable generation
+21 programs that support the achievement of the RES CES, including:
+VT LEG #386172 v.2
+
+BILL AS INTRODUCED H.601
+2026 Page 5 of 24
+1 (i) Standard Offer Program under section 8005a of this title,
+2 including the number of plants participating under contract and in service in
+3 the Program, the prices paid by the Program, and the plant capacity and
+4 average annual energy generation of the participating plants. The report shall
+5 present this information as totals for all participating plants and by category of
+6 renewable energy technology. The report also shall identify the number of
+7 applications received, the number of participating plants under contract, and
+8 the number of participating plants actually in service.
+9 * * *
+10 (9) For the report due in 2029, the Commission shall issue a report on
+11 whether it is reasonable to expect that there will be sufficient new regional
+12 renewable resources available for a retail electricity provider with 75,000 or
+13 more customers to meet its requirement under subdivision 8005(a)(4)(B)(i)(IV)
+14 of this title at or below the alternative compliance payment rate for the new
+15 renewable generation category of section 8005 of this title during the year
+16 beginning on January 1, 2032, or during the years beginning on January 1,
+17 2033 or January 1, 2034. The Commission shall not be required to issue this
+18 report in a contested case under 3 V.S.A. chapter 25 but shall conduct a
+19 proceeding on the issue with opportunities for participation by the retail
+20 electricity providers, Vermont Public Power Supply Authority, Renewable
+21 Energy Vermont, and other members of the public. Notwithstanding the
+VT LEG #386172 v.2
+
+BILL AS INTRODUCED H.601
+2026 Page 6 of 24
+1 timeline specified in subdivision (e)(1) of this section, the Commission shall
+2 file this annual report on or before December 15, 2028.
+3 * * *
+4 Sec. 2. 30 V.S.A. § 8002 is amended to read:
+5 § 8002. DEFINITIONS
+6 As used in this chapter:
+7 (1) “CES” means the Clean Energy Standard established under sections
+8 8004 and 8005 of this title.
+9 (2) “Clean energy” means both renewable energy, as defined in this
+10 section, as well as electricity produced using a technology that does not emit
+11 greenhouse gases as a by-product of energy generation.
+12 (1)(3) “Commission” means the Public Utility Commission under
+13 section 3 of this title.
+14 (2)(4) “Commissioned” or “commissioning” means the first time a plant
+15 is put into operation following initial construction or modernization if the costs
+16 of modernization are at least 50 percent of the costs that would be required to
+17 build a new plant including all buildings and structures technically required for
+18 the new plant’s operation. However, these terms shall not include activities
+19 necessary to establish operational readiness of a plant.
+VT LEG #386172 v.2
+
+BILL AS INTRODUCED H.601
+2026 Page 7 of 24
+1 (3)(5) “CPI” means the Consumer Price Index for all urban consumers,
+2 designated as “CPI-U,” in the northeast region, as published by the U.S.
+3 Department of Labor, Bureau of Labor Statistics.
+4 (4)(6) “Customer” means a retail electric consumer.
+5 (5)(7) “Department” means the Department of Public Service under
+6 section 1 of this title, unless the context clearly indicates otherwise.
+7 (6)(8) “Energy conversion efficiency” means the effective use of energy
+8 and heat from a combustion process.
+9 (7)(9) “Environmental attributes” means the characteristics of a plant
+10 that enable the energy it produces to qualify as clean or renewable energy and
+11 include any and all benefits of the plant to the environment such as avoided
+12 emissions or other impacts to air, water, or soil that may occur through the
+13 plant’s displacement of a nonclean or nonrenewable energy source.
+14 (8)(10) “Existing renewable energy” means renewable energy produced
+15 by a plant that came into service prior to or on December 31, 2009.
+16 (9)(11) “Greenhouse gas reduction credits” shall be as defined in section
+17 8006a of this title.
+18 (10)(12) “Group net metering system” means a net metering system
+19 serving more than one customer, or a single customer with multiple electric
+20 meters, located within the service area of the same retail electricity provider.
+21 Various buildings owned by municipalities, including water and wastewater
+VT LEG #386172 v.2
+
+BILL AS INTRODUCED H.601
+2026 Page 8 of 24
+1 districts, fire districts, villages, school districts, and towns, may constitute a
+2 group net metering system. A union or district school facility may be
+3 considered in the same group net metering system with buildings of its
+4 member schools that are located within the service area of the same retail
+5 electricity provider. A system that files a complete application for a certificate
+6 of public good on or after January 1, 2026, shall not qualify for group net
+7 metering, unless the plant will be located on the same parcel, or a parcel
+8 adjacent to, the parcel where the energy is utilized.
+9 (11)(13) “kW” means kilowatt or kilowatts (AC).
+10 (12)(14) “kWh” means kW hour or hours.
+11 (13)(15) “MW” means megawatt or megawatts (AC).
+12 (14)(16) “MWH” means MW hour or hours.
+13 (15)(17) “Net metering” means measuring the difference between the
+14 electricity supplied to a customer and the electricity fed back by the customer’s
+15 net metering system during the customer’s billing period:
+16 * * *
+17 (16)(18) “Net metering system” means a plant for generation of
+18 electricity that:
+19 * * *
+20 (17)(19) “New renewable energy” means renewable energy capable of
+21 delivery in New England and produced by a specific and identifiable plant
+VT LEG #386172 v.2
+
+BILL AS INTRODUCED H.601
+2026 Page 9 of 24
+1 coming into service on or after January 1, 2010, but excluding energy
+2 generated by a hydroelectric generation plant with a capacity of 200 MW or
+3 greater.
+4 * * *
+5 (18)(20) “Plant” means an independent technical facility that generates
+6 electricity from renewable energy. A group of facilities, such as wind turbines,
+7 shall be considered one plant if the group is part of the same project and uses
+8 common equipment and infrastructure such as roads, control facilities, and
+9 connections to the electric grid. Common ownership, contiguity in time of
+10 construction, and proximity of facilities to each other shall be relevant to
+11 determining whether a group of facilities is part of the same project.
+12 (19)(21) “Plant capacity” means the rated electrical nameplate for a
+13 plant, except that, in the case of a solar energy plant, the term shall mean the
+14 aggregate AC nameplate capacity of all inverters used to convert the plant’s
+15 output to AC power.
+16 (20)(22) “Plant owner” means a person who has the right to sell
+17 electricity generated by a plant.
+18 (21)(23) “Renewable energy” means energy produced using a
+19 technology that relies on a resource that is being consumed at a harvest rate at
+20 or below its natural regeneration rate.
+21 * * *
+VT LEG #386172 v.2
+
+BILL AS INTRODUCED H.601
+2026 Page 10 of 24
+1 (22)(24)(A) “Renewable pricing” shall mean an optional service
+2 provided or contracted for by an electric company:
+3 * * *
+4 (23)(25) “Retail electricity provider” or “provider” means a company
+5 engaged in the distribution or sale of electricity directly to the public.
+6 (24)(26) “Standard Offer Facilitator” means an entity appointed by the
+7 Commission pursuant to subsection 8005a(a) of this title.
+8 (25) [Repealed.]
+9 (26)(27) “Tradeable renewable energy credits” means all of the
+10 environmental attributes associated with a single unit of energy generated by a
+11 renewable energy source where:
+12 * * *
+13 (28) “Tradeable zero emissions credits” or “ZECs” means all of the
+14 environmental attributes associated with a single unit of energy generated by a
+15 clean energy source where:
+16 (A) those attributes are transferred or recorded separately from that
+17 unit of energy;
+18 (B) the party claiming ownership of the tradeable zero emissions
+19 credits has acquired the exclusive legal ownership of all, and not less than all,
+20 the environmental attributes associated with that unit of energy; and
+VT LEG #386172 v.2
+
+BILL AS INTRODUCED H.601
+2026 Page 11 of 24
+1 (C) exclusive legal ownership can be verified through an auditable
+2 contract path or pursuant to the system established or authorized by the
+3 Commission or any program for tracking and verification of the ownership of
+4 environmental attributes of energy legally recognized in any state and
+5 approved by the Commission.
+6 (27)(29) “Vermont composite electric utility system” means the
+7 combined generation, transmission, and distribution resources along with the
+8 combined retail load requirements of the Vermont retail electricity providers.
+9 (28)(30) “Energy transformation project” means an undertaking that
+10 provides energy-related goods or services but does not include or consist of the
+11 generation of electricity and that results in a net reduction in fossil fuel
+12 consumption by the customers of a retail electricity provider and in the
+13 emission of greenhouse gases attributable to that consumption. Examples of
+14 energy transformation projects may include home weatherization or other
+15 thermal energy efficiency measures; air source or geothermal heat pumps; high
+16 efficiency heating systems; increased use of biofuels; biomass heating systems;
+17 support for transportation demand management strategies; support for electric
+18 vehicles or related infrastructure; and infrastructure for the storage of
+19 renewable energy on the electric grid.
+20 (29) “RES” means the Renewable Energy Standard established under
+21 sections 8004 and 8005 of this title.
+VT LEG #386172 v.2
+
+BILL AS INTRODUCED H.601
+2026 Page 12 of 24
+1 (30)(31) “Energy storage facility” has the same meaning as in section
+2 201 of this title.
+3 (31)(32) “Load” means the total amount of electricity utilized by a retail
+4 electricity provider over a 12-month calendar year period, including its retail
+5 electric sales, any use by the provider itself not included in retail sales, and
+6 transmission and distribution line losses associated with and allocated to the
+7 retail electricity provider.
+8 (32)(33) “Load growth” means the increase above a baseline year in a
+9 retail electricity provider’s load.
+10 Sec. 3. 30 V.S.A. § 8004 is amended to read:
+11 § 8004. SALES OF ELECTRIC ENERGY; RENEWABLE CLEAN
+12 ENERGY STANDARD (RES CES)
+13 (a) Establishment Expansion; requirements. The RES Renewable Energy
+14 Standard is established expanded to become the CES. Under this program, a
+15 retail electricity provider shall not sell or otherwise provide or offer to sell or
+16 provide electricity in the State of Vermont without ownership of sufficient
+17 energy produced by clean and renewable energy plants or sufficient tradeable
+18 renewable energy and zero emissions credits from plants whose energy is
+19 capable of delivery in New England that reflect the required amounts of clean
+20 and renewable energy set forth in section 8005 of this title or without support
+21 of energy transformation projects in accordance with that section. A retail
+VT LEG #386172 v.2
+
+BILL AS INTRODUCED H.601
+2026 Page 13 of 24
+1 electricity provider may meet the required amounts of clean and renewable
+2 energy through eligible tradeable renewable energy and zero emissions credits
+3 that it owns and retires, eligible clean and renewable energy resources with
+4 environmental attributes still attached, or a combination of those credits and
+5 resources.
+6 (b) Rules. The Commission shall adopt update the rules that are necessary
+7 to allow the Commission and the Department to implement and supervise
+8 further the implementation and maintenance of the RES CES.
+9 (c) RECS RECs and ZECs; banking. The Commission shall allow a
+10 provider that has met the required amount amounts of clean and renewable
+11 energy or zero emissions credits in a given year, commencing with 2017, to
+12 retain tradeable renewable energy or zero emissions credits created or
+13 purchased in excess of that amount for application to the provider’s required
+14 amount of clean or renewable energy in one of the following three years.
+15 (d) Alternative compliance payment. In lieu of purchasing renewable
+16 energy or tradeable renewable energy or zero emissions credits or supporting
+17 energy transformation projects to satisfy the requirements of this section and
+18 section 8005 of this title, a retail electricity provider in this State may pay to
+19 the Vermont Clean Energy Development Fund established under section 8015
+20 of this title an alternative compliance payment at the applicable rate set forth in
+21 section 8005. The administrator of the Vermont Clean Energy Development
+VT LEG #386172 v.2
+
+BILL AS INTRODUCED H.601
+2026 Page 14 of 24
+1 Fund shall use the payment from a retail electricity provider electing to make
+2 an alternative compliance payment to satisfy its obligations under subdivisions
+3 8005(a)(1), 8005(a)(2), 8005(a)(4), and 8005(a)(5) of this title for the
+4 development of renewable energy plants that are intended to serve and benefit
+5 customers with low income of the retail electricity provider that has made the
+6 payment. Such plants shall be located within the provider’s service territory, if
+7 feasible. In the event that such a payment is insufficient to enable the
+8 development of a renewable energy plant, the administrator may use the
+9 payment for other initiatives allowed under section 8015 of this title that will
+10 benefit customers with low income of the retail electricity provider that has
+11 made the payment. As used in this subsection (d), “customer with low
+12 income” means a person purchasing energy from a retail electricity provider
+13 and with an income that is less than or equal to 80 percent of area median
+14 income, adjusted for family size, as published annually by the U.S. Department
+15 of Housing and Urban Development.
+16 * * *
+17 (f) Joint efforts. Retail electricity providers may engage in joint efforts to
+18 meet one or more categories within the RES CES.
+VT LEG #386172 v.2
+
+BILL AS INTRODUCED H.601
+2026 Page 15 of 24
+1 Sec. 4. 30 V.S.A. § 8005 is amended to read:
+2 § 8005. RES CES CATEGORIES
+3 (a) Categories. This section specifies five categories of required resources
+4 to meet the requirements of the RES CES established in section 8004 of this
+5 title: total clean and renewable energy, distributed renewable generation,
+6 energy transformation, new renewable energy, and load growth renewable
+7 energy. In order to support progress toward Vermont’s climate goals and
+8 requirements, a provider may, but shall not be required to, exceed the
+9 statutorily required amounts under this section.
+10 (1) Total clean and renewable energy.
+11 (A) Purpose; establishment. To encourage the economic and
+12 environmental benefits of clean and renewable energy, this subdivision
+13 establishes, for the RES CES, minimum total amounts of clean and renewable
+14 energy within the supply portfolio of each retail electricity provider. To satisfy
+15 this requirement, a provider may use clean energy generated within New
+16 England or renewable energy with environmental attributes attached or any
+17 class of tradeable renewable energy credits generated by any renewable energy
+18 plant whose energy is capable of delivery in New England.
+19 (B) Required amounts.
+20 (i) The amounts of total renewable clean energy required by this
+21 subsection (a) shall be 63 percent of each retail electricity provider’s annual
+VT LEG #386172 v.2
+
+BILL AS INTRODUCED H.601
+2026 Page 16 of 24
+1 load during the year beginning on January 1, 2025, increasing by at least an
+2 additional four 7.4 percent each third January 1 thereafter until reaching 100
+3 percent: on and after January 1, 2030.
+4 (i) on and after January 1, 2035 for a retail electricity provider who
+5 serves a single customer that takes service at 115 kilovolts and each municipal
+6 retail electricity provider formed under local charter or chapter 79 of this title;
+7 and
+8 (ii) on and after January 1, 2030, for all other retail electricity
+9 providers The amount of total renewable energy required by this subsection (a)
+10 shall be 63 percent of each retail electricity provider’s annual electricity
+11 purchases during the year beginning on January 1, 2025, increasing to 67
+12 percent of each retail electricity provider’s annual electricity purchases during
+13 the year beginning on January 1, 2028, increasing to 71 percent of each retail
+14 electricity provider’s annual electricity purchases during the year beginning on
+15 January 1, 2030, and increasing to 75 percent of each retail electricity
+16 provider’s annual electricity purchases on and after January 1, 2032.
+17 * * *
+18 (2) Distributed renewable generation.
+19 (A) Purpose; establishment. This subdivision establishes a
+20 distributed renewable generation category for the RES CES. This category
+21 encourages the use of distributed generation to support the reliability of the
+VT LEG #386172 v.2
+
+BILL AS INTRODUCED H.601
+2026 Page 17 of 24
+1 State’s electric system;, reduce line losses;, contribute to avoiding or deferring
+2 improvements to that system necessitated by transmission or distribution
+3 constraints;, and diversify the size and type of resources connected to that
+4 system. This category requires the use of renewable energy for these purposes
+5 to reduce environmental and health impacts from air emissions that would
+6 result from using other forms of generation.
+7 * * *
+8 (3) Energy transformation.
+9 (A) Purpose; establishment. This subdivision (3) establishes an
+10 energy transformation category for the RES CES. This category encourages
+11 Vermont retail electricity providers to support additional distributed renewable
+12 generation or to support other projects to reduce fossil fuel consumed by their
+13 customers and the emission of greenhouse gases attributable to that
+14 consumption. A retail electricity provider may satisfy the energy
+15 transformation requirement through distributed renewable generation in
+16 addition to the generation used to satisfy subdivision (2) of this subsection (a)
+17 or energy transformation projects or a combination of such generation and
+18 projects.
+19 * * *
+20 (4) New renewable energy.
+VT LEG #386172 v.2
+
+BILL AS INTRODUCED H.601
+2026 Page 18 of 24
+1 (A) Purpose; establishment. This subdivision (4) establishes a new
+2 regional renewable energy category for the RES CES. This category
+3 encourages the use of new renewable generation to support the reliability of
+4 the regional ISO-NE electric system. To satisfy this requirement, a provider
+5 shall use new renewable energy with environmental attributes attached or any
+6 class of tradeable renewable energy credits generated by any renewable energy
+7 plant coming into service after January 1, 2010, whose energy is capable of
+8 delivery in New England.
+9 * * *
+10 (E) On or before December 15, 2026, the Commission shall issue a
+11 report on whether it is reasonable to expect that there will be sufficient new
+12 regional renewable resources available for a retail electricity provider with
+13 75,000 or more customers to meet its requirement under subdivision
+14 (4)(B)(i)(IV) of this subsection (a) at or below the alternative compliance
+15 payment rate for the new renewable generation category of this section during
+16 the year beginning on January 1, 2030, or at any time in the subsequent five
+17 years. The Commission shall not be required to issue this report in a contested
+18 case under 3 V.S.A. chapter 25 but shall conduct a proceeding on the issue
+19 with opportunities for participation by the retail electricity providers, Vermont
+20 Public Power Supply Authority, Renewable Energy Vermont, and other
+21 members of the public. The Commission may use its authority under sections
+VT LEG #386172 v.2
+
+BILL AS INTRODUCED H.601
+2026 Page 19 of 24
+1 20 and 21 of this title as may be necessary to support technical analysis
+2 necessary to develop this report.
+3 * * *
+4 Sec. 5. 30 V.S.A. § 8006 is amended to read:
+5 § 8006. TRADEABLE CREDITS; ENVIRONMENTAL ATTRIBUTES;
+6 RECOGNITION, MONITORING, AND DISCLOSURE
+7 (a) The Commission shall establish or adopt a amend and expand its system
+8 of tradeable renewable energy credits for renewable resources that may be
+9 earned by electric generation qualifying for the prior RES to include clean
+10 energy generation. The system shall recognize tradeable renewable energy
+11 credits monitored and traded on the New England Generation Information
+12 System (GIS); shall provide a process for the recognition, approval, and
+13 monitoring of environmental attributes attached to clean and renewable energy
+14 that are eligible to satisfy the requirements of sections 8004 and 8005 of this
+15 title but are not monitored and traded on the GIS; and shall otherwise be
+16 consistent with regional practices.
+17 (b) The Commission shall ensure that all electricity provider and provider-
+18 affiliate disclosures and representations made with regard to a provider’s
+19 portfolio are accurate and reasonably supported by objective data. Further, the
+20 Commission shall ensure that providers disclose the types of generation used
+21 and shall clearly distinguish between energy or tradeable energy credits
+VT LEG #386172 v.2
+
+BILL AS INTRODUCED H.601
+2026 Page 20 of 24
+1 provided from clean, renewable, and nonrenewable energy sources and
+2 existing and new renewable energy.
+3 Sec. 6. 30 V.S.A. § 8008 is amended to read:
+4 § 8008. AGREEMENTS; ATTRIBUTE REVENUES; DISPOSITION BY
+5 COMMISSION
+6 (a) As used in this section, “the revenues” means revenues that are from the
+7 sale, through tradeable clean or renewable energy certificates or other means,
+8 of environmental attributes associated with the generation of clean and
+9 renewable energy from a system of generation resources with a total plant
+10 capacity greater than 200 MW and that are received by a Vermont retail
+11 electricity provider on or after May 1, 2012, pursuant to an agreement,
+12 contract, memorandum of understanding, or other transaction in which a
+13 person or entity agrees to transfer such revenues or rights associated with such
+14 attributes to the provider.
+15 * * *
+16 Sec. 7. 10 V.S.A. § 6505 is amended to read:
+17 § 6505. EXEMPTION
+18 This subchapter does not apply to any temporary storage by Vermont
+19 Yankee Nuclear Power Corporation of spent nuclear fuel elements or other
+20 radioactive waste at its present the site of the former Vermont Yankee Nuclear
+21 Power Station generated at the same site.
+VT LEG #386172 v.2
+
+BILL AS INTRODUCED H.601
+2026 Page 21 of 24
+1 Sec. 8. 10 V.S.A. § 6522 is amended to read:
+2 § 6522. PUBLIC UTILITY COMMISSION REVIEW OF PROPOSALS FOR
+3 NEW STORAGE FACILITIES FOR SPENT NUCLEAR FUEL
+4 * * *
+5 (c) In addition, the following limiting conditions shall apply:
+6 (1) Any certificate of public good issued by the Commission shall
+7 permit storage only of spent fuel that is derived from the operation of at the
+8 former Vermont Yankee and not from any other source site.
+9 (2) Any certificate of public good issued by the Commission shall limit
+10 the cumulative total amount of spent fuel stored at Vermont Yankee to the
+11 amount derived from the operation of the facility up to, but not beyond, March
+12 21, 2012, the end of the current operating license. Authorized capacity may
+13 include on-site storage capacity to accommodate full core offload or any order
+14 or requirement of the Nuclear Regulatory Commission with respect to the fuel
+15 derived from these operations. [Repealed.]
+16 * * *
+17 (4) Compliance with the provisions of this subchapter shall constitute
+18 compliance with the provisions of this chapter that require that approval be
+19 obtained from the General Assembly before construction or establishment of a
+20 facility for the deposit or storage of spent nuclear fuel, but only to the extent
+21 specified in this subchapter or authorized under this subchapter. The Public
+VT LEG #386172 v.2
+
+BILL AS INTRODUCED H.601
+2026 Page 22 of 24
+1 Utility Commission is authorized to hear and issue a certificate of public good
+2 for such a facility under 30 V.S.A. § 248 to the extent specified or authorized
+3 in this subchapter. Other agencies of the State also may receive and act on
+4 applications related to the construction or establishment of such a facility,
+5 provided that any approval for such a facility applies only to the extent
+6 specified or authorized in this subchapter. Storage of spent fuel derived from
+7 the operation of Vermont Yankee after March 21, 2012 shall require the
+8 approval of the General Assembly under this chapter. [Repealed.]
+9 (5) Compliance with the provisions of this subchapter shall not confer
+10 any expectation or entitlement to continued operation of Vermont Yankee
+11 following the expiration of its current operating license on March 21, 2012.
+12 Before the owners of the generation facility may operate the generation facility
+13 beyond that date, they must first obtain a certificate of public good from the
+14 Public Utility Commission under Title 30. [Repealed.]
+15 Sec. 9. REPEAL
+16 30 V.S.A. § 254 (construction or extended operation of a nuclear power
+17 plant; public engagement process) is repealed.
+18 Sec. 10. 30 V.S.A. § 248 is amended to read:
+19 § 248. NEW GAS AND ELECTRIC PURCHASES, INVESTMENTS, AND
+20 FACILITIES; CERTIFICATE OF PUBLIC GOOD
+21 * * *
+VT LEG #386172 v.2
+
+BILL AS INTRODUCED H.601
+2026 Page 23 of 24
+1 (e)(1) Before a certificate of public good is issued for the construction of a
+2 nuclear energy generating plant within the State, the Public Utility
+3 Commission shall obtain the approval of the General Assembly and the
+4 Assembly’s determination that the construction of the proposed facility will
+5 promote the general welfare. The Public Utility Commission shall advise the
+6 General Assembly of any petition submitted under this section for the
+7 construction of a nuclear energy generating plant within this State, by written
+8 notice delivered to the Speaker of the House of Representatives and to the
+9 President of the Senate. The Department of Public Service shall submit
+10 recommendations relating to the proposed plant and shall make available to the
+11 General Assembly all relevant material. The requirements of this subsection
+12 shall be in addition to the findings set forth in subsection (b) of this section.
+13 (2) No nuclear energy generating plant within this State may be operated
+14 beyond the date permitted in any certificate of public good granted pursuant to
+15 this title, including any certificate in force as of January 1, 2006, unless the
+16 General Assembly approves and determines that the operation will promote the
+17 general welfare, and until the Public Utility Commission issues a certificate of
+18 public good under this section. If the General Assembly has not acted under
+19 this subsection by July 1, 2008, the Commission may commence proceedings
+20 under this section and under 10 V.S.A. chapter 157, relating to the storage of
+21 radioactive material, but may not issue a final order or certificate of public
+VT LEG #386172 v.2
+
+BILL AS INTRODUCED H.601
+2026 Page 24 of 24
+1 good until the General Assembly determines that operation will promote the
+2 general welfare and grants approval for that operation. [Repealed.]
+3 * * *
+4 (m) In any matter with respect to which the Commission considers the
+5 operation of a nuclear energy generating plant beyond the date permitted in
+6 any certificate of public good granted under this title, including any certificate
+7 in effect as of January 1, 2006, the Commission shall evaluate the application
+8 under current assumptions and analyses and not an extension of the cost
+9 benefit assumptions and analyses forming the basis of the previous certificate
+10 of public good for the operation of the facility. [Repealed.]
+11 * * *
+12 Sec. 11. EFFECTIVE DATE
+13 This act shall take effect on July 1, 2026.
+VT LEG #386172 v.2

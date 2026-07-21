@@ -1,0 +1,707 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.698
+2026 Page 1 of 29
+1 H.698
+2 Introduced by Representatives Feltus of Lyndon, Branagan of Georgia, Burtt
+3 of Cabot, Dickinson of St. Albans Town, Gregoire of Fairfield,
+4 Hango of Berkshire, Keyser of Rutland City, Nelson of Derby,
+5 North of Ferrisburgh, Quimby of Lyndon, and Southworth of
+6 Walden
+7 Referred to Committee on
+8 Date:
+9 Subject: Education; school districts; class size minimums; tuition; education
+10 finance; State funding of public education; pupil weighting;
+11 foundation formula; taxation and finance; education property tax;
+12 property tax classifications; grand tax lists
+13 Statement of purpose of bill as introduced: This bill proposes to update
+14 various education policies in 2025 Acts and Resolves No. 73 to (1) remove the
+15 amendment to 16 V.S.A. § 823 that would allow a receiving school to charge a
+16 sending school an additional fee for high school students; (2) remove all
+17 references to class size minimums; and (3) revert any unused portion of the
+18 appropriation made to the School District Voting Ward Working Group to the
+19 General Fund upon passage. This bill also proposes to update the foundation
+20 formula in 2025 Acts and Resolves No. 73 to add a secondary student weight.
+VT LEG #386222 v.3
+
+BILL AS INTRODUCED H.698
+2026 Page 2 of 29
+1 Finally, this bill proposes to remove the amendments to Vermont’s property
+2 tax classification system added in 2025 Acts and Resolves No. 73.
+3 An act relating to various changes to 2025 Acts and Resolves No. 73
+4 It is hereby enacted by the General Assembly of the State of Vermont:
+5 * * * Education Policy * * *
+6 Sec. 1. REPEALS; EDUCATION POLICY
+7 2025 Acts and Resolves No. 73, Secs. 5 (scale; intent), 6 (16 V.S.A. § 165;
+8 minimum class size standards), 7 (failure to comply with class size
+9 minimums), and 27 (16 V.S.A. § 823) are repealed.
+10 Sec. 2. 16 V.S.A. § 823 is amended to read:
+11 § 823. ELEMENTARY TUITION
+12 (a) Tuition for elementary students shall be paid by the district in which the
+13 student is a resident. The district shall pay the full tuition charged its students
+14 attending a public elementary school to a receiving school for each resident
+15 student attending the receiving school an amount equal to the base amount
+16 contained in subdivision 4001(16) of this title multiplied by the sum of one and
+17 any weights applicable to the resident student under section 4010 of this title.
+18 If a payment made to a public elementary school is three percent more or less
+19 than the calculated net cost per elementary pupil in the receiving school district
+20 for the year of attendance, the district shall be reimbursed, credited, or
+VT LEG #386222 v.3
+
+BILL AS INTRODUCED H.698
+2026 Page 3 of 29
+1 refunded pursuant to section 836 of this title. Notwithstanding the provisions
+2 of this subsection or of subsection 825(b) of this title, the boards of both the
+3 receiving and sending districts may enter into tuition agreements with terms
+4 differing from the provisions of those subsections, provided that the receiving
+5 district must offer identical terms to all sending districts, and further provided
+6 that the statutory provisions apply to any sending district that declines the
+7 offered terms.
+8 (b) Unless the electorate of a school district authorizes payment of a higher
+9 amount at an annual or special meeting warned for the purpose, the tuition paid
+10 to an approved independent elementary school or an independent school
+11 meeting education quality standards shall not exceed the least of:
+12 (1) the average announced tuition of Vermont union elementary schools
+13 for the year of attendance;
+14 (2) the tuition charged by the approved independent school for the year
+15 of attendance; or
+16 (3) the average per-pupil tuition the district pays for its other resident
+17 elementary students in the year in which the student is enrolled in the approved
+18 independent school Notwithstanding subsection (a) of this section, or any other
+19 provision of law to the contrary, the district shall pay the full tuition charged its
+20 students attending an approved independent school in Vermont functioning as
+21 an approved area career and technical center.
+VT LEG #386222 v.3
+
+BILL AS INTRODUCED H.698
+2026 Page 4 of 29
+1 Sec. 3. 2025 Acts and Resolves No. 73, Sec. 8 is amended to read:
+2 Sec. 8. STATE BOARD OF EDUCATION; RULES; REPORT
+3 (a) Rules.
+4 (1) The On or before July 1, 2027, the State Board of Education shall
+5 initiate rulemaking to amend the Education Quality Standards rule 2000 series,
+6 Agency of Education, Education Quality Standards (22-000-003), pursuant to 3
+7 V.S.A. chapter 25:
+8 (A) on or before August 1, 2026, to ensure compliance with the class
+9 size minimum standards set pursuant to 16 V.S.A. § 165(a)(9); and
+10 (B) on or before July 1, 2027, to adopt standards for statewide
+11 graduation requirements based on standards adopted by the State Board and
+12 recommendations from the Agency of Education, which shall take effect
+13 beginning in the 2027–2028 school year for the graduating class of 2031 and
+14 every graduating class thereafter.
+15 (2) On or before August 1, 2026, the State Board of Education shall
+16 initiate rulemaking to amend the approved independent school rule 2200 series,
+17 Agency of Education, Independent School Program Approval (22-000-004),
+18 pursuant to 3 V.S.A. chapter 25, to require approved independent schools that
+19 intend to accept public tuition to comply with the class size minimum
+20 standards set pursuant to 16 V.S.A. § 165(a)(9). The amendments shall also
+21 create a process for review by the State Board for failure to meet the class size
+VT LEG #386222 v.3
+
+BILL AS INTRODUCED H.698
+2026 Page 5 of 29
+1 minimum requirements and the corresponding actions the Board may take for
+2 such noncompliance; provided, however, that the Board shall provide an
+3 approved independent school a substantially similar opportunity to come into
+4 compliance with class size minimum standards that it would provide to a
+5 public school. [Repealed.]
+6 * * *
+7 Sec. 4. 16 V.S.A. § 828 is amended to read:
+8 § 828. TUITION TO APPROVED SCHOOLS; AGE; APPEAL
+9 (a) A school district shall not pay the tuition of a student except to:
+10 (1) a public school located in Vermont;
+11 (2) an approved independent school that:
+12 (A) is located in Vermont;
+13 (B) is approved under section 166 of this title on or before July 1,
+14 2025;
+15 (C) is located within either:
+16 (i) a supervisory district that does not operate a public school for
+17 some or all grades as of July 1, 2024; or
+18 (ii) a supervisory union with one or more member school districts
+19 that does not operate a public school for some or all grades as of July 1, 2024;
+20 and
+VT LEG #386222 v.3
+
+BILL AS INTRODUCED H.698
+2026 Page 6 of 29
+1 (D) had at least 25 percent of its student enrollment composed of
+2 students attending on a district-funded tuition basis pursuant to chapter 21 of
+3 this title during the 2023–2024 school year; and
+4 (E) complies with the minimum class size requirements contained in
+5 subdivision 165(a)(9) of this title and State Board rule; provided, however, that
+6 if a school is unable to comply with the class size minimum standards due to
+7 geographic isolation or a school has developed an implementation plan to meet
+8 the class size minimum requirements, the school may ask the State Board to
+9 grant it a waiver from this subdivision (E), which decision shall be final;
+10 [Repealed.]
+11 (3) an independent school meeting education quality standards;
+12 (4) a tutorial program approved by the State Board;
+13 (5) an approved education program;
+14 (6) a public school located in another state; or
+15 (7) a therapeutic approved independent school located in Vermont or
+16 another state or country that is approved under the laws of that state or country.
+17 * * *
+18 Sec. 5. SCHOOL DISTRICT VOTING WARD WORKING GROUP;
+19 CONTRACT AND SOFTWARE APPROPRIATION REVERSION
+VT LEG #386222 v.3
+
+BILL AS INTRODUCED H.698
+2026 Page 7 of 29
+1 To the extent that the funds appropriated in 2025 Acts and Resolves No. 73,
+2 Sec. 4(h) have not been spent upon passage of this act, they shall revert to the
+3 General Fund.
+4 * * * Foundation Formula * * *
+5 Sec. 6. REPEAL; PUPIL WEIGHTING
+6 2025 Acts and Resolves No. 73, Sec. 35 (16 V.S.A. § 4010) is repealed.
+7 Sec. 7. 16 V.S.A. § 4010 is amended to read:
+8 § 4010. DETERMINATION OF WEIGHTED LONG-TERM MEMBERSHIP
+9 AND PER PUPIL EDUCATION SPENDING EDUCATIONAL
+10 OPPORTUNITY PAYMENT
+11 (a) Definitions. As used in this section:
+12 (1) “EL pupils” means pupils described under section 4013 of this title.
+13 (2) “FPL” means the Federal Poverty Level.
+14 (3) “Weighting categories” means the categories listed under subsection
+15 (b) of this section.
+16 (4) “Child with a disability” means any child in Vermont eligible under
+17 State rules to receive special education who is enrolled in any of kindergarten
+18 through grade 12.
+19 (5) “Disability” means any of the following:
+20 (A) a specific learning disability or a speech or language impairment,
+21 each of which is identified as “Category A”;
+VT LEG #386222 v.3
+
+BILL AS INTRODUCED H.698
+2026 Page 8 of 29
+1 (B) an emotional disturbance, intellectual disability, developmental
+2 delay, or other health impairment, each of which is identified as “Category B”;
+3 or
+4 (C) autism spectrum disorder, deaf-blindness, hearing impairment,
+5 orthopedic impairment, traumatic brain injury, or visual impairment, each of
+6 which is identified as “Category C.”
+7 (6) “English language proficiency level” means each of the English
+8 language proficiency levels published as a standardized measure of academic
+9 language proficiency in WIDA ACCESS for ELLs 2.0 and available to
+10 members of the WIDA consortium of state departments of education.
+11 (7) “Newcomer or SLIFE” means a pupil identified as a New American
+12 or as a student with limited or interrupted formal education.
+13 (b) Determination of average daily membership and weighting categories.
+14 On or before the first day of December during each school year, the Secretary
+15 shall determine the average daily membership, as defined in subdivision
+16 4001(1) of this title, of each school district for the current school year and shall
+17 perform the following tasks.,
+18 (1) Using using average daily membership, list for each school district
+19 the number of:
+20 (A)(1) pupils in prekindergarten;
+21 (B)(2) pupils in kindergarten through grade five;
+VT LEG #386222 v.3
+
+BILL AS INTRODUCED H.698
+2026 Page 9 of 29
+1 (C)(3) pupils in grades six through eight;
+2 (D)(4) pupils in grades nine through 12;
+3 (E)(5) pupils whose families are at or below 185 percent of FPL,
+4 using the highest number of pupils in the district:
+5 (i)(A) that meet this definition under the universal income
+6 declaration form; or
+7 (ii)(B) who are directly certified for free and reduced-priced
+8 meals; and
+9 (F)(6) EL pupils who have been most recently assessed at an English
+10 language proficiency level of:
+11 (A) Level 1;
+12 (B) Level 2 or 3;
+13 (C) Level 4; or
+14 (D) Level 5 or 6;
+15 (7) EL pupils who are identified as Newcomer or SLIFE; and
+16 (8) children with a disability whose disability is identified as:
+17 (A) Category A;
+18 (B) Category B; or
+19 (C) Category C, provided that a child with multiple disabilities shall
+20 be counted solely under this subdivision (C).
+VT LEG #386222 v.3
+
+BILL AS INTRODUCED H.698
+2026 Page 10 of 29
+1 (2)(A) Identify all school districts that have low population density,
+2 measured by the number of persons per square mile residing within the land
+3 area of the geographic boundaries of the district as of July 1 of the year of
+4 determination, equaling:
+5 (i) fewer than 36 persons per square mile;
+6 (ii) 36 or more persons per square mile but fewer than 55 persons
+7 per square mile; or
+8 (iii) 55 or more persons per square mile but fewer than 100
+9 persons per square mile.
+10 (B) Population density data shall be based on the best available U.S.
+11 Census data as provided to the Agency of Education by the Vermont Center for
+12 Geographic Information.
+13 (C) Using average daily membership, list for each school district that
+14 has low population density the number of pupils in each of subdivisions
+15 (A)(i)–(iii) of this subdivision (2).
+16 (3)(A) Identify all school districts that have one or more small schools,
+17 which are schools that have an average two-year enrollment of:
+18 (i) fewer than 100 pupils; or
+19 (ii) 100 or more pupils but fewer than 250 pupils.
+20 (B) As used in subdivision (A) of this subdivision (3), “average two-
+21 year enrollment” means the average enrollment of the two most recently
+VT LEG #386222 v.3
+
+BILL AS INTRODUCED H.698
+2026 Page 11 of 29
+1 completed school years, and “enrollment” means the number of pupils who are
+2 enrolled in a school operated by the district on October 1. A pupil shall be
+3 counted as one whether the pupil is enrolled as a full-time or part-time student.
+4 (C) Using average two-year enrollment, list for each school district
+5 that has a small school the number of pupils in each of subdivisions (A)(i)–(ii)
+6 of this subdivision (3).
+7 (c) Reporting on weighting categories to the Agency of Education. Each
+8 school district shall annually report to the Agency of Education by a date
+9 established by the Agency the information needed in order for the Agency to
+10 compute the weighting categories under subsection (b) of this section for that
+11 district. In order to fulfill this obligation, a school district that pays public
+12 tuition on behalf of a resident student (sending district) to a public school in
+13 another school district, an approved independent school, or an out-of-state
+14 school (each a receiving school) may request the receiving school to collect
+15 this information on the sending district’s resident student, and if requested, the
+16 receiving school shall provide this information to the sending district in a
+17 timely manner.
+18 (d) Determination of weighted long-term membership. For each weighting
+19 category except the small schools weighting category under subdivision (b)(3)
+20 of this section, the Secretary shall compute the weighting count by using the
+VT LEG #386222 v.3
+
+BILL AS INTRODUCED H.698
+2026 Page 12 of 29
+1 long-term membership, as defined in subdivision 4001(7) of this title, in that
+2 category.
+3 (1) The Secretary shall first apply grade level Grade-level weights.
+4 Each pupil included in long-term membership shall count as one, multiplied by
+5 the following amounts receive an additional weighting amount, based on the
+6 pupil’s grade level, of:
+7 (A) prekindergarten—negative 0.54, if the pupil is in
+8 prekindergarten; and
+9 (B) grades six through eight—0.36; and
+10 (C) 0.125, if the pupil is in one of grades nine through 12—0.39.
+11 (2) The Secretary shall next apply a Economic disadvantage weight for
+12 pupils whose family is at or below 185 percent of FPL. Each pupil included in
+13 long-term membership whose family is at or below 185 percent of FPL shall
+14 receive an additional weighting amount of 1.03 1.02.
+15 (3) The Secretary shall next apply a weight for EL pupils EL proficiency
+16 weights. Each EL pupil included in long-term membership shall receive an
+17 additional weighting amount, based on the EL pupil’s English language
+18 proficiency level, of 2.49:
+19 (A) 2.11, if assessed as Level 1;
+20 (B) 1.41, if assessed as Level 2 or 3;
+21 (C) 1.20, if assessed as Level 4; or
+VT LEG #386222 v.3
+
+BILL AS INTRODUCED H.698
+2026 Page 13 of 29
+1 (D) 0.12, if assessed as Level 5 or 6.
+2 (4) The Secretary shall then apply a weight for pupils living in low
+3 population density school districts EL Newcomer/SLIFE weight. Each EL
+4 pupil included in long-term membership residing in a low population density
+5 school district, measured by the number of persons per square mile residing
+6 within the land area of the geographic boundaries of the district as of July 1 of
+7 the year of determination, who is a Newcomer or SLIFE shall receive an
+8 additional weighting amount of: 0.42
+9 (A) 0.15, where the number of persons per square mile is fewer than
+10 36 persons;
+11 (B) 0.12, where the number of persons per square mile is 36 or more
+12 but fewer than 55 persons; or
+13 (C) 0.07, where the number of persons per square mile is 55 or more
+14 but fewer than 100.
+15 (5) The Secretary shall lastly apply a weight for pupils who attend a
+16 small school. If the number of persons per square mile residing within the land
+17 area of the geographic boundaries of a school district as of July 1 of the year of
+18 determination is 55 or fewer, then, for each pupil listed under subdivision
+19 (b)(3)(C) of this section (pupils who attend small schools) Special education
+20 weights. Each child with a disability included in long-term membership shall
+VT LEG #386222 v.3
+
+BILL AS INTRODUCED H.698
+2026 Page 14 of 29
+1 receive an additional weighting amount, based on the categorization of the
+2 child’s disability, of:
+3 (A) where the school has fewer than 100 pupils in average two-year
+4 enrollment, the school district shall receive an additional weighting amount of
+5 0.21 for each pupil included in the small school’s average two-year enrollment
+6 0.79, if the disability is identified as Category A; or
+7 (B) where the small school has 100 or more but fewer than 250
+8 pupils, the school district shall receive an additional weighting amount of 0.07
+9 for each pupil included in the small school’s average two-year enrollment 1.89,
+10 if the disability is identified as Category B; or
+11 (C) 2.49, if the disability is identified as Category C.
+12 (6) A school district’s weighted long-term membership shall equal long-
+13 term membership plus the cumulation of the weights assigned by the Secretary
+14 under this subsection.
+15 (e) Hold harmless. A district’s weighted long-term membership shall in no
+16 case be less than 96 and one-half percent of its actual weighted long-term
+17 membership the previous year prior to making any adjustment under this
+18 subsection.
+19 (f) Determination of per pupil education spending educational opportunity
+20 payment. As soon as reasonably possible after a school district budget is
+21 approved by voters, the Secretary shall determine the per pupil education
+VT LEG #386222 v.3
+
+BILL AS INTRODUCED H.698
+2026 Page 15 of 29
+1 spending for the next fiscal year for the school district. Per pupil education
+2 spending shall equal a school district’s education spending divided by its
+3 weighted long-term membership The Secretary shall determine each school
+4 district’s educational opportunity payment by multiplying the school district’s
+5 weighted long-term membership determined under subsection (d) of this
+6 section by the base amount.
+7 * * *
+8 (h) Updates to weights, base amount, and transportation reimbursement.
+9 On or before January 1, 2027 2026, and on or before January 1 of every fifth
+10 year thereafter, the Agency of Education and the Joint Fiscal Office shall
+11 calculate, based on their consensus view and with the advice and consultation
+12 of a professional judgment panel convened by the Agency, updates to the
+13 weights and the base amount, including any inflationary measure, to account
+14 for cost changes underlying those weights and shall issue a written report on
+15 their work to the House and Senate Committees on Education, the House
+16 Committee on Ways and Means, and the Senate Committee on Finance. The
+17 General Assembly shall update the weights under this section, the base
+18 amount, and transportation reimbursement under section 4016 of this title not
+19 less than every five years and the implementation date for the updated weights
+20 and transportation reimbursement shall be delayed by a year in order to
+21 provide school districts with time to prepare their budgets. Updates to the
+VT LEG #386222 v.3
+
+BILL AS INTRODUCED H.698
+2026 Page 16 of 29
+1 weights may include recalibration, recalculation, adding or eliminating
+2 weights, or any combination of these actions.
+3 Sec. 8. 2025 Acts and Resolves No. 73, Sec. 45a is amended to read:
+4 Sec. 45a. FOUNDATION FORMULA; JOINT FISCAL OFFICE;
+5 REPORT
+6 (a) The Joint Fiscal Office shall contract with one or more contractors with
+7 expertise in Vermont’s education funding system to recommend updates to the
+8 cost-factor foundation formula created by this act to move from special
+9 education weights based on disability categories to a reliance on the provision
+10 of special education services and to update any other weights determined to be
+11 empirically necessary for an adequate and equitable education, taking into
+12 account the cost savings generated by new, larger consolidated school districts.
+13 Additionally, the contractors shall make recommendations regarding the
+14 following:
+15 (1) suitable geographic measures for determining sparsity within the
+16 foundation formula;
+17 (2) whether it costs more to educate a secondary student than an
+18 elementary student in Vermont and, if so, an appropriate weight to capture the
+19 cost differential of educating secondary students; and [Repealed.]
+20 (3) how to account for the provision of career and technical education
+21 within Vermont’s foundation formula.
+VT LEG #386222 v.3
+
+BILL AS INTRODUCED H.698
+2026 Page 17 of 29
+1 (b) The contractors shall submit the foundation formula, analysis of
+2 geographic measures, and the other recommendations required under
+3 subsection (a) of this section, along with a detailed analysis to support the
+4 contractor’s recommendations, to the House Committee on Ways and Means,
+5 the Senate Committee on Finance, and the House and Senate Committees on
+6 Education on or before December 1, 2026.
+7 (c) The sum of $400,000.00 is appropriated to the Joint Fiscal Office from
+8 the General Fund in fiscal year 2026 to hire one or more contractors for the
+9 purposes in subsection (a) of this section.
+10 (d) The contractors shall be required to train the Joint Fiscal Office and the
+11 Agency of Education in the methodologies needed to recalibrate and
+12 recalculate the base and weights in accordance with 16 V.S.A. § 4010(f).
+13 * * * Property Tax Classifications * * *
+14 Sec. 9. REPEALS; PROPERTY TAX CLASSIFICATIONS
+15 2025 Acts and Resolves No. 73, Secs. 47 (32 V.S.A. § 5402), 60 (32 V.S.A.
+16 § 4152), 61 (32 V.S.A. § 4152a), 61a (property tax classifications; transition;
+17 data collection), 61c (tax classifications; rate multipliers; intent), and 61d
+18 (prospective repeal of tax classifications) are repealed.
+VT LEG #386222 v.3
+
+BILL AS INTRODUCED H.698
+2026 Page 18 of 29
+1 Sec. 10. 32 V.S.A. § 5402 is amended to read:
+2 § 5402. EDUCATION PROPERTY TAX LIABILITY
+3 (a) A statewide education tax is imposed on all nonhomestead and
+4 homestead property at the following rates:
+5 (1) The tax rate for nonhomestead property shall be $1.59 per $100.00
+6 divided by the statewide adjustment.
+7 (2) The tax rate for homestead property shall be $1.00 multiplied by the
+8 education property tax spending adjustment for the municipality per $100.00 of
+9 equalized education property value as most recently determined under section
+10 5405 of this title. The homestead property tax rate for each municipality that is
+11 a member of a union or unified union school district shall be calculated as
+12 required under subsection (e) of this section. a rate sufficient to cover
+13 expenditures from the Education Fund other than supplemental district
+14 spending, after accounting for forecasted nonproperty tax revenues and any
+15 funds unreserved in the Education Fund following the process under 16 V.S.A.
+16 § 4032(c). It is the intention of the General Assembly that the statewide
+17 education tax rate under this section shall be adopted for each fiscal year by act
+18 of the General Assembly. If the General Assembly fails to adopt a statewide
+19 education tax rate for a fiscal year, the statewide education tax rate for the
+20 fiscal year shall equal the product of 110 percent and the statewide education
+VT LEG #386222 v.3
+
+BILL AS INTRODUCED H.698
+2026 Page 19 of 29
+1 tax rate for the preceding fiscal year. The statewide education tax rate shall be
+2 adjusted for homestead property and nonhomestead property as follows:
+3 If the tax classification of the then the statewide education tax rate
+4 property subject to taxation is: is multiplied by a factor of:
+5 Homestead 1.0
+6 Nonhomestead 1.0
+7 (b) The statewide education tax shall be calculated as follows:
+8 (1) The Commissioner of Taxes shall determine for each municipality
+9 the education tax rates under subsection (a) of this section divided by the
+10 number resulting from dividing the municipality’s most recent common level
+11 of appraisal by the statewide adjustment. The legislative body in each
+12 municipality shall then bill each property taxpayer at the homestead or
+13 nonhomestead applicable rate determined by the Commissioner under this
+14 subdivision, multiplied by the education property tax grand list value of the
+15 property, properly classified as homestead or nonhomestead property and
+16 without regard to any other tax classification of the property not authorized
+17 under this chapter. Statewide education property tax bills shall show the tax
+18 due and the calculation of the rate determined under subsection (a) of this
+19 section, divided by the number resulting from dividing the municipality’s most
+20 recent common level of appraisal by the statewide adjustment, multiplied by
+21 the current grand list value of the property to be taxed. Statewide education
+VT LEG #386222 v.3
+
+BILL AS INTRODUCED H.698
+2026 Page 20 of 29
+1 property tax bills shall also include language provided by the Commissioner
+2 pursuant to subsection 5405(g) of this title.
+3 (2) Taxes assessed under this section shall be assessed and collected in
+4 the same manner as taxes assessed under chapter 133 of this title with no tax
+5 classification other than as homestead or nonhomestead property those
+6 required by this section; provided, however, that the tax levied under this
+7 chapter shall be billed to each taxpayer by the municipality in a manner that
+8 clearly indicates the tax is separate from any other tax assessed and collected
+9 under chapter 133, including an itemization of the separate taxes due. The bill
+10 may be on a single sheet of paper with the statewide education tax and other
+11 taxes presented separately and side by side.
+12 (3) If a district has not voted a budget by June 30, an interim homestead
+13 education tax shall be imposed at the base rate determined under subdivision
+14 (a)(2) of this section, divided by the number resulting from dividing the
+15 municipality’s most recent common level of appraisal by the statewide
+16 adjustment, but without regard to any spending adjustment under subdivision
+17 5401(13) of this title. Within 30 days after a budget is adopted and the
+18 deadline for reconsideration has passed, the Commissioner shall determine the
+19 municipality’s homestead tax rate as required under subdivision (1) of this
+20 subsection. [Repealed.]
+VT LEG #386222 v.3
+
+BILL AS INTRODUCED H.698
+2026 Page 21 of 29
+1 (c)(1) The treasurer of each municipality shall by December 1 of the year in
+2 which the tax is levied and on June 1 of the following year pay to the State
+3 Treasurer for deposit in the Education Fund one-half of the municipality’s
+4 statewide nonhomestead tax and one-half of the municipality’s homestead
+5 education tax, as determined under subdivision (b)(1) of this section.
+6 (2) The Secretary of Education shall determine each municipality’s net
+7 nonhomestead education tax payment and its net homestead education tax
+8 payment to the State based on grand list information received by the Secretary
+9 not later than the March 15 prior to the June 1 net payment. Payment shall be
+10 accompanied by a return prescribed by the Secretary of Education. Each
+11 municipality may retain 0.225 of one percent of the total education tax
+12 collected, only upon timely remittance of net payment to the State Treasurer or
+13 to the applicable school district or districts. Each municipality may also retain
+14 $15.00 for each late property tax credit claim filed after April 15 and before
+15 September 2, as notified by the Department of Taxes, for the cost of issuing a
+16 new property tax bill.
+17 (d) [Repealed.]
+18 (e) The Commissioner of Taxes shall determine a homestead education tax
+19 rate for each municipality that is a member of a union or unified union school
+20 district as follows:
+VT LEG #386222 v.3
+
+BILL AS INTRODUCED H.698
+2026 Page 22 of 29
+1 (1) For a municipality that is a member of a unified union school
+2 district, use the base rate determined under subdivision (a)(2) of this section
+3 and a spending adjustment under subdivision 5401(13) of this title based upon
+4 the per pupil education spending of the unified union.
+5 (2) For a municipality that is a member of a union school district:
+6 (A) Determine the municipal district homestead tax rate using the
+7 base rate determined under subdivision (a)(2) of this section and a spending
+8 adjustment under subdivision 5401(13) of this title based on the per pupil
+9 education spending in the municipality who attends a school other than the
+10 union school.
+11 (B) Determine the union district homestead tax rate using the base
+12 rate determined under subdivision (a)(2) of this section and a spending
+13 adjustment under subdivision 5401(13) of this title based on the per pupil
+14 education spending of the union school district.
+15 (C) Determine a combined homestead tax rate by calculating the
+16 weighted average of the rates determined under subdivisions (A) and (B) of
+17 this subdivision (2), with weighting based upon the ratio of union school long-
+18 term membership, as defined in 16 V.S.A. § 4001(7), from the member
+19 municipality to total long-term membership of the member municipality; and
+20 the ratio of long-term membership attending a school other than the union
+21 school to total long-term membership of the member municipality. Total long-
+VT LEG #386222 v.3
+
+BILL AS INTRODUCED H.698
+2026 Page 23 of 29
+1 term membership of the member municipality is based on the number of pupils
+2 who are legal residents of the municipality and attending school at public
+3 expense. If necessary, the Commissioner may adopt a rule to clarify and
+4 facilitate implementation of this subsection (e). [Repealed.]
+5 (f)(1) A supplemental district spending tax is imposed on all homestead
+6 and nonhomestead property in each member municipality of a school district
+7 that approves spending pursuant to a budget presented to the voters of a school
+8 district under 16 V.S.A. § 563. The Commissioner of Taxes shall determine
+9 the supplemental district spending tax rate for each school district by dividing
+10 the school district’s per pupil supplemental district spending as certified by the
+11 Secretary of Education by the supplemental district spending yield. The
+12 legislative body in each member municipality shall then bill each property
+13 taxpayer at the rate determined by the Commissioner under this subsection,
+14 divided by the number resulting from dividing the municipality’s most recent
+15 common level of appraisal by the statewide adjustment and multiplied by the
+16 current grand list value of the property to be taxed. The bill shall show the tax
+17 due and the calculation of the rate.
+18 (2) The supplemental district spending tax assessed under this
+19 subsection shall be assessed and collected in the same manner as taxes
+20 assessed under chapter 133 of this title with no tax classification other than as
+21 homestead or nonhomestead property; provided, however, that the tax levied
+VT LEG #386222 v.3
+
+BILL AS INTRODUCED H.698
+2026 Page 24 of 29
+1 under this chapter shall be billed to each taxpayer by the municipality in a
+2 manner that clearly indicates the tax is separate from any other tax assessed
+3 and collected under chapter 133 of this title and the statewide education
+4 property tax under this section, including an itemization of the separate taxes
+5 due. The bill may be on a single sheet of paper with the supplemental district
+6 spending tax, the statewide education tax, and other taxes presented separately
+7 and side by side.
+8 (3) The treasurer of each municipality shall on or before December 1 of
+9 the year in which the tax is levied and on or before June 1 of the following year
+10 pay to the State Treasurer for deposit in the Education Fund one-half of the
+11 municipality’s supplemental district spending tax as determined under
+12 subdivision (1) of this subsection.
+13 (4) The Secretary of Education shall determine each municipality’s net
+14 supplemental district spending tax payment to the State based on grand list
+15 information received by the Secretary not later than the March 15 prior to the
+16 June 1 net payment. Payment shall be accompanied by a return prescribed by
+17 the Secretary of Education. Each municipality may retain 0.225 of one percent
+18 of the total supplemental district spending tax collected, only upon timely
+19 remittance of net payment to the State Treasurer or to the applicable school
+20 district.
+VT LEG #386222 v.3
+
+BILL AS INTRODUCED H.698
+2026 Page 25 of 29
+1 * * * Act 73 Effective Dates * * *
+2 Sec. 11. 2025 Acts and Resolves No. 73, Sec. 70 is amended to read:
+3 Sec. 70. EFFECTIVE DATES
+4 (a) This section and the following sections shall take effect on passage:
+5 (1) Sec. 1 (findings; intent; plan);
+6 (2) Sec. 2 (Commission on the Future of Public Education);
+7 (3) Sec. 3 (School District Redistricting Task Force);
+8 (4) Sec. 4 (School District Voting Ward Working Group);
+9 (5) Sec. 28a (State Board of Education tuition fee rules);
+10 (6) Sec. 32 (Agency of Education transformation support);
+11 (7) Sec. 33 (Agency of Education positions);
+12 (8) Sec. 44 (transportation reimbursement guidelines);
+13 (9) Sec. 45 (inflationary measures; prekindergarten; reports);
+14 (10) Sec. 45a (foundation formula report);
+15 (11) Sec. 45c (Education Fund Advisory Committee; delay);
+16 (12) Sec. 53 (homestead exemption report);
+17 (13) Sec. 61b (property tax classifications implementation report);
+18 (14) Sec. 61c (tax classifications intent); [Deleted.]
+19 (15) Sec. 61d (prospective repeal); [Deleted.]
+20 (16) Sec. 63 (regional assessment district transition; progress report);
+21 (17) Sec. 64 (RAD stakeholder working group);
+VT LEG #386222 v.3
+
+BILL AS INTRODUCED H.698
+2026 Page 26 of 29
+1 (18) Sec. 65 (inadvertently removed language);
+2 (19) Sec. 66 (minimum debt for tax sales);
+3 (20) Sec. 68 (property tax credit late fee); and
+4 (21) Sec. 69 (statewide adjustment correction).
+5 (b) The following sections shall take effect on July 1, 2025:
+6 (1) Sec. 5 (scale; intent); [Deleted.]
+7 (2) Sec. 8 (SBE rules; report);
+8 (3) Sec. 9 (AOE report; school calendar; graduation requirements);
+9 (4) Sec. 10 (SBE rule review; appropriation);
+10 (5) Sec. 14 (16 V.S.A. § 3443);
+11 (6) Sec. 15 (School Construction Advisory Board sunset);
+12 (7) Sec. 21 (16 V.S.A. § 828);
+13 (8) Sec. 22 (tuition transition);
+14 (9) Sec. 23 (state-level governance; intent);
+15 (10) Sec. 24 (16 V.S.A. § 161);
+16 (11) Sec. 25 (SBE appointments transition);
+17 (12) Sec. 26 (16 V.S.A. § 162);
+18 (13) Sec. 29 (special education report);
+19 (14) Sec. 30 (AOE special education strategic plan);
+20 (15) Sec. 31 (AOE position); and
+21 (16) Sec. 67 (PVR hearing officer pay).
+VT LEG #386222 v.3
+
+BILL AS INTRODUCED H.698
+2026 Page 27 of 29
+1 (c) The following sections shall take effect on July 1, 2026:
+2 (1) Sec. 6 (class size minimums); [Deleted.]
+3 (2) Sec. 7 (failure to comply with class size minimums); [Deleted.]
+4 (3) Sec. 12 (school construction policy);
+5 (4) Sec. 13 (16 V.S.A. § 3442);
+6 (5) Sec. 16 (16 V.S.A. § 3444);
+7 (6) Sec. 17 (16 V.S.A. § 3445);
+8 (7) Sec. 18 (16 V.S.A. § 3446);
+9 (8) Sec. 19 (transfer of rulemaking authority); and
+10 (9) Sec. 20 (repeals).
+11 (d) Sec. 48 (December 1 letter) shall take effect on July 1, 2027.
+12 (e) Sec. 61a shall take effect on January 1, 2027, provided that the General
+13 Assembly has enacted new school district boundaries between the enactment
+14 of this act and January 1, 2027. [Deleted.]
+15 (f) The following sections shall take effect on July 1, 2028, provided that
+16 the new school districts contemplated by this act have assumed responsibility
+17 for the education of all resident students and that the expert tasked with
+18 developing a cost-factor foundation formula has provided to the General
+19 Assembly the report pursuant to Sec. 45a to provide the General Assembly an
+20 opportunity to enact legislation in consideration of the report:
+21 (1) In Sec. 27, 16 V.S.A. § 823(a) and (d); [Deleted.]
+VT LEG #386222 v.3
+
+BILL AS INTRODUCED H.698
+2026 Page 28 of 29
+1 (2) Sec. 28 (tuition repeals);
+2 (3) Secs. 34 and 36–43 (transition to cost-factor foundation formula);
+3 (4) Sec. 45b (educational opportunity payment transition);
+4 (5) Secs. 46, 47, 49, and 50 (statewide education tax; supplemental
+5 district spending tax);
+6 (6) Sec. 46a (supplemental district spending tax; cap; transition);
+7 (7) Sec. 48a (tax rate transition);
+8 (8) Secs. 51, 52, and 54–56 (property tax credit repeal; creation of
+9 homestead exemption);
+10 (9) Sec. 57 (Education Fund Advisory Committee; review of foundation
+11 formula); and
+12 (10) Secs. 60 and 61 (property tax classifications). [Deleted.]
+13 (g) In Sec. 27, 16 V.S.A. § 823(b) and (c) shall take effect on July 1, 2028,
+14 provided that the new school districts contemplated by this act have assumed
+15 responsibility for the education of all resident students and that the cost-factor
+16 foundation formula report required pursuant to Sec. 45a contains evidence that
+17 it costs more to educate students in grades nine through 12 but the General
+18 Assembly has failed to enact legislation to add a secondary student weight.
+19 [Deleted.]
+20 (h) Sec. 62 (regional assessment districts) shall take effect on January 1,
+21 2029.
+VT LEG #386222 v.3
+
+BILL AS INTRODUCED H.698
+2026 Page 29 of 29
+1 * * * Effective Dates * * *
+2 Sec. 12. EFFECTIVE DATES
+3 (a) This section and Secs. 1 (repeals; education policy), 3 (2025 Acts and
+4 Resolves No. 73, Sec. 8(a)), 4 (16 V.S.A. § 828), 5 (voting ward appropriation
+5 reversion), 6 (repeal; pupil weighting), 8 (2025 Acts and Resolves No. 73, Sec.
+6 45a(a)(2)), 9 (repeals; property tax classification), and 11 (2025 Acts and
+7 Resolves No. 73, Sec. 70) shall take effect on passage.
+8 (b) Secs. 2 (16 V.S.A. § 823; tuition), 7 (16 V.S.A. § 4010; determination
+9 of weighted long-term membership and educational opportunity payment), and
+10 10 (32 V.S.A. § 5402; education property tax liability) shall take effect on July
+11 1, 2028.
+VT LEG #386222 v.3

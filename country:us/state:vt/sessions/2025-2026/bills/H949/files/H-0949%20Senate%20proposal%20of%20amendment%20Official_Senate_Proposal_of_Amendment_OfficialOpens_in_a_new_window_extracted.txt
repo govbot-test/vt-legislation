@@ -1,0 +1,189 @@
+Title: 
+Official Title: 
+Source: versions - Senate Proposal of Amendment (OfficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate proposal of amendment
+H. 949
+An act relating to homestead property tax yields, the nonhomestead
+property taxrate, and technical changes to education finance.
+The Senate proposes to the House to amend the bill as follows:
+First: By striking out Sec. 1, property dollar equivalent yield, income
+dollar equivalent yield, and nonhomestead property tax rate for fiscal year
+2027, in its entirety and inserting in lieu thereof a new Sec. 1 to read as
+follows:
+Sec. 1. PROPERTY DOLLAR EQUIVALENT YIELD, INCOME
+DOLLAR EQUIVALENT YIELD, AND NONHOMESTEAD
+PROPERTY TAX RATE FOR FISCALYEAR 2027
+For fiscal year 2027 only:
+(1) Pursuant to 32 V.S.A. § 5402b(b), the property dollar equivalent
+yield shall be $9,395.00.
+(2) Pursuant to 32 V.S.A. § 5402b(b), the income dollar equivalent yield
+shall be $12,942.00.
+(3) Notwithstanding 32 V.S.A. § 5402(a)(1) and any other provision of
+law to the contrary, the nonhomestead property tax rate shall be $1.648 per
+$100.00 of equalized education property value.
+Second: By striking out Sec. 2, Education Fund reserve; property tax rate
+offset, in its entirety and inserting in lieu thereof two new sections to be Secs.
+2 and 2a to read as follows:
+Sec. 2. 16 V.S.A. § 4001 is amended to read:
+§ 4001. DEFINITIONS
+As used in this chapter:
+* * *
+(6) “Education spending” means the amount of the school district
+budget, any assessment for a joint contract school, career technical center
+payments made on behalf of the district under subsection 1561(b) of this title,
+and any amount added to pay a deficit pursuant to 24 V.S.A. § 1523(b) that is
+paid for by the school district, but excluding any portion of the school budget
+paid for from any other sources such as endowments, parental fundraising,
+federal funds, nongovernmental grants, or other State funds such as special
+education funds paid under chapter 101 of this title.
+(A) [Repealed.]
+
+(B) For all bonds approved by voters prior to July 1, 2024, voter-
+approved Voter-approved bond payments toward principal and interest shall
+not be included in “education spending” for purposes of calculating excess
+spending pursuant to 32 V.S.A. § 5401(12).
+* * *
+Sec. 2a. 32 V.S.A. § 5401 is amended to read:
+§ 5401. DEFINITIONS
+As used in this chapter:
+* * *
+(12) “Excess spending” means:
+(A) The per pupil spending amount of the district’s education
+spending, as defined in 16 V.S.A. § 4001(6), plus any amount required to be
+added from a capital construction reserve fund under 24 V.S.A. § 2804(b).
+(B) In excess of 118 112 percent of the statewide average district per
+pupil education spending increased by inflation, as determined by the
+Secretary of Education on or before November 15 of each year based on the
+passed budgets to date. As used in this subdivision (B), “increased by
+inflation” means increasing the statewide average district per pupil education
+spending for fiscal year 2025 by the most recent New England Economic
+Project cumulative price index, as of November 15, for state and local
+government purchases of goods and services, from fiscal year 2025 through
+the fiscal year for which the amount is being determined.
+(C) A school district’s excess spending shall be zero if any of the
+following conditions are met:
+(i) the district’s education spending is not greater than the
+district’s educating spending for the preceding school year;
+(ii) the district’s per pupil education spending is not greater than
+the district’s per pupil education spending for the preceding school year; or
+(iii) the Secretary of Education, with the advice of three business
+managers and three superintendents selected by the Secretary, determines that
+the increase in the district’s per pupil education spending above the excess
+spending threshold was for good cause or beyond the district’s control, such as
+due to emergency capital expenditures or substantial loss of pupils or offsetting
+revenues.
+* * *
+Third: By striking out Sec. 6, effective date, in its entirety and inserting in
+lieu thereof five new sections to be Secs. 6–10 to read as follows:
+
+Sec. 6. 32 V.S.A. § 6066(b) is amended to read:
+(b)(1) An eligible claimant who rented the homestead shall be entitled to a
+credit for the taxable year in an amount not to exceed $2,500.00 $3,250.00, to
+be calculated as follows:
+(A) If the claimant’s income is less than or equal to the extremely
+low-income limit, the claimant shall be entitled to a credit in the amount of 10
+12.5 percent of fair market rent.
+(B) If the claimant’s income is greater than the extremely low-
+income limit but less than or equal to the very low-income limit, the claimant
+shall be entitled to a percentage of the credit that is proportional to the
+claimant’s income that is less than the very low-income limit, determined by:
+(i) subtracting the claimant’s income from the very low-income
+limit;
+(ii) dividing the value under subdivision (i) of this subdivision
+(1)(B) by the difference between the extremely low-income limit and the very
+low-income limit; and
+(iii) multiplying the value under subdivision (ii) of this
+subdivision (1)(B) by 10 12.5 percent of fair market rent.
+(C) If the claimant’s income is greater than the very low-income
+limit, the claimant shall not be entitled to a renter credit.
+(D) A claimant who is eligible for a renter credit, including pursuant
+to this subsection (b), and who receives a rental subsidy shall be entitled to a
+credit in the amount of 10 12.5 percent of gross rent paid.
+(E) A renter credit shall be prorated by the number of calendar
+months in the taxable year during which the claimant rented the homestead,
+except for a credit based on gross rent paid under subdivision (D) of this
+subdivision (b)(1), and by the portion of the principal dwelling used for
+business purposes, if the portion used for business purposes includes more than
+25 percent of the floor space of the dwelling.
+(2) The Commissioner shall calculate the credit under subdivision (1) of
+this subsection (b) using the fair market rent corresponding to a number of
+bedrooms equal to the number of personal exemptions allowed under
+subdivision 5811(21)(C) of this title for the taxable year, provided that for
+claimants who resided with any person who was neither the claimant’s
+dependent nor jointly filing spouse at any time during the taxable year, the
+Commissioner shall reduce the credit by 50 percent.
+
+Sec. 7. 32 V.S.A. § 6067 is amended to read:
+§ 6067. CREDIT LIMITATIONS
+Only one individual per household per taxable year shall be entitled to a
+property tax credit under this chapter. An individual who received a
+homestead exemption or credit with respect to property taxes assessed by
+another state for the taxable year shall not be entitled to receive a credit under
+this chapter. No taxpayer shall receive a renter credit under subsection
+6066(b) of this title in excess of $2,500.00 $3,250.00. No taxpayer shall
+receive a property tax credit under subdivision 6066(a)(3) of this title greater
+than $2,400.00 or cumulative credit under subdivisions 6066(a)(1)-(2)
+6066(a)(1), (2), and (4) of this title greater than $5,600.00.
+Sec. 8. 32 V.S.A. § 6066(b) is amended to read:
+(b)(1) An eligible claimant who rented the homestead shall be entitled to a
+credit for the taxable year in an amount not to exceed $3,250.00 $2,500.00, to
+be calculated as follows:
+(A) If the claimant’s income is less than or equal to the extremely
+low-income limit, the claimant shall be entitled to a credit in the amount of
+12.5 10 percent of fair market rent.
+(B) If the claimant’s income is greater than the extremely low-
+income limit but less than or equal to the very low-income limit, the claimant
+shall be entitled to a percentage of the credit that is proportional to the
+claimant’s income that is less than the very low-income limit, determined by:
+(i) subtracting the claimant’s income from the very low-income
+limit;
+(ii) dividing the value under subdivision (i) of this subdivision
+(1)(B) by the difference between the extremely low-income limit and the very
+low-income limit; and
+(iii) multiplying the value under subdivision (ii) of this
+subdivision (1)(B) by 12.5 10 percent of fair market rent.
+(C) If the claimant’s income is greater than the very low-income
+limit, the claimant shall not be entitled to a renter credit.
+(D) A claimant who is eligible for a renter credit, including pursuant
+to this subsection (b), and who receives a rental subsidy shall be entitled to a
+credit in the amount of 12.5 10 percent of gross rent paid.
+(E) A renter credit shall be prorated by the number of calendar
+months in the taxable year during which the claimant rented the homestead,
+except for a credit based on gross rent paid under subdivision (D) of this
+subdivision (b)(1), and by the portion of the principal dwelling used for
+
+business purposes, if the portion used for business purposes includes more than
+25 percent of the floor space of the dwelling.
+(2) The Commissioner shall calculate the credit under subdivision (1) of
+this subsection (b) using the fair market rent corresponding to a number of
+bedrooms equal to the number of personal exemptions allowed under
+subdivision 5811(21)(C) of this title for the taxable year, provided that for
+claimants who resided with any person who was neither the claimant’s
+dependent nor jointly filing spouse at any time during the taxable year, the
+Commissioner shall reduce the credit by 50 percent.
+Sec. 9. 32 V.S.A. § 6067 is amended to read:
+§ 6067. CREDIT LIMITATIONS
+Only one individual per household per taxable year shall be entitled to a
+property tax credit under this chapter. An individual who received a
+homestead exemption or credit with respect to property taxes assessed by
+another state for the taxable year shall not be entitled to receive a credit under
+this chapter. No taxpayer shall receive a renter credit under subsection
+6066(b) of this title in excess of $3,250.00 $2,500.00. No taxpayer shall
+receive a property tax credit under subdivision 6066(a)(3) of this title greater
+than $2,400.00 or cumulative credit under subdivisions 6066(a)(1), (2), and (4)
+of this title greater than $5,600.00.
+Sec. 10. EFFECTIVE DATES
+(a) This section and Secs. 1 (yields), 3 (statewide adjustment correction), 4
+(Barre TIF overpayment refund), and 5 (census grant inflator) shall take effect
+on July 1, 2026.
+(b) Secs. 6 (renter credit expansion) and 7 (renter credit cap increase) shall
+take effect on July 1, 2026, and apply to claim year 2027.
+(c) Secs. 2 (exclusion of capital indebtedness from excess spending) and 2a
+(excess spending threshold) shall take effect on July 1, 2027.
+(d) Secs. 8 (renter credit narrowing) and 9 (renter credit cap reduction)
+shall take effect on July 1, 2027, and apply to claim years 2028 and after.

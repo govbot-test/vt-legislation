@@ -1,0 +1,168 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED S.171
+2026 Page 1 of 7
+1 S.171
+2 Introduced by Senator White
+3 Referred to Committee on
+4 Date:
+5 Subject: Climate change; air pollution; transportation; fuels
+6 Statement of purpose of bill as introduced: This bill proposes to direct the
+7 Commissioner of Environmental Conservation to adopt rules to implement the
+8 Clean Fuels Program.
+9 An act relating to the Clean Fuels Program
+10 It is hereby enacted by the General Assembly of the State of Vermont:
+11 Sec. 1. 23 V.S.A. chapter 43 is added to read:
+12 CHAPTER 43. CLEAN FUELS PROGRAM
+13 § 4301. DEFINITIONS
+14 As used in this chapter:
+15 (1) “Greenhouse gas” has the same meaning as in 10 V.S.A. § 552.
+16 (2) “Low carbon fuel standards” means standards for the reduction of
+17 greenhouse gas emissions, on average, per unit of fuel energy.
+18 (3) “Motor vehicle” has the same meaning as in section 4 of this title.
+VT LEG #384977 v.1
+
+BILL AS INTRODUCED S.171
+2026 Page 2 of 7
+1 § 4302. CLEAN FUELS PROGRAM
+2 (a) The Commissioner of Environmental Conservation shall adopt, by rule,
+3 low carbon fuel standards for gasoline, diesel, and fuels used as substitutes for
+4 gasoline or diesel, which shall be the basis of the Clean Fuels Program.
+5 (b) The Commissioner may adopt the following related to the standards,
+6 including:
+7 (1) a schedule to phase in implementation of the standards in a manner
+8 that reduces the average amount of greenhouse gas emissions per unit of fuel
+9 energy of the fuels by 10 percent below 2018 levels by the year 2030 or by a
+10 later date if the Commissioner determines that an extension is appropriate to
+11 implement the standards;
+12 (2) standards for greenhouse gas emissions attributable to the fuels
+13 throughout their lifecycles, including emissions from the production, storage,
+14 transportation, and combustion of the fuels and from changes in land use
+15 associated with the fuels;
+16 (3) provisions allowing the use of all types of low carbon fuels to meet
+17 the low carbon fuel standards, including biofuels, biogas, natural gas, liquefied
+18 petroleum gas, gasoline, diesel, hydrogen, and electricity;
+19 (4) standards for the issuance of deferrals, established with adequate
+20 lead time, as necessary to ensure adequate fuel supplies;
+VT LEG #384977 v.1
+
+BILL AS INTRODUCED S.171
+2026 Page 3 of 7
+1 (5) exemptions for fuels that are used in volumes below thresholds
+2 established by the Commissioner;
+3 (6) standards, specifications, testing requirements, and other measures as
+4 needed to ensure the quality of fuels produced in accordance with the low
+5 carbon fuel standards, including the requirements for motor fuel quality; and
+6 (7) adjustments to the amounts of greenhouse gas emissions per unit of
+7 fuel energy assigned to fuels for combustion and drivetrain efficiency.
+8 (c) Before adopting standards under this section, the Commissioner shall
+9 consider the low carbon fuel standards of other states, including Washington
+10 and Oregon, for the purpose of determining schedules and goals for the
+11 reduction of the average amount of greenhouse gas emissions per unit of fuel
+12 energy and the default values for these reductions for applicable fuels.
+13 (d) The Commissioner shall provide exemptions and deferrals as necessary
+14 to mitigate the costs of complying with the low carbon fuel standards upon a
+15 finding that the 12-month rolling weighted average price of gasoline or diesel
+16 in Vermont is not competitive with the 12-month rolling weighted average
+17 price in New England.
+18 (e) The Commissioner shall adopt, by rule, provisions for managing and
+19 containing the costs of compliance with the standards, including provisions to
+20 facilitate compliance with the standards by ensuring that persons may obtain
+VT LEG #384977 v.1
+
+BILL AS INTRODUCED S.171
+2026 Page 4 of 7
+1 credits for fuels used as substitutes for gasoline or diesel and by creating
+2 opportunities for persons to trade credits.
+3 (f) The Commissioner shall exempt from the standards any person who
+4 imports in a calendar year less than 500,000 gallons of gasoline and diesel fuel
+5 in total. Any fuel imported by persons that are related or share common
+6 ownership or control shall be aggregated together to determine whether a
+7 person is exempt under this subsection.
+8 (g)(1) The Commissioner, by rule, shall prohibit fuels that contain biodiesel
+9 from being considered an alternative fuel under these standards unless the fuel
+10 meets the following standards:
+11 (A) Fuel that consists entirely of biodiesel, designated as B100, shall
+12 comply with ASTM D6751 and shall have an oxidation stability induction
+13 period of not less than eight hours as determined by the test method described
+14 in European standard EN 15751.
+15 (B) Fuel that consists of a blend of diesel fuel and between six and
+16 20 volume percent biodiesel, and designated as biodiesel blends B6 to B20,
+17 shall comply with ASTM D7467 and shall have an oxidation stability
+18 induction period of not less than 20 hours as determined by the test method
+19 described in European standard EN 15751.
+20 (2) The Commissioner may adopt rules different from those required
+21 under subdivision (1) of this subsection if an ASTM or EN standard applicable
+VT LEG #384977 v.1
+
+BILL AS INTRODUCED S.171
+2026 Page 5 of 7
+1 to biodiesel is approved or amended after the effective date of this act or if the
+2 Commissioner finds that different rules are necessary due to changes in
+3 technology or fuel testing or production methods.
+4 (3) As used in this subsection, “biodiesel” means a motor vehicle fuel
+5 consisting of mono-alkyl esters of long chain fatty acids derived from
+6 vegetable oils, animal fats, or other nonpetroleum resources, not including
+7 palm oil.
+8 (h) In adopting rules under this section, the Commissioner shall evaluate:
+9 (1) safety, feasibility, net reduction of greenhouse gas emissions, and
+10 cost-effectiveness;
+11 (2) potential adverse impacts to public health and the environment,
+12 including air quality, water quality, and the generation and disposal of waste in
+13 this State;
+14 (3) flexible implementation approaches to minimize compliance costs;
+15 and
+16 (4) technical and economic studies of comparable greenhouse gas
+17 emissions reduction measures implemented in other states and any other
+18 studies as determined by the Commissioner.
+19 (i)(1) The provisions of this section shall not apply to fuel that is
+20 demonstrated to have been used in any of the following:
+VT LEG #384977 v.1
+
+BILL AS INTRODUCED S.171
+2026 Page 6 of 7
+1 (A) motor vehicles used solely as farm vehicles;
+2 (B) motor vehicles used primarily to transport logs;
+3 (C) motor vehicles that are not designed primarily to transport
+4 persons or property, that are operated on highways only incidentally, and that
+5 are used primarily for construction work;
+6 (D) watercraft; and
+7 (E) railroad locomotives.
+8 (2) The Commissioner shall, by rule, adopt standards for persons to
+9 qualify for the exemptions provided in this subsection.
+10 Sec. 2. IMPLEMENTATION
+11 (a) Public engagement process. Before commencing rulemaking, the
+12 Commissioner of Environmental Conservation shall use the forms of public
+13 engagement described in this subsection to inform the design and
+14 implementation of the Clean Fuels Standard. Any failure by the Department of
+15 Environmental Conservation to meet the specific procedural requirements of
+16 this section shall not affect the validity of the Commissioner’s actions.
+17 (1) The Department of Environmental Conservation shall hold at least
+18 six public meetings, and of those meetings, at least three shall allow members
+19 of the public to participate in person and remotely.
+20 (2) The meetings shall be held in at least six different geographically
+21 diverse counties of the State.
+VT LEG #384977 v.1
+
+BILL AS INTRODUCED S.171
+2026 Page 7 of 7
+1 (3) The meetings shall be recorded and posted on the Department’s
+2 website.
+3 (4) The Commissioner shall consult with the Agency of Transportation
+4 and the Department of Public Service on the design of the Clean Fuels
+5 Program.
+6 (b) Interim reports. On or before September 1, 2027, and March 1, 2028,
+7 the Commissioner shall submit to the General Assembly an interim report on
+8 the development of the Clean Fuels Program.
+9 (c) Final rules. On or before January 15, 2029, the Commissioner shall file
+10 the final proposed rules on the Clean Fuels Program with the Secretary of
+11 State.
+12 Sec. 3. EFFECTIVE DATE
+13 This act shall take effect on July 1, 2026.
+VT LEG #384977 v.1

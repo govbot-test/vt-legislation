@@ -1,0 +1,914 @@
+Title: 
+Official Title: 
+Source: versions - As Passed by Both House and Senate (OfficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.727
+2026 Page 1 of 39
+1 H.727
+2 Introduced by Representative Sibilia of Dover
+3 Referred to Committee on
+4 Date:
+5 Subject: Utilities; data centers; ratepayer class; siting; reporting
+6 Statement of purpose of bill as introduced: This bill proposes to regulate the
+7 deployment of data centers in Vermont for the purpose of ensuring electric
+8 service reliability and affordability for all Vermonters and preventing any
+9 adverse effects on the State’s environment, natural resources, local
+10 communities, economy, and public health and welfare.
+11 An act relating to sustainable data center deployment
+12 It is hereby enacted by the General Assembly of the State of Vermont:
+13 Sec. 1. 30 V.S.A. chapter 5, subchapter 3 is added to read:
+14 Subchapter 3. Data Centers
+15 § 281. SHORT TITLE
+16 This subchapter shall be known and may be cited as the “Vermont
+17 Sustainable Data Centers Act.”
+18 § 282. PURPOSE
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.727
+2026 Page 2 of 39
+1 The purpose of this subchapter is to establish a regulatory framework that
+2 ensures responsible growth of an essential industry in a manner that protects
+3 existing electric ratepayers from unwarranted costs and promotes sustainable
+4 climate, environmental, community, and equity outcomes consistent with State
+5 policy.
+6 § 283. DEFINITIONS
+7 As used in this subchapter:
+8 (1) “Data center” means a facility that uses or is able to use 20
+9 megawatts or more of power and is engaged in providing data processing,
+10 hosting, and related services as described under code 518210 of the 2022
+11 North American Industry Classification System.
+12 (2) “Facility” means all buildings, equipment, structures, and other
+13 stationary items that are located on a single site or on contiguous or adjacent
+14 sites and that are owned or operated by the same person or by any person that
+15 controls, is controlled by, or is under common control with such person.
+16 § 284. TARIFFS; CONTRACTS
+17 (a) For the purpose of ensuring just and reasonable rates for all ratepayer
+18 classes and mitigating the risk of financial exposure to electric distribution
+19 companies and their existing ratepayers, the Public Utility Commission shall
+20 establish a separate ratepayer class and tariff schedule applicable to data
+21 centers and, in addition, shall require specific provisions in any contract for
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.727
+2026 Page 3 of 39
+1 electric service entered into by an electric distribution company and a data
+2 center as specified in subsection (c) of this section.
+3 (b) The Commission shall develop a general tariff with standardized
+4 structures applicable to all electric distribution companies with respect to the
+5 data center ratepayer class, and these requirements shall be reflected in each
+6 company’s individual tariff filings. The standardized structures shall:
+7 (1) include a method for allocating costs that is equal or proportional to
+8 the costs of providing electric service to data centers;
+9 (2) provide for equitable contributions to the efficiency, reliability, and
+10 resiliency of the electricity network;
+11 (3) mitigate the risk of other ratepayer classes paying unwarranted costs,
+12 including any electric generation, distribution, and transmission infrastructure
+13 costs incurred solely to meet the load requirements of a data center;
+14 (4) promote or, at a minimum, not impede in any way an electric
+15 company’s ability to meet renewable electricity targets pursuant to the
+16 Renewable Energy Standard;
+17 (5) reflect the mandatory contractual provisions specified in subsection
+18 (c) of this section; and
+19 (6) meet any other conditions the Commission may require consistent
+20 with the purpose of this section and in the public interest.
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.727
+2026 Page 4 of 39
+1 (c) A contract for electric service entered into between an electric company
+2 and a data center shall:
+3 (1) specify the duration of the contract, which shall not be less than 10
+4 years;
+5 (2) specify the date or the estimated date that the electric company will
+6 begin to provide electric service to the data center;
+7 (3) obligate the data center to pay a minimum amount or percentage
+8 based on the data center’s projected electricity usage for the duration of the
+9 contract;
+10 (4) include a reasonable charge for excess demand;
+11 (5) include a collateral requirement sufficient to mitigate the risk of
+12 stranded costs; and
+13 (6) meet any other terms or conditions required by the Commission that
+14 are consistent with the purpose of this section and in the public interest.
+15 § 285. SITING; CERTIFICATE OF PUBLIC GOOD
+16 (a) No person shall in any way begin site preparation for or commence
+17 construction of a data center unless the Commission first finds that the same
+18 will promote the general good of the State and issues a certificate of public
+19 good to that effect pursuant to this section.
+20 (b) Before the Commission issues a certificate of public good as required
+21 under subsection (a) of this section, the Commission shall find that the
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.727
+2026 Page 5 of 39
+1 proposed data center, including any upgrades to electric generation,
+2 distribution, and transmission facilities necessary to power the data center:
+3 (1) will not unduly interfere with the orderly development of the region
+4 with due consideration having been given to the recommendations of the
+5 municipal and regional planning commissions, the recommendations of the
+6 municipal legislative bodies, and the land conservation measures contained in
+7 the plan of any affected municipality;
+8 (2) will not adversely affect the efficiency, reliability, and resilience of
+9 the electric power system;
+10 (3) will result in an economic benefit to the State and its residents;
+11 (4) will not have an undue adverse effect on aesthetics, historic sites, air
+12 and water purity, the natural environment, the use of natural resources, and the
+13 public health and safety, with due consideration having been given to the
+14 criteria specified in 10 V.S.A. §§ 1424a(d) (outstanding resource waters) and
+15 6086(a)(1)–(8) and (9)(K) (conditions and criteria for State land use and
+16 development plans), impacts to primary agricultural soils as defined in
+17 10 V.S.A. § 6001, community noise levels, and the attainment of the State’s
+18 greenhouse gas emissions reduction requirements;
+19 (5) is consistent with the principles for resource selection expressed in
+20 the applicable electric distribution company’s approved least-cost integrated
+21 plan;
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.727
+2026 Page 6 of 39
+1 (6) is consistent with the Electrical Energy Plan approved by the
+2 Department under section 202 of this title, or that there exists good cause to
+3 permit a variance;
+4 (7) is consistent with the Vermont Long-Range Transmission Plan
+5 prepared by the Vermont Electric Power Company, Inc.;
+6 (8) will not have an adverse effect on any segment of the waters of the
+7 State that have been designated as outstanding resource waters by the
+8 Secretary of Natural Resources;
+9 (9) can be served economically by existing or planned transmission
+10 facilities without undue adverse effect on Vermont utilities or other retail
+11 ratepayer classes;
+12 (10) complies with applicable air pollution control requirements under
+13 the federal Clean Air Act, 42 U.S.C. § 7401 et seq.;
+14 (11) complies with harvesting procedures and procurement standards
+15 that ensure long-term forest health and sustainability, including the guidelines
+16 and standards adopted under 10 V.S.A. § 2750;
+17 (12) is consistent with State energy efficiency requirements;
+18 (13) is consistent with environmental justice and equity policy as
+19 established pursuant to 3 V.S.A. chapter 72; and
+20 (14) adequately accounts for potential facility decommissioning.
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.727
+2026 Page 7 of 39
+1 (c) The Commission shall adopt by rule procedures for implementing the
+2 requirements of this section that are modeled after sections 248 and 248a of
+3 this title, to the extent deemed reasonable and necessary by the Commission.
+4 Accordingly, the procedures shall include requirements related to: an
+5 application fee; notice; letter of intent; review period; exemptions from other
+6 law; participation by municipal bodies; consideration of municipal plans and
+7 recommendations; the retention of experts; fees for the participation of other
+8 State entities, as appropriate, including the Department of Public Service, the
+9 Agency of Natural Resources, the Agency of Agriculture, Food and Markets,
+10 the Agency of Commerce and Community Development, and the
+11 Environmental Justice Advisory Council; and a review process.
+12 § 286. DEMAND-SIDE MANAGEMENT
+13 (a) The Commission may establish a demand-side management program
+14 applicable to data centers that includes requirements and standards applicable
+15 to data center energy and water usage. In developing such a program, the
+16 Commission shall consider:
+17 (1) cositing requirements for renewable energy sources, batteries, and
+18 other on-site generation and storage;
+19 (2) water conservation initiatives, such as the use of recycled water for
+20 cooling;
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.727
+2026 Page 8 of 39
+1 (3) the establishment of data center microgrids for critical services that
+2 would provide continuous and reliable energy for critical services, operate
+3 independently from an electric company’s power system, ensure uptime during
+4 outages, provide greater efficiencies for managing energy costs and carbon
+5 emissions, and enhance the resilience of the State’s electricity network;
+6 (4) authorization for a data center to procure its own energy resources;
+7 (5) a prohibition on fossil fuel power purchase agreements that provide
+8 incentives or discount rates to data centers;
+9 (6) enhanced energy efficiency standards; and
+10 (7) any other standard or requirement deemed appropriate by the
+11 Commission and consistent with the purpose of this subchapter and in the
+12 public interest.
+13 (b) Any program developed by the Commission pursuant to this section
+14 shall take effect upon approval of the General Assembly by legislative
+15 enactment.
+16 § 287. QUARTERLY AND ANNUALREPORTS
+17 (a) Data center. Within three months after a data center becomes
+18 operational, and in a form and manner determined by the Commission, the
+19 owner of the data center shall begin submitting quarterly reports to the
+20 Commission and the Department of Public Service. Each quarterly report
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.727
+2026 Page 9 of 39
+1 shall include the data center’s water and energy usage, as well as a description
+2 of any interconnection requests the owner has submitted in other states.
+3 (b) Department. Annually, beginning on or before January 1, 2028, the
+4 Commissioner of Public Service shall submit a written report on data centers
+5 to the House Committees on Energy and Digital Infrastructure, on
+6 Environment, and on Agriculture, Food Resiliency, and Forestry and to the
+7 Senate Committees on Finance, on Natural Resources and Energy, and on
+8 Agriculture. The report shall include findings and recommendations related to
+9 the energy, environmental, and economic impacts of data center construction
+10 and deployment in Vermont, including any benefits to all electric ratepayers
+11 from electric infrastructure projects undertaken to provide power to a data
+12 center.
+13 § 288. FINANCING STATE AND LOCALBENEFITS
+14 (a) It is the intent of the General Assembly to establish a financial structure
+15 that will support State and local energy, environmental, and economic benefits
+16 and to finance that structure with:
+17 (1) a percentage of taxrevenue generated from sales, property, or
+18 income taxes applicable to data centers;
+19 (2) a data center gross receipts tax; or
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.727
+2026 Page 10 of 39
+1 (3) another financing mechanism recommended by the Commissioner of
+2 Public Service that the Commissioner deems to be consistent with the purpose
+3 of this subchapter and in the public interest.
+4 (b) The Commissioner of Public Service, with input from the
+5 Commissioner of Taxes, shall develop findings and recommendations for
+6 implementing the legislative intent of this section, which shall be submitted in
+7 a written report to the House Committees on Energy and Digital Infrastructure,
+8 on Environment, on Ways and Means, and on Agriculture, Food Resiliency,
+9 and Forestry and to the Senate Committees on Finance, on Natural Resources
+10 and Energy, and on Agriculture, on or before January 1, 2028.
+11 § 289. RULES
+12 In addition to the rules required by this subchapter, the Commission may
+13 adopt any other rules it deems necessary to implement and enforce the
+14 provisions of this subchapter consistent with its purpose and in the public
+15 interest.
+16 Sec. 2. APPLICATION
+17 30 V.S.A. chapter 5, subchapter 3 (established in Sec. 1 of this act) shall
+18 apply to any data center not operational on or before the effective date of this
+19 act.
+20 Sec. 3. EFFECTIVE DATE
+21 This act shall take effect on passage.
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.727
+2026 Page 11 of 39
+Sec. 1. 30 V.S.A. chapter 5, subchapter 3 is added to read:
+Subchapter 3. Data Centers
+§ 281. SHORT TITLE
+This subchapter shall be known and may be cited as the “Vermont
+Sustainable Data Centers Act.”
+§ 282. PURPOSE
+The purpose of this subchapter is to establish a regulatory framework that
+ensures responsible growth of an emerging industry in a manner that protects
+existing electric ratepayers from unwarranted costs and promotes sustainable
+climate, environmental, community, and equity outcomes consistent with State
+policies.
+§ 283. DEFINITIONS
+As used in this subchapter:
+(1) “Data center” means a facility that uses or is able to use 20
+megawatts or more of power and is engaged in providing data processing,
+hosting, and related services as described under code 518210 of the 2022
+North American Industry Classification System.
+(2) “Facility” means all buildings, equipment, structures, and other
+stationary items that are located on a single site or on contiguous or adjacent
+sites and that are owned or operated by the same person or by any person that
+controls, is controlled by, or is under common control with such person.
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.727
+2026 Page 12 of 39
+§ 284. LARGE LOAD SERVICE EQUITY CONTRACT; APPROVAL
+(a) For the purpose of ensuring just and reasonable rates for all ratepayer
+classes and mitigating the risk of financial exposure to electric distribution
+companies and their existing ratepayers, a data center shall be served by an
+electric company pursuant to a large load service equity contract approved by
+the Public Utility Commission.
+(b) The large load service equity contract shall:
+(1) include a method for allocating costs that is equal or proportional to
+the costs of providing electric service to the data center, including providing
+for equitable contributions to the embedded costs and the efficiency, reliability,
+and resiliency of the electricity network;
+(2) mitigate the risk of other ratepayer classes paying unwarranted
+costs, including any electric generation, distribution, and transmission
+infrastructure costs incurred to meet the load requirements of a data center or
+the energy capacity, transmission, or resource adequacy costs incurred as a
+result of the data center’s load;
+(3) specify the duration of the contract and the date or the estimated
+date that the electric company will begin to provide electric service to the data
+center;
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.727
+2026 Page 13 of 39
+(4) obligate the data center to pay a minimum amount or percentage
+based on the data center’s projected electricity usage for the duration of the
+contract to ensure compliance with subdivision (1) of this subsection;
+(5) include a reasonable charge for demand in excess of the data
+center’s projected electricity demand at the time the contract is entered into;
+(6) include a collateral requirement sufficient to mitigate the risk of
+stranded costs;
+(7) include provisions requiring implementation of demand-side
+management operational measures for the purpose of maintaining grid
+stability and efficiency, including demand response and flexible load
+management practices, such as load shifting, peak shaving, and the use of
+distributed energy resources;
+(8) include provisions for the collection of gross receipts taxes, energy
+efficiency charges, and any other fees or charges that may be applicable to
+electricity revenues; and
+(9) meet any other terms or conditions required by the Commission that
+are consistent with the purpose of this section and in the public interest.
+(c) The Commission shall not approve a large load service equity contract
+unless the Commission first finds that the same will promote the general good
+of the State.
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.727
+2026 Page 14 of 39
+(d) Before the Commission approves a large load service equity contract as
+required under this section, the Commission shall find that the terms of the
+contract:
+(1) will not adversely affect the efficiency, reliability, and resilience of
+the electric power system;
+(2) will result in an economic benefit to the State and its residents;
+(3) are consistent with the principles for resource selection expressed in
+the applicable electric distribution company’s approved least-cost integrated
+plan;
+(4) are consistent with the Electrical Energy Plan approved by the
+Department under section 202 of this title, or that there exists good cause to
+permit a variance;
+(5) will ensure that the data center will be served economically by
+existing or planned transmission facilities without undue adverse effect on
+Vermont utilities or other retail ratepayer classes; and
+(6) are consistent with environmental justice and equity policy as
+established pursuant to 3 V.S.A. chapter 72.
+(e) A data center shall not be eligible to participate in an energy savings
+account or a customer credit program pursuant to subdivision 209(d)(3)(C) of
+this title, or a self-managed energy efficiency program pursuant to subsection
+209(j) of this title.
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.727
+2026 Page 15 of 39
+§ 285. ENERGY EFFICIENCY DESIGN
+Early in the design development phase of a data center, the owner or
+operator of a data center shall consult with the efficiency utility appointed by
+the Public Utility Commission under subdivision 209(d)(2)(A) of this title to
+ensure compliance with State energy efficiency requirements and best
+practices.
+§ 286. QUARTERLY AND ANNUAL REPORTS
+(a) Data center. Within three months after a data center becomes
+operational, and in a form and manner determined by the Commission, the
+data center shall begin submitting quarterly reports to the Commission and the
+Department of Public Service. Each quarterly report shall include the data
+center’s water and energy usage, including its peak usage per day, and an
+itemization of the data center’s payments toward shared infrastructure
+constructed to support the data center.
+(b) Department. Annually, beginning on or before January 15, 2028, and
+provided at least one data center has entered into a large load service equity
+contract pursuant to this subchapter, the Commissioner of Public Service shall
+include in the Department’s annual report published pursuant to subsection
+202b(e) of this title findings and recommendations related to the energy,
+environmental, and economic impacts of data center construction and
+operation in Vermont, as well as any impactful developments within the region,
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.727
+2026 Page 16 of 39
+including any benefits to all ratepayers from electric infrastructure projects
+undertaken to provide power to one or more data centers.
+§ 287. RULES
+In addition to the rules required by this subchapter, the Commission may
+adopt any other rules it deems necessary to implement and enforce the
+provisions of this subchapter consistent with its purpose and in the public
+interest.
+Sec. 2. APPLICATION
+30 V.S.A. chapter 5, subchapter 3 (established in Sec. 1 of this act) shall
+apply to any data center not operational on the effective date of this act and to
+any smaller, traditional data center operational on the effective date of this act
+to the extent such data center seeks to expand its capacity and meet the
+threshold requirements of Sec. 1, 30 V.S.A. § 283(1).
+Sec. 3. 10 V.S.A. § 6001 is to amended read:
+§ 6001. Definitions
+As used in this chapter:
+* * *
+(3)(A) “Development” means each of the following:
+* * *
+(xiv) The construction of improvements on a tract or tracts of land
+for a data center as defined in 30 V.S.A. § 283(1).
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.727
+2026 Page 17 of 39
+Sec. 4. 10 V.S.A. § 6086a is added to read:
+§ 6086a. WATER USE; COOLING; PERMITTING; QUALITY
+(a) As used in this section:
+(1) “Closed-loop cooling system” means a sealed cooling process in
+which the same water or coolant circulates continuously within a data center’s
+cooling system without withdrawal of water from municipal public water
+supplies, groundwater, or surface water and without discharge of wastewater
+to municipal wastewater systems, groundwater, or surface waters, except for de
+minimis discharges authorized under a discharge permit issued by the Agency
+of Natural Resources.
+(2) “Data center” has the same meaning as in 30 V.S.A. § 283(1).
+(3) “Per- and polyfluoroalkyl substances” or “PFAS” means any
+chemical substance or mixture containing a chemical substance that
+structurally contains at least one of the following three substructures:
+(A) R-(CF2)-CF(R′)R″, where both the CF2 and CF moieties are
+saturated carbons;
+(B) R-CF2OCF2-R′, where R and R′ can either be F, O, or saturated
+carbons; or
+(C) CF3C(CF3)R′R″, where R′ and R″ can either be F or saturated
+carbons.
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.727
+2026 Page 18 of 39
+(b)(1) A data center shall identify to the District Commission reviewing the
+data center’s application for a permit under 10 V.S.A. chapter 151 how the
+data center will cool the facility.
+(2) If water is used to cool a data center, the data center shall use a
+closed-loop cooling system to minimize impacts to the quality and quantity of
+surface water and groundwater unless a District Commission, during review of
+a permit application under 10 V.S.A. chapter 151, determines that the use of a
+closed-loop cooling system is not feasible at the proposed data center.
+(3) If water is used to cool a data center through a closed-loop cooling
+system or through another type of cooling system, a data center shall identify
+where the data center will obtain water to cool the facility and where the
+cooling water will be discharged.
+(c) If a data center proposes to use groundwater to cool the data center, the
+data center shall obtain a groundwater withdrawal permit under 10 V.S.A.
+§ 1418 for any withdrawal of groundwater by the data center notwithstanding
+the permitting threshold of withdrawal of more than 57,600 gallons of
+groundwater a day. A closed-loop cooling system is not exempt from the
+groundwater withdrawal permit under 10 V.S.A. § 1418(b)(6).
+(d) If a data center proposes to use surface water to cool the facility, the
+data center shall obtain a surface water withdrawal permit pursuant to 10
+V.S.A. § 1043. The rules adopted by the Secretary to implement 10 V.S.A.
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.727
+2026 Page 19 of 39
+§ 1043 shall require a data center to cease withdrawals under drought
+conditions.
+(e)(1) A data center shall obtain all applicable water quality and water
+resource protection permits from the Agency of Natural Resources, including
+stormwater, shoreland, stream alteration, direct discharge, surface water
+withdrawal, groundwater withdrawal, wetland, and river corridor development
+permits.
+(2) A data center shall obtain from the Agency of Natural Resources a
+water quality certificate that meets the same criteria that the Agency requires
+to be met to obtain a federal Clean Water Act Section 401 water quality
+certification as those criteria existed under the Act, 33 U.S.C. §§ 1251–1388,
+and any regulations adopted thereunder on January 1, 2026.
+(f) A data center that discharges wastewater into a surface water of the
+State shall identify PFAS that may be used in the operation and submit a plan
+to the Agency of Natural Resources establishing a program that monitors the
+wastewater discharge from the data center, including monitoring for the
+presence of PFAS. The monitoring plan shall be approved by the Agency upon
+a determination that it meets the Vermont water quality standards.
+(g) The addition of PFAS to water discharged from a data center shall be
+prohibited in Vermont.
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.727
+2026 Page 20 of 39
+Sec. 5. REPORT ON REGIONAL RENEWABLE ENERGY MARKET
+CONDITIONS; PUBLIC UTILITY COMMISSION
+(a) On or before January 15, 2027, the Public Utility Commission shall
+prepare a written report on projected regional renewable electric generation
+market conditions. In developing the report, the Commission shall examine the
+cost and availability of new regional renewable electric generation resources
+during the years 2027 through 2035.
+(b) In preparing the report, the Commission shall provide an opportunity
+for written input from interested stakeholders, including retail electricity
+providers, renewable energy developers, regional transmission organizations,
+consumer advocates, and any other members of the public. In addition, the
+Commission may consult with the Department of Public Service and other
+relevant state, regional, or federal entities, as the Commission deems
+appropriate. Preparation of the report is not subject to the contested case
+procedures established under 3 V.S.A. chapter 25.
+(c) The Commission shall submit the report to the House Committee on
+Energy and Digital Infrastructure and the Senate Committees on Finance and
+on Natural Resources and Energy.
+Sec. 6. RECOMMENDATION ON DATA CENTER DECOMMISSIONING
+(a) The Commissioner of Public Service, in consultation with the Secretary
+of Natural Resources, the Chair of the Land Use Review Board, and any other
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.727
+2026 Page 21 of 39
+interested stakeholders deemed appropriate by the Commissioner, shall
+recommend a regulatory model for data center decommissioning. As used in
+this section, “data center” has the same meaning as in Sec. 1, 30 V.S.A.
+§ 283(1), of this act.
+(b) The recommended regulatory model developed pursuant to this section
+shall ensure responsible data center decommissioning in a manner that
+protects and preserves the environment and the public health and welfare. The
+model shall include standards and procedures that address:
+(1) approval of a decommissioning plan by the appropriate regulatory
+entity;
+(2) regulatory oversight of the decommissioning process, including
+through site visits and inspections;
+(3) a bond requirement or other financial assurance to ensure a data
+center is solely responsible for the costs associated with implementation of an
+approved decommissioning plan;
+(4) guidelines for data sanitization, the physical destruction of highly
+sensitive storage devices, and a documented chain of custody for information
+technology assets;
+(5) guidelines for environmental compliance, hazardous material
+handling, environmental remediation, and site restoration;
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.727
+2026 Page 22 of 39
+(6) a timeline for commencing and completing the decommissioning
+process after the abandonment, closure, destruction, or permanent cessation of
+operations of a data center; and
+(7) any other matters deemed appropriate by the Commissioner.
+(c) On or before December 15, 2026, the Commissioner shall submit
+recommendations for a data center decommissioning regulatory model in the
+form of draft legislation to the House Committees on Energy and Digital
+Infrastructure and on Environment and the Senate Committees on Finance and
+on Natural Resources and Energy.
+Sec. 7. EFFECTIVE DATE
+This act shall take effect on passage.
+Sec. 1. 30 V.S.A. chapter 5, subchapter 3 is added to read:
+Subchapter 3. Data Centers
+§ 281. SHORT TITLE
+This subchapter shall be known and may be cited as the “Vermont
+Sustainable Data Centers Act.”
+§ 282. PURPOSE
+The purpose of this subchapter is to establish a regulatory framework that
+ensures responsible growth of an emerging industry in a manner that
+financially benefits existing electric ratepayers and protects them from
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.727
+2026 Page 23 of 39
+additional costs and promotes sustainable climate, environmental, community,
+and equity outcomes consistent with State policies.
+§ 283. DEFINITIONS
+As used in this subchapter:
+(1) “Data center” means a facility that uses or is able to use 20
+megawatts or more of power and is engaged in providing data processing,
+hosting, and related services as described under code 518210 of the 2022
+North American Industry Classification System.
+(2) “Electric company” means the retail electric company that provides
+or will provide electric service to a data center pursuant to a large load service
+equity contract under section 284 of this subchapter.
+(3) “Facility” means all buildings, equipment, structures, and other
+stationary items that are owned or operated by the same person or by any
+person that controls, is controlled by, or is under common control with such
+person and that are located on:
+(A) a single site or contiguous or adjacent sites; or
+(B) multiple nonadjacent sites that function as a single integrated
+operation by virtue of shared infrastructure or unified operational protocols,
+under a central management system.
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.727
+2026 Page 24 of 39
+§ 284. LARGE LOAD SERVICE EQUITY CONTRACT; APPROVAL
+(a) For the purpose of ensuring just and reasonable rates for all ratepayer
+classes and precluding the risk of financial exposure to electric companies and
+their existing ratepayers, a data center shall be served by an electric company
+pursuant to a large load service equity contract approved by the Public Utility
+Commission.
+(b) The large load service equity contract shall:
+(1) include a method for allocating costs that is equal or proportional to
+the costs of providing electric service to the data center, including providing
+for equitable contributions to the embedded costs and the stability, efficiency,
+reliability, and resiliency of the electricity network;
+(2) ensure that other ratepayer classes are insulated from all costs
+associated with data center deployment, including expenses for new
+generation, transmission, and distribution infrastructure, as well as energy
+capacity and resource adequacy costs;
+(3) specify the duration of the contract, which shall be for a minimum of
+10 years, and the date or the estimated date that the electric company will
+begin to provide electric service to the data center;
+(4) obligate the data center to pay a minimum amount or percentage
+based on the data center’s projected electricity usage for the duration of the
+contract to ensure compliance with subdivision (1) of this subsection;
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.727
+2026 Page 25 of 39
+(5) include a reasonable charge for demand in excess of the data
+center’s projected electricity demand at the time the contract is entered into;
+(6) include a collateral requirement sufficient to prevent the risk of
+stranded costs;
+(7) include provisions requiring implementation of demand-side
+management operational measures for the purpose of maintaining grid
+stability, efficiency, reliability, and resiliency, including demand response and
+flexible load management practices that, at a minimum, satisfy the
+requirements of section 285 of this subchapter;
+(8) address load curtailment procedures and priorities during grid
+emergencies;
+(9) include provisions for the collection of gross receipts taxes, energy
+efficiency charges, and any other fees or charges that may be applicable to
+electricity revenues; and
+(10) meet any other terms or conditions required by the Commission
+that are consistent with the purpose of this section and in the public interest.
+(c)(1) The Commission shall not approve a large load service equity
+contract unless the Commission first finds that it will promote the general good
+of the State and that its terms:
+(A) will not adversely affect the stability, efficiency, reliability, and
+resiliency of the electric power system;
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.727
+2026 Page 26 of 39
+(B) will result in an economic benefit to the State and its residents;
+(C) are consistent with the principles for resource selection expressed
+in the electric company’s approved least-cost integrated plan;
+(D) are consistent with the Electrical Energy Plan approved by the
+Department under section 202 of this title, or that there exists good cause to
+permit a variance;
+(E) will ensure that the data center will be served economically by
+existing or planned transmission facilities without any undue adverse effect on
+Vermont utilities or other retail ratepayer classes; and
+(F) are consistent with environmental justice and equity policy as
+established pursuant to 3 V.S.A. chapter 72.
+(2) The Commission’s findings pursuant to this subsection shall be in
+writing and shall include a stated rationale for each.
+(d)(1) The Commission shall conduct a periodic review of a large load
+service equity contract approved under this section. The purpose of the review
+shall be to verify the data center’s ongoing compliance with all established
+contract terms, conditions, and regulatory obligations.
+(2) Reviews shall be performed at intervals not to exceed two years.
+However, the Commission may initiate a review at any time upon a finding of
+good cause or when deemed necessary to protect the public interest.
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.727
+2026 Page 27 of 39
+(e) A data center shall not be eligible to participate in an energy savings
+account or a customer credit program pursuant to subdivision 209(d)(3)(C) of
+this title or a self-managed energy efficiency program pursuant to subsection
+209(j) of this title.
+§ 285. DEMAND-SIDE MANAGEMENT
+(a) Purpose. The purpose of this section is to minimize any adverse impact
+of data center operations on Vermont’s electric system, other ratepayers, and
+the environment. It aims to minimize peak demand increases, reduce
+associated costs, and enhance the grid’s stability, efficiency, reliability, and
+resiliency while minimizing climate pollution emissions and maximizing
+benefits to Vermonters.
+(b) Site suitability analysis and project design.
+(1) Site suitability analysis. Prior to submitting a permit application
+under 10 V.S.A. chapter 151, the owner or operator of a proposed data center
+shall conduct a site suitability analysis. This analysis shall be developed in
+consultation with the electric company and the efficiency utility appointed by
+the Public Utility Commission under subdivision 209(d)(2)(A) of this title. The
+analysis shall provide a preliminary assessment of the facility’s capacity to:
+(A) comply with the required commercial building energy standards
+adopted under section 53 of this title;
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.727
+2026 Page 28 of 39
+(B) maximize the deployment of on-site renewable energy generation,
+battery storage, and demand response assets; and
+(C) implement a waste heat recovery system capable of providing
+thermal energy to adjacent municipal or residential buildings.
+(2) Project design. In the design and construction of the data center, the
+owner or operator shall ensure compliance with State energy efficiency
+requirements and best practices and maximize the potential of the site and any
+structures on the site to host renewable energy.
+(c) Combustion-based backup generation.
+(1) A data center shall use combustion-based backup generation only
+during emergency situations involving power failures and interruptions.
+Otherwise, the data center shall prioritize to the greatest extent practicable the
+use of battery storage and on-site renewable energy generation.
+(2) As used in this subsection, “combustion-based backup generation”
+includes any electrical generation system that emits air contaminants as
+defined in 10 V.S.A. § 552 during combustion.
+(d) Distributed renewable generation. Taking into consideration the site
+suitability analysis and project design requirements under subsection (b) of
+this section and any other relevant factors, a data center shall maximize the
+construction and operation of on-site renewable energy generation to the
+greatest extent technically feasible. A renewable energy plant that directly
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.727
+2026 Page 29 of 39
+emits air contaminants as defined in 10 V.S.A. § 552(2) from fuel combustion
+does not qualify under this subsection, unless it is a thermal energy plant. A
+data center shall transfer any renewable energy certificates or environmental
+attributes generated from the operation of plants constructed pursuant to this
+subsection to the electric company.
+(e) Energy transformation payment.
+(1) Because of the unique and significant demands a data center has on
+Vermont’s electric system, it shall contribute proportionally to State initiatives
+that reduce fossil fuel consumption and greenhouse gas emissions.
+Accordingly, a data center shall make an annual payment directly into a fund
+managed by the electric company. The payments shall be used to finance
+energy transformation projects as defined in subdivision 8002(28) of this title
+and, to the extent practicable, such projects shall be deployed in the
+community hosting the data center and the surrounding communities.
+(2) The amount of the payment shall be equal to 60 percent of the data
+center’s electricity usage for the prior calendar year multiplied by the
+alternative compliance payment rate established in subdivision
+8005(a)(6)(A)(ii) of this title. Payments shall be made in advance at the start
+of each calendar year based on projected electricity usage. Any difference
+between projected and actual usage shall be reconciled in the following year’s
+payment.
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.727
+2026 Page 30 of 39
+(3) In the event funds generated by this subsection are used to support
+projects that are also supported by the electric company under subdivision
+8005(a)(3) of this title, or by any other regulated entity, the Commission shall
+prorate the reduction in fossil fuel consumption and greenhouse gas emissions
+credited to the regulated entity.
+(f) Virtual power plant.
+(1) A data center shall participate in a virtual power plant managed by
+the electric company, if available and technically feasible, otherwise it shall
+design and implement a self-managed virtual power plant in coordination with
+the electric company to optimize energy generation and consumption. Data
+center funds used to develop or implement a virtual power plant under this
+subsection shall be in addition to any support or incentives provided under
+subsection (e) of this section or through any ratepayer-funded or State-funded
+program supporting the deployment or operation of assets participating in
+such virtual power plant.
+(2) As used in this subsection, “virtual power plant” means a network of
+distributed energy resources, such as batteries, demand response assets,
+renewable energy generation, and controllable loads, that are coordinated
+through software to function like a traditional power plant.
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.727
+2026 Page 31 of 39
+§ 286. QUARTERLY AND ANNUAL REPORTS
+(a) Data center quarterly reports. Within three months after a data center
+becomes operational, and in a form and manner determined by the
+Commission, the data center shall begin submitting quarterly reports to the
+Commission and the Department of Public Service. Each quarterly report
+shall include the data center’s water and energy usage, including its peak
+usage per day, and an itemization of the data center’s payments toward shared
+infrastructure constructed to support the data center. The reports are subject
+to public inspection and copying under the Public Records Act.
+(b) Department annual report. Annually, beginning on or before January
+15, 2028, and provided at least one data center has entered into a large load
+service equity contract pursuant to this subchapter, the Commissioner of
+Public Service shall include in the Department’s annual report published
+pursuant to subsection 202b(e) of this title findings and recommendations
+related to the energy, environmental, and economic impacts of data center
+construction and operation in Vermont, as well as any significant
+developments within the region, such as significant laws or regulations with
+respect to data centers enacted or adopted in other states in the region, known
+data center construction in the region, and any known impact on ratepayers
+from such construction in that state or region.
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.727
+2026 Page 32 of 39
+§ 287. RULES
+The Commission may adopt rules it deems necessary to implement and
+enforce the provisions of this subchapter consistent with its purpose and in the
+public interest.
+Sec. 2. 10 V.S.A. § 6001 is amended to read:
+§ 6001. DEFINITIONS
+As used in this chapter:
+* * *
+(3)(A) “Development” means each of the following:
+* * *
+(xiv) The construction of improvements on a tract or tracts of land
+for a data center as defined in 30 V.S.A. § 283(1), including on land within a
+Tier 1A area, notwithstanding anything to the contrary in section 6034 of this
+title.
+* * *
+Sec. 3. 10 V.S.A. § 6086c is added to read:
+§ 6086c. WATER USE; COOLING; PERMITTING; QUALITY
+(a) As used in this section:
+(1) “Closed-loop cooling system” means a sealed cooling process in
+which the same water or coolant circulates continuously within a data center’s
+cooling system without withdrawal of water from municipal public water
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.727
+2026 Page 33 of 39
+supplies, groundwater, or surface water and without discharge of wastewater
+to municipal wastewater systems, groundwater, or surface waters, except for de
+minimis discharges authorized under a discharge permit issued by the Agency
+of Natural Resources.
+(2) “Data center” has the same meaning as in 30 V.S.A. § 283(1).
+(3) “Per- and polyfluoroalkyl substances” or “PFAS” means any
+chemical substance or mixture containing a chemical substance that
+structurally contains at least one of the following three substructures:
+(A) R-(CF2)-CF(R′)R″, where both the CF2 and CF moieties are
+saturated carbons;
+(B) R-CF2OCF2-R′, where R and R′ can either be F, O, or saturated
+carbons; or
+(C) CF3C(CF3)R′R″, where R′ and R″ can either be F or saturated
+carbons.
+(b)(1) A data center shall identify to the District Commission reviewing the
+data center’s application for a permit under this chapter how the data center
+will cool the facility.
+(2) If water is used to cool a data center, the data center shall use a
+closed-loop cooling system or an alternative cooling system that is approved
+by a District Commission and that shall not use more water than a comparable
+closed-loop cooling system for the data center. Before approving an
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.727
+2026 Page 34 of 39
+alternative cooling system, a District Commission shall find that the
+alternative cooling system will minimize groundwater use or surface water use
+and will not unreasonably burden a public water supply, surface water, or
+groundwater resource.
+(3) If water is used to cool a data center through a closed-loop cooling
+system or through an alternative cooling system approved by a District
+Commission, a data center shall identify where the data center will obtain
+water to cool the facility and where the cooling water will be discharged.
+(c) If a data center proposes to use groundwater to cool the data center, the
+data center shall obtain a groundwater withdrawal permit under section 1418
+of this title for any withdrawal of groundwater by the data center
+notwithstanding the permitting threshold of withdrawal of more than 57,600
+gallons of groundwater a day. A closed-loop cooling system is not exempt
+from the groundwater withdrawal permit under subdivision 1418(b)(6) of this
+title.
+(d) If a data center proposes to use surface water to cool the facility, the
+data center shall obtain a surface water withdrawal permit pursuant to section
+1043 of this title. The rules adopted by the Secretary to implement section
+1043 of this title shall require a data center to cease withdrawals under
+drought conditions.
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.727
+2026 Page 35 of 39
+(e)(1) A data center shall obtain all applicable water quality and water
+resource protection permits from the Agency of Natural Resources, including
+stormwater, stream alteration, direct discharge, surface water withdrawal,
+groundwater withdrawal, wetland, and river corridor development permits.
+(2)(A) If a data center proposes to use more than 150,000 gallons a day
+of surface water for cooling or other purposes, the Agency in reviewing the
+application for a surface water withdrawal permit required under section 1043
+of this title shall assess the impacts on water quality, aquatic biota, State
+endangered and threatened species, instream flow habitat, impingement,
+streambank erosion, littoral habitat, and wetlands.
+(B) The issuance of a surface water withdrawal permit by the Agency
+after completion of the assessments required under subdivision (A) of this
+subdivision (e)(2) shall create a rebuttable presumption that the data center
+will not result in undue water pollution under the requirements of subdivision
+6086(a)(1) of this title.
+(C) The Agency may by rule reduce the amount of surface water
+proposed for withdrawal by a data center for which the Agency would be
+required to complete the assessment under subdivision (A) of this subdivision
+(e)(2).
+(f) A data center that discharges waste into a surface water of the State
+shall monitor the discharge for the maximum number of PFAS that are
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.727
+2026 Page 36 of 39
+detectable under U.S. Environmental Protection Agency standard methods
+approved as of January 1, 2026. A data center shall not discharge waste that
+exceeds the criteria established under the Vermont Water Quality Standards. If
+no criteria have been established under the Vermont Water Quality Standards
+for PFAS and the data center is withdrawing surface water or groundwater for
+purposes of operating the data center’s cooling system, the data center shall
+monitor the withdrawn water for PFAS at the point of withdrawal. When the
+data center discharges waste from the cooling system to surface water, PFAS in
+the discharged waste shall not exceed the level of PFAS detected in the surface
+water or groundwater withdrawn for purposes of operating the cooling system
+at the data center.
+Sec. 3a. AGENCY OF NATURAL RESOURCES REPORT ON
+DISCHARGES OF PFAS FROM DATA CENTERS TO SURFACE
+WATERS OF THE STATE
+On or before January 1, 2027, the Secretary of Natural Resources shall
+submit to the House Committee on Environment and the Senate Committee on
+Natural Resources and Energy a recommended standard for authorizing per-
+and polyfluoroalkyl substances in the discharge of waste from the cooling
+systems of data centers to surface waters of the State.
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.727
+2026 Page 37 of 39
+Sec. 4. REPORT ON REGIONAL RENEWABLE ENERGY MARKET
+CONDITIONS; PUBLIC UTILITY COMMISSION
+(a) On or before January 15, 2027, the Public Utility Commission shall
+prepare a written report on projected regional renewable electric generation
+market conditions. In developing the report, the Commission shall examine the
+cost and availability of new regional renewable electric generation resources
+during the years 2027–2035.
+(b) In preparing the report, the Commission shall provide an opportunity
+for written input from interested stakeholders, including retail electricity
+providers, renewable energy developers, regional transmission organizations,
+consumer advocates, and any other members of the public. In addition, the
+Commission may consult with the Department of Public Service and other
+relevant state, regional, or federal entities, as the Commission deems
+appropriate. Preparation of the report is not subject to the contested case
+procedures established under 3 V.S.A. chapter 25.
+(c) The Commission shall submit the report to the House Committees on
+Environment and on Energy and Digital Infrastructure and the Senate
+Committees on Finance and on Natural Resources and Energy.
+Sec. 5. RECOMMENDATION ON DATA CENTER DECOMMISSIONING
+(a) The Commissioner of Public Service, in consultation with the Secretary
+of Natural Resources, the Chair of the Land Use Review Board, and any other
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.727
+2026 Page 38 of 39
+interested stakeholders deemed appropriate by the Commissioner, shall
+recommend a regulatory model for data center decommissioning. As used in
+this section, “data center” has the same meaning as in Sec. 1, 30 V.S.A.
+§ 283(1), of this act.
+(b) The recommended regulatory model developed pursuant to this section
+shall ensure responsible data center decommissioning in a manner that
+protects and preserves the environment and the public health and welfare. The
+model shall include standards and procedures that address:
+(1) approval of a decommissioning plan by the appropriate regulatory
+entity, with a clear delineation of authority if more than one entity is involved
+in the approval process;
+(2) regulatory oversight of the decommissioning process, including
+through site visits and inspections;
+(3) a bond requirement or other financial assurance to ensure a data
+center is solely responsible for the costs associated with implementation of an
+approved decommissioning plan;
+(4) guidelines for data sanitization, the physical destruction of highly
+sensitive storage devices, and a documented chain of custody for information
+technology assets, including compliance with the Storage Device Sanitization
+and Destruction Manual, Policy Manual 9-12, prepared by the National
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.727
+2026 Page 39 of 39
+Security Agency and the Central Security Service of the U.S. Department of
+Defense;
+(5) guidelines for environmental compliance, hazardous material
+handling, environmental remediation, and site restoration;
+(6) a timeline for commencing and completing the decommissioning
+process after the abandonment, closure, destruction, or permanent cessation of
+operations of a data center; and
+(7) any other matters deemed appropriate by the Commissioner.
+(c) On or before December 15, 2026, the Commissioner shall submit
+recommendations for a data center decommissioning regulatory model in the
+form of draft legislation to the House Committees on Energy and Digital
+Infrastructure and on Environment and the Senate Committees on Finance and
+on Natural Resources and Energy.
+Sec. 6. EFFECTIVE DATE; APPLICATION
+This act shall take effect on passage and shall apply to any data center not
+operational on the effective date of this act as well as to any data center that
+uses less than 20 MW of power that is operational on the effective date of this
+act to the extent such data center seeks to expand its capacity and meet the
+threshold requirements of Sec. 1, 30 V.S.A. § 283(1).
