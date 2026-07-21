@@ -1,0 +1,93 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.710
+2026 Page 1 of 4
+1 H.710
+2 Introduced by Representatives Campbell of St. Johnsbury and James of
+3 Manchester
+4 Referred to Committee on
+5 Date:
+6 Subject: Public service; utility companies; renewable energy programs;
+7 definitions; plant
+8 Statement of purpose of bill as introduced: This bill proposes to amend the
+9 definition of “plant” to clarify when the Public Utility Commission would
+10 consider multiple energy-generating facilities to be a single facility. This bill
+11 would consider a plant with multiple energy-generating facilities to be a single
+12 facility if the facilities use the same electricity-generating technology and if the
+13 facilities are on the same parcel or contiguous parcels of land, unless an
+14 exception applies.
+15 An act relating to defining electricity generating facilities
+16 It is hereby enacted by the General Assembly of the State of Vermont:
+17 Sec. 1. 30 V.S.A. § 8002 is amended to read:
+18 § 8002. DEFINITIONS
+19 As used in this chapter:
+20 * * *
+VT LEG #386365 v.1
+
+BILL AS INTRODUCED H.710
+2026 Page 2 of 4
+1 (18) “Plant” means an independent technical facility that generates
+2 electricity from renewable energy. A group of facilities, such as wind turbines,
+3 shall be considered one plant if the group is part of the same project and uses
+4 common equipment and infrastructure such as roads, control facilities, and
+5 connections to the electric grid. Common ownership, contiguity in time of
+6 construction, and proximity of facilities to each other shall be relevant to
+7 determining whether a group of facilities is part of the same project. Multiple
+8 electricity-generating facilities, regardless of when each is constructed, shall be
+9 considered one plant if the facilities use the same electricity-generating
+10 technology and are located on the same parcel or contiguous parcels of land.
+11 Such facilities shall only be considered separate plants if they meet one of the
+12 following exceptions:
+13 (A) Exception for individual net-metering and self-consumption.
+14 Applies if the facilities:
+15 (i) are not located on the same parcel of land;
+16 (ii) are wired to offset consumption on separate billing meters; and
+17 (iii) supply different retail customers.
+18 (B) Exception for multi-owner individual net-metering on the same
+19 parcel. Applies if the facilities:
+20 (i) are located on the same parcel of land where a common interest
+21 community is located;
+VT LEG #386365 v.1
+
+BILL AS INTRODUCED H.710
+2026 Page 3 of 4
+1 (ii) are wired to offset consumption on separate billing meters; and
+2 (iii) supply different retail customers.
+3 (C) Exception for colocation of renewable energy program facilities.
+4 More than one facility may be located on the same parcel or contiguous parcels
+5 with net-metering, Standard Offer Program facilities, or other Renewable
+6 Energy Standard Tier II facilities when:
+7 (i) the facilities have separate points of interconnection; and
+8 (ii) not more than the statutory capacity cap for net-metering or
+9 the statutory capacity cap for the Standard Offer Program is sited on the same
+10 parcel or contiguous parcels and a net-metering facility and a Standard Offer
+11 facility are not sited on the same parcel or contiguous parcels.
+12 * * *
+13 (33) “Common interest community” means real estate described in a
+14 declaration with respect to which a person, by virtue of the person’s ownership
+15 of a unit, is obligated to pay for a share of real estate taxes on, insurance
+16 premiums, maintenance, or improvement of, or services or other expenses
+17 related to common elements, other units, or other real estate than that unit
+18 described in the declaration.
+19 (34) “Contiguous” means sharing a property boundary with another
+20 parcel of land or being adjacent to that parcel of land and the two parcels are
+21 separated only by a road, recreation path, railway line, stream, or river.
+VT LEG #386365 v.1
+
+BILL AS INTRODUCED H.710
+2026 Page 4 of 4
+1 (35) “Electricity-generating technology” means a method or system
+2 used to convert energy from one form into electric power, including wind,
+3 hydropower or water, solar, or biomass.
+4 (36) “Point of interconnection” means the point on the interconnecting
+5 utility’s existing distribution system to which a facility proposes to
+6 interconnect.
+7 Sec. 2. EFFECTIVE DATE
+8 This act shall take effect on July 1, 2026.
+VT LEG #386365 v.1

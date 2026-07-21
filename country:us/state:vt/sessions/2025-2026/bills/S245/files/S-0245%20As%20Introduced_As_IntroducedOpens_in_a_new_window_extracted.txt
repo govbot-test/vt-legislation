@@ -1,0 +1,45 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED S.245
+2026 Page 1 of 2
+1 S.245
+2 Introduced by Senators Gulick, Benson, Cummings, Lyons and Morley
+3 Referred to Committee on
+4 Date:
+5 Subject: Health; telehealth; recordings; consent
+6 Statement of purpose of bill as introduced: This bill proposes to allow
+7 telehealth appointments to be recorded if both the patient and the provider
+8 consent.
+9 An act relating to allowing telehealth appointments to be recorded with
+10 patient and provider consent
+11 It is hereby enacted by the General Assembly of the State of Vermont:
+12 Sec. 1. 18 V.S.A. § 9361 is amended to read:
+13 § 9361. HEALTH CARE PROVIDERS DELIVERING HEALTH CARE
+14 SERVICES THROUGH TELEMEDICINE OR BY STORE-AND-
+15 FORWARD MEANS
+16 * * *
+17 (d) Neither a health care provider nor a patient shall create or cause to be
+18 created a recording of a provider’s telemedicine consultation with a patient
+19 unless both the patient and the provider consent to the recording.
+20 * * *
+VT LEG #384992 v.1
+
+BILL AS INTRODUCED S.245
+2026 Page 2 of 2
+1 Sec. 2. 18 V.S.A. § 9362 is amended to read:
+2 § 9362. HEALTH CARE PROVIDERS DELIVERING HEALTH CARE
+3 SERVICES BY AUDIO-ONLY TELEPHONE
+4 * * *
+5 (d) Neither a health care provider nor a patient shall create or cause to be
+6 created a recording of a provider’s telephone consultation with a patient unless
+7 both the patient and the provider consent to the recording.
+8 * * *
+9 Sec. 3. EFFECTIVE DATE
+10 This act shall take effect on passage.
+VT LEG #384992 v.1

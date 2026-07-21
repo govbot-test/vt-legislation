@@ -1,0 +1,365 @@
+Title: 
+Official Title: 
+Source: versions - As Passed by Both House and Senate (OfficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.710
+2026 Page 1 of 16
+1 H.710
+2 Introduced by Representatives Campbell of St. Johnsbury and James of
+3 Manchester
+4 Referred to Committee on
+5 Date:
+6 Subject: Public service; utility companies; renewable energy programs;
+7 definitions; plant
+8 Statement of purpose of bill as introduced: This bill proposes to amend the
+9 definition of “plant” to clarify when the Public Utility Commission would
+10 consider multiple energy-generating facilities to be a single facility. This bill
+11 would consider a plant with multiple energy-generating facilities to be a single
+12 facility if the facilities use the same electricity-generating technology and if
+13 the facilities are on the same parcel or contiguous parcels of land, unless an
+14 exception applies.
+15 An act relating to defining electricity generating facilities
+16 It is hereby enacted by the General Assembly of the State of Vermont:
+17 Sec. 1. 30 V.S.A. § 8002 is amended to read:
+18 § 8002. DEFINITIONS
+19 As used in this chapter:
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.710
+2026 Page 2 of 16
+1 * * *
+2 (18) “Plant” means an independent technical facility that generates
+3 electricity from renewable energy. A group of facilities, such as wind turbines,
+4 shall be considered one plant if the group is part of the same project and uses
+5 common equipment and infrastructure such as roads, control facilities, and
+6 connections to the electric grid. Common ownership, contiguity in time of
+7 construction, and proximity of facilities to each other shall be relevant to
+8 determining whether a group of facilities is part of the same project. Multiple
+9 electricity-generating facilities, regardless of when each is constructed, shall be
+10 considered one plant if the facilities use the same electricity-generating
+11 technology and are located on the same parcel or contiguous parcels of land.
+12 Such facilities shall only be considered separate plants if they meet one of the
+13 following exceptions:
+14 (A) Exception for individual net-metering and self-consumption.
+15 Applies if the facilities:
+16 (i) are not located on the same parcel of land;
+17 (ii) are wired to offset consumption on separate billing meters;
+18 and
+19 (iii) supply different retail customers.
+20 (B) Exception for multi-owner individual net-metering on the same
+21 parcel. Applies if the facilities:
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.710
+2026 Page 3 of 16
+1 (i) are located on the same parcel of land where a common
+2 interest community is located;
+3 (ii) are wired to offset consumption on separate billing meters;
+4 and
+5 (iii) supply different retail customers.
+6 (C) Exception for colocation of renewable energy program facilities.
+7 More than one facility may be located on the same parcel or contiguous
+8 parcels with net-metering, Standard Offer Program facilities, or other
+9 Renewable Energy Standard Tier II facilities when:
+10 (i) the facilities have separate points of interconnection; and
+11 (ii) not more than the statutory capacity cap for net-metering or
+12 the statutory capacity cap for the Standard Offer Program is sited on the same
+13 parcel or contiguous parcels and a net-metering facility and a Standard Offer
+14 facility are not sited on the same parcel or contiguous parcels.
+15 * * *
+16 (33) “Common interest community” means real estate described in a
+17 declaration with respect to which a person, by virtue of the person’s ownership
+18 of a unit, is obligated to pay for a share of real estate taxes on, insurance
+19 premiums, maintenance, or improvement of, or services or other expenses
+20 related to common elements, other units, or other real estate than that unit
+21 described in the declaration.
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.710
+2026 Page 4 of 16
+1 (34) “Contiguous” means sharing a property boundary with another
+2 parcel of land or being adjacent to that parcel of land and the two parcels are
+3 separated only by a road, recreation path, railway line, stream, or river.
+4 (35) “Electricity-generating technology” means a method or system
+5 used to convert energy from one form into electric power, including wind,
+6 hydropower or water, solar, or biomass.
+7 (36) “Point of interconnection” means the point on the interconnecting
+8 utility’s existing distribution system to which a facility proposes to
+9 interconnect.
+10 Sec. 2. EFFECTIVE DATE
+11 This act shall take effect on July 1, 2026.
+Sec. 1. 30 V.S.A. § 8002 is amended to read:
+§ 8002. DEFINITIONS
+As used in this chapter:
+* * *
+(18) “Plant” means an independent technical facility that generates
+electricity from renewable energy. A group of facilities, such as wind turbines,
+shall be considered one plant if the group is part of the same project and uses
+common equipment and infrastructure such as roads, control facilities, and
+connections to the electric grid. Common ownership, contiguity in time of
+construction, and proximity of facilities to each other shall be relevant to
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.710
+2026 Page 5 of 16
+determining whether a group of facilities is part of the same project. Multiple
+electricity-generating facilities, regardless of when each is constructed, shall
+be considered one plant if the facilities use the same electricity-generating
+technology and are located on the same parcel or contiguous parcels of land.
+Such facilities shall only be considered separate plants if they meet one of the
+following exceptions:
+(A) Exception for individual net-metering and self-consumption.
+Applies if the facilities:
+(i) are not located on the same parcel of land;
+(ii) are wired to offset consumption on separate billing meters;
+and
+(iii) supply different retail customers.
+(B) Exception for multi-owner individual net-metering on the same
+parcel. Applies if the facilities:
+(i) are located on the same parcel of land where a common
+interest community is located;
+(ii) are wired to offset consumption on separate billing meters;
+and
+(iii) supply different retail customers.
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.710
+2026 Page 6 of 16
+(C) Exception for colocation of facilities other than net-metering
+program or Standard Offer Program facilities. Applies if the facilities have
+separate points of interconnection if:
+(i) a net-metering facility and a Standard Offer Program facility
+are not sited on the same parcel or contiguous parcels; and
+(ii) the statutory capacity cap for the net-metering program or the
+Standard Offer Program is not exceeded on the same parcel or contiguous
+parcels.
+* * *
+(33) “Common interest community” means real estate described in a
+declaration with respect to which a person, by virtue of the person’s ownership
+of a unit, is obligated to pay for a share of real estate taxes on, insurance
+premiums, maintenance, or improvement of, or services or other expenses
+related to common elements, other units, or other real estate than that unit
+described in the declaration.
+(34) “Contiguous” means sharing a property boundary with another
+parcel of land or being adjacent to that parcel of land and the two parcels are
+separated only by a road, recreation path, railway line, stream, or river.
+(35) “Electricity-generating technology” means a method or system
+used to convert energy from one form into electric power, including wind,
+hydropower or water, solar, or biomass.
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.710
+2026 Page 7 of 16
+(36) “Point of interconnection” means the point on the interconnecting
+utility’s existing distribution system to which a facility proposes to
+interconnect.
+Sec. 2. EFFECTIVE DATE
+This act shall take effect on July 1, 2026.
+Sec. 1. 30 V.S.A. § 8002 is amended to read:
+§ 8002. DEFINITIONS
+As used in this chapter:
+* * *
+(18) “Plant” means an independent technical facility that generates
+electricity from renewable energy. A group of facilities, such as wind turbines,
+shall be considered one plant if the group is part of the same project and uses
+common equipment and infrastructure such as roads, control facilities, and
+connections to the electric grid. Common ownership, contiguity in time of
+construction, and proximity of facilities to each other shall be relevant to
+determining whether a group of facilities is part of the same project. Multiple
+electricity-generating facilities, regardless of when each is constructed, shall
+be considered one plant if the facilities use the same electricity-generating
+technology and are located on the same parcel or contiguous parcels of land.
+However, such facilities shall be considered separate plants if:
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.710
+2026 Page 8 of 16
+(A) the facilities are for individual net metering or self-consumption
+and:
+(i) are not located on the same parcel of land;
+(ii) are wired to offset consumption on separate billing meters;
+and
+(iii) supply different retail customers;
+(B) the facilities are for multi-owner individual net metering and:
+(i) are located on the same parcel of land where a common
+interest community is located;
+(ii) are wired to offset consumption on separate billing meters;
+and
+(iii) supply different retail customers; or
+(C) the facilities have separate points of interconnection and:
+(i) a net-metering facility and a Standard Offer Program facility
+are not sited on the same parcel or contiguous parcels; and
+(ii) for facilities under each program, the total capacity located on
+a parcel or contiguous parcels does not exceed the program’s statutory
+capacity cap.
+* * *
+(33) “Common interest community” means real estate described in a
+declaration with respect to which a person, by virtue of the person’s ownership
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.710
+2026 Page 9 of 16
+of a unit, is obligated to pay for a share of real estate taxes on; insurance
+premiums, maintenance, or improvement of; or services or other expenses
+related to common elements, other units, or other real estate than the unit
+described in the declaration.
+(34) “Contiguous” means sharing a property boundary with another
+parcel of land or being adjacent to that parcel of land and the two parcels are
+separated only by a road, recreation path, railway line, stream, or river.
+(35) “Electricity-generating technology” means a method or system
+used to convert energy from one form into electric power, including wind,
+hydropower or water, solar, or biomass.
+(36) “Point of interconnection” means the point on the interconnecting
+utility’s existing distribution system to which a facility proposes to
+interconnect.
+Sec. 2. LEGISLATIVE INTENT
+It is the intent of the General Assembly that the amendments in Sec. 1, 30
+VSA 8002, of this act are substantive and create new rights and liabilities in
+light of emerging issues and shall apply only to applications filed on or after
+the effective date of this act.
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.710
+2026 Page 10 of 16
+Sec. 2a. PRIMARY AGRICULTURAL SOILS AND SOLAR REPORT
+(a) On or before January 15, 2027, the Commissioner of Public Service,
+after consultation with the Secretary of Agriculture, Food and Markets, shall
+report back on the following questions:
+(1) Over the last five years, how many acres of primary agricultural
+soils have been developed for any purpose? What share of this development is
+attributable to solar energy generation projects?
+(2) How many acres of primary agricultural soils used for solar energy
+generation development were directly impacted by the project, as opposed to
+the acreage that is within the project’s area of disturbance?
+(3) How many acres of primary agricultural soils developed for solar
+energy generation were in active agricultural use immediately before
+development, and what was the agricultural usage?
+(4) How many acres of primary agricultural soils developed for solar
+energy generation projects remain owned by farmers?
+(5) How many acres of trees have been cleared for solar energy
+generation projects in this time frame, broken down by forest type?
+(b) The Commissioner shall include in the report recommendations on how
+to encourage the siting of solar energy generation on land that has already
+been disturbed, including rooftops and parking lots, and potential financial
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.710
+2026 Page 11 of 16
+structures that would make solar energy generation on those sites more
+financially feasible.
+(c) The report shall be submitted to the House Committees on Agriculture,
+Food Resiliency, and Forestry and on Energy and Digital Infrastructure and
+the Senate Committees on Agriculture and on Natural Resources and Energy.
+Sec. 2a. PRIMARY AGRICULTURAL SOILS AND SOLAR REPORT
+(a) On or before January 15, 2027, the Commissioner of Public Service,
+after consultation with the Secretary of Agriculture, Food and Markets, the
+Public Utility Commission, and the Agency of Natural Resources, shall report
+back on the following questions:
+(1) In the last two years, for solar energy generation projects with a
+capacity of 1 MW or greater, how many acres of primary agricultural soils
+used for solar energy generation development were directly impacted by the
+project, as opposed to the acreage that is within the project’s area of
+disturbance?
+(2) In the last two years, what are the cumulative impacts, in acres, of
+forest clearing associated with solar energy generation projects with a
+capacity of 1 MW or greater, and what are the specific impacts on the Highest
+Priority Landscapes identified by Vermont Conservation Design as well as any
+impacts on State-Significant natural communities?
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.710
+2026 Page 12 of 16
+(b) The Commissioner shall include in the report recommendations on how
+to encourage the siting of solar energy generation on land that has already
+been disturbed, including rooftops and parking lots, and potential financial
+structures that would make solar energy generation on those sites more
+financially feasible.
+(c) The report shall be submitted to the House Committees on Agriculture,
+Food Resiliency, and Forestry and on Energy and Digital Infrastructure and
+the Senate Committees on Agriculture and on Natural Resources and Energy.
+Sec. 3. 30 V.S.A. § 20 is amended to read:
+§ 20. PARTICULAR PROCEEDINGS AND ACTIVITIES; PERSONNEL
+(a)(1) The Commission or the Department of Public Service may authorize
+or retain legal counsel, official stenographers, expert witnesses, advisors and
+consultants, temporary employees, and other providers of research, scientific,
+financial, economic, actuarial, accounting, or engineering services:
+* * *
+(F) To investigate, review, plan, oversee, or carry out the
+decommissioning and site restoration required by a certificate of public good
+issued to an electric generation or energy storage facility.
+* * *
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.710
+2026 Page 13 of 16
+Sec. 4. 30 V.S.A. § 248e is added to read:
+§ 248e. ELECTRIC GENERATION AND ENERGY STORAGE FACILITY
+DECOMMISSIONING FUND
+(a) There is created the Electric Generation and Energy Storage Facility
+Decommissioning Fund that shall be a special fund created pursuant to 32
+V.S.A. chapter 7, subchapter 5 and shall be administered by the Chair of the
+Public Utility Commission. The Chair is authorized to collect surety fees for
+the Decommissioning Fund and to make disbursements from the
+Decommissioning Fund.
+(b) Deposits to the Decommissioning Fund shall consist of all
+decommissioning surety fees collected for electric generation and energy
+storage facilities that have received a certificate of public good from the
+Commission and all monies drawn from decommissioning financial
+instruments. The Commission shall deposit into the Decommissioning Fund
+each decommissioning surety fee it receives under this subchapter.
+(c) Disbursements from the Decommissioning Fund may be made by the
+Chair to undertake actions that the Commission considers necessary to
+investigate or mitigate, or both, the effects of an abandoned, nonoperational,
+or disclaimed electric generation or energy storage facility. Disbursements
+under this subsection may be made to:
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.710
+2026 Page 14 of 16
+(1) pay costs to third parties who initiate or complete facility
+decommissioning and site restoration where the holder of the certificate of
+public good is unknown, cannot be contacted, is unwilling to take action, is
+incapable of carrying out decommissioning or site restoration, or does not take
+timely action as ordered by the Commission;
+(2) investigate ownership of or ascertain the holder of the certificate of
+public good for an electric generation or energy storage facility;
+(3) take other appropriate remedial action;
+(4) pay costs to persons retained by the Commission or the Department
+under subdivision 20(a)(1)(F) of this title; or
+(5) return portions of the decommissioning surety fees as determined by
+a formula established by the Commission to individual certificate of public
+good holders upon satisfactory completion of decommissioning and
+Commission approval.
+(d) For purposes of this section:
+(1) “Chair” means the Chair of the Public Utility Commission.
+(2) “Commission” means the Public Utility Commission.
+(3) “Decommissioning” means to remove a facility safely from service
+and to restore the site to its condition before the facility was installed
+consistent with the facility’s certificate of public good and Commission rules
+and orders.
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.710
+2026 Page 15 of 16
+(4) “Decommissioning Fund” means the Electric Generation and
+Energy Storage Facility Decommissioning Fund established pursuant to this
+section.
+(5) “Decommissioning surety fee” means the contribution assigned to a
+facility and determined by a funding formula established by the Commission,
+not to exceed the average cumulative cost of obtaining decommissioning
+financial instruments for the life of a facility. The “average cumulative cost”
+means the customary and reasonable market-based third-party costs; expenses
+and fees associated with obtaining, maintaining, renewing, and updating
+financial instruments; and staff and attorney time and expenses.
+(6) “Department” means the Department of Public Service.
+(e) Balances in the Decommissioning Fund shall be expended only for the
+purposes authorized in this section and shall not be used for the general
+obligations of government or for other governmental purposes. All balances in
+the Decommissioning Fund at the end of any fiscal year shall be carried
+forward and remain within the Decommissioning Fund. Interest earned by the
+Decommissioning Fund shall be credited to the Decommissioning Fund.
+(f) The Commission shall have authority to adopt rules or issue orders
+implementing this section.
+(g) The Commission shall provide to the Treasurer of the State of Vermont
+an annual accounting of the Decommissioning Fund.
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.710
+2026 Page 16 of 16
+Sec. 5. DECOMMISSIONING FUND REPORT
+On or before February 15, 2027, the Public Utility Commission shall report
+back to the House Committee on Energy and Digital Infrastructure and the
+Senate Committees on Natural Resources and Energy and on Finance on the
+formula established for the decommissioning surety fees pursuant to 30 V.S.A.
+§ 248e.
+Sec. 6. EFFECTIVE DATE
+This act shall take effect on July 1, 2026.

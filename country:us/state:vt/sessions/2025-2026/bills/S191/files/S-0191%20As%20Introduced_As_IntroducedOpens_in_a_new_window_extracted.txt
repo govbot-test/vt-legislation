@@ -1,0 +1,285 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED S.191
+2026 Page 1 of 12
+1 S.191
+2 Introduced by Senator Watson
+3 Referred to Committee on
+4 Date:
+5 Subject: Energy; commerce and trade; energy efficiency standards for
+6 appliances and equipment
+7 Statement of purpose of bill as introduced: This bill proposes to amend
+8 Vermont’s appliance efficiency standards to include updates to the federal
+9 regulations.
+10 An act relating to appliance efficiency
+11 It is hereby enacted by the General Assembly of the State of Vermont:
+12 Sec. 1. 9 V.S.A. § 2795 is amended to read:
+13 § 2795. EFFICIENCY AND WATER CONSERVATION STANDARDS
+14 (a) The Commissioner shall adopt rules in accordance with the provisions
+15 of 3 V.S.A. chapter 25 establishing minimum efficiency standards for the types
+16 of new products set forth in section 2794 of this title. The rules shall provide
+17 for the following minimum efficiency standards for products sold or installed
+18 in this State:
+19 (1) Medium voltage dry-type distribution transformers shall at a
+20 minimum meet the efficiency requirements set forth for such transformers in
+VT LEG #385140 v.1
+
+BILL AS INTRODUCED S.191
+2026 Page 2 of 12
+1 10 C.F.R. § 431.196, as those requirements may be amended from time to
+2 time.
+3 (2) Metal halide lamp fixtures designed to be operated with lamps rated
+4 greater than or equal to 150 watts but less than or equal to 500 watts shall not
+5 contain a probe-start metal halide ballast.
+6 (3)(A) Residential furnaces and residential boilers shall meet or exceed
+7 the following Annual Fuel Utilization Efficiency (AFUE) and electricity ratio
+8 values:
+9 Product Type Maximum Maximum
+10 AFUE electricity
+11 ratio
+12 Natural gas- and propane-
+13 fired furnaces 90% 2.0%
+14 Oil-fired furnaces ≥ 94,000
+15 Btus/hour in capacity 83% 2.0%
+16 Oil-fired furnaces < 94,000
+17 Btus/hour in capacity 83% 2.3%
+18 Natural gas-, oil-, and
+19 propane-fired hot water
+20 residential boilers 84% Not applicable
+VT LEG #385140 v.1
+
+BILL AS INTRODUCED S.191
+2026 Page 3 of 12
+1 Natural gas-, oil-,
+2 and propane-fired steam
+3 residential boilers 82% Not applicable
+4 (B) AFUE shall be measured in accordance with the federal test
+5 method for measuring the energy consumption of furnaces and boilers
+6 contained in Appendix N to subpart B of part 430, Title 10, Code of Federal
+7 Regulations.
+8 (C) The Commissioner may adopt rules to exempt compliance with
+9 these residential furnace or residential boiler AFUE standards at any building,
+10 site, or location where complying with these standards would be in conflict
+11 with any local zoning ordinance, building or plumbing code, or other rule
+12 regarding installation and venting of residential boilers or residential furnaces.
+13 (4)(A) Single-voltage external AC to DC power supplies shall meet the
+14 energy efficiency requirements of the following table:
+15 Nameplate output power Minimum efficiency in Active Mode
+16 0 to < 1 watt 0.49* Nameplate Output
+17 ≥ 1 watt and ≤ 49 watts 0.09*Ln(Nameplate Output power) + 0.49
+18 > 49 watts 0.84
+19 Maximum Energy Consumption in
+20 No-Load Mode
+21 0 to < 10 watts 0.5 watts
+VT LEG #385140 v.1
+
+BILL AS INTRODUCED S.191
+2026 Page 4 of 12
+1 ≥ 10 watts and ≤ 250 watts 0.75 watts
+2 * Where Ln (Nameplate Output) = Natural logarithm of the nameplate output
+3 expressed in watts.
+4 (B) This standard applies to single voltage AC to DC power supplies
+5 that are sold individually and to those that are sold as a component of or in
+6 conjunction with another product. Single voltage AC to DC power supplies
+7 that are made available by a product manufacturer as accessories, service parts,
+8 or spare parts for its products manufactured prior to January 1, 2008 shall be
+9 exempt from the requirements of this standard.
+10 (C) For purposes of this subdivision (4), the efficiency of single-
+11 voltage external AC to DC power supplies shall be measured in accordance
+12 with the test methodology specified by the ENERGY STAR Program, “Test
+13 Method for Calculating the Energy Efficiency of Single-Voltage External AC-
+14 DC and AC-AC Power Supplies (August 11, 2004).”
+15 (5)(A) State-regulated incandescent reflector lamps shall meet the
+16 minimum average lamp efficacy requirements for federally regulated
+17 incandescent reflector lamps contained in 42 U.S.C. § 6295(i)(1)(A).
+18 (B) The following types of incandescent reflector lamps are exempt
+19 from these requirements:
+20 (i) lamps rated at 50 watts or less of the following types: BR30,
+21 ER30, BR40, and ER40;
+VT LEG #385140 v.1
+
+BILL AS INTRODUCED S.191
+2026 Page 5 of 12
+1 (ii) lamps rated at 65 watts of the following types: BR30, BR40,
+2 and ER40; and
+3 (iii) R20 lamps of 45 watts or less.
+4 (6) In the rules, the Commissioner shall adopt minimum efficiency and
+5 water conservation standards for each product that is subject to a standard
+6 under 10 C.F.R. §§ 430 and 431 as those provisions existed on January 19,
+7 2017 2025. The minimum standard and the testing protocol for each product
+8 shall be the same as adopted in those sections of the Code of Federal
+9 Regulations, except that for faucets, showerheads, and urinals, the minimum
+10 standard and testing protocol shall be as otherwise set forth in this section.
+11 (7) In the rules, the Commissioner shall adopt a minimum efficacy
+12 standard for general service lamps of 45 lumens per watt, when tested in
+13 accordance with 10 C.F.R. § 430.23(gg) as that provision existed on January
+14 19, 2017.
+15 (8) In this subdivision (8), “final rule” means the document setting forth
+16 a final action by the U.S. Department of Energy (DOE) with respect to a final
+17 rule for “Energy Conservation Standards for Air Compressors,” docket no.
+18 EERE-2013-BT-STD-0040, approved by DOE on December 5, 2016. Air
+19 compressors that meet the 12 criteria to be codified under 10 C.F.R. §
+20 431.345(a) and set forth on pages 350 to 351 of the final rule shall meet the
+21 requirements contained in Table 1 on page 352 of the final rule using the
+VT LEG #385140 v.1
+
+BILL AS INTRODUCED S.191
+2026 Page 6 of 12
+1 instructions to be codified under 10 C.F.R. § 431.345(b) and set forth on page
+2 353 of the final rule. Compliance with these requirements shall be measured in
+3 accordance with 10 C.F.R. Part 431, Subpart T, Appendix A, entitled “Uniform
+4 Test Method for Certain Air Compressors,” as in effect on July 3, 2017.
+5 (9)(2) Commercial dishwashers included in the scope of the “ENERGY
+6 STAR Program Requirements Product Specification for Commercial
+7 Dishwashers,” Version 2.0, shall meet the qualification criteria of that
+8 specification.
+9 (10)(3) Commercial fryers included in the scope of the “ENERGY
+10 STAR Program Requirements Product Specification for Commercial Fryers,”
+11 Version 2.0, shall meet the qualification criteria of that specification.
+12 (11)(4) Commercial hot-food holding cabinets shall have a maximum
+13 idle energy rate of 40 watts per cubic foot of interior volume, as determined by
+14 the “idle energy rate-dry test” in ASTM F2140-11, “Standard Test Method for
+15 Performance of Hot-Food Holding Cabinets,” ASTM International (2011).
+16 Interior volume shall be measured as prescribed in the “ENERGY STAR
+17 Program Requirements Product Specification for Commercial Hot-Food
+18 Holding Cabinets,” Version 2.0.
+19 (12)(5) Commercial steam cookers shall meet the requirements of the
+20 “ENERGY STAR Program Requirements Product Specification for
+21 Commercial Steam Cookers,” Version 1.2.
+VT LEG #385140 v.1
+
+BILL AS INTRODUCED S.191
+2026 Page 7 of 12
+1 (13)(6) Computers and computer monitors shall meet the requirements
+2 of 20 California Code of Regulations (C.C.R.) § 1605.3(v) and compliance
+3 with these requirements shall be measured in accordance with test methods
+4 prescribed in 20 C.C.R. § 1604(v).
+5 (A) For the purposes of this subdivision (13)(6), terms used in the
+6 referenced portions of the C.C.R. shall be as defined in 20 C.C.R. § 1602.
+7 (B) The rules shall define “computer” and “computer monitor” to
+8 have the same meaning as set forth in 20 C.C.R. § 1602(v).
+9 (C) The referenced portions of the C.C.R. shall be those adopted on
+10 or before July 1, 2018. However, the Commissioner shall have authority to
+11 amend the rules so that the definitions of “computer” and “computer monitor”
+12 and the minimum efficiency standards for computers and computer monitors
+13 conform to subsequently adopted modifications to the referenced sections of
+14 the C.C.R.
+15 (14)(7) Faucets, except for metering faucets, and showerheads shall
+16 meet the standards set forth in this subdivision (14)(7) when tested in
+17 accordance with 10 C.F.R. Part 430, Subpart B, Appendix S, entitled “Uniform
+18 Test Method for Measuring the Water Consumption of Faucets and
+19 Showerheads,” as in effect on January 3, 2017.
+VT LEG #385140 v.1
+
+BILL AS INTRODUCED S.191
+2026 Page 8 of 12
+1 (A) Lavatory faucets and replacement aerators shall not exceed a
+2 maximum flow rate of 1.5 gallons per minute (gpm) at 60 pounds per square
+3 inch (psi).
+4 (B) Residential kitchen faucets and replacement aerators shall not
+5 exceed a maximum flow rate of 1.8 gpm at 60 psi, with optional temporary
+6 flow of 2.2 gpm, provided they default to a maximum flow rate of 1.8 gpm at
+7 60 psi after each use.
+8 (C) Public lavatory faucets and replacement aerators shall not exceed
+9 a maximum flow rate of 0.5 gpm at 60 psi.
+10 (D) Showerheads shall not exceed a maximum flow rate of 2.0 gpm
+11 at 80 psi.
+12 (15) High CRI fluorescent lamps shall meet the minimum efficacy
+13 requirements contained in 10 C.F.R. § 430.32(n)(4) as that subdivision existed
+14 on January 3, 2017. Compliance with requirements shall be measured in
+15 accordance with 10 C.F.R. Part 430, Subpart B, Appendix R, entitled
+16 “Uniform Test Method for Measuring Average Lamp Efficacy (LE), Color
+17 Rendering Index (CRI), and Correlated Color Temperature (CCT) of Electric
+18 Lamps,” as that appendix existed on January 3, 2017.
+19 (16)(8) Urinals, other than trough-type urinals and urinals designed and
+20 marketed exclusively for use at prisons or mental health facilities, shall have a
+21 maximum flush volume of 0.5 gallons per flush when tested in accordance
+VT LEG #385140 v.1
+
+BILL AS INTRODUCED S.191
+2026 Page 9 of 12
+1 with 10 C.F.R. Part 430, Subpart B, Appendix T, entitled “Uniform Test
+2 Method for Measuring the Water Consumption of Water Closets and Urinals,”
+3 as in effect on January 3, 2017, and shall pass the waste extraction test for
+4 water closets set forth in Sec. 7.10 of the American Society of Mechanical
+5 Engineers (ASME) standard A112.19.2-2013/CSA B.45.1, as that standard
+6 exists on July 1, 2018.
+7 (17) Portable air conditioners shall have a Combined Energy Efficiency
+8 Ratio (CEER), that is greater than or equal to: 1.04 x [SACC/(3.7177 x
+9 SACC0.638/f4)].
+10 (A) In this subdivision (17), “SACC” means seasonally adjusted
+11 cooling capacity expressed in British thermal units per hour.
+12 (B) The CEER shall be measured in accordance with 10 C.F.R. Part
+13 430, Subpart B, Appendix CC, entitled “Uniform Test Method for Measuring
+14 the Energy Consumption of Portable Air Conditioners,” as in effect on January
+15 3, 2017.
+16 (18)(9) Portable electric spas shall meet the requirements of the
+17 American National Standard for Portable Electric Spa Energy Efficiency,
+18 ANSI/APSP/ICC-14 2014, as that standard exists on July 1, 2018.
+19 (19)(10) Residential ventilating fans shall meet the qualification criteria
+20 of the “ENERGY STAR Program Requirements Product Specification for
+21 Residential Ventilating Fans,” Version 3.2.
+VT LEG #385140 v.1
+
+BILL AS INTRODUCED S.191
+2026 Page 10 of 12
+1 (20)(11) Spray sprinkler bodies shall include an integral pressure
+2 regulator and shall meet the water efficiency and performance criteria and
+3 other requirements of the Environmental Protection Agency’s “WaterSense
+4 Specification for Spray Sprinkler Bodies,” Version 1.0. However, this
+5 subdivision (20)(11) shall not apply to spray sprinkler bodies that are
+6 specifically excluded from the scope of that specification.
+7 (21) In this subdivision (21), “final rule” means the document setting
+8 forth a final action by DOE with respect to a final rule for “Energy
+9 Conservation Standards for Uninterruptible Power Supplies,” docket no.
+10 EERE-2016-BT-STD-0022, approved by DOE on December 28, 2016.
+11 Uninterruptible power supplies that use a National Electrical Manufacturer
+12 Association (NEMA) 1-15P or 5-15P input plug and have an alternating
+13 current (AC) output shall have an average load-adjusted efficiency that meets
+14 or exceed the values shown to be codified under 10 C.F.R. § 430.32(z)(3) and
+15 set forth on pages 193-194 of the final rule. Compliance with these
+16 requirements shall be measured in accordance with 10 C.F.R. Part 430, Subpart
+17 B, Appendix Y, entitled “Uniform Test Method for Measuring the Energy
+18 Consumption of Battery Chargers,” as in effect on January 11, 2017.
+19 (22)(12) Water coolers included in the scope of the “ENERGY STAR
+20 Program Requirements Product Specification for Water Coolers,” Version 2.0,
+21 shall have “on mode with no water draw” energy consumption less than or
+VT LEG #385140 v.1
+
+BILL AS INTRODUCED S.191
+2026 Page 11 of 12
+1 equal to the following values, measured in accordance with the test
+2 requirements of that specification:
+3 (A) 0.16 kilowatt-hours (kWh) per day for cold-only units and cook
+4 and cold units;
+5 (B) 0.87 kWh per day for storage type hot and cold units; and
+6 (C) 0.18 kWh per day for on-demand hot and cold units.
+7 (b) When a minimum efficiency standard as described in subsection (a) of
+8 this section sets forth requirements that change over time, the rules shall
+9 provide for compliance with the changed requirements as they come into
+10 effect.
+11 (c) When a subdivision within subdivisions (a)(8)(2) through (a)(22)(12) of
+12 this section requires compliance with an efficiency standard or testing protocol
+13 contained in a document issued by an agency of the United States, another
+14 state, or a nationally or internationally recognized organization, the rules of the
+15 Commissioner may incorporate the specified standard or protocol by reference
+16 pursuant to 3 V.S.A. § 838 rather than setting forth its language.
+17 (d) With respect to computers and computer monitors subject to
+18 subdivision (a)(13)(6) of this section, the Commissioner shall have authority to
+19 adopt official interpretations of the applicable efficiency standards published
+20 by the staff of the California Energy Commission (CEC). The rules shall state
+VT LEG #385140 v.1
+
+BILL AS INTRODUCED S.191
+2026 Page 12 of 12
+1 the process for such adoption and the manner in which the Commissioner will
+2 make the adopted interpretations publicly available.
+3 Sec. 2. EFFECTIVE DATE
+4 This act shall take effect on July 1, 2026.
+VT LEG #385140 v.1

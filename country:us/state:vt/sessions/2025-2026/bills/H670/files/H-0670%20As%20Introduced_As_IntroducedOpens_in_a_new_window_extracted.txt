@@ -1,0 +1,164 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.670
+2026 Page 1 of 7
+1 H.670
+2 Introduced by Representative Tagliavia of Corinth
+3 Referred to Committee on
+4 Date:
+5 Subject: Elections; conduct of elections; process of voting; voter identification
+6 Statement of purpose of bill as introduced: This bill proposes to require voters
+7 to present valid identification, based on proof of citizenship, when voting in
+8 person or by early or absentee ballot. This bill will also require the
+9 Commissioner of Motor Vehicles to provide free nondriver identification cards
+10 to all eligible voters in the State for the purpose of voting, upon presentation of
+11 documented proof of U.S. citizenship and proof of residency.
+12 An act relating to requiring voters to present identification when voting
+13 It is hereby enacted by the General Assembly of the State of Vermont:
+14 Sec. 1. 17 V.S.A. § 2563 is amended to read:
+15 § 2563. ADMITTING VOTER
+16 (a) Before a person may be admitted to vote, he or she the person shall
+17 announce his or her the person’s name and, if requested, his or her the person’s
+18 place of residence in a clear and audible tone of voice, or present his or her the
+19 person’s name in writing, or otherwise identify himself or herself by
+20 appropriate documentation. The election officials attending the entrance of the
+VT LEG #386102 v.1
+
+BILL AS INTRODUCED H.670
+2026 Page 2 of 7
+1 polling place shall then verify that the person’s name appears on the checklist
+2 for the polling place.
+3 (1) If the name does appear, and if no one immediately challenges the
+4 person’s right to vote on grounds of identity or having previously voted in the
+5 same election, the election officials shall repeat the name of the person and:
+6 (A)(i) If the checklist indicates that the person is a first-time voter in
+7 the municipality who registered by mail or online, whose driver’s license,
+8 nondriver identification number, or last four digits of his or her the person’s
+9 Social Security number provided by the applicant have not been verified by the
+10 Secretary of State, and who has not provided required identification before the
+11 opening of the polls, require the person to present any one of the following: a
+12 valid photo identification; a copy of a current utility bill; a copy of a current
+13 bank statement; or a copy of a government check, paycheck, or any other
+14 government document that shows the current name and address of the voter.
+15 (ii) If the person is unable to produce the required information, the
+16 person shall be afforded the opportunity to complete a new application for
+17 addition to the checklist in accordance with section 2144 of this title.
+18 (iii) The election officials shall note upon the checklist a first-time
+19 voter in the municipality who has registered by mail and who produces the
+20 required information, and place a mark next to the voter’s name on the
+VT LEG #386102 v.1
+
+BILL AS INTRODUCED H.670
+2026 Page 3 of 7
+1 checklist and allow the voter to proceed to the voting booth for the purpose of
+2 voting.
+3 (B) If the voter is not a first-time voter in the municipality, no
+4 identification shall be required. The clerk shall place a check next to the
+5 voter’s name on the checklist and allow the voter to proceed to the voting
+6 booth for the purpose of voting.
+7 (2) If the name does not appear, the person shall be afforded the
+8 opportunity to complete an application for addition to the checklist in
+9 accordance with section 2144 of this title.
+10 (b)(1) Notwithstanding any other provision of this section, for all voting
+11 methods, including in person, early, or absentee voting, the voter shall present
+12 a valid photo identification issued by a government agency using documented
+13 proof of U.S. citizenship.
+14 (2) The presented identification shall include:
+15 (i) a photograph of the voter;
+16 (ii) the voter’s full legal name; and
+17 (iii) the voter’s current residential address.
+18 (3) Auxiliary forms of identification for residency may be used if the
+19 citizenship identification lacks a current address, such as a U.S. passport.
+20 (4) The presented identification shall be current and unexpired.
+VT LEG #386102 v.1
+
+BILL AS INTRODUCED H.670
+2026 Page 4 of 7
+1 (5) Identification issued exclusively to noncitizens shall not be
+2 acceptable unless accompanied by separate proof of U.S. citizenship.
+3 (6) Religious exemptions from the photo requirement shall be permitted
+4 via a signed affidavit attesting to the voter’s religious objection.
+5 (7) If the voter does not present the required identification, the voter
+6 shall be offered a provisional ballot in accordance with subchapter 6A of this
+7 chapter.
+8 Sec. 2. 17 V.S.A. § 2537a is amended to read:
+9 § 2537a. MAILING OF GENERAL ELECTION BALLOTS
+10 (a) For every general election, the Secretary of State’s office shall mail a
+11 general election ballot to all active voters on the statewide voter checklist
+12 described in section 2154 of this title.
+13 (1) The mailing of the ballots shall commence not later than 43 days
+14 before the election and shall be completed not later than October 1.
+15 (2) A postage-paid return envelope, pre-addressed to the town or city
+16 clerk of the town or city where the voter is registered to vote, shall be included
+17 with the ballot sent to every voter in which the ballot may be mailed back to
+18 the clerk. All postage cost shall be paid by the Secretary of State’s office.
+19 (3) The address file to be used for the mailing shall be generated from
+20 the statewide voter checklist as close as practicable to the date of the mailing
+21 and in no case earlier than September 1.
+VT LEG #386102 v.1
+
+BILL AS INTRODUCED H.670
+2026 Page 5 of 7
+1 (4) The Secretary of State’s office shall include in the mailing to each
+2 voter instructions for return of the voted ballot.
+3 (b) General election ballots mailed by the Secretary of State’s office under
+4 this section shall be returned by the voter to the town or city clerk in the town
+5 or city where that voter is registered in accordance with the procedures for
+6 return of ballots described in this subchapter.
+7 (c) To ensure verification of voter identity and citizenship, the return
+8 envelope shall include:
+9 (1) a photocopy of the voter’s valid photo identification, as described in
+10 subsection 2563(b) of this title; or
+11 (2) the voter’s full Social Security number or State-issued identification
+12 number.
+13 (d) Ballots returned without the required identification information under
+14 subsection (c) of this section shall be deemed defective and processed in
+15 accordance with section 2547 of this subchapter.
+16 Sec. 3. 17 V.S.A. § 2546 is amended to read:
+17 § 2546. RECEIPT OF BALLOTS BY CLERK; VOTER STATUS;
+18 OPPORTUNITY TO CURE; PROCESSING ABSENTEE BALLOTS
+19 (a) Town clerk; process generally. Beginning 45 days before the opening
+20 of the polls on election day, upon receipt of a mailing envelope containing
+21 ballots returned by a voter, the town clerk shall, within three business days or
+VT LEG #386102 v.1
+
+BILL AS INTRODUCED H.670
+2026 Page 6 of 7
+1 on the next day the office is open for business, whichever is later, direct two
+2 election officials working together to do all of the following:
+3 (1) open the mailing envelope and sort early voter absentee ballots by
+4 ward and district, if necessary; and
+5 (2) determine that the certificate has been signed, the voted ballot was
+6 placed in the certificate envelope, the required identification information under
+7 subsection 2537a(c) of this title has been provided, and the ballot is not
+8 defective for any other reason pursuant to section 2547 of this subchapter.
+9 * * *
+10 Sec. 4. FREE STATE-ISSUED VOTER IDENTIFICATION CARDS
+11 The Commissioner of Motor Vehicles shall provide free nondriver
+12 identification cards to all eligible voters in the State for the purpose of voting,
+13 upon presentation of documented proof of U.S. citizenship and proof of
+14 residency. Such cards shall meet the requirements for acceptable voter
+15 identification under 17 V.S.A. § 2563 and shall indicate U.S. citizenship status.
+16 The Commissioner shall adopt rules in accordance with 3 V.S.A. chapter 25
+17 regarding the manner of accepting required documentation and issuance and
+18 renewal of voter identification cards, including provisions for the expedited
+19 issuance and renewal of voter identification cards, and the duration of validity
+20 of the voter identification cards.
+VT LEG #386102 v.1
+
+BILL AS INTRODUCED H.670
+2026 Page 7 of 7
+1 Sec. 5. APPROPRIATION
+2 The sum of $200,000.00 is appropriated from the General Fund to the
+3 Secretary of State in fiscal year 2027 for training election officials, public
+4 education on new voter identification requirements, and issuance of free voter
+5 identification cards.
+6 Sec. 6. EFFECTIVE DATE
+7 This act shall take effect on passage.
+VT LEG #386102 v.1

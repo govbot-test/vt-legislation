@@ -1,0 +1,863 @@
+Title: 
+Official Title: 
+Source: versions - As Passed By the House (UnofficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+AS PASSED BY HOUSE H.657
+2026 Page 1 of 35
+1 H.657
+2 An act relating to various programming and requirements within the
+3 Department for Children and Families
+4 It is hereby enacted by the General Assembly of the State of Vermont:
+5 * * * Removing Reach Up Asset Limit * * *
+6 Sec. 1. 33 V.S.A. § 1103 is amended to read:
+7 § 1103. ELIGIBILITY AND BENEFIT LEVELS
+8 * * *
+9 (c) The Commissioner shall adopt rules for the determination of eligibility
+10 for the Reach Up program and benefit levels for all participating families that
+11 include the following provisions:
+12 * * *
+13 (5)(A) The asset limitation shall be $9,000.00 for families for the
+14 purposes of determining initial and continuing eligibility for the Reach Up
+15 program, and the following savings accounts shall not be considered in the
+16 calculation for determining the asset limitation:
+17 (i) a retirement account, such as an individual retirement
+18 arrangement (IRA), a defined contribution plan qualified under 26 U.S.C.
+19 § 401(k), or any similar account as defined in 26 U.S.C. § 408; and
+VT LEG #388470 v.1
+
+AS PASSED BY HOUSE H.657
+2026 Page 2 of 35
+1 (ii) a qualified child education savings account, such as the
+2 Vermont Higher Education Investment Plan, established in 16 V.S.A. § 2877,
+3 or any similar plan qualified under 26 U.S.C. § 529.
+4 (B) The value of assets accumulated from the earnings of adults and
+5 children in participating families and from any federal or Vermont earned
+6 income tax credit shall be excluded for purposes of determining continuing
+7 eligibility for the Reach Up program. The Department shall not impose an
+8 asset limit for the purpose of initial and continuing eligibility for the Reach Up
+9 program.
+10 * * *
+11 * * * Social Security Benefits for Youth in Foster Care * * *
+12 Sec. 2. 33 V.S.A. § 4902 is amended to read:
+13 § 4902. DEFINITIONS
+14 As used in this chapter:
+15 (1) “Child” means a person under 18 years of age committed by the
+16 Family Division of the Superior Court to the Department for Children and
+17 Families.
+18 (2) “Commissioner” means the Commissioner for Children and
+19 Families.
+VT LEG #388470 v.1
+
+AS PASSED BY HOUSE H.657
+2026 Page 3 of 35
+1 (3) “Department” means the Department for Children and Families.
+2 (4) “Foster care” means care of a child, for a valuable consideration, in a
+3 child care institution or in a family other than that of the child’s parent,
+4 guardian, or relative.
+5 (5) “Qualified ABLE account” means an ABLE account, as that term is
+6 defined in section 8002 of this title, or an account established pursuant to any
+7 qualified state ABLE program created pursuant to 26 U.S.C. § 529A (section
+8 529A of the Internal Revenue Code of 1986).
+9 (6) “Representative payee” means the person appointed by the Social
+10 Security Administration to manage Social Security benefits for a child.
+11 (7) “RSDI benefits” means a child’s retirement, survivors, or disability
+12 insurance benefits under 42 U.S.C. chapter 7, subchapter II (Title II of the
+13 Social Security Act).
+14 (8) “Social Security Act” means the Social Security Act, 42 U.S.C.
+15 chapter 7, as may be amended.
+16 (9) “Social Security benefits” means a child’s RSDI benefits, SSI
+17 benefits, or both, as applicable.
+18 (10) “SSI benefits” means a child’s Supplemental Security Income
+19 benefits under 42 U.S.C. chapter 7, subchapter XVI (Title XVI of the Social
+20 Security Act).
+VT LEG #388470 v.1
+
+AS PASSED BY HOUSE H.657
+2026 Page 4 of 35
+1 Sec. 3. 33 V.S.A. § 4907 is added to read:
+2 § 4907. FOSTER CARE; SOCIAL SECURITY BENEFITS
+3 (a) The Department shall not use any portion of a child’s Social Security
+4 benefits to offset the State’s costs for the child’s maintenance except to
+5 maintain the child’s eligibility for SSI benefits and to avoid a violation of
+6 federal asset or resource limits.
+7 (b) Upon the request of the child or the child’s foster care provider, the
+8 Department, in its capacity as representative payee for a child, may use the
+9 child’s Social Security benefits for the child’s unmet needs beyond the amount
+10 that the State is obligated, required, or agrees to pay for the care of the child.
+11 (c) In its capacity as representative payee for a child and with the assistance
+12 of the State Treasurer, the Department shall:
+13 (1) establish a trust account for the child, which shall be a qualified
+14 ABLE account for any child receiving SSI benefits;
+15 (2) monitor any federal asset or resource limits for the child’s SSI
+16 benefits;
+17 (3) ensure that the child’s best interests are served by using the child’s
+18 Social Security benefits for the child’s unmet needs or conserving the child’s
+19 Social Security benefits in a way that avoids violating any federal asset or
+20 resource limits that would affect the child’s ability to receive SSI benefits;
+VT LEG #388470 v.1
+
+AS PASSED BY HOUSE H.657
+2026 Page 5 of 35
+1 (4) appeal any denied application for SSI benefits submitted on behalf of
+2 a child; and
+3 (5) provide an annual accounting of the use, application, or conservation
+4 of the child’s Social Security benefits, including any payments made under
+5 subsection (b) of this section, to the child; the child’s parent, legal guardian, or
+6 counsel; the Family Division of the Superior Court; and the Office of the
+7 Child, Youth, and Family Advocate.
+8 * * * Enabling Unaccompanied Youth to Obtain Certain Services Without
+9 Parental Consent * * *
+10 Sec. 4. 33 V.S.A. § 4908 is added to read:
+11 § 4908. UNACCOMPANIED YOUTH
+12 (a) Legislative intent. In instances in which severe family dysfunction such
+13 as abuse, neglect, child abandonment, or lack of financial support has left a
+14 youth who is 16 or 17 years of age homeless, and other supports such as foster
+15 care are deemed inappropriate, it is the intent of the General Assembly to
+16 provide an unaccompanied youth with the resources necessary to obtain
+17 services and benefits that the unaccompanied youth’s peers can obtain with the
+18 consent of a parent or guardian.
+19 (b) Definitions. As used in this section:
+20 (1) “Homeless child or youth” means an individual who lacks a fixed,
+21 regular, and adequate nighttime residence, including:
+VT LEG #388470 v.1
+
+AS PASSED BY HOUSE H.657
+2026 Page 6 of 35
+1 (A) a child or youth sharing the housing of other persons due to loss
+2 of housing, economic hardship, or a similar reason;
+3 (B) a child or youth living in motels, hotels, trailer parks, or camping
+4 grounds due to the lack of alternative adequate accommodations;
+5 (C) a child or youth living in emergency or transitional shelters;
+6 (D) a child or youth abandoned in hospitals;
+7 (E) a child or youth living in a primary nighttime residence that is a
+8 public or private place not designed for or ordinarily used as a regular sleeping
+9 accommodation for human beings;
+10 (F) a child or youth living in cars, parks, public spaces, abandoned
+11 buildings, substandard housing, bus or train stations, or similar settings; or
+12 (G) a migratory child who qualifies as homeless because the child is
+13 living in the circumstances described in this subdivision (1).
+14 (2) “School district homeless liaison” means an employee designated by
+15 a school district to act as a liaison for homeless children and youths.
+16 (3) “Unaccompanied youth” means a homeless child or youth 16 or 17
+17 years of age who is not in the physical custody of a parent or guardian.
+18 (c) Certification. An unaccompanied youth may become certified if the
+19 youth is:
+20 (1) found by a school district homeless liaison or other appropriate staff
+21 person to be an unaccompanied youth; or
+VT LEG #388470 v.1
+
+AS PASSED BY HOUSE H.657
+2026 Page 7 of 35
+1 (2) believed to qualify as an unaccompanied youth, by:
+2 (A) the director of an emergency shelter program funded by the
+3 State;
+4 (B) the director of a runaway or homeless youth program funded by
+5 the U.S. Department of Health and Human Services or the U.S. Department of
+6 Housing and Urban Development or designee;
+7 (C) a continuum of care lead agency or designee;
+8 (D) the Chief Juvenile Defender or designee; or
+9 (E) the Vermont Network Against Domestic and Sexual Violence or
+10 designee.
+11 (d) Proof of certification.
+12 (1)(A) Elevate Youth Services’ Vermont Coalition of Runaway and
+13 Homeless Services shall develop a standardized form that shall be used by the
+14 entities specified in subsection (c) of this section to certify qualifying
+15 unaccompanied youths. The front of the form shall include the circumstances
+16 that qualify the youth; the date the youth was certified; the name, title, and
+17 signature of the certifying individual; and confirmation from the certifying
+18 individual that the individual has completed a human trafficking training in the
+19 past two years. This section shall be reproduced in its entirety on the back of
+20 the form.
+VT LEG #388470 v.1
+
+AS PASSED BY HOUSE H.657
+2026 Page 8 of 35
+1 (B) The Department shall post the certification form and information
+2 about this section on its website, including who is eligible for certification and
+3 which individuals and entities can complete the certification form pursuant to
+4 this section.
+5 (2) Without the consent of a parent or guardian, a certified
+6 unaccompanied youth may use the completed form to:
+7 (A) apply at no charge for a nondriver identification card pursuant to
+8 23 V.S.A. § 115, a learner’s permit pursuant to 23 V.S.A. § 617, or an
+9 operator’s license or operator’s privilege card pursuant to 23 V.S.A. § 608;
+10 (B) obtain a vital event certificate at no charge pursuant to 18 V.S.A.
+11 § 5017;
+12 (C) consent to care by health care professionals licensed or certified
+13 in Vermont, including medical care; dental care; mental health care services,
+14 including psychological counseling and treatment, psychiatric treatment, and
+15 substance use prevention and treatment services; and surgical diagnosis and
+16 treatment, including medical diagnosis and treatment, such as preventive care
+17 and care provided in a health care facility, as defined in 18 V.S.A. § 9432, for:
+18 (i) the youth; or
+19 (ii) the youth’s child, if the certified unaccompanied youth is
+20 unmarried, is the parent of the child, and has actual custody of the child;
+VT LEG #388470 v.1
+
+AS PASSED BY HOUSE H.657
+2026 Page 9 of 35
+1 (D) enter into a contract for housing or obtain admission to a shelter
+2 or transitional housing;
+3 (E) obtain employment, pursuant to 21 V.S.A. chapter 5, subchapter
+4 4;
+5 (F) purchase an automobile and obtain an automobile liability policy
+6 that meets the requirements of 23 V.S.A. chapter 11;
+7 (G) apply for a student loan;
+8 (H) obtain admission to high school or postsecondary school and
+9 participate in school activities, including extracurricular activities and field
+10 trips;
+11 (I) open an account at a State- or federally chartered bank or credit
+12 union; and
+13 (J) receive services for victims of domestic or sexual violence, as
+14 appropriate.
+15 (e) Use of certification form. A health care professional shall accept the
+16 completed form as proof of the youth’s status as a certified unaccompanied
+17 youth. Entities that provide housing, services, or benefits authorized under this
+18 section may keep a copy of the form or card in the youth’s medical file.
+19 (f) Immunity for liability. Any entity, provider, or health care professional
+20 who relies in good faith on a certification form presented by a person who
+21 claims to be a certified unaccompanied youth pursuant to this section shall be
+VT LEG #388470 v.1
+
+AS PASSED BY HOUSE H.657
+2026 Page 10 of 35
+1 immune from liability for such reliance, unless the entity, provider, or health
+2 care professional acted with gross negligence.
+3 (g) Immunity from liability. Any entity, provider, or health care
+4 professional who contracts with an unaccompanied youth pursuant to this
+5 section shall be immune from liability for the determination to contract with a
+6 minor, unless the entity, provider, or health care professional acted with gross
+7 negligence.
+8 (h) Applicability of Compact. Nothing in this section shall be construed as
+9 altering the Interstate Compact for Juveniles.
+10 Sec. 4a. 13 V.S.A. § 1311 is amended to read:
+11 § 1311. UNLAWFUL SHELTERING; AIDING A RUNAWAY CHILD
+12 * * *
+13 (b) A person commits the crime of unlawfully sheltering or aiding a
+14 runaway child if the person:
+15 (1) knowingly shelters a runaway child;
+16 (2) intentionally aids, helps, or assists a child to become a runaway
+17 child; or
+18 (3) knowingly takes, entices, or harbors a runaway child, with the intent
+19 of committing a criminal act involving the child or with the intent of enticing
+20 or forcing the child to commit a criminal act.
+VT LEG #388470 v.1
+
+AS PASSED BY HOUSE H.657
+2026 Page 11 of 35
+1 (c) Exempt from the prohibitions of subdivisions (b)(1) and (2) of this
+2 section are:
+3 (1) a shelter, or the directors, agents, or employees of a shelter,
+4 designated by the Commissioner for Children and Families pursuant to
+5 33 V.S.A. § 5304, provided that the requirements of 33 V.S.A. § 5303(b) are
+6 satisfied; and
+7 (2) a person who has taken the child into custody pursuant to 33 V.S.A
+8 § 5251 or 5301; and
+9 (3) a person providing assistance pursuant to 33 V.S.A. § 4908.
+10 * * *
+11 * * * Unaccompanied Youth; Vital Event Certificates * * *
+12 Sec. 5. 18 V.S.A. § 5017 is amended to read:
+13 § 5017. FEES FOR COPIES
+14 (a) For a certified copy of a vital event certificate, the fee shall be $10.00.
+15 (b) The State Registrar shall waive the fee for certified copies of vital event
+16 certificates issued to:
+17 (1) an individual attesting to a lack of fixed, regular, and adequate
+18 nighttime residence; and
+19 (2) an individual between 18 and 24 years of age who resided in a foster
+20 home or residential child care facility between 16 and 18 years of age pursuant
+21 to placement by a child-placing agency; and
+VT LEG #388470 v.1
+
+AS PASSED BY HOUSE H.657
+2026 Page 12 of 35
+1 (3) an unaccompanied youth who has obtained a certification pursuant
+2 to 33 V.S.A. § 4908.
+3 * * * Unaccompanied Youth; Nondriver Identification Cards * * *
+4 Sec. 6. 23 V.S.A. § 115 is amended to read:
+5 § 115. NONDRIVER IDENTIFICATION CARDS
+6 (a)(1) Any Vermont resident may make application to the Commissioner
+7 and be issued an identification card that is attested by the Commissioner as to
+8 true name, correct age, residential address unless the listing of another address
+9 is requested by the applicant or is otherwise authorized by law, and any other
+10 identifying data as the Commissioner may require that shall include, in the case
+11 of minor applicants, the written consent of the applicant’s parent, guardian, or
+12 other person standing in loco parentis.
+13 * * *
+14 (3) The Commissioner shall require payment of a fee of $29.00 at the
+15 time application for an identification card is made, except that an initial
+16 nondriver identification card shall be issued at no charge to:
+17 (A) an individual who surrenders the individual’s license in
+18 connection with a suspension or revocation under subsection 636(b) of this title
+19 due to a physical or mental condition; or
+VT LEG #388470 v.1
+
+AS PASSED BY HOUSE H.657
+2026 Page 13 of 35
+1 (B) an individual under 23 years of age who was in the care and
+2 custody of the Commissioner for Children and Families pursuant to 33 V.S.A.
+3 § 4903(4) in Vermont after attaining 14 years of age; and
+4 (C) an unaccompanied youth who has obtained a certification
+5 pursuant to 33 V.S.A. § 4908.
+6 * * *
+7 * * * Unaccompanied Youth; License and Privilege Cards * * *
+8 Sec. 7. 23 V.S.A. § 608 is amended to read:
+9 § 608. FEES
+10 * * *
+11 (c)(1) Individuals under 23 years of age who were in the care and custody
+12 of the Commissioner for Children and Families pursuant to 33 V.S.A.
+13 § 4903(4) in Vermont after attaining 14 years of age shall be provided with
+14 operator’s licenses or operator privilege cards at no charge.
+15 (2) No additional fee shall be due for a motorcycle endorsement for an
+16 individual under 23 years of age who was in the care and custody of the
+17 Commissioner for Children and Families pursuant to 33 V.S.A. § 4903(4) in
+18 Vermont after attaining 14 years of age.
+19 (d) Individuals receiving Supplemental Security Income or Social Security
+20 Disability Income and individuals with a disability as defined in 9 V.S.A.
+VT LEG #388470 v.1
+
+AS PASSED BY HOUSE H.657
+2026 Page 14 of 35
+1 § 4501 shall be provided with operator’s licenses or operator privilege cards
+2 for the following fees:
+3 (1) Original issuance: $20.00.
+4 (2) Renewal every four years: $20.00.
+5 (3) Replacement of lost, destroyed, or mutilated card or a new name is
+6 required: $10.00.
+7 (e)(1) An unaccompanied youth who has obtained a certification pursuant
+8 to 33 V.S.A. § 4908 shall be provided with operator’s licenses or operator
+9 privilege cards at no charge.
+10 (2) No additional fee shall be due for a motorcycle endorsement for an
+11 unaccompanied youth who has obtained a certification pursuant to 33 V.S.A.
+12 § 4908.
+13 * * * Unaccompanied Youth; Learner’s Permit * * *
+14 Sec. 8. 23 V.S.A. § 617 is amended to read:
+15 § 617. LEARNER’S PERMIT
+16 * * *
+17 (b)(1) Notwithstanding the provisions of subsection (a) of this section, any
+18 licensed person may apply to the Commissioner of Motor Vehicles for a
+19 learner’s permit for the operation of a motorcycle in the form prescribed by the
+20 Commissioner. The Commissioner shall offer both a motorcycle learner’s
+21 permit that authorizes the operation of three-wheeled motorcycles only and a
+VT LEG #388470 v.1
+
+AS PASSED BY HOUSE H.657
+2026 Page 15 of 35
+1 motorcycle learner’s permit that authorizes the operation of any motorcycle.
+2 The Commissioner shall require payment of a fee of $24.00 at the time
+3 application is made, except that no fee shall be charged for an unaccompanied
+4 youth who has obtained a certification pursuant to 33 V.S.A. § 4908 or for an
+5 individual under 23 years of age who was in the care and custody of the
+6 Commissioner for Children and Families pursuant to 33 V.S.A. § 4903(4) in
+7 Vermont after attaining 14 years of age.
+8 (2) After the applicant has successfully passed all parts of the applicable
+9 motorcycle endorsement examination, other than a skill test, the Commissioner
+10 may issue to the applicant a learner’s permit that entitles the applicant, subject
+11 to subsection 615(a) of this title, to operate a three-wheeled motorcycle only,
+12 or to operate any motorcycle, upon the public highways for a period of 120
+13 days from the date of issuance. The fee for the examination shall be $11.00,
+14 except that no fee shall be charged for an unaccompanied youth who has
+15 obtained a certification pursuant to 33 V.S.A. § 4908 or for an individual under
+16 23 years of age who was in the care and custody of the Commissioner for
+17 Children and Families pursuant to 33 V.S.A. § 4903(4) in Vermont after
+18 attaining 14 years of age.
+19 (3) A motorcycle learner’s permit may be renewed only twice upon
+20 payment of a $24.00 fee. An unaccompanied youth who has obtained a
+21 certification pursuant to 33 V.S.A. § 4908 and an individual under 23 years of
+VT LEG #388470 v.1
+
+AS PASSED BY HOUSE H.657
+2026 Page 16 of 35
+1 age who was in the care and custody of the Commissioner for Children and
+2 Families pursuant to 33 V.S.A. § 4903(4) in Vermont after attaining 14 years
+3 of age shall not be charged a fee for the renewal of a motorcycle learner’s
+4 permit.
+5 * * *
+6 (d)(1) An applicant shall pay $24.00 to the Commissioner for each
+7 learner’s permit or a duplicate or renewal thereof.
+8 (2) An unaccompanied youth who has obtained a certification pursuant
+9 to 33 V.S.A. § 4908 and an applicant under 23 years of age who was in the
+10 care and custody of the Commissioner for Children and Families pursuant to
+11 33 V.S.A. § 4903(4) in Vermont after attaining 14 years of age shall not be
+12 charged a fee for a learner’s permit or a duplicate or renewal thereof.
+13 * * *
+14 * * * Transportation of Children * * *
+15 Sec. 9. 33 V.S.A. § 5123 is amended to read:
+16 § 5123. TRANSPORTATION OF A CHILD
+17 (a) As used in this section:
+18 (1) “Least restrictive” has the same meaning as in section 5130 of this
+19 chapter.
+20 (2) “Mechanical restraint” has the same meaning as in section 5130 of
+21 this chapter.
+VT LEG #388470 v.1
+
+AS PASSED BY HOUSE H.657
+2026 Page 17 of 35
+1 (3) “Physical restraint” has the same meaning as in section 5130 of this
+2 chapter.
+3 (4) “Secure transport” means transport in a vehicle with disabled
+4 internal controls for rear door handles and window switches, requiring the
+5 driver to open them from the outside, or with a safety partition installed to
+6 separate the driver from the passenger compartment. “Secure transport”
+7 includes any vehicle being driven by a law enforcement officer.
+8 (5) “Soft restraint” has the same meaning as in section 5130 of this
+9 chapter.
+10 (6) “Waist shackles” means a mechanical restraint device, typically a
+11 chain, used around the waist and to which the child’s wrists may be chained or
+12 cuffed.
+13 (b) The Commissioner for Children and Families shall ensure that all
+14 reasonable and appropriate measures consistent with public safety are made to
+15 transport or escort a child subject to this chapter in a manner that:
+16 (1) reasonably avoids prevents physical and psychological trauma;
+17 (2) respects the privacy of the child; and
+18 (3) represents the least restrictive means necessary for the safety of the
+19 child.
+20 (b)(c) The Commissioner for Children and Families shall have the authority
+21 to select the person or persons who may transport a child under the
+VT LEG #388470 v.1
+
+AS PASSED BY HOUSE H.657
+2026 Page 18 of 35
+1 Commissioner’s care and custody designate the professional or law
+2 enforcement officers transporting children and shall authorize the method of
+3 transport. A contract for transportation services shall include the requirements
+4 in this section. Transportation services with noncontracted law enforcement
+5 officers shall only be authorized in emergency situations or by court order.
+6 (c)(d) The Commissioner shall ensure supervisory review of every decision
+7 to transport a child using mechanical restraints. When transportation with
+8 restraints for a particular child is approved, the reasons for the approval shall
+9 be documented in writing provide education materials complying with this
+10 section that outline the legal requirements for the secure transportation of
+11 children to individuals designated pursuant to subsection (c) of this section and
+12 shall obtain verification that all designated individuals have reviewed the
+13 education materials.
+14 (d)(e) Secure transport shall only be used when the Department determines
+15 and documents why it is necessary to prevent the risk of serious physical harm
+16 to the child or others, based upon an individualized risk assessment.
+17 (e)(f) It is the policy of the State of Vermont that mechanical restraints are
+18 not routinely used on children subject to this chapter unless circumstances
+19 dictate that such methods are necessary. Soft restraints shall be the first option
+20 for restraint, and other mechanical restraints shall not be utilized as a substitute
+21 for soft restraints if the soft restraints are deemed adequate for safety.
+VT LEG #388470 v.1
+
+AS PASSED BY HOUSE H.657
+2026 Page 19 of 35
+1 (g) An entity contracted pursuant to subsection (c) of this section shall
+2 provide documentation to the Department for the use of restraints when:
+3 (1) the entity believes that the risk of serious physical harm to the child
+4 or others requires the use of soft restraints before or during the transport,
+5 including a description as to why less restrictive interventions could not
+6 reasonably be attempted or why the attempted use of less restrictive
+7 interventions was unsuccessful;
+8 (2) the entity believes that the risk of serious physical harm to the child
+9 or others was such that soft restraints were not adequate for safety and shall
+10 include a description as to which restraint was used and why soft restraints
+11 were deemed inadequate for preventing the risk of serious physical harm to the
+12 child or others; or
+13 (3) the use of waist shackles was determined to be the sole means of
+14 preventing serious physical harm to the child or others and shall include a
+15 description as to why waist shackles were the sole means of preventing the risk
+16 of serious physical harm to the child or others.
+17 (h) Documentation for the use of restraints shall be completed prior to
+18 transport unless the circumstances that required their use occurred during the
+19 course of the transport, in which case the documentation shall occur after
+20 completion of the transport.
+VT LEG #388470 v.1
+
+AS PASSED BY HOUSE H.657
+2026 Page 20 of 35
+1 (i) The use of waist shackles shall be prohibited on children 12 years of age
+2 or younger. The use of waist shackles on children 13 years of age or older
+3 shall be assessed and determined to be the sole means of preventing serious
+4 physical harm to the child or others and documented accordingly. Only
+5 designated law enforcement agencies shall use waist shackles on a child
+6 transported pursuant to this section.
+7 (j) The Commissioner shall ensure supervisory review by the Department
+8 of all documentation required by this section.
+9 (k)(1) Annually, on or before January 15, the Department for Children and
+10 Families shall submit a written report to the House Committee on Human
+11 Services; the Senate Committee on Health and Welfare; and the Office of the
+12 Child, Youth, and Family Advocate addressing the number of secure transports
+13 of children during the previous year, including, for those transported with
+14 restraints:
+15 (A) the age, gender, and racial background of the children
+16 transported;
+17 (B) the number of children transported using mechanical restraints;
+18 (C) whether the transport was conducted by law enforcement or a
+19 private agency;
+VT LEG #388470 v.1
+
+AS PASSED BY HOUSE H.657
+2026 Page 21 of 35
+1 (D) when applicable, the type of mechanical restraint;
+2 (E) the type of custody children were in when transport occurred; and
+3 (F) the purpose of the transport.
+4 (2) Once the Department has upgraded its technological capacity in a
+5 manner that enables it to collect responsive data, information specific to
+6 subdivisions (1)(B), (C), (E), and (F) of this subsection shall be collected and
+7 included in the annual report with regard to all secure transports.
+8 (l) Annually, on or before January 15, the Department of State’s Attorneys
+9 and Sheriffs shall submit a written report to the House Committee on Human
+10 Services; the Senate Committee on Health and Welfare; the Department for
+11 Children and Families; and the Office of the Child, Youth, and Family
+12 Advocate addressing the number of court-ordered transports of minors
+13 conducted by the State transport deputies pursuant to 24 V.S.A. § 290(b)
+14 during the previous year, including:
+15 (1) the date of birth of transported minors;
+16 (2) whether restraint was used during transport;
+17 (3) if restraint was used, the type of restraint;
+18 (4) whether the minor’s case was a delinquency, youthful offender, or
+19 criminal proceeding; and
+20 (5) the purpose of the transport.
+VT LEG #388470 v.1
+
+AS PASSED BY HOUSE H.657
+2026 Page 22 of 35
+1 Sec. 10. REPORT; RESTRAINT IN TRANSPORTATION
+2 OF CHILDREN
+3 (a) On or before December 15, 2027, the Department for Children and
+4 Families shall submit a written report to the House Committee on Human
+5 Services and to the Senate Committee on Health and Welfare addressing how
+6 the Department is effectuating the policies set forth in 33 V.S.A. § 5123(d) and
+7 2017 Acts and Resolves No. 85, Sec. E.314, including:
+8 (1) contracting with law enforcement or private agencies for the
+9 transport of children;
+10 (2) Departmental oversight and supervisory review of the secure
+11 transport of children, including transport provided by private agencies or law
+12 enforcement officers;
+13 (3) the mechanism used by the Department to collect and review data on
+14 the application of mechanical restraints during the transport of children in
+15 compliance with 33 V.S.A. § 5123(c);
+16 (4) materials and requirements for designated contractors;
+17 (5) written policies used to effectuate the law; and
+18 (6) other information the Department deems relevant.
+19 (b) As used in this section, “restraint” has the same meaning as in 33
+20 V.S.A. §5130.
+VT LEG #388470 v.1
+
+AS PASSED BY HOUSE H.657
+2026 Page 23 of 35
+1 Sec. 11. USE OF FORCE POLICY
+2 The Vermont Criminal Justice Council, in consultation with the Department
+3 of Vermont State’s Attorneys and Sheriffs; the Office of the Child, Youth, and
+4 Family Advocate; Disability Rights Vermont; and the Departments for
+5 Children and Families and of Disabilities, Aging, and Independent Living shall
+6 conduct a formal review to determine whether its use of force policy should
+7 include an appendix to adequately address the transportation by law
+8 enforcement of children under 18 years of age that is in alignment with the
+9 public policy considerations for the transport of children in the custody of the
+10 Department for Children and Families pursuant to 33 V.S.A. § 5123.
+11 * * * Restraint and Seclusion * * *
+12 Sec. 12. 33 V.S.A. § 5130 is added to read:
+13 § 5130. NON-TRANSPORT RELATED RESTRAINT AND SECLUSION
+14 (a) As used in this section:
+15 (1) “Chemical restraint” means any medication used to manage behavior
+16 or restrict freedom of movement that is not a standard treatment or dosage for
+17 the individual’s condition.
+18 (2) “Child” or “children” means a child or children in the Department’s
+19 custody or receiving care or services in a program regulated or licensed by the
+20 Department.
+VT LEG #388470 v.1
+
+AS PASSED BY HOUSE H.657
+2026 Page 24 of 35
+1 (3) “Mechanical restraint” means a type of restraint using a mechanical
+2 device, material, or equipment, or garment attached to the child’s body, that
+3 restricts freedom of movement or immobilizes or reduces the ability of a child
+4 to move the child’s arms, legs, body, or head freely.
+5 (4) “Physical restraint” means a type of restraint using a manual or
+6 physical hold that restricts freedom of movement or immobilizes or reduces the
+7 ability of a child to move the child’s arms, legs, body, or head freely. A
+8 physical restraint shall not include a light touch to encourage a response or to
+9 provide direction or guidance, provided the child is able to move away freely.
+10 (5) “Prone restraint” means a physical intervention technique where an
+11 individual is held face down on the individual’s stomach. “Prone restraint”
+12 does not include a physical restraint that involves a momentary initial hold in a
+13 prone position while transitioning to an evidence-based, safer form of restraint
+14 that is not considered to be a prohibited form of physical restraint.
+15 (6) “Seclusion” means involuntary confinement of a child in a segregated
+16 room or area from which the child is prevented or from which the child
+17 reasonably believes that the child is prevented from leaving, whether the door
+18 is locked or not. “Seclusion” does not include a voluntary time out under staff
+19 supervision for a short period of time in an unlocked room at the child’s
+20 request.
+VT LEG #388470 v.1
+
+AS PASSED BY HOUSE H.657
+2026 Page 25 of 35
+1 (7) “Strip search” means a search that requires a child to remove or
+2 arrange some clothing so as to permit a visual inspection of the child’s breasts,
+3 buttocks, or genitalia. “Strip search” does not include a pat down through the
+4 child’s clothing to determine whether contraband is present.
+5 (8) “Least restrictive” means the minimum intervention necessary to
+6 prevent harm to the child or to another, maximizing a child’s autonomy,
+7 ensuring that restrictions are proportionate to the risk of harm, and ensuring
+8 involuntary measures are only permitted as a last resort when less intrusive
+9 methods have failed.
+10 (9) “Soft restraint” means a mechanical restraint device that uses soft
+11 material or fabric that is padded and designed to safely fit around the limbs of
+12 an individual to limit mobility in order to prevent self-harm or harm to others.
+13 (10) “Secure residential program” means a secure residential treatment
+14 program that employs locked or inoperable doors and windows to prevent a
+15 child from leaving the building.
+16 (b) The Department shall not use or authorize the use of prone restraints,
+17 mechanical restraints, chemical restraints, or strip searches on a child.
+18 (c) Seclusion or physical restraint shall not be used for punishment,
+19 disciplinary purposes, the protection of property, or any other reason other than
+20 as a safety measure of last resort to prevent a serious and immediate risk of
+21 harm to the child or others.
+VT LEG #388470 v.1
+
+AS PASSED BY HOUSE H.657
+2026 Page 26 of 35
+1 (d) A staff member shall use other less restrictive interventions, unless less
+2 restrictive interventions have failed or would be ineffective in stopping
+3 imminent danger of physical injury or property damage.
+4 (e) After attempting to use less restrictive interventions, a staff member
+5 trained in accordance with rule may physically restrain a child or place a child
+6 in seclusion if the staff member:
+7 (1) determines that the child’s behavior poses a serious and immediate
+8 risk of physical harm to the child or others;
+9 (2) conducts the physical restraint or seclusion in a manner that respects
+10 the child’s privacy and limits physical and psychological trauma; and
+11 (3) after initiation of the intervention, explains to the child the reasons
+12 for the physical restraint or seclusion and informs the child of the
+13 circumstances that allow release from the physical restraint or seclusion.
+14 (f) If a child is placed in physical restraint or seclusion pursuant to
+15 subsection (e) of this section, the child shall be released immediately when
+16 there is no longer a serious and immediate risk of physical harm to the child or
+17 others.
+18 (g)(1) Restraint or seclusion lasting more than 10 minutes shall require
+19 supervisory approval and oversight. Restraint or seclusion lasting more than
+20 30 minutes require clinical and administrative consultation, approval, and
+21 oversight. A child shall not be held for more than one hour in restraint or
+VT LEG #388470 v.1
+
+AS PASSED BY HOUSE H.657
+2026 Page 27 of 35
+1 seclusion without an in-person assessment by a clinician and authorization by
+2 the administrator on duty.
+3 (2) A child in seclusion shall be provided constant uninterrupted
+4 supervision by a qualified staff employed by the program who is familiar to the
+5 child.
+6 (h) Nothing in this section shall be construed to:
+7 (1) include a locked bedroom during regular sleeping hours in a secure
+8 residence as seclusion; or
+9 (2) conflict with any law providing greater or additional protections to
+10 minors.
+11 (i) Notice of the use of restraint or seclusion on a child in the Department’s
+12 custody shall be provided to the Department; the child’s parent or guardian; the
+13 child’s guardian ad litem; and the child’s attorney, if applicable, within
+14 24 hours.
+15 (j) The program or staff member using seclusion or restraint shall
+16 document its use and provide a copy of each recorded use of seclusion or
+17 restraint, including a copy of any audio or visual recording, to the
+18 Commissioner. Upon request, the audio or video shall be provided through
+19 secure means of transmission and shall include blurring to protect the identity
+20 of any other children in the program who are not in custody of the Department.
+21 The documentation shall include a description of the child’s specific behaviors
+VT LEG #388470 v.1
+
+AS PASSED BY HOUSE H.657
+2026 Page 28 of 35
+1 justifying the use of the intervention. The Department shall forward complete
+2 documentation of each use of restraint or seclusion to the Office of the Child,
+3 Youth, and Family Advocate within two business days.
+4 (k) The Department shall collect the following data on the use of seclusion
+5 and physical restraint, by placement type; program name; and the age, gender,
+6 and racial background of the child:
+7 (1) the specific types of the seclusion or physical restraint used; and
+8 (2) the length of time a child was secluded or physically restrained, as
+9 applicable.
+10 (l)(1) Prior to contracting with any program for the care of a child in the
+11 Department’s custody, the Department shall conduct a review of any records,
+12 from the prior five years regarding the safety of children in the program’s care,
+13 including any violations of the program’s licensing status and any resulting
+14 remediation.
+15 (2) The Department shall remove any Vermont child from risk of harm
+16 and shall initiate a search for alternative providers if an out-of-state residential
+17 provider is determined to be in violation of the standards in the contract
+18 regarding restraint and seclusion or in violation of its state’s licensing entity.
+19 (m) Notwithstanding subsection (b) of this section, a child detained in a
+20 secure residential program may be restrained with mechanical restraints for a
+21 momentary initial hold to enable relocation of the child to a less restrictive
+VT LEG #388470 v.1
+
+AS PASSED BY HOUSE H.657
+2026 Page 29 of 35
+1 method of intervention if necessitated to prevent serious and immediate harm
+2 to the child or others, except that under no circumstances shall a garment
+3 adjacent to the child’s body that restricts freedom of movement or immobilizes
+4 or reduces the ability of a child to move the child’s arms, legs, body, or head
+5 freely be utilized. The procedures and standards established under this section,
+6 including notice and reporting requirements, shall apply.
+7 (n) Notwithstanding subsection (b) of this section, a child detained in a
+8 secure residential program may be subjected to a strip search if a pat search has
+9 led to probable cause to believe that the child has possession of contraband that
+10 poses a threat of serious bodily harm to the child or others and the child has
+11 refused to voluntarily turn over the contraband. The child shall be given the
+12 opportunity before and at any time after the commencement of a search to
+13 voluntarily relinquish the suspected contraband, whereupon the search will be
+14 discontinued. Notice and reporting requirements shall be the same as for use
+15 of restraint or seclusion under this section. Body cavity searches shall not be
+16 permitted under any circumstances.
+17 (o) The Department shall post on the Family Division’s scorecard or
+18 another prominent location on its website the rates of restraint and seclusion
+19 used on children in licensed programs and the number of uses of secure
+20 transport and of restraint used during transport. The Department shall update
+21 this information at least annually.
+VT LEG #388470 v.1
+
+AS PASSED BY HOUSE H.657
+2026 Page 30 of 35
+1 (p) The Department shall develop and adopt rules pursuant to 3 V.S.A.
+2 chapter 25, in collaboration with the Office of the Child, Youth, and Family
+3 Advocate and in consultation with stakeholders implementing this section,
+4 including requirements for staff training; standards for supervisory oversight,
+5 recordkeeping, and reporting by residential programs; oversight
+6 responsibilities of the Department; and any other necessary standards.
+7 Sec. 13. 33 V.S.A. § 5130(l) is amended to read:
+8 (l)(1) Prior to contracting with any program for the care of a child in the
+9 Department’s custody, the Department shall conduct a review of any records,
+10 from the prior five years regarding the safety of children in the program’s care,
+11 including any violations of the program’s licensing status and any resulting
+12 remediation.
+13 (2) When contracting with an out-of-state program, the Department shall
+14 include a requirement that the program adhere to the provisions of this section.
+15 (3) The Department shall remove any Vermont child from risk of harm
+16 and shall initiate a search for alternative providers if an out-of-state residential
+17 provider is determined to be in violation of the standards in the contract
+18 regarding restraint and seclusion or in violation of its state’s licensing entity.
+19 Sec. 14. REPORT; CHILDREN IN CORRECTIONAL FACILITIES
+20 (a) On or before January 1, 2027, the Departments for Children and
+21 Families and of Corrections shall submit a written report to the House
+VT LEG #388470 v.1
+
+AS PASSED BY HOUSE H.657
+2026 Page 31 of 35
+1 Committees on Human Services and on Corrections and Institutions and to the
+2 Senate Committees on Health and Welfare and on Institutions regarding the
+3 use of restraint and seclusion on minors detained in Department of
+4 Corrections’ facilities and potential means for reducing physical and
+5 psychological trauma from restraint and seclusion. In preparing the required
+6 report, the Departments shall consult with a work group composed of the
+7 Office of the Child, Youth, and Family Advocate; the Office of the Defender
+8 General, Juvenile Division; Voices for Vermont’s Children; the Vermont
+9 Federation of Families for Children’s Mental Health; Disability Rights
+10 Vermont; and a young adult with lived experience of being detained in a
+11 Department of Corrections facility, appointed by the Office of the Child,
+12 Youth, and Family Advocate.
+13 (b) Members of the work group who are not participating in their
+14 professional capacity shall be entitled to per diem compensation and
+15 reimbursement of expenses as permitted under 32 V.S.A. § 1010 for not more
+16 than five meetings. These payments shall be made from monies appropriated
+17 to the Office of the Child, Youth, and Family Advocate.
+18 * * * Judicial Review of Placements for Children Previously Under the
+19 Custody of the Department for Children and Families * * *
+20 Sec. 15. PROPOSAL TO EXTEND SUPPORTS FOR CHILDREN OVER
+21 17 YEARS OF AGE
+VT LEG #388470 v.1
+
+AS PASSED BY HOUSE H.657
+2026 Page 32 of 35
+1 On or before November 1, 2026, the Department for Children and Families
+2 shall submit a written report, in consultation with the Judicial Branch, to the
+3 House Committee on Human Services and to the Senate Committee on Health
+4 and Welfare with recommendations for court oversight processes that meet
+5 federal requirements to allow access to federal funds for programs that may
+6 support youth up to 21 years of age and that ensures sustainable use of judicial
+7 resources. The report shall include any recommendations for legislative
+8 action.
+9 * * * Prenatal Engagement and Family Support Working Group * * *
+10 Sec. 16. PRENATAL ENGAGEMENT AND FAMILY SUPPORT
+11 WORKING GROUP
+12 (a) Creation. There is created the Prenatal Engagement and Family
+13 Support Working Group to examine the Department for Children and Families’
+14 current practice of using a pregnancy calendar to monitor and track certain
+15 pregnant individuals in Vermont and provide recommendations on alternatives
+16 to a pregnancy calendar and ways to support pregnant individuals in need of
+17 services.
+18 (b) Membership. The Working Group shall be composed of the following
+19 members:
+20 (1) the Deputy Commissioner of the Family Services Division of the
+21 Department for Children and Families;
+VT LEG #388470 v.1
+
+AS PASSED BY HOUSE H.657
+2026 Page 33 of 35
+1 (2) the Vermont Child, Youth, and Family Advocate or designee;
+2 (3) the Executive Director of Vermont Family Network or designee;
+3 (4) the Executive Director of Vermont Legal Aid or designee;
+4 (5) the President of Planned Parenthood of Northern New England or
+5 designee;
+6 (6) the Executive Director of the Vermont Parent Representation Center
+7 or designee;
+8 (7) the Executive Director of Recovery Partners Vermont or designee;
+9 (8) the Executive Director of Voices for Vermont’s Children or
+10 designee;
+11 (9) the Director of the Department of Health’s Maternal and Child
+12 Health Division or designee;
+13 (10) a representative, appointed by Children of Recovering Mothers’
+14 Team at the Kidsafe Collaborative;
+15 (11) the Director of the Office of the Defender General’s Juvenile
+16 Division or designee;
+17 (12) an individual with lived experience of being monitored by the
+18 Department while pregnant, appointed by the Speaker of the House; and
+19 (13) an individual with lived experience of being monitored by the
+20 Department while pregnant, appointed by the Senate Committee on
+21 Committees.
+VT LEG #388470 v.1
+
+AS PASSED BY HOUSE H.657
+2026 Page 34 of 35
+1 (c) Powers and duties. The Working Group shall study the Department for
+2 Children and Families’ current practice of using a pregnancy calendar to
+3 monitor and track certain pregnant individuals in Vermont and provide
+4 recommendations on alternatives to a pregnancy calendar and ways to support
+5 pregnant individuals in need of services.
+6 (d) Assistance. For the purposes of scheduling meetings and providing
+7 administrative assistance, the Working Group shall have the assistance of the
+8 Department for Children and Families.
+9 (e) Report. On or before November 15, 2026, the Working Group shall
+10 submit a written report to the House Committee on Human Services, the
+11 Senate Committee on Health and Welfare, and the House and Senate
+12 Committees on Judiciary with its findings and any recommendations for
+13 legislative action.
+14 (f) Meetings.
+15 (1) The Vermont Child, Youth, and Family Advocate or designee shall
+16 call the first meeting of the Working Group to occur on or before August 1,
+17 2026.
+18 (2) The Working Group shall select a chair from among its members at
+19 the first meeting.
+20 (3) A majority of the membership shall constitute a quorum.
+21 (4) The Working Group shall cease to exist on February 1, 2027.
+VT LEG #388470 v.1
+
+AS PASSED BY HOUSE H.657
+2026 Page 35 of 35
+1 (g)(1) Compensation and reimbursement. Members of the Working Group
+2 who are not otherwise compensated for attendance at meetings shall be entitled
+3 to per diem compensation and expenses as permitted under 32 V.S.A. § 1010
+4 for not more than five meetings.
+5 (2) Members of the Working Group who are not participating in their
+6 professional capacity shall be entitled to per diem compensation and
+7 reimbursement of expenses as permitted under 32 V.S.A. § 1010 for not more
+8 than five meetings. These payments shall be made from monies appropriated
+9 to the Department for Children and Families.
+10 * * * Effective Dates * * *
+11 Sec. 17. EFFECTIVE DATES
+12 (a) This section and Sec. 10 (report; restraint in transportation), Sec. 11
+13 (use of force policy), Sec. 14 (report; children in correctional facilities), and
+14 Sec. 15 (proposal to extend supports for children over 17 years of age) shall
+15 take effect on passage.
+16 (b) Sec. 9 (transportation of a child) and Sec. 12 (restraint and seclusion)
+17 shall take effect on January 1, 2027.
+18 (c) Sec. 2 (33 V.S.A. § 4902) and Sec. 3 (33 V.S.A. § 4907) shall take
+19 effect on July 1, 2027.
+20 (d) Sec. 13 (33 V.S.A. § 5130(l)) shall take effect on July 1, 2028.
+21 (e) All remaining sections shall take effect on July 1, 2026.
+VT LEG #388470 v.1

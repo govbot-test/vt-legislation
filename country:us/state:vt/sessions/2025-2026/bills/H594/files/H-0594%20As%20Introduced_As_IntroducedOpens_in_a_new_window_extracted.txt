@@ -1,0 +1,727 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.594
+2026 Page 1 of 30
+1 H.594
+2 Introduced by Representatives Maguire of Rutland City and Wood of
+3 Waterbury
+4 Referred to Committee on
+5 Date:
+6 Subject: Human services; Temporary Emergency Housing and Accountability
+7 Program; Return Home Program
+8 Statement of purpose of bill as introduced: This bill proposes to establish the
+9 Temporary Emergency Housing and Accountability Program and the Return
+10 Home Program in fiscal years 2027 and 2028.
+11 An act relating to establishing the Temporary Emergency Housing and
+12 Accountability Program and the Return Home Program in fiscal years 2027
+13 and 2028
+14 It is hereby enacted by the General Assembly of the State of Vermont:
+15 Sec. 1. PURPOSE
+16 It is the purpose of this act to:
+17 (1) ensure that narrowly tailored, temporary emergency housing
+18 assistance is available to only the most vulnerable Vermonters in crisis through
+19 fiscal year 2028 in a manner that encourages efficient and accountable use of
+20 taxpayer funds;
+VT LEG #386115 v.2
+
+BILL AS INTRODUCED H.594
+2026 Page 2 of 30
+1 (2) establish clear eligibility criteria, accountability measures, and case
+2 management requirements;
+3 (3) transition from reliance on hotels and motels toward sustainable,
+4 permanent housing solutions, including recovery housing, transitional housing,
+5 and the Vermont Housing Investment Program (VHIP);
+6 (4) establish a tiered continuum of care;
+7 (5) expand the use of alternative emergency housing models in
+8 partnership with municipalities, nonprofit community-based providers, and
+9 private landlords;
+10 (6) integrate supportive services to assist households to achieve
+11 permanent housing stability;
+12 (7) establish transparent accountability measures, reporting
+13 requirements, and oversight mechanisms;
+14 (8) support self-sufficiency among Program participants by requiring
+15 personal responsibility and active participation in housing searches;
+16 (9) empower local communities to administer emergency housing
+17 programs with maximum flexibility; and
+18 (10) create a diversified system of emergency housing options, such as
+19 shelters, transitional housing, recovery residences, shared housing
+20 arrangements, host-home models, master-leased units, and rapid rehousing
+VT LEG #386115 v.2
+
+BILL AS INTRODUCED H.594
+2026 Page 3 of 30
+1 placements, that provide cost-effective, sustainable, and supportive outcomes
+2 to Program participants.
+3 Sec. 2. DEFINITIONS
+4 As used in this act:
+5 (1) “Administering agency” means the department, office, or designated
+6 entity responsible for implementing and overseeing the provisions of this act.
+7 (2) “Alternative housing options” means housing options such as
+8 shelters, transitional housing, recovery residences, shared housing
+9 arrangements, host-home models, master-leased units, and rapid rehousing
+10 placements.
+11 (3) “Applicant” means an individual or household that applies for
+12 emergency housing assistance under this act.
+13 (4) “Case management services” means individualized supports
+14 connecting households to public benefits, health care, employment, and
+15 permanent housing.
+16 (5) “Cold-weather emergency shelter” means publicly funded shelter
+17 beds made available to individuals during periods when temperatures or
+18 weather conditions pose a risk to health and safety.
+19 (6) “Department” means the Department for Children and Families.
+20 (7) “Disability” means a physical, sensory, cognitive, developmental, or
+21 mental health condition that substantially limits one or more major life
+VT LEG #386115 v.2
+
+BILL AS INTRODUCED H.594
+2026 Page 4 of 30
+1 activities, or that requires ongoing support, accommodation, or treatment to
+2 maintain an individual’s health, safety, or independence. The term includes
+3 chronic or episodic conditions that significantly impact daily functioning,
+4 regardless of whether the individual is receiving, or is eligible to receive,
+5 federal disability benefits.
+6 (8) “Eligible individual” or “eligible household” means an individual or
+7 group of individuals, respectively, without a fixed nighttime residence or at
+8 immediate risk of losing housing within seven days, as verified by an
+9 administering agency.
+10 (9) “Emergency housing” means temporary shelter, lodging, or other
+11 housing support provided to eligible individuals or eligible households when
+12 no safe alternative housing option is immediately available.
+13 (10) “Emergency housing assistance” means the provision of shelter,
+14 temporary accommodations, or related services necessary to protect the health,
+15 safety, and welfare of eligible individuals and eligible households.
+16 (11) “Homeless” means lacking a fixed, regular, and adequate nighttime
+17 residence, including individuals and households that:
+18 (A) reside in places not meant for human habitation, such as cars,
+19 parks, abandoned buildings, or streets;
+VT LEG #386115 v.2
+
+BILL AS INTRODUCED H.594
+2026 Page 5 of 30
+1 (B) reside in emergency shelters or temporary housing;
+2 (C) are exiting an institution where they temporarily resided and have
+3 no permanent housing to return to; or
+4 (D) are at imminent risk of losing their primary nighttime residence,
+5 as determined by the administering agency.
+6 (12) “Household” means an individual or group of individuals, with or
+7 without children, who present together for emergency housing assistance and
+8 who identify as a unit for purposes of obtaining shelter or housing.
+9 (13) “Minor child” means an individual under 18 years of age.
+10 (14) “Program” means the Temporary Emergency Housing and
+11 Accountability Program.
+12 (15) “Recovery housing” means sober, supportive housing specifically
+13 designed for individuals in recovery from substance use disorder.
+14 (16) “Survivor of domestic violence” means an individual who has
+15 experienced domestic violence, sexual assault, stalking, or human trafficking
+16 and who is seeking emergency housing to avoid further harm or abuse.
+17 (17) “Transitional housing” means time-limited housing with services
+18 designed to support residents in achieving permanent housing stability.
+VT LEG #386115 v.2
+
+BILL AS INTRODUCED H.594
+2026 Page 6 of 30
+1 Sec. 3. TEMPORARY EMERGENCY HOUSING AND
+2 ACCOUNTABILITY PROGRAM
+3 (a) Program established. In fiscal years 2027 and 2028, there is established
+4 the Temporary Emergency Housing and Accountability Program, administered
+5 by the Department for Children and Families’ Economic Services Division, for
+6 the purposes of:
+7 (1) providing temporary emergency housing to eligible individuals and
+8 eligible households experiencing homelessness or at imminent risk of
+9 homelessness;
+10 (2) reducing reliance on hotels and motels for emergency housing
+11 assistance;
+12 (3) expanding the use of alternative housing options in partnership with
+13 community organizations, municipalities, and private landlords;
+14 (4) integrating case management and individualized housing plans into
+15 all emergency housing placements; and
+16 (5) ensuring accountability, transparency, and cost efficiency in the use
+17 of public funds.
+18 (b) Tiered continuum of care. The Department shall implement a tiered
+19 continuum of care framework to serve individuals and families experiencing
+20 homelessness, including those receiving emergency housing assistance
+VT LEG #386115 v.2
+
+BILL AS INTRODUCED H.594
+2026 Page 7 of 30
+1 pursuant to this act. The continuum of care shall consist of the following tiers,
+2 listed in order of priority and progression:
+3 (1) Tier 1: high-barrier shelter first option.
+4 (A) High-barrier shelters shall serve as the preferred initial placement
+5 for eligible individuals and eligible households where capacity, staffing, and
+6 geographic accessibility are available. High-barrier shelters shall provide
+7 structured rules, mandatory participation in case management, and Program
+8 accountability measures.
+9 (B) Individuals placed in a high-barrier shelter shall have the ability
+10 to participate in structured programming, including mandatory case
+11 management, housing stability planning, and employment, education, or
+12 treatment services, as appropriate, and have the physical and behavioral ability
+13 to comply with Program expectations.
+14 (C) Hotels and motels shall only be used for temporary overflow
+15 during periods of shelter capacity shortage, subject to the limitation in Sec. 8 of
+16 this act.
+17 (2) Tier 1A: low-barrier shelter option.
+18 (A) Low-barrier shelters shall serve eligible individuals or eligible
+19 households unable or unwilling to participate immediately in high-barrier
+20 shelters.
+VT LEG #386115 v.2
+
+BILL AS INTRODUCED H.594
+2026 Page 8 of 30
+1 (B) Low-barrier shelters shall minimize barriers to entry by reducing
+2 the rules and programmatic requirements used in high-barrier shelters, while
+3 requiring access to case management and other housing support services.
+4 (C) The Department shall prioritize individuals in a low-barrier
+5 shelter for transition to a high-barrier shelter or housing as described in
+6 subdivision (3) of this subsection (b) as soon as feasible.
+7 (3) Tier 2: transitional and recovery housing.
+8 (A) Time-limited housing with structured support services shall
+9 stabilize and prepare eligible individuals and eligible households for permanent
+10 housing.
+11 (B) Transitional and recovery housing shall include housing for
+12 individuals exiting treatment for substance use disorder or with a history of
+13 substance use disorder.
+14 (4) Tier 2A: permanent and temporary supportive housing.
+15 (A) Temporary or permanent supportive housing programs shall be
+16 provided to eligible individuals and eligible households requiring ongoing or
+17 intensive supports to maintain housing stability.
+18 (i) Permanent supportive housing shall provide long-term, non-
+19 time-limited housing combined with voluntary supportive services for
+20 individuals with complex needs, including chronic homelessness, serious
+21 mental illness, or long-term recovery needs.
+VT LEG #386115 v.2
+
+BILL AS INTRODUCED H.594
+2026 Page 9 of 30
+1 (ii) Temporary supportive housing may include time-limited
+2 supportive units to serve as a bridge for eligible individuals and eligible
+3 households transitioning from shelter to transitional housing, but who are not
+4 yet ready for independent living.
+5 (B) Supportive services may include case management, mental health
+6 and substance use treatment coordination, peer support, life skills, tenancy
+7 support, and employment services.
+8 (C) Tier 2A serves as an intermediate stabilization option prior to tier
+9 3 long-term housing placements or, when appropriate, as the final permanent
+10 placement for eligible individuals and eligible households requiring indefinite
+11 supportive services.
+12 (5) Tier 3: Vermont Housing Investment Program (VHIP) and
+13 permanent housing. This tier provides for long-term, stable housing solutions,
+14 including subsidized units, VHIP-supported units, and repurposed hotels and
+15 motels, previously used for General Assistance emergency housing, that are
+16 now converted workforce or transitional housing.
+17 (c) Tiered placement requirements.
+18 (1) Eligible individuals and eligible households shall be placed in the
+19 highest-need tier appropriate to the individual’s or household’s circumstances,
+20 with high-barrier shelter as the default placement, except where low-barrier
+21 shelter is necessary to ensure immediate shelter access.
+VT LEG #386115 v.2
+
+BILL AS INTRODUCED H.594
+2026 Page 10 of 30
+1 (2) Movement between tiers shall prioritize progress toward permanent
+2 housing, minimizing reliance on temporary hotel or motel placements.
+3 (3) An eligible individual or eligible household shall not be denied
+4 placement, sanctioned, or deemed noncompliant under this section due to the
+5 unavailability of shelter beds, housing placements, case management services,
+6 treatment capacity, or other system resources outside the control of the eligible
+7 individual or household.
+8 (d) Coordination and reporting.
+9 (1) The Department shall coordinate services provided in high-barrier
+10 shelters, low-barrier shelters, transitional housing programs, VHIP units,
+11 recovery housing units, and cold-weather shelters to ensure efficient use of
+12 resources.
+13 (2) Eligible individuals’ or eligible households’ placement, duration of
+14 stay, and progression through the tiers established in subsection (b) of this
+15 section shall be reported pursuant to Sec. 15 of this act.
+16 (e) Prioritization. The tiered continuum of care established in subsection
+17 (b) of this section shall prioritize eligible individuals and eligible households
+18 that meet multiple vulnerability criteria, including disability, age, chronic
+19 homelessness, and domestic violence status.
+VT LEG #386115 v.2
+
+BILL AS INTRODUCED H.594
+2026 Page 11 of 30
+1 Sec. 4. ELIGIBILITY
+2 (a) General eligibility.
+3 (1) Eligible individuals and eligible households in the Temporary
+4 Emergency Housing and Accountability Program established in this act shall
+5 be in need of emergency housing assistance and physically present in Vermont
+6 as verified by one or more of the following:
+7 (A) a Vermont-issued driver’s license or identification card;
+8 (B) a lease or utility bill for a Vermont property or other proof of
+9 presence in the State; or
+10 (C) documentation from a Vermont-based social service provider or
+11 health care provider licensed or certified and practicing in Vermont.
+12 (2) Recent Program violations or misconduct shall render an otherwise
+13 eligible individual temporarily ineligible for participation in the Program.
+14 (3) The Department shall prioritize services to vulnerable populations,
+15 including individuals with verified disabilities; individuals over 60 years of
+16 age; individuals who are pregnant; parents or guardians caring for minor
+17 children; and survivors of domestic violence, sexual assault, or human
+18 trafficking.
+19 (4) For nonemergency needs and longer-term supports under the
+20 Program, the Department may consider domicile in and connection to
+VT LEG #386115 v.2
+
+BILL AS INTRODUCED H.594
+2026 Page 12 of 30
+1 Vermont. However, no individual shall be denied emergency life-safety shelter
+2 solely on the basis of citizenship or immigration status.
+3 (b) Verification of residency.
+4 (1) Eligibility for emergency housing assistance under the Program shall
+5 be based on an individual’s or household’s current physical presence in
+6 Vermont and verified need. The Department may consider domicile in and
+7 connection to Vermont for nonemergency needs pursuant to subdivision (a)(4)
+8 of this section, but emergency life-safety shelter shall not be denied solely on
+9 the basis of citizenship or immigration status.
+10 (2) For emergency placements, the Department shall accept any
+11 reasonable documentation evidencing identity and presence in the State,
+12 including government-issued identification, administering agency
+13 documentation, or self-attestation corroborated by collateral information when
+14 other documentation is not reasonably available.
+15 (3) For nonemergency needs, the Department shall accept reasonable
+16 documentation of domicile in or connection to Vermont in a manner specified
+17 by the Commissioner for Children and Families in rule. Domicile in and
+18 connection to Vermont may be verified for nonemergency supports and
+19 redetermined periodically or when the individual’s or household’s
+20 circumstances change.
+VT LEG #386115 v.2
+
+BILL AS INTRODUCED H.594
+2026 Page 13 of 30
+1 (4) All documentation submitted pursuant to this section shall be subject
+2 to verification by the Department, in coordination with the Departments of
+3 Taxes and of Motor Vehicles.
+4 (5) The Department shall permit presumptive eligibility for a period of
+5 up to 14 days for applicants who attest to meeting the residency requirement
+6 but lack immediate access to the required documentation, provided that
+7 documentation is actively pursued during the presumptive eligibility period.
+8 (c) Verification of disability.
+9 (1) Proof of an individual’s disability shall be verified by:
+10 (A) a health care provider licensed or certified and practicing in
+11 Vermont;
+12 (B) a determination or certification from a State or federally
+13 recognized agency or program that provides services to individuals with
+14 disabilities;
+15 (C) documentation from an educational institution, service provider,
+16 or social service agency in Vermont with knowledge of the individual’s
+17 disability; or
+18 (D) a self-attestation by the individual, subject to verification by the
+19 administering agency, when other documentation is not reasonably available.
+VT LEG #386115 v.2
+
+BILL AS INTRODUCED H.594
+2026 Page 14 of 30
+1 (2) An individual shall not be required to establish eligibility for the
+2 Temporary Emergency Housing and Accountability Program solely through a
+3 federal disability benefits determination or award.
+4 (3) The status of an individual with a disability shall be verified during
+5 the individual’s initial application process and redetermined as appropriate, at
+6 most every 36 months or upon a material change in condition, with flexible
+7 acceptance of provider notes, benefit statements, or self-attestation
+8 corroborated by collateral information.
+9 (d) Fraud prevention.
+10 (1) An applicant or Program participant who knowingly provides false,
+11 misleading, or incomplete information regarding residency, disability status,
+12 household composition, or other eligibility criteria shall be subject to:
+13 (A) immediate denial or termination of benefits under the Program;
+14 and
+15 (B) repayment of improperly received benefits, which shall be
+16 recovered through administrative or civil processes.
+17 (2) The Department may refer cases suspected of fraud to the Office of
+18 the Attorney General or a State’s Attorney for investigation and prosecution
+19 under applicable State law.
+20 (3) The Department shall provide clear written notice to all applicants
+21 regarding penalties for fraud at the time of application.
+VT LEG #386115 v.2
+
+BILL AS INTRODUCED H.594
+2026 Page 15 of 30
+1 (4) The Department shall not impose a penalty upon an individual or
+2 household for a good-faith, immaterial error that was corrected upon notice
+3 within a reasonable time period.
+4 Sec. 5. ACCOUNTABILITY AND CASE MANAGEMENT
+5 (a)(1) A participant in the Program shall be required to:
+6 (A) participate in ongoing case management services with a State-
+7 contracted case manager;
+8 (B) comply with an individualized housing stability plan, including
+9 participation in employment, treatment, or housing search activities as
+10 appropriate; and
+11 (C) abide by Program rules.
+12 (2) The Department and its contractors shall comply with Title II of the
+13 Americans with Disabilities Act, 42 U.S.C. § 12101 et seq. and Section 504 of
+14 the Rehabilitation Act, 29 U.S.C. § 794, for the purposes of providing
+15 reasonable modifications, effective communication, and accessible placements.
+16 Program rules, case management requirements, and sanctions shall be
+17 reasonably modified as necessary to avoid discrimination against qualified
+18 individuals with a disability.
+19 (3) Eligible individuals and eligible households shall have secular
+20 alternatives to any faith-based or ideological programming. The Department
+VT LEG #386115 v.2
+
+BILL AS INTRODUCED H.594
+2026 Page 16 of 30
+1 shall not penalize an eligible individual or eligible household for declining
+2 religious activities.
+3 (b) An individual shall be ineligible for assistance for 30 days under the
+4 Program, unless extenuating circumstances are documented by the
+5 Department, when the individual knowingly and willfully:
+6 (1) fails to check into assigned housing;
+7 (2) refuses to comply with Program commitments, responsibilities, and
+8 obligations;
+9 (3) declines an alternative housing option; or
+10 (4) engages in behavior that the Department identifies as misconduct.
+11 (c) Sanctions issued under this section shall not be imposed when the
+12 eligible individual’s noncompliance is primarily attributable to cognitive
+13 impairment, active mental health crisis, substance withdrawal, developmental
+14 disability, or other documented condition that materially limits the individual’s
+15 ability to comply, unless reasonable accommodations have been offered and
+16 documented.
+17 (d) Reapplication after sanction shall require a new eligibility
+18 determination, verification of compliance with housing search requirements,
+19 and participation in relevant services.
+20 (e) An individual engaged in criminal activity may be subject to immediate
+21 termination where necessary for the safety of the individual, other Program
+VT LEG #386115 v.2
+
+BILL AS INTRODUCED H.594
+2026 Page 17 of 30
+1 participants, or Program staff, followed by a prompt post-deprivation hearing
+2 within 10 days following the termination. Otherwise, termination in the
+3 Program shall only occur after the Department provides notice to the eligible
+4 individual including a written decision stating the findings and reasons for the
+5 Department’s decision, and an opportunity to be heard.
+6 (f) The Department shall allocate funds sufficient to ensure that case
+7 management services are delivered in ratios not to exceed:
+8 (1) one case manager per 25 participants in high-barrier shelter
+9 placements; and
+10 (2) one case manager per 35 participants in low-barrier, transitional, or
+11 supportive housing placements.
+12 (g) As used in this section, “misconduct” means enumerated behaviors that
+13 materially endanger the safety of others, involve the destruction of property, or
+14 constitute repeated refusals of suitable placements following a documented
+15 suitability assessment and reasonable accommodations.
+16 Sec. 6. TIME LIMITS FOR PROGRAM PARTICIPATION
+17 (a) Assistance under the Program shall be time-limited by tier as follows:
+18 (1) Tier 1 and tier 1A placements shall not exceed 60 days.
+19 (2) Tier 2 and tier 2A placements shall not exceed 180 days.
+20 (b) Time limits shall be tolled during periods in which an eligible
+21 individual or eligible household is actively awaiting placement in housing,
+VT LEG #386115 v.2
+
+BILL AS INTRODUCED H.594
+2026 Page 18 of 30
+1 treatment, or services for which the eligible individual or eligible household is
+2 otherwise eligible.
+3 (c) The Department may grant hardship extensions pursuant to criteria
+4 adopted by the Commissioner in rule, including for medical necessity, lack of
+5 reasonable accessible alternative placement, family-unity needs, imminent
+6 severe weather, or imminent risk to health or safety, subject to written findings.
+7 Where a denial of services or termination of services would likely result in
+8 imminent risk to health or safety, the Department shall provide temporary
+9 placement pending appeal or alternative accommodation.
+10 Sec. 7. RIGHT TO FAIR HEARING
+11 (a) Right to hearing. An applicant for, or participant in, the Program
+12 established pursuant to this act shall have the right to a fair hearing before the
+13 Human Services Board pursuant to 3 V.S.A. § 3091 when:
+14 (1) an application for assistance under the Program is denied in whole or
+15 in part;
+16 (2) a participant’s benefits are terminated, reduced, or suspended; or
+17 (3) the applicant or participant believes that benefits have not been
+18 provided in accordance with applicable laws, rules, or policies.
+19 (b) Notice. Written notice shall be provided to any applicant or participant
+20 whose participation in the Program is denied, reduced, suspended, or
+21 terminated. Notice shall include:
+VT LEG #386115 v.2
+
+BILL AS INTRODUCED H.594
+2026 Page 19 of 30
+1 (1) the specific factual and legal basis for the Department’s decision;
+2 (2) the effective date of the action;
+3 (3) a statement of the right to request a fair hearing pursuant to this
+4 section; and
+5 (4) clear instructions on the process and deadlines for filing an appeal.
+6 (c) Timeliness of appeals. An individual shall file a request for a fair
+7 hearing with the Human Services Board within 90 days following the date of
+8 the individual’s receipt of the Department’s written notice.
+9 (d) Continuation of benefits. If an individual files a request for a fair
+10 hearing within 10 days after receiving the Department’s notice of termination
+11 of services under the Program, the Department shall continue to provide
+12 services under the Program without interruption until a decision is issued by
+13 the Human Services Board, unless the participant voluntarily waives continued
+14 benefits.
+15 (e) Due process protections. Hearings shall be conducted in accordance
+16 with due process standards, including the right to present evidence, cross-
+17 examine witnesses, and be represented by counsel or another authorized
+18 representative.
+19 (f) Decision. The Human Services Board shall issue a written decision that
+20 sets forth findings of fact, conclusions of law, and the basis for its decision.
+VT LEG #386115 v.2
+
+BILL AS INTRODUCED H.594
+2026 Page 20 of 30
+1 Sec. 8. HOTEL AND MOTEL USE
+2 (a) The General Assembly finds that Vermont’s reliance on hotels and
+3 motels for General Assistance emergency housing is unsustainable.
+4 (b)(1) In fiscal year 2027, there shall be a maximum capacity of 400 hotel
+5 and motel rooms for the Temporary Emergency Housing and Accountability
+6 Program.
+7 (2) It is the intent of the General Assembly that hotel or motel rooms
+8 authorized for use as part of the Temporary Emergency Housing and
+9 Accountability Program be reduced to the minimum practicable level in fiscal
+10 year 2028 and eliminated only upon certification from the Commissioner for
+11 Children and Families to the House Committee on Human Services and to the
+12 Senate Committee on Health and Welfare that sufficient shelter and housing
+13 capacity exists statewide to meet demand.
+14 (c) In fiscal years 2027 and 2028, the Department shall:
+15 (1) increase VHIP-supported permanent housing units;
+16 (2) expand shelter capacity statewide; and
+17 (3) repurpose hotels and motels previously used for General Assistance
+18 emergency housing into transitional or workforce housing.
+19 (d) Notwithstanding subsection (b) of this section, where no safe,
+20 reasonable alternative exists and denial of a hotel or motel room would likely
+21 result in imminent risk to health or safety, the Department may authorize
+VT LEG #386115 v.2
+
+BILL AS INTRODUCED H.594
+2026 Page 21 of 30
+1 temporary hotel or motel placement pending appeal or transition to an
+2 appropriate alternative.
+3 Sec. 9. DOMESTIC VIOLENCE HOUSING
+4 (a) Domestic violence survivors shall be served through a program
+5 administered with Vermont domestic and sexual violence organizations under
+6 contract with the Department that is separate from the Temporary Emergency
+7 Housing and Accountability Program.
+8 (b) Use of hotels and motels may continue for domestic violence survivors
+9 where no discrete, safe housing alternatives exist. Hotel and motel usage by
+10 domestic violence survivors shall not count toward the maximum capacities
+11 identified in Sec. 8 of this act.
+12 Sec. 10. COLD-WEATHER EMERGENCY SHELTER
+13 (a) The Department shall maintain sufficient cold-weather emergency
+14 shelter capacity to ensure that no individual is unsheltered during extreme
+15 weather conditions.
+16 (b) Eligibility for cold-weather shelter shall not be limited by residency,
+17 disability, or time limits.
+18 Sec. 11. RECOVERY AND TRANSITIONAL HOUSING
+19 As recovery housing and transitional housing are integral components of the
+20 tiered continuum of care, the Agency of Human Services shall:
+VT LEG #386115 v.2
+
+BILL AS INTRODUCED H.594
+2026 Page 22 of 30
+1 (1) expand access to recovery housing for individuals exiting
+2 incarceration or treatment for substance use disorder; and
+3 (2) support transitional housing models that bridge emergency housing
+4 assistance and permanent housing.
+5 Sec. 12. WORKFORCE AND PROVIDER STABILITY
+6 The Agency of Human Services shall prioritize workforce stability in the
+7 implementation of this act, including:
+8 (1) retention and recruitment incentives for shelter and housing staff;
+9 (2) support for rural and mobile service delivery models; and
+10 (3) expanded use of peer support and community-based staffing models.
+11 Sec. 13. RULEMAKING
+12 Pursuant to 3 V.S.A. chapter 25, the Commissioner shall adopt permanent
+13 rules for the implementation of the Temporary Emergency Housing and
+14 Accountability Program pursuant to this act as soon as feasible. While
+15 permanent rules are pending, the Commissioner shall adopt emergency rules,
+16 which shall be deemed to have met the standard in 3 V.S.A. § 844. Both the
+17 emergency and permanent rules shall address:
+18 (1) document verification protocols for residency and disability status;
+19 (2) random or targeted audits of eligibility documentation; and
+20 (3) coordination with other State and federal benefit programs to prevent
+21 duplication.
+VT LEG #386115 v.2
+
+BILL AS INTRODUCED H.594
+2026 Page 23 of 30
+1 Sec. 14. PROGRAM INTEGRITY REPORT
+2 On January 15, 2027 and 2028, the Commissioner for Children and
+3 Families shall submit a written Program integrity report regarding the
+4 Temporary Emergency Housing and Accountability Program to the House
+5 Committees on Appropriations and on Human Services and to the Senate
+6 Committees on Appropriations and on Health and Welfare addressing:
+7 (1) the number of fraud investigations initiated and resolved;
+8 (2) the dollar value of improperly paid benefits recovered; and
+9 (3) the effectiveness of the verification and enforcement measures
+10 established in this act.
+11 Sec. 15. TEMPORARY EMERGENCY HOUSING AND
+12 ACCOUNTABILITY PROGRAM; REPORT
+13 (a) On January 15, 2027 and 2028, the Commissioner for Children and
+14 Families shall submit a written report about the implementation of the
+15 Temporary Emergency Housing and Accountability Program since the start of
+16 the preceding fiscal year to the House Committees on Appropriations and on
+17 Human Services and to the Senate Committees on Appropriations and on
+18 Health and Welfare, with a copy posted on its website, addressing:
+19 (1) the number of individuals and households served through the
+20 Program, by household size and, if applicable, by eligibility category, region,
+21 service provider, and core service category;
+VT LEG #386115 v.2
+
+BILL AS INTRODUCED H.594
+2026 Page 24 of 30
+1 (2) Program expenditures, including cost per household;
+2 (3) the number of households that have been successfully transitioned to
+3 permanent housing since the previous reporting period, the types of housing
+4 settings participants have been placed in, and any supportive services a
+5 participant is receiving in conjunction with the participant’s housing;
+6 (4) the number of individuals and households returning to homelessness
+7 after placement in permanent housing and the reason for the return to
+8 homelessness;
+9 (5) the number of diversions from homelessness made during the
+10 previous reporting period;
+11 (6) change in shelter bed, nursing home, and residential care home
+12 capacity since the previous reporting period;
+13 (7) the average length of stay and outcomes following an individual’s or
+14 household’s exit from the Program;
+15 (8) the number of VHIP-supported units created and utilized for
+16 individuals and households exiting the Program;
+17 (9) the number of transitional recovery housing beds funded or utilized
+18 under the Program;
+19 (10) fraud prevention and enforcement data as required pursuant to Sec.
+20 14 of this act;
+VT LEG #386115 v.2
+
+BILL AS INTRODUCED H.594
+2026 Page 25 of 30
+1 (11) the total expenditures by category, including per-household cost
+2 comparisons across hotels, shelters, and permanent housing options;
+3 (12) the number of households whose intake assessment indicated a
+4 potential need for services for each department within the Agency of Human
+5 Services;
+6 (13) workforce capacity, vacancy rates, and service delivery impacts;
+7 and
+8 (14) the identification of any indicators triggering a corrective action
+9 plan, including:
+10 (A) an increase in unsheltered homelessness;
+11 (B) statewide shelter capacity utilization exceeding 95 percent for
+12 more than 30 consecutive days; or
+13 (C) sanctions imposed on more than 15 percent of Program
+14 participants within a reporting period.
+15 (b) If any indicator identified in subdivision (a)(14) of this section occurs,
+16 the Department shall submit a corrective action plan to the House Committee
+17 on Human Services and to the Senate Committee on Health and Welfare within
+18 60 days following the occurrence.
+19 Sec. 16. RETURN HOME PROGRAM
+20 (a) As the General Assembly recognizes that with limited human services
+21 resources, some individuals experiencing homelessness may find that their
+VT LEG #386115 v.2
+
+BILL AS INTRODUCED H.594
+2026 Page 26 of 30
+1 families or home states are better equipped to provide long-term care and
+2 support, there is established the Return Home Program administered by the
+3 Department in fiscal years 2027 and 2028. The Return Home Program shall
+4 provide travel expenses and relocation assistance for certain homeless
+5 individuals who wish to return to their home states. For the purposes of this
+6 Return Home Program, the Department shall:
+7 (1) establish a public-private partnership for contracting with eligible
+8 nonprofit organizations or for-profit organizations;
+9 (2) seek the participation of local transportation providers;
+10 (3) work with homeless outreach programs to ensure that:
+11 (A) individuals who wish to participate in the Return Home Program
+12 are made aware of the Program; and
+13 (B) vulnerable populations, including victims of domestic violence or
+14 human trafficking, are not involuntarily displaced and participation is strictly
+15 voluntary;
+16 (4) ensure that an individual may participate in the Program if the
+17 individual:
+18 (A) agrees to participate in the Return Home Program voluntarily and
+19 provides informed, written consent;
+20 (B) maintains legal residency in a state other than Vermont;
+21 (C) does not have a verifiable permanent address in Vermont;
+VT LEG #386115 v.2
+
+BILL AS INTRODUCED H.594
+2026 Page 27 of 30
+1 (D) lacks financial independence, including a return ticket or the
+2 financial means to return home;
+3 (E) is unemployed; and
+4 (F) is reliant or at risk of becoming reliant on State assistance
+5 programs;
+6 (5) prohibit an individual with at least one dependent child who resides
+7 in the State or an individual receiving medical treatment that cannot be
+8 interrupted from participating in the Return Home Program;
+9 (6) verify the information necessary to determine an individual’s
+10 eligibility for the Return Home Program to prevent fraudulent claims or
+11 involuntary displacement;
+12 (7) enable an individual who alleges involuntary participation or who
+13 wishes to participate, but is denied eligibility, to immediately appeal the
+14 decision to the Human Services Board;
+15 (8) provide written disclosure in the individual’s primary language and
+16 provide interpreter services as needed, and a 72-hour cooling-off period before
+17 travel, which the individual may request to waive; and
+18 (9) submit a report on January 15, 2027 and 2028, to the House
+19 Committees on Appropriations and on Human Services and to the Senate
+20 Committees on Appropriations and on Health and Welfare on the Return Home
+VT LEG #386115 v.2
+
+BILL AS INTRODUCED H.594
+2026 Page 28 of 30
+1 Program addressing the number of participants, costs, outcomes, and any
+2 recommended legislation.
+3 (b) The Department shall not take an adverse action or denial of other
+4 services against an individual for the individual’s refusal to participate in the
+5 Return Home Program. The Department shall not condition other benefits on
+6 the individual’s agreement to relocate under this section.
+7 (c) Appeals related to Return Home Program determinations shall receive
+8 expedited review within five business days and relocation shall be
+9 automatically stayed pending decisions unless the applicant requests
+10 immediate travel.
+11 (d) As used in this section:
+12 (1) “Home state” means an individual’s state of legal residence.
+13 (2) “Permanent address” means a verifiable physical residence that an
+14 individual owns, rents, or resides in with family.
+15 (3) “State assistance programs” means programs providing aid, such as
+16 subsidies, unemployment benefits, or any other form of public aid.
+17 Sec. 17. APPROPRIATIONS
+18 (a) In fiscal year 2027, $30,000,000.00 is appropriated to the Department
+19 from the General Fund for the following purposes:
+20 (1) $10,000,000.00 shall be used by the Department to operate the
+21 Temporary Emergency Housing and Accountability Program.
+VT LEG #386115 v.2
+
+BILL AS INTRODUCED H.594
+2026 Page 29 of 30
+1 (2) $6,000,000.00 shall be used by the Department to expand statewide
+2 shelter capacity.
+3 (3) $4,000,000.00 shall be used by the Department to contract for
+4 additional transitional and recovery housing developments.
+5 (4) $4,000,000.00 shall be used by the Department to contract for the
+6 repurposing of hotels and motels previously used for General Assistance
+7 emergency housing into transitional and workforce housing.
+8 (5) $6,000,000.00 shall be used by the Department for the expansion of
+9 VHIP-supported permanent housing units.
+10 (b) In fiscal year 2028, it is the intent of the General Assembly to
+11 appropriate $25,000,000.00 from the General Fund to the Department for the
+12 following purposes:
+13 (1) $8,000,000.00 shall be used by the Department to operate the
+14 Temporary Emergency Housing and Accountability Program.
+15 (2) $6,000,000.00 shall be used by the Department to expand statewide
+16 shelter capacity.
+17 (3) $3,000,000.00 shall be used by the Department to contract for
+18 additional transitional and recovery housing developments.
+19 (4) $3,000,000.00 shall be used by the Department to contract for the
+20 repurposing of hotels and motels previously used for General Assistance
+21 emergency housing into transitional and workforce housing.
+VT LEG #386115 v.2
+
+BILL AS INTRODUCED H.594
+2026 Page 30 of 30
+1 (5) $5,000,000.00 shall be used by the Department for the expansion of
+2 VHIP-supported permanent housing units.
+3 (c) Any fiscal year 2027 unexpended funds shall be carried forward to
+4 expand VHIP-supported housing units or expand shelter, recovery housing, or
+5 transitional housing capacity, or both. It is the intent of the General Assembly
+6 that any unexpended funds in fiscal year 2028 related to the Temporary
+7 Emergency Housing and Accountability Program be carried forward for the
+8 same purposes. Any funds carried forward pursuant to this section shall be
+9 identified in the report required pursuant to Sec. 15 of this act.
+10 Sec. 18. EFFECTIVE DATE
+11 This act shall take effect on July 1, 2026.
+VT LEG #386115 v.2

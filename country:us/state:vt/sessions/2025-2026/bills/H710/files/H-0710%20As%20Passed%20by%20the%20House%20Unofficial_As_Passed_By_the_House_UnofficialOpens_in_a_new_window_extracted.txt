@@ -1,0 +1,75 @@
+Title: 
+Official Title: 
+Source: versions - As Passed By the House (UnofficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+AS PASSED BY HOUSE H.710
+2026 Page 1 of 3
+1 H.710
+2 An act relating to defining electricity generating facilities
+3 It is hereby enacted by the General Assembly of the State of Vermont:
+4 Sec. 1. 30 V.S.A. § 8002 is amended to read:
+5 § 8002. DEFINITIONS
+6 As used in this chapter:
+7 * * *
+8 (18) “Plant” means an independent technical facility that generates
+9 electricity from renewable energy. A group of facilities, such as wind turbines,
+10 shall be considered one plant if the group is part of the same project and uses
+11 common equipment and infrastructure such as roads, control facilities, and
+12 connections to the electric grid. Common ownership, contiguity in time of
+13 construction, and proximity of facilities to each other shall be relevant to
+14 determining whether a group of facilities is part of the same project. Multiple
+15 electricity-generating facilities, regardless of when each is constructed, shall be
+16 considered one plant if the facilities use the same electricity-generating
+17 technology and are located on the same parcel or contiguous parcels of land.
+18 Such facilities shall only be considered separate plants if they meet one of the
+19 following exceptions:
+20 (A) Exception for individual net-metering and self-consumption.
+21 Applies if the facilities:
+VT LEG #387506 v.1
+
+AS PASSED BY HOUSE H.710
+2026 Page 2 of 3
+1 (i) are not located on the same parcel of land;
+2 (ii) are wired to offset consumption on separate billing meters; and
+3 (iii) supply different retail customers.
+4 (B) Exception for multi-owner individual net-metering on the same
+5 parcel. Applies if the facilities:
+6 (i) are located on the same parcel of land where a common interest
+7 community is located;
+8 (ii) are wired to offset consumption on separate billing meters; and
+9 (iii) supply different retail customers.
+10 (C) Exception for colocation of facilities other than net-metering
+11 program or Standard Offer Program facilities. Applies if the facilities have
+12 separate points of interconnection if:
+13 (i) a net-metering facility and a Standard Offer Program facility
+14 are not sited on the same parcel or contiguous parcels; and
+15 (ii) the statutory capacity cap for the net-metering program or the
+16 Standard Offer Program is not exceeded on the same parcel or contiguous
+17 parcels.
+18 * * *
+19 (33) “Common interest community” means real estate described in a
+20 declaration with respect to which a person, by virtue of the person’s ownership
+21 of a unit, is obligated to pay for a share of real estate taxes on, insurance
+VT LEG #387506 v.1
+
+AS PASSED BY HOUSE H.710
+2026 Page 3 of 3
+1 premiums, maintenance, or improvement of, or services or other expenses
+2 related to common elements, other units, or other real estate than that unit
+3 described in the declaration.
+4 (34) “Contiguous” means sharing a property boundary with another
+5 parcel of land or being adjacent to that parcel of land and the two parcels are
+6 separated only by a road, recreation path, railway line, stream, or river.
+7 (35) “Electricity-generating technology” means a method or system
+8 used to convert energy from one form into electric power, including wind,
+9 hydropower or water, solar, or biomass.
+10 (36) “Point of interconnection” means the point on the interconnecting
+11 utility’s existing distribution system to which a facility proposes to
+12 interconnect.
+13 Sec. 2. EFFECTIVE DATE
+14 This act shall take effect on July 1, 2026.
+VT LEG #387506 v.1

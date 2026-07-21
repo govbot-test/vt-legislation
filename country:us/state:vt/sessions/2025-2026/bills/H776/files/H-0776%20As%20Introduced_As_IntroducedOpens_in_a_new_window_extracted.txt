@@ -1,0 +1,89 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.776
+2026 Page 1 of 4
+1 H.776
+2 Introduced by Representatives Priestley of Bradford, Burrows of West
+3 Windsor, Chapin of East Montpelier, Cole of Hartford,
+4 Donahue of Northfield, Graning of Jericho, Headrick of
+5 Burlington, Holcombe of Norwich, McCann of Montpelier,
+6 McGill of Bridport, Mrowicki of Putney, Nugent of South
+7 Burlington, Ode of Burlington, Olson of Starksboro, Pouech of
+8 Hinesburg, Rachelson of Burlington, Scheu of Middlebury,
+9 Sweeney of Shelburne, Tomlinson of Winooski, and Torre of
+10 Moretown
+11 Referred to Committee on
+12 Date:
+13 Subject: Health; health insurance; artificial intelligence; coverage decisions
+14 Statement of purpose of bill as introduced: This bill proposes to regulate the
+15 use of artificial intelligence in health care coverage decisions.
+16 An act relating to the use of artificial intelligence in health care coverage
+17 decisions
+VT LEG #385694 v.1
+
+BILL AS INTRODUCED H.776
+2026 Page 2 of 4
+1 It is hereby enacted by the General Assembly of the State of Vermont:
+2 Sec. 1. 18 V.S.A. § 9423 is added to read:
+3 § 9423. USE OF ARTIFICIAL INTELLIGENCE IN COVERAGE
+4 DECISIONS
+5 (a) A health plan, as defined in section 9418 of this title, that uses an
+6 artificial intelligence, algorithm, or other software tool for the purpose of
+7 utilization review, or that contracts with or otherwise works through an entity
+8 that uses an artificial intelligence, algorithm, or other software tool for the
+9 purpose of utilization review, shall ensure all of the following:
+10 (1) The artificial intelligence, algorithm, or other software tool bases its
+11 determination on the following information, as applicable:
+12 (A) an insured’s medical or other clinical history;
+13 (B) the specific clinical circumstances as presented by the requesting
+14 health care provider; and
+15 (C) other relevant clinical information contained in the insured’s
+16 medical or other clinical record.
+17 (2) The artificial intelligence, algorithm, or other software tool does not
+18 base its determination solely on a group dataset.
+19 (3) The artificial intelligence, algorithm, or other software tool is fairly
+20 applied, including in accordance with any applicable regulations and guidance
+21 issued by the U.S. Department of Health and Human Services.
+VT LEG #385694 v.1
+
+BILL AS INTRODUCED H.776
+2026 Page 3 of 4
+1 (4) The artificial intelligence, algorithm, or other software tool is
+2 configured and applied in a standard, consistent manner for all health plans and
+3 insureds so that the resulting decisions are the same for all patients with similar
+4 clinical presentation and considerations.
+5 (5) The artificial intelligence, algorithm, or other software tool is open
+6 to inspection for audit or compliance reviews by the Department of Financial
+7 Regulation and by other State agencies and departments pursuant to applicable
+8 State and federal law.
+9 (6) Disclosures pertaining to the use of the artificial intelligence,
+10 algorithm, or other software tool in the utilization review process and the
+11 nature and degree of human review and oversight are contained in the health
+12 plan’s written policies and procedures to the extent required by the Department
+13 of Financial Regulation.
+14 (7) The artificial intelligence, algorithm, or other software tool’s
+15 performance, use, and outcomes are reviewed and revised at least quarterly to
+16 maximize accuracy and reliability.
+17 (8) The artificial intelligence, algorithm, or other software tool does not
+18 directly or indirectly cause harm to the insured.
+19 (b) The artificial intelligence, algorithm, or other software tool utilized by a
+20 health plan shall not deny, delay, or modify a determination of whether to
+21 authorize the coverage of health care services. An adverse coverage
+VT LEG #385694 v.1
+
+BILL AS INTRODUCED H.776
+2026 Page 4 of 4
+1 determination shall be made only by a licensed human health care provider
+2 who is competent to evaluate the specific clinical issues involved in the health
+3 care services requested by a treating health care provider by reviewing and
+4 considering the requesting provider’s recommendation; the insured’s medical
+5 or other clinical history, as appropriate; and the specific clinical circumstances.
+6 Sec. 2. EFFECTIVE DATE
+7 This act shall take effect on July 1, 2026.
+VT LEG #385694 v.1

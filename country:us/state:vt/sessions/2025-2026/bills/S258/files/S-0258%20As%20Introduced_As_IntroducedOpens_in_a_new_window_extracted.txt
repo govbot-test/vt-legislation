@@ -1,0 +1,215 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED S.258
+2026 Page 1 of 9
+1 S.258
+2 Introduced by Senators Chittenden, Perchlik and White
+3 Referred to Committee on
+4 Date:
+5 Subject: Motor vehicles; operator’s licenses; suspension and revocation;
+6 intelligent speed assistance devices
+7 Statement of purpose of bill as introduced: This bill proposes to require that
+8 individuals who have committed certain speeding violations or whose
+9 operator’s licenses or privilege to operate has been suspended or revoked due
+10 to speeding and other violations obtain an intelligent speed assistance restricted
+11 operator’s license or certificate and operate only vehicles equipped with an
+12 intelligent speed assistance device.
+13 An act relating to intelligent speed assistance devices
+14 It is hereby enacted by the General Assembly of the State of Vermont:
+15 Sec. 1. SHORT TITLE
+16 This act may be referred to as the “Super Speeder Accountability Act.”
+17 Sec. 2. 23 V.S.A. § 680 is added to read:
+18 § 680. INTELLIGENT SPEED ASSISTANCE DEVICES
+19 (a) As used in this section:
+VT LEG #385910 v.1
+
+BILL AS INTRODUCED S.258
+2026 Page 2 of 9
+1 (1) “Intelligent speed assistance certificate” means a restricted privilege
+2 to operate a motor vehicle issued by the Commissioner allowing a nonresident
+3 whose privilege to operate a motor vehicle in Vermont has been suspended or
+4 revoked or who has been convicted of operating a motor vehicle on a public
+5 highway in Vermont at a speed of 100 miles per hour or more to operate a
+6 motor vehicle, other than a commercial motor vehicle as defined in section
+7 4103 of this title, equipped with an approved intelligent speed assistance
+8 device.
+9 (2) “Intelligent speed assistance device” means an aftermarket device
+10 approved by the Commissioner that uses GPS to actively limit a motor
+11 vehicle’s speed to posted or preset speed limits. Intelligent speed assistance
+12 devices do not include any technology or device that is provided by a motor
+13 vehicle manufacturer as a component of a new motor vehicle and can control
+14 or affect the speed of the motor vehicle.
+15 (3) “Intelligent speed assistance restricted operator’s license” or
+16 “intelligent speed assistance ROL” means a restricted license to operate a
+17 motor vehicle issued by the Commissioner allowing a resident whose privilege
+18 to operate a motor vehicle in Vermont has been suspended or revoked or who
+19 has been convicted of operating a motor vehicle on a public highway in
+20 Vermont at a speed of 100 miles per hour or more to operate a motor vehicle,
+VT LEG #385910 v.1
+
+BILL AS INTRODUCED S.258
+2026 Page 3 of 9
+1 other than a commercial motor vehicle as defined in section 4103 of this title,
+2 equipped with an approved intelligent speed assistance device.
+3 (b)(1) An individual whose license or privilege to operate is suspended
+4 pursuant to subdivision 671(a)(2) of this chapter may operate a motor vehicle,
+5 other than a commercial motor vehicle as defined in section 4103 of this title,
+6 during the period of suspension if issued an intelligent speed assistance ROL
+7 or certificate pursuant to the provisions of this section.
+8 (2) An individual whose license or privilege to operate is revoked
+9 pursuant to section 673a of this title for moving violations that include one or
+10 more convictions in the past five years for operating a motor vehicle on a
+11 public highway in this State at a speed that was more than 30 miles per hour
+12 over and in excess of the speed limit may operate a motor vehicle, other than a
+13 commercial motor vehicle as defined in section 4103 of this title, during the
+14 period of revocation if issued an intelligent speed assistance ROL or certificate
+15 pursuant to the provisions of this section.
+16 (3) An individual whose license or privilege to operate is suspended
+17 pursuant to chapter 25 of this title for a period of 90 days or more and who has
+18 been convicted by any court in this State of one or more moving violations
+19 during the past two years in which the individual operated a motor vehicle on a
+20 public highway in this State at a speed that was over and in excess of the speed
+21 limit may operate a motor vehicle, other than a commercial motor vehicle as
+VT LEG #385910 v.1
+
+BILL AS INTRODUCED S.258
+2026 Page 4 of 9
+1 defined in section 4103 of this title, during the period of suspension if issued
+2 an intelligent speed assistance ROL or certificate pursuant to the provisions of
+3 this section.
+4 (c)(1) Upon application by an individual described in subsection (b) of this
+5 section who is otherwise licensed or eligible to be licensed to operate a motor
+6 vehicle, the Commissioner shall issue an intelligent speed assistance ROL or
+7 intelligent speed assistance certificate if the individual submits the following:
+8 (A) a $125.00 application fee; and
+9 (B) satisfactory proof of installation of an approved intelligent speed
+10 assistance device in any motor vehicle to be operated by the individual and of
+11 financial responsibility pursuant to the provisions of section 801 of this title.
+12 (2) An intelligent speed assistance ROL or intelligent speed assistance
+13 certificate shall expire at 12:00 midnight on the eve of the second birthday of
+14 the applicant following the date of issue and may be renewed for one-year
+15 terms. The Commissioner shall send by first-class mail an application for
+16 renewal of the intelligent speed assistance ROL or certificate at least 30 days
+17 prior to the day renewal is required and shall impose the same conditions for
+18 renewal as are required for initial issuance. The renewal fee shall be $125.00.
+19 (d) An individual required to install and use an intelligent speed assistance
+20 device pursuant to subsection (b) of this section shall be responsible for all
+21 costs related to installing, removing, purchasing or leasing, and maintaining the
+VT LEG #385910 v.1
+
+BILL AS INTRODUCED S.258
+2026 Page 5 of 9
+1 intelligent speed assistance device, as well as any costs related to calibrating
+2 the device and retrieving data from it periodically as required by the
+3 Commissioner.
+4 (e) The holder of an intelligent speed assistance ROL or intelligent speed
+5 assistance certificate shall, during the period required by the Commissioner
+6 pursuant to subsection (b) of this section, operate only motor vehicles in which
+7 an intelligent speed assistance device is installed.
+8 (f)(1) The holder of an intelligent speed assistance ROL or intelligent speed
+9 assistance certificate shall not attempt or take any action to tamper with or
+10 otherwise circumvent an intelligent speed assistance device.
+11 (2) A person shall not knowingly and voluntarily tamper with an
+12 intelligent speed assistance device on behalf of another person or otherwise
+13 assist another person in circumventing an intelligent speed assistance device.
+14 A person who violates this subdivision shall be assessed a civil penalty of not
+15 more than $500.00.
+16 (g) Upon receipt of notice that the holder of an intelligent speed assistance
+17 ROL or certificate has been convicted of an offense under this title that would
+18 result in suspension, revocation, or recall of a license or privilege to operate,
+19 the Commissioner shall suspend, revoke, or recall the individual’s intelligent
+20 speed assistance ROL or certificate for the same period that the license or
+21 privilege to operate would have been suspended, revoked, or recalled. The
+VT LEG #385910 v.1
+
+BILL AS INTRODUCED S.258
+2026 Page 6 of 9
+1 Commissioner may impose a reinstatement fee in accordance with section 675
+2 of this title and require, prior to reinstatement, satisfactory proof of installation
+3 of an approved intelligent speed assistance device.
+4 (h)(1)(A) The Commissioner, in consultation with any persons the
+5 Commissioner deems appropriate, shall adopt rules and may enter into
+6 agreements to implement the provisions of this section.
+7 (B) The rules shall establish:
+8 (i) uniform performance standards for intelligent speed assistance
+9 devices, including required levels of accuracy;
+10 (ii) requirements for periodic calibration to ensure accuracy of the
+11 devices;
+12 (iii) the means and frequency of the retrieval and sharing with the
+13 Department of data collected by intelligent speed assistance devices; and
+14 (iv) a schedule of extensions of the period prior to eligibility for
+15 reinstatement for violations of the provisions of this section or the rules
+16 adopted pursuant to this subsection (h).
+17 (2) An individual who holds an intelligent speed assistance ROL or
+18 certificate and violates a rule adopted by the Commissioner pursuant to
+19 subdivision (1) of this subsection or a provision of this section shall, after
+20 notice and an opportunity to be heard, be subject to an extension of the period
+21 prior to eligibility for reinstatement in accordance with the rules adopted by the
+VT LEG #385910 v.1
+
+BILL AS INTRODUCED S.258
+2026 Page 7 of 9
+1 Commissioner pursuant to this subsection. The extension of the period prior to
+2 eligibility for reinstatement shall be in addition to any other penalties imposed
+3 by law.
+4 (3) The Commissioner shall not approve a manufacturer of intelligent
+5 speed assistance devices as a provider in this State unless the manufacturer
+6 agrees to reduce the cost of installing, leasing, and uninstalling the device by at
+7 least 50 percent for persons who furnish proof of receipt of 3SquaresVT,
+8 LIHEAP, or Reach Up benefits or similar benefits in another state.
+9 (i)(1) All individually identifiable information in the custody of a public
+10 agency related to the use of an intelligent speed assistance device shall be
+11 exempt from public inspection and copying under the Public Records Act and
+12 shall not be disclosed except:
+13 (A) pursuant to a warrant;
+14 (B) if a law enforcement officer, in good faith, believes that an
+15 emergency involving danger of death or serious bodily injury to any person
+16 requires access to the information without delay; or
+17 (C) in connection with enforcement proceedings under this section or
+18 rules adopted pursuant to this section.
+19 (2) Information disclosed in violation of this subsection shall be
+20 inadmissible in any judicial or administrative proceeding.
+VT LEG #385910 v.1
+
+BILL AS INTRODUCED S.258
+2026 Page 8 of 9
+1 Sec. 3. 23 V.S.A. § 671 is amended to read:
+2 § 671. PROCEDURE
+3 (a)(1) In Except as otherwise provided in subdivision (2) of this subsection,
+4 in the Commissioner’s discretion, the Commissioner may suspend indefinitely
+5 or for a definite time the license of an operator, or the right of an unlicensed
+6 individual to operate a motor vehicle, after opportunity for a hearing upon not
+7 less than 15 days’ notice, if the Commissioner has reason to believe that the
+8 holder of the license or right to operate is an individual who is incompetent to
+9 operate a motor vehicle or is operating improperly so as to endanger the public.
+10 If, upon receipt of such notice, the individual requests a hearing, the
+11 suspension shall not take effect unless the Commissioner, after hearing,
+12 determines that the suspension is justified. If the Commissioner imposes a
+13 suspension, the Commissioner may order the license delivered to the
+14 Commissioner. Not less than six months from the date of suspension and after
+15 each subsequent six months, an individual upon whom such suspension has
+16 been imposed may apply for reinstatement of the individual’s license or right
+17 to operate or for a new license. Upon receipt of such application, the
+18 Commissioner shall cause an investigation to be made and, if so requested,
+19 conduct a hearing to determine whether such suspension should be continued
+20 in effect.
+VT LEG #385910 v.1
+
+BILL AS INTRODUCED S.258
+2026 Page 9 of 9
+1 (2) The Commissioner shall suspend the license or privilege to operate
+2 of any individual who is convicted of operating a motor vehicle on a public
+3 highway at a speed of 100 miles per hour or more for a period of:
+4 (A) six months for the first conviction;
+5 (B) one year for the second conviction; and
+6 (C) two years for a third or subsequent conviction.
+7 * * *
+8 Sec. 4. EFFECTIVE DATE
+9 This act shall take effect on July 1, 2026.
+VT LEG #385910 v.1

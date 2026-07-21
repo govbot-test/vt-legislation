@@ -1,0 +1,197 @@
+Title: 
+Official Title: 
+Source: versions - As Passed by Both House and Senate (UnofficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+AS PASSED BY HOUSE AND SENATE H.710
+2026 Page 1 of 8
+1 H.710
+2 An act relating to defining electricity generating facilities
+3 It is hereby enacted by the General Assembly of the State of Vermont:
+4 Sec. 1. 30 V.S.A. § 8002 is amended to read:
+5 § 8002. DEFINITIONS
+6 As used in this chapter:
+7 * * *
+8 (18) “Plant” means an independent technical facility that generates
+9 electricity from renewable energy. A group of facilities, such as wind turbines,
+10 shall be considered one plant if the group is part of the same project and uses
+11 common equipment and infrastructure such as roads, control facilities, and
+12 connections to the electric grid. Common ownership, contiguity in time of
+13 construction, and proximity of facilities to each other shall be relevant to
+14 determining whether a group of facilities is part of the same project. Multiple
+15 electricity-generating facilities, regardless of when each is constructed, shall be
+16 considered one plant if the facilities use the same electricity-generating
+17 technology and are located on the same parcel or contiguous parcels of land.
+18 However, such facilities shall be considered separate plants if:
+19 (A) the facilities are for individual net metering or self-consumption
+20 and:
+21 (i) are not located on the same parcel of land;
+22 (ii) are wired to offset consumption on separate billing meters; and
+VT LEG #390100 v.1
+
+AS PASSED BY HOUSE AND SENATE H.710
+2026 Page 2 of 8
+1 (iii) supply different retail customers;
+2 (B) the facilities are for multi-owner individual net metering and:
+3 (i) are located on the same parcel of land where a common interest
+4 community is located;
+5 (ii) are wired to offset consumption on separate billing meters; and
+6 (iii) supply different retail customers; or
+7 (C) the facilities have separate points of interconnection and:
+8 (i) a net-metering facility and a Standard Offer Program facility
+9 are not sited on the same parcel or contiguous parcels; and
+10 (ii) for facilities under each program, the total capacity located on
+11 a parcel or contiguous parcels does not exceed the program’s statutory capacity
+12 cap.
+13 * * *
+14 (33) “Common interest community” means real estate described in a
+15 declaration with respect to which a person, by virtue of the person’s ownership
+16 of a unit, is obligated to pay for a share of real estate taxes on; insurance
+17 premiums, maintenance, or improvement of; or services or other expenses
+18 related to common elements, other units, or other real estate than the unit
+19 described in the declaration.
+VT LEG #390100 v.1
+
+AS PASSED BY HOUSE AND SENATE H.710
+2026 Page 3 of 8
+1 (34) “Contiguous” means sharing a property boundary with another
+2 parcel of land or being adjacent to that parcel of land and the two parcels are
+3 separated only by a road, recreation path, railway line, stream, or river.
+4 (35) “Electricity-generating technology” means a method or system
+5 used to convert energy from one form into electric power, including wind,
+6 hydropower or water, solar, or biomass.
+7 (36) “Point of interconnection” means the point on the interconnecting
+8 utility’s existing distribution system to which a facility proposes to
+9 interconnect.
+10 Sec. 2. LEGISLATIVE INTENT
+11 It is the intent of the General Assembly that the amendments in Sec. 1,
+12 30 VSA 8002, of this act are substantive and create new rights and liabilities in
+13 light of emerging issues and shall apply only to applications filed on or after
+14 the effective date of this act.
+15 Sec. 2a. PRIMARY AGRICULTURAL SOILS AND SOLAR REPORT
+16 (a) On or before January 15, 2027, the Commissioner of Public Service,
+17 after consultation with the Secretary of Agriculture, Food and Markets, the
+18 Public Utility Commission, and the Agency of Natural Resources, shall report
+19 back on the following questions:
+20 (1) In the last two years, for solar energy generation projects with a
+21 capacity of 1 MW or greater, how many acres of primary agricultural soils
+VT LEG #390100 v.1
+
+AS PASSED BY HOUSE AND SENATE H.710
+2026 Page 4 of 8
+1 used for solar energy generation development were directly impacted by the
+2 project, as opposed to the acreage that is within the project’s area of
+3 disturbance?
+4 (2) In the last two years, what are the cumulative impacts, in acres, of
+5 forest clearing associated with solar energy generation projects with a capacity
+6 of 1 MW or greater, and what are the specific impacts on the Highest Priority
+7 Landscapes identified by Vermont Conservation Design as well as any impacts
+8 on State-Significant natural communities?
+9 (b) The Commissioner shall include in the report recommendations on how
+10 to encourage the siting of solar energy generation on land that has already been
+11 disturbed, including rooftops and parking lots, and potential financial
+12 structures that would make solar energy generation on those sites more
+13 financially feasible.
+14 (c) The report shall be submitted to the House Committees on Agriculture,
+15 Food Resiliency, and Forestry and on Energy and Digital Infrastructure and the
+16 Senate Committees on Agriculture and on Natural Resources and Energy.
+17 Sec. 3. 30 V.S.A. § 20 is amended to read:
+18 § 20. PARTICULAR PROCEEDINGS AND ACTIVITIES; PERSONNEL
+19 (a)(1) The Commission or the Department of Public Service may authorize
+20 or retain legal counsel, official stenographers, expert witnesses, advisors and
+VT LEG #390100 v.1
+
+AS PASSED BY HOUSE AND SENATE H.710
+2026 Page 5 of 8
+1 consultants, temporary employees, and other providers of research, scientific,
+2 financial, economic, actuarial, accounting, or engineering services:
+3 * * *
+4 (F) To investigate, review, plan, oversee, or carry out the
+5 decommissioning and site restoration required by a certificate of public good
+6 issued to an electric generation or energy storage facility.
+7 * * *
+8 Sec. 4. 30 V.S.A. § 248e is added to read:
+9 § 248e. ELECTRIC GENERATION AND ENERGY STORAGE FACILITY
+10 DECOMMISSIONING FUND
+11 (a) There is created the Electric Generation and Energy Storage Facility
+12 Decommissioning Fund that shall be a special fund created pursuant to
+13 32 V.S.A. chapter 7, subchapter 5 and shall be administered by the Chair of the
+14 Public Utility Commission. The Chair is authorized to collect surety fees for
+15 the Decommissioning Fund and to make disbursements from the
+16 Decommissioning Fund.
+17 (b) Deposits to the Decommissioning Fund shall consist of all
+18 decommissioning surety fees collected for electric generation and energy
+19 storage facilities that have received a certificate of public good from the
+20 Commission and all monies drawn from decommissioning financial
+VT LEG #390100 v.1
+
+AS PASSED BY HOUSE AND SENATE H.710
+2026 Page 6 of 8
+1 instruments. The Commission shall deposit into the Decommissioning Fund
+2 each decommissioning surety fee it receives under this subchapter.
+3 (c) Disbursements from the Decommissioning Fund may be made by the
+4 Chair to undertake actions that the Commission considers necessary to
+5 investigate or mitigate, or both, the effects of an abandoned, nonoperational, or
+6 disclaimed electric generation or energy storage facility. Disbursements under
+7 this subsection may be made to:
+8 (1) pay costs to third parties who initiate or complete facility
+9 decommissioning and site restoration where the holder of the certificate of
+10 public good is unknown, cannot be contacted, is unwilling to take action, is
+11 incapable of carrying out decommissioning or site restoration, or does not take
+12 timely action as ordered by the Commission;
+13 (2) investigate ownership of or ascertain the holder of the certificate of
+14 public good for an electric generation or energy storage facility;
+15 (3) take other appropriate remedial action;
+16 (4) pay costs to persons retained by the Commission or the Department
+17 under subdivision 20(a)(1)(F) of this title; or
+18 (5) return portions of the decommissioning surety fees as determined by
+19 a formula established by the Commission to individual certificate of public
+20 good holders upon satisfactory completion of decommissioning and
+21 Commission approval.
+VT LEG #390100 v.1
+
+AS PASSED BY HOUSE AND SENATE H.710
+2026 Page 7 of 8
+1 (d) For purposes of this section:
+2 (1) “Chair” means the Chair of the Public Utility Commission.
+3 (2) “Commission” means the Public Utility Commission.
+4 (3) “Decommissioning” means to remove a facility safely from service
+5 and to restore the site to its condition before the facility was installed
+6 consistent with the facility’s certificate of public good and Commission rules
+7 and orders.
+8 (4) “Decommissioning Fund” means the Electric Generation and Energy
+9 Storage Facility Decommissioning Fund established pursuant to this section.
+10 (5) “Decommissioning surety fee” means the contribution assigned to a
+11 facility and determined by a funding formula established by the Commission,
+12 not to exceed the average cumulative cost of obtaining decommissioning
+13 financial instruments for the life of a facility. The “average cumulative cost”
+14 means the customary and reasonable market-based third-party costs; expenses
+15 and fees associated with obtaining, maintaining, renewing, and updating
+16 financial instruments; and staff and attorney time and expenses.
+17 (6) “Department” means the Department of Public Service.
+18 (e) Balances in the Decommissioning Fund shall be expended only for the
+19 purposes authorized in this section and shall not be used for the general
+20 obligations of government or for other governmental purposes. All balances in
+21 the Decommissioning Fund at the end of any fiscal year shall be carried
+VT LEG #390100 v.1
+
+AS PASSED BY HOUSE AND SENATE H.710
+2026 Page 8 of 8
+1 forward and remain within the Decommissioning Fund. Interest earned by the
+2 Decommissioning Fund shall be credited to the Decommissioning Fund.
+3 (f) The Commission shall have authority to adopt rules or issue orders
+4 implementing this section.
+5 (g) The Commission shall provide to the Treasurer of the State of Vermont
+6 an annual accounting of the Decommissioning Fund.
+7 Sec. 5. DECOMMISSIONING FUND REPORT
+8 On or before February 15, 2027, the Public Utility Commission shall report
+9 back to the House Committee on Energy and Digital Infrastructure and the
+10 Senate Committees on Natural Resources and Energy and on Finance on the
+11 formula established for the decommissioning surety fees pursuant to 30 V.S.A.
+12 § 248e.
+13 Sec. 6. EFFECTIVE DATE
+14 This act shall take effect on July 1, 2026.
+VT LEG #390100 v.1

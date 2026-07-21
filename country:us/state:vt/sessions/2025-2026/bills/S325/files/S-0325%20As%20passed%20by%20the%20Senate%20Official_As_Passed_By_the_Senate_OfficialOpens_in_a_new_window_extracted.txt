@@ -1,0 +1,771 @@
+Title: 
+Official Title: 
+Source: versions - As Passed By the Senate (OfficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.325
+2026 Page 1 of 21
+1 S.325
+2 Introduced by Committee on Natural Resources and Energy
+3 Date: January 30, 2026
+4 Subject: Conservation and development; land use; municipal zoning; housing
+5 Statement of purpose of bill as introduced: This bill proposes to establish a
+6 task force to develop a detailed proposal to create residential opportunity
+7 overlay districts.
+8 An act relating to studying the creation of model bylaws
+An act relating to regional planning and Act 250 Tier jurisdiction
+9 It is hereby enacted by the General Assembly of the State of Vermont:
+10 Sec. 1. RESIDENTIALOPPORTUNITY OVERLAY DISTRICTS; TASK
+11 FORCE
+12 (a) Creation. There is created a task force to develop and recommend a
+13 detailed proposal to create residential opportunity overlay districts. These
+14 districts would be governed by a code of model zoning bylaws that address all
+15 critical land use issues with clear and objective standards. Once codes are
+16 developed and published, municipalities would have the option to adopt the
+17 codes in areas. In those areas, residential development that meets the
+18 requirements of the code would be submitted to a zoning administrator for a
+19 certificate of compliance. There would be no hearing or review of residential
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.325
+2026 Page 2 of 21
+1 development applications by an appropriate municipal panel or an appeal.
+2 Grants would be available for municipalities seeking to adopt the model code.
+3 A State agency would oversee municipal adoption of the code to ensure that
+4 the districts would be designed to allow for housing density that would be
+5 dense enough to meet that municipality’s share of the State’s housing targets.
+6 (b) Membership. The task force shall have nine members with expertise
+7 related to planning and zoning. The members shall be the following:
+8 (1) one member of the House, appointed by the Speaker of the House;
+9 (2) one member of the Senate, appointed by the President Pro Tempore
+10 of the Senate;
+11 (3) a representative of the Vermont Association of Planning and
+12 Development Agencies;
+13 (4) the Commissioner of Housing and Community Development or
+14 designee;
+15 (5) a representative from the Vermont Natural Resources Council;
+16 (6) a representative from the Vermont League of Cities and Towns;
+17 (7) a representative from Let’s Build Homes;
+18 (8) a representative from the affordable housing development
+19 community, appointed by the President Pro Tempore of the Senate; and
+20 (9) a town planner, appointed by the Speaker of the House.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.325
+2026 Page 3 of 21
+1 (c) Powers and duties. The task force shall:
+2 (1) develop illustrated model codes that use only clear and objective
+3 standards for critical land use issues, embed New England town-building
+4 principles, and integrate flood and historic protections;
+5 (2) propose how these codes will be administered and which entity
+6 would oversee them; and
+7 (3) recommend the process for how municipalities would adopt these
+8 codes.
+9 (d) Assistance. The task force shall have the administrative, technical, and
+10 legal assistance of the Department of Housing and Community Development.
+11 The Department may hire a third-party consultant to assist and staff the task
+12 force, which may be funded by monies appropriated by the General Assembly
+13 or any grant funding received.
+14 (e) Report. On or before December 1, 2026, the task force shall submit a
+15 written report to the House Committees on Environment and on General and
+16 Housing and the Senate Committees on Economic Development, Housing and
+17 General Affairs and on Natural Resources and Energy with its model codes
+18 and recommendations for legislative action.
+19 (f) Meetings.
+20 (1) The Commissioner of Housing and Community Development shall
+21 call the first meeting of the task force to occur on or before August 1, 2026.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.325
+2026 Page 4 of 21
+1 (2) The task force shall elect a chair from among its members at the first
+2 meeting.
+3 (3) A majority of the membership shall constitute a quorum.
+4 (4) The task force shall cease to exist on December 31, 2026.
+5 (g) Compensation and reimbursement.
+6 (1) For attendance at meetings during adjournment of the General
+7 Assembly, a legislative member of the task force serving in the legislator’s
+8 capacity as a legislator shall be entitled to per diem compensation and
+9 reimbursement of expenses pursuant to 2 V.S.A. § 23 for not more than six
+10 meetings.
+11 (2) Other members of the task force who are not otherwise compensated
+12 by their employer shall be entitled to per diem compensation and
+13 reimbursement of expenses as permitted under 32 V.S.A. § 1010 for not more
+14 than sixmeetings.
+15 (3) The payments under this subsection shall be made from monies
+16 appropriated by the General Assembly.
+17 Sec. 2. EFFECTIVE DATE
+18 This act shall take effect on passage.
+* * * Intent * * *
+Sec. 1. LEGISLATIVE INTENT
+The General Assembly finds that 2024 Acts and Resolves No. 181
+represented a substantial restructuring of Vermont’s land use review
+framework. This act is intended to provide technical clarification, transitional
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.325
+2026 Page 5 of 21
+certainty, and implementation alignment, consistent with the intent of 2024
+Acts and Resolves No. 181 and without altering its underlying policy goals.
+* * * Act 250 * * *
+Sec. 2. 10 V.S.A. § 6001(3) is amended to read:
+(3)(A) “Development” means each of the following:
+* * *
+(xii) The construction of a road or roads and any associated
+driveways to provide access to or within a tract of land owned or controlled by
+a person. For the purposes of determining jurisdiction under this subdivision,
+any new development or subdivision on a parcel of land that will be provided
+access by the road and associated driveways is land involved in the
+construction of the road.
+* * *
+(III) For the purpose of determining the length of any road and
+associated driveways, the length of all other roads and driveways within the
+tract of land constructed after July 1 January 1, 2026 2030, shall be included.
+* * *
+(D) The word “development” does not include:
+* * *
+(viii)(I) The construction of a priority housing project in a
+municipality with a population of 10,000 or more.
+* * *
+(III) Notwithstanding any other provision of law to the
+contrary, until January 1, 2027 2028, the construction of a priority housing
+project located entirely within areas of a designated downtown development
+district, designated neighborhood development area, or a designated growth
+center or within one-half mile around such designated center with permanent
+zoning and subdivision bylaws served by public sewer or water services or
+soils that are adequate for wastewater disposal. For purposes of this
+subdivision (III), in order for a parcel to qualify for the exemption, at least 51
+percent of the parcel shall be located within one-half mile of the designated
+center boundary. If the one-half mile around the designated center extends
+into an adjacent municipality, the legislative body of the adjacent municipal
+municipality may inform the Board that it does not want the exemption to
+extend into that area. This exemption shall not apply to areas within mapped
+river corridors and floodplains except those areas containing preexisting
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.325
+2026 Page 6 of 21
+development in areas suitable for infill development as defined in 29-201 of the
+Vermont Flood Hazard Area and River Corridor Rule.
+Sec. 3. 10 V.S.A. § 6001(35) is amended to read:
+(35) “Priority housing project” means a discrete project located on a
+single tract or multiple contiguous tracts of land that consists exclusively of
+mixed income housing or mixed use, or any combination thereof, and is
+located entirely within designated downtown development district, designated
+new town center, designated growth center, or designated neighborhood
+development area under 24 V.S.A. chapter 76A, or within an area mapped and
+approved by the Board as eligible for Tier 1B area status and is not currently
+approved for Tier 1B area status under section 6033 of this chapter.
+Sec. 4. 10 V.S.A. § 6081 is amended to read:
+§ 6081. PERMITS REQUIRED; EXEMPTIONS
+* * *
+(z)(1) Notwithstanding any other provision of this chapter to the contrary,
+no permit or permit amendment is required for any subdivision, development,
+or change to an existing project that is located entirely within a Tier 1A area
+under as established in section 6034 of this chapter.
+* * *
+(3) Upon receiving notice and a copy of the permit issued by an
+appropriate municipal panel pursuant to 24 V.S.A. § 4460(g), a previously
+issued permit for a development or subdivision located in a Tier 1A area shall
+remain attached to the property. However, neither the Board nor the Agency of
+Natural Resources shall enforce the permit or assert amendment jurisdiction
+on the tract or tracts of land unless the designation is revoked or the
+municipality has not taken any reasonable action to enforce the conditions of
+the permit.
+* * *
+(bb) Until July January 1, 2028 2030, no permit or permit amendment is
+required for the construction of improvements for one accessory dwelling unit
+constructed within or appurtenant to a single-family dwelling. Units
+constructed pursuant to this subsection shall not count towards the total units
+constructed in other projects.
+(cc) Until July January 1, 2028 2030, no permit or permit amendment is
+required for the construction of improvements for converting a structure used
+for a commercial purpose to 29 or fewer housing units.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.325
+2026 Page 7 of 21
+(dd) Interim housing exemptions.
+(1) Notwithstanding any other provision of law to the contrary, until
+January 1, 2027 2030, no permit or permit amendment is required for the
+subdivision for or the construction of housing projects such as cooperatives,
+condominiums, dwellings, or mobile homes, and mixed-use development, with
+75 units or fewer, constructed or maintained on a tract or tracts of land,
+located entirely within the areas of a designated new town center, a designated
+growth center, or a designated neighborhood development area served by
+public sewer or water services or soils that are adequate for wastewater
+disposal. Housing units constructed pursuant to this subdivision shall not
+count towards the total units constructed in other areas. This exemption shall
+not apply to areas within mapped river corridors and floodplains except those
+areas containing preexisting development in areas suitable for infill
+development as defined in 29-201 of the Vermont Flood Hazard Area and
+River Corridor Rule.
+(2)(A) Notwithstanding any other provision of law to the contrary, until
+July January 1, 2027 2030, no permit or permit amendment is required for the
+subdivision for or the construction of housing projects such as cooperatives,
+condominiums, dwellings, or mobile homes, and mixed-use development, with
+50 or fewer units, constructed or maintained on a tract or tracts of land of 10
+acres or less, located entirely within:
+(i) areas of a designated village center and within one-quarter
+mile of its boundary with permanent zoning and subdivision bylaws and served
+by public sewer or water services or soils that are adequate for wastewater
+disposal; or
+(ii) areas of a municipality that are within a census-designated
+urbanized area with over 50,000 residents and within one-quarter mile of a
+transit route.
+* * *
+(3) Notwithstanding any other provision of law to the contrary, until
+January 1, 2027 2030, no permit or permit amendment is required for the
+subdivision for or the construction of housing projects such as cooperatives,
+condominiums, dwellings, or mobile homes, and mixed-use development,
+constructed or maintained on a tract or tracts of land, located entirely within a
+designated downtown development district with permanent zoning and
+subdivision bylaws served by public sewer or water services or soils that are
+adequate for wastewater disposal. Housing units constructed pursuant to this
+subdivision shall not count towards the total units constructed in other areas.
+This exemption shall not apply to areas within mapped river corridors and
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.325
+2026 Page 8 of 21
+floodplains except those areas containing preexisting development in areas
+suitable for infill development as defined in 29-201 of the Vermont Flood
+Hazard Area and River Corridor Rule.
+(4) Notwithstanding any other provision of law to the contrary, until
+January 1, 2030, no permit or permit amendment is required for the
+subdivision for or the construction of 50 units or fewer of housing with at least
+20 percent of the units with mixed income housing or mixed-use development,
+constructed or maintained on a tract or tracts of land, located within areas of
+a designated village center and within one-quarter mile of its boundary served
+by public sewer or water services or soils that are adequate for wastewater
+disposal.
+Sec. 4. 10 V.S.A. § 6081 is amended to read:
+§ 6081. PERMITS REQUIRED; EXEMPTIONS
+* * *
+(z)(1) Notwithstanding any other provision of this chapter to the contrary,
+no permit or permit amendment is required for any subdivision, development,
+or change to an existing project that is located entirely within a Tier 1A area
+under as established in section 6034 of this chapter.
+(2) Notwithstanding any other provision of this chapter to the contrary,
+no permit or permit amendment is required within a Tier 1B area approved by
+the Board under section 6033 of this chapter for 50 units or fewer of housing
+on a tract or tracts of land involving 10 acres or less or for mixed-use
+development with 50 units or fewer of housing on a tract or tracts of land
+involving 10 acres or less.
+(3) Upon receiving notice and a copy of the permit issued by an
+appropriate municipal panel pursuant to 24 V.S.A. § 4460(g), a previously
+issued permit for a development or subdivision located in a Tier 1A area shall
+remain attached to the property. However, neither the Board nor the Agency of
+Natural Resources shall enforce the permit or assert amendment jurisdiction
+on the tract or tracts of land unless the designation is revoked or the
+municipality has not taken any reasonable action to enforce the conditions of
+the permit.
+* * *
+(bb) Until July January 1, 2028 2030, no permit or permit amendment is
+required for the construction of improvements for one accessory dwelling unit
+constructed within or appurtenant to a single-family dwelling. Units
+constructed pursuant to this subsection shall not count towards the total units
+constructed in other projects.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.325
+2026 Page 9 of 21
+(cc) Until July January 1, 2028 2030, no permit or permit amendment is
+required for the construction of improvements for converting a structure used
+for a commercial purpose to 29 or fewer housing units.
+(dd) Interim housing exemptions.
+(1) Notwithstanding any other provision of law to the contrary, until
+January 1, 2027 2030, no permit or permit amendment is required for the
+subdivision for or the construction of housing projects such as cooperatives,
+condominiums, dwellings, or mobile homes, and mixed-use development, with
+75 units or fewer, constructed or maintained on a tract or tracts of land,
+located entirely within the areas of a designated new town center, a designated
+growth center, or a designated neighborhood development area served by
+public sewer or water services or soils that are adequate for wastewater
+disposal. Housing units constructed pursuant to this subdivision shall not
+count towards the total units constructed in other areas. This exemption shall
+not apply to areas within mapped river corridors and floodplains except those
+areas containing preexisting development in areas suitable for infill
+development as defined in 29-201 of the Vermont Flood Hazard Area and
+River Corridor Rule.
+(2)(A) Notwithstanding any other provision of law to the contrary, until
+July January 1, 2027 2030, no permit or permit amendment is required for the
+subdivision for or the construction of housing projects such as cooperatives,
+condominiums, dwellings, or mobile homes, and mixed-use development, with
+50 or fewer units, constructed or maintained on a tract or tracts of land of 10
+acres or less, located entirely within:
+(i) areas of a designated village center and within one-quarter
+mile of its boundary with permanent zoning and subdivision bylaws and served
+by public sewer or water services or soils that are adequate for wastewater
+disposal; or
+(ii) areas of a municipality that are within a census-designated
+urbanized area with over 50,000 residents and within one-quarter mile of a
+transit route.
+* * *
+(3) Notwithstanding any other provision of law to the contrary, until
+January 1, 2027 2030, no permit or permit amendment is required for the
+subdivision for or the construction of housing projects such as cooperatives,
+condominiums, dwellings, or mobile homes, and mixed-use development,
+constructed or maintained on a tract or tracts of land, located entirely within a
+designated downtown development district with permanent zoning and
+subdivision bylaws served by public sewer or water services or soils that are
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.325
+2026 Page 10 of 21
+adequate for wastewater disposal. Housing units constructed pursuant to this
+subdivision shall not count towards the total units constructed in other areas.
+This exemption shall not apply to areas within mapped river corridors and
+floodplains except those areas containing preexisting development in areas
+suitable for infill development as defined in 29-201 of the Vermont Flood
+Hazard Area and River Corridor Rule.
+(4) Notwithstanding any other provision of law to the contrary, until
+January 1, 2030, no permit or permit amendment is required for the
+subdivision for or the construction of 50 units or fewer of housing with at least
+20 percent of the units with mixed income housing or mixed-use development,
+constructed or maintained on a tract or tracts of land, located within areas of
+a designated village center and within one-quarter mile of its boundary served
+by public sewer or water services or soils that are adequate for wastewater
+disposal.
+Sec. 5. 2024 Acts and Resolves No. 181, Sec. 22 is amended to read:
+Sec. 22. TIER 3 RULEMAKING
+(a) The Land Use Review Board, in consultation with the Secretary of
+Natural Resources, shall adopt rules to implement the requirements for the
+administration of 10 V.S.A. § 6001(3)(A)(xiii) and 10 V.S.A. § 6001(46) and
+(19). It is the intent of the General Assembly that these rules identify critical
+natural resources for protection. The Board shall review the definition of Tier
+3 area; determine the critical natural resources that shall be included in Tier 3,
+giving due consideration to river corridors, headwater streams, habitat
+connectors of statewide significance, riparian areas, class A waters, and
+natural communities; determine any additional critical natural resources that
+should be added to the definition; include measures to ensure that no
+municipality or region is disproportionately impacted by Tier 3 designation
+that would limit reasonable opportunities for Tier 1 or Tier 2 designations;
+determine which and under what circumstances criteria under 10 V.S.A. §
+6086(a)(1)–(10) should be part of Tier 3 area review; and determine how to
+define the boundaries. Rules adopted by the Board shall include:
+* * *
+(c) The Board shall file a final proposed rule with the Secretary of State
+and the Legislative Committee on Administrative Rules on or before February
+1 June 30, 2026 2028. After the Land Use Review Board files the rule with the
+Legislative Committee on Administrative Rules, it shall submit a report
+describing the rules and the issues reviewed under this section to the House
+Committee on Environment and Energy and the Senate Committee on Natural
+Resources and Energy.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.325
+2026 Page 11 of 21
+* * *
+Sec. 6. 10 V.S.A. § 6025 is amended to read:
+§ 6025. RULES
+* * *
+(d) Consistent with the intent of subdivision 6001(3)(A)(xii) and the Tier 3
+rulemaking requirements, the Board shall have authority to adopt rules
+establishing a process to limit the criteria that would apply to road
+development pursuant to subdivision 6001(3)(A)(xii) and development within
+Tier 3 areas. The rules shall define which criteria will be reviewed and under
+what circumstances.
+Sec. 7. 2024 Acts and Resolves No. 181, Sec. 114 is amended to read:
+Sec. 114. EFFECTIVE DATES
+This act shall take effect on passage, except that:
+(1) Secs. 12 (10 V.S.A. § 6001), and 13 (10 V.S.A. § 6086(a)(8)), and 21
+(10 V.S.A. § 6001) shall take effect on December 31, 2026 January 1, 2028
+and Sec. 21 (10 V.S.A. § 6001) shall take effect on June 30, 2028;
+(2) Sec. 19 (10 V.S.A. § 6001(3)(A)(xii)) shall take effect on July 1, 2026
+January 1, 2030;
+* * *
+Sec. 8. 10 V.S.A. § 6034 is amended to read:
+§ 6034. TIER 1A AREA STATUS
+* * *
+(b) Tier 1A area status requirements.
+(1) To obtain a Tier 1A area status under this section, a municipality
+shall demonstrate to the Board that it has each of the following:
+* * *
+(G) The municipality has identified and planned for the maintenance
+of significant natural communities, rare, threatened, and endangered species
+located in the Tier 1A area or excluded those areas from the Tier 1A area.
+* * *
+* * * Municipal zoning * * *
+Sec. 9. 24 V.S.A. § 4460 is amended to read:
+§ 4460. APPROPRIATE MUNICIPAL PANELS
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.325
+2026 Page 12 of 21
+* * *
+(g)(1) This subsection shall apply to a subdivision or development that:
+(A) was previously permitted pursuant to 10 V.S.A. chapter 151;
+(B) is located in a Tier 1A area pursuant to 10 V.S.A. § 6034; and
+(C) has applied for a permit or permit amendment required by zoning
+regulations or bylaws adopted pursuant to this subchapter.
+(2) The appropriate municipal panel reviewing a municipal permit or
+permit amendment pursuant to this subsection shall include conditions
+contained within a permit previously issued pursuant to 10 V.S.A. chapter 151,
+so that the conditions may be enforced as part of the municipal permit, unless
+the panel determines that the permit condition pertains to any of the following:
+(A) the construction phase of the project that has already been
+constructed;
+(B) compliance with another State permit that has independent
+jurisdiction;
+(C) federal or State law that is no longer in effect or applicable;
+(D) an issue that is addressed by municipal regulation and the
+project will meet the municipal standards; or
+(E) a physical or use condition that is no longer in effect or
+applicable or that will no longer be in effect or applicable once the new
+project is approved.
+(3) After issuing or amending a permit containing conditions pursuant
+to this subsection, the appropriate municipal panel shall provide notice and a
+copy of the permit to the Land Use Review Board.
+(4) The appropriate municipal panel shall comply with the notice and
+hearing requirements provided in subdivision 4464(a)(1) of this title. In
+addition, notice shall be provided to those persons requiring notice under
+10 V.S.A. § 6084(b) and shall explicitly reference the existing Act 250 permit.
+(5) The appropriate municipal panel’s decision shall be issued in
+accordance with subsection 4464(b) of this title and shall include specific
+findings with respect to its determinations pursuant to subdivision (2) of this
+subsection.
+(6) Any final action by the appropriate municipal panel affecting a
+condition of a permit previously issued pursuant to 10 V.S.A. chapter 151 shall
+be recorded in the municipal land records.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.325
+2026 Page 13 of 21
+(h) Within a Tier 1A area, the appropriate municipal panel shall enforce
+any existing permits issued under 10 V.S.A. chapter 151 that has not had its
+permit conditions transferred to a municipal permit pursuant to subsection (g)
+of this section.
+Sec. 10. DISCRETIONARY REVIEW OF HOUSING; REPORT
+(a) On or before January 15, 2027, the Department of Housing and
+Community Development, after consultation with the Vermont League of Cities
+and Towns, Let’s Build Homes, the Vermont Natural Resources Council, and
+the Vermont Planners Association, shall report to the General Assembly on
+recommendations for how to reduce the negative impacts of discretionary
+review of residential development. The Department shall consider the
+following: whether the State should establish a Vermont Model Code to assist
+municipalities seeking to replace discretionary review with clear and objective
+standards; the potential value of the federal Right to Build Zone legislation
+and steps the State can take to maximize that value; and incentives and
+planning assistance the State can offer municipalities seeking to limit
+discretionary review.
+(b) The report shall also include a status update on the 802 Homes pilot
+program and recommendations for how to improve the efficiency of appeals of
+municipal zoning permits for housing.
+(c) The report shall be submitted to the House Committees on Environment
+and on Housing and General and the Senate Committees on Economic
+Development, Housing, and General Affairs and on Natural Resources and
+Energy.
+* * * Regional Planning * * *
+Sec. 11. 24 V.S.A. § 4348 is amended to read:
+§ 4348. ADOPTION AND AMENDMENT OF REGIONAL PLAN
+* * *
+(b) 60 Sixty days prior to holding the first public hearing on a regional
+plan adoption, a regional planning commission shall submit a draft regional
+plan to the Land Use Review Board for review and comments related to
+conformance of the draft with sections 4302 and 4348a of this title and chapter
+139 of this title. The Board shall coordinate with other State agencies and the
+Community Investment Board and respond within 60 days unless more time is
+granted by the regional planning commission.
+(c) The regional planning commission shall hold two or more public
+hearings within the region after public notice on any proposed plan or
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.325
+2026 Page 14 of 21
+amendment. The minimum number of required public hearings may be
+specified within the bylaws of the regional planning commission.
+(d)(1) At least 30 days prior to the first hearing, a copy of the proposed
+plan or amendment, a report documenting conformance with the goals
+established in section 4302 of this chapter and the plan elements established in
+section 4348a of this chapter, and a description of any changes to the Regional
+Future Land Use Map with a request for general comments and for specific
+comments with respect to the extent to which the plan or amendment is
+consistent with the goals established in section 4302 of this title, shall be
+delivered physically or electronically with proof of receipt or sent by certified
+mail, return receipt requested, to each of the following:
+* * *
+(e) Any of the foregoing bodies, or their representatives, may submit
+comments on the proposed regional plan or amendment to the regional
+planning commission, and may appear and be heard in any proceeding with
+respect to the adoption of the proposed plan or amendment.
+(f) The regional planning commission may make revisions to the proposed
+plan or amendment at any time not less than 30 days prior to the final public
+hearing held under this section. If the proposal is changed, a copy of the
+proposed change shall be delivered physically; electronically with proof of
+receipt; or by certified mail, return receipt requested, to the chair of the
+legislative body of each municipality within the region and to any individual or
+organization requesting a copy at least 30 days prior to the final hearing.
+* * *
+(h)(1) Within 15 days following adoption, a regional planning commission
+shall submit its regionally adopted regional plan to the Land Use Review
+Board for a determination of regional plan compliance with a report
+documenting conformance with the goals established in section 4302 of this
+chapter and the plan elements established in section 4348a of this chapter and
+a description of any changes to the regional plan future land use map.
+* * *
+(4) The Land Use Review Board’s affirmative determination shall be
+based upon finding the regional plan meets the following requirements:
+* * *
+(j) Minor amendments to regional plan future land use map. A regional
+planning commission may submit a request for a minor amendment to
+boundaries of a future land use area for consideration by the Land Use Review
+Board with a letter of support from the municipality. The request may only be
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.325
+2026 Page 15 of 21
+submitted after an affirmative vote of the municipal legislative body and the
+regional planning commission board. The Land Use Review Board, after
+consultation with the Community Investment Board and the regional planning
+commissions, shall provide guidance about what constitutes a minor
+amendment. Minor amendments may include any change to a future land use
+area consisting of fewer than 10 acres. A minor amendment to a future land
+use area shall not require an amendment to a regional plan and shall be
+included in the next iteration of the regional plan. The Land Use Review
+Board may adopt rules to implement this section.
+* * *
+(n) Regional plan amendments, non-minor future land use map
+amendments, and Tier 1B area status requests. Regional plans may be
+reviewed from time to time and may be amended in the light of new
+developments and changed conditions affecting the region. Non-minor future
+land use map amendments shall be processed as part of a regional plan
+amendment. Tier 1B area status requests may be made separate from the
+regional plan approval or amendment process.
+(1) Process.
+(A) To amend a regional plan, which may include a non-minor future
+land use map amendment, a regional planning commission shall hold one
+public hearing. At least 15 days in advance of the hearing, the regional
+planning commission shall provide notice of the public hearing to parties listed
+in subdivision (d)(1) of this section and the Land Use Review Board. The
+public hearing notice shall include a description of changes to the plan
+including non-minor amendments to future land use maps, or any changes to
+Tier 1B area status.
+(B) After adoption of the regional plan amendment, the regional
+planning commission shall submit a request to the Land Use Review Board for
+an affirmative determination of regional plan compliance for the regional plan
+amendment.
+(C) Stand-alone requests for Tier 1B area status shall be submitted to
+the Land Use Review Board after the public hearing required under
+subdivision (A) of this section.
+(D) The Land Use Review Board shall hold a public hearing within
+30 days after receiving the request for an affirmative determination of regional
+plan amendment compliance or approval of Tier 1B area status. The Land Use
+Review Board shall issue its determination within 30 days after the hearing.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.325
+2026 Page 16 of 21
+(2) Adoption of a regional plan amendment, non-minor future land use
+map amendment, or Tier 1B area status request or amendment shall not
+change the expiration date of the regional plan.
+* * *
+Sec. 12. 24 V.S.A. § 4348a is amended to read:
+§ 4348a. ELEMENTS OF A REGIONAL PLAN
+(a) A regional plan shall be consistent with the goals established in section
+4302 of this title and shall include the following:
+* * *
+(12) A future land use element, based upon the elements in this section,
+that sets forth the present and prospective location, amount, intensity, and
+character of such land uses in relation to the provision of necessary community
+facilities and services and that consists of a map delineating future land use
+area boundaries for the land uses in subdivisions (A)–(J) of this subdivision
+(12) as appropriate and any other special land use category the regional
+planning commission deems necessary; descriptions of intended future land
+uses, consistent with the smart growth principles in section 4303 of this
+chapter; and policies intended to support the implementation of the future land
+use element using the following land use categories:
+(A) Downtown or village centers. These areas are the mixed-use
+centers bringing together community economic activity and civic assets. They
+include downtowns, villages, and new town centers previously designated
+under chapter 76A and downtowns and village centers seeking benefits under
+the Community Investment Program under section 5804 of this title. The
+downtown or village centers are the traditional and or historic central business
+and civic centers within planned growth areas, village areas, or may stand
+alone. Municipalities may have more than one center, including planned new
+or emerging centers that anchor planned growth or village areas. Village
+centers are not required to have public water, wastewater, zoning, or
+subdivision bylaws. It is the intent that most towns in Vermont have at least
+one village center in which additional housing units are supported.
+(B) Planned growth areas. These areas include the high-density
+existing settlement and future growth areas with high concentrations of
+population, housing, and employment in each region and town, as appropriate.
+They include a mix of historic and nonhistoric commercial, residential, and
+civic or cultural sites with active streetscapes, supported by land development
+regulations; public water or wastewater, or both; and multimodal
+transportation systems. These areas include new town centers, downtowns,
+village centers, growth centers, and neighborhood development areas
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.325
+2026 Page 17 of 21
+previously designated under chapter 76A of this title. These areas should
+generally meet the smart growth principles definition in chapter 139 of this
+title and the following criteria:
+* * *
+(iii) The area is generally within walking distance from compact
+and has multimodal connection to the municipality’s or an adjacent
+municipality’s downtown, or village center, new town center, or growth center.
+* * *
+(vi) The area provides for opportunity for development, infill
+development, and redevelopment that is needed to meet the regional and
+municipal housing targets that meets meet the present and future needs of a
+diversity of social and income groups in the community.
+(vii) The area is served by planned or existing transportation
+infrastructure that conforms with “complete streets” principles as described
+under 19 V.S.A. chapter 24 and establishes pedestrian access directly to the
+downtown, or village center, or new town center. Planned transportation
+infrastructure includes those investments included in the municipality’s capital
+improvement program pursuant to section 4430 of this title.
+(C) Village areas. These areas include the traditional settlement area
+or a proposed new settlement area, typically composed of a cohesive mix of
+residential, civic, religious, commercial, and or mixed-use buildings, arranged
+along a main street and intersecting streets that are within walking distance
+compact and have multimodal connections for residents who live within and
+surrounding the core downtown center or village center. These areas include
+existing village center designations and similar areas statewide, but this area
+is larger than the village center designation. Village areas shall meet the
+following criteria:
+* * *
+(iv) The municipality has either municipal public water or
+wastewater. If no public water or wastewater is available, the area must have
+soils that are adequate for wastewater disposal.
+(v) The area has some opportunity for infill development or new
+development areas where the village can grow, support the development of
+housing to meet the regional and municipal housing targets, and be flood
+resilient.
+* * *
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.325
+2026 Page 18 of 21
+(J) Rural; conservation. These are areas of significant natural
+resources, identified by regional planning commissions or municipalities based
+upon existing Agency of Natural Resources mapping that require special
+consideration for aquifer protection; for wetland protection; for the
+maintenance of forest blocks, wildlife habitat, and habitat connectors; or for
+other conservation purposes. The mapping of these areas and accompanying
+policies are intended to help meet requirements of 10 V.S.A. chapter 89. Any
+portion of this area that is approved by the LURB as having Tier 3 area status
+shall be identified on the future land use map as an overlay upon approval.
+* * *
+(d) With the exception of preexisting, nonconforming designations
+approved prior to the establishment of the State Community Investment
+program, the areas eligible for designation benefits under that program upon
+the Land Use Review Board’s approval of the regional plan future land use
+map for designation as a downtown center or village center shall not include
+development that is disconnected from a downtown or village center and that
+lacks an existing or planned pedestrian connection to the center via a complete
+street.
+* * *
+Sec. 13. 24 V.S.A. § 4303 is amended to read:
+§ 4303. DEFINITIONS
+The following definitions shall apply throughout this chapter unless the
+context otherwise requires:
+* * *
+(43) “Smart growth principles” means growth that:
+(A) maintains the historic development pattern of compact village
+and urban centers separated by rural countryside;
+(B) develops compact mixed-use centers at a scale appropriate for
+the community and the region;
+(C) enables choice in modes of transportation;
+(D) protects the State’s important environmental, natural, and
+historic features, including natural areas, water quality, scenic resources, and
+historic sites and districts;
+(E) serves to strengthen agricultural and forest industries and
+minimizes conflicts of development with these industries;
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.325
+2026 Page 19 of 21
+(F) balances growth with the availability of economic and efficient
+public utilities and services;
+(G) supports a diversity of viable businesses in downtowns and
+villages;
+(H) provides for housing that meets the needs of a diversity of social
+and income groups in each community; and
+(I) reflects a settlement pattern that, at full build-out, is not
+characterized by:
+(i) scattered development located outside compact urban and
+village centers that is excessively land consumptive;
+(ii) development that limits transportation options, especially for
+pedestrians;
+(iii) the fragmentation of farmland and forestland;
+(iv) development that is not serviced by municipal infrastructure
+or that requires the extension of municipal infrastructure across undeveloped
+lands in a manner that would extend service to lands located outside compact
+village and urban centers; and
+(v) linear development along well-traveled roads and highways
+that lacks depth, as measured from the highway.
+Sec. 14. REPEAL
+24 V.S.A. § 4476 (formal review of regional planning commission decisions)
+is repealed.
+Sec. 15. REGIONAL AND MUNICIPAL PLAN EXTENSIONS
+Any regional or municipal plan due to expire in 2026 shall have its
+expiration date extended until December 31, 2026.
+* * * State Community Investment Program * * *
+Sec. 16. 24 V.S.A. § 5801 is amended to read:
+§ 5801. DEFINITIONS
+As used in this chapter:
+* * *
+(8) “Planned growth area” means an area on the regional plan future
+land use maps required under section 4348a of this title, which may encompass
+a downtown center or village center on the regional future land use map and
+may be designated as a center or neighborhood, or both meeting the
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.325
+2026 Page 20 of 21
+requirements of subdivision 4348a(12)(B) of this title and that may be
+designated as a neighborhood.
+* * *
+(10) “Sprawl repair” means the redevelopment of lands with buildings,
+traffic and circulation, parking, or other land coverage in a pattern that is
+consistent with smart growth principles as defined in section 4303 of this title.
+* * *
+(12) “State Designated Downtown and Center or Village Center” or
+“designated center” means a contiguous downtown or village a portion of
+which is listed or eligible for listing in the national register of historic places
+area center approved as part of the LURB review of regional plan future land
+use maps, which may include an approved preexisting designated designated
+downtown, village center, or designated new town center established prior to
+the approval of the regional plan future land use maps.
+(13) “State designated Designated neighborhood” or “neighborhood”
+means a contiguous geographic village area or planned growth area approved
+as part of the Land Use Review Board LURB review of regional plan future
+land use maps that is compact and adjacent and contiguous to a center.
+* * *
+(15) “Village area” means an area on the regional plan future land use
+maps adopted pursuant to section 4348a of this title, which may encompass a
+village center on the regional future land use map meeting the requirements of
+subdivision 4348a(12)(C) of this title and that may be designated as a
+neighborhood.
+Sec. 17. 24 V.S.A. § 5803 is amended to read:
+§ 5803. DESIGNATION OF DOWNTOWN AND VILLAGE CENTERS
+(a) Designation established. A regional planning commission may apply to
+the LURB for approval and designation of all downtown and village centers by
+submitting the regional plan future land use map adopted by the regional
+planning commission. The regional plan future land use map shall identify
+downtown centers and village centers as the downtown and village areas
+eligible for designation as centers. The Department and State Board shall
+provide comments to the LURB and the regional planning commission on
+areas eligible for center designation as provided under in section 4348 of this
+chapter title.
+* * *
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.325
+2026 Page 21 of 21
+(c) Exclusions. With the exception for preexisting, nonconforming
+designations approved prior to the establishment of the program under this
+chapter or areas included in the municipal plan for the purposes of relocating
+a municipality’s center for flood resiliency purposes, the areas eligible for
+designation benefits upon the LURB’s approval of the regional plan future
+land use map for designation as a Center shall not include development that is
+disconnected from a Center and that lacks a pedestrian connection to the
+Center via a complete street. [Repealed.]
+* * *
+* * * Tax Credits * * *
+Sec. 18. 32 V.S.A. § 5930bb is amended to read:
+§ 5930bb. ELIGIBILITY AND ADMINISTRATION
+* * *
+(c) Application shall be made in accordance with the guidelines set by the
+State Board. The guidelines shall clearly indicate that only applications
+located in Step 2 and Step 3 State designated centers or Step 1 centers where a
+portion of the designated center is listed or eligible for listing in the national
+register of historic places shall be considered.
+* * *
+* * * Appropriations * * *
+Sec. 19. APPROPRIATIONS
+(a) In fiscal year 2027, $200,000.00 is appropriated from the General
+Fund to the Agency of Commerce and Community Development to develop
+additional model plans as part of the 802 Homes program.
+(b) In fiscal year 2027, $100,000.00 is appropriated from the General
+Fund to the Land Use Review Board to conduct public engagement and
+education on Tier 3 areas.
+* * * Effective Date * * *
+Sec. 2019. EFFECTIVE DATE
+This act shall take effect on passage.

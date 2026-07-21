@@ -1,0 +1,38 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.619
+2026 Page 1 of 2
+1 H.619
+2 Introduced by Representative Waszazak of Barre City
+3 Referred to Committee on
+4 Date:
+5 Subject: Taxation; personal income tax; income tax surcharge
+6 Statement of purpose of bill as introduced: This bill proposes to create an
+7 income tax surcharge on the income of individuals exceeding $1,000,000.00 of
+8 adjusted gross income.
+9 An act relating to an income tax surcharge
+10 It is hereby enacted by the General Assembly of the State of Vermont:
+11 Sec. 1. 32 V.S.A. § 5822a is added to read:
+12 § 5822a. PERSONAL INCOME TAX SURCHARGE
+13 There shall be a surcharge of three percent of federal adjusted gross income
+14 for individuals with federal adjusted gross income equal to or greater than
+15 $1,000,000.00. The surcharge shall be in addition to any tax assessed under
+16 this chapter and shall be paid, collected, and enforced in the same manner as
+17 the tax assessed under section 5822 of this title. Annually, the Commissioner
+18 of Taxes shall use the process required under subdivision 5822(b)(2) of this
+19 title to adjust for inflation the minimum amount of federal adjusted gross
+20 income necessary for an individual to incur this surcharge.
+VT LEG #386148 v.1
+
+BILL AS INTRODUCED H.619
+2026 Page 2 of 2
+1 Sec. 2. EFFECTIVE DATE
+2 Notwithstanding 1 V.S.A. § 214, this act shall take effect retroactively on
+3 January 1, 2026, and apply to taxable years on and after January 1, 2026.
+VT LEG #386148 v.1

@@ -1,0 +1,247 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED S.266
+2026 Page 1 of 10
+1 S.266
+2 Introduced by Senators Chittenden and Brennan
+3 Referred to Committee on
+4 Date:
+5 Subject: Conservation and development; water resources; wetlands; permitting
+6 Statement of purpose of bill as introduced: This bill proposes to amend
+7 requirements for the development of residential housing projects in wetlands in
+8 the State. The bill would authorize the Department of Environmental
+9 Conservation to adopt allowed uses for the construction of residential housing
+10 projects and necessary linear utilities related to the housing projects. No
+11 permit would be required for allowed uses adopted by the Department by rule.
+12 In addition, the bill would require the Secretary of Natural Resources to issue
+13 comprehensive guidance, with the input of wetland consultants and other
+14 stakeholders, regarding avoidance and minimization, mitigation sequencing,
+15 and alternatives analysis. The bill would also provide that avoidance and
+16 minimization or alternatives analysis required for a wetlands permit shall not
+17 require a permit applicant to consider properties that are not owned or
+18 controlled by the applicant.
+19 An act relating to the regulation of wetlands
+VT LEG #385912 v.1
+
+BILL AS INTRODUCED S.266
+2026 Page 2 of 10
+1 It is hereby enacted by the General Assembly of the State of Vermont:
+2 Sec. 1. 10 V.S.A. § 902 is amended to read:
+3 § 902. DEFINITIONS
+4 Wherever used or referred to in this chapter, unless a different meaning
+5 clearly appears from the context As used in this chapter:
+6 * * *
+7 (5) “Wetlands” means those areas of the State that are inundated by
+8 surface or groundwater with a frequency sufficient to support significant
+9 vegetation or aquatic life that depend on saturated or seasonally saturated soil
+10 conditions for growth and reproduction. Such areas include marshes, swamps,
+11 sloughs, potholes, fens, river and lake overflows, mud flats, bogs, and ponds,
+12 but excluding such areas as grow food or crops in connection with farming
+13 activities.
+14 (6) “Class I wetland” means:
+15 (A) a wetland identified on the Vermont significant wetlands
+16 inventory maps as a Class I wetland;
+17 (B) a wetland that the former Water Resources Board identified in
+18 rules of the Board as a Class I wetland; or
+19 (C) a wetland that the Secretary, based upon an evaluation of the
+20 extent to which the wetland serves the functions and values set forth in
+21 subdivision 905b(18)(A) of this title, determines is exceptional or irreplaceable
+VT LEG #385912 v.1
+
+BILL AS INTRODUCED S.266
+2026 Page 3 of 10
+1 in its contribution to Vermont’s natural heritage and, therefore, merits the
+2 highest level of protection.
+3 (7) “Class II wetland” means a wetland other than a Class I or Class III
+4 wetland that:
+5 (A) is a wetland identified on the Vermont significant wetlands
+6 inventory maps; or
+7 (B) the Secretary determines to merit protection, pursuant to section
+8 914 of this title, based upon an evaluation of the extent to which it serves the
+9 functions and values set forth in subdivision 905b(18)(A) of this title and the
+10 rules of the Department.
+11 (8) “Class III wetland” means a wetland that is neither a Class I wetland
+12 nor a Class II wetland.
+13 (9) “Buffer zone” means an area contiguous to a significant wetland that
+14 protects the wetland’s functions and values. The buffer zone for a Class I
+15 wetland shall extend at least 100 feet from the border of the wetland, unless the
+16 Department determines otherwise under section 915 914 of this title. The
+17 buffer zone for a Class II wetland shall extend at least 50 feet from the border
+18 of the wetland unless the Secretary determines otherwise under section 914 of
+19 this title.
+VT LEG #385912 v.1
+
+BILL AS INTRODUCED S.266
+2026 Page 4 of 10
+1 (10) “Necessary linear utilities” means the electricity, gas, water, sewer
+2 lateral, access road, driveway, or septic force main that are necessary for the
+3 construction or use of the primary residential function of a housing project.
+4 (11) “Panel” means the Water Resources Panel of the Agency of Natural
+5 Resources.
+6 (12) “Residential housing project” means a single-family, multiunit, or
+7 multifamily housing project, a shelter project, or a mixed-use project that
+8 includes a residential housing component that is at least 75 percent of the total
+9 square footage of the project, not including hotels or vacation rentals. This
+10 term does not include ancillary improvements to existing housing that are not
+11 necessary to the primary residential function, including patios, decks, lawns,
+12 picnic pavilions, recreational facilities, and gardens.
+13 (11)(13) “Significant wetland” means any Class I or Class II wetland.
+14 (12)(14) “Secretary” means the Secretary of Natural Resources or the
+15 Secretary’s authorized representative.
+16 (13)(15) “Dam removal” has the same meaning as in section 1080 of
+17 this title.
+18 Sec. 2. 10 V.S.A. § 913 is amended to read:
+19 § 913. PROHIBITION
+20 (a) Except for allowed uses adopted by the Department by rule as set forth
+21 in this section, no person shall conduct or allow to be conducted an activity in
+VT LEG #385912 v.1
+
+BILL AS INTRODUCED S.266
+2026 Page 5 of 10
+1 a significant wetland or buffer zone of a significant wetland except in
+2 compliance with a permit, conditional use determination, or order issued by the
+3 Secretary.
+4 (b) No permit shall be required for allowed uses adopted by the Department
+5 by rule. The Department may adopt allowed uses for the construction of
+6 residential housing projects and necessary linear utilities related to the housing
+7 projects.
+8 (c) No permit shall be required for the construction of residential housing
+9 projects and necessary linear utilities related to a housing project in an
+10 unmapped Class II wetland or an unmapped Class II wetland buffer.
+11 (d) Except in flood hazard areas and river corridors mapped by the
+12 Department, a wetland permit shall allow construction of residential housing
+13 projects and necessary linear utilities that impact the functions and values set
+14 forth in subdivisions 905b(A)(i), (ii), and (iii) of this title within a Class II
+15 wetland and its buffer, provided that required stormwater permits are obtained
+16 to address the water storage and water quality–related functions.
+17 (e) An applicant for a wetland permit shall not be required to submit a new
+18 wetland delineation if there is an existing delineation accepted by the Secretary
+19 that was completed not more than 10 years before the date of the application.
+VT LEG #385912 v.1
+
+BILL AS INTRODUCED S.266
+2026 Page 6 of 10
+1 (f) A permit shall not be required under this section for:
+2 (1) any activity that occurred before the effective date of this section
+3 unless the activity occurred within:
+4 (A) an area identified as a wetland on the Vermont significant
+5 wetlands inventory maps;
+6 (B) a wetland that was contiguous to an area identified as a wetland
+7 on the Vermont significant wetlands inventory maps; or
+8 (C) the buffer zone of a wetland referred to in subdivision (A) or (B)
+9 of this subdivision (1); and
+10 (2) any construction within a wetland that is identified on the Vermont
+11 significant wetlands inventory maps or within the buffer zone of such a
+12 wetland, provided that the construction was completed prior to February 23,
+13 1992, and no action for which a permit is required under the rules of the
+14 Department was taken or caused to be taken on or after February 23, 1992.
+15 Sec. 3. 10 V.S.A. § 914 is amended to read:
+16 § 914. WETLANDS DETERMINATIONS
+17 (a) The Secretary may, upon a petition or on his or her the Secretary’s own
+18 motion, determine whether any wetland is a Class II or Class III wetland. Such
+19 determinations shall be based on an evaluation of the functions and values set
+20 forth in subdivision 905b(18)(A) of this title and the rules of the Department.
+VT LEG #385912 v.1
+
+BILL AS INTRODUCED S.266
+2026 Page 7 of 10
+1 (b) The Secretary, at the Secretary’s discretion, may establish the necessary
+2 width of the buffer zone of any Class II wetland as part of any wetland
+3 determination pursuant to the rules of the Department.
+4 (c) The provisions of chapter 170 of this title shall apply to issuance of
+5 determinations under this section.
+6 (d) [Repealed.]
+7 (e) The Secretary may recommend to the panel that a wetland be classified
+8 as a Class I wetland under section 915 of this title. [Repealed.]
+9 Sec. 4. 10 V.S.A. § 918 is amended to read:
+10 § 918. NET GAIN OF WETLANDS; STATE GOAL; RULEMAKING
+11 (a) On or before July 1, 2025, the Secretary of Natural Resources shall
+12 amend the Vermont Wetlands Rules pursuant to 3 V.S.A. chapter 25 to clarify
+13 that the goal of wetlands regulation and management in the State is the net gain
+14 of wetlands to be achieved through protection of existing wetlands and
+15 restoration of wetlands that were previously adversely affected. This condition
+16 shall not apply to wetland, river, and flood plain restoration projects, including
+17 dam removals.
+18 (b) The Vermont Wetlands Rules shall prioritize the protection of existing
+19 intact wetlands from adverse effects. Where a permitted activity in a wetland
+20 will cause more than 5,000 square feet of adverse effects that cannot be
+21 avoided, the Secretary shall mandate that the permit applicant restore, enhance,
+VT LEG #385912 v.1
+
+BILL AS INTRODUCED S.266
+2026 Page 8 of 10
+1 or create wetlands or buffers to compensate for the adverse effects on a
+2 wetland. The amount of wetlands to be restored, enhanced, or created shall be
+3 calculated, at a minimum, by determining the acreage or square footage of
+4 wetlands permanently drained or filled as a result of the permitted activity and
+5 multiplying that acreage or square footage by two, to result in a ratio of 2:1
+6 restoration to wetland loss. Establishment of a buffer zone contiguous to a
+7 wetland shall not substitute for the restoration, enhancement, or creation of
+8 wetlands. Adverse impacts to wetland buffers shall be compensated for based
+9 on the effects of the impact on wetland function.
+10 (c) At a minimum, the Wetlands Rules shall be revised to:
+11 (1) Require an applicant for a wetland permit that authorizes adverse
+12 impacts to more than 5,000 square feet of wetlands to compensate for those
+13 impacts through restoration, enhancement, or creation of wetland resources.
+14 (2) Incorporate the net gain rule into requirements for permits issued
+15 after September 1, 2025.
+16 (3) Establish a set of parameters and restoration ratios applicable to
+17 permittee-designed restored wetland restoration projects, including a minimum
+18 2:1 ratio of restoration to loss to compensate for permanently filled or drained
+19 wetlands. These parameters shall include consideration of the following
+20 factors:
+VT LEG #385912 v.1
+
+BILL AS INTRODUCED S.266
+2026 Page 9 of 10
+1 (A) the existing level of wetland function at the site prior to
+2 mitigation or restoration of wetlands;
+3 (B) the amount of wetland acreage and wetland function lost as a
+4 result of the project;
+5 (C) how the wetland acreage and functions will be restored at the
+6 proposed compensation site;
+7 (D) the length of time before the compensation site will be fully
+8 functional;
+9 (E) the risk that the compensation project may not succeed;
+10 (F) the differences in the location of the adversely affected wetland
+11 and the wetland subject to compensation that affect the services and values
+12 offered; and
+13 (G) the requirement that permittees conduct five years of post-
+14 restoration monitoring for the restored wetlands, at which time the Agency can
+15 decide if further action is needed.
+16 (d) When amending the Vermont Wetlands Rules under this section, the
+17 Secretary shall establish a Vermont in-lieu fee (ILF) compensation program for
+18 wetlands impacts that may be authorized as compensation for an adverse effect
+19 on a wetland when the permittee cannot achieve restoration. The Secretary
+20 may implement a Vermont ILF compensation program through agreements
+21 with third-party entities such as the U.S. Army Corps of Engineers or
+VT LEG #385912 v.1
+
+BILL AS INTRODUCED S.266
+2026 Page 10 of 10
+1 environmental organizations, provided that any ILF monetary compensation
+2 authorized under the rules shall be expended on restoration, reestablishment,
+3 enhancement, or conservation projects within the State at the HUC 8 level of
+4 the adversely affected wetland when practicable.
+5 (e) The Secretary shall issue comprehensive guidance, with the input of
+6 wetland consultants and other stakeholders, regarding avoidance and
+7 minimization, mitigation sequencing, and alternatives analysis on or before
+8 October 15, 2026. Avoidance and minimization or alternatives analysis shall
+9 not require an applicant to consider properties that are not owned or controlled
+10 by the applicant.
+11 Sec. 5. PENDING PERMIT APPLICATIONS
+12 Pending wetland permit applications for the construction of residential
+13 housing projects and necessary linear utilities related to the housing projects
+14 that were filed prior to the effective date of this act and for which the
+15 Department of Environmental Conservation has not posted a draft permit
+16 decision for public notice and comment shall be processed in accordance with
+17 10 V.S.A. chapter 37 as amended by this act.
+18 Sec. 6. EFFECTIVE DATE
+19 This act shall take effect on July 1, 2026.
+VT LEG #385912 v.1
