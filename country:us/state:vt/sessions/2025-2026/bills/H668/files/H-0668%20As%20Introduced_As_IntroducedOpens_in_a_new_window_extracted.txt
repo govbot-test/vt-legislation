@@ -1,0 +1,70 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.668
+2026 Page 1 of 3
+1 H.668
+2 Introduced by Representative Burtt of Cabot
+3 Referred to Committee on
+4 Date:
+5 Subject: Commerce and trade; consumer protection; automatic renewal
+6 contracts
+7 Statement of purpose of bill as introduced: This bill proposes to require that a
+8 seller or lessor of an automatic renewal contract made available online allow a
+9 consumer to terminate the contract in the same or similar manner or in a
+10 manner that is more easily available to the consumer. The bill also proposes to
+11 expand application of the automatic renewal notification requirement to
+12 contracts with an initial term of one month or longer.
+13 An act relating to automatic renewal contracts
+14 It is hereby enacted by the General Assembly of the State of Vermont:
+15 Sec. 1. 9 V.S.A. § 2454a is amended to read:
+16 § 2454a. CONSUMER CONTRACTS; AUTOMATIC RENEWAL
+17 (a) A contract between a consumer and a seller or a lessor with an initial
+18 term of one year month or longer that renews for a subsequent term that is
+19 longer than one month shall not renew automatically unless:
+VT LEG #386357 v.1
+
+BILL AS INTRODUCED H.668
+2026 Page 2 of 3
+1 (1) the contract states clearly and conspicuously the terms of the
+2 automatic renewal provision in plain, unambiguous language in bold-face type;
+3 (2) in addition to accepting the contract, the consumer takes an
+4 affirmative action to opt in to the automatic renewal provision; and
+5 (3) if the consumer opts in to the automatic renewal provision, the seller
+6 or lessor provides a written or electronic notice to the consumer:
+7 (A) not less than 30 days and not more than 60 days before the
+8 earliest of:
+9 (i) the automatic renewal date;
+10 (ii) the termination date; or
+11 (iii) the date by which the consumer must provide notice to cancel
+12 the contract; and
+13 (B) that includes:
+14 (i) the date the contract will terminate and a clear statement that
+15 the contract will renew automatically unless the consumer cancels the contract
+16 on or before the termination date; and
+17 (ii) the length and any additional terms of the renewal period.
+18 (b) A seller or lessor under a contract subject to subsection (a) of this
+19 section shall:
+20 (1) provide to the consumer a toll-free telephone number, e-mail email
+21 address, a postal address if the seller or lessor directly bills the consumer, or
+VT LEG #386357 v.1
+
+BILL AS INTRODUCED H.668
+2026 Page 3 of 3
+1 another cost-effective, timely, and easy-to-use mechanism for canceling the
+2 contract; and
+3 (2) if the consumer accepted the contract online, permit the consumer to
+4 terminate the contract exclusively online in the same manner as, similar
+5 manner to, or a manner that is more easily available to the consumer than
+6 acceptance of the contract, which may include a termination e-mail email
+7 formatted and provided by the seller or lessor that the consumer can send
+8 without additional information.
+9 * * *
+10 Sec. 2. EFFECTIVE DATE
+11 This act shall take effect on July 1, 2026.
+VT LEG #386357 v.1

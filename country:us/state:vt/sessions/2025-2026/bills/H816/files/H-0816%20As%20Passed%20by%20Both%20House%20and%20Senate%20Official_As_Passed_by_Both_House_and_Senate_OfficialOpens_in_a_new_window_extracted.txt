@@ -1,0 +1,522 @@
+Title: 
+Official Title: 
+Source: versions - As Passed by Both House and Senate (OfficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.816
+2026 Page 1 of 22
+1 H.816
+2 Introduced by Representatives Berbeco of Winooski, Arsenault of Williston,
+3 and Priestley of Bradford
+4 Referred to Committee on
+5 Date:
+6 Subject: Health; mental health; professional regulation; artificial intelligence;
+7 therapeutic services
+8 Statement of purpose of bill as introduced: This bill proposes to regulate the
+9 use of artificial intelligence by mental health professionals. It further proposes
+10 to prohibit offering or advertising mental health services that use artificial
+11 intelligence in whole or in part.
+12 An act relating to regulating the use of artificial intelligence in the
+13 provision of mental health services
+14 It is hereby enacted by the General Assembly of the State of Vermont:
+Sec. 1. PURPOSE
+15 It is the purpose of this act to safeguard individuals seeking mental health
+16 services in Vermont by:
+17 (1) ensuring that therapeutic judgment, clinical decision making, and
+18 therapeutic communication remain the responsibility of qualified mental health
+19 professionals and are not delegated to artificial intelligence systems;
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.816
+2026 Page 2 of 22
+1 (2) respecting individual choice in selecting mental health services,
+2 including community, peer, and faith-based options; and
+3 (3) allowing the responsible use of artificial intelligence for
+4 administrative, operational, documentation, and quality-improvement
+5 functions that support access, efficiency, and innovation in mental health
+6 services.
+7 Sec. 2. 3 V.S.A. § 129a is amended to read:
+8 § 129a. UNPROFESSIONALCONDUCT
+9 (a) In addition to any other provision of law, the following conduct by a
+10 licensee constitutes unprofessional conduct. When that conduct is by an
+11 applicant or person who later becomes an applicant, it may constitute grounds
+12 for denial of a license or other disciplinary action. Any one of the following
+13 items or any combination of items, whether the conduct at issue was
+14 committed within or outside the State, shall constitute unprofessional conduct:
+15 * * *
+16 (30) For any mental health professional, misuse of artificial intelligence
+17 pursuant to 26 V.S.A. § 7101.
+18 * * *
+19 Sec. 3. 18 V.S.A. § 7115 is added to read:
+20 § 7115. PROHIBITED USES OF ARTIFICIALINTELLIGENCE
+21 (a) As used in this section:
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.816
+2026 Page 3 of 22
+1 (1) “Artificial intelligence” means a machine-based system or software
+2 that, depending on human objectives, is capable of perceiving an environment
+3 through data acquisition and then processing and interpreting the derived
+4 information to take an action or to imitate intelligent behavior, such as produce
+5 predictions, content, recommendations, or decisions. An artificial intelligence
+6 system can also learn and adapt its behavior by analyzing how the environment
+7 is affected by prior actions. “Artificial intelligence” includes generative
+8 artificial intelligence.
+9 (2) “Generative artificial intelligence” means foundation models used in
+10 artificial intelligence systems specifically intended to generate, with varying
+11 levels of autonomy, content such as complextext, images, audio, or video.
+12 (3) “Mental health services” means support, counseling, therapy, or
+13 psychotherapy services provided by a mental health professional to diagnose
+14 or treat an individual’s mental or behavioral health or provide ongoing
+15 recovery support, excluding religious counseling.
+16 (4) “Therapeutic communication” means a written or spoken interaction
+17 intended to diagnose or treat any type of mental or behavioral health concern,
+18 provide ongoing recovery support, or provide any advice related to diagnosis,
+19 treatment, or recovery.
+20 (b) A person, corporation, or other entity shall not offer, provide, or
+21 advertise mental health services in the State that represent artificial intelligence
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.816
+2026 Page 4 of 22
+1 as providing therapeutic judgment, diagnosis, treatment, or therapeutic
+2 communication. Nothing in this subsection shall prohibit the use or disclosure
+3 of the use of artificial intelligence for administrative, documentation,
+4 operational, or quality-improvement purposes when a mental health
+5 professional retains clinical responsibility as authorized pursuant to 26 V.S.A.
+6 § 7101.
+7 (c)(1) A violation of this section shall be deemed a violation of the
+8 Consumer Protection Act, 9 V.S.A. chapter 63. The Attorney General has the
+9 same authority to make rules, conduct civil investigations, enter into
+10 assurances of discontinuance, and bring civil actions, and private parties have
+11 the same rights and remedies as provided under 9 V.S.A. chapter 63,
+12 subchapter 1.
+13 (2) Nothing in this section shall be construed to preclude or supplant
+14 any other statutory or common law remedies.
+15 Sec. 4. 26 V.S.A. chapter 120 is added to read:
+16 CHAPTER 120. ARTIFICIALINTELLIGENCE IN REGULATED
+17 PROFESSIONS
+18 Subchapter 1. General Provisions
+19 § 7001. DEFINITIONS
+20 As used in this chapter:
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.816
+2026 Page 5 of 22
+1 (1) “Artificial intelligence” means a machine-based system or software
+2 that, depending on human objectives, is capable of perceiving an environment
+3 through data acquisition and then processing and interpreting the derived
+4 information to take an action or to imitate intelligent behavior, such as produce
+5 predictions, content, recommendations, or decisions. An artificial intelligence
+6 system can also learn and adapt its behavior by analyzing how the environment
+7 is affected by prior actions. “Artificial intelligence” includes generative
+8 artificial intelligence.
+9 (2) “Generative artificial intelligence” means foundation models used in
+10 artificial intelligence systems specifically intended to generate, with varying
+11 levels of autonomy, content such as complextext, images, audio, or video.
+12 Subchapter 2. Use of Artificial Intelligence by Mental Health
+13 Professionals
+14 § 7101. PERMITTED AND PROHIBITED USES OF ARTIFICIAL
+15 INTELLIGENCE IN THERAPEUTIC SETTINGS
+16 (a) Definitions. As used in this section:
+17 (1) “Administrative support” means a task performed to assist a mental
+18 health professional in the professional’s delivery of mental health services,
+19 such as scheduling, billing, and general logistics, but excluding therapeutic
+20 communication.
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.816
+2026 Page 6 of 22
+1 (2) “Clinical responsibility” means the duty of a mental health
+2 professional to review, approve, and remain legally accountable for any use of
+3 artificial intelligence in connection with the provision of mental health
+4 services.
+5 (3) “Consent” means an explicit, affirmative act by an individual that
+6 communicates in writing voluntary, informed, and revocable agreement.
+7 “Consent” does not include acceptance of broad terms-of-use agreements,
+8 passive actions, or deceptive practices.
+9 (4) “Mental health professional” means an individual licensed, certified,
+10 or rostered, respectively, to provide mental health services as a physician
+11 pursuant to chapter 23 or 33 of this title, an advance practice registered nurse
+12 specializing in psychiatric mental health pursuant to chapter 28 of this title, a
+13 psychologist pursuant to chapter 55 of this title, a peer support provider or peer
+14 recovery support specialist pursuant to chapter 60 of this title, a social worker
+15 pursuant to chapter 61 of this title, an alcohol and drug abuse counselor
+16 pursuant to chapter 62 of this title, a clinical mental health counselor pursuant
+17 to chapter 65 of this title, a marriage and family therapist pursuant to chapter
+18 76 of this title, a psychoanalyst pursuant to chapter 77 of this title, or an
+19 applied behavior analyst pursuant to chapter 95 of this title, and a nonlicensed
+20 or noncertified psychotherapist, noncertified psychoanalyst, or any other
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.816
+2026 Page 7 of 22
+1 professional that provides mental health services except as exempted in
+2 subsection (e) of this section.
+3 (5) “Mental health services” means support, counseling, therapy, or
+4 psychotherapy services provided by a mental health professional to diagnose
+5 or treat an individual’s mental or behavioral health or provide ongoing
+6 recovery support, excluding religious counseling or peer support.
+7 (6) “Peer support” means support services provided by an individual
+8 with lived experience of a mental health condition or substance use disorder
+9 who is not certified under chapter 60 of this title.
+10 (7) “Religious counseling” means counseling provided by clergy,
+11 pastoral counselors, or other religious leaders acting within the scope of the
+12 individual’s duties if explicitly faith-based and not represented as clinical
+13 services.
+14 (8) “Supplementary support” means a task performed to assist a mental
+15 health professional in the professional’s delivery of mental health services,
+16 excluding therapeutic communication and administrative support.
+17 (9) “Therapeutic communication” means a written or spoken interaction
+18 intended to diagnose or treat any type of mental or behavioral health concern,
+19 provide ongoing recovery support, or provide any advice related to diagnosis,
+20 treatment, or recovery.
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.816
+2026 Page 8 of 22
+1 (b) Permitted uses. A mental health professional may use artificial
+2 intelligence systems for administrative support, supplementary support, and
+3 operational or quality-improvement functions, provided the professional
+4 retains clinical responsibility. Permitted uses include scheduling, billing,
+5 coding, and claims processing; transcription and documentation support with
+6 patient or client consent; preparation and maintenance of clinical records;
+7 deidentified data analysis for quality improvement; and workforce and
+8 capacity planning.
+9 (c) Confidentiality and consent.
+10 (1) Any administrative support or supplementary support tasks
+11 conducted using artificial intelligence, including transcription and recording,
+12 shall be subject to the disclosure prohibitions in 18 V.S.A. §§ 1881 and 7103.
+13 (2) Consent by a patient or client is required when artificial intelligence
+14 is used to record, transcribe, or process identifiable therapeutic
+15 communications, but is not required for administrative or deidentified
+16 operational uses.
+17 (d) Prohibited uses.
+18 (1) A mental health professional shall neither:
+19 (A) use artificial intelligence in the State to make therapeutic
+20 decisions, directly interact with clients, generate treatment plans, or detect
+21 emotions or mental states; nor
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.816
+2026 Page 9 of 22
+1 (B) offer, provide, or advertise mental health services that represent
+2 artificial intelligence as providing therapeutic judgment, diagnosis, treatment,
+3 or therapeutic communication.
+4 (2) Nothing in this subsection shall prohibit a mental health professional
+5 from disclosing or describing the mental health professional’s use of artificial
+6 intelligence for administrative support or supplementary support purposes to a
+7 prospective, current, or former patient or client.
+8 (e) Exceptions. Nothing in this section shall apply to:
+9 (1) religious counseling;
+10 (2) peer support provided by an individual who is not certified pursuant
+11 to chapter 60 of this title; and
+12 (3) generalized educational and self-help resources that do not purport
+13 to offer mental health services.
+14 Sec. 5. EFFECTIVE DATE
+15 This act shall take effect on passage.
+Sec. 1. PURPOSE
+It is the purpose of this act to safeguard individuals seeking mental health
+services in Vermont by:
+(1) ensuring that therapeutic judgment, clinical decision making, and
+therapeutic communication remain the responsibility of mental health
+professionals and are not delegated to artificial intelligence systems;
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.816
+2026 Page 10 of 22
+(2) respecting individual choice in selecting mental health services,
+including community, peer, and faith-based options; and
+(3) allowing the responsible use of artificial intelligence for
+administrative, operational, documentation, and quality-improvement
+functions that support access, efficiency, and innovation in mental health
+services.
+Sec. 2. 3 V.S.A. § 129a is amended to read:
+§ 129a. UNPROFESSIONAL CONDUCT
+(a) In addition to any other provision of law, the following conduct by a
+licensee constitutes unprofessional conduct. When that conduct is by an
+applicant or person who later becomes an applicant, it may constitute grounds
+for denial of a license or other disciplinary action. Any one of the following
+items or any combination of items, whether the conduct at issue was committed
+within or outside the State, shall constitute unprofessional conduct:
+* * *
+(30) For any mental health professional, misuse of artificial intelligence
+pursuant to 26 V.S.A. § 7101.
+* * *
+Sec. 3. 18 V.S.A. § 7115 is added to read:
+§ 7115. PROHIBITED USES OF ARTIFICIAL INTELLIGENCE
+(a) As used in this section:
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.816
+2026 Page 11 of 22
+(1) “Artificial intelligence” means an engineered or machine-based
+system that varies in its level of autonomy and that can, for explicit or implicit
+objectives, infer from the input it receives how to generate outputs that can
+influence physical or virtual environments. “Artificial intelligence” includes
+generative artificial intelligence.
+(2) “Generative artificial intelligence” means an artificial intelligence
+that can generate derived synthetic content, including text, images, video, and
+audio, that emulates the structure and characteristics of the system’s training
+data.
+(3) “Mental health services” means support, counseling, therapy, or
+psychotherapy services provided by a mental health professional to diagnose
+or treat an individual’s mental or behavioral health or provide ongoing
+recovery support, excluding religious counseling.
+(4) “Therapeutic communication” means a written or spoken
+interaction intended to diagnose or treat any type of mental or behavioral
+health concern, provide ongoing recovery support, or provide any advice
+related to diagnosis, treatment, or recovery.
+(b) A person, corporation, or other entity shall not offer, provide, or
+advertise mental health services in the State that represent artificial
+intelligence as providing therapeutic judgment, diagnosis, treatment, or
+therapeutic communication. Nothing in this subsection shall prohibit the use
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.816
+2026 Page 12 of 22
+or disclosure of the use of artificial intelligence for administrative,
+documentation, operational, or quality-improvement purposes when a mental
+health professional retains clinical responsibility as authorized pursuant to 26
+V.S.A. § 7101.
+(c)(1) A violation of this section shall be deemed a violation of the
+Consumer Protection Act, 9 V.S.A. chapter 63. The Attorney General has the
+same authority to make rules, conduct civil investigations, enter into
+assurances of discontinuance, and bring civil actions, and private parties have
+the same rights and remedies as provided under 9 V.S.A. chapter 63,
+subchapter 1.
+(2) Nothing in this section shall be construed to preclude or supplant
+any other statutory or common law remedies.
+Sec. 4. 26 V.S.A. chapter 120 is added to read:
+CHAPTER 120. ARTIFICIAL INTELLIGENCE IN REGULATED
+PROFESSIONS
+Subchapter 1. General Provisions
+§ 7001. DEFINITIONS
+As used in this chapter:
+(1) “Artificial intelligence” means an engineered or machine-based
+system that varies in its level of autonomy and that can, for explicit or implicit
+objectives, infer from the input it receives how to generate outputs that can
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.816
+2026 Page 13 of 22
+influence physical or virtual environments. “Artificial intelligence” includes
+generative artificial intelligence.
+(2) “Generative artificial intelligence” means an artificial intelligence
+that can generate derived synthetic content, including text, images, video, and
+audio, that emulates the structure and characteristics of the system’s training
+data.
+Subchapter 2. Use of Artificial Intelligence by Mental Health
+Professionals
+§ 7101. PERMITTED AND PROHIBITED USES OF ARTIFICIAL
+INTELLIGENCE IN THERAPEUTIC SETTINGS
+(a) Definitions. As used in this section:
+(1) “Administrative support” means a task performed to assist a mental
+health professional in the professional’s delivery of mental health services,
+such as scheduling, billing, and general logistics, but excluding therapeutic
+communication.
+(2) “Clinical responsibility” means the duty of a mental health
+professional to review, approve, and remain legally accountable for any use of
+artificial intelligence in connection with the provision of mental health
+services.
+(3) “Consent” means an explicit, affirmative act by an individual that
+communicates in writing voluntary, informed, and revocable agreement.
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.816
+2026 Page 14 of 22
+“Consent” does not include acceptance of broad terms-of-use agreements,
+passive actions, or deceptive practices.
+(4) “Mental health professional” means an individual licensed,
+certified, or rostered, respectively, to provide mental health services as a
+physician pursuant to chapter 23 or 33 of this title, an advance practice
+registered nurse specializing in psychiatric mental health pursuant to chapter
+28 of this title, a psychologist pursuant to chapter 55 of this title, a peer
+support provider or peer recovery support specialist pursuant to chapter 60 of
+this title, a social worker pursuant to chapter 61 of this title, an alcohol and
+drug abuse counselor pursuant to chapter 62 of this title, a clinical mental
+health counselor pursuant to chapter 65 of this title, a marriage and family
+therapist pursuant to chapter 76 of this title, a psychoanalyst pursuant to
+chapter 77 of this title, or an applied behavior analyst pursuant to chapter 95
+of this title, and a nonlicensed or noncertified psychotherapist, noncertified
+psychoanalyst, or any other professional that provides mental health services
+except as exempted in subsection (e) of this section.
+(5) “Mental health services” means support, counseling, therapy, or
+psychotherapy services provided by a mental health professional to diagnose
+or treat an individual’s mental or behavioral health or provide ongoing
+recovery support, excluding religious counseling or peer support.
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.816
+2026 Page 15 of 22
+(6) “Peer support” means support services provided by an individual
+with lived experience of a mental health condition or substance use disorder
+who is not certified under chapter 60 of this title.
+(7) “Religious counseling” means counseling provided by clergy,
+pastoral counselors, or other religious leaders acting within the scope of the
+individual’s duties if explicitly faith-based and not represented as clinical
+services.
+(8) “Supplementary support” means a task performed to assist a mental
+health professional in the professional’s delivery of mental health services,
+excluding therapeutic communication and administrative support.
+(9) “Therapeutic communication” means a written or spoken
+interaction intended to diagnose or treat any type of mental or behavioral
+health concern, provide ongoing recovery support, or provide any advice
+related to diagnosis, treatment, or recovery.
+(10) “Therapeutic decision” means the final clinical determination
+regarding diagnosis or selection, modification, or termination of treatment or
+care. “Therapeutic decision” does not include algorithmic risk scoring, data
+analytics, or other clinical decision support tools when used under the
+supervision and authority of a licensed mental health professional.
+(b) Permitted uses. A mental health professional may use artificial
+intelligence systems for administrative support, supplementary support, and
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.816
+2026 Page 16 of 22
+operational or quality-improvement functions, provided the professional
+retains sole responsibility for therapeutic decisions. Permitted uses include
+scheduling, billing, coding, and claims processing; transcription and
+documentation support; preparation and maintenance of clinical records;
+deidentified data analysis for quality improvement; and workforce and
+capacity planning where the mental health professional reviews, modifies
+where necessary, and approves the final product.
+(c) Confidentiality and consent.
+(1) Any administrative support or supplementary support tasks
+conducted using artificial intelligence, including transcription and recording,
+shall be subject to the disclosure prohibitions in 18 V.S.A. §§ 1881 and 7103.
+(2) Consent by a patient or client is required when artificial intelligence
+is used to record identifiable therapeutic communications.
+(d) Prohibited uses.
+(1) A mental health professional shall not use artificial intelligence in a
+manner that allows the artificial intelligence to independently make
+therapeutic decisions, independently diagnose, independently determine
+treatment, or independently generate treatment plans.
+(2) Nothing in this subsection shall prohibit a mental health professional
+from disclosing or describing the mental health professional’s use of artificial
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.816
+2026 Page 17 of 22
+intelligence for administrative support or supplementary support purposes to a
+prospective, current, or former patient or client.
+(e) Exceptions. Nothing in this section shall apply to:
+(1) religious counseling;
+(2) peer support provided by an individual who is not certified pursuant
+to chapter 60 of this title; and
+(3) generalized educational and self-help resources that do not purport
+to offer mental health services.
+Sec. 5. EFFECTIVE DATE
+This act shall take effect on passage.
+Sec. 1. PURPOSE
+It is the purpose of this act to safeguard individuals seeking mental health
+services in Vermont from psychological harm, including death by suicide, by
+ensuring that these services are delivered by mental health professionals and
+not independently by artificial intelligence systems.
+Sec. 2. 3 V.S.A. § 129a is amended to read:
+§ 129a. UNPROFESSIONAL CONDUCT
+(a) In addition to any other provision of law, the following conduct by a
+licensee constitutes unprofessional conduct. When that conduct is by an
+applicant or person who later becomes an applicant, it may constitute grounds
+for denial of a license or other disciplinary action. Any one of the following
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.816
+2026 Page 18 of 22
+items or any combination of items, whether the conduct at issue was committed
+within or outside the State, shall constitute unprofessional conduct:
+* * *
+(30) For any mental health professional, engaging in the prohibited use
+of artificial intelligence pursuant to 18 V.S.A. § 7115.
+* * *
+Sec. 3. 18 V.S.A. § 7115 is added to read:
+§ 7115. PROHIBITED USES OF ARTIFICIAL INTELLIGENCE
+(a) As used in this section:
+(1) “Artificial intelligence” means an engineered or machine-based
+system that varies in its level of autonomy and that can, for explicit or implicit
+objectives, infer from the input it receives how to generate outputs that can
+influence physical or virtual environments.
+(2) “Mental health professional” means an individual licensed,
+certified, or rostered, respectively, to provide mental health services as a
+physician pursuant to 26 V.S.A. chapter 23 or 33; an advanced practice
+registered nurse specializing in psychiatric mental health pursuant to 26 V.S.A.
+chapter 28; a psychologist pursuant to 26 V.S.A. chapter 55; a peer support
+provider or peer recovery support specialist pursuant to 26 V.S.A. chapter 60;
+a social worker pursuant to 26 V.S.A. chapter 61; an alcohol and drug abuse
+counselor pursuant to 26 V.S.A. chapter 62; a clinical mental health counselor
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.816
+2026 Page 19 of 22
+pursuant to 26 V.S.A. chapter 65; a marriage and family therapist pursuant to
+26 V.S.A. chapter 76; a psychoanalyst pursuant to 26 V.S.A. chapter 77; an
+applied behavior analyst pursuant to 26 V.S.A. chapter 95; a nonlicensed or
+noncertified psychotherapist or a noncertified psychoanalyst; or any other
+professional who provides mental health services.
+(3) “Mental health services” means services provided to diagnose, treat,
+or address an individual’s mental health or behavioral health through
+therapeutic communications and therapeutic decisions.
+(4) “Therapeutic communication” means a written, verbal, or
+nonverbal interaction intended to diagnose or treat any type of mental or
+behavioral health concern, provide ongoing recovery support, or provide
+clinical advice on diagnosis, treatment, or recovery support, such as:
+(A) engaging in direct interactions with clients or patients for the
+purpose of understanding or reflecting the client’s or patient’s mental health
+condition;
+(B) providing clinical guidance, strategies, or interventions;
+(C) offering clinical support, including reassurance or empathy in
+response to emotional or psychological distress;
+(D) collaborating with a patient or client to develop or modify
+treatment plans or therapeutic mental health goals; and
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.816
+2026 Page 20 of 22
+(E) delivering feedback intended to promote growth or address
+mental health outcomes.
+(5) “Therapeutic decision” means the final clinical determination
+regarding diagnosis or the selection, modification, or termination of treatment
+or care.
+(b) A corporation or entity shall not provide, advertise, or otherwise offer
+mental health services, including through the use of artificial intelligence, to
+the public unless the mental health services are:
+(1) provided by a mental health professional; or
+(2) part of an approved institutional review board or privacy board
+study in accordance with 45 C.F.R. § 164.512(i)(1)(i)(A) and (B).
+(c)(1) A violation of this section by a corporation or entity shall be deemed
+a violation of the Consumer Protection Act, 9 V.S.A. chapter 63. The Attorney
+General has the same authority, and private parties have the same rights and
+remedies, as provided under 9 V.S.A. chapter 63, subchapter 1.
+(2) Nothing in this section shall be construed to preclude or supplant
+any other statutory or common law remedies.
+(d) Nothing in this section shall preclude a mental health professional who
+is operating within the professional’s scope of practice from utilizing artificial
+intelligence tools that are compliant with the Health Insurance Portability and
+Accountability Act of 1996, Pub. L. No. 104-191, provided that the mental
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.816
+2026 Page 21 of 22
+health professional reviews and approves any mental health services. This
+includes a software-based medical product, including a digital therapeutic or
+software as a medical device product that is authorized, cleared, or approved
+by the U.S. Food and Drug Administration, provided the product’s use is
+prescribed or recommended by a mental health professional.
+Sec. 4. 26 V.S.A. § 1354 is amended to read:
+§ 1354. UNPROFESSIONAL CONDUCT
+(a) Prohibited conduct. The Board shall find that any one of the following,
+or any combination of the following, whether the conduct at issue was
+committed within or outside the State, constitutes unprofessional conduct:
+* * *
+(3) engaging in the prohibited use of artificial intelligence pursuant to
+18 V.S.A. § 7115;
+* * *
+Sec. 5. 3 V.S.A. § 5023 is amended to read:
+§ 5023. ARTIFICIAL INTELLIGENCE ADVISORY COUNCIL
+* * *
+(b) Members.
+(1) Members. The Advisory Council shall be composed of the following
+members:
+* * *
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.816
+2026 Page 22 of 22
+(I) the Director of Professional Regulation or designee;
+(J) the Executive Director of the Vermont Board of Medical Practice
+or designee;
+(K) the Executive Director of Racial Equity or designee; and
+(J)(L) the Attorney General or designee.
+* * *
+Sec. 6. USE OF ARTIFICIAL INTELLIGENCE BY MENTAL HEALTH
+PROFESSIONALS
+On or before January 15, 2027, the Artificial Intelligence Advisory Council
+established in 3 V.S.A. § 5023 shall submit a written report to the House
+Committees on Government Operations and Military Affairs and on Health
+Care and to the Senate Committees on Government Operations and on Health
+and Welfare regarding the regulation of the use of artificial intelligence by
+mental health professionals, including recommendations for legislative action.
+Sec. 7. EFFECTIVE DATE
+This act shall take effect on passage.

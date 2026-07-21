@@ -1,0 +1,340 @@
+Title: 
+Official Title: 
+Source: versions - House Proposal of Amendment (UnofficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HOUSE PROPOSAL OF AMENDMENT S.190
+2026 Page 1 of 14
+1 S.190
+2 An act relating to the Green Mountain Care Board, reference-based pricing,
+3 and studying the creation of a Public Employee Health Benefit Authority
+4 The House proposes to the Senate to amend the bill by striking out all after
+5 the enacting clause and inserting in lieu thereof the following:
+6 * * * Reference-Based Pricing * * *
+7 Sec. 1. 18 V.S.A. § 9376(e) is amended to read:
+8 (e) Reference-based pricing.
+9 (1)(A) The Board shall establish reference-based prices that represent
+10 the maximum amounts that hospitals shall accept as payment in full for items
+11 provided and services delivered in Vermont. The Board may also implement
+12 reference-based pricing for services delivered outside a hospital by setting the
+13 minimum amounts that shall be paid for items provided and services delivered
+14 by nonhospital-based health care professionals. The Board shall consult with
+15 health insurers, hospitals, other health care professionals as applicable, the
+16 Office of the Health Care Advocate, and the Agency of Human Services in
+17 developing reference-based prices pursuant to this subsection (e), including on
+18 ways to achieve all-payer alignment on the design and implementation of
+19 reference-based pricing.
+20 (B) The Board shall utilize reference-based pricing to reduce hospital
+21 prices incrementally until they are equal to national median prices by hospital
+VT LEG #389838 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.190
+2026 Page 2 of 14
+1 type by calendar year 2030. The Board shall use the highest quality,
+2 nonpartisan data demonstrating hospital prices as a percentage of Medicare to
+3 evaluate progress toward reducing hospital prices in Vermont to the national
+4 median.
+5 (C) The Board shall implement reference-based pricing in a manner
+6 that does not allow health care professionals to charge or collect from patients
+7 or health insurers any amount in excess of the reference-based amount
+8 established by the Board.
+9 * * *
+10 (3)(A) The Board shall begin implementing reference-based pricing as
+11 soon as practicable but not later than hospital fiscal year 2027 by establishing
+12 the maximum amounts that Vermont hospitals shall accept as payment in full
+13 for items provided and services delivered. After initial implementation, the
+14 Board shall review the reference-based prices for each hospital annually as part
+15 of the hospital budget review process set forth in chapter 221, subchapter 7 of
+16 this title.
+17 (B) The Board, in collaboration with the Department of Financial
+18 Regulation, shall monitor the implementation of reference-based pricing to
+19 ensure that any decreases in amounts paid to hospitals also result in decreases
+20 in health insurance premiums. The Board shall post its findings regarding the
+VT LEG #389838 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.190
+2026 Page 3 of 14
+1 alignment between price decreases and premium decreases annually on its
+2 website.
+3 (C)(i) For provider contracts entered into, amended, or renewed on or
+4 after January 1, 2028, each hospital and health insurer shall begin expressing
+5 as a percentage of Medicare or of another benchmark, if another benchmark is
+6 deemed appropriate by the Green Mountain Care Board, the rates for items and
+7 services identified pursuant to a collaborative process between the Board and
+8 representatives of Vermont hospitals.
+9 (ii) When making public the charges for items and services
+10 pursuant to 45 C.F.R. Part 180, each hospital shall include in its machine-
+11 readable files pricing information shown as a percentage of Medicare rates, as
+12 well as in dollars and cents, disaggregated by payer and by plan.
+13 (iii) For purposes of subdivisions (i) and (ii) of this subdivision
+14 (3)(C), a hospital may express rates as a percentage of Medicare based on the
+15 actual reimbursement amounts the hospital receives from Medicare for items
+16 provided and services delivered to Medicare beneficiaries until such time as
+17 the Green Mountain Care Board adopts a rule establishing the methodology for
+18 determining Medicare rates for use as a benchmark in establishing reference-
+19 based prices pursuant to this subsection (e).
+20 (D)(i) Each hospital shall apply for, obtain, and use a unique National
+21 Provider Identifier (NPI) on all claims filed after October 1, 2027, for
+VT LEG #389838 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.190
+2026 Page 4 of 14
+1 reimbursement or payment of items provided and services delivered at an off-
+2 campus department of the hospital that is distinct from the NPI used for
+3 services delivered at the main hospital campus or at any other off-campus
+4 hospital department.
+5 (ii) As used in this subdivision (D):
+6 (I) “Campus” has the same meaning as in 42 C.F.R. § 413.65.
+7 (II) “Off-campus” means a facility located more than 250 yards
+8 from the main hospital campus.
+9 * * *
+10 Sec. 2. LIMITATIONS ON HOSPITAL REIMBURSEMENTS FOR
+11 QUALIFIED HEALTH BENEFIT PLANS AND PLANS
+12 COVERING SCHOOL EMPLOYEES FOR HOSPITAL FISCAL
+13 YEAR 2027
+14 (a) As used in this section:
+15 (1) “Health benefit association” has the same meaning as in 24 V.S.A.
+16 § 4947.
+17 (2)(A) “Medicare adjusted base rate” means the standardized Medicare
+18 payment amount for a hospital inpatient, outpatient, or professional service as
+19 determined under the Medicare program, calculated prior to the application of
+20 any hospital-specific, patient-specific, or policy-based payment adjustments
+21 and reflecting only the core payment methodology used by the Centers for
+VT LEG #389838 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.190
+2026 Page 5 of 14
+1 Medicare and Medicaid Services to establish baseline payment levels, which
+2 include adjustments for geographic factors such as wages.
+3 (B) For items provided and services delivered at a critical access
+4 hospital, the Medicare adjusted base rate shall be determined under the
+5 applicable Medicare prospective payment system, using the Medicare payment
+6 methodology that would apply if the hospital were not designated as a critical
+7 access hospital.
+8 (3) “Qualified health benefit plan” has the same meaning as in
+9 33 V.S.A. § 1802.
+10 (4) “Registered carrier” has the same meaning as in 33 V.S.A. § 1811.
+11 (5) “School employee” has the same meaning as in 16 V.S.A. § 2101.
+12 (b) Notwithstanding any provision of 18 V.S.A. § 9375(b)(1)(A) to the
+13 contrary, for hospital fiscal year 2027, the Green Mountain Care Board may
+14 order hospitals to reduce their commercial reimbursement rates for qualified
+15 health benefit plans and for health benefit plans offered to school employees
+16 by a health benefit association pursuant to 24 V.S.A. § 4947 based on a
+17 percentage of the Medicare adjusted base rate determined by the Board for
+18 each item provided and service delivered in Vermont to enrollees in these
+19 plans.
+20 (c)(1) A registered carrier or health benefit association shall not reimburse
+21 or agree to reimburse a hospital more than the percentage of the Medicare
+VT LEG #389838 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.190
+2026 Page 6 of 14
+1 adjusted base rate specified by the Green Mountain Care Board pursuant to
+2 subsection (b) of this section, if any, for the applicable hospital fiscal year for
+3 any item provided or service delivered in Vermont to an enrollee in a qualified
+4 health benefit plan or a health benefit plan offered to school employees by a
+5 health benefit association.
+6 (2) In the event that a registered carrier or health benefit association
+7 reimburses a hospital for an item or service on a capitated or other non-fee-for-
+8 service basis, the carrier or association shall ensure that its reimbursement
+9 method is adjusted to account for the reimbursement limit set forth in
+10 subdivision (1) of this subsection.
+11 (d) A hospital or hospital provider that is reimbursed in accordance with
+12 subsections (b) and (c) of this section shall not charge or collect from the
+13 patient any additional amounts other than the cost-sharing amounts authorized
+14 by the terms of the health benefit plan.
+15 (e) To the extent that a hospital is required by the Board’s budget order to
+16 reduce its commercial reimbursement rates by amounts greater than the
+17 reductions achieved pursuant to subsection (b) of this section, the hospital shall
+18 reduce its commercial reimbursement rates that exceed 500 percent of the
+19 Medicare adjusted base rate or, if the hospital does not have any commercial
+20 reimbursement rates that exceed 500 percent of the Medicare adjusted base
+VT LEG #389838 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.190
+2026 Page 7 of 14
+1 rate, by reducing its commercial reimbursement rates that are the highest in
+2 relation to the Medicare adjusted base rate.
+3 (f)(1) In its reviews of premium rates in accordance with 8 V.S.A. § 4026,
+4 the Green Mountain Care Board shall ensure that the limitations on
+5 reimbursements established in this section are appropriately reflected in the
+6 premium rates for qualified health benefit plans.
+7 (2) In its review of premium rates in accordance with 8 V.S.A. § 4026
+8 and 24 V.S.A. chapter 121, subchapter 6, the Department of Financial
+9 Regulation shall ensure that the limitations on reimbursements established in
+10 this section are appropriately reflected in the premium rates for health benefit
+11 plans offered to school employees by a health benefit association.
+12 Sec. 3. [Deleted.]
+13 * * * Hospital Outsourcing * * *
+14 Sec. 4. HOSPITAL OUTSOURCING; HOSPITAL BUDGETS;
+15 PROVIDER TAXES; REPORT
+16 (a) For fiscal year 2027 hospital budgets, the Green Mountain Care Board
+17 shall direct hospitals to provide such information as the Board may require
+18 regarding the clinical services that the hospital outsources to external entities.
+19 (b) On or before January 15, 2027, the Green Mountain Care Board, after
+20 consulting with hospitals and their contracted independent providers and
+21 assessing the impact of outsourcing on access to and the quality and
+VT LEG #389838 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.190
+2026 Page 8 of 14
+1 availability of care, shall provide findings and recommendations regarding
+2 hospital outsourcing to the House Committees on Health Care and on Ways
+3 and Means and the Senate Committees on Health and Welfare and on Finance.
+4 In addition, the Board, in collaboration with the Agency of Human Services,
+5 shall report on the extent to which hospital outsourcing affects provider tax
+6 revenue and recommend any necessary modifications to 33 V.S.A. chapter 19,
+7 subchapter 2 to appropriately reflect expenditures for patient care at Vermont
+8 hospitals.
+9 * * * Section 1332 Waiver for Reinsurance Program * * *
+10 Sec. 4a. REINSURANCE; AUTHORIZATION TO PURSUE SECTION
+11 1332 WAIVER
+12 The Department of Vermont Health Access, in consultation with the
+13 Department of Financial Regulation, is authorized to submit a State Innovation
+14 Waiver pursuant to Section 1332 of the Patient Protection and Affordable Care
+15 Act of 2010, Pub. L. No. 111-148, as amended by the Health Care and
+16 Education Reconciliation Act of 2010, Pub. L. No. 111-152, to establish a
+17 program for reinsurance and seek federal pass-through funding of amounts
+18 attributable to premium tax credits under 26 U.S.C. § 36B.
+VT LEG #389838 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.190
+2026 Page 9 of 14
+1 * * * Excluding Reference-Based Pricing from Scope of Health Care
+2 Professional Bargaining * * *
+3 Sec. 5. 18 V.S.A. § 9409 is amended to read:
+4 § 9409. HEALTH CARE PROVIDER BARGAINING GROUPS
+5 (a) The Green Mountain Care Board may approve the creation of one or
+6 more health care provider bargaining groups, consisting of health care
+7 providers who choose to participate. A bargaining group is authorized to
+8 negotiate on behalf of all participating providers with the Secretary of
+9 Administration, the Secretary of Human Services, the Green Mountain Care
+10 Board, or the Commissioner of Labor with respect to any matter in this
+11 chapter; chapter 13, 219, 220, or 222 of this title; 21 V.S.A. chapter 9; and
+12 33 V.S.A. chapters 18 and 19 with respect to provider regulation, provider
+13 reimbursement, administrative simplification, information technology,
+14 workforce planning, or quality of health care.
+15 (b) The Green Mountain Care Board shall adopt by rule criteria for forming
+16 and approving bargaining groups and criteria and procedures for negotiations
+17 authorized by this section.
+18 (c) The rules relating to negotiations shall include a nonbinding arbitration
+19 process to assist in the resolution of disputes. Nothing in this section shall be
+20 construed to limit the authority of the Secretary of Administration, the
+21 Secretary of Human Services, the Green Mountain Care Board, or the
+VT LEG #389838 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.190
+2026 Page 10 of 14
+1 Commissioner of Labor to reject the recommendation or decision of the
+2 arbiter.
+3 (d) Notwithstanding any provisions of this section to the contrary, the
+4 Green Mountain Care Board shall not be required to negotiate with a provider
+5 bargaining group or engage in a nonbinding arbitration process in connection
+6 with the Board’s establishment of reference-based prices in accordance with
+7 subdivision 9375(b)(1)(A), subdivision 9375(b)(5), or section 9376 of this title.
+8 * * * Appeals of Green Mountain Care Board Orders * * *
+9 Sec. 6. 18 V.S.A. § 9381 is amended to read:
+10 § 9381. APPEALS
+11 (a) The Green Mountain Care Board shall adopt procedures for
+12 administrative appeals of its actions, orders, or other determinations. Such
+13 procedures shall that provide for the issuance of a final order and for the
+14 creation of a record sufficient to serve as the basis for judicial review of the
+15 Board’s final actions, orders, and other determinations pursuant to subsection
+16 (b) of this section.
+17 (b) Any person aggrieved by a final action, order, or other determination of
+18 the Green Mountain Care Board may, upon exhaustion of all administrative
+19 appeals available pursuant to subsection (a) of this section, appeal to the
+20 Supreme Court pursuant to the Vermont Rules of Appellate Procedure.
+21 * * *
+VT LEG #389838 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.190
+2026 Page 11 of 14
+1 * * * Data Infrastructure * * *
+2 Sec. 7. 18 V.S.A. § 9411 is amended to read:
+3 § 9411. INTERACTIVE PRICE TRANSPARENCY DASHBOARD AND
+4 HEALTH SYSTEM PERFORMANCE TOOL
+5 (a)(1) The Green Mountain Care Board shall develop and maintain a
+6 public, interactive, Internet-based internet-based price transparency dashboard
+7 that allows consumers to compare health care prices for certain health care
+8 services across the State. Using data from the Vermont Healthcare Claims
+9 Uniform Reporting and Evaluation System (VHCURES) established pursuant
+10 to section 9410 of this title, the dashboard shall provide the range of actual
+11 allowed amounts for selected health care services, showing both the amount
+12 paid by the health insurer or other payer and the amount of the member’s
+13 responsibility, and shall allow the consumer to sort the information by
+14 geographic location, by health care provider, by payer type, and by the specific
+15 health care procedure or health care service. The Board shall provide a link on
+16 the dashboard to the statewide comparative hospital quality report published by
+17 the Commissioner of Health pursuant to section 9405b of this title.
+18 (b)(2) The Board shall update the information in the interactive price
+19 transparency dashboard at least annually.
+VT LEG #389838 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.190
+2026 Page 12 of 14
+1 (b)(1) The Board shall develop and maintain a public, interactive tool that
+2 displays information on health system performance, including information
+3 regarding quality, access, and affordability.
+4 (2) The Board shall update the information in the health system
+5 performance tool on a regular basis, to the extent operationally feasible.
+6 Sec. 8. IMPLEMENTATION OF HEALTH SYSTEM PERFORMANCE
+7 TOOL
+8 The Green Mountain Care Board shall develop the health system
+9 performance tool described in 18 V.S.A. § 9411(b), as added by Sec. 8 of this
+10 act, only if the Board receives sufficient funding from the federal government
+11 or another source for this purpose.
+12 * * * Critical Access Hospitals; Medicare Outpatient Cost Sharing * * *
+13 Sec. 9. CRITICAL ACCESS HOSPITALS; MEDICARE OUTPATIENT
+14 COST SHARING
+15 (a) The General Assembly and the Green Mountain Care Board have
+16 recently become aware of a federal requirement that Medicare beneficiaries
+17 must bear financial responsibility for 20 percent of the amount charged for
+18 outpatient services delivered by critical access hospitals, not 20 percent of the
+19 amount that Medicare pays for the service. While the General Assembly
+20 understands that it cannot invalidate this federal requirement, it also recognizes
+21 both that this requirement has a significant, unfair, and negative financial
+VT LEG #389838 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.190
+2026 Page 13 of 14
+1 impact on Medicare beneficiaries in the State’s most rural communities and
+2 that Vermont’s critical access hospitals are some of the State’s most financially
+3 vulnerable health care facilities. It is the intent of this section to provide
+4 information to Vermont’s seniors and other Medicare beneficiaries about the
+5 federal requirement while a working group of interested stakeholders
+6 endeavors to develop appropriate and enduring solutions that do not undermine
+7 the financial sustainability of our critical access hospitals and that comply with
+8 federal law.
+9 (b) On or before September 1, 2026, each critical access hospital shall do
+10 all of the following:
+11 (1) Identify all the outpatient services for which the amount that the
+12 hospital charges equals five or more times the Medicare allowed amount for
+13 that service.
+14 (2) Post prominently on its website and in outpatient departments of the
+15 hospital a disclosure about the federal requirement that Medicare beneficiaries
+16 must pay 20 percent of the charge for outpatient services at critical access
+17 hospitals, that Medicare beneficiaries may be able to receive care with reduced
+18 out-of-pocket costs from other providers, and how to contact the hospital’s
+19 patient financial assistance department for more information. The hospital
+20 shall file its proposed disclosure materials with the Green Mountain Care
+21 Board for the Board’s approval prior to posting.
+VT LEG #389838 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.190
+2026 Page 14 of 14
+1 (c) To the extent that the Green Mountain Care Board engages in efforts to
+2 address the Medicare outpatient cost-sharing issue in hospital fiscal year 2027,
+3 the Board shall consider any proposals from the critical access hospitals and
+4 other interested stakeholders and shall ensure that its actions are consistent
+5 with ongoing hospital transformation efforts and the principles for health care
+6 reform expressed in 18 V.S.A. § 9371.
+7 * * * Effective Date * * *
+8 Sec. 10. EFFECTIVE DATE
+9 This act shall take effect on passage.
+10 and that after passage the title of the bill be amended to read: “An act relating
+11 to reference-based pricing and the Green Mountain Care Board”
+VT LEG #389838 v.1

@@ -1,0 +1,1259 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.820
+2026 Page 1 of 51
+1 H.820
+2 Introduced by Representatives Mihaly of Calais, Bartley of Fairfax, Chapin of
+3 East Montpelier, and Krasnow of South Burlington
+4 Referred to Committee on
+5 Date:
+6 Subject: Conservation and development; land use; Act 250; appeals;
+7 Environmental Division of the Superior Court
+8 Statement of purpose of bill as introduced: This bill proposes to transfer the
+9 authority of the Environmental Division of the Superior Court to hear appeals
+10 and enforcement cases related to State environmental permits to the Land Use
+11 Review Board and the Secretary of Natural Resources.
+12 An act relating to environmental appeals and enforcement cases
+13 It is hereby enacted by the General Assembly of the State of Vermont:
+14 * * * Environmental Appeals * * *
+15 Sec. 1. 10 V.S.A. chapter 220 is amended to read:
+16 CHAPTER 220. CONSOLIDATED ENVIRONMENTAL APPEALS
+17 § 8501. PURPOSE
+18 It is the purpose of this chapter to:
+19 * * *
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 2 of 51
+1 (3) encourage people to get involved in the Act 250 permitting process
+2 at the initial stages of review by a District Commission by requiring
+3 participation as a prerequisite for an appeal of a District Commission decision
+4 to the Environmental Division Land Use Review Board;
+5 * * *
+6 § 8502. DEFINITIONS
+7 As used in this chapter:
+8 * * *
+9 (3) “Environmental Court” or “Environmental Division” means the
+10 Environmental Division of the Superior Court established by 4 V.S.A. § 30.
+11 [Repealed.]
+12 * * *
+13 (7) “Person aggrieved” means a person who alleges an injury to a
+14 particularized interest protected by the provisions of law listed in section 8503
+15 of this title, attributable to an act or decision by a district coordinator, District
+16 Commission, the Secretary, or the Environmental Division stemming from a
+17 decision that can be redressed by the Environmental Division or the Supreme
+18 Court Board or Secretary. For purposes of appeals pursuant to 24 V.S.A.
+19 chapter 117, the injury alleged shall be to a particularized interest protected by
+20 24 V.S.A. § 4302(c).
+21 * * *
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 3 of 51
+1 (9) “Record” means a good faith compilation of all the materials and
+2 testimony presented to, or considered by, a District Commission or appropriate
+3 municipal panel that has been appealed to the Board, including the application,
+4 recordings of testimony, transcripts, reports, exhibits, plans, schematics,
+5 drawings, and any other such information as well as any written materials
+6 including memoranda, written communications, responses, reports, and
+7 decisions issued by the District Commission or appropriate municipal panel.
+8 (10) “Administrative record” means all materials the Agency of Natural
+9 Resources relied on or considered or that formed the foundation for its final
+10 action and not otherwise exempt from disclosure under the Vermont Public
+11 Records Act including the following:
+12 (A) all application materials;
+13 (B) all staff reports and related documents prepared by the Agency
+14 with respect to compliance with substantive and procedural requirements of the
+15 relevant statutory and regulatory requirements with respect to the action being
+16 appealed, including public notices, inspection reports, correspondence,
+17 memoranda, environmental reviews, scientific studies, and compilations of
+18 data relied upon by the Agency staff in making recommendations or decisions
+19 as well as any decision documents;
+20 (C) all written comments, including maps, drawings, schematics, and
+21 any exhibits and attachments, provided to the Agency by any person or entity
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 4 of 51
+1 including other federal and State agencies, local governments, regional
+2 planning commissions, the applicant, or an entity subject to enforcement
+3 relating to the action being appealed; and
+4 (D) all transcripts of proceedings with information considered by the
+5 Agency in reaching its decision in the action being appealed.
+6 § 8503. APPLICABILITY
+7 * * *
+8 (d) This chapter shall govern all appeals from an act or decision of the
+9 Environmental Division Land Use Review Board or Secretary under this
+10 chapter.
+11 * * *
+12 § 8504. APPEALS TO THE ENVIRONMENTAL DIVISION BOARD OR
+13 SECRETARY
+14 (a) Act 250 and Agency appeals. Within 30 days of following the date of
+15 the act or decision, any person aggrieved by an act or decision of the Secretary,
+16 a District Commission, or a district coordinator under the provisions of law
+17 listed in section 8503 of this title, or any party by right, may appeal to the
+18 Environmental Division, except for an act or decision of the Secretary under
+19 subdivision 6086b(3)(E) of this title or governed by section 8506 of this title
+20 Board.
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 5 of 51
+1 (b) Agency appeals. Within 30 days following the date of the act or
+2 decision, any person aggrieved by an act or decision of the Secretary under the
+3 provisions of law listed in section 8503 of this title, or any party by right, may
+4 appeal to the Secretary, except for an act or decision of the Secretary under
+5 subdivision 6086b(3)(E) of this title or governed by section 8506 of this title.
+6 At the request of the Secretary, the Board shall assign agency appeals to a
+7 hearing officer who shall conduct the hearing on behalf of, or alongside, the
+8 Secretary.
+9 (b)(c) Planning and zoning chapter appeals.
+10 (1) Within 30 days of following the date of the act or decision, an
+11 interested person, as defined in 24 V.S.A. § 4465, or a person aggrieved
+12 owning or occupying property in the immediate neighborhood of a property
+13 that is the subject of the decision or act, who has participated as defined in 24
+14 V.S.A. § 4471 in the municipal regulatory proceeding under that chapter may
+15 appeal to the Environmental Division Board an act or decision made under that
+16 chapter by a board of adjustment, a planning commission, or a development
+17 review board; provided, however, that decisions of a development review
+18 board under 24 V.S.A. § 4420 with respect to local Act 250 review of
+19 municipal impacts are not subject to appeal but shall serve as presumptions
+20 under chapter 151 of this title.
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 6 of 51
+1 (2) Notwithstanding subdivision (1) of this subsection, an interested
+2 person may appeal an act or decision under 24 V.S.A. chapter 117 if the
+3 Environmental judge Board determines that:
+4 (A) there was a procedural defect that prevented the person from
+5 obtaining interested person status or participating in the proceeding;
+6 (B) the decision being appealed is the grant or denial of interested
+7 person status; or
+8 (C) some other condition exists that would result in manifest injustice
+9 if the person’s right to appeal was disallowed.
+10 (c)(d) Notice of the filing of an appeal.
+11 (1) Upon filing an appeal from an act or decision of the District
+12 Commission, the appellant shall notify all parties who had party status as of the
+13 end of the District Commission proceeding, and all friends of the Commission,
+14 and the Land Use Review Board that an appeal is being filed. In addition, the
+15 appellant shall publish notice not more than 10 days after providing notice as
+16 required under this subsection, at the appellant’s expense, in a newspaper of
+17 general circulation in the area of the project that is the subject of the decision.
+18 * * *
+19 (d)(e) Requirement to participate before the District Commission or the
+20 Secretary.
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 7 of 51
+1 (1) Participation before District Commission. An aggrieved person shall
+2 not appeal an act or decision that was made by a District Commission unless
+3 the person was granted party status by the District Commission pursuant to
+4 subdivision 6085(c)(1)(E) of this title, participated in the proceedings before
+5 the District Commission, and retained party status at the end of the District
+6 Commission proceedings. In addition, the person may only appeal those issues
+7 under the criteria with respect to which the person was granted party status.
+8 However, notwithstanding these limitations, an aggrieved person may appeal
+9 an act or decision of the District Commission if the Environmental judge
+10 Board determines that:
+11 * * *
+12 (2) Participation before the Secretary.
+13 (A) An aggrieved person shall not appeal an act or decision of the
+14 Secretary unless the person submitted to the Secretary a written comment
+15 during the comment period or an oral comment at the public meeting
+16 conducted by the Secretary, identifying the general concerns with the proposed
+17 act or decision of the Secretary. In addition, the person may only appeal issues
+18 related to the person’s comment to the Secretary.
+19 (i) To be sufficient for the purpose of appeal, a comment to the
+20 Secretary shall identify each reasonably ascertainable issue with enough
+21 particularity so that a meaningful response can be provided.
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 8 of 51
+1 (ii) The appellant shall identify each comment that the appellant
+2 submitted to the Secretary that identifies or relates to an issue raised in his or
+3 her appeal.
+4 (iii) A person moving to dismiss an appeal or an issue raised by an
+5 appeal pursuant to this subdivision (A) shall have the burden to prove that the
+6 requirements of this subdivision (A) are not satisfied.
+7 (B) Notwithstanding the limitations of subdivision (2)(A) of this
+8 subsection, an aggrieved person may appeal an act or decision of the Secretary
+9 if the Environmental judge Secretary determines that:
+10 (i) there was a procedural defect that prevented the person from
+11 commenting during the comment period or at the public meeting or otherwise
+12 participating in the proceeding;
+13 (ii) the Secretary did not conduct a comment period and did not
+14 hold a public meeting; or
+15 (iii) the person demonstrates that an issue was not reasonably
+16 ascertainable during the review of an application or other request that led to the
+17 Secretary’s act or decision; or
+18 (iv) some other condition exists that would result in manifest
+19 injustice if the person’s right to appeal was disallowed.
+20 (e)(f) Act 250 jurisdictional determinations by a district coordinator.
+21 * * *
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 9 of 51
+1 (f)(g) Stays.
+2 (1) The filing of an appeal shall automatically stay the act or decision in
+3 the following situations:
+4 (A) acts or decisions involving stream alteration permits or shoreline
+5 encroachment permits issued by the Secretary; or
+6 (B) the denial of interested person status by a board of adjustment,
+7 planning commission, or development review board.
+8 (2) Upon petition by a party or upon its own motion for a stay of an act
+9 or decision, the Environmental Division Board shall perform the initial review
+10 of the request and may grant a stay. Any decision under this subsection to
+11 issue a stay shall be subject to appeal to the Supreme Court according to the
+12 Rules of Appellate Procedure.
+13 (g)(h) Consolidated appeals. The Environmental Division Board may
+14 consolidate or coordinate different appeals, in accordance with section 6035 of
+15 this title, where those appeals all relate to the same project, including appeals
+16 of permits from the Secretary, with the Secretary’s agreement.
+17 (h) De novo hearing. The Environmental Division, applying the
+18 substantive standards that were applicable before the tribunal appealed from,
+19 shall hold a de novo hearing on those issues that have been appealed, except in
+20 the case of:
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 10 of 51
+1 (1) a decision being appealed on the record pursuant to 24 V.S.A.
+2 chapter 117;
+3 (2) a decision of the Commissioner of Forests, Parks and Recreation
+4 under section 2625 of this title being appealed on the record, in which case the
+5 court shall affirm the decision, unless it finds that the Commissioner did not
+6 have reasonable grounds on which to base the decision.
+7 (i) Deference to Agency technical determinations. In the adjudication of
+8 appeals relating to land use permits under chapter 151 of this title, technical
+9 determinations of the Secretary shall be accorded the same deference as they
+10 are accorded by a District Commission under subsection 6086(d) of this title.
+11 * * *
+12 (k) Limitations on appeals. Notwithstanding any other provision of this
+13 section:
+14 (1) there shall be no appeal from a District Commission decision when
+15 the Commission has issued a permit and no hearing was requested or held, or
+16 no motion to alter was filed following the issuance of an administrative
+17 amendment;
+18 (2) a municipal decision regarding whether a particular application
+19 qualifies for a recorded hearing under 24 V.S.A. § 4471(b) shall not be subject
+20 to appeal;
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 11 of 51
+1 (3) if a District Commission issues a partial decision under subsection
+2 6086(b) of this title, any appeal of that decision must be taken within 30 days
+3 following the date of that decision; and
+4 (4) it shall be the goal of the Environmental Division Board to issue a
+5 decision on a case regarding an appeal of an appropriate municipal panel
+6 decision under 24 V.S.A. chapter 117 within 90 days following the close of the
+7 hearing.
+8 (l) Representation. The Secretary may represent the Agency of Natural
+9 Resources in all appeals under this section. The Chair of the Land Use Review
+10 Board may represent the Board in any appeal under this section, unless the
+11 Board directs otherwise. If more than one State agency, other than the Board,
+12 either appeals or seeks to intervene in an appeal under this section, only the
+13 Attorney General may represent the interests of those agencies of the State in
+14 the appeal.
+15 (m) Precedent. Prior decisions of the Environmental Division of the
+16 Superior Court, Environmental Board, Water Resources Board, and Waste
+17 Facilities Panel shall be given the same weight and consideration as prior
+18 decisions of the Environmental Division Land Use Review Board.
+19 (n) Intervention. Any person may intervene in a pending appeal if that
+20 person:
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 12 of 51
+1 (1) appeared as a party in the action appealed from and retained party
+2 status;
+3 (2) is a party by right;
+4 (3) is the Land Use Review Board; [Repealed.]
+5 (4) is a person aggrieved, as defined in this chapter;
+6 (5) qualifies as an “interested person,” as established in 24 V.S.A.
+7 § 4465, with respect to appeals under 24 V.S.A. chapter 117; or
+8 (6) meets the standard for intervention established in the Vermont Rules
+9 of Civil Procedure.
+10 (o) With respect to review of an act or decision of the Secretary pursuant to
+11 3 V.S.A. § 2809, the Division Board may reverse the act or decision or amend
+12 an allocation of costs to an applicant only if the Division Board determines that
+13 the act, decision, or allocation was arbitrary, capricious, or an abuse of
+14 discretion. In the absence of such a determination, the Division Board shall
+15 require the applicant to pay the Secretary all costs assessed pursuant to
+16 3 V.S.A. § 2809.
+17 (p) Administrative record. The Secretary shall certify the administrative
+18 record as defined in chapter 170 of this title and shall transfer a certified copy
+19 of that record to the Environmental Division Board when:
+20 (1) there is an appeal of an act or decision of the Secretary that is based
+21 on that record; or
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 13 of 51
+1 (2) there is an appeal of a decision of a District Commission, and the
+2 applicant used a decision of the Secretary based on that record to create a
+3 presumption under a criterion of subsection 6086(a) of this title that is at issue
+4 in the appeal.
+5 (q) Amicus curiae. Notwithstanding the hearing of an appeal as de novo,
+6 any judge the Board presiding over appeals from chapter 151 of this title and
+7 Agency permits pursuant to subsection (a) (b) of this section may allow
+8 participation in such appeals by amicus curiae following the Rules of Appellate
+9 Procedure Rule 29.
+10 § 8505. APPEALS TO THE SUPREME COURT
+11 (a) Any person aggrieved by a decision of the Environmental Division
+12 Board or Secretary pursuant to this subchapter, or any party by right, or the
+13 Board may, in accordance with 3 V.S.A. § 815, appeal to the Supreme Court
+14 within 30 days of following the date of the entry of the order or judgment
+15 appealed from, provided that:
+16 (1) the person was a party to the proceeding before the Environmental
+17 Division Board or Secretary; or
+18 (2) the decision being appealed is the denial of party status; or
+19 (3) the Supreme Court determines that:
+20 (A) there was a procedural defect that prevented the person from
+21 participating in the proceeding; or
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 14 of 51
+1 (B) some other condition exists that would result in manifest injustice
+2 if the person’s right to appeal were disallowed.
+3 (b) An objection that has not been raised before the Environmental
+4 Division Board or Secretary may not be considered by the Supreme Court,
+5 unless the failure or neglect to raise that objection is excused by the Supreme
+6 Court because of extraordinary circumstances.
+7 (c) Only the Attorney General may represent the State in all appeals under
+8 this section.
+9 * * *
+10 § 8507. CONDUCT OF APPEALS TO THE BOARD OR THE
+11 SECRETARY
+12 (a) The Land Use Review Board’s and the Secretary’s process of review
+13 will depend on whether the matter is simple or complex. The Board or hearing
+14 officer, if assigned to a matter, shall make a determination of whether the
+15 matter before the Board is simple or complex.
+16 (1) Factors that may be considered to determine whether an appeal is
+17 simple or complex include:
+18 (A) the scale of the issues presented on appeal;
+19 (B) the involvement of multiple agencies or other regulatory bodies;
+20 (C) the number of parties, interested persons, and other participants;
+21 (D) factual, technical, or scientific complexity;
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 15 of 51
+1 (E) legal complexity; or
+2 (F) other factors relevant under the circumstances.
+3 (2) If the parties agree to simple review, the Board shall adjudicate the
+4 matter under simple review.
+5 (b) For complex matters, the full Board or the Secretary shall adjudicate the
+6 appeal and at its discretion may assign to a hearing officer some or all of the
+7 adjudication process. Parties to a complex appeal may initiate motion practice,
+8 which shall be limited to dispositive motions only. The assigned hearing
+9 officer shall hold an evidentiary hearing and subsequently issue a
+10 recommendation and draft order; alternatively, the Board or Secretary may sit
+11 in directly on the initial hearing alongside the hearing officer, at its discretion.
+12 Subsequently, the full Board or Secretary shall have the discretion to either
+13 hear the appeal directly in a formal, noticed hearing, or to rule on the
+14 recommendation of the hearing officer.
+15 (1) The Board and Secretary shall have the authority to accept testimony
+16 in the form of prefiled written testimony, and written rebuttal testimony. At
+17 the request of the parties, the Board and Secretary may accept live testimony or
+18 cross-examination based upon a showing that it will not delay the hearing, is
+19 more efficient, or would not unfairly disadvantage any party.
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 16 of 51
+1 (2) Parties in complex appeals may be provided the limited opportunity
+2 to supplement the record, including through filed or live testimony subject to
+3 an opportunity for cross-examination.
+4 (c) Notwithstanding 3 V.S.A. chapter 25, for simple matters, the
+5 adjudication of the appeal can be decided by the Board or Secretary on a
+6 consent agenda. Proceedings on simple matters shall not involve discovery or
+7 motion practice. The recommendation and draft order of the hearing officer
+8 shall be considered by the Board, which shall rule on the recommendation of
+9 the hearing officer.
+10 (d) In all proceedings, discovery shall be limited to that which is necessary
+11 to supplement the record, pursuant to this subchapter.
+12 (e) The Board or Secretary shall have the authority to limit the motion
+13 practice to the needs of the case, in the interest of promoting efficient and
+14 expedient resolution of the matter.
+15 Sec. 2. 3 V.S.A. § 2825 is amended to read:
+16 § 2825. DUTIES OF THE SECRETARY
+17 * * *
+18 (f) The Secretary shall have authority to decide appeals of permit decisions
+19 made by the Secretary pursuant to the requirements and procedures established
+20 in 10 V.S.A. chapters 220 and 151.
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 17 of 51
+1 * * * Land Use Review Board * * *
+2 Sec. 3. 10 V.S.A. § 6021 is amended to read:
+3 § 6021. BOARD; VACANCY; REMOVAL
+4 (a) Board established. The Land Use Review Board is created.
+5 (1) The Board shall consist of five three members appointed by the
+6 Governor after review and approval by the Land Use Review Board
+7 Nominating Committee in accordance with subdivision (2) of this subsection
+8 and confirmed with the advice and consent of the Senate, so that one
+9 appointment expires in each year. The Chair and the other four two members
+10 shall be full-time positions. In making these appointments, the Governor and
+11 the Senate shall give consideration to candidates who have experience,
+12 expertise, or skills relating to one or more of the following areas:
+13 environmental science; land use law, policy, planning, and development; and
+14 community planning. All candidates shall have a commitment to
+15 environmental justice.
+16 (A) The Governor shall appoint a chair of the Board, a position that
+17 shall be a full-time position. The Governor shall ensure Board membership
+18 reflects, to the extent possible, the racial, ethnic, gender, and geographic
+19 diversity of the State. The Board shall not contain two members who reside in
+20 the same county.
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 18 of 51
+1 (B) Following initial appointments, the members shall be appointed
+2 for terms of five six years. All terms shall begin on July 1 and expire on June
+3 30. A member may continue serving until a successor is appointed. The initial
+4 appointments shall be for staggered terms of one year, two years, three years,
+5 four years, and five six years.
+6 (2)(A) The Land Use Review Board Nominating Committee shall
+7 advertise the position when a vacancy will occur on the Land Use Review
+8 Board.
+9 * * *
+10 (C) The Governor shall appoint, with the advice and consent of the
+11 Senate, a chair and four two members of the Board from the list of well-
+12 qualified candidates sent to the Governor by the Committee.
+13 (D) Not more than two members of the Board shall belong to the
+14 same political party.
+15 (b) Terms; vacancy; succession. The term of each appointment subsequent
+16 to the initial appointments described in subsection (a) of this section shall be
+17 five six years. Any appointment to fill a vacancy shall be for the unexpired
+18 portion of the term vacated. A member may seek reappointment by informing
+19 the Governor. If the Governor decides not to reappoint the member, the
+20 Nominating Committee shall advertise the vacancy.
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 19 of 51
+1 (c) Removal. Notwithstanding the provisions of 3 V.S.A. § 2004, members
+2 shall only be removable for cause by the remaining members of the Board
+3 Governor. The Board shall adopt rules pursuant to 3 V.S.A. chapter 25 to
+4 define the basis and process for removal.
+5 * * *
+6 Sec. 4. LAND USE REVIEW BOARD MEMBER APPOINTMENTS
+7 The Governor shall appoint the members of the Land Use Review Board on
+8 or before January 1, 2027, and the terms of any Land Use Review Board
+9 members not appointed consistent with the requirements of 10 V.S.A.
+10 § 6021(a)(1)(A) or (B) shall expire on that day. Current members of the Board
+11 may apply to remain a member of the Board.
+12 Sec. 5. 10 V.S.A. § 6027a is added to read:
+13 § 6027a. HEARINGS AND HEARING OFFICERS
+14 (a) When a matter comes before the Board, the Board shall have the
+15 authority to appoint a hearing officer for that matter at its discretion. Board
+16 members may sit as hearing officers in a matter.
+17 (b) Hearing officers shall have the authority to hold any hearing in any
+18 matter within the Board’s jurisdiction. Hearings shall be conducted in an
+19 impartial manner and as contested cases.
+20 (c) At the request of the Secretary, a hearing officer, applying the
+21 provisions of this chapter, shall conduct hearings of Agency of Natural
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 20 of 51
+1 Resources decisions on behalf of the Secretary and may, at the Secretary’s
+2 request, coordinate the appeal with related appeals of a decision by a District
+3 Commission or by an appropriate municipal panel.
+4 (d) The hearing officer shall set a date, time, and place for a scheduling
+5 conference within 30 days following when the Board receives the record.
+6 Written notice of the time and place for the hearing shall be served on the
+7 parties. Service of the notice of hearing shall be made at least 14 calendar days
+8 prior to the date of the conference.
+9 (e) The hearing officer shall, within the hearing officer’s discretion, seek to
+10 ensure that a hearing provides a forum for nonlawyers to present their case
+11 adequately and without prejudice.
+12 (f) The hearing officer shall have the authority and discretion to:
+13 (1) Administer oaths in all cases, provided this power is properly
+14 incidental to the performance of the officer’s duty or that of the Board.
+15 (2) Sign and issue subpoenas in the name of the Board, at the request of
+16 any party, requiring attendance and giving of testimony by witnesses and the
+17 production of books, papers, documents, and other evidence, and said
+18 subpoenas shall be regulated by the civil practice law and rules. Nothing
+19 herein contained shall affect the authority of an attorney for a party to issue
+20 such subpoenas under the provisions of the civil practice law and rules.
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 21 of 51
+1 (3) Regulate the course of the hearings, set the time and place for
+2 continued hearings, and fix the time for filing of briefs and other documents.
+3 (4) Direct the parties to appear and confer to consider the simplification
+4 of the issues by consent of the parties.
+5 (5) Issue proposals for decision to be presented to the Board or
+6 Secretary in accordance with 3 V.S.A. § 811.
+7 (6) Ensure a complete administrative record is consolidated and
+8 presented before the Board or Secretary, also ensuring that such record is
+9 suitable for appeal to the Supreme Court.
+10 (g) The Board may assign a hearing officer to conduct or assist in
+11 mediation. A hearing officer who participates in mediation shall be
+12 disqualified from any further role in that matter.
+13 Sec. 6. 10 V.S.A. § 6035 is added to read:
+14 § 6035. JURISDICTION OF THE LAND USE REVIEW BOARD
+15 (a)(1) Beginning on July 1, 2027, the Land Use Review Board shall assume
+16 jurisdiction over appeals from acts or decisions under this chapter from the
+17 Environmental Division of the Superior Court.
+18 (2) Beginning on July 1, 2028, the Land Use Review Board shall
+19 assume jurisdiction over municipal zoning permit appeals under 24 V.S.A.
+20 §§ 4465 and 4471 from the Environmental Division of the Superior Court.
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 22 of 51
+1 (3) Beginning on July 1, 2028, the Secretary shall assume jurisdiction
+2 over appeals from permit, license, certification, and enforcement actions by the
+3 Agency of Natural Resources from the Environmental Division of the Superior
+4 Court.
+5 (b) Applicants for permits under this chapter or Agency of Natural
+6 Resources permits that are also undergoing municipal zoning permit appeals
+7 under 24 V.S.A. § 4465 or 4471 for the same project shall have the option to
+8 have their appeals consolidated or coordinated at the Board. At the Board’s
+9 discretion, the Board may approve or deny the proposed consolidation or
+10 coordination of municipal and Act 250 appeals for the same project, dependent
+11 on whether:
+12 (1) the consolidation or coordination of the appeals would expedite the
+13 processing and resolution of the matters;
+14 (2) the two matters to be consolidated or coordinated deal with
+15 substantially similar factual and legal issues;
+16 (3) the consolidation or coordination would not adversely affect the
+17 interests of the parties; and
+18 (4) the two matters to be consolidated or coordinated are not at
+19 significantly different procedural postures.
+20 Sec. 7. 10 V.S.A. § 6036 is added to read:
+21 § 6036. SCOPE AND STANDARD OF REVIEW
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 23 of 51
+1 (a) When reviewing matters appealed from District Commissions,
+2 appropriate municipal panels, or the Agency, the Board or Secretary shall
+3 consider only the record before it, except where supplementation of the record
+4 is permitted pursuant to this subchapter.
+5 (b) The Board or Secretary shall review legal conclusions and mixed
+6 questions of law and fact reached by a District Commission, appropriate
+7 municipal panel, or the Agency de novo. The Board may reverse or modify
+8 the factual findings of the decision on appeal only when they are not supported
+9 by substantial evidence in the record.
+10 (c) The Board shall review jurisdictional opinions issued by district
+11 coordinators de novo.
+12 Sec. 8. 10 V.S.A. § 6037 is added to read:
+13 § 6037. SUPPLEMENTATION OF THE RECORD
+14 (a) If, before the date set for a hearing, application is made to the Board or
+15 Secretary for leave to present additional evidence, and it is shown to the
+16 satisfaction of the Board or Secretary that the additional evidence is material
+17 and that there was just cause for failure to present it in the proceeding before
+18 the District Commission, Agency, or appropriate municipal panel, the Board or
+19 Secretary may order that the additional evidence be taken. The Board or
+20 Secretary may modify their findings and decisions by reason of the additional
+21 evidence and shall file that evidence and any modifications, new findings, or
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 24 of 51
+1 decisions with the Board. The Board or Secretary is authorized to exclude
+2 irrelevant, immaterial, or unduly repetitious evidence.
+3 (b) Cause for the supplementation of the record may include:
+4 (1) the introduction of expert testimony where needed to interpret
+5 complex issues or matters before the court;
+6 (2) information outside the record that would cause substantial prejudice
+7 or injustice to a party if excluded; or
+8 (3) a showing of prejudice or bias, bad faith, or illegal behavior in a
+9 lower proceeding, if the proponent of the evidence demonstrates just cause for
+10 its inclusion.
+11 Sec. 9. 10 V.S.A. § 6025 is amended to read:
+12 § 6025. RULES
+13 (a) The Board may adopt rules of procedure for itself and the District
+14 Commissions. The Board’s procedure for approving regional plans and
+15 regional plan maps, which may be adopted as rules or issued as guidance, shall
+16 ensure that the maps are consistent with legislative intent as expressed in
+17 section 2802 of this title and 24 V.S.A. §§ 4302 and 4348a.
+18 * * *
+19 (d) On or before January 1, 2027, the Board and the Secretary shall adopt
+20 rules of procedure that govern appeals and other contested cases before it that
+21 are consistent with this chapter. The rules may include the Board’s use of
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 25 of 51
+1 hearing officers. The Board and Secretary shall coordinate the development of
+2 these procedures.
+3 Sec. 10. 10 V.S.A. § 6027(h) is amended to read:
+4 (h) The Board may shall hear:
+5 (1) all appeals from an act or decision of a District Commission under
+6 this chapter, including fee refund requests under section 6083a of this title;
+7 (2) appeals from an act or decision of a district coordinator under
+8 subsection 6007(d) of this chapter; and
+9 (3) appeals from an act or decision by an appropriate municipal panel or
+10 zoning administrator under 24 V.S.A. chapter 117.
+11 Sec. 11. 10 V.S.A. § 6086(f) is amended to read:
+12 (f) Prior to any appeal of a permit issued by a District Commission, any
+13 aggrieved party may file a request for a stay of construction with the District
+14 Commission together with a declaration of intent to appeal the permit. The
+15 stay request shall be automatically granted for 14 days upon receipt and notice
+16 to all parties and pending a ruling on the merits of the stay request pursuant to
+17 Board rules. The automatic stay shall not extend beyond the 30-day appeal
+18 period unless a valid appeal has been filed with the Environmental Division
+19 Board. The automatic stay may be granted only once under this subsection
+20 during the 30-day appeal period. Following appeal of the District Commission
+21 decision, any stay request must be filed with the Environmental Division
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 26 of 51
+1 pursuant to the provisions of chapter 220 of this title Board. A District
+2 Commission shall not stay construction authorized by a permit processed under
+3 the Board’s minor application procedures.
+4 Sec. 12. 10 V.S.A. § 6083a is amended to read:
+5 § 6083a. ACT 250 FEES
+6 * * *
+7 (k) All persons filing an appeal, cross appeal, or petition from a District
+8 Commission decision or jurisdictional opinion shall pay a fee of $295.00, plus
+9 publication costs, unless the Board approves a waiver of fees based on
+10 indigency.
+11 Sec. 13. 10 V.S.A. § 6029 is amended to read:
+12 § 6029. ACT 250 PERMIT FUND
+13 There is hereby established a special fund to be known as the Act 250
+14 Permit Fund for the purposes of implementing the provisions of this chapter
+15 and chapter 220 of this title. Revenues to the fund shall be those fees collected
+16 in accordance with section 6083a of this title, gifts, appropriations, and
+17 copying and distribution fees. Revenues to the fund shall also include those
+18 fees and costs collected under chapter 220 of this title. The Board shall be
+19 responsible for the Fund and shall account for revenues and expenditures of the
+20 Board. At the Commissioner’s discretion, the Commissioner of Finance and
+21 Management may anticipate amounts to be collected and may issue warrants
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 27 of 51
+1 based thereon for the purposes of this section. Disbursements from the Fund
+2 shall be made through the annual appropriations process to the Board and to
+3 the Agency of Natural Resources to support those programs within the Agency
+4 that directly or indirectly assist in the review of Act 250 applications. This
+5 Fund shall be administered as provided in 32 V.S.A. chapter 7, subchapter 5.
+6 * * * Municipal Zoning * * *
+7 Sec. 14. 24 V.S.A. § 4465 is amended to read:
+8 § 4465. APPEALS OF DECISIONS OF THE ADMINISTRATIVE OFFICER
+9 (a) An interested person may appeal any decision or act taken by the
+10 administrative officer in any municipality by filing a notice of appeal with the
+11 secretary of the board of adjustment or development review board of that
+12 municipality or with the clerk of that municipality if no such secretary has been
+13 elected. This notice of appeal must be filed within 15 days following the date
+14 of that decision or act, and a copy of the notice of appeal shall be filed with the
+15 administrative officer.
+16 (b) As used in this chapter, an “interested person” means any one of the
+17 following:
+18 * * *
+19 (4) Any 20 persons who may be any combination of voters, residents, or
+20 real property owners within a municipality listed in subdivision (2) of this
+21 subsection who, by signed petition to the appropriate municipal panel of a
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 28 of 51
+1 municipality, the plan or a bylaw of which is at issue in any appeal brought
+2 under this title, allege that any relief requested by a person under this title, if
+3 granted, will not be in accord with the policies, purposes, or terms of the plan
+4 or bylaw of that municipality. This petition to the appropriate municipal panel
+5 must designate one person to serve as the representative of the petitioners
+6 regarding all matters related to the appeal. For purposes of this subdivision, an
+7 appeal shall not include the character of the area affected if the project has a
+8 residential component that includes affordable housing.
+9 (5) Any department and administrative subdivision of this State owning
+10 property or any interest in property within a municipality listed in subdivision
+11 (2) of this subsection, and the Agency of Commerce and Community
+12 Development of this State.
+13 * * *
+14 Sec. 15. 24 V.S.A. § 4471 is amended to read:
+15 § 4471. APPEAL TO ENVIRONMENTAL DIVISION LAND USE
+16 REVIEW BOARD
+17 (a) Participation required. An interested person who has participated in a
+18 municipal regulatory proceeding authorized under this title may appeal a
+19 decision rendered in that proceeding by an appropriate municipal panel to the
+20 Environmental Division Land Use Review Board. Participation in a local
+21 regulatory proceeding shall consist of offering, through oral or written
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 29 of 51
+1 testimony, evidence or a statement of concern related to the subject of the
+2 proceeding. An appeal from a decision of the appropriate municipal panel, or
+3 from a decision of the municipal legislative body under subsection 4415(d) of
+4 this title, shall be taken in such manner as the Supreme Court may by rule
+5 provide for appeals from State agencies governed by 3 V.S.A. §§ 801–816,
+6 unless the decision is an appropriate municipal panel decision which that the
+7 municipality has elected to be subject to review on the record.
+8 (b) Appeal on the record. If the municipal legislative body has determined
+9 (or been instructed by the voters) to provide that appeals of certain appropriate
+10 municipal panel determinations shall be on the record, has defined what
+11 magnitude or nature of development proposal shall be subject to the production
+12 of an adequate record by the panel, and has provided that the Municipal
+13 Administrative Procedure Act shall apply in these instances, then an appeal
+14 from such a decision of an appropriate municipal panel shall be taken on the
+15 record in accordance with the Vermont Rules of Civil Procedure.
+16 (c) Notice. Notice of the appeal shall be filed by certified mailing, with
+17 fees, to the Environmental Division Board and by mailing a copy to the
+18 municipal clerk or the administrative officer, if so designated, who shall supply
+19 a list of interested persons to the appellant within five working days. Upon
+20 receipt of the list of interested persons, the appellant shall, by certified mail,
+21 provide a copy of the notice of appeal to every interested person, and, if any
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 30 of 51
+1 one or more of those persons are not then parties to the appeal, upon motion
+2 they shall be granted leave by the Division Board to intervene.
+3 (d) Local Act 250 review. Notwithstanding the provisions of subsection (a)
+4 of this section, decisions of a development review board under section 4420 of
+5 this title, with respect to local Act 250 review of municipal impacts, are not
+6 subject to appeal, but shall serve as presumptions under the provisions of 10
+7 V.S.A. chapter 151.
+8 (e) Designated areas. Notwithstanding subsection (a) of this section, a
+9 determination by an appropriate municipal panel that a residential development
+10 will not result in an undue adverse effect on the character of the area affected
+11 shall not be subject to appeal if the a proposed residential development seeking
+12 conditional use approval under subdivision 4414(3) of this title is within a
+13 designated downtown development district, designated growth center, or
+14 designated neighborhood development area. Other elements of the
+15 determination made by the appropriate municipal panel may be appealed.
+16 Sec. 16. 24 V.S.A. § 4472 is amended to read:
+17 § 4472. EXCLUSIVITY OF REMEDY; FINALITY
+18 (a) Except as provided in subsections (b) and subsection (c) of this section,
+19 the exclusive remedy of an interested person with respect to any decision or act
+20 taken, or any failure to act, under this chapter or with respect to any one or
+21 more of the provisions of any plan or bylaw shall be the appeal to the
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 31 of 51
+1 appropriate panel under section 4465 of this title, and the appeal to the
+2 Environmental Division Land Use Review Board from an adverse decision
+3 upon such appeal under section 4471 of this title. The appeal to the
+4 Environmental Division Land Use Review Board, if not on the record, as
+5 allowed under section 4471 of this title, shall be governed by the Vermont
+6 Rules of Civil Procedure and such interested person shall be entitled to a de
+7 novo trial in the Environmental Division Board’s rules. If the appeal to the
+8 Environmental Division is on the record, according to the provisions of section
+9 4471 of this title, it shall be governed by the Vermont Rules of Civil
+10 Procedure. Whether proceeding on the record or de novo, the court shall have
+11 and may exercise all powers and authorities of a Superior Court.
+12 (b) The remedy of an interested person with respect to the constitutionality
+13 of any one or more of the provisions of any bylaw or municipal plan shall be
+14 governed by the Vermont Rules of Civil Procedure with a de novo trial in the
+15 Superior Court, unless the issue arises in the context of another case under this
+16 chapter, in which instance it may be raised in the Environmental Division. In
+17 such cases, hearings before the appropriate municipal panel shall not be
+18 required. This section shall not limit the authority of the Attorney General to
+19 bring an action before the Environmental Division under section 4453 of this
+20 title, with respect to challenges to housing provisions in bylaws. [Repealed.]
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 32 of 51
+1 (c) The provisions of this section shall not be construed as preventing
+2 appeals to the Supreme Court in accordance with the Vermont Rules of Civil
+3 Procedure and the Vermont Rules of Appellate Procedure.
+4 (d) Upon the failure of any interested person to appeal to an appropriate
+5 municipal panel under section 4465 of this title, or to appeal to the
+6 Environmental Division Board under section 4471 of this title, all interested
+7 persons affected shall be bound by that decision or act of that officer, the
+8 provisions, or the decisions of the panel, as the case may be, and shall not
+9 thereafter contest, either directly or indirectly, the decision or act, provision, or
+10 decision of the panel in any proceeding, including any proceeding brought to
+11 enforce this chapter.
+12 Sec. 17. 24 V.S.A. § 4453 is amended to read:
+13 § 4453. CHALLENGES TO HOUSING PROVISIONS IN BYLAWS
+14 The Attorney General or a designee shall investigate when there is a
+15 complaint that a bylaw or its manner of administration violates subdivision
+16 4412(1) of this title, relating to equal treatment of housing and adequate
+17 provision of affordable housing. Upon determining that a violation has
+18 occurred, the Attorney General may file an action in the Environmental Civil
+19 Division to challenge the validity of the bylaw or its manner of administration.
+20 In this action, the municipality shall have the burden of proof to establish by a
+21 preponderance of the evidence that the challenged bylaw or its manner of
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 33 of 51
+1 administration does not violate the provisions of subdivision 4412(1) of this
+2 title. If the Division finds the bylaw or its administration to be in violation, it
+3 shall grant the municipality a reasonable period of time to correct the violation
+4 and may extend that time. If the violation continues after that time, the
+5 Division shall order the municipality to grant all requested permits and
+6 certificates of occupancy for housing relating to the area of continuing
+7 violation.
+8 Sec. 18. 24 V.S.A. § 4449 is amended to read:
+9 § 4449. ZONING PERMIT, CERTIFICATE OF OCCUPANCY, AND
+10 MUNICIPAL LAND USE PERMIT
+11 (a) Within any municipality in which any bylaws have been adopted:
+12 * * *
+13 (3) No permit issued pursuant to this section shall take effect until the
+14 time for appeal in section 4465 of this title has passed, or in the event that a
+15 notice of appeal is properly filed, no such permit shall take effect until
+16 adjudication of that appeal by the appropriate municipal panel is complete and
+17 the time for taking an appeal to the Environmental Division Land Use Review
+18 Board has passed without an appeal being taken. If an appeal is taken to the
+19 Environmental Division Board, the permit shall not take effect until the
+20 Environmental Division Board rules in accordance with 10 V.S.A. § 8504 on
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 34 of 51
+1 whether to issue a stay, or until the expiration of 15 days, whichever comes
+2 first.
+3 * * *
+4 Sec. 19. 24 V.S.A. § 4452 is amended to read:
+5 § 4452. ENFORCEMENT; REMEDIES
+6 If any street, building, structure, or land is or is proposed to be erected,
+7 constructed, reconstructed, altered, converted, maintained, or used in violation
+8 of any bylaw adopted under this chapter, the administrative officer shall
+9 institute in the name of the municipality any appropriate action, injunction, or
+10 other proceeding to prevent, restrain, correct, or abate that construction or use,
+11 or to prevent, in or about those premises, any act, conduct, business, or use
+12 constituting a violation. A court An action under this section may be initiated
+13 in before the Environmental Division Land Use Review Board, or as
+14 appropriate, before the Judicial Bureau, as provided under section 1974a of this
+15 title.
+16 Sec. 20. 24 V.S.A. § 4455 is amended to read:
+17 § 4455. REVOCATION
+18 On petition by the municipality and after notice and opportunity for hearing,
+19 the Environmental Division Land Use Review Board may revoke a municipal
+20 land use permit issued under this chapter, including a permit for a
+21 telecommunications facility, on a determination that the permittee violated the
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 35 of 51
+1 terms of the permit or obtained the permit based on misrepresentation of
+2 material fact.
+3 Sec. 21. 24 V.S.A. § 4469 is amended to read:
+4 § 4469. APPEAL; VARIANCES
+5 (a) On an appeal under section 4465 or 4471 of this title or on a referral
+6 under subsection 4460(e) of this title in which a variance from the provisions
+7 of a bylaw or interim bylaw is requested for a structure that is not primarily a
+8 renewable energy resource structure, the board of adjustment or the
+9 development review board or the Environmental Division created under 4
+10 V.S.A. chapter 27 Land Use Review Board shall grant variances and render a
+11 decision in favor of the appellant, if all the following facts are found, and the
+12 finding is specified in its decision:
+13 * * *
+14 (b) On an appeal under section 4465 or 4471 of this title in which a
+15 variance from the provisions of a bylaw or interim bylaw is requested for a
+16 structure that is primarily a renewable energy resource structure, the board of
+17 adjustment or development review board or the Environmental Division Land
+18 Use Review Board may grant that variance and render a decision in favor of
+19 the appellant if all the following facts are found, and the finding is specified in
+20 its decision:
+21 * * *
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 36 of 51
+1 (c) In rendering a decision in favor of an appellant under this section, a
+2 board of adjustment or development review board or the Environmental
+3 Division Land Use Review Board may attach such conditions to variances as it
+4 may consider necessary and appropriate under the circumstances to implement
+5 the purposes of this chapter and the plan of the municipality then in effect.
+6 * * *
+7 Sec. 22. 24 V.S.A. § 4470 is amended to read:
+8 § 4470. SUCCESSIVE APPEALS; REQUESTS FOR RECONSIDERATION
+9 TO AN APPROPRIATE MUNICIPAL PANEL
+10 * * *
+11 (b) A municipality shall enforce all decisions of its appropriate municipal
+12 panels, and further, the Superior Court’s Civil or Environmental Division Land
+13 Use Review Board shall enforce such decisions upon petition, complaint, or
+14 appeal or other means in accordance with the laws of this State by such
+15 municipality or any interested person by means of mandamus, injunction,
+16 process of contempt, or otherwise.
+17 Sec. 23. 24 V.S.A. § 2283 is amended to read:
+18 § 2283. APPEALS
+19 After exhausting the right of administrative appeal to the Board under
+20 19 V.S.A. § 5(d)(5), a person aggrieved by any order, act, or decision of the
+21 Agency of Transportation may appeal to the Superior Court, and all
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 37 of 51
+1 proceedings shall be de novo. Any person, including the Agency of
+2 Transportation, may appeal to the Supreme Court from a judgment or ruling of
+3 the Superior Court. Appeals of acts or decisions of the Secretary of Natural
+4 Resources or a legislative body of a municipality under this subchapter shall be
+5 appealed to the Environmental Division Land Use Review Board under
+6 10 V.S.A. § 8503.
+7 * * * Superior Court * * *
+8 Sec. 24. REPEALS
+9 4 V.S.A. § 34 (Jurisdiction; Environmental Division) and 4 V.S.A. § 1001
+10 (Environmental Division) are repealed.
+11 Sec. 25. 4 V.S.A. § 30 is amended to read:
+12 § 30. SUPERIOR COURT
+13 (a)(1) A Superior Court having statewide jurisdiction is created. The
+14 Superior Court shall have the following divisions:
+15 * * *
+16 (D) An Environmental Division, which shall be a court of record and
+17 have jurisdiction over the matters described in section 34 of this title. The
+18 Vermont Rules for Environmental Proceedings shall apply in the
+19 Environmental Division. [Repealed.]
+20 * * *
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 38 of 51
+1 Sec. 26. 4 V.S.A. § 21a is amended to read:
+2 § 21a. DUTIES OF THE CHIEF SUPERIOR JUDGE
+3 (a) The Chief Superior Judge shall assign and specially assign Superior
+4 judges, including themselves, and Environmental judges to the Superior Court.
+5 All Superior judges except Environmental judges shall be subject to the
+6 requirements of rotation as ordered by the Supreme Court. Assignments made
+7 pursuant to the rotation schedule shall be subject to the approval of the
+8 Supreme Court.
+9 (b) In making any assignment under this section, the Chief Superior Judge
+10 shall give consideration to the experience, temperament, and training of a
+11 judge and the needs of the court. In making an assignment to the
+12 Environmental Division, the Chief Superior Judge shall give consideration to
+13 experience and expertise in environmental and land use law and shall assign or
+14 specially assign judges in a manner to provide appropriate attention to all
+15 geographic areas of the State.
+16 (c) In making any assignments to the Environmental Division under this
+17 section, the Chief Superior Judge shall regularly assign two judges, at least one
+18 of whom shall be an Environmental judge. An Environmental judge may be
+19 assigned to other divisions in the Superior Court for a period of time not
+20 exceeding two years. When assigned to other divisions in the Superior Court,
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 39 of 51
+1 the Environmental judge shall have all the powers and responsibilities of a
+2 Superior judge. [Repealed.]
+3 Sec. 27. 4 V.S.A. § 36 is amended to read:
+4 § 36. COMPOSITION OF THE COURT
+5 (a) Composition of the court. Unless otherwise specified by law, when in
+6 session, a Superior Court shall consist of:
+7 * * *
+8 (5) For cases in the Environmental Division, one Environmental judge
+9 sitting alone. [Repealed.]
+10 * * * Enforcement * * *
+11 Sec. 28. 10 V.S.A. chapter 201 is amended to read:
+12 CHAPTER 201. ADMINISTRATIVE ENVIRONMENTAL LAW
+13 ENFORCEMENT
+14 * * *
+15 § 8002. DEFINITIONS
+16 As used in this chapter:
+17 * * *
+18 (12) “Environmental Court” or “Environmental Division” means the
+19 Environmental Division of the Superior Court established by 4 V.S.A. § 30.
+20 [Repealed.]
+21 * * *
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 40 of 51
+1 § 8004. ENFORCEMENT OF ACT 250
+2 In addition to the enforcement of chapter 151 of this title on the Secretary’s
+3 initiative, the Secretary shall institute enforcement proceedings under chapter
+4 151 when requested by the Natural Resources Land Use Review Board. The
+5 Secretary and the Land Use Review Board shall develop procedures for the
+6 cooperative enforcement of chapter 151 of this title.
+7 * * *
+8 § 8007. ASSURANCES OF DISCONTINUANCE
+9 (a) As an alternative to administrative or judicial proceedings, the
+10 Secretary, or the Natural Resources Land Use Review Board, may accept from
+11 a respondent an assurance of discontinuance of a violation. An assurance of
+12 discontinuance shall include:
+13 * * *
+14 (c) An assurance of discontinuance shall be in writing and signed by the
+15 respondent and shall specify the statute or regulation alleged to have been
+16 violated. The assurance of discontinuance shall be simultaneously filed with
+17 the Attorney General and the Environmental Division. The Secretary or the
+18 Land Use Review Board shall post a final draft assurance of discontinuance to
+19 its website and shall provide a final draft assurance of discontinuance to a
+20 person upon request. When signed by the Environmental Division, the
+21 assurance shall become a judicial order. Upon motion by the Attorney General
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 41 of 51
+1 made within 14 days after the date the assurance is signed by the Division
+2 Board and upon a finding that the order is insufficient to carry out the purposes
+3 of this chapter, the Division Board shall vacate the order.
+4 * * *
+5 § 8008. ADMINISTRATIVE ORDERS
+6 * * *
+7 (b) An order shall include:
+8 * * *
+9 (6) a statement that unless the respondent requests a hearing under this
+10 section, the order becomes shall have the effect of a judicial order when filed
+11 with and signed by the Environmental Division Board or Secretary.
+12 * * *
+13 (d)(1) The administrative order and proof of service shall be
+14 simultaneously filed with the Attorney General and the Environmental
+15 Division Board. The Division shall sign the administrative order in the event
+16 that:
+17 (A) the administrative order is properly served on a respondent in
+18 accordance with subsection (a) of this section;
+19 (B) the respondent does not request a hearing in accordance with
+20 subsection (b) of this section; and
+21 (C) the order otherwise meets the requirements of this chapter.
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 42 of 51
+1 (2) When signed by the Environmental Division Board, the
+2 administrative order shall become have the effect of a judicial order. Upon
+3 motion by the Attorney General made within 10 days of following the date the
+4 administrative order is signed by the Division Board and upon a finding by the
+5 Division Board that the order is insufficient to carry out the purposes of this
+6 chapter, the Division Board shall vacate the order.
+7 * * *
+8 § 8009. EMERGENCY ADMINISTRATIVE ORDERS; REQUEST FOR
+9 HEARING
+10 * * *
+11 (b) Prerequisites to issuance. An emergency administrative order may be
+12 issued only if:
+13 (1) the order has been presented to the Environmental Division Board;
+14 (2) all reasonable efforts have been made to notify the respondent of the
+15 presentation of the order to the Environmental Division Board; and
+16 (3) the Environmental Division Board has found that the agency issuing
+17 the order has made a sufficient showing that grounds for issuance of the order
+18 exist.
+19 * * *
+20 (d) Request for hearing. If an emergency order is issued, the respondent
+21 may request a hearing before the Environmental Division Board. Notice of the
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 43 of 51
+1 request for hearing shall be filed with the Environmental Division Board and
+2 the agency issuing the order within five business days of following receipt of
+3 the order. A hearing on the emergency order shall be held at the earliest
+4 possible time and shall take precedence over all other hearings. The hearing
+5 shall be held within five business days of following receipt of the notice of the
+6 request for hearing. A request for hearing on an emergency order shall not stay
+7 the order. The Environmental Division Board shall issue a decision within five
+8 business days from the conclusion of the hearing and no later than 30 days
+9 from the date the notice of request for hearing was received.
+10 * * *
+11 § 8012. REQUEST FOR HEARING
+12 (a) A respondent or the Attorney General may request a hearing on an order
+13 issued by the Secretary. Notice of a request for hearing shall be filed with the
+14 Environmental Division Board and the Secretary. Upon receipt of the notice,
+15 the Secretary shall forward a copy of the order to the Environmental Division
+16 Board.
+17 (b) The Environmental Division Board shall have authority to:
+18 (1) Determine whether a violation has occurred. An order shall be
+19 reversed when it is determined that a violation has not occurred.
+20 (2) Affirm or vacate and remand to the Secretary an order issued under
+21 subdivision 8008(b)(5) of this title. The Environmental Division Board shall
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 44 of 51
+1 vacate and remand an order under this subdivision when a violation is found to
+2 exist but the procedure contained in the order is insufficient to carry out the
+3 purposes of this chapter.
+4 (3) Affirm, modify, or reverse any provision of any order issued by the
+5 Secretary except those identified by subdivision (2) of this subsection. In
+6 deciding whether to affirm or reverse a stop work order under this subdivision,
+7 the Environmental Division Board shall consider the economic effect of the
+8 order on individuals other than the respondent.
+9 * * *
+10 (c) Notice of the request for hearing shall be filed within 15 days of
+11 following receipt of the order. The hearing shall be held before the
+12 Environmental Division Board within 30 days of following receipt by the
+13 Division Board of the notice, unless continued for good cause. The
+14 Environmental Division Board shall issue a written decision within 20 days of
+15 following the conclusion of the hearing, and no later than 60 days from the
+16 request for hearing, unless the hearing process is extended for good cause. The
+17 decision shall be sent to the parties by certified mail, return receipt requested,
+18 and shall include:
+19 * * *
+20 § 8013. CONDUCT OF HEARINGS; APPEAL; STAY
+21 * * *
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 45 of 51
+1 (b) Parties may be represented by counsel in hearings before the
+2 Environmental Division Board. The Agency of Natural Resources or the
+3 Board each may represent itself. A party may conduct cross-examination
+4 required for a full and true disclosure of the facts.
+5 (c) An appeal from a decision of the Environmental Division Board may be
+6 taken by the Secretary, the Board, or the respondent to the Supreme Court.
+7 The Attorney General also may appeal if the Attorney General has appeared as
+8 a party.
+9 * * *
+10 § 8014. ENFORCEMENT OF FINAL ORDERS; COLLECTION ACTIONS
+11 (a) The Secretary may seek enforcement of a final administrative order,
+12 final orders pursuant to an assurance of discontinuance, or civil citations
+13 pursuant to section 8019 of this title, or a landfill extension order in the Civil,
+14 or Criminal, or Environmental Division of the Superior Court.
+15 * * *
+16 § 8018. REQUESTS FOR HEARINGS ON LANDFILL CLOSURE
+17 EXTENSION ORDERS
+18 (a) The applicant or the Attorney General may request a hearing on the
+19 decision of the Secretary under sections 6605e and 8008a of this title.
+20 Additionally, a municipality in which the landfill is located or an interested
+21 person may request such a hearing if a proposed landfill closure extension
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 46 of 51
+1 order would increase the volume of waste disposed on a quarterly basis by 30
+2 percent or more over the volume of waste disposed during the first quarter of
+3 1992. Notice of a request for hearing shall be filed with the Environmental
+4 Division and the Secretary within 15 days of following the date of receipt of
+5 the Secretary’s decision. Upon receipt of the notice, the Secretary shall
+6 forward a copy of the decision to the Environmental Division Board.
+7 (b) The Environmental judge Board shall have authority to determine
+8 whether the Secretary’s decision is in conformance with the provisions of
+9 sections 8008a and 6605e of this title. The Environmental judge Board may
+10 affirm, modify, or reverse the Secretary’s decision and any provision of any
+11 order issued by the Secretary under sections 8008a and 6605e of this title.
+12 (c) The hearing shall be held before the Environmental Division Board
+13 within 30 days of following receipt by the Division Board of the notice, unless
+14 continued for good cause. The Environmental Division Board shall issue a
+15 written decision within 20 days of following the conclusion of the hearing, and
+16 no later than 60 days from the request for hearing, unless the hearing process is
+17 extended for good cause. The decision shall be sent to the parties by certified
+18 mail, return receipt requested, and shall include:
+19 * * *
+20 (e) The Environmental Division Board may grant party status to an
+21 interested person in a hearing under this section.
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 47 of 51
+1 * * *
+2 § 8019. CIVIL CITATIONS
+3 (a) The Secretary and the Board each shall have the authority to adopt rules
+4 for the issuance of civil citations for violations of their respective enabling
+5 statutes or rules adopted under those statutes that are enforceable in the
+6 Environmental Division. Any proposed rule under this section shall include
+7 the full, minimum, and waiver penalty amounts for each violation. The
+8 maximum civil penalty for any violation brought under this section shall not
+9 exceed $3,000.00 exclusive of court fees.
+10 * * *
+11 (c) The Secretary or Board Chair and his or her the Secretary’s or Board
+12 Chair’s duly authorized representative shall have the authority to amend or
+13 dismiss a citation by so marking the citation and returning it to the
+14 Environmental Division or by notifying the hearing officer or judge at the
+15 hearing.
+16 * * *
+17 § 8020. PUBLIC PARTICIPATION IN ENFORCEMENT
+18 * * *
+19 (b) Draft and final action. Prior to issuing an administrative order,
+20 assurance of discontinuance, or civil citation under this chapter and sending it
+21 to the Environmental Division, the Secretary or the Board shall post a draft
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 48 of 51
+1 copy of the administrative order, assurance of discontinuance, or civil citation
+2 for public notice and written comment for 30 days. At the conclusion of the
+3 30-day notice and written comment period, the Secretary or the Board shall
+4 evaluate the proposed action pursuant to the written comments received. After
+5 the evaluation of the written comments, the Secretary or the Board may
+6 withdraw an administrative order, assurance of discontinuance, or civil
+7 citation. At the conclusion of the 30-day notice period, if no comments have
+8 been received, the Secretary or the Board shall file the draft as a final
+9 administrative order, assurance of discontinuance, or civil citation with the
+10 Environmental Division, and the Environmental Division may review and
+11 approve as an order of the court the administrative order, assurance of
+12 discontinuance, or civil citation as set out elsewhere in this chapter. When the
+13 Secretary or Board issues a final administrative order, assurance of
+14 discontinuance, or civil citation, it shall be sent to the Environmental Division
+15 along with any written comments received during the 30-day comment period.
+16 Concurrent with filing with the Environmental Division, the The Secretary or
+17 Board shall post the final proposed action for public notice for 14 days.
+18 (c) Filing with court. If a comment was received on the draft document,
+19 the Environmental Division shall hold the administrative order, assurance of
+20 discontinuance, or civil citation for 14 days from the date of filing to allow any
+21 person who has filed written comments under subsection (b), who is not
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 49 of 51
+1 satisfied with the final action of the Agency or the Board, and who meets the
+2 definition of “aggrieved person” under subsection (a) of this section to file a
+3 motion for permissive intervention pursuant to the procedure in Rule 24(c) of
+4 the Vermont Rules of Civil Procedure. [Repealed.]
+5 (d) Court Board action without motion to intervene. If no comment was
+6 filed on the draft document or if, at the conclusion of the 14-day period, no
+7 motion to intervene has been filed, the Environmental Division Board in its
+8 discretion, with or without a hearing, shall issue an order to affirm, vacate, or
+9 remand the administrative order, assurance of discontinuance, or civil citation.
+10 * * *
+11 (f) Court action upon motion to intervene. A motion for permissive
+12 intervention shall clearly state the basis for the claim that the administrative
+13 order, assurance of discontinuance, or civil citation is insufficient to carry out
+14 the purposes of this chapter. A hearing may be held on the motion for
+15 permissive intervention in the discretion of the Environmental Division Board.
+16 When the Environmental Division Board determines that a motion to intervene
+17 fails to meet the requirements for permissive intervention, the court shall deny
+18 the motion.
+19 (g) Emergency administrative order. When the Secretary issues an
+20 emergency administrative order, the prefiling public notice and comment
+21 provisions contained in this section shall not apply. The Environmental
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 50 of 51
+1 Division Board, without comment or hearing, shall act on the emergency
+2 administrative order as required by section 8009 of this title and may issue its
+3 own order. The Secretary shall publish the emergency administrative order
+4 concurrent with filing it with the Environmental Division Board. A person
+5 shall have 14 days from the date the emergency administrative order is filed to
+6 file a motion for permissive intervention. A motion to intervene shall not stay
+7 an emergency administrative order.
+8 (h) Standard of review on motion to intervene. The Environmental
+9 Division Board shall evaluate a motion from an aggrieved person for
+10 permissive intervention in light of Rule 24(b)(1) of the Vermont Rules of Civil
+11 Procedure. When the Environmental Division Board permits an aggrieved
+12 person to intervene, it shall be for the sole purpose of establishing that the
+13 terms of an administrative order, emergency administrative order, assurance of
+14 discontinuance, or civil citation are insufficient to carry out the purposes of this
+15 chapter. The intervenor shall have the burden of proof by a preponderance of
+16 the evidence that the administrative order, emergency administrative order,
+17 assurance of discontinuance, or civil citation is insufficient to carry out the
+18 purposes of this chapter. A hearing may be held on the claim that the
+19 administrative order, emergency administrative order, assurance of
+20 discontinuance, or civil citation is insufficient to carry out the purposes of this
+21 chapter in the discretion of the Environmental Division Board. The
+VT LEG #386247 v.3
+
+BILL AS INTRODUCED H.820
+2026 Page 51 of 51
+1 Environmental Division Board, upon finding that the proposed action is
+2 insufficient to carry out the purposes of this chapter, shall inform the parties in
+3 writing and shall include the basis of its decision and shall vacate the proposed
+4 action.
+5 (i) Authority of Secretary or Board to object. The Secretary or Board shall
+6 not oppose any motion filed for permissive intervention. When the
+7 Environmental Division Board permits a person to intervene, the Secretary, the
+8 Board, or the respondent may oppose the intervenor’s claim that the proposed
+9 action is insufficient to carry out the purposes of this chapter.
+10 * * *
+11 Sec. 29. APPROPRIATION
+12 In fiscal year 2027, $50,000.00 is appropriated from the General Fund to the
+13 Land Use Review Board to fund training for appropriate municipal panels on
+14 appeals procedures.
+15 * * * Effective Date * * *
+16 Sec. 30. EFFECTIVE DATE
+17 This act shall take effect on July 1, 2026.
+VT LEG #386247 v.3

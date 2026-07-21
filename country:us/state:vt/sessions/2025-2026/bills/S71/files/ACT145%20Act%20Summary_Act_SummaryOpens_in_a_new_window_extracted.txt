@@ -1,0 +1,51 @@
+Title: 
+Official Title: 
+Source: versions - Act SummaryOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Act No. 145 Page 1 of 1
+2026
+This act summary is provided for the convenience of the public and members of the General Assembly. It
+is intended to provide a general summary of the act and may not be exhaustive. It has been prepared by the
+staff of the Office of Legislative Counsel without input from members of the General Assembly. It is not
+intended to aid in the interpretation of legislation or to serve as a source of legislative intent.
+Act No. 145 (S.71). An act relating to consumer data privacy and online surveillance
+Subjects: Consumer protection; commerce and trade; data privacy
+This act creates a comprehensive data privacy law for the State and applies to
+organizations that process the data of at least 35,000 consumers, process the sensitive
+data of at least 3,000 consumers, or sell the personal data of at least 3,000 consumers. An
+organization or data an organization processes may be exempt from the regulations of
+this act, such as government entities, covered entities that are not hybrid entities, data
+subject to Title V of the Gramm-Leach-Bliley Act, and most insurance companies.
+This act provides consumers with certain rights to their personal data, including the
+right to confirm whether or not a data controller is processing their data, to correct
+inaccuracies in their data, to delete their data, to obtain a copy of their data, to opt out of
+the processing of their data for the purpose of targeted advertising or sale, and to obtain a
+list of third parties to whom the controller sold the consumer’s personal data. A
+consumer may designate another person to serve as their agent to exercise the consumer’s
+right to opt out of the processing of the consumer’s data, and a controller must respond to
+a consumer’s request within a certain amount of time.
+This act requires that controllers limit the collection of a consumer’s personal data to
+what is reasonably necessary and proportionate in relation to the purposes for which it’s
+processed and are restricted from processing the data for any new material purpose that is
+incompatible with the purposes for which it was originally processed. This act also
+prohibits controllers from processing or selling the sensitive data of a consumer without
+consent or from discriminating against a consumer for exercising a right provided in this
+act.
+The act requires that controllers provide a clear and accessible privacy notice that
+provides consumers with detailed information on how the controller processes and
+manages consumers’ data. The act requires that a controller and their processor enter into
+a contract that requires, among other things, that the processor help the controller comply
+with this act.
+If a controller processes personal data in a way that presents a heightened risk of harm
+to consumers, the controller is required to conduct a data protection assessment that will
+identify and weigh benefits to the controller and risks to consumers. A similar impact
+assessment is required if the controller engages in profiling. Both assessments must be
+sent to the Office of the Attorney General upon request during an investigation.
+Enforcement of the act is exclusively through the Office of the Attorney General under
+the Vermont Consumer Protection Act.
+Effective Date: January 1, 2028
+VT LEG #390291 v.2

@@ -1,0 +1,330 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.826
+2026 Page 1 of 14
+1 H.826
+2 Introduced by Representatives Cina of Burlington, Carris Duncan of
+3 Whitingham, Bos-Lun of Westminster, Burrows of West
+4 Windsor, Cole of Hartford, LaMont of Morristown, Logan of
+5 Burlington, McGill of Bridport, Pouech of Hinesburg, and
+6 Tomlinson of Winooski
+7 Referred to Committee on
+8 Date:
+9 Subject: Conservation and development; Land Access and Opportunity Board;
+10 special fund
+11 Statement of purpose of bill as introduced: This bill proposes to create the
+12 Land Access and Opportunity Fund to be administered by the Land Access and
+13 Opportunity Board. The bill also proposes to require an affordable housing tax
+14 report from the Department of Taxes and to create the Land Security Working
+15 Group.
+16 An act relating to land access and opportunity
+17 It is hereby enacted by the General Assembly of the State of Vermont:
+18 Sec. 1. INTENT
+19 It is the intent of the Vermont General Assembly to support the human right
+20 to housing and to promote public health and community safety by preserving
+VT LEG #386236 v.1
+
+BILL AS INTRODUCED H.826
+2026 Page 2 of 14
+1 affordable housing and creating new social and economic opportunities for the
+2 development and maintenance of sustainable, resilient, and affordable housing
+3 infrastructure. It is the intent of this act to focus State, municipal, and private
+4 resources on ensuring that Vermonters have an adequate supply of safe, secure
+5 housing, including more opportunities for access to and ownership of land and
+6 community resources.
+7 Sec. 2. FINDINGS
+8 The General Assembly finds that:
+9 (1) According to the Vermont Department of Health’s 2025 Vermont
+10 State Health Improvement Plan 2025–2030, a five-year roadmap for ensuring
+11 that all people and communities in Vermont have fair and sustainable access to
+12 opportunities for health and well-being, “a comprehensive and coordinated
+13 approach to programs, policies, and resources to increase affordable,
+14 accessible, and safe housing is vital.” The first goal of the plan is to improve
+15 the availability of affordable, accessible, and safe housing.
+16 (2) The report’s findings show that Vermont’s statewide housing crisis
+17 is deepening, and housing costs are stretching Vermonters’ budgets thin. The
+18 report estimates that the pace of home building will need to increase to create
+19 the 24,000–36,000 additional year-round homes needed in 2025–2029 to meet
+20 demand, normalize vacancy rates, house the homeless, and replace homes lost
+21 from the stock through flooding and other causes.
+VT LEG #386236 v.1
+
+BILL AS INTRODUCED H.826
+2026 Page 3 of 14
+1 (3) The Cannabis Control Board’s 2025 Cannabis Control Board
+2 Report: Proposal for Fees and Appropriations for Fiscal Year 2027
+3 recommends community reinvestment through the Land Access and
+4 Opportunity Board (LAOB). The report states that “it is well established that
+5 stable housing is a cornerstone of healthy, safe and prosperous communities.
+6 Investments in housing access and community reinvestment are thus both
+7 economic and preventive public health measures. Investing in community-
+8 leadership is an effective policy strategy for enduring benefits such as targeted
+9 housing solutions, civic participation, community buy in, and wealth building.”
+10 (4) The Cannabis Control Board’s 2025 Report to the General Assembly
+11 Pursuant to 7 V.S.A. § 989 recommended allocating a portion of the cannabis
+12 excise tax to the LAOB for community reinvestment in the following
+13 initiatives:
+14 (A) down payment assistance grants to support homeownership and
+15 land access for disadvantaged Vermonters, such as:
+16 (i) work in partnership to expand and complement existing down
+17 payment assistance programs; and
+18 (ii) development of Vermont’s first down payment assistance
+19 grant to support farmland access for disadvantaged communities;
+20 (B) financing and technical advising support for BIPOC and other
+21 emerging developers;
+VT LEG #386236 v.1
+
+BILL AS INTRODUCED H.826
+2026 Page 4 of 14
+1 (C) seed and implementation grants for community-led affordable
+2 housing and community development projects, including land trusts and land
+3 banks; and
+4 (D) strengthening community leadership of disadvantaged
+5 communities through advisory powers and community engagement, such as:
+6 (i) allocating resources to strengthen and sustain community-led
+7 initiatives;
+8 (ii) supporting underrepresented community members’
+9 participation in public policy processes with stipends, child care, travel costs,
+10 and language access; and
+11 (iii) advising regarding public policies and programming on how
+12 to dismantle ongoing barriers that prevent the participation and benefit of
+13 disadvantaged communities.
+14 (5) 2025 Acts and Resolves No. 69, Sec. 5 required the State Housing
+15 and Residential Services Planning Committee to “create an actionable plan to
+16 develop housing for individuals with developmental disabilities that reflects
+17 the diversity of needs expressed by those individuals and their families,
+18 including individuals with high-support needs who require 24-hour care and
+19 those with specific communication needs.” The State Housing and Residential
+20 Services Planning Committee’s 2025 report The Road Home: A Plan for
+21 Creating Permanent, Affordable, and Service-Supported Housing for
+VT LEG #386236 v.1
+
+BILL AS INTRODUCED H.826
+2026 Page 5 of 14
+1 Vermonters Who Participate in Developmental Disabilities Services describes
+2 that “as the LAOB has built out its programs, it has taken a broad view of their
+3 charge, recognizing that ownership starts with basic access. The LAOB Co-
+4 Directors have partnered with the parent-led Developmental Disabilities
+5 Housing Initiative to understand the significant barriers that stand between
+6 people with [intellectual and developmental disabilities] and the safe,
+7 affordable and service-supported homes where they want to live. The LAOB
+8 is in the process of developing three positions for housing navigators. Each
+9 navigator will be assigned to a specific population that lacks equitable access
+10 to housing and housing programs. The navigator’s role will include both
+11 individual client assistance and systems change work.”
+12 (6) According to the Vermont Sustainable Jobs Fund’s 2024 Food
+13 Security in Vermont: Roadmap to 2035, a 10-year plan to achieve food
+14 security in Vermont by 2035, it is necessary to integrate food access into town
+15 plans across Vermont. The report states, “municipal and regional planning
+16 tools can integrate food access with other socioeconomic issues, such as
+17 housing and transportation, that influence food security for communities and
+18 individuals.” The report also recommends that “conservation objectives must
+19 be guided by the findings of the Vermont Truth and Reconciliation
+20 Commission, and the recommendations of the Land Access and Opportunity
+21 Board (LAOB). … Strategies to remove barriers to farm ownership, provide
+VT LEG #386236 v.1
+
+BILL AS INTRODUCED H.826
+2026 Page 6 of 14
+1 direct payments to farmers, and update our food supply chain infrastructure
+2 must go together with land conservation.”
+3 Sec. 3. 10 V.S.A. chapter 15, subchapter 5 is amended to read:
+4 Subchapter 5. Land Access and Opportunity Board
+5 § 325t. DEFINITIONS
+6 As used in this subchapter:
+7 (1) “Board” means the Vermont Land Access and Opportunity Board.
+8 (2) “Fund” means the Land Access and Opportunity Fund.
+9 (3) “Historically marginalized or disadvantaged community” means a
+10 community that has historically suffered from discrimination and has not had
+11 equal access to public or private economic benefits due to the race, ethnicity,
+12 gender, geography, language preference, immigrant or citizen status, sexual
+13 orientation, gender identity, socioeconomic status, or disability status of its
+14 members.
+15 (3)(4) “LGBTQ” means an individual who identifies as lesbian, gay,
+16 bisexual, transgender, queer, or questioning.
+17 (4)(5) “VHCB” means the Vermont Housing and Conservation Board.
+18 * * *
+VT LEG #386236 v.1
+
+BILL AS INTRODUCED H.826
+2026 Page 7 of 14
+1 § 325w. LAND ACCESS AND OPPORTUNITY FUND; REPORT
+2 (a) There is created a special fund in the State Treasury to be known as the
+3 “Land Access and Opportunity Fund.” The Fund shall be administered by the
+4 Board.
+5 (b) Expenditures from the Fund shall only be made to implement and
+6 effectuate the purposes of this subchapter. Unexpended balances and any
+7 earnings shall remain in the Fund for use in accord with the purposes of this
+8 subchapter.
+9 (c) Upon application from an eligible applicant in a form prescribed by the
+10 Board, the Board may provide funding in the form of grants or loans for the
+11 following eligible activities:
+12 (1) the purchase of buildings and land by current tenants to expand
+13 access to owner-occupied housing;
+14 (2) the renovation of owner-occupied multiunit housing to expand
+15 access to housing;
+16 (3) the development of housing infrastructure for land owned through a
+17 residential cooperative or other form of collective ownership; and
+18 (4) the development of transitional housing.
+19 (d) The Board shall prioritize funding for projects that:
+VT LEG #386236 v.1
+
+BILL AS INTRODUCED H.826
+2026 Page 8 of 14
+1 (1) create self-sufficient neighborhoods and communities that use
+2 intersectional and circular design, such as localized waste management,
+3 regenerative agricultural practices, and independent energy generation;
+4 (2) develop sustainable social and physical infrastructure that expands
+5 access to community resources, such as tool banks, labor pools, workforce
+6 training programs, disaster relief, and other resilience strategies; and
+7 (3) support members from historically marginalized or disadvantaged
+8 communities, including individuals who experience homelessness, substance
+9 use disorder, or mental or physical disabilities; individuals who have a history
+10 of incarceration or involvement in the justice system; youth with a history of
+11 interaction with the Department for Children and Families; the elderly; or the
+12 agricultural workforce.
+13 (e) The Board shall work with the Vermont Housing and Finance Agency,
+14 the VHCB, the Agency of Human Services, the Department of Housing and
+15 Community Development, the Vermont Economic Progress Council, and
+16 others to identify and propose pilot projects to be awarded funding under this
+17 section that:
+18 (1) identify public land and buildings in areas designated for the
+19 development of housing to integrate housing for members from historically
+20 marginalized or disadvantaged communities into neighborhoods and
+21 communities;
+VT LEG #386236 v.1
+
+BILL AS INTRODUCED H.826
+2026 Page 9 of 14
+1 (2) support cooperative management or ownership;
+2 (3) integrate community resources;
+3 (4) colocate health resources, workforce development opportunities, or
+4 food access;
+5 (5) provide for circular waste management and energy production and
+6 storage within the project or neighborhood; and
+7 (6) propose additional incentives for public-private partnerships and
+8 coordinated development of the neighborhood surrounding the housing
+9 infrastructure.
+10 (f)(1) Annually on or before January 31, the Board shall submit a report
+11 concerning its activities under this section to the Governor and the General
+12 Assembly. The report shall include a list and description of the activities
+13 funded by the Board during the preceding year, including commitments made
+14 to fund projects, and a full financial report of the Board’s activities.
+15 (2) The provisions of 2 V.S.A. § 20(d) (expiration of required reports)
+16 shall not apply to the report to be made under this section.
+17 Sec. 4. PRESERVATION OF AFFORDABLE HOUSING TAX REPORT
+18 On or before July 1, 2027, the Department of Taxes in collaboration with
+19 the Joint Fiscal Office shall issue a report to the General Assembly evaluating
+20 the tax incentives and penalties that purport to preserve affordable housing in
+21 Vermont. The report shall:
+VT LEG #386236 v.1
+
+BILL AS INTRODUCED H.826
+2026 Page 10 of 14
+1 (1) consider various definitions and measurements of affordability for
+2 tenants, including the basic needs budget;
+3 (2) consider variables impacting the price of rent for property owners,
+4 including the cost and benefits of rent pricing;
+5 (3) project how tax incentives for affordable rent might amplify existing
+6 tax benefits for owners;
+7 (4) project how tax penalties on rent prices would deter owners from
+8 charging excessive rent prices;
+9 (5) project how tax incentives for property owners giving tenants the
+10 right of first refusal to purchase property under rent or allowing rent-to-own
+11 could encourage homeownership for tenants;
+12 (6) recommend options and opportunities to provide advantageous tax
+13 treatment to properties owned by Vermonters from historically marginalized or
+14 disadvantaged communities; and
+15 (7) project the fiscal impact of these various tax incentives and penalties
+16 on the revenues of the State.
+17 Sec. 5. LAND SECURITY WORKING GROUP; REPORT
+18 (a) Creation. There is created the Land Security Working Group.
+19 (b) Membership. The Working Group shall be composed of the following
+20 members:
+VT LEG #386236 v.1
+
+BILL AS INTRODUCED H.826
+2026 Page 11 of 14
+1 (1) one member, appointed by the Vermont Land Access and
+2 Opportunity Board;
+3 (2) one member, appointed by the Land Use Review Board;
+4 (3) one member, appointed by the Vermont Association of Planning and
+5 Development Agencies;
+6 (4) the Director of Racial Equity or designee;
+7 (5) the Commissioner of Housing and Community Development or
+8 designee;
+9 (6) one member with knowledge of Act 250 and its impacts on
+10 marginalized communities, appointed by the Housing and Homelessness
+11 Alliance of Vermont;
+12 (7) one member from the Farm to Plate Network with knowledge about
+13 food security and agricultural lands, appointed by the Vermont Sustainable
+14 Jobs Fund;
+15 (8) the Secretary of Agriculture, Food and Markets or designee;
+16 (9) one member with knowledge of affordable housing and marginalized
+17 communities, appointed by the Vermont Housing and Conservation Board;
+18 (10) one member with knowledge about housing development funding,
+19 appointed by the Vermont Housing Finance Agency;
+VT LEG #386236 v.1
+
+BILL AS INTRODUCED H.826
+2026 Page 12 of 14
+1 (11) one member with knowledge about the housing experiences and
+2 needs of marginalized communities, appointed by the Vermont Racial Justice
+3 Alliance;
+4 (12) one member with knowledge about the housing experiences and
+5 needs of marginalized communities, appointed by the Vermont Professionals
+6 of Color Network;
+7 (13) one member with knowledge about the housing experiences and
+8 needs of marginalized communities, appointed by Migrant Justice;
+9 (14) one member, appointed by the Developmental Disabilities Housing
+10 Initiative;
+11 (15) one member with knowledge of and experience with housing-
+12 related matters, appointed by Vermont Legal Aid;
+13 (16) one member with knowledge and experience about land-based
+14 community development, appointed by the Vermont Association of
+15 Conservation Districts;
+16 (17) one member, appointed by Vermont Community Action
+17 Partnership; and
+18 (18) one member with knowledge and experience about the impacts of
+19 zoning and land access laws on marginalized communities from the Civil
+20 Rights and Environmental Justice Unit, appointed by the Secretary of Natural
+21 Resources.
+VT LEG #386236 v.1
+
+BILL AS INTRODUCED H.826
+2026 Page 13 of 14
+1 (c) Powers and duties. The Working Group shall provide an assessment
+2 and recommendations regarding:
+3 (1) disparate economic and environmental justice impacts of Vermont’s
+4 land use and conservation policies and regulations, including Act 250, 2024
+5 Acts and Resolves No. 181, and other relevant policies; and
+6 (2) identification and protection of agricultural land for community food
+7 security purposes.
+8 (d) Report. On or before December 15, 2026, the Working Group shall
+9 submit a written report to the General Assembly with its findings and any
+10 recommendations for legislative action.
+11 (e) Meetings.
+12 (1) The Director of Racial Equity, or designee, shall call the first
+13 meeting of the Working Group to occur on or before July 15, 2026.
+14 (2) The Working Group shall select a chair from among its members at
+15 the first meeting.
+16 (3) A majority of the membership shall constitute a quorum.
+17 (4) The Working Group shall cease to exist on January 20, 2027.
+18 (f) Compensation. Members of the Working Group not otherwise
+19 compensated for participation in the Working Group shall be eligible to per
+20 diem compensation as permitted under 32 V.S.A. § 1010 for not more than 10
+VT LEG #386236 v.1
+
+BILL AS INTRODUCED H.826
+2026 Page 14 of 14
+1 meetings. These payments shall be made from monies appropriated to the
+2 Land Access and Opportunity Board.
+3 Sec. 6. EFFECTIVE DATE
+4 This act shall take effect on passage.
+VT LEG #386236 v.1

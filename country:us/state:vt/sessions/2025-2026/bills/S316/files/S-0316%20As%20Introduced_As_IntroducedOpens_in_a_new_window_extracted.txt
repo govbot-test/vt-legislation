@@ -1,0 +1,92 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED S.316
+2026 Page 1 of 4
+1 S.316
+2 Introduced by Senators Perchlik, Gulick, Major, Plunkett and Watson
+3 Referred to Committee on
+4 Date:
+5 Subject: Commerce and trade; consumer protection
+6 Statement of purpose of bill as introduced: This bill proposes to prohibit credit
+7 card fees on the portion of a transaction attributable to a tax or gratuity.
+8 An act relating to credit card fees
+9 It is hereby enacted by the General Assembly of the State of Vermont:
+10 Sec. 1. 9 V.S.A. chapter 63, subchapter 4A is added to read:
+11 Subchapter 4A. Credit Card Fees on Taxes and Gratuities
+12 § 2480s. PROHIBITON ON FEES
+13 (a) Definitions. As used in this subchapter:
+14 (1) “Electronic payment transaction” or “transaction” means a
+15 transaction in which a person uses a debit card, credit card, or other payment
+16 code or device issued or approved through a payment card network to debit a
+17 deposit account or use a line of credit, whether authorization is based on a
+18 signature, a personal identification number, or other means.
+VT LEG #386001 v.1
+
+BILL AS INTRODUCED S.316
+2026 Page 2 of 4
+1 (2) “Gratuity” means:
+2 (A) a voluntary monetary contribution received by a merchant from a
+3 guest, patron, or customer for services rendered; and
+4 (B) an automatic service fee received by a merchant from a guest,
+5 patron, or customer for services rendered that is intended to replace the need
+6 for a voluntary monetary contribution pursuant to subdivision (A) of this
+7 subdivision (2).
+8 (3) “Interchange fee” means a fee established, charged, or received by a
+9 payment card network for the purpose of compensating the issuer for its
+10 involvement in an electronic payment transaction.
+11 (4) “Issuer” means a person that issues a debit card or a credit card.
+12 (5) “Merchant” means a person that collects and remits a tax.
+13 (6) “Payment card network” means an entity that:
+14 (A) directly or through licensed members, processors, or agents,
+15 provides the proprietary services, infrastructure, and software that route
+16 information and data to facilitate transaction authorization, clearance, and
+17 settlement; and
+18 (B) merchants are required to access in order to accept a specific
+19 brand of general-purpose credit cards, charge cards, debit cards, or stored-
+20 value cards as payment for goods and services.
+VT LEG #386001 v.1
+
+BILL AS INTRODUCED S.316
+2026 Page 3 of 4
+1 (7) “Processor” means an entity that facilitates, services, processes, or
+2 manages a debit card or credit card authorization, billing, transfer, payment
+3 procedures, or settlement with respect to an electronic payment transaction.
+4 (8) “Tax” means any State or local sales, use, or excise tax imposed by
+5 law and collected by the merchant at the point of sale.
+6 (b) Prohibited fees. A payment card network shall not directly or indirectly
+7 through an agent, issuer, acquirer bank, processor, fee schedule, contract,
+8 requirement, condition, penalty, technological specification, or inducement:
+9 (1) establish, charge, or publish any interchange fee that is calculated as
+10 a percentage of a transaction amount if that amount includes any portion
+11 attributable to tax or gratuity; or
+12 (2) apply any surcharge or increase to the portion of a transaction not
+13 attributable to tax or gratuity in an effort to offset the exclusion of such tax or
+14 gratuity.
+15 (c) Enforcement and penalties.
+16 (1) A payment card network shall be liable for a civil penalty of
+17 $1,000.00 per transaction that violates this subchapter.
+18 (2) A merchant whose rights under this subchapter have been violated
+19 may maintain a civil action for damages or equitable relief, including
+20 attorney’s fees, if any.
+VT LEG #386001 v.1
+
+BILL AS INTRODUCED S.316
+2026 Page 4 of 4
+1 (3) A violation of this section shall be deemed a violation of section
+2 2453 of this title. The Attorney General shall have the same authority to
+3 conduct civil investigations, enter into assurances of discontinuance, and bring
+4 civil actions as provided under subchapter 1 of this chapter.
+5 (d) Severability. If any provision of this subchapter or its application to
+6 any person or circumstance is held invalid, the invalidity does not affect other
+7 provisions or applications of this subchapter that can be given effect without
+8 the invalid provision or application, and, to this end, the provisions of this
+9 subchapter are severable.
+10 Sec. 2. EFFECTIVE DATE
+11 This act shall take effect on July 1, 2026.
+VT LEG #386001 v.1

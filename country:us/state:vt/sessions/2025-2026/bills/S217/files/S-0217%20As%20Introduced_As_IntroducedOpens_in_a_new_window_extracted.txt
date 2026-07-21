@@ -1,0 +1,508 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED S.217
+2026 Page 1 of 21
+1 S.217
+2 Introduced by Senator Watson
+3 Referred to Committee on
+4 Date:
+5 Subject: Conservation and development; extended producer liability;
+6 mattresses
+7 Statement of purpose of bill as introduced: This bill proposes to establish an
+8 extended producer responsibility program for the collection of discarded
+9 mattresses. The bill would require mattress producers, individually or
+10 collectively through a mattress stewardship organization, to create, implement,
+11 and administer a mattress stewardship collection plan for the collection and
+12 disposition of discarded mattresses in Vermont.
+13 An act relating to establishing an extended producer responsibility program
+14 for the collection of discarded mattresses
+15 It is hereby enacted by the General Assembly of the State of Vermont:
+16 Sec. 1. 10 V.S.A. chapter 164C is added to read:
+17 CHAPTER 164C. MATTRESS COLLECTION PROGRAM
+18 § 7201. DEFINITIONS
+VT LEG #385484 v.1
+
+BILL AS INTRODUCED S.217
+2026 Page 2 of 21
+1 As used in this chapter:
+2 (1) “Brand” means a name, symbol, word, or mark that attributes a
+3 mattress to the producer of the mattress.
+4 (2) “Consumer” means any person who presents or intends to present a
+5 discarded mattress to a collection site operating an approved mattress
+6 collection plan.
+7 (3) “Discarded mattress” means any mattress that a consumer discarded,
+8 intends to discard, or abandoned.
+9 (4) “Energy recovery” means the process of burning or processing solid
+10 waste materials to utilize the heat or other forms of energy within solid waste
+11 materials.
+12 (5)(A) “Foundation” means any ticking-covered structure that is used to
+13 support a mattress and that is composed of one or more of the following:
+14 (i) a constructed frame;
+15 (ii) foam; or
+16 (iii) a box spring.
+17 (B) “Foundation” does not include any bed frame.
+18 (6)(A) “Mattress” means any resilient material or combination of
+19 materials that is enclosed by a ticking, that is used alone or in combination
+20 with other products, and that is intended for or promoted for sleeping upon.
+VT LEG #385484 v.1
+
+BILL AS INTRODUCED S.217
+2026 Page 3 of 21
+1 “Mattress” includes any foundation, renovated foundation, or renovated
+2 mattress.
+3 (B) “Mattress” does not include:
+4 (i) an unattached mattress pad or an unattached mattress topper,
+5 including any item with resilient filling, with or without ticking, that is
+6 intended to be used with or on top of a mattress;
+7 (ii) a sleeping bag or pillow;
+8 (iii) a car bed;
+9 (iv) juvenile products, including a carriage, basket, dressing table,
+10 stroller, playpen, infant carrier, lounge pad, crib bumper, and any pad for such
+11 juvenile product;
+12 (v) a product that contains liquid- or gaseous-filled ticking,
+13 including any waterbed or air mattress that does not contain upholstery
+14 material between the ticking and the mattress core; or
+15 (vi) any upholstered furniture that does not otherwise contain a
+16 detachable mattress, including a foldout sofa bed or a futon.
+17 (7) “Mattress core” means the principal support system that is present in
+18 a mattress, including springs, foam, air bladder, water bladder, or resilient
+19 filling.
+20 (8) “Mattress stewardship collection plan,” “mattress collection plan,”
+21 or “collection plan” means the systems, methods, or mechanisms developed by
+VT LEG #385484 v.1
+
+BILL AS INTRODUCED S.217
+2026 Page 4 of 21
+1 producers or mattress stewardship organizations that pursue the goals of this
+2 chapter.
+3 (9) “Mattress stewardship organization” or “stewardship organization”
+4 means the legal entity such as an organization, association, or other entity that
+5 has developed a system, method, or other mechanism that assumes the
+6 responsibilities, obligations, and liabilities under this chapter of multiple
+7 producers of mattresses.
+8 (10) “Performance goal” means a metric to annually measure the
+9 performance of the mattress stewardship collection plan on how it is achieving
+10 continuous, meaningful improvement to the rate of mattress collection and
+11 recycling in the State and any other specified goal of the program.
+12 (11) “Producer” means a person:
+13 (A) who manufactures or renovates a mattress that is sold or offered
+14 for sale in or into this State under the producer’s own name or brand;
+15 (B) who owns a trademark or brand under which a mattress is sold or
+16 offered for sale in or into this State, whether or not such trademark or brand is
+17 registered in this State;
+18 (C) who imports a mattress into the United States that is sold or
+19 offered for sale in or into this State and that is manufactured or renovated by a
+20 person who does not have a presence in the United States;
+VT LEG #385484 v.1
+
+BILL AS INTRODUCED S.217
+2026 Page 5 of 21
+1 (D) who manufactures or renovates a mattress for sale in or into the
+2 State without affixing a brand name; or
+3 (E) who assumes the responsibilities, obligations, and liabilities of a
+4 producer as defined under subdivisions (A) through (D) of this subdivision
+5 (11), provided that the Secretary may enforce the requirements of this chapter
+6 against a producer defined under subdivisions (A) through (D) of this
+7 subdivision (11) if a person who assumes the producer’s responsibilities fails
+8 to comply with the requirements of this chapter.
+9 (12) “Program mattress” means any discarded mattress that a
+10 stewardship organization provides environmentally sound management for
+11 under a mattress collection plan required under this chapter. “Program
+12 mattress” does not mean a mattress transported from outside the State into the
+13 State.
+14 (13)(A) “Recycling” means any process in which discarded mattresses,
+15 components, and by-products may lose their original identity or form as they
+16 are transformed into new, useable, or marketable materials.
+17 (B) “Recycling” does not include the use of incineration for energy
+18 recovery.
+19 (14)(A) “Renovate” or “renovation” means altering a mattress for the
+20 purpose of resale, including replacing the ticking or filling, adding additional
+21 filling, or replacing components with new or recycled materials.
+VT LEG #385484 v.1
+
+BILL AS INTRODUCED S.217
+2026 Page 6 of 21
+1 (B) “Renovate” or “renovation” does not include:
+2 (i) the stripping of a mattress of its ticking or filling without
+3 adding new material;
+4 (ii) the sanitization or sterilization of a mattress without other
+5 alteration of the mattress; or
+6 (iii) the altering of a mattress by a renovator when a person retains
+7 the altered mattress for personal use.
+8 (15) “Renovator” means any person who renovates discarded mattresses
+9 for the purpose of reselling the mattresses.
+10 (16) “Retailer” means any person who sells mattresses in this State or
+11 offers for sale or transfers mattresses in this State to other persons.
+12 (17) “Sale” or “sell” means the transfer of title of a mattress for
+13 consideration, including the use of a sales outlet, catalog, internet, or similar
+14 electronic means. “Sale” or “sell” does not include the sale, resale, or transfer
+15 of a discarded mattress that has not been renovated.
+16 (18) “Sanitization” means the direct application of chemicals to a
+17 mattress to kill human disease-causing pathogens.
+18 (19) “Sterilization” means the mitigation of any deleterious substances
+19 or organisms, including human disease-causing pathogens, fungi, and insects,
+20 from a mattress or filling material using a process approved by the Secretary.
+VT LEG #385484 v.1
+
+BILL AS INTRODUCED S.217
+2026 Page 7 of 21
+1 (20)(A) “Ticking” means the outermost layer of fabric or material of a
+2 mattress.
+3 (B) “Ticking” does not include any layer of fabric or material quilted
+4 together with, or attached to, the outermost layer of fabric or material of a
+5 mattress.
+6 (21) “Upholstery material” means all material, loose or attached,
+7 between the ticking and the core of a mattress.
+8 § 7202. SALE OF MATTRESS; CONDITION ON SALE
+9 Beginning on July 1, 2028, a producer of a mattress shall not sell, offer for
+10 sale, or deliver to a retailer for subsequent sale a mattress unless all of the
+11 following have been met:
+12 (1) The producer is operating under an individual collection plan for
+13 program mattresses approved by the Secretary or is participating in a mattress
+14 stewardship organization implementing an approved collection plan for
+15 program mattresses.
+16 (2) The name of the producer, the producer’s brand, and the name of
+17 mattresses are submitted to the Agency of Natural Resources by the producer
+18 or a mattress stewardship organization and are listed on the producer’s or
+19 mattress stewardship organization’s website as covered by an approved
+20 collection plan.
+VT LEG #385484 v.1
+
+BILL AS INTRODUCED S.217
+2026 Page 8 of 21
+1 (3) The producer or mattress stewardship organization in which the
+2 producer participates has submitted an annual report consistent with the
+3 requirement of section 7206 of this title.
+4 (4) The producer or the mattress stewardship organization in which the
+5 producer participates has conducted a plan audit consistent with the
+6 requirements of section 7206 of this title.
+7 § 7203. MATTRESS STEWARDSHIP ORGANIZATION;
+8 REGISTRATION; OBLIGATIONS
+9 (a) A producer may meet the requirements of this chapter by participating
+10 in a mattress stewardship organization that undertakes the producer’s
+11 responsibilities under this chapter.
+12 (b) To qualify as a mattress stewardship organization under this chapter, an
+13 organization shall:
+14 (1) commit to assume the responsibilities, obligations, and liabilities of
+15 all producers participating in the stewardship organization;
+16 (2) represent at least 45 percent of the market share of mattresses sold in
+17 the State;
+18 (3) not create unreasonable barriers for participation in the stewardship
+19 organization; and
+VT LEG #385484 v.1
+
+BILL AS INTRODUCED S.217
+2026 Page 9 of 21
+1 (4) maintain a public website that lists all producers and producers’
+2 brands covered by the mattress stewardship organization’s approved collection
+3 plan.
+4 (c)(1) On or before July 1, 2027, and annually thereafter, a mattress
+5 stewardship organization shall file a registration with the Secretary. The
+6 Secretary shall provide the registration form to the stewardship organization.
+7 The registration form shall include:
+8 (A) a list of the producers participating in the mattress stewardship
+9 organization;
+10 (B) a list of the brands of each producer participating in the
+11 stewardship organization;
+12 (C) a list of the mattresses of each producer participating in the
+13 stewardship organization;
+14 (D) the name, address, and contact information of a person
+15 responsible for ensuring compliance with this chapter;
+16 (E) a description of how the stewardship organization meets the
+17 requirements of subsection (b) of this section, including any reasonable
+18 requirements for participation in the stewardship organization; and
+19 (F) the name, address, and contact information of a person for a
+20 nonmember manufacturer to contact regarding how to participate in the
+21 stewardship organization to satisfy the requirements of this chapter.
+VT LEG #385484 v.1
+
+BILL AS INTRODUCED S.217
+2026 Page 10 of 21
+1 (2) A renewal of a mattress stewardship organization registration
+2 without changes may be accomplished through notifying the Agency of
+3 Natural Resources on a form provided by the Agency.
+4 § 7204. MATTRESS COLLECTION PLANS
+5 (a) On or before January 1, 2028, a producer, individually or as a
+6 participant in a mattress stewardship organization, shall submit a mattress
+7 collection plan for program mattresses to the Secretary for approval.
+8 (b) The plan shall include, at a minimum, all of the following:
+9 (1) List of participants and products. A list of the producers, brands,
+10 and products participating in the mattress collection plan and a methodology
+11 for adding and removing producers and notifying the Agency of new
+12 participants.
+13 (2) Free collection. Provide for collection of discarded program
+14 mattresses free of charge to consumers, provided that not more than four
+15 discarded mattresses are provided to a collection site by a consumer at any one
+16 time.
+17 (3) Convenient collection.
+18 (A) A description of how the producer or mattress stewardship
+19 organization shall provide for a convenient and cost-effective collection of
+20 discarded program mattresses that may include using existing public and
+21 private waste collection channels and collection sites in the State pursuant to
+VT LEG #385484 v.1
+
+BILL AS INTRODUCED S.217
+2026 Page 11 of 21
+1 voluntary agreements. The description shall also include a description of how
+2 the program will achieve within a reasonable period of time a minimum
+3 convenience goal that ensures that all counties of the State shall have at least
+4 one collection site, and within two years after the program approval, not less
+5 than 70 percent of the State’s residents will live within a 30 mile radius of a
+6 collection site, and within three years after the program approval, not less than
+7 80 percent of the State’s residents will live within a 30 mile radius of a
+8 collection site.
+9 (B) To meet these convenience goals, the producer or stewardship
+10 organization shall:
+11 (i) enter into voluntary agreements to establish collection sites at
+12 public and private solid waste facilities, transfer stations, landfills, recyclables
+13 handling and recovery facilities that are permitted or registered with the
+14 Secretary, or other suitable sites for the collection of discarded mattresses;
+15 (ii) provide mattress storage containers at no cost to a participating
+16 collection site;
+17 (iii) negotiate mutually agreed upon voluntary agreements with
+18 participating collection sites described in subdivision (i) of this subdivision
+19 (b)(3)(B) that provide for reasonable compensation for the actual costs these
+20 collection sites incur to handle, store, and transport discarded mattresses for
+21 recycling;
+VT LEG #385484 v.1
+
+BILL AS INTRODUCED S.217
+2026 Page 12 of 21
+1 (iv) provide for bulk pickup service at no cost to collect a
+2 minimum of 100 properly source-separated program mattresses at one time
+3 from persons including:
+4 (I) State agencies;
+5 (II) municipalities;
+6 (III) public or private disposal or solid waste transfer facilities;
+7 (IV) health care, education, or military facilities; and
+8 (V) hotels, motels, inns, and other establishments that provide
+9 transient lodging;
+10 (v) offer organizations that recycle or renovate discarded
+11 mattresses the opportunity to participate as collection site; and
+12 (vi) enter into voluntary agreements with retailers that pick up or
+13 accept mattresses from consumers upon the purchase of a new mattress for
+14 recycling.
+15 (4) List of plan partners. The names and locations of collection sites,
+16 transporters, and recyclers who will manage discarded mattresses delivered to
+17 collection sites at the time of plan submission.
+18 (5) Collection and disposition of discarded mattresses. A description of
+19 how the discarded mattresses will be safely and securely collected and
+20 transported, tracked, and handled from collection sites through final recycling
+21 and processing, including:
+VT LEG #385484 v.1
+
+BILL AS INTRODUCED S.217
+2026 Page 13 of 21
+1 (A) a description of the methods to be used to reuse or recycle
+2 discarded mattresses to ensure that the components, to the extent feasible, are
+3 transformed or remanufactured into finished products for use; and
+4 (B) a description of the methods to be used to manage or dispose of
+5 discarded mattresses that cannot be recycled or reused.
+6 (6) Education and outreach materials. A detailed description of the
+7 outreach and educational methods and materials to be used under the plan,
+8 including:
+9 (A) materials that shall be provided to consumers, retailers, collection
+10 sites, and transporters of discarded mattresses;
+11 (B) outreach and education methods that will be used to encourage
+12 municipal landfill and transfer station participation; and
+13 (C) how such outreach materials and methods shall be evaluated for
+14 effectiveness.
+15 (7) Performance goals. A description of how the program will meet
+16 annual performance goals, including collection, recycling, and reuse rates, as
+17 determined by the Secretary, provided that, at a minimum, the program shall
+18 achieve a 70 percent recycling rate of mattresses in the first program year.
+19 (8) Retailer incentives. A description of what, if any, incentives will be
+20 used to encourage retailer participation.
+VT LEG #385484 v.1
+
+BILL AS INTRODUCED S.217
+2026 Page 14 of 21
+1 (9) Additional information. Any other information required by the
+2 Secretary to implement the program.
+3 (c) A producer or a mattress stewardship organization shall:
+4 (1) Notify the Secretary whenever there is a proposed substantial change
+5 to their approved mattress collection plan. For the purposes of this subsection,
+6 “substantial change” includes:
+7 (A) a change in the processing facilities to be used for discarded
+8 mattresses collected pursuant to the program; or
+9 (B) a material change to the system for collecting mattresses.
+10 (2) Not later than two years after initial approval of a mattress collection
+11 plan, the producer or mattress stewardship organization shall submit to the
+12 Secretary for review updated performance goals that are based on collection
+13 under the program during the first two years of the program.
+14 (d) A producer or a mattress stewardship organization shall notify the
+15 Secretary of any minor changes to the mattress collection plan on an ongoing
+16 basis without resubmitting the plan for the Secretary’s approval. These
+17 changes include a change in the membership, officers, or contact information
+18 of the organization.
+19 § 7205. RETAILER OBLIGATIONS; EXEMPTION
+20 (a)(1) On and after July 1, 2028, no person shall sell or offer for sale a
+21 mattress to any person in this State if the producer of the mattress does not
+VT LEG #385484 v.1
+
+BILL AS INTRODUCED S.217
+2026 Page 15 of 21
+1 have or is not participating in an approved mattress stewardship collection
+2 plan.
+3 (2) No retailer or distributor shall be found to be in violation of this
+4 section if, on the date the mattress was ordered from the producer or its agent,
+5 the producer of the mattress was in accordance with the provisions of this
+6 chapter.
+7 (b) A retailer shall not be responsible for an unlawful sale of a mattress
+8 under this subsection if the retailer purchased the mattress prior to July 1,
+9 2028, and sells the mattress on or before July 1, 2029.
+10 § 7206. ANNUAL REPORT; PLAN AUDIT
+11 (a) Annual report. Annually, a mattress producer or a mattress stewardship
+12 organization shall submit a report to the Secretary that contains the following:
+13 (1) the weight of discarded mattresses collected by the producer or the
+14 mattress stewardship organization in the prior calendar year;
+15 (2) the percentage of discarded mattresses collected in the prior calendar
+16 year that are from producers who are not participating in any approved
+17 mattress stewardship organization;
+18 (3) the collection rate achieved in the prior calendar year under the
+19 mattress collection plan, including a report of the estimated total sales data by
+20 weight for mattresses sold in the State for the previous three calendar years;
+VT LEG #385484 v.1
+
+BILL AS INTRODUCED S.217
+2026 Page 16 of 21
+1 (4) the locations of all collection points available under the mattress
+2 collection plan and contact information for each location;
+3 (5) examples and description of educational materials used to increase
+4 collection;
+5 (6) the weight of program mattress materials sent for disposal at each of
+6 the following:
+7 (A) energy recovery;
+8 (B) landfills; and
+9 (C) any other facilities;
+10 (7) an evaluation of why the mattress materials sent for disposal were
+11 not recycled and a description of program efforts to increase the recycling rate
+12 of mattress materials under the mattress stewardship program;
+13 (8) any substantial change to the mattress collection plan approved by
+14 the Secretary pursuant to section 7204 of this title; and
+15 (9) the cost of implementation of the mattress collection plan, including
+16 the costs of collection, recycling, education, and outreach.
+17 (b) Plan audit. After five years of implementation of an approved mattress
+18 plan, a producer or mattress stewardship organization shall hire an independent
+19 third party to conduct a one-time audit of the mattress collection plan and plan
+20 operation. The auditor shall examine the effectiveness of the mattress
+21 collection plan in collecting and recycling discarded mattresses. The
+VT LEG #385484 v.1
+
+BILL AS INTRODUCED S.217
+2026 Page 17 of 21
+1 independent auditor shall examine the cost-effectiveness of the plan and
+2 compare it to that of collection plans or programs for discarded mattresses in
+3 other jurisdictions. The independent auditor shall submit the results of the
+4 audit to the Secretary as part of the annual report required under subsection (a)
+5 of this section.
+6 § 7207. ANTITRUST; CONDUCT AUTHORIZED
+7 (a) Activity authorized. A producer, group of producers, or stewardship
+8 organization implementing or participating in an approved mattress collection
+9 plan under this chapter for the collection, transport, processing, and end-of-life
+10 management of discarded mattresses is individually or jointly immune from
+11 liability for conduct under State laws relating to antitrust, restraint of trade,
+12 unfair trade practices, and other regulation of trade or commerce under 9
+13 V.S.A. chapter 63, subchapter 1 to the extent that the conduct is reasonably
+14 necessary to plan, implement, and comply with the producer’s or stewardship
+15 organization’s chosen system for managing discarded mattresses.
+16 (b) Limitations on antitrust activity. Subsection (a) of this section shall not
+17 apply to an agreement among producers, groups of producers, retailers,
+18 wholesalers, or stewardship organizations affecting the price of mattresses or
+19 any agreement restricting the geographic area in which or customers to whom
+20 mattresses shall be sold.
+VT LEG #385484 v.1
+
+BILL AS INTRODUCED S.217
+2026 Page 18 of 21
+1 § 7208. AGENCY RESPONSIBILITY
+2 (a) The Secretary shall:
+3 (1) Review for approval the mattress collection plan of a producer,
+4 either individually or as part of a mattress stewardship organization.
+5 (A) Not later than 90 days after the plan described in section 7204 of
+6 this chapter is submitted, the Secretary shall decide whether to:
+7 (i) approve the plan as submitted; or
+8 (ii) deny the plan.
+9 (B) If the Secretary denies the plan, the Secretary shall provide a
+10 notice of determination to the producer or mattress stewardship organization
+11 within 60 days after the decision, including reasons for the disapproval. The
+12 producer or stewardship organization shall revise and resubmit the plan to the
+13 Secretary not later than 45 days after receipt of the Secretary’s denial notice.
+14 Not later than 45 days after the receipt of the revised plan, the Secretary shall
+15 review and approve or deny the revised plan. The producer or mattress
+16 stewardship organization may resubmit a revised plan to the Secretary not
+17 more than twice. If the producer or mattress stewardship organization fails to
+18 submit a plan that is accepted by the Secretary because it does not meet the
+19 requirements of subsection (b) of this section, the Secretary shall have the
+20 ability to require the producer or mattress stewardship organization to submit
+21 modifications to the submitted plan prior to approval. The producer or
+VT LEG #385484 v.1
+
+BILL AS INTRODUCED S.217
+2026 Page 19 of 21
+1 mattress stewardship organization shall implement the mattress stewardship
+2 program not later than 120 days after the approval of the plan by the Secretary.
+3 (2) Maintain on the Agency of Natural Resources’ website information
+4 on collection opportunities for mattresses, including collection site locations.
+5 This information shall be made available in a printable format for retailers and
+6 consumers.
+7 (3) List the names of participating producers covered under approved
+8 mattress collection plans on the Agency of Natural Resources’ website.
+9 (4) Report biennially to the General Assembly on the operation of the
+10 statewide system for collection, transportation, recycling, and recovery of
+11 mattresses.
+12 (b) The Secretary may adopt rules and regulations to implement the
+13 requirements of this chapter.
+14 § 7209. FEES; DISPOSITION
+15 (a) A producer or mattress stewardship organization shall pay $2,000.00
+16 annually for operation of an approved mattress collection plan.
+17 (b) The fees collected under subsection (a) of this section shall be deposited
+18 in the Environmental Permit Fund established under 3 V.S.A. § 2805.
+19 Sec. 2. 10 V.S.A. § 6621a(a) is amended to read:
+20 (a) In accordance with the following schedule, no person shall knowingly
+21 dispose of the following materials in solid waste or in landfills:
+VT LEG #385484 v.1
+
+BILL AS INTRODUCED S.217
+2026 Page 20 of 21
+1 * * *
+2 (13) Mattresses after July 1, 2028.
+3 Sec. 3. 10 V.S.A. § 8003(a) is amended to read:
+4 (a) The Secretary may take action under this chapter to enforce the
+5 following statutes and rules, permits, assurances, or orders implementing the
+6 following statutes, and the Board may take such action with respect to
+7 subdivision (10) of this subsection:
+8 * * *
+9 (32) 10 V.S.A. chapter 164B, relating to collection and management of
+10 covered household hazardous products; and
+11 (33) 10 V.S.A. chapter 24A, relating to the Climate Superfund Cost
+12 Recovery Program; and
+13 (34) 10 V.S.A. chapter 164C, relating to the Mattress Collection
+14 Program.
+15 Sec. 4. 10 V.S.A. § 8503(a) is amended to read:
+16 (a) This chapter shall govern all appeals of an act or decision of the
+17 Secretary, excluding enforcement actions under chapters 201 and 211 of this
+18 title and rulemaking, under the following authorities and under the rules
+19 adopted under those authorities:
+20 (1) The following provisions of this title:
+21 * * *
+VT LEG #385484 v.1
+
+BILL AS INTRODUCED S.217
+2026 Page 21 of 21
+1 (V) chapter 124 (trade in covered animal parts or products); and
+2 (W) chapter 164B (collection and management of covered household
+3 hazardous products); and
+4 (X) chapter 164C (Mattress Collection Program).
+5 (2) 29 V.S.A. chapter 11 (management of lakes and ponds).
+6 (3) 24 V.S.A. chapter 61, subchapter 10 (relating to salvage yards).
+7 (4) 3 V.S.A. § 2810 (interim environmental media standards).
+8 Sec. 5. EFFECTIVE DATE
+9 This act shall take effect on July 1, 2026.
+VT LEG #385484 v.1

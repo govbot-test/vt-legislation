@@ -1,0 +1,324 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED S.190
+2026 Page 1 of 13
+1 S.190
+2 Introduced by Senator Lyons
+3 Referred to Committee on
+4 Date:
+5 Subject: Health; health care reform; Green Mountain Care Board; hospitals;
+6 health insurance; reference-based pricing; provider taxes
+7 Statement of purpose of bill as introduced: This bill proposes to set certain
+8 requirements for hospitals and health insurers to meet in order to facilitate the
+9 Green Mountain Care Board’s implementation of reference-based pricing. The
+10 bill would establish regulatory oversight of hospitals’ use of outsourcing
+11 contracts for clinical services. The bill would repeal authorizing language for
+12 health care provider bargaining groups, clarify procedures for appealing Green
+13 Mountain Care Board decisions and orders, and allow the Board to conduct
+14 examinations and investigations of hospitals, including audits, as part of its
+15 hospital budget reviews. The bill would also direct the Green Mountain Care
+16 Board to develop an interactive health system performance tool if the State
+17 receives the funding necessary to support the project.
+18 An act relating to the Green Mountain Care Board, reference-based pricing,
+19 and hospital outsourcing of clinical care
+VT LEG #385998 v.1
+
+BILL AS INTRODUCED S.190
+2026 Page 2 of 13
+1 It is hereby enacted by the General Assembly of the State of Vermont:
+2 * * * Reference-Based Pricing * * *
+3 Sec. 1. 18 V.S.A. § 9376(e) is amended to read:
+4 (e) Reference-based pricing.
+5 * * *
+6 (3)(A) The Board shall begin implementing reference-based pricing as
+7 soon as practicable but not later than hospital fiscal year 2027 by establishing
+8 the maximum amounts that Vermont hospitals shall accept as payment in full
+9 for items provided and services delivered. After initial implementation, the
+10 Board shall review the reference-based prices for each hospital annually as part
+11 of the hospital budget review process set forth in chapter 221, subchapter 7 of
+12 this title.
+13 (B) The Board, in collaboration with the Department of Financial
+14 Regulation, shall monitor the implementation of reference-based pricing to
+15 ensure that any decreases in amounts paid to hospitals also result in decreases
+16 in health insurance premiums. The Board shall post its findings regarding the
+17 alignment between price decreases and premium decreases annually on its
+18 website.
+19 (C) For provider contracts entered into on or after October 1, 2026,
+20 each hospital and health insurer shall express the rates for all items and
+VT LEG #385998 v.1
+
+BILL AS INTRODUCED S.190
+2026 Page 3 of 13
+1 services as a percentage of Medicare or of another benchmark, if another
+2 benchmark is deemed appropriate by the Green Mountain Care Board.
+3 (D)(i) Each hospital shall apply for, obtain, and use a unique National
+4 Provider Identifier (NPI) on all claims filed after October 1, 2026, for
+5 reimbursement or payment of items provided and services delivered at an off-
+6 campus department of the hospital that is distinct from the NPI used for
+7 services delivered at the main hospital campus or at any other off-campus
+8 hospital department.
+9 (ii) As used in this subdivision (D):
+10 (I) “Campus” has the same meaning as in 42 C.F.R. § 413.65.
+11 (II) “Off-campus” means a facility located more than 250 yards
+12 from the main hospital campus.
+13 (E) When making public the charges for items and services pursuant
+14 to 45 C.F.R. Part 180, each hospital shall include in its machine-readable files
+15 pricing information shown as a percentage of Medicare rates, as well as in
+16 dollars and cents, disaggregated by payer and by plan.
+17 (F) The Board shall establish a default percentage of Medicare above
+18 which a hospital shall not accept payment for an item or service under any
+19 newly established Current Procedural Terminology (CPT) code unless and
+20 until the Board establishes a specific reference-based price for the item or
+21 service pursuant to this chapter.
+VT LEG #385998 v.1
+
+BILL AS INTRODUCED S.190
+2026 Page 4 of 13
+1 (G) The Board shall establish a default maximum percentage of
+2 Medicare above which a hospital shall not accept payment for any individual
+3 inpatient or outpatient item or service.
+4 * * *
+5 * * * Hospital Outsourcing * * *
+6 Sec. 2. HOSPITAL OUTSOURCING; FINDINGS; PURPOSE
+7 (a) The General Assembly finds that:
+8 (1) Hospitals are increasingly outsourcing their clinical services, such as
+9 emergency medicine, anesthesiology, radiology, laboratory services, and other
+10 specialized care, to outside entities.
+11 (2) Revenue from outsourced clinical services is not consistently
+12 reported in the hospital budget process and has been excluded from the Green
+13 Mountain Care Board’s regulatory oversight.
+14 (3) Outsourced revenue may circumvent hospital revenue caps and
+15 spending limitations, undermining budget transparency and accountability.
+16 (4) Without oversight, outsourced services may operate outside price
+17 controls, including reference-based pricing, which contributes to cost inflation
+18 and market inefficiencies.
+19 (5) Patients may face network adequacy issues, surprise medical bills,
+20 and inconsistent access to financial assistance when receiving care from
+21 outsourced providers.
+VT LEG #385998 v.1
+
+BILL AS INTRODUCED S.190
+2026 Page 5 of 13
+1 (b) The purposes of 18 V.S.A. § 9415, as enacted in Sec. 3 of this act, are:
+2 (1) to bring all hospital-affiliated revenue within the Green Mountain
+3 Care Board’s regulatory purview, thus closing gaps in spending accountability;
+4 (2) to ensure that reference-based pricing applies to outsourced services,
+5 thus preventing cost inflation and creating transparent rate structures that apply
+6 across all hospital services; and
+7 (3) to apply network adequacy requirements and billing protections to
+8 shield patients from surprise medical bills and ensure consistent access to
+9 legally required financial assistance policies.
+10 Sec. 3. 18 V.S.A. § 9415 is added to read:
+11 § 9415. HOSPITAL OUTSOURCING OF CLINICAL CARE
+12 (a) Definitions. As used in this section, “outsourcing” means an
+13 arrangement in which a hospital contracts with an external entity that assumes
+14 sole control of direct clinical care offered within the hospital facility.
+15 “Outsourced services” may include emergency medicine, anesthesiology,
+16 hospitalist services, and other direct patient care services provided on-site at
+17 the hospital by a contracted entity. “Outsourced services” do not include
+18 services provided by a nurse on a short-term contract with a hospital in which
+19 the hospital retains oversight and control over patient care; off-site diagnostic
+20 services, including off-site diagnostic interpretation of radiologic images and
+VT LEG #385998 v.1
+
+BILL AS INTRODUCED S.190
+2026 Page 6 of 13
+1 off-site laboratory testing; or nonclinical services such as laundry services,
+2 nutrition services, information technology, or cybersecurity.
+3 (b) Regulatory oversight and accountability.
+4 (1) Revenue from outsourced services shall be included in a hospital’s
+5 net patient revenue limits, commercial rate limits, operating expense limits,
+6 and other limitations as specified by the Green Mountain Care Board in its
+7 annual hospital budget guidance.
+8 (2) The Green Mountain Care Board’s rate-setting authority, including
+9 reference-based pricing established pursuant to section 9376 of this title and
+10 global hospital budgets developed pursuant to section 9456 of this title, shall
+11 apply to outsourced services.
+12 (3) Revenue generated by outsourced services delivered in a hospital-
+13 owned facility shall be deemed to be part of the net patient revenue of the
+14 hospital for purposes of the annual assessment on hospitals pursuant to
+15 33 V.S.A. § 1953 and other applicable State assessments.
+16 (c) Consumer protections.
+17 (1) In order to ensure continuity of coverage and prevent surprise
+18 medical bills, a hospital shall be responsible for billing the health insurance
+19 claims for all outsourced services delivered to a patient at the hospital by a
+20 contracted provider who would otherwise be out-of-network under the
+21 patient’s health insurance plan.
+VT LEG #385998 v.1
+
+BILL AS INTRODUCED S.190
+2026 Page 7 of 13
+1 (2) A hospital contracting for outsourced services shall minimize billing
+2 complexity for patients and shall coordinate billing processes with outsourced
+3 service providers to the greatest extent possible.
+4 (3) Hospital financial assistance policies developed in accordance with
+5 subchapter 10 of this chapter and any other policies regarding bad debt or
+6 charity care shall apply to outsourced services to ensure that patients receive
+7 consistent financial protections regardless of service delivery model.
+8 Sec. 4. 18 V.S.A. § 9482 is amended to read:
+9 § 9482. FINANCIAL ASSISTANCE POLICIES FOR LARGE HEALTH
+10 CARE FACILITIES
+11 (a) Each large health care facility in this State shall develop a written
+12 financial assistance policy that, at a minimum, complies with the provisions of
+13 this subchapter and any applicable federal requirements.
+14 (b) The financial assistance policy shall:
+15 (1) apply, at a minimum, to all emergency and other medically
+16 necessary health care services that the large health care facility offers,
+17 including outsourced services, as defined in section 9415 of this title, that are
+18 delivered at the facility;
+19 * * *
+VT LEG #385998 v.1
+
+BILL AS INTRODUCED S.190
+2026 Page 8 of 13
+1 Sec. 5. 33 V.S.A. § 1951 is amended to read:
+2 § 1951. DEFINITIONS
+3 As used in this subchapter:
+4 * * *
+5 (10) “Net patient revenues” means a provider’s gross charges related to
+6 patient care services less any deductions for bad debts, charity care, contractual
+7 allowances, and other payer discounts, and includes outsourced services, as
+8 defined in 18 V.S.A. § 9415, that are delivered at the hospital.
+9 * * *
+10 * * * Repeal of Health Care Professional Bargaining Group
+11 Authorizing Language * * *
+12 Sec. 6. 18 V.S.A. § 9373 is amended to read:
+13 § 9373. DEFINITIONS
+14 As used in this chapter:
+15 * * *
+16 (12) “Payment reform” means modifying the method of payment from a
+17 fee-for-service basis to one or more alternative methods for compensating
+18 health care professionals, health care provider bargaining groups created
+19 pursuant to section 9409 of this title, integrated delivery systems, and other
+20 health care professional arrangements, manufacturers of prescribed products,
+21 medical supply companies, and other companies providing health services or
+VT LEG #385998 v.1
+
+BILL AS INTRODUCED S.190
+2026 Page 9 of 13
+1 health supplies for the provision of high-quality and efficient health services,
+2 products, and supplies while measuring quality and efficiency. The term may
+3 include shared savings agreements, bundled payments, episode-based
+4 payments, and global payments.
+5 * * *
+6 Sec. 7. 18 V.S.A. § 9376 is amended to read:
+7 § 9376. PAYMENT AMOUNTS; METHODS
+8 * * *
+9 (b) Rate-setting.
+10 (1) The Board shall set reasonable rates for health care professionals,
+11 health care provider bargaining groups created pursuant to section 9409 of this
+12 title, manufacturers of prescribed products, medical supply companies, and
+13 other companies providing health services or health supplies based on
+14 methodologies pursuant to section 9375 of this title, in order to have a
+15 consistent reimbursement amount accepted by these persons. In its discretion,
+16 the Board may implement rate-setting for different groups of health care
+17 professionals over time and need not set rates for all types of health care
+18 professionals. In establishing rates, the Board may consider legitimate
+19 differences in costs among health care professionals, such as the cost of
+20 providing a specific necessary service or services that may not be available
+21 elsewhere in the State, and the need for health care professionals in particular
+VT LEG #385998 v.1
+
+BILL AS INTRODUCED S.190
+2026 Page 10 of 13
+1 areas of the State, particularly in underserved geographic or practice shortage
+2 areas.
+3 * * *
+4 (d) Supervision. To the extent required to avoid federal antitrust violations
+5 and in furtherance of the policy identified in subsection (a) of this section, the
+6 Board shall facilitate and supervise the participation of health care
+7 professionals and health care provider bargaining groups in the process
+8 described in subsection (b) of this section.
+9 * * *
+10 Sec. 8. REPEAL
+11 18 V.S.A. § 9409 (health care provider bargaining groups) is repealed.
+12 * * * Appeals of Green Mountain Care Board Orders * * *
+13 Sec. 9. 18 V.S.A. § 9381 is amended to read:
+14 § 9381. APPEALS
+15 (a) The Green Mountain Care Board shall adopt procedures for
+16 administrative appeals of its actions, orders, or other determinations. Such
+17 procedures shall that provide for the issuance of a final order and for the
+18 creation of a record sufficient to serve as the basis for judicial review of the
+19 Board’s final actions, orders, and other determinations pursuant to subsection
+20 (b) of this section.
+VT LEG #385998 v.1
+
+BILL AS INTRODUCED S.190
+2026 Page 11 of 13
+1 (b) Any person aggrieved by a final action, order, or other determination of
+2 the Green Mountain Care Board may, upon exhaustion of all administrative
+3 appeals available pursuant to subsection (a) of this section, appeal to the
+4 Supreme Court pursuant to the Vermont Rules of Appellate Procedure.
+5 * * *
+6 * * * Hospital Audits * * *
+7 Sec. 10. 18 V.S.A. § 9453 is amended to read:
+8 § 9453. POWERS AND DUTIES
+9 (a) The Board shall:
+10 (1) adopt uniform formats that hospitals shall use to report financial,
+11 scope-of-services, and utilization data and information;
+12 (2) designate a data organization with which hospitals shall file
+13 financial, scope-of-services, and utilization data and information; and
+14 (3) designate a data organization or organizations to process, analyze,
+15 store, or retrieve data or information.
+16 (b) The Chair of the Board may:
+17 (1) conduct investigations and examinations, including audits, of
+18 hospitals that are reasonably necessary or helpful to the Board’s administration
+19 of this subchapter or any rules adopted or orders issued pursuant to this
+20 subchapter;
+VT LEG #385998 v.1
+
+BILL AS INTRODUCED S.190
+2026 Page 12 of 13
+1 (2) retain experts or other persons to assist in any investigation or
+2 examination conducted pursuant to subdivision (1) of this subsection; and
+3 (3) require a hospital subject to an investigation or examination
+4 conducted pursuant to this subsection to pay the reasonable costs and expenses
+5 of the investigation or examination.
+6 (c) To effectuate the purposes of this subchapter, the Board may adopt
+7 rules under 3 V.S.A. chapter 25.
+8 * * * Data Infrastructure * * *
+9 Sec. 11. 18 V.S.A. § 9411 is amended to read:
+10 § 9411. INTERACTIVE PRICE TRANSPARENCY DASHBOARD AND
+11 HEALTH SYSTEM PERFORMANCE TOOL
+12 (a)(1) The Green Mountain Care Board shall develop and maintain a
+13 public, interactive, Internet-based internet-based price transparency dashboard
+14 that allows consumers to compare health care prices for certain health care
+15 services across the State. Using data from the Vermont Healthcare Claims
+16 Uniform Reporting and Evaluation System (VHCURES) established pursuant
+17 to section 9410 of this title, the dashboard shall provide the range of actual
+18 allowed amounts for selected health care services, showing both the amount
+19 paid by the health insurer or other payer and the amount of the member’s
+20 responsibility, and shall allow the consumer to sort the information by
+21 geographic location, by health care provider, by payer type, and by the specific
+VT LEG #385998 v.1
+
+BILL AS INTRODUCED S.190
+2026 Page 13 of 13
+1 health care procedure or health care service. The Board shall provide a link on
+2 the dashboard to the statewide comparative hospital quality report published by
+3 the Commissioner of Health pursuant to section 9405b of this title.
+4 (b)(2) The Board shall update the information in the interactive price
+5 transparency dashboard at least annually.
+6 (b)(1) The Board shall develop and maintain a public, interactive tool that
+7 displays information on health system performance, including hospital prices
+8 relative to Medicare rates, both as a percentage of Medicare and in dollars and
+9 cents. The tool shall enable the user to sort the information by service line and
+10 by payer.
+11 (2) The Board shall update the information in the health system
+12 performance tool at least quarterly.
+13 Sec. 12. IMPLEMENTATION OF HEALTH SYSTEM PERFORMANCE
+14 TOOL
+15 The Green Mountain Care Board shall develop the health system
+16 performance tool described in 18 V.S.A. § 9411(b), as added by Sec. 11 of this
+17 act, only if the Board receives sufficient funding from the federal government
+18 or another source for this purpose.
+19 * * * Effective Date * * *
+20 Sec. 13. EFFECTIVE DATE
+21 This act shall take effect on passage.
+VT LEG #385998 v.1

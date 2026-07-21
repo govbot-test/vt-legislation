@@ -1,0 +1,287 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.688
+2026 Page 1 of 12
+1 H.688
+2 Introduced by Representative Dolgin of St. Johnsbury
+3 Referred to Committee on
+4 Date:
+5 Subject: Commerce and trade; housing; landlord tenant; residential rental
+6 agreements; court procedure
+7 Statement of purpose of bill as introduced: This bill proposes to reduce the
+8 timelines for notice of eviction under a residential rental agreement; authorize
+9 the use of alternate service of process throughout a civil proceeding; require a
+10 defendant to answer an ejectment complaint withing five business days;
+11 remove the option of paying a partial rental payment into court when ordered;
+12 clarify that criminal mischief includes property damaged by a leasehold; and
+13 reduce the timelines for both service of a writ of possession and for disposing
+14 of personal property left after the service of a writ of possession.
+15 An act relating to timelines and process for residential evictions
+16 It is hereby enacted by the General Assembly of the State of Vermont:
+17 Sec. 1. 9 V.S.A. § 4467 is amended to read:
+18 § 4467. TERMINATION OF TENANCY; NOTICE
+19 (a) Termination for nonpayment of rent. The landlord may terminate a
+20 tenancy for nonpayment of rent by providing actual notice to the tenant of the
+VT LEG #385398 v.2
+
+BILL AS INTRODUCED H.688
+2026 Page 2 of 12
+1 date on which the tenancy will terminate, which shall be at least 14 three days
+2 after the date of the actual notice. The rental agreement shall not terminate if
+3 the tenant pays or tenders rent due through the end of the rental period in
+4 which payment is made or tendered. Acceptance of partial payment of rent
+5 shall not constitute a waiver of the landlord’s remedies for nonpayment of rent
+6 or an accord and satisfaction for nonpayment of rent.
+7 (b) Termination for breach of rental agreement.
+8 (1) The landlord may terminate a tenancy for failure of the tenant to
+9 comply with a material term of the rental agreement or with obligations
+10 imposed under this chapter by actual notice given to the tenant at least 30 three
+11 days prior to the termination date specified in the notice.
+12 (2) When termination is based on criminal activity, illegal drug activity,
+13 or acts of violence, any of which threaten the health or safety of other
+14 residents, the landlord may terminate the tenancy by providing actual notice to
+15 the tenant of the date on which the tenancy will terminate, which shall be at
+16 least 14 three days from the date of the actual notice.
+17 (c) Termination for no cause. In the absence of a written rental agreement,
+18 the landlord may terminate a tenancy for no cause as follows:
+19 (1) If rent is payable on a monthly basis, by providing actual notice to
+20 the tenant of the date on which the tenancy will terminate, which shall be:
+VT LEG #385398 v.2
+
+BILL AS INTRODUCED H.688
+2026 Page 3 of 12
+1 (A) for tenants who have resided continuously in the same premises
+2 for two years or less, at least 60 days after the date of the actual notice;
+3 (B) for tenants who have resided continuously in the same premises
+4 for more than two years, at least 90 days after the date of the actual notice.
+5 (2) If rent is payable on a weekly basis, by providing actual notice to the
+6 tenant of the date on which the tenancy will terminate, which shall be at least
+7 21 three days after the date of the actual notice.
+8 (d) Termination of rental agreement when property is sold. In the absence
+9 of a written rental agreement a landlord who has contracted to sell the building
+10 may terminate a tenancy by providing actual notice to the tenant of the date on
+11 which the tenancy will terminate, which shall be at least 30 days after the date
+12 of the actual notice.
+13 (e) Termination for no cause under terms of written rental agreement. If
+14 there is a written rental agreement, the notice to terminate for no cause shall be
+15 at least 30 days before the end or expiration of the stated term of the rental
+16 agreement if the tenancy has continued for two years or less. The notice to
+17 terminate for no cause shall be at least 60 days before the end or expiration of
+18 the term of the rental agreement if the tenancy has continued for more than two
+19 years. If there is a written week-to-week rental agreement, the notice to
+20 terminate for no cause shall be at least seven three days; however, a notice to
+VT LEG #385398 v.2
+
+BILL AS INTRODUCED H.688
+2026 Page 4 of 12
+1 terminate for nonpayment of rent shall be as provided in subsection (a) of this
+2 section.
+3 (f) Termination date. In all cases, the termination date shall be specifically
+4 stated in the notice.
+5 (g) Conversion to condominium. If the building is being converted to
+6 condominiums, notice shall be given in accordance with 27 V.S.A. chapter 15,
+7 subchapter 2.
+8 (h) Termination of shared occupancy. A rental arrangement whereby a
+9 person rents to another individual one or more rooms in his or her the person’s
+10 personal residence that includes the shared use of any of the common living
+11 spaces, such as the living room, kitchen, or bathroom, may be terminated by
+12 either party by providing actual notice to the other of the date the rental
+13 agreement shall terminate, which shall be at least 15 days after the date of
+14 actual notice if the rent is payable monthly and at least seven three days after
+15 the date of actual notice if the rent is payable weekly.
+16 (i) Multiple notices. All actual notices that are in compliance with this
+17 section shall not invalidate any other actual notice and shall be a valid basis for
+18 commencing and maintaining an action for possession pursuant to this chapter,
+19 10 V.S.A. chapter 153, 11 V.S.A. chapter 14, or 12 V.S.A. chapter 169,
+20 notwithstanding that the notices may be based on different or unrelated
+21 grounds, dates of termination, or that the notices are sent at different times
+VT LEG #385398 v.2
+
+BILL AS INTRODUCED H.688
+2026 Page 5 of 12
+1 prior to or during an ejectment action. A landlord may maintain an ejectment
+2 action and rely on as many grounds for ejectment as are allowed by law at any
+3 time during the eviction process.
+4 (j) Payment after termination; effect.
+5 (1) A landlord’s acceptance of full or partial rent payment by or on
+6 behalf of a tenant after the termination of the tenancy for reasons other than
+7 nonpayment of rent or at any time during the ejectment action shall not result
+8 in the dismissal of an ejectment action or constitute a waiver of the landlord’s
+9 remedies to proceed with an eviction action based on any of the following:
+10 (A) the tenant’s breach of the terms of a rental agreement pursuant to
+11 subsection (b) of this section;
+12 (B) the tenant’s breach of the tenant’s obligations pursuant to
+13 subsections 4456(a), (b), and (c) of this title; or
+14 (C) for no cause pursuant to subsections (c), (d), (e), and (h) of this
+15 section.
+16 (2) This subsection shall apply to 10 V.S.A. chapter 153, 11 V.S.A.
+17 chapter 14, and 12 V.S.A. chapter 169.
+18 (k) Commencement of ejectment action. A notice to terminate a tenancy
+19 shall be insufficient to support a judgment of eviction unless the proceeding is
+20 commenced not later than 60 90 days from the termination date set forth in the
+21 notice.
+VT LEG #385398 v.2
+
+BILL AS INTRODUCED H.688
+2026 Page 6 of 12
+1 Sec. 2. 12 V.S.A. § 663 is added to read:
+2 § 663. ALTERNATE SERVICE OF PROCESS; DURATION OF ORDER
+3 (a) When the court orders that alternate service of process be made in a
+4 civil proceeding, the order shall remain in effect and apply to all subsequent
+5 service of process in the same proceeding, including postjudgment
+6 proceedings. This section shall apply to orders issued pursuant to Vermont
+7 Rule of Civil Procedure 4(d)(1) permitting service of process by publication or
+8 by leaving a copy at the defendant’s dwelling house or usual place of abode, or
+9 to orders permitting alternate service of process under any other provision of
+10 law.
+11 (b) When a motion for alternative service of process is filed pursuant to
+12 Vermont Rule of Civil Procedure 4(d)(1) in an action under 10 V.S.A. chapter
+13 153, 11 V.S.A. chapter 14, or 12 V.S.A. chapter 169, the court shall rule on the
+14 motion within three days after it is filed.
+15 Sec. 3. 12 V.S.A. § 4852 is amended to read:
+16 § 4852. MODE OF PROCESS; DECLARATION; TRIAL BY JURY
+17 (a) The process may issue as a summons or writ of attachment, requiring
+18 the defendant to appear and answer to the complaint of the plaintiff, which
+19 shall state that the defendant is in the possession of the lands or tenements in
+20 question (describing them), which the tenant holds unlawfully and against the
+21 right of the plaintiff. A copy of the rental agreement, if any, and any notice to
+VT LEG #385398 v.2
+
+BILL AS INTRODUCED H.688
+2026 Page 7 of 12
+1 terminate the defendant’s tenancy shall be attached to the complaint. Either
+2 party shall have the right to a trial by jury.
+3 (b) Notwithstanding any other provision of law or rule, the defendant shall
+4 file an answer within five business days after receiving the complaint. The
+5 computation of the five-day period shall include the day on which the
+6 defendant receives the complaint.
+7 (c) When the court sets the date for the initial hearing on the complaint,
+8 dates shall also be set for consideration of lease violations and for payment of
+9 rent into court if a motion for such payment was filed pursuant to section
+10 4853a of this title.
+11 (d) The parties may consent to mediation of the case at any time during the
+12 proceedings.
+13 Sec. 4. 12 V.S.A. § 4853 is amended to read:
+14 § 4853. SERVICE OF PROCESS
+15 The Unless otherwise provided by law, the process shall be served and
+16 notice given as in other civil actions.
+17 Sec. 5. 12 V.S.A. § 4853a is amended to read:
+18 § 4853a. PAYMENT OF RENT INTO COURT; EXPEDITED HEARING
+19 * * *
+20 (b) A hearing on the motion shall be held any time after 14 three days’
+21 notice to the parties and within 14 days after the motion is filed. If the tenant
+VT LEG #385398 v.2
+
+BILL AS INTRODUCED H.688
+2026 Page 8 of 12
+1 appears at the hearing and has not been previously defaulted, the court shall
+2 not enter judgment by default unless the tenant fails to file a written answer
+3 within 14 five business days after the hearing. The computation of the five-
+4 day period shall include the day on which the defendant receives the
+5 complaint. If the tenant fails to appear at the hearing, the court shall, unless it
+6 finds good cause for the tenant’s failure to appear, enter judgment by default
+7 within three days after the hearing. Any rent escrow order shall remain in
+8 effect notwithstanding the issuance of a default judgment but shall cease upon
+9 execution of a writ of possession.
+10 (c) Any memorandum in opposition filed by the defendant pursuant to Rule
+11 (7)(b)(6) of the Vermont Rules of Civil Procedure shall be accompanied by
+12 affidavit setting forth particular facts in support of the memorandum.
+13 (d) If the court finds the tenant is obligated to pay rent and has failed to do
+14 so, the court shall order full or partial payment into court of rent as it accrues
+15 while the proceeding is pending and rent accrued from the date of filing with
+16 the court the complaint for ejectment or the date the summons and complaint
+17 for ejectment were served on the tenant pursuant to Rule 3 of the Vermont
+18 Rules of Civil Procedure, whichever occurs first.
+19 (e) All funds paid into court shall be made payable to the court clerk by
+20 money order, certified check, cash, or any other means that guarantees the
+21 availability of the funds for distribution after a hearing on the merits. The
+VT LEG #385398 v.2
+
+BILL AS INTRODUCED H.688
+2026 Page 9 of 12
+1 funds shall be distributed forthwith in accordance with the final order from the
+2 trial court.
+3 (f) The landlord may at any time by motion apply to the court for
+4 disbursement of all or part of the funds paid into court. The motion for
+5 disbursement shall be accompanied by affidavit setting forth particular facts in
+6 its support. If the court finds that the landlord is in actual danger of loss of the
+7 premises or other personal hardship resulting from the loss of rental income, it
+8 may award all or any portion of the funds under deposit to the landlord.
+9 (g) The tenant may at any time by motion apply to the court to reduce the
+10 amount ordered to be paid into court under this section. The motion for
+11 reduction shall be accompanied by affidavit setting forth particular facts in its
+12 support. [Repealed.]
+13 (h) If the tenant fails to pay rent into court in the amount and on the dates
+14 ordered by the court, the landlord shall be entitled to judgment for immediate
+15 possession of the premises. The court shall forthwith issue a writ of possession
+16 directing the sheriff of the county in which the property or a portion thereof is
+17 located to serve the writ upon the defendant and, not earlier than seven days
+18 later than 24 hours after the writ is served issued, or, in the case of an eviction
+19 brought pursuant to 10 V.S.A. chapter 153, 30 days after the writ is served, to
+20 put the plaintiff into possession.
+VT LEG #385398 v.2
+
+BILL AS INTRODUCED H.688
+2026 Page 10 of 12
+1 Sec. 6. 12 V.S.A. § 4854 is amended to read:
+2 § 4854. JUDGMENT FOR PLAINTIFF; WRIT OF POSSESSION
+3 If the court finds that the plaintiff is entitled to possession of the premises,
+4 the plaintiff shall have judgment for possession and rents due, damages, and
+5 costs, and when a written rental agreement so provides, the court may award
+6 reasonable attorney’s fees. A writ of possession shall issue on the date
+7 judgment is entered, unless the court for good cause orders a stay. The writ
+8 shall direct any sheriff to serve the writ upon the defendant and, not earlier
+9 than 14 days later than 24 hours after the writ is served issued, to put the
+10 plaintiff into possession.
+11 Sec. 7. 12 V.S.A. § 4854a is amended to read:
+12 § 4854a. PROPERTY OF TENANT REMAINING ON PREMISES AFTER
+13 EVICTION
+14 (a) A landlord may dispose of any personal property remaining in a
+15 dwelling unit or leased premises without notice or liability to the tenant or
+16 owner of the personal property:
+17 (1) 15 days immediately after a writ of possession is served pursuant to
+18 this chapter or upon the landlord being legally restored to possession of the
+19 dwelling unit or leased premises pursuant to this chapter, whichever is later; or
+20 (2) in the case of an eviction brought pursuant to 10 V.S.A. chapter 153,
+21 40 days after a writ of possession issued for failure to pay rent into court
+VT LEG #385398 v.2
+
+BILL AS INTRODUCED H.688
+2026 Page 11 of 12
+1 pursuant to subsection 4853a(h) of this title is served or upon the landlord
+2 being legally restored to possession of the leased premises by a writ of
+3 possession issued for failure to pay rent into court pursuant to subsection
+4 4853a(h) of this title, whichever is later.
+5 (b) Notwithstanding subsection (a) of this section, if the court stays the
+6 execution of a writ of possession issued pursuant to this chapter, then a
+7 landlord may dispose of any personal property remaining in a dwelling unit or
+8 leased premises without notice or liability to the tenant or owner of the
+9 personal property one day after the landlord is legally restored to possession of
+10 the dwelling unit or leased premises.
+11 Sec. 8. 13 V.S.A. § 3701 is amended to read:
+12 § 3701. UNLAWFUL MISCHIEF
+13 (a) A person who, with intent to damage property, and having no right to
+14 do so or any reasonable ground to believe that he or she the person has such a
+15 right, does any damage to any property which is valued in an amount
+16 exceeding $1,000.00 shall be imprisoned for not more than five years or fined
+17 not more than $5,000.00, or both.
+18 * * *
+19 (e) For the purposes of this section “property” means real or personal
+20 property, including real or personal property owned by a landlord that is
+21 damaged by the property’s leaseholder.
+VT LEG #385398 v.2
+
+BILL AS INTRODUCED H.688
+2026 Page 12 of 12
+1 (f) A person who suffers damages as a result of a violation of this section
+2 may recover those damages together with reasonable attorney’s fees in a civil
+3 action under this section.
+4 Sec. 9. EFFECTIVE DATE
+5 This act shall take effect on July 1, 2026.
+VT LEG #385398 v.2

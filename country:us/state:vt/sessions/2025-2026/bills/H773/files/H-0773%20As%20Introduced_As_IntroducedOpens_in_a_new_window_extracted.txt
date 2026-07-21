@@ -1,0 +1,198 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.773
+2026 Page 1 of 8
+1 H.773
+2 Introduced by Representative Mihaly of Calais
+3 Referred to Committee on
+4 Date:
+5 Subject: Taxation and finance; delinquent taxes; property taxes; tax collection;
+6 tax sales; real property
+7 Statement of purpose of bill as introduced: This bill proposes to authorize a
+8 municipal tax sale when the outstanding taxes due are less than the statutory
+9 minimum of $1,500.00 if a municipality gets a court order that the real
+10 property is abandoned and the dwelling on the property is unfit for human
+11 habitation.
+12 An act relating to property tax sales for property that is abandoned or unfit
+13 for human habitation
+14 It is hereby enacted by the General Assembly of the State of Vermont:
+15 Sec. 1. 32 V.S.A. § 5252 is amended to read:
+16 § 5252. LEVY AND NOTICE OF SALE; SECURING PROPERTY
+17 (a)(1) When the collector of taxes of a town or of a municipality within it
+18 has for collection a tax assessed against real estate in the town and the taxpayer
+19 owes a minimum of $1,500.00 and is delinquent for a period longer than one
+20 year, the collector may extend a warrant on such land. However, no warrant
+VT LEG #386409 v.2
+
+BILL AS INTRODUCED H.773
+2026 Page 2 of 8
+1 shall be extended until a delinquent taxpayer is given an opportunity to enter a
+2 written reasonable repayment plan pursuant to subsection (c) of this section. If
+3 a collector receives notice from a mobile home park owner pursuant to
+4 10 V.S.A. § 6248(b), the collector shall, within 15 days after the notice,
+5 commence tax sale proceedings to hold a tax sale within 60 days after the
+6 notice. If the collector fails to initiate such proceedings, the town may initiate
+7 tax sale proceedings only after complying with 10 V.S.A. § 6249(f). If the tax
+8 collector extends the warrant, the collector shall:
+9 (1)(A) File in the office of the town clerk for record a true and
+10 attested copy of the warrant and so much of the tax bill committed to the
+11 collector for collection as relates to the tax against the delinquent taxpayer, a
+12 sufficient description of the land so levied upon, and a statement in writing that
+13 by virtue of the original tax warrant and tax bill committed to the collector for
+14 collection, the collector has levied upon the described land.
+15 (2)(B) Advertise forthwith such land for sale at public auction in the
+16 town where it lies three weeks successively in a newspaper circulating in the
+17 vicinity, the last publication to be at least 10 days before such sale.
+18 (3)(C) Give the delinquent taxpayer written notice by certified mail
+19 requiring a return receipt directed to the last known address of the delinquent
+20 of the date and place of such sale at least 30 days prior thereto if the delinquent
+VT LEG #386409 v.2
+
+BILL AS INTRODUCED H.773
+2026 Page 3 of 8
+1 is a resident of the town and 30 days prior thereto if the delinquent is a
+2 nonresident of the town. If the notice by certified mail is returned unclaimed:
+3 (A)(i) notice shall be provided to the taxpayer by resending the
+4 notice by first-class mail or by personal service pursuant to Rule 4 of the
+5 Vermont Rules of Civil Procedure; and
+6 (B)(ii) notice shall be provided by email, provided the tax
+7 collector can acquire the email address of the delinquent taxpayer using
+8 reasonable effort; and
+9 (C)(iii) notice shall be affixed to the front door of the property
+10 subject to tax sale, provided it has a structure.
+11 (4)(D) Give to the mortgagee or lien holder of record written notice
+12 of such sale at least 30 days prior thereto if a resident of the town and, if a
+13 nonresident, 30 days’ notice to the mortgagee or lien holder of record or the
+14 mortgagee’s or lien holder’s agent or attorney by certified mail requiring a
+15 return receipt directed to the last known address of such person. If the notice
+16 by certified mail is returned unclaimed, notice shall be provided by resending
+17 the notice by first-class mail or by personal service pursuant to Rule 4 of the
+18 Vermont Rules of Civil Procedure.
+19 (5)(E) Post a notice of such sale in some public place in the town.
+20 (6)(F) Enclose the following statement, with directions to a resource
+21 translating the notice into the five most common non-English languages used
+VT LEG #386409 v.2
+
+BILL AS INTRODUCED H.773
+2026 Page 4 of 8
+1 in this State, with the notices required under subdivisions (3)(C) and (4)(D) of
+2 this subsection subdivision (a)(1) and with every delinquent tax notice:
+3 Warning: There are unpaid property taxes at (address of property), which you
+4 may own, or have a legal interest, in or which may be contiguous to your
+5 property. The property will be sold at public auction on (date set for sale)
+6 unless the overdue taxes, fees, and interest in the amount of (dollar amount
+7 due) is are paid. To make payment or receive further information, contact
+8 (name of tax collector) immediately at (office address), (mailing address),
+9 (email address), or (telephone number).
+10 (7)(G) The resource for translation of the notice required under
+11 subdivision (6)(F) of this subsection subdivision (a)(1) shall be made available
+12 to all municipalities by the Vermont Department of Taxes.
+13 (2)(A) A municipality may seek an order in the Civil Division of the
+14 Superior Court that a property has been abandoned and the dwelling on the
+15 property is unfit for human habitation.
+16 (B) The complaint shall include:
+17 (i) the name and last known mailing address of the owner of the
+18 real property;
+VT LEG #386409 v.2
+
+BILL AS INTRODUCED H.773
+2026 Page 5 of 8
+1 (ii) the location and description of the real property;
+2 (iii) the facts supporting the claim that the real property has been
+3 abandoned and the facts supporting the claim that the real property is unfit for
+4 human habitation;
+5 (iv) the names and addresses of creditors, holders of housing
+6 subsidy covenants, or others having an interest in the real property based on
+7 liens or notices recorded in the land records in the office of the town clerk of
+8 the town in which the real property is located or the Office of the Secretary of
+9 State; and
+10 (v) a statement of the amount of delinquent taxes due to the
+11 municipality, including penalties and interest owed.
+12 (C) When a complaint is filed under this subdivision (a)(2), the clerk
+13 of the Superior Court shall set a hearing on the complaint before a Superior
+14 judge. The hearing shall be held at least 15 days but not later than 30 days
+15 after the filing of the complaint.
+16 (D) Notwithstanding subdivision (1) of this subsection (a), when a
+17 municipality receives an order under this subdivision (a)(2), a municipality
+18 may proceed with a tax sale of the real property subject to the order regardless
+19 of whether the property has met the minimum of $1,500.00 in delinquent taxes.
+20 The municipality shall proceed with the tax sale as outlined in subdivision (1)
+21 of this subsection (a).
+VT LEG #386409 v.2
+
+BILL AS INTRODUCED H.773
+2026 Page 6 of 8
+1 (b)(1) If the warrant and levy for delinquent taxes has been recorded
+2 pursuant to subsection subdivision (a)(1) of this section, the municipality in
+3 which the real estate lies may secure the property against illegal activity and
+4 potential fire hazards after giving the mortgagee or lien holder of record
+5 written notice at least 10 days prior to such action.
+6 (2) Notwithstanding any provision of this section to the contrary, when a
+7 warrant and levy for delinquent taxes has been recorded pursuant to subsection
+8 subdivision (a)(1) of this section, it shall be for all delinquent taxes due at the
+9 time the warrant and levy is filed.
+10 (c)(1) A municipality shall not initiate a tax sale proceeding until it has,
+11 after attempting to consult with the taxpayer, offered a delinquent taxpayer a
+12 written reasonable repayment plan and the taxpayer has either denied the offer,
+13 failed to respond within 30 days, or failed to make a payment under the plan
+14 within the time frame established by the collector. When establishing a plan
+15 under this subsection, the municipality may request related information and
+16 shall consider the following:
+17 (A) the income and income schedule of the taxpayer, if offered by the
+18 taxpayer;
+19 (B) the taxpayer’s tax payment history with the municipality;
+20 (C) the amount of tax debt owed to the municipality;
+21 (D) the amount of time tax has been delinquent; and
+VT LEG #386409 v.2
+
+BILL AS INTRODUCED H.773
+2026 Page 7 of 8
+1 (E) the taxpayer’s reason for the delinquency, if offered by the
+2 taxpayer.
+3 (2) A collector is only required to offer one payment plan per
+4 delinquency, without regard for whether it is agreed to by the delinquent
+5 taxpayer.
+6 (3) A collector may void a payment plan and proceed to tax sale if a
+7 delinquent taxpayer agrees to a payment plan under this subsection and fails to
+8 make a timely payment.
+9 Sec. 2. 32 V.S.A. § 5258 is amended to read:
+10 § 5258. FEES AND COSTS ALLOWED AFTER WARRANT AND LEVY
+11 RECORDED
+12 (a) The fees and costs allowed after the warrant and levy for delinquent
+13 taxes have been recorded shall be as follows:
+14 (1) levy and extending of warrant, $10.00;
+15 (2) recording levy and extending of warrant in the town clerk’s office,
+16 $15.00, to be paid to the town clerk;
+17 (3) notices and publication of notices, actual costs incurred, including
+18 the costs of service pursuant to subdivisions 5252(a)(3)(1)(C) and (4)(D) of
+19 this title;
+20 (4) expenses actually and reasonably incurred by the town in securing a
+21 property for which property taxes are delinquent against illegal activity and fire
+VT LEG #386409 v.2
+
+BILL AS INTRODUCED H.773
+2026 Page 8 of 8
+1 hazards, to be paid to the town clerk, provided that the expenses shall not
+2 exceed 20 percent of the uncollected tax;
+3 (5) when authorized by the selectboard, expenses actually and
+4 reasonably incurred by the tax collector for legal assistance in the preparation
+5 for or conduct of a tax sale, provided that the expenses shall not exceed 15
+6 percent of the uncollected tax;
+7 (6) travel reimbursement at the rate established by the contract
+8 governing State employees;
+9 (7) attending and holding the sale, $10.00;
+10 (8) making return and recording the return in the town clerk’s office,
+11 $15.00 per page, to be paid to the town clerk; and
+12 (9) collector’s deed, $15.00 per page.
+13 (b) The fees and costs allowed in subsection (a) of this section, together
+14 with a collector’s fee of up to eight percent, shall be in lieu of all other fees and
+15 costs.
+16 Sec. 3. EFFECTIVE DATE
+17 This act shall take effect on July 1, 2026.
+VT LEG #386409 v.2

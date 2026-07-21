@@ -1,0 +1,129 @@
+Title: 
+Official Title: 
+Source: versions - Senate Proposal of Amendment (UnofficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE PROPOSAL OF AMENDMENT H.816
+2026 Page 1 of 5
+1 H.816
+2 An act relating to regulating the use of artificial intelligence in the provision
+3 of mental health services
+4 The Senate proposes to the House to amend the bill by striking out all after
+5 the enacting clause and inserting in lieu thereof the following:
+6 Sec. 1. PURPOSE
+7 It is the purpose of this act to safeguard individuals seeking mental health
+8 services in Vermont from psychological harm, including death by suicide, by
+9 ensuring that these services are delivered by mental health professionals and
+10 not independently by artificial intelligence systems.
+11 Sec. 2. 3 V.S.A. § 129a is amended to read:
+12 § 129a. UNPROFESSIONAL CONDUCT
+13 (a) In addition to any other provision of law, the following conduct by a
+14 licensee constitutes unprofessional conduct. When that conduct is by an
+15 applicant or person who later becomes an applicant, it may constitute grounds
+16 for denial of a license or other disciplinary action. Any one of the following
+17 items or any combination of items, whether the conduct at issue was
+18 committed within or outside the State, shall constitute unprofessional conduct:
+19 * * *
+20 (30) For any mental health professional, engaging in the prohibited use
+21 of artificial intelligence pursuant to 18 V.S.A. § 7115.
+VT LEG #389442 v.1
+
+SENATE PROPOSAL OF AMENDMENT H.816
+2026 Page 2 of 5
+1 * * *
+2 Sec. 3. 18 V.S.A. § 7115 is added to read:
+3 § 7115. PROHIBITED USES OF ARTIFICIAL INTELLIGENCE
+4 (a) As used in this section:
+5 (1) “Artificial intelligence” means an engineered or machine-based
+6 system that varies in its level of autonomy and that can, for explicit or implicit
+7 objectives, infer from the input it receives how to generate outputs that can
+8 influence physical or virtual environments.
+9 (2) “Mental health professional” means an individual licensed, certified,
+10 or rostered, respectively, to provide mental health services as a physician
+11 pursuant to 26 V.S.A. chapter 23 or 33; an advanced practice registered nurse
+12 specializing in psychiatric mental health pursuant to 26 V.S.A. chapter 28; a
+13 psychologist pursuant to 26 V.S.A. chapter 55; a peer support provider or peer
+14 recovery support specialist pursuant to 26 V.S.A. chapter 60; a social worker
+15 pursuant to 26 V.S.A. chapter 61; an alcohol and drug abuse counselor
+16 pursuant to 26 V.S.A. chapter 62; a clinical mental health counselor pursuant
+17 to 26 V.S.A. chapter 65; a marriage and family therapist pursuant to 26 V.S.A
+18 chapter 76; a psychoanalyst pursuant to 26 V.S.A. chapter 77; an applied
+19 behavior analyst pursuant to 26 V.S.A. chapter 95; a nonlicensed or
+20 noncertified psychotherapist or a noncertified psychoanalyst; or any other
+21 professional who provides mental health services.
+VT LEG #389442 v.1
+
+SENATE PROPOSAL OF AMENDMENT H.816
+2026 Page 3 of 5
+1 (3) “Mental health services” means counseling, therapy, or
+2 psychotherapy services used to diagnose or treat an individual’s mental or
+3 behavioral health or provide ongoing recovery support, including providing
+4 therapeutic decisions, issuing direct therapeutic communications, generating
+5 treatment plans or recommendations, or detecting or interpreting emotion or
+6 mental states.
+7 (4) “Therapeutic communication” means a written, verbal, or nonverbal
+8 interaction intended to diagnose or treat any type of mental or behavioral
+9 health concern, provide ongoing recovery support, or provide any advice
+10 related to diagnosis, treatment, or recovery, such as:
+11 (A) engaging in direct interactions with clients or patients for the
+12 purpose of understanding or reflecting the client’s or patient’s thoughts;
+13 (B) providing guidance, therapeutic strategies, or interventions
+14 designed to achieve mental health outcomes;
+15 (C) offering emotional support, reassurance, or empathy in response
+16 to emotional or psychological distress;
+17 (D) collaborating with a patient or client to develop or modify
+18 treatment plans or therapeutic goals; and
+19 (E) delivering feedback intended to promote growth or address
+20 mental health outcomes.
+VT LEG #389442 v.1
+
+SENATE PROPOSAL OF AMENDMENT H.816
+2026 Page 4 of 5
+1 (5) “Therapeutic decision” means the final clinical determination
+2 regarding diagnosis or the selection, modification, or termination of treatment
+3 or care.
+4 (b) A corporation or entity shall not provide, advertise, or otherwise offer
+5 mental health services, including through the use of artificial intelligence, to
+6 the public unless the mental health services are provided by a mental health
+7 professional.
+8 (c)(1) A violation of this section by a corporation or entity shall be deemed
+9 a violation of the Consumer Protection Act, 9 V.S.A. chapter 63. The Attorney
+10 General has the same authority, and private parties have the same rights and
+11 remedies, as provided under 9 V.S.A. chapter 63, subchapter 1. Each violation
+12 of this section shall carry a civil penalty of $10,000.00 as set forth in 9 V.S.A.
+13 § 2461.
+14 (2) Nothing in this section shall be construed to preclude or supplant any
+15 other statutory or common law remedies.
+16 (d) Nothing in this section shall preclude a mental health professional who
+17 is operating within the professional’s scope of practice from utilizing artificial
+18 intelligence tools that are compliant with the Health Insurance Portability and
+19 Accountability Act of 1996, Pub. L. No. 104-191, provided that the mental
+20 health professional reviews and approves any mental health services.
+VT LEG #389442 v.1
+
+SENATE PROPOSAL OF AMENDMENT H.816
+2026 Page 5 of 5
+1 Sec. 4. 26 V.S.A. § 1354 is amended to read:
+2 § 1354. UNPROFESSIONAL CONDUCT
+3 (a) Prohibited conduct. The Board shall find that any one of the following,
+4 or any combination of the following, whether the conduct at issue was
+5 committed within or outside the State, constitutes unprofessional conduct:
+6 * * *
+7 (3) engaging in the prohibited use of artificial intelligence pursuant to
+8 18 V.S.A. § 7115;
+9 * * *
+10 Sec. 5. REPORT; USE OF ARTIFICIAL INTELLIGENCE IN REGULATED
+11 PROFESSIONS
+12 On or before January 15, 2027, the Office of Professional Regulation and
+13 the Board of Medical Practice shall jointly submit a written report to the House
+14 Committees on Government Operations and Military Affairs, on Health Care,
+15 and on Human Services and the Senate Committees on Government
+16 Operations and on Health and Welfare containing recommendations for the
+17 regulation of the use of artificial intelligence by regulated professionals,
+18 including recommendations for legislative action.
+19 Sec. 6. EFFECTIVE DATE
+20 This act shall take effect on passage.
+VT LEG #389442 v.1

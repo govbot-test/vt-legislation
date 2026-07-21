@@ -1,0 +1,323 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED S.303
+2026 Page 1 of 13
+1 S.303
+2 Introduced by Senators Williams, Beck, Benson, Brennan, Brock, Collamore,
+3 Heffernan, Ingalls, Major, Mattos, Morley, Norris, Weeks and
+4 Westman
+5 Referred to Committee on
+6 Date:
+7 Subject: Conservation and development; real property; stormwater; three-acre
+8 stormwater discharge permit
+9 Statement of purpose of bill as introduced: This bill proposes to amend
+10 requirements related to the administration and implementation by the Agency
+11 of Natural Resources (ANR) of the three-acre stormwater discharge permit.
+12 The bill would require ANR to visit every parcel identified by geographic
+13 information system data as subject to the three-acre stormwater discharge
+14 permit to verify each parcel has three or more acres of impervious surface.
+15 The bill also would require ANR to rank each parcel subject to the three-acre
+16 stormwater discharge permit according to the severity of impact each parcel
+17 has to water quality in the State. The bill would repeal the current permitting
+18 schedule for discharges of stormwater from three-acre parcels and instead
+19 would require a permit for a parcel ranked in the top 10 percent of severity of
+20 impact to water quality to continue to require a permit. ANR would then be
+21 directed to establish a schedule for the remaining parcels subject to permitting
+VT LEG #385131 v.1
+
+BILL AS INTRODUCED S.303
+2026 Page 2 of 13
+1 based on severity of impact to water quality posed by a parcel. In addition, the
+2 bill would provide that failure to obtain a three-acre stormwater discharge
+3 permit when necessary does not create an encumbrance on the title to the
+4 property subject to the parcel. The bill also would require ANR to conduct a
+5 public hearing in each county of the State to explain application of the three-
+6 acre stormwater discharge permit and the changes made to the permit by the
+7 bill.
+8 An act relating to administration of the three-acre stormwater discharge
+9 permit
+10 It is hereby enacted by the General Assembly of the State of Vermont:
+11 Sec. 1. FINDINGS
+12 The General Assembly finds that:
+13 (1) The three-acre stormwater discharge permit established under 2015
+14 Acts and Resolves No. 64 has relied primarily on geographic information
+15 system data without on-site verification, resulting in inaccuracies and required
+16 permitting for properties that do not meet the statutory permit threshold.
+17 (2) Requiring compliance from all properties subject to the three-acre
+18 stormwater discharge permit, regardless of actual water quality impact,
+19 imposes undue financial costs on property owners and creates inefficiencies in
+20 the use of State resources. Vermonters are already subject to considerable
+VT LEG #385131 v.1
+
+BILL AS INTRODUCED S.303
+2026 Page 3 of 13
+1 expenses and tax burdens. The State should not impose additional, substantial
+2 costs on property owners that do not significantly contribute to the State’s
+3 water quality impairments.
+4 (3) Public roads maintained by municipalities or the State should not be
+5 calculated as impervious surface for private properties when determining if a
+6 property is subject to the three-acre stormwater discharge permit.
+7 (4) The designation of a property under the three-acre stormwater
+8 discharge permit has been treated in practice as a cloud on title, complicating
+9 or impeding property sales and property financing, even though designation of
+10 a parcel as subject to the permit was never intended to serve as a lien or legal
+11 encumbrance.
+12 (5) Vermont’s stormwater management resources must be prioritized
+13 toward the properties that pose the greatest risk to water quality, while
+14 preserving flexibility and fairness in implementation of stormwater discharge
+15 permitting.
+16 (6) Public outreach and education are necessary to restore public trust in
+17 stormwater permitting and to ensure that property owners understand both the
+18 history of the three-acre stormwater discharge permit and the amendments to
+19 the permit required under this act.
+VT LEG #385131 v.1
+
+BILL AS INTRODUCED S.303
+2026 Page 4 of 13
+1 Sec. 2. 10 V.S.A. § 1264 is amended to read:
+2 § 1264. STORMWATER MANAGEMENT
+3 * * *
+4 (b) Definitions. As used in this section:
+5 * * *
+6 (6) “Impervious surface” means those manmade surfaces, including
+7 paved and unpaved roads, parking areas, roofs, driveways, and walkways, from
+8 which precipitation runs off rather than infiltrates.
+9 * * *
+10 (10) “Regulated stormwater runoff” means precipitation, snowmelt, and
+11 the material dissolved or suspended in precipitation and snowmelt that runs off
+12 impervious surfaces and discharges into surface waters or into groundwater via
+13 infiltration.
+14 * * *
+15 (14) “Stormwater runoff” means precipitation and snowmelt that does
+16 not infiltrate into the soil, including material dissolved or suspended in it, but
+17 does not include discharges from undisturbed natural terrain or wastes from
+18 combined sewer overflows.
+19 (15) “Stormwater system” includes the storm sewers; outfall sewers;
+20 surface drains; manmade wetlands; channels; ditches; wet and dry bottom
+21 basins; rain gardens; and other control equipment necessary and appurtenant to
+VT LEG #385131 v.1
+
+BILL AS INTRODUCED S.303
+2026 Page 5 of 13
+1 the collection, transportation, conveyance, pumping, treatment, disposal, and
+2 discharge of regulated stormwater runoff.
+3 * * *
+4 (c) Prohibitions.
+5 (1) A person shall not commence the construction or redevelopment of
+6 one-half of an acre or more of impervious surface without first obtaining a
+7 permit from the Secretary.
+8 * * *
+9 (7) In accordance with the schedule established under subdivision (g)(3)
+10 of this section, a person shall not discharge stormwater from impervious
+11 surface of three or more acres in size without first obtaining an individual
+12 permit or coverage under a general permit issued under this section if the
+13 discharge was never previously permitted or was permitted under an individual
+14 permit or general permit that did not incorporate the requirements of the 2002
+15 Stormwater Management Manual or any subsequently adopted Stormwater
+16 Management Manual. The Secretary shall provide notice to all owners of
+17 property subject to the permit required under this subdivision A person that
+18 owns a parcel on which three or more acres of impervious surface is located
+19 shall be required to obtain a permit under this section for the discharge of
+20 stormwater from the impervious surface if the discharge was never previously
+21 permitted or was permitted under an individual permit or general permit that
+VT LEG #385131 v.1
+
+BILL AS INTRODUCED S.303
+2026 Page 6 of 13
+1 did not incorporate the requirements of the 2002 Stormwater Management
+2 Manual or any subsequently adopted Stormwater Management Manual,
+3 provided that:
+4 (A) ANR initially shall only require a permit for those parcels that
+5 the Secretary ranked under subdivision (g)(3)(C) of this section as within the
+6 top 10 percent of parcels impacting water quality in the State; and
+7 (B) all other parcels shall be subject to permitting according to the
+8 schedule adopted by the Secretary under subdivision (g)(3)(D) of this section.
+9 (d) Exemptions.
+10 * * *
+11 (e) State designation. The Secretary shall require a permit under this
+12 section for a discharge or stormwater runoff from any size of impervious
+13 surfaces upon a determination by the Secretary that the treatment of the
+14 discharge or stormwater runoff is necessary to reduce the adverse impacts to
+15 water quality of the discharge or stormwater runoff taking into consideration
+16 any of the following factors: the size of the impervious surface, drainage
+17 patterns, hydraulic connectivity, existing stormwater treatment, stormwater
+18 controls necessary to implement the wasteload allocation of a TMDL, or other
+19 factors. The Secretary may make this determination on a case-by-case basis or
+20 according to classes of activities, classes of runoff, or classes of discharge.
+21 The Secretary may make a determination under this subsection based on
+VT LEG #385131 v.1
+
+BILL AS INTRODUCED S.303
+2026 Page 7 of 13
+1 activities, runoff, discharges, or other information identified during the basin
+2 planning process.
+3 (f) Rulemaking. On or before December 31, 2017, the The Secretary shall
+4 adopt rules to manage stormwater runoff. At a minimum, the rules shall:
+5 * * *
+6 (13) Establish the general permit required under subdivision (g)(3) of
+7 this section for discharges of stormwater from impervious surface of three or
+8 more acres in size provided that the requirements of the rule and the general
+9 permit are predictable, accessible to ordinary Vermonters, and cost
+10 proportionate and cost reasonable relative to the impact of the parcel subject to
+11 the permit.
+12 (g) General permits.
+13 (1) The Secretary may issue general permits for classes of stormwater
+14 runoff that shall be adopted and administered in accordance with the provisions
+15 of subsection 1263(b) of this title.
+16 * * *
+17 (3) Within 120 days after the adoption by the Secretary of the rules
+18 required under subsection (f) of this section, the The Secretary shall issue a
+19 general permit under this section for discharges of stormwater from impervious
+20 surface of three or more acres in size, when the stormwater discharge
+21 previously was not permitted or was permitted under an individual permit or
+VT LEG #385131 v.1
+
+BILL AS INTRODUCED S.303
+2026 Page 8 of 13
+1 general permit that did not incorporate the requirements of the 2002
+2 Stormwater Management Manual or any subsequently adopted Stormwater
+3 Management Manual that require a permit under subdivision (c)(7) of this
+4 section. Under the general permit, the Secretary shall:
+5 (A) Exclude from the calculation of impervious surface on private
+6 property impervious surface on any municipal or State road or highway located
+7 adjacent to or within the residential or commercial development where the
+8 private property is located.
+9 (B) Conduct site visits of every parcel of property identified by
+10 geographic information system (GIS) data as subject to the three-acre
+11 stormwater discharge permit in order to confirm that impervious surface
+12 subject to permitting under the permit is actually present on the parcel.
+13 (C) Once the Secretary has confirmed that every parcel identified by
+14 GIS data is subject to the three-acre stormwater discharge permit, rank all
+15 parcels according to the severity of impact that the parcels have on water
+16 quality. Severity of impact shall be determined by multiple factors, including
+17 the parcel’s proximity to a water, slope, soil type, and drainage characteristics.
+18 (D) Establish a schedule for implementation of the general permit by
+19 geographic area of the State. The schedule shall establish the date by which an
+20 owner of impervious surface shall apply for coverage under this subdivision
+21 (3). The schedule established by the Secretary shall require an owner of
+VT LEG #385131 v.1
+
+BILL AS INTRODUCED S.303
+2026 Page 9 of 13
+1 impervious surface subject to permitting under this subdivision to obtain
+2 coverage by the following dates:
+3 (i) for impervious surface located within the Lake Champlain
+4 watershed, the Lake Memphremagog watershed, or the watershed of a
+5 stormwater-impaired water on or before October 1, 2028; and
+6 (ii) for impervious surface located within all other watersheds of
+7 the State, not later than October 1, 2038, or not later than five years after a
+8 binding stormwater-specific waste-load allocation has been established for that
+9 watershed, whichever occurs first for discharges from parcels subject to the
+10 permit required under subdivision (c)(7) of this section that are not within the
+11 top 10 percent of parcels impacting water quality in the State. The schedule
+12 shall be transparent and the required compliance date for the permitting of each
+13 parcel shall be based on the actual severity of impact to water quality from a
+14 discharge of stormwater from a parcel so that those parcels posing greater
+15 impact are required to be permitted prior to those parcels of lower impact.
+16 (B)(E) Establish practical, implementable, and cost-effective criteria
+17 and technical standards, such as best management practices, for
+18 implementation of stormwater improvements for the retrofitting of impervious
+19 surface subject to permitting under this subdivision (3).
+20 (C)(F) Require that a discharge of stormwater from impervious
+21 surface subject to the requirements of this section comply with the standards of
+VT LEG #385131 v.1
+
+BILL AS INTRODUCED S.303
+2026 Page 10 of 13
+1 subsection (h) of this section for redevelopment of or renewal of a permit for
+2 existing impervious surface.
+3 (D)(G) Allow the use of stormwater impact fees, offsets, and
+4 phosphorus credit trading within the watershed of the water to which the
+5 stormwater discharges or runs off.
+6 (l) Enforcement safe harbor. The Secretary shall not initiate an
+7 enforcement action under chapter 201 of this title against a person that failed to
+8 obtain a permit under subdivision (c)(1) of this section for construction or
+9 redevelopment of more than one-half of an acre but less than one acre of
+10 impervious surface when:
+11 (1) the construction occurred between July 1, 2022 and January 1, 2026;
+12 (2) the owner of the property applied for and received a municipal
+13 permit approving construction under authority set forth in 24 V.S.A. chapter
+14 117; and
+15 (3) the owner of the property was not notified by the municipality or the
+16 Secretary that the threshold for a permit under subdivision (c)(1) of this section
+17 had been lowered to one-half of an acre or more of impervious surface.
+18 * * *
+19 Sec. 3. IMPLEMENTATION AND TRANSITION
+20 (a) Before filing under 3 V.S.A. § 841 a final proposal of the rule and
+21 general permit required pursuant to 10 V.S.A. § 1264(f)(13) for discharges of
+VT LEG #385131 v.1
+
+BILL AS INTRODUCED S.303
+2026 Page 11 of 13
+1 stormwater from impervious surface of three or more acres, the Secretary of
+2 Natural Resources shall submit to the House Committee on Environment and
+3 the Senate Committee on Natural Resources and Energy the proposed rule and
+4 general permit for review. The submission shall include the list of properties
+5 in the State subject to the permit under the proposed rule.
+6 (b) Beginning on the effective date of this act, the requirements of the
+7 Agency of Natural Resources’ General Permit 3-9050 Application
+8 Requirements for Operational Stormwater Permits shall no longer be applied to
+9 discharges of stormwater from impervious surface of three or more acres in
+10 size if the discharge was never previously permitted or was permitted under an
+11 individual permit or general permit that did not incorporate the requirements of
+12 the 2002 Stormwater Management Manual or any subsequently adopted
+13 Stormwater Management Manual. The required permitting of three-acre
+14 parcels previously identified by the Agency of Natural Resources as requiring
+15 a permit, including for parcels for which property owners have applied for but
+16 have not received coverage under the general permit, shall pause until the
+17 adoption by the Secretary of Natural Resources of the rule and general permit
+18 required under 10 V.S.A. § 1264(f)(13).
+19 (c) If a property owner of a parcel previously identified by the Agency of
+20 Natural Resources as requiring a three-acre stormwater discharge permit
+21 voluntarily elects to continue with stormwater management of the parcel, the
+VT LEG #385131 v.1
+
+BILL AS INTRODUCED S.303
+2026 Page 12 of 13
+1 Secretary of Natural Resources shall issue any required permit as an individual
+2 permit under 10 V.S.A. § 1264 and the rules adopted under that section.
+3 (d) The Agency of Natural Resources shall permit parcels that are subject
+4 to the permit requirement in 10 V.S.A. § 1264(c)(7) and that are in the top 10
+5 percent of parcels impacting water quality as individual permits.
+6 Sec. 4. 27 V.S.A. § 613 is added to read:
+7 § 613. THREE-ACRE SITE STORMWATER PERMIT
+8 (a) Marketability of title. No encumbrance on record title to real estate or
+9 effect on marketability shall be created by a property owner’s failure to obtain
+10 or comply with the three-acre stormwater discharge permit issued by the
+11 Secretary of Natural Resources pursuant to 10 V.S.A. § 1264(c)(7).
+12 (b) Disclosure of three-acre stormwater discharge permit.
+13 (1) A property owner preparing to sell property subject to the three-acre
+14 stormwater discharge permit issued under 10 V.S.A. § 1264(c)(7) shall, at least
+15 72 hours prior to execution of the contract for the conveyance of the property,
+16 disclose to the buyer that the property is subject to the three-acre stormwater
+17 discharge permit.
+18 (2) The Secretary of Natural Resources shall prepare a disclosure form
+19 and informational material regarding the three-acre stormwater discharge
+20 permit that a seller may provide to a buyer to satisfy the requirement of
+21 subdivision (1) of this subsection.
+VT LEG #385131 v.1
+
+BILL AS INTRODUCED S.303
+2026 Page 13 of 13
+1 (3) Noncompliance with the requirements of this subsection shall not
+2 affect the marketability of title of a property.
+3 Sec. 5. AGENCY OF NATURAL RESOURCES PUBLIC HEARINGS ON
+4 THREE-ACRE STORMWATER DISCHARGE PERMIT
+5 Within 120 days following the effective of this act, the Secretary of Natural
+6 Resources shall conduct at least one public hearing in each county of the State
+7 regarding the implementation and administration of the three-acre stormwater
+8 discharge permit. At each public hearing, the Secretary shall:
+9 (1) provide a plain-language overview of the history and purpose of the
+10 three-acre stormwater discharge permit;
+11 (2) explain the changes provided for in this act and the effect the
+12 changes have on property owners; and
+13 (3) allow time for public testimony, questions, and input.
+14 Sec. 6. EFFECTIVE DATE
+15 This act shall take effect on passage.
+VT LEG #385131 v.1

@@ -1,0 +1,41 @@
+Title: 
+Official Title: 
+Source: versions - Act SummaryOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Act No. 156 Page 1 of 1
+2026
+This act summary is provided for the convenience of the public and members of the General Assembly. It
+is intended to provide a general summary of the act and may not be exhaustive. It has been prepared by the
+staff of the Office of Legislative Counsel without input from members of the General Assembly. It is not
+intended to aid in the interpretation of legislation or to serve as a source of legislative intent.
+Act No. 156 (H.816). An act relating to regulating the use of artificial intelligence in the
+provision of mental health services
+Subjects: Health; mental health; professional regulation; artificial intelligence;
+therapeutic services
+This act prohibits a corporation or entity from providing, advertising, other otherwise
+offering mental health services, including through the use of artificial intelligence, to the
+public unless the mental health services are either provided by a mental health
+professional or part of an approved institutional review board or privacy board study. It
+does not preclude a mental health professional who is operating within the professional’s
+scope of practice from utilizing Health Insurance Portability and Accountability Act–
+compliant artificial intelligence tools if the mental health professional first reviews and
+approves any mental health services, including software-based medical products
+authorized or approved by the U.S. Food and Drug Administration where the product’s
+use is prescribed or recommended by a mental health professional.
+Violations of this act by a corporation or entity are enforceable under the Consumer
+Protection Act. This act also specifies that engaging in the prohibited use of artificial
+intelligence by a mental health professional is enforceable under either the Office of
+Professional Regulation’s or the Board of Medical Practice’s unprofessional conduct
+statutes, respectively.
+This act adds the Director of Professional Regulation or designee and the Executive
+Director of the Vermont Board of Medical Practice or designee to the membership of the
+Artificial Intelligence Advisory Council. Lastly, it requires the Artificial Intelligence
+Advisory Council to submit a report to the General Assembly by January 15, 2027,
+regarding the regulation of the use of artificial intelligence by mental health
+professionals.
+Effective Date: June 17, 2026
+VT LEG #389938 v.2

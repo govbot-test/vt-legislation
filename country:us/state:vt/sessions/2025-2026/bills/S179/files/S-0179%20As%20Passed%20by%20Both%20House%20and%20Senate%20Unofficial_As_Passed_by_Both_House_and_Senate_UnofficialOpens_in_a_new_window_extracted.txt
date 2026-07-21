@@ -1,0 +1,366 @@
+Title: 
+Official Title: 
+Source: versions - As Passed by Both House and Senate (UnofficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+AS PASSED BY HOUSE AND SENATE S.179
+2026 Page 1 of 15
+1 S.179
+2 An act relating to the Uniform Disclaimer of Property Interests Act
+3 It is hereby enacted by the General Assembly of the State of Vermont:
+4 Sec. 1. 14 V.S.A. chapter 129 is added to read:
+5 CHAPTER 129. VERMONT DISCLAIMER OF PROPERTY INTERESTS
+6 ACT
+7 § 4101. SHORT TITLE
+8 This chapter may be cited as the “Vermont Uniform Disclaimer of Property
+9 Interests Act.”
+10 § 4102. DEFINITIONS
+11 As used in this chapter:
+12 (1) “Disclaimant” means the person to whom a disclaimed interest or
+13 power would have passed had the disclaimer not been made.
+14 (2) “Disclaimed interest” means the interest that would have passed to
+15 the disclaimant had the disclaimer not been made.
+16 (3) “Disclaimer” means the refusal to accept an interest in or power over
+17 property.
+18 (4) “Fiduciary” means a personal representative, trustee, agent acting
+19 under a power of attorney, or other person authorized to act as a fiduciary with
+20 respect to the property of another person.
+21 (5) “Jointly held property” means property held in the name of two or
+22 more persons under an arrangement in which all holders have concurrent
+VT LEG #389683 v.1
+
+AS PASSED BY HOUSE AND SENATE S.179
+2026 Page 2 of 15
+1 interests and under which the last surviving holder is entitled to the whole of
+2 the property.
+3 (6) “Person” means an individual, corporation, business trust, estate,
+4 trust, partnership, limited liability company, association, joint venture,
+5 government, governmental subdivision, governmental agency, governmental
+6 instrumentality, public corporation, or any other legal or commercial entity.
+7 (7) “Personal representative” means a duly appointed representative of a
+8 probate estate, such as an executor or administrator.
+9 (8) “State” means a state of the United States, the District of Columbia,
+10 Puerto Rico, the United States Virgin Islands, or any territory or insular
+11 possession subject to the jurisdiction of the United States. The term includes
+12 an Indian tribe or band, or Alaskan native village, recognized by federal law or
+13 formally acknowledged by a state.
+14 (9) “Trust” means:
+15 (A) an express trust, charitable or noncharitable, with additions
+16 thereto, whenever and however created; or
+17 (B) a trust created pursuant to a statute, judgment, or decree that
+18 requires the trust to be administered in the manner of an express trust.
+19 § 4103. SCOPE
+20 This chapter applies to disclaimers of any interest in or power over
+21 property, whenever created.
+VT LEG #389683 v.1
+
+AS PASSED BY HOUSE AND SENATE S.179
+2026 Page 3 of 15
+1 § 4104. SUPPLEMENTED BY OTHER LAW
+2 (a) Unless displaced by a provision of this chapter, the principles of law
+3 and equity supplement this chapter.
+4 (b) This chapter does not limit any right of a person to waive, release,
+5 disclaim, or renounce an interest in or power over property under a law other
+6 than this chapter.
+7 § 4105. POWER TO DISCLAIM; GENERAL REQUIREMENTS; WHEN
+8 IRREVOCABLE
+9 (a) A person may disclaim, in whole or in part, any interest in or power
+10 over property, including a power of appointment. A person may disclaim the
+11 interest or power even if its creator imposed a spendthrift provision or similar
+12 restriction on transfer or a restriction or limitation on the right to disclaim.
+13 (b) Except to the extent a fiduciary’s right to disclaim is expressly
+14 restricted or limited by another statute of this State or by the instrument
+15 creating the fiduciary relationship, a fiduciary may disclaim, in whole or in
+16 part, any interest in or power over property, including a power of appointment,
+17 whether acting in a personal or representative capacity. A fiduciary may
+18 disclaim the interest or power even if its creator imposed a spendthrift
+19 provision or similar restriction on transfer or a restriction or limitation on the
+20 right to disclaim, or an instrument other than the instrument that created the
+VT LEG #389683 v.1
+
+AS PASSED BY HOUSE AND SENATE S.179
+2026 Page 4 of 15
+1 fiduciary relationship imposed a restriction or limitation on the right to
+2 disclaim.
+3 (c) To the extent that there is no material conflict of interest, a parent, as
+4 defined in 15C V.S.A. § 102(16), can disclaim on behalf of the parent’s minor
+5 child, if a guardian has not been or is not required to be appointed for the child.
+6 (d) To be effective, a disclaimer shall be in a writing or other record,
+7 declare the disclaimer, describe the interest or power disclaimed, be signed,
+8 and be delivered or filed in the manner provided in section 4112 of this title.
+9 As used in this subsection:
+10 (1) “Record” means information that is inscribed on a tangible medium
+11 or that is stored in an electronic or other medium and is retrievable in
+12 perceivable form.
+13 (2) “Signed” means:
+14 (A) by the person making the disclaimer, or by another individual
+15 directed by the person making the disclaimer to sign the name of the person
+16 making the disclaimer in the presence of the person making the disclaimer and
+17 two credible witnesses who shall also sign the record in the presence of all
+18 parties hereto; and
+VT LEG #389683 v.1
+
+AS PASSED BY HOUSE AND SENATE S.179
+2026 Page 5 of 15
+1 (B) with present intent to authenticate or adopt a record to:
+2 (i) execute or adopt a tangible symbol; or
+3 (ii) attach to or logically associate with the record an electronic
+4 sound, symbol, or process.
+5 (e) A partial disclaimer may be expressed as a fraction, percentage,
+6 monetary amount, term of years, limitation of a power, or any other interest or
+7 estate in the property.
+8 (f) A disclaimer becomes irrevocable when it is delivered or filed pursuant
+9 to section 4112 of this title or when it becomes effective as provided in
+10 sections 4107–4111 of this title, whichever occurs later.
+11 (g) A disclaimer made under this chapter is not a transfer, assignment, or
+12 release.
+13 § 4106. DISCLAIMER OF INTEREST IN PROPERTY
+14 (a) As used in this section:
+15 (1) “Future interest” means an interest that takes effect in possession or
+16 enjoyment, if at all, later than the time of its creation.
+17 (2) “Time of distribution” means the time when a disclaimed interest
+18 would have taken effect in possession or enjoyment.
+19 (b) Except for a disclaimer governed by section 4107 or 4108 of this title,
+20 the following rules apply to a disclaimer of an interest in property:
+VT LEG #389683 v.1
+
+AS PASSED BY HOUSE AND SENATE S.179
+2026 Page 6 of 15
+1 (1) The disclaimer takes effect as of the time the instrument creating the
+2 interest becomes irrevocable, or, if the interest arose under the law of intestate
+3 succession, as of the time of the intestate’s death.
+4 (2) The disclaimed interest passes according to any provision in the
+5 instrument creating the interest providing for the disposition of the interest,
+6 should it be disclaimed, or of disclaimed interests in general.
+7 (3) If the instrument does not contain a provision described in
+8 subdivision (2) of this subsection, the following rules apply:
+9 (A) If the disclaimant is not an individual, the disclaimed interest
+10 passes as if the disclaimant did not exist.
+11 (B) If the disclaimant is an individual, except as otherwise provided
+12 in subdivisions (C) and (D) of this subdivision (3), the disclaimed interest
+13 passes as if the disclaimant had died immediately before the time of
+14 distribution.
+15 (C) If by law or under the instrument, the descendants of the
+16 disclaimant would share in the disclaimed interest by any method of
+17 representation had the disclaimant died before the time of distribution, the
+18 disclaimed interest passes only to the descendants of the disclaimant who
+19 survive the time of distribution.
+20 (D) If the disclaimed interest would pass to the disclaimant’s estate
+21 had the disclaimant died before the time of distribution, the disclaimed interest
+VT LEG #389683 v.1
+
+AS PASSED BY HOUSE AND SENATE S.179
+2026 Page 7 of 15
+1 instead passes by representation to the descendants of the disclaimant who
+2 survive the time of distribution. If no descendant of the disclaimant survives
+3 the time of distribution, the disclaimed interest passes to those persons,
+4 including the state but excluding the disclaimant, and in such shares as would
+5 succeed to the transferor’s intestate estate under the intestate succession law of
+6 the transferor’s domicile had the transferor died at the time of distribution.
+7 However, if the transferor’s surviving spouse is living but is remarried at the
+8 time of distribution, the transferor is deemed to have died unmarried at the
+9 time of distribution.
+10 (4) Upon the disclaimer of a preceding interest, a future interest held by
+11 a person other than the disclaimant takes effect as if the disclaimant had died
+12 or ceased to exist immediately before the time of distribution, but a future
+13 interest held by the disclaimant is not accelerated in possession or enjoyment.
+14 § 4107. DISCLAIMER OF RIGHTS OF SURVIVORSHIP IN JOINTLY
+15 HELD PROPERTY
+16 (a) Upon the death of a holder of jointly held property, a surviving holder
+17 may disclaim, in whole or part, the greater of:
+18 (1) a fractional share of the property determined by dividing the number
+19 one by the number of joint holders alive immediately before the death of the
+20 holder to whose death the disclaimer relates; or
+VT LEG #389683 v.1
+
+AS PASSED BY HOUSE AND SENATE S.179
+2026 Page 8 of 15
+1 (2) all of the property except that part of the value of the entire interest
+2 attributable to the contribution furnished by the disclaimant.
+3 (b) A disclaimer under subsection (a) of this section takes effect as of the
+4 death of the holder of jointly held property to whose death the disclaimer
+5 relates.
+6 (c) An interest in jointly held property disclaimed by a surviving holder of
+7 the property passes as if the disclaimant predeceased the holder to whose death
+8 the disclaimer relates.
+9 § 4108. DISCLAIMER OF INTEREST BY TRUSTEE
+10 If a trustee disclaims an interest in property that otherwise would have
+11 become trust property, the interest does not become trust property.
+12 § 4109. DISCLAIMER OF POWER OF APPOINTMENT OR OTHER
+13 POWER NOT HELD IN FIDUCIARY CAPACITY
+14 If a holder disclaims a power of appointment or other power not held in a
+15 fiduciary capacity, the following rules apply:
+16 (1) If the holder has not exercised the power, the disclaimer takes effect
+17 as of the time the instrument creating the power becomes irrevocable.
+18 (2) If the holder has exercised the power and the disclaimer is of a
+19 power other than a presently exercisable general power of appointment, the
+20 disclaimer takes effect immediately after the last exercise of the power.
+VT LEG #389683 v.1
+
+AS PASSED BY HOUSE AND SENATE S.179
+2026 Page 9 of 15
+1 (3) The instrument creating the power is construed as if the power
+2 expired when the disclaimer became effective.
+3 § 4110. DISCLAIMER BY APPOINTEE, OBJECT, OR TAKER IN
+4 DEFAULT OF EXERCISE OF POWER OF APPOINTMENT
+5 (a) A disclaimer of an interest in property by an appointee of a power of
+6 appointment takes effect as of the time the instrument by which the holder
+7 exercises the power becomes irrevocable.
+8 (b) A disclaimer of an interest in property by a permissible appointee or
+9 taker in default of an exercise of a power of appointment takes effect as of the
+10 time the instrument creating the power becomes irrevocable.
+11 § 4111. DISCLAIMER OF POWER HELD IN FIDUCIARY CAPACITY
+12 (a) If a fiduciary disclaims a power held in a fiduciary capacity that has not
+13 been exercised, the disclaimer takes effect as of the time the instrument
+14 creating the power becomes irrevocable.
+15 (b) If a fiduciary disclaims a power held in a fiduciary capacity that has
+16 been exercised, the disclaimer takes effect immediately after the last exercise
+17 of the power.
+18 (c) A disclaimer under this section is effective as to another fiduciary if the
+19 disclaimer so provides and the fiduciary disclaiming has the authority to bind
+20 the estate, trust, or other person for whom the fiduciary is acting.
+VT LEG #389683 v.1
+
+AS PASSED BY HOUSE AND SENATE S.179
+2026 Page 10 of 15
+1 § 4112. DELIVERY OR FILING
+2 (a) As used in this section, “beneficiary designation” means an instrument,
+3 other than an instrument creating a trust, naming the beneficiary of:
+4 (1) an annuity or insurance policy;
+5 (2) an account with a designation for payment on death;
+6 (3) a security registered in beneficiary form;
+7 (4) a pension, profit-sharing, retirement, or other employment-related
+8 benefit plan; or
+9 (5) any other nonprobate transfer at death, including an enhanced life
+10 estate deed created pursuant to 27 V.S.A. chapter 6.
+11 (b) Subject to subsections (c)–(m) of this section, delivery of a disclaimer
+12 may be effected by personal delivery, first-class mail, or any other method
+13 likely to result in its receipt.
+14 (c) In the case of an interest created under the law of intestate succession or
+15 an interest created by will, other than an interest in a testamentary trust:
+16 (1) the disclaimer shall be delivered to the personal representative of the
+17 decedent’s estate; or
+18 (2) if no personal representative is then serving, the disclaimer shall be
+19 filed with a court having jurisdiction to appoint the personal representative.
+VT LEG #389683 v.1
+
+AS PASSED BY HOUSE AND SENATE S.179
+2026 Page 11 of 15
+1 (d) In the case of an interest in a testamentary trust:
+2 (1) the disclaimer shall be delivered to the trustee then serving, or if no
+3 trustee is then serving, to the personal representative of the decedent’s estate;
+4 or
+5 (2) if no personal representative is then serving, the disclaimer shall be
+6 filed with a court having jurisdiction to enforce the trust.
+7 (e) In the case of an interest in an inter vivos trust:
+8 (1) the disclaimer must be delivered to the trustee then serving;
+9 (2) if no trustee is then serving, the disclaimer shall be filed with a court
+10 having jurisdiction to enforce the trust; or
+11 (3) if the disclaimer is made before the time the instrument creating the
+12 trust becomes irrevocable, the disclaimer shall be delivered to the settlor of a
+13 revocable trust or the transferor of the interest.
+14 (f) In the case of an interest created by a beneficiary designation that is
+15 disclaimed before the designation becomes irrevocable, the disclaimer shall be
+16 delivered to the person making the beneficiary designation.
+17 (g) In the case of an interest in personal property created by a beneficiary
+18 designation that is disclaimed after the designation becomes irrevocable, the
+19 disclaimer shall be delivered to the person obligated to distribute the interest.
+VT LEG #389683 v.1
+
+AS PASSED BY HOUSE AND SENATE S.179
+2026 Page 12 of 15
+1 (h) If real property or an interest in real property is disclaimed, a copy of
+2 the disclaimer shall be recorded in the land records of the town in which the
+3 property or interest disclaimed is located.
+4 (i) In the case of a disclaimer by a surviving holder of jointly held property,
+5 the disclaimer shall be delivered to the person to whom the disclaimed interest
+6 passes.
+7 (j) In the case of a disclaimer by a permissible appointee or taker in default
+8 of exercise of a power of appointment at any time after the power was created:
+9 (1) the disclaimer shall be delivered to the holder of the power or to the
+10 fiduciary acting under the instrument that created the power; or
+11 (2) if no fiduciary is then serving, the disclaimer shall be filed with a
+12 court having authority to appoint the fiduciary.
+13 (k) In the case of a disclaimer by an appointee of a nonfiduciary power of
+14 appointment:
+15 (1) the disclaimer shall be delivered to the holder, the personal
+16 representative of the holder’s estate or to the fiduciary under the instrument
+17 that created the power; or
+18 (2) if no fiduciary is then serving, the disclaimer shall be filed with a
+19 court having authority to appoint the fiduciary.
+VT LEG #389683 v.1
+
+AS PASSED BY HOUSE AND SENATE S.179
+2026 Page 13 of 15
+1 (l) In the case of a disclaimer by a fiduciary of a power over a trust or
+2 estate, the disclaimer shall be delivered as provided in subsection (c), (d), or
+3 (e) of this section, as if the power disclaimed were an interest in property.
+4 (m) In the case of a disclaimer of a power by an agent, the disclaimer shall
+5 be delivered to the principal or the principal’s representative.
+6 § 4113. WHEN DISCLAIMER BARRED OR LIMITED
+7 (a) A disclaimer is barred by a written waiver of the right to disclaim.
+8 (b) A disclaimer of an interest in property is barred if any of the following
+9 events occur before the disclaimer becomes effective:
+10 (1) the disclaimant accepts the interest sought to be disclaimed;
+11 (2) the disclaimant voluntarily assigns, conveys, encumbers, pledges, or
+12 transfers the interest sought to be disclaimed or contracts to do so; or
+13 (3) a judicial sale of the interest sought to be disclaimed occurs.
+14 (c) A disclaimer, in whole or part, of the future exercise of a power held in
+15 a fiduciary capacity is not barred by its previous exercise.
+16 (d) A disclaimer, in whole or part, of the future exercise of a power not
+17 held in a fiduciary capacity is not barred by its previous exercise unless the
+18 power is exercisable in favor of the disclaimant.
+19 (e) A disclaimer is barred or limited if so provided by law other than this
+20 chapter.
+VT LEG #389683 v.1
+
+AS PASSED BY HOUSE AND SENATE S.179
+2026 Page 14 of 15
+1 (f) A disclaimer of a power over property that is barred by this section is
+2 ineffective. A disclaimer of an interest in property that is barred by this section
+3 takes effect as a transfer of the interest disclaimed to the persons who would
+4 have taken the interest under this chapter had the disclaimer not been barred.
+5 § 4114. TAX QUALIFIED DISCLAIMER
+6 Notwithstanding any other provision of this chapter, if as a result of a
+7 disclaimer or transfer the disclaimed or transferred interest is treated pursuant
+8 to the provisions of the Internal Revenue Code, as may be amended, or any
+9 regulations promulgated under it, as never having been transferred to the
+10 disclaimant, then the disclaimer or transfer is effective as a disclaimer under
+11 this chapter.
+12 § 4115. RECORDING OF DISCLAIMER
+13 If an instrument transferring an interest in or power over property subject to
+14 a disclaimer is required or permitted by law to be filed, recorded, or registered,
+15 then the disclaimer may be so filed, recorded, or registered. Failure to file,
+16 record, or register the disclaimer does not affect its validity as between the
+17 disclaimant and persons to whom the property interest or power passes by
+18 reason of the disclaimer.
+19 § 4116. APPLICATION TO EXISTING RELATIONSHIPS
+20 Except as otherwise provided in section 4113 of this title, an interest in or
+21 power over property existing on the effective date of this chapter as to which
+VT LEG #389683 v.1
+
+AS PASSED BY HOUSE AND SENATE S.179
+2026 Page 15 of 15
+1 the time for delivering or filing a disclaimer under law superseded by this
+2 chapter has not expired may be disclaimed after the effective date of this
+3 chapter.
+4 § 4117. RELATION TO ELECTRONIC SIGNATURES IN GLOBAL AND
+5 NATIONAL COMMERCE ACT
+6 This chapter modifies, limits, and supersedes the federal Electronic
+7 Signatures in Global and National Commerce Act, 15 U.S.C. § 7001, et seq.,
+8 but does not modify, limit, or supersede Section 101(c) of that act (15 U.S.C.
+9 § 7001(c)) or authorize electronic delivery of any of the notices described in
+10 Section 103(b) of that act (15 U.S.C. § 7003(b)).
+11 § 4118. UNIFORMITY OF APPLICATION AND CONSTRUCTION
+12 In applying and construing this uniform act, consideration shall be given to
+13 the need to promote uniformity of the law with respect to its subject matter
+14 among states that enact it.
+15 Sec. 2. REPEAL
+16 14 V.S.A. chapter 83 (Uniform Disclaimer of Property Interests Act) is
+17 repealed.
+18 Sec. 3. EFFECTIVE DATE
+19 This act shall take effect on passage.
+VT LEG #389683 v.1

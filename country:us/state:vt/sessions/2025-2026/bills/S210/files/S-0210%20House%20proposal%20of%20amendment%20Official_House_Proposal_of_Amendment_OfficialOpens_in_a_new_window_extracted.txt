@@ -1,0 +1,46 @@
+Title: 
+Official Title: 
+Source: versions - House Proposal of Amendment (OfficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House Proposal of Amendment
+S. 210
+An act relating to access to autopsy reports
+The House proposes to the Senate to amend the bill as follows:
+In Sec. 1, 18 V.S.A. § 505, in subsection (b), by striking out subdivision (2)
+in its entirety and inserting in lieu thereof a new subdivision (2) to read as
+follows:
+(2)(A) An individual who is not authorized to receive the autopsy report
+pursuant to subdivision (1) of this subsection (b) may petition the Probate
+Division of the Superior Court for a copy of the autopsy report. The petition
+shall contain an affidavit attesting to the petitioner’s relationship to the
+decedent and the reason the petitioner is seeking the autopsy report. The
+petitioner shall notify the Office of the Chief Medical Examiner and the State’s
+Attorney of the county in which the death occurred within five days after filing
+the petition. The Office and the State’s Attorney shall have an opportunity to
+respond within 14 days after notice. If the Superior Court finds that the
+petitioner has demonstrated good cause for the petitioner to obtain the autopsy
+report, it shall order the Office of the Chief Medical Examiner to provide a
+copy to the petitioner, in whole or in part, and may place restrictions on the
+petitioner’s dissemination of the copy provided.
+(B) In determining good cause under subdivision (A) of this
+subdivision (b)(2), the Superior Court shall consider:
+(i) the relationship of the petitioner to the decedent and decedent’s
+family;
+(ii) whether the disclosure is necessary for the public evaluation of
+governmental performance;
+(iii) the seriousness of intrusion into the decedent and decedent
+family’s privacy;
+(iv) whether the disclosure is by the least intrusive means
+available, including whether and to what degree redaction of some portions of
+the autopsy report is appropriate;
+(v) the availability of similar information in other public records
+regardless of form; and
+(vi) whether the disclosure interferes with an ongoing criminal
+investigation.
+(C) Nothing in this subdivision (2) shall prohibit a petitioner from
+refiling a petition for a copy of an autopsy report upon a material change in
+information.

@@ -1,0 +1,200 @@
+Title: 
+Official Title: 
+Source: versions - Senate Proposal of Amendment (UnofficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE PROPOSAL OF AMENDMENT H.293
+2026 Page 1 of 8
+1 H.293
+2 An act relating to health equity data reporting and registry disclosure
+3 requirements
+4 The Senate proposes to the House to amend the bill by striking out all after
+5 the enacting clause and inserting in lieu thereof the following:
+6 * * Community Violence Prevention Program Report * * *
+7 Sec. 1. 18 V.S.A. § 13 is amended to read:
+8 § 13. COMMUNITY VIOLENCE PREVENTION PROGRAM
+9 * * *
+10 (d)(1) The Commissioner of Health, in consultation and collaboration with
+11 the Chief Prevention Officer, the Department of Public Safety, the Director of
+12 Violence Prevention, the Executive Director of Racial Equity, and the Council
+13 for Equitable Youth Justice, shall report on the Community Violence
+14 Prevention Program:
+15 (A) on or before September 1, 2023 and December 1, 2023 to the
+16 Joint Legislative Justice Oversight Committee; and
+17 (B) on or before January 15, 2024, and annually on that date
+18 thereafter, to the Senate and House Committees on Judiciary, the Senate
+19 Committee on Health and Welfare, the House Committee on Human Services,
+20 and the House Committee on Health Care.
+VT LEG #389583 v.1
+
+SENATE PROPOSAL OF AMENDMENT H.293
+2026 Page 2 of 8
+1 (2) The report required by this subsection shall include:
+2 (A) a complete description of the Community Violence Prevention
+3 Program grant application and award process;
+4 (B) guidelines for the award of grants developed under subdivision
+5 (b)(2) of this section;
+6 (C) the number of applications submitted and grants awarded, and the
+7 amount of each grant awarded;
+8 (D) detailed descriptions of the programs and purposes for which all
+9 grants were awarded;
+10 (E) the impacts and outcomes of funded projects; and
+11 (F) descriptions of any grants applied for or awarded. [Repealed.]
+12 * * * Cancer Registry Disclosure Requirements * * *
+13 Sec. 2. 18 V.S.A. § 155 is amended to read:
+14 § 155. DISCLOSURE
+15 * * *
+16 (b) The Commissioner may furnish confidential information to the National
+17 Breast and Cervical Cancer Early Detection Program, other states’ cancer
+18 registries, federal cancer control agencies, or health researchers in order to
+19 collaborate in a national cancer registry or to collaborate in cancer control and
+20 prevention research studies. However, before releasing confidential
+21 information, the Commissioner shall first obtain from such state registries,
+VT LEG #389583 v.1
+
+SENATE PROPOSAL OF AMENDMENT H.293
+2026 Page 3 of 8
+1 agencies, or researchers an agreement in writing to keep written assurances
+2 acceptable to the Commissioner that the identifying information shall be kept
+3 confidential and privileged as required by law. In the case of researchers, the
+4 Commissioner shall also first obtain written evidence of the approval of their
+5 academic committee for the protection of human subjects established in
+6 accordance with 45 C.F.R. part 46 an institutional review board or privacy
+7 board in accordance with 45 C.F.R. § 164.512(i)(1)(i)(A) and (B).
+8 * * * Amyotrophic Lateral Sclerosis Registry Disclosure Requirements and
+9 Reporting * * *
+10 Sec. 3. 18 V.S.A. § 174 is amended to read:
+11 § 174. CONFIDENTIALITY
+12 (a)(1) All identifying information regarding an individual patient or health
+13 care provider is exempt from public inspection and copying under the Public
+14 Records Act and shall be kept confidential.
+15 (2) Notwithstanding subdivision (1) of this subsection, the
+16 Commissioner may enter into data sharing and protection agreements with
+17 researchers or state, regional, or national amyotrophic lateral sclerosis
+18 registries for bidirectional data exchange, provided access under such
+19 agreements is consistent with the privacy, security, and disclosure protections
+20 in this chapter. In the case of researchers, the Commissioner shall also first
+21 obtain written evidence of the approval of their academic committee for the
+VT LEG #389583 v.1
+
+SENATE PROPOSAL OF AMENDMENT H.293
+2026 Page 4 of 8
+1 protection of human subjects established in accordance with 45 C.F.R. Part 46
+2 an institutional review board or privacy board in accordance with 45 C.F.R.
+3 § 164.512(i)(1)(i)(A) and (B). The Commissioner shall disclose the minimum
+4 information necessary to accomplish a specified research purpose.
+5 * * *
+6 Sec. 4. 18 V.S.A. § 175 is amended to read:
+7 § 175. ANNUAL REPORT
+8 Annually, on or before January 15 November 1, the Department shall
+9 submit a written report to the Governor, the House Committee on Human
+10 Services, and the Senate Committee on Health and Welfare containing the
+11 statewide prevalence and incidence estimates of amyotrophic lateral sclerosis,
+12 including any trends occurring over time across the State. Reports shall not
+13 contain information that directly or indirectly identifies an individual patient or
+14 health care provider.
+15 * * * Health Equity Data Reporting * * *
+16 Sec. 5. 18 V.S.A. § 252 is amended to read:
+17 § 252. HEALTH EQUITY ADVISORY COMMISSION
+18 * * *
+19 (e) Report. Annually, on On or before January 15 of odd-numbered years,
+20 the Advisory Commission shall submit a written report to the Senate
+21 Committee on Health and Welfare and to the House Committees on Health
+VT LEG #389583 v.1
+
+SENATE PROPOSAL OF AMENDMENT H.293
+2026 Page 5 of 8
+1 Care and on Human Services with its findings and any recommendations for
+2 legislative action. The Advisory Commission is encouraged to base
+3 recommendations on the data collected and analysis completed pursuant to
+4 section 253 of this title.
+5 * * *
+6 Sec. 6. 18 V.S.A. § 253 is amended to read:
+7 § 253. DATA RESPONSIVE TO HEALTH EQUITY INQUIRIES
+8 * * *
+9 (b)(1) The Department of Health shall systematically analyze such health
+10 equity data using the smallest appropriate units of analysis feasible to detect
+11 racial and ethnic disparities, as well as disparities along the lines of primary
+12 language, sex, disability status, sexual orientation, gender identity, and
+13 socioeconomic status, and report the results of such analysis on the
+14 Department’s website periodically, but not less than biannually. The
+15 Department’s analysis shall be used to measure over time the impact of actions
+16 taken to reduce health disparities in Vermont. The data informing the
+17 Department’s analysis shall be made available to the public in accordance with
+18 State and federal law.
+19 (2) Annually Every three years beginning in 2029, on or before January
+20 15, the Department shall submit a report containing the results of the analysis
+21 conducted pursuant to subdivision (1) of this subsection to the Senate
+VT LEG #389583 v.1
+
+SENATE PROPOSAL OF AMENDMENT H.293
+2026 Page 6 of 8
+1 Committee on Health and Welfare and to the House Committees on Health
+2 Care and on Human Services.
+3 * * * Emergency Service Provider Wellness Commission Report * * *
+4 Sec. 7. 18 V.S.A. § 7257b(h) is amended to read:
+5 (h) Notwithstanding 2 V.S.A. § 20(d), the Commission shall report its
+6 conclusions and recommendations to the Governor and General Assembly as
+7 the Commission deems necessary but not less frequently than once per
+8 calendar year. The report shall disclose individually identifiable health
+9 information only to the extent necessary to convey the Commission’s
+10 conclusions and recommendations, and any such disclosures shall be limited to
+11 information already known to the public. The report shall be available to the
+12 public through the Department of Health. [Repealed.]
+13 * * * Service Members and Veterans; Food Service Licensing * * *
+14 Sec. 8. 2018 Acts and Resolves No. 119, Sec. 8 is amended to read:
+15 Sec. 8. REPORTING; UTILIZATION BY SERVICE MEMBERS AND
+16 VETERANS
+17 * * *
+18 (d) The Commissioner of Health shall, on or before February 1 of each
+19 year, report to the House Committees on Commerce and Economic
+20 Development, on General, Housing, and Military Affairs, and on Government
+21 Operations and the Senate Committees on Economic Development, Housing
+VT LEG #389583 v.1
+
+SENATE PROPOSAL OF AMENDMENT H.293
+2026 Page 7 of 8
+1 and General Affairs and on Government Operations regarding the number of
+2 service members and veterans who, during the previous calendar year, were
+3 deemed to have knowledge of the prevention of food-borne disease, be able to
+4 apply the Hazard Analysis Critical Control Point principles, and have met the
+5 criteria for “demonstration of knowledge” requirements set forth by the
+6 Department of Health in rule for the purposes of obtaining a food
+7 establishment license as provided pursuant to 18 V.S.A. § 4303(b) and the total
+8 number of food establishment licenses issued to those service members and
+9 veterans. [Repealed.]
+10 * * * Recovery Service Organizations * * *
+11 Sec. 9. REPORT; RECOVERY SERVICE ORGANIZATIONS
+12 On or before February 15, 2027, the Department of Health, in consultation
+13 with other Agency of Human Services’ departments and recovery service
+14 organizations, shall submit a written report to the House Committees on
+15 Appropriations, on Health Care, and on Human Services and to the Senate
+16 Committees on Appropriations and on Health and Welfare containing
+17 information on the total actual income and expenditures for recovery service
+18 organizations in fiscal years 2024–2026. Specifically, the report shall address:
+19 (1) public funding sources, including all appropriated State funds,
+20 federal funds, and municipal funds;
+VT LEG #389583 v.1
+
+SENATE PROPOSAL OF AMENDMENT H.293
+2026 Page 8 of 8
+1 (2) recipients of recovery service organization funding;
+2 (3) an analysis of recovery service organization grant performance
+3 measures and outcomes; and
+4 (4) any recommendations for enhancing the financial stability of
+5 recovery service organizations.
+6 * * * Repeals * * *
+7 Sec. 10. REPEALS
+8 (a) 18 V.S.A. § 5208 (Department of Health; report on statistics) is
+9 repealed.
+10 (b) 18 V.S.A. § 1756 (lead screening; annual report) is repealed.
+11 * * * Effective Date * * *
+12 Sec. 11. EFFECTIVE DATE
+13 This act shall take effect on July 1, 2026.
+14 and that after passage the title of the bill be amended to read: “An act relating
+15 to miscellaneous amendments to the Department of Health’s reporting and
+16 programming requirements”
+VT LEG #389583 v.1

@@ -1,0 +1,170 @@
+Title: 
+Official Title: 
+Source: versions - Senate Proposal of Amendment (OfficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate proposal of amendment
+H. 211
+An act relating to data brokers and personal information.
+The Senate proposes to the House to amend the bill as follows:
+First: In Sec. 1, 9 V.S.A. chapter 62, in subchapter 1, in section 2430, by
+striking out subdivision (16)(B) in its entirety and inserting in lieu thereof a
+new subdivision (16)(B) to read as follows:
+(B) “Publicly available information” does not include:
+(i) biometric data collected by a business about a consumer
+without the consumer’s knowledge;
+(ii) any obscene visual depiction, as defined in 18 U.S.C. § 1460;
+(iii) genetic data, unless otherwise made publicly available by the
+consumer to whom the information pertains; or
+(iv) intimate images, authentic or computer-generated, known to
+be nonconsensual.
+Second: In Sec. 1, 9 V.S.A. chapter 62, in subchapter 5, in section 2446, in
+subdivision (a)(4), by striking out subdivision (A) in its entirety and inserting
+in lieu thereof a new subdivision (A) to read as follows:
+(A) the name and primary physical, e-mail, and Internet addresses
+email, and internet addresses and phone number of the data broker;
+Third: In Sec. 1, 9 V.S.A. chapter 62, in subchapter 5, in section 2446, in
+subdivision (a)(4)(E), by striking out subdivision (ii) in its entirety and
+inserting in lieu thereof a new subdivision (ii) to read as follows:
+(ii) in the past year, has shared consumers’ data with or sold
+consumers’ data to:
+(I) a foreign actor;
+(II) the federal government;
+(III) other state or local governments;
+(IV) law enforcement, unless the data was shared pursuant to a
+subpoena or other court order; or
+(V) a developer of a GenAI system or model;
+Fourth: In Sec. 1, 9 V.S.A. chapter 62, in subchapter 5, in section 2446, in
+subdivision (a)(4)(I)(i), by striking out “pursuant to subsection (c) of this
+section” and inserting in lieu thereof “if the data broker permits deletion”
+
+Fifth: In Sec. 1, 9 V.S.A. chapter 62, in subchapter 5, in section 2446, by
+striking out subsection (c) in its entirety and by relettering the remaining
+subsections to be alphabetically correct.
+Sixth: In Sec. 1, 9 V.S.A. chapter 62, in subchapter 5, in section 2446, by
+striking out the newly relettered subsection (c) in its entirety and inserting in
+lieu thereof a new subsection (c) to read as follows:
+(c) Consumer rights web page. The Secretary of State shall create and
+maintain a publicly accessible page on its website that provides consumers
+with the following:
+(1) a downloadable spreadsheet of data brokers that have registered with
+the State along with the information a data broker provides during registration
+pursuant to subsection (a) of this section; and
+(2) any additional information about the rights consumers have pursuant
+to this subchapter.
+Seventh: In Sec. 1, 9 V.S.A. chapter 62, in subchapter 5, in section 2446,
+by adding a new subsection to be subsection (e) to read as follows:
+(e) Definitions. As used in this subchapter, “consumer” means an
+individual residing in this State and does not include an individual acting in a
+commercial or employment context or as an employee, owner, director, officer,
+or contractor of a company, partnership, sole proprietorship, nonprofit
+organization, or government agency whose communications or transactions
+with the data broker occur solely within the context of that individual’s role
+with the company, partnership, sole proprietorship, nonprofit organization, or
+government agency.
+Eighth: By striking out Sec. 3, effective date, in its entirety and inserting in
+lieu thereof a reader assistance heading and a new Sec. 3 to read as follows:
+* * * Cybersecurity Advisory Council * * *
+Sec. 3. 20 V.S.A. § 4662 is amended to read:
+§ 4662. CYBERSECURITY ADVISORY COUNCIL
+(a) Creation. There is created the Cybersecurity Advisory Council to
+advise on the State’s cybersecurity infrastructure, best practices,
+communications protocols, standards, training, and safeguards.
+(b) Membership. The Council shall be composed of the following
+members:
+(1) the Chief Information Officer, who shall serve as the Chair or
+appoint a designee from the Council to serve as the Chair;
+(2) the Chief Information Security Officer;
+
+(3) a representative from a distribution or transmission utility, appointed
+by the Commissioner of Public Service;
+(4) a representative from a State municipal water system, appointed by
+the Secretary of Natural Resources;
+(5) a representative from a Vermont hospital, appointed by the President
+of the Vermont Association of Hospitals and Health Systems;
+(6) a person representing a Vermont business related to an essential
+supply chain, appointed by the Chair of the Vermont Business Roundtable;
+(7) the Director of Vermont Emergency Management or designee;
+(8) the Governor’s Homeland Security Advisor or designee;
+(9) the Vermont Adjutant General or designee;
+(10) the Attorney General or designee; and
+(11) the President of Vermont Information Technology Leaders or
+designee;
+(12) the Chair of the House Committee on Energy and Digital
+Infrastructure;
+(13) the Chair of the Senate Committee on Institutions; and
+(14) a representative from the Judiciary, appointed by the Chief Justice
+of the Supreme Court.
+* * *
+Ninth: By adding a new section to be Sec. 3a to read as follows:
+Sec. 3a. 2023 Acts and Resolves No. 71, Sec. 4 is amended to read:
+Sec. 4. REPEAL
+20 V.S.A. chapter 208 (cybersecurity) is repealed on June 30, 2028 2033.
+Tenth: By adding a reader assistance heading and a new section to be Sec.
+4 to read as follows:
+* * * Educational Technology * * *
+Sec. 4. 9 V.S.A. chapter 62 is amended to read:
+CHAPTER 62. PROTECTION OF PERSONALINFORMATION
+* * *
+Subchapter 3A. Student Privacy
+* * *
+§ 2443f. ENFORCEMENT
+
+(a) A person who violates a provision of this chapter subchapter commits
+an unfair and deceptive act in commerce in violation of section 2453 of this
+title.
+(b) The Attorney General has the same authority to adopt rules to
+implement the provisions of this subchapter and to conduct civil
+investigations, enter into assurances of discontinuance, and bring civil actions
+as provided under chapter 63, subchapter 1 of this title.
+Subchapter 3B. Educational Technology
+§ 2444a. REGISTRATION
+(a) Definitions. As used in this section:
+(1)(A) “Educational technology product” and “product” mean any
+software, application, or platform that may collect, process, or transmit student
+data and that is used for teaching and learning purposes in a school in
+Vermont.
+(B) “Educational technology product” and “product” does not
+include:
+(i) hardware or other physical devices; or
+(ii) a product that is being used in a school without the knowledge
+of the provider.
+(2) “Filing” means an initial registration, amendment, periodic report, or
+other filing with the Secretary of State as the Secretary may require.
+(3) “Provider of an educational technology product” and “provider”
+mean a person that provides an educational technology product that is in use at
+a school.
+(4) “School” means a public school or an independent school approved
+pursuant to 16 V.S.A. § 166 and includes school districts.
+(5) “School district” has the same meaning as in 16 V.S.A. § 11(a).
+(b) Mandatory data reporting. In addition to all other requirements of a
+person registering with the Secretary of State pursuant to State law, a person
+doing business in this State as a provider of an educational technology product
+shall, at the time of a filing, provide the following:
+(1) the name and primary physical, email, and internet addresses of the
+person;
+(2) a link to the most recent version of the privacy policy and terms and
+conditions of each product in use in any school;
+(3) the name of each school in which the provider is operating pursuant
+to a paid contract;
+
+(4) the name and a brief description of each product of the provider, or a
+URLthat provides the same information;
+(5) which products may be in use in any school; and
+(6) an attestation that each product meets:
+(A) the standards set forth in subchapter 3A of this chapter (student
+privacy) and subchapter 6 of this chapter (the Vermont Age-Appropriate
+Design Code Act); and
+(B) all relevant federal and State privacy laws, including the federal
+Children’s Online Privacy Protection Act.
+Eleventh: By adding a reader assistance heading and a new section to be
+Sec. 5 to read as follows:
+* * * Effective Dates * * *
+Sec. 5. EFFECTIVE DATES
+(a) Secs. 1 and 4 shall take effect on January 1, 2027.
+(b) This section and Secs. 2 and 3 shall take effect on July 1, 2026.
+Twelfth: In Sec. 2, study of accessible deletion mechanism; report;
+appropriation, by striking out subsection (c) in its entirety.

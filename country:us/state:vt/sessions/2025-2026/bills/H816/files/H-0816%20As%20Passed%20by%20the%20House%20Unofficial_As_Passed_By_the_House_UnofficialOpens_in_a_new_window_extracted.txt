@@ -1,0 +1,207 @@
+Title: 
+Official Title: 
+Source: versions - As Passed By the House (UnofficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+AS PASSED BY HOUSE H.816
+2026 Page 1 of 9
+1 H.816
+2 An act relating to regulating the use of artificial intelligence in the provision
+3 of mental health services
+4 It is hereby enacted by the General Assembly of the State of Vermont:
+5 Sec. 1. PURPOSE
+6 It is the purpose of this act to safeguard individuals seeking mental health
+7 services in Vermont by:
+8 (1) ensuring that therapeutic judgment, clinical decision making, and
+9 therapeutic communication remain the responsibility of mental health
+10 professionals and are not delegated to artificial intelligence systems;
+11 (2) respecting individual choice in selecting mental health services,
+12 including community, peer, and faith-based options; and
+13 (3) allowing the responsible use of artificial intelligence for
+14 administrative, operational, documentation, and quality-improvement functions
+15 that support access, efficiency, and innovation in mental health services.
+16 Sec. 2. 3 V.S.A. § 129a is amended to read:
+17 § 129a. UNPROFESSIONAL CONDUCT
+18 (a) In addition to any other provision of law, the following conduct by a
+19 licensee constitutes unprofessional conduct. When that conduct is by an
+20 applicant or person who later becomes an applicant, it may constitute grounds
+21 for denial of a license or other disciplinary action. Any one of the following
+VT LEG #388091 v.1
+
+AS PASSED BY HOUSE H.816
+2026 Page 2 of 9
+1 items or any combination of items, whether the conduct at issue was
+2 committed within or outside the State, shall constitute unprofessional conduct:
+3 * * *
+4 (30) For any mental health professional, misuse of artificial intelligence
+5 pursuant to 26 V.S.A. § 7101.
+6 * * *
+7 Sec. 3. 18 V.S.A. § 7115 is added to read:
+8 § 7115. PROHIBITED USES OF ARTIFICIAL INTELLIGENCE
+9 (a) As used in this section:
+10 (1) “Artificial intelligence” means an engineered or machine-based
+11 system that varies in its level of autonomy and that can, for explicit or implicit
+12 objectives, infer from the input it receives how to generate outputs that can
+13 influence physical or virtual environments. “Artificial intelligence” includes
+14 generative artificial intelligence.
+15 (2) “Generative artificial intelligence” means an artificial intelligence
+16 that can generate derived synthetic content, including text, images, video, and
+17 audio, that emulates the structure and characteristics of the system’s training
+18 data.
+19 (3) “Mental health services” means support, counseling, therapy, or
+20 psychotherapy services provided by a mental health professional to diagnose or
+VT LEG #388091 v.1
+
+AS PASSED BY HOUSE H.816
+2026 Page 3 of 9
+1 treat an individual’s mental or behavioral health or provide ongoing recovery
+2 support, excluding religious counseling.
+3 (4) “Therapeutic communication” means a written or spoken interaction
+4 intended to diagnose or treat any type of mental or behavioral health concern,
+5 provide ongoing recovery support, or provide any advice related to diagnosis,
+6 treatment, or recovery.
+7 (b) A person, corporation, or other entity shall not offer, provide, or
+8 advertise mental health services in the State that represent artificial intelligence
+9 as providing therapeutic judgment, diagnosis, treatment, or therapeutic
+10 communication. Nothing in this subsection shall prohibit the use or disclosure
+11 of the use of artificial intelligence for administrative, documentation,
+12 operational, or quality-improvement purposes when a mental health
+13 professional retains clinical responsibility as authorized pursuant to 26 V.S.A.
+14 § 7101.
+15 (c)(1) A violation of this section shall be deemed a violation of the
+16 Consumer Protection Act, 9 V.S.A. chapter 63. The Attorney General has the
+17 same authority to make rules, conduct civil investigations, enter into
+18 assurances of discontinuance, and bring civil actions, and private parties have
+19 the same rights and remedies as provided under 9 V.S.A. chapter 63,
+20 subchapter 1.
+VT LEG #388091 v.1
+
+AS PASSED BY HOUSE H.816
+2026 Page 4 of 9
+1 (2) Nothing in this section shall be construed to preclude or supplant any
+2 other statutory or common law remedies.
+3 Sec. 4. 26 V.S.A. chapter 120 is added to read:
+4 CHAPTER 120. ARTIFICIAL INTELLIGENCE IN REGULATED
+5 PROFESSIONS
+6 Subchapter 1. General Provisions
+7 § 7001. DEFINITIONS
+8 As used in this chapter:
+9 (1) “Artificial intelligence” means an engineered or machine-based
+10 system that varies in its level of autonomy and that can, for explicit or implicit
+11 objectives, infer from the input it receives how to generate outputs that can
+12 influence physical or virtual environments. “Artificial intelligence” includes
+13 generative artificial intelligence.
+14 (2) “Generative artificial intelligence” means an artificial intelligence
+15 that can generate derived synthetic content, including text, images, video, and
+16 audio, that emulates the structure and characteristics of the system’s training
+17 data.
+18 Subchapter 2. Use of Artificial Intelligence by Mental Health
+19 Professionals
+20 § 7101. PERMITTED AND PROHIBITED USES OF ARTIFICIAL
+21 INTELLIGENCE IN THERAPEUTIC SETTINGS
+VT LEG #388091 v.1
+
+AS PASSED BY HOUSE H.816
+2026 Page 5 of 9
+1 (a) Definitions. As used in this section:
+2 (1) “Administrative support” means a task performed to assist a mental
+3 health professional in the professional’s delivery of mental health services,
+4 such as scheduling, billing, and general logistics, but excluding therapeutic
+5 communication.
+6 (2) “Clinical responsibility” means the duty of a mental health
+7 professional to review, approve, and remain legally accountable for any use of
+8 artificial intelligence in connection with the provision of mental health
+9 services.
+10 (3) “Consent” means an explicit, affirmative act by an individual that
+11 communicates in writing voluntary, informed, and revocable agreement.
+12 “Consent” does not include acceptance of broad terms-of-use agreements,
+13 passive actions, or deceptive practices.
+14 (4) “Mental health professional” means an individual licensed, certified,
+15 or rostered, respectively, to provide mental health services as a physician
+16 pursuant to chapter 23 or 33 of this title, an advance practice registered nurse
+17 specializing in psychiatric mental health pursuant to chapter 28 of this title, a
+18 psychologist pursuant to chapter 55 of this title, a peer support provider or peer
+19 recovery support specialist pursuant to chapter 60 of this title, a social worker
+20 pursuant to chapter 61 of this title, an alcohol and drug abuse counselor
+21 pursuant to chapter 62 of this title, a clinical mental health counselor pursuant
+VT LEG #388091 v.1
+
+AS PASSED BY HOUSE H.816
+2026 Page 6 of 9
+1 to chapter 65 of this title, a marriage and family therapist pursuant to chapter
+2 76 of this title, a psychoanalyst pursuant to chapter 77 of this title, or an
+3 applied behavior analyst pursuant to chapter 95 of this title, and a nonlicensed
+4 or noncertified psychotherapist, noncertified psychoanalyst, or any other
+5 professional that provides mental health services except as exempted in
+6 subsection (e) of this section.
+7 (5) “Mental health services” means support, counseling, therapy, or
+8 psychotherapy services provided by a mental health professional to diagnose or
+9 treat an individual’s mental or behavioral health or provide ongoing recovery
+10 support, excluding religious counseling or peer support.
+11 (6) “Peer support” means support services provided by an individual
+12 with lived experience of a mental health condition or substance use disorder
+13 who is not certified under chapter 60 of this title.
+14 (7) “Religious counseling” means counseling provided by clergy,
+15 pastoral counselors, or other religious leaders acting within the scope of the
+16 individual’s duties if explicitly faith-based and not represented as clinical
+17 services.
+18 (8) “Supplementary support” means a task performed to assist a mental
+19 health professional in the professional’s delivery of mental health services,
+20 excluding therapeutic communication and administrative support.
+VT LEG #388091 v.1
+
+AS PASSED BY HOUSE H.816
+2026 Page 7 of 9
+1 (9) “Therapeutic communication” means a written or spoken interaction
+2 intended to diagnose or treat any type of mental or behavioral health concern,
+3 provide ongoing recovery support, or provide any advice related to diagnosis,
+4 treatment, or recovery.
+5 (10) “Therapeutic decision” means the final clinical determination
+6 regarding diagnosis or selection, modification, or termination of treatment or
+7 care. “Therapeutic decision” does not include algorithmic risk scoring, data
+8 analytics, or other clinical decision support tools when used under the
+9 supervision and authority of a licensed mental health professional.
+10 (b) Permitted uses. A mental health professional may use artificial
+11 intelligence systems for administrative support, supplementary support, and
+12 operational or quality-improvement functions, provided the professional
+13 retains sole responsibility for therapeutic decisions. Permitted uses include
+14 scheduling, billing, coding, and claims processing; transcription and
+15 documentation support; preparation and maintenance of clinical records;
+16 deidentified data analysis for quality improvement; and workforce and capacity
+17 planning where the mental health professional reviews, modifies where
+18 necessary, and approves the final product.
+19 (c) Confidentiality and consent.
+VT LEG #388091 v.1
+
+AS PASSED BY HOUSE H.816
+2026 Page 8 of 9
+1 (1) Any administrative support or supplementary support tasks
+2 conducted using artificial intelligence, including transcription and recording,
+3 shall be subject to the disclosure prohibitions in 18 V.S.A. §§ 1881 and 7103.
+4 (2) Consent by a patient or client is required when artificial intelligence
+5 is used to record identifiable therapeutic communications.
+6 (d) Prohibited uses.
+7 (1) A mental health professional shall not use artificial intelligence in a
+8 manner that allows the artificial intelligence to independently make therapeutic
+9 decisions, independently diagnose, independently determine treatment, or
+10 independently generate treatment plans.
+11 (2) Nothing in this subsection shall prohibit a mental health professional
+12 from disclosing or describing the mental health professional’s use of artificial
+13 intelligence for administrative support or supplementary support purposes to a
+14 prospective, current, or former patient or client.
+15 (e) Exceptions. Nothing in this section shall apply to:
+16 (1) religious counseling;
+17 (2) peer support provided by an individual who is not certified pursuant
+18 to chapter 60 of this title; and
+19 (3) generalized educational and self-help resources that do not purport to
+20 offer mental health services.
+VT LEG #388091 v.1
+
+AS PASSED BY HOUSE H.816
+2026 Page 9 of 9
+1 Sec. 5. EFFECTIVE DATE
+2 This act shall take effect on passage.
+VT LEG #388091 v.1

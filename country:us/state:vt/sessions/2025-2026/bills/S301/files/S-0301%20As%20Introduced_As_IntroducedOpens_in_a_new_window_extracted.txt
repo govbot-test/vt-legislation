@@ -1,0 +1,388 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED S.301
+2026 Page 1 of 16
+1 S.301
+2 Introduced by Senators Gulick, Major and Ram Hinsdale
+3 Referred to Committee on
+4 Date:
+5 Subject: Prohibited acts; public accommodations; unfair housing practices;
+6 discrimination; hate crimes; Executive Branch; civil rights
+7 Statement of purpose of bill as introduced: This bill proposes to make
+8 numerous miscellaneous amendments to the laws against discrimination and to
+9 establish the Civil Rights Coordinating Council and the Civil Rights and Equal
+10 Protection Special Fund.
+11 An act relating to miscellaneous amendments to the prohibitions on
+12 discrimination
+13 It is hereby enacted by the General Assembly of the State of Vermont:
+14 * * * Short Title, Purpose, and Findings * * *
+15 Sec. 1. SHORT TITLE
+16 This act may be cited as “the Vermont Civil Rights Sovereignty and Equal
+17 Protection Act of 2026.”
+18 Sec. 2. PURPOSE
+19 The purpose of this act is to:
+VT LEG #385908 v.1
+
+BILL AS INTRODUCED S.301
+2026 Page 2 of 16
+1 (1) modernize, unify, and expand Vermont’s civil rights protections to
+2 ensure the equal enjoyment of liberty, dignity, and opportunity for all
+3 individuals in the State of Vermont;
+4 (2) integrate and strengthen civil rights protections across titles;
+5 (3) establish a comprehensive, State-funded and State-controlled civil
+6 rights enforcement system that is fully independent of federal funding or policy
+7 shifts; and
+8 (4) replace lost federal civil rights enforcement capacity and mitigate
+9 federal rollbacks by establishing Vermont-specific standards, remedies, and
+10 institutions.
+11 Sec. 3. LEGISLATIVE FINDINGS
+12 The General Assembly finds:
+13 (1) Federal rollbacks in civil rights enforcement, reductions in staffing,
+14 and withdrawal of programmatic funding threaten the equal protection of
+15 Vermonters.
+16 (2) Vermont statutes currently contain fragmented and inconsistent
+17 definitions, enforcement standards, and remedies, producing confusion and
+18 uneven protection.
+19 (3) Systemic discrimination, including discrimination that arises through
+20 disparate impact, undermines democracy, the rule of law, and Vermont’s
+21 constitutional commitment to equality.
+VT LEG #385908 v.1
+
+BILL AS INTRODUCED S.301
+2026 Page 3 of 16
+1 (4) Vermont must not depend on the federal government for the funding
+2 or execution of its civil rights enforcement obligations and must build
+3 independent, sustainable State capacity.
+4 * * * Public Accommodations and Unfair Housing * * *
+5 Sec. 4. 9 V.S.A. § 4500 is amended to read:
+6 § 4500. LEGISLATIVE INTENT
+7 * * *
+8 (d) It is the intent of the General Assembly that all State agencies, political
+9 subdivisions, housing authorities, and recipients of State housing-related funds
+10 take meaningful actions to combat discrimination, including actions that:
+11 (1) overcome patterns of segregation;
+12 (2) promote fair housing choice; and
+13 (3) foster inclusive communities free from barriers that restrict access to
+14 housing based on protected characteristics.
+15 Sec. 5. 9 V.S.A. § 4501 is amended to read:
+16 § 4501. DEFINITIONS
+17 As used in this chapter:
+18 * * *
+19 (12)(A) “Harass” means to engage in unwelcome conduct that detracts
+20 from, undermines, or interferes with a person’s:
+VT LEG #385908 v.1
+
+BILL AS INTRODUCED S.301
+2026 Page 4 of 16
+1 (i) use of a place of public accommodation or any of the
+2 accommodations, advantages, facilities, goods, services, or privileges of a
+3 place of public accommodation because of the person’s race, creed religion,
+4 color, national origin, citizenship, immigration status, marital status, sex,
+5 sexual orientation, gender identity, source of income, housing status, veteran
+6 status, crime victim status, or disability; or
+7 (ii) terms, conditions, privileges, or protections in the sale or rental
+8 of a dwelling or other real estate, or in the provision of services or facilities in
+9 connection with a dwelling or other real estate, because of the person’s race,
+10 sex, sexual orientation, gender identity, age, marital status, religious creed
+11 religion, color, national origin, citizenship, immigration status, veteran status,
+12 crime victim status, or disability, or because the person intends to occupy a
+13 dwelling with one or more minor children, or because the person is a recipient
+14 of public assistance, or because the person is a victim of abuse, sexual assault,
+15 or stalking.
+16 (B) Notwithstanding any judicial precedent to the contrary, harassing
+17 conduct need not be severe or pervasive to be unlawful pursuant to the
+18 provisions of this chapter. In determining whether conduct constitutes
+19 unlawful harassment:
+20 * * *
+VT LEG #385908 v.1
+
+BILL AS INTRODUCED S.301
+2026 Page 5 of 16
+1 (iii) Conduct may constitute unlawful harassment, regardless of
+2 whether:
+3 * * *
+4 (IV) despite the conduct, the complaining person was able to:
+5 (aa) use the place of public accommodation or any of the
+6 accommodations, advantages, facilities, goods, services, or privileges of the
+7 place of public accommodation; or
+8 * * *
+9 Sec. 6. 9 V.S.A. § 4502 is amended to read:
+10 § 4502. PUBLIC ACCOMMODATIONS
+11 (a) An owner or operator of a place of public accommodation or an agent
+12 or employee of such owner or operator shall not, because of the race, creed
+13 religion, color, national origin, citizenship, immigration status, marital status,
+14 sex, sexual orientation, or gender identity, source of income, housing status,
+15 veteran status, or crime victim status of any person, refuse, withhold from, or
+16 deny to that person any of the accommodations, advantages, facilities, goods,
+17 services, and privileges of the place of public accommodation.
+18 * * *
+19 Sec. 7. 9 V.S.A. § 4503 is amended to read:
+20 § 4503. UNFAIR HOUSING PRACTICES
+21 (a) It shall be unlawful for any person:
+VT LEG #385908 v.1
+
+BILL AS INTRODUCED S.301
+2026 Page 6 of 16
+1 (1) To refuse to sell or rent, or refuse to negotiate for the sale or rental
+2 of, or otherwise make unavailable or deny, a dwelling or other real estate to
+3 any person because of the race, sex, sexual orientation, gender identity, age,
+4 marital status, religious creed religion, color, national origin, citizenship,
+5 immigration status, veteran status, crime victim status, or disability of a person,
+6 or because a person intends to occupy a dwelling with one or more minor
+7 children, or because a person is a recipient of public assistance, or because a
+8 person is a victim of abuse, sexual assault, or stalking.
+9 (2) To discriminate against, or to harass, any person in the terms,
+10 conditions, privileges, and protections of the sale or rental of a dwelling or
+11 other real estate, or in the provision of services or facilities in connection with
+12 a dwelling or other real estate, because of the race, sex, sexual orientation,
+13 gender identity, age, marital status, religious creed religion, color, national
+14 origin, citizenship, immigration status, veteran status, crime victim status, or
+15 disability of a person, or because a person intends to occupy a dwelling with
+16 one or more minor children, or because a person is a recipient of public
+17 assistance, or because a person is a victim of abuse, sexual assault, or stalking.
+18 (3) To make, print, or publish, or cause to be made, printed, or published
+19 any notice, statement, or advertisement, with respect to the sale or rental of a
+20 dwelling or other real estate that indicates any preference, limitation, or
+21 discrimination based on race, sex, sexual orientation, gender identity, age,
+VT LEG #385908 v.1
+
+BILL AS INTRODUCED S.301
+2026 Page 7 of 16
+1 marital status, religious creed religion, color, national origin, citizenship,
+2 immigration status, veteran status, crime victim status, or disability of a person,
+3 or because a person intends to occupy a dwelling with one or more minor
+4 children, or because a person is a recipient of public assistance, or because a
+5 person is a victim of abuse, sexual assault, or stalking.
+6 (4) To represent to any person because of the race, sex, sexual
+7 orientation, gender identity, age, marital status, religious creed religion, color,
+8 national origin, citizenship, immigration status, veteran status, crime victim
+9 status, or disability of a person, or because a person intends to occupy a
+10 dwelling with one or more minor children, or because a person is a recipient of
+11 public assistance, or because a person is a victim of abuse, sexual assault, or
+12 stalking, that any dwelling or other real estate is not available for inspection,
+13 sale, or rental when the dwelling or real estate is in fact so available.
+14 * * *
+15 (6) To discriminate against any person in the making or purchasing of
+16 loans or providing other financial assistance for real-estate-related transactions
+17 or in the selling, brokering, or appraising of residential real property, because
+18 of the race, sex, sexual orientation, gender identity, age, marital status,
+19 religious creed religion, color, national origin, citizenship, immigration status,
+20 veteran status, crime victim status, or disability of a person, or because a
+21 person intends to occupy a dwelling with one or more minor children, or
+VT LEG #385908 v.1
+
+BILL AS INTRODUCED S.301
+2026 Page 8 of 16
+1 because a person is a recipient of public assistance, or because a person is a
+2 victim of abuse, sexual assault, or stalking.
+3 (7) To engage in blockbusting practices, for profit, which may include
+4 inducing or attempting to induce a person to sell or rent a dwelling by
+5 representations regarding the entry into the neighborhood of a person or
+6 persons of a particular race, sex, sexual orientation, gender identity, age,
+7 marital status, religious creed religion, color, national origin, citizenship,
+8 immigration status, veteran status, crime victim status, or disability of a person,
+9 or because a person intends to occupy a dwelling with one or more minor
+10 children, or because a person is a recipient of public assistance, or because a
+11 person is a victim of abuse, sexual assault, or stalking.
+12 (8) To deny any person access to or membership or participation in any
+13 multiple listing service, real estate brokers’ organization, or other service,
+14 organization, or facility relating to the business of selling or renting dwellings,
+15 or to discriminate against any person in the terms or conditions of such access,
+16 membership, or participation, on account of race, sex, sexual orientation,
+17 gender identity, age, marital status, religious creed religion, color, national
+18 origin, citizenship, immigration status, veteran status, crime victim status, or
+19 disability of a person, or because a person is a recipient of public assistance, or
+20 because a person is a victim of abuse, sexual assault, or stalking.
+21 * * *
+VT LEG #385908 v.1
+
+BILL AS INTRODUCED S.301
+2026 Page 9 of 16
+1 (12) To discriminate in land use decisions or in the permitting of
+2 housing because of race, sex, sexual orientation, gender identity, age, marital
+3 status, religious creed religion, color, national origin, citizenship, immigration
+4 status, veteran status, crime victim status, disability, the presence of one or
+5 more minor children, income, or because of the receipt of public assistance, or
+6 because a person is a victim of abuse, sexual assault, or stalking, except as
+7 otherwise provided by law.
+8 * * *
+9 * * * Hate-Motivated Crimes * * *
+10 Sec. 8. 13 V.S.A. § 1455 is amended to read:
+11 § 1455. HATE-MOTIVATED CRIMES
+12 * * *
+13 (c) As used in this section, “protected category” includes race, color,
+14 religion, national origin, sex, ancestry, age, service in the U.S. Armed Forces
+15 or the National Guard, disability as defined by 21 V.S.A. § 495d(5), sexual
+16 orientation, gender identity, citizenship, immigration status, marital status,
+17 source of income, housing status, crime victim status, and perceived
+18 membership in any such group.
+19 * * * Mandatory Trainings * * *
+20 Sec. 9. 21 V.S.A. § 495q is added to read:
+21 § 495q. MANDATORY TRAINING
+VT LEG #385908 v.1
+
+BILL AS INTRODUCED S.301
+2026 Page 10 of 16
+1 (a) “Municipal employer” means an employer as defined in subdivision
+2 1722(13) of this title.
+3 (b) The Executive Branch of the State of Vermont and all municipal
+4 employers shall provide mandatory training to employees on the provisions of
+5 chapter 5, subchapter 6 of this title.
+6 * * * Civil Rights Council and Special Fund * * *
+7 Sec. 10. 3 V.S.A. chapter 7, subchapter 3 is added to read:
+8 Subchapter 3. Civil Rights and Equal Protection
+9 § 171. CIVIL RIGHTS COORDINATING COUNCIL
+10 (a) Creation. The Civil Rights Coordinating Council is created to ensure
+11 statewide alignment, coordination, and accountability across civil rights
+12 enforcement agencies, entities, and programs.
+13 (b) Membership. The Council shall be overseen by the Office of the
+14 Attorney General and shall be composed of the following members:
+15 (1) the Attorney General or designee;
+16 (2) the Executive Director of the Vermont Human Rights Commission
+17 or designee;
+18 (3) the Executive Director of Racial Equity or designee;
+19 (4) the Commissioner of Housing and Community Development or
+20 designee;
+21 (5) the Commissioner of Labor or designee;
+VT LEG #385908 v.1
+
+BILL AS INTRODUCED S.301
+2026 Page 11 of 16
+1 (6) the Commissioner of Public Safety or designee;
+2 (7) the Commissioner of Health or designee;
+3 (8) one member of a municipal civil-rights board, appointed by the
+4 Vermont League of Cities and Towns;
+5 (9) one member of a school district or supervisory union, appointed by
+6 the Vermont School Boards Association;
+7 (10) one member with lived experience of discrimination, appointed by
+8 the Vermont Human Rights Commission;
+9 (11) one member representing a community civil rights or racial justice
+10 organization, appointed by the Governor;
+11 (12) one member representing the rights of individuals with disabilities,
+12 appointed by the Vermont Developmental Disabilities Council; and
+13 (13) one member representing the LGBTQ+ community, appointed by
+14 the Pride Center of Vermont or successor organization.
+15 (c) Duties and responsibilities. The Council shall:
+16 (1) coordinate and ensure alignment of enforcement actions among the
+17 Attorney General, the Vermont Human Rights Commission, and the Office of
+18 Racial Equity;
+19 (2) develop uniform policies for handling complaints, investigations,
+20 data collection and reporting, and analysis of disparate impacts;
+VT LEG #385908 v.1
+
+BILL AS INTRODUCED S.301
+2026 Page 12 of 16
+1 (3) develop and disseminate civil rights impact assessments and
+2 recommendations for use in State and local government;
+3 (4) create model curricula and minimum training requirements for
+4 public entities on antidiscrimination, antibias, anti-oppression, and civil rights
+5 compliance;
+6 (5) monitor federal policy changes, court decisions, and executive
+7 actions that may impact Vermont’s civil rights obligations and issue guidance
+8 for proper implementation or mitigation;
+9 (6) ensure coordinated reporting to and exchange of data with the Office
+10 of the Attorney General’s Civil Rights Unit and the Division of Racial Justice
+11 Statistics within the Office of Racial Equity; and
+12 (7) develop technical assistance and model ordinances for use among
+13 local government civil rights boards, commissions, and school districts.
+14 (d) Meetings.
+15 (1) The Attorney General or designee shall be the Chair of the Council.
+16 (2) The Council shall meet at least six times per year at the call of the
+17 Chair.
+18 (3) Seven members of the Council shall constitute a quorum.
+19 (e) Staffing. The Council shall have the administrative, technical, and legal
+20 assistance of the Office of the Attorney General and the Office of Racial
+VT LEG #385908 v.1
+
+BILL AS INTRODUCED S.301
+2026 Page 13 of 16
+1 Equity. The Council may hire additional staff to be funded by the Civil Rights
+2 and Equal Protection Special Fund created by section 172 of this title.
+3 (f) Report. Annually, on or before November 15, the Council shall submit
+4 a written report to the Governor, the House Committees on Government
+5 Operations and Military Affairs and on Judiciary, the Senate Committees on
+6 Government Operations and on Judiciary, and the Office of Racial Equity.
+7 The report shall include:
+8 (1) information on statewide enforcement efforts;
+9 (2) progress made on the duties and responsibilities of the Council;
+10 (3) an analysis of systemic barriers;
+11 (4) recommendations for policy and statutory changes; and
+12 (5) a summary of federal actions that pose a risk to Vermonters’ civil
+13 rights.
+14 § 172. CIVIL RIGHTS AND EQUAL PROTECTION SPECIAL FUND
+15 (a) Purpose. The purpose of this section is to create a fund to support the
+16 enforcement of Vermont’s civil rights and equal protection laws independent
+17 of any federal funding.
+18 (b) Creation. There is created the Civil Rights and Equal Protection
+19 Special Fund that shall be managed in accordance with 32 V.S.A. chapter 7,
+20 subchapter 5. The Fund shall be administered by the Attorney General.
+21 Monies in the Fund shall be used:
+VT LEG #385908 v.1
+
+BILL AS INTRODUCED S.301
+2026 Page 14 of 16
+1 (1) to support the staffing, operations, investigative capacity, and
+2 community outreach of the Office of the Attorney General’s Civil Rights Unit,
+3 the Vermont Human Rights Commission, and the Office of Racial Equity;
+4 (2) to administer the collection of data to support the Division of Racial
+5 Justice Statistics within the Office of Racial Equity;
+6 (3) to provide funding for legal costs associated with the violation of a
+7 kindergarten through grade 12 educator’s civil rights when such costs are not
+8 covered by the liability insurance of the educator’s employer;
+9 (4) to provide training and education on civil rights, antidiscrimination,
+10 and anti-oppression matters;
+11 (5) to meet public reporting and transparency requirements; and
+12 (6) to provide grants or other financial assistance to municipalities to
+13 comply with civil rights and equal protection laws.
+14 (c) Sources of funding.
+15 (1) No federal funds shall be deposited into the Fund.
+16 (2) Notwithstanding any other law to the contrary, the Fund shall consist
+17 of:
+18 (A) two percent of the cannabis excise tax revenues collected under
+19 32 V.S.A. § 7902;
+20 (B) two percent of the State’s revenue share from sports wagering
+21 operators under 31 V.S.A. chapter 25;
+VT LEG #385908 v.1
+
+BILL AS INTRODUCED S.301
+2026 Page 15 of 16
+1 (C) one-quarter of one percent of the tax on alcoholic beverages
+2 imposed by 7 V.S.A. §§ 421 and 422;
+3 (D) one-quarter of one percent of the tax on tobacco products
+4 imposed by 32 V.S.A. § 7811;
+5 (E) all civil penalties, fines, and settlements recovered pursuant to:
+6 (i) 9 V.S.A. chapter 139;
+7 (ii) 13 V.S.A. chapter 31;
+8 (iii) 13 V.S.A. chapter 33; and
+9 (iv) 21 V.S.A. chapter 5; and
+10 (F) any gifts, grants, or donations from private or philanthropic
+11 sources to support the enforcement of State civil rights and equal protection
+12 laws.
+13 (3) It is the intent of the General Assembly that $12,000,000.00,
+14 adjusted for inflation, be appropriated annually to the Fund in future years.
+15 (d) Rulemaking authority. The Attorney General may adopt rules to
+16 implement this section.
+17 * * * Report * * *
+18 Sec. 11. REPORT
+19 On or before November 1, 2026, the Court Administrator shall report to the
+20 General Assembly on the frequency and outcomes of special motions to strike
+21 made pursuant to 12 V.S.A. § 1041.
+VT LEG #385908 v.1
+
+BILL AS INTRODUCED S.301
+2026 Page 16 of 16
+1 * * * Appropriations * * *
+2 Sec. 12. APPROPRIATIONS
+3 The sum of $15,000,000.00 is appropriated from the General Fund to the
+4 Civil Rights and Equal Protection Special Fund created by 3 V.S.A. § 172 in
+5 fiscal year 2027 for the purposes established in that section.
+6 * * * Effective Date * * *
+7 Sec. 13. EFFECTIVE DATE
+8 This act shall take effect on July 1, 2026.
+VT LEG #385908 v.1

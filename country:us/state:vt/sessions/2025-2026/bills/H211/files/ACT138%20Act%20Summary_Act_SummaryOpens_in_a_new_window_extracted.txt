@@ -1,0 +1,48 @@
+Title: 
+Official Title: 
+Source: versions - Act SummaryOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Act No. 138 Page 1 of 1
+2026
+This act summary is provided for the convenience of the public and members of the General Assembly. It
+is intended to provide a general summary of the act and may not be exhaustive. It has been prepared by the
+staff of the Office of Legislative Counsel without input from members of the General Assembly. It is not
+intended to aid in the interpretation of legislation or to serve as a source of legislative intent.
+Act No. 138 (H.211). An act relating to data brokers and personal information
+Subjects: Commerce and trade; protection of personal information; data breaches;
+data brokers; Cybersecurity Advisory Council; educational technology
+This act updates and adds definitions to the chapter regulating the protection of
+personal information, including the definitions of “brokered personal information,” “data
+broker,” “publicly available information,” and “sale.” This act adds a requirement that
+data brokers can only disclose brokered personal information to a person after the data
+broker verifies the person and the purposes for the information.
+The act also makes technical changes to the Security Breach Notice Act and adds the
+Data Broker Security Breach Notice Act. The Data Broker Security Breach Notice Act
+requires that, when applicable, data brokers must notify the Attorney General and
+affected consumers when there is a data breach affecting the brokered personal
+information of Vermonters.
+This act makes various updates to the subchapter that regulates data brokers. The
+registration fee for data brokers is increased to $900.00 annually, and data brokers are
+required to supply more information about their business when registering with the
+Secretary of State. The fines for data brokers that violate the registration law are
+increased as follows: $200.00 for each day that a data broker operates in the State
+without having registered; $1,000.00 for each day a data broker fails to provide all
+required registration information; and a civil penalty of $25,000.00 for filing materially
+incorrect information at registration along with a $1,000.00 fine each day thereafter that
+the data broker fails to correct the information.
+This act also requires the Secretary of State to study and report on the feasibility of
+establishing an online system that would permit a consumer to delete the consumer’s
+brokered personal information held by various data brokers. The final report is due on
+December 1, 2028.
+The act amends the Cybersecurity Advisory Council by adding three new members to
+the Council and by extending the repeal date of the Council to 2033.
+This act also requires a provider of educational technology products to provide the
+State with more information about its business when conducting a filing with the
+Secretary of State, including supplying a link to its most recent privacy policy and the
+name and description of each educational technology product it provides.
+Multiple effective dates, beginning on July 1, 2026
+VT LEG #390278 v.2

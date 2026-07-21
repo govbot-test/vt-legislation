@@ -1,0 +1,276 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.940
+2026 Page 1 of 11
+1 H.940
+2 Introduced by Committee on Energy and Digital Infrastructure
+3 Date:
+4 Subject: Public service; utilities; energy; energy efficiency; enhanced energy
+5 planning; telecommunications
+6 Statement of purpose of bill as introduced: This bill proposes to allow an
+7 energy efficiency utility that is also a retail electric provider to use thermal
+8 energy and process fuel funds on additional projects, to require regional
+9 planning commissions to apply to the Department of Public Service for an
+10 enhanced energy determination concurrently with their submission of draft
+11 regional plans to the Land Use Review Board, to require the adoption of a new
+12 Telecommunications Plan every five years instead of three, and to abolish the
+13 Telecommunications and Connectivity Advisory Board.
+14 An act relating to miscellaneous public utility subjects
+15 It is hereby enacted by the General Assembly of the State of Vermont:
+16 * * * Use of Thermal Funds * * *
+17 Sec. 1. USE OF THERMAL ENERGY AND PROCESS FUEL FUNDS FOR
+18 GREENHOUSE GAS EMISSIONS REDUCTION PROGRAMS
+19 (a) Notwithstanding any provision of law or order of the Public Utility
+20 Commission (PUC) to the contrary, the entity appointed under 30 V.S.A. §
+VT LEG #387265 v.4
+
+BILL AS INTRODUCED H.940
+2026 Page 2 of 11
+1 209(d)(2)(A) that is also a retail electricity provider for the calendar years
+2 2027–2029 may spend any amounts the entity has available to it through
+3 annually budgeted thermal energy and process fuel funds and carryforward
+4 thermal energy and process fuel funds from prior periods on programs,
+5 measures, and services that reduce fossil fuel use and greenhouse gas
+6 emissions in the thermal energy or transportation sector regardless of the
+7 preexisting fuel source of the customer. The entity may also use thermal
+8 energy and process fuel funds under this section to deliver thermal and
+9 transportation measures or programs that enable fossil fuel and greenhouse gas
+10 emissions reductions, such as geothermal test well funding, regardless of the
+11 preexisting fuel source of the customer.
+12 (b) Under this section, the entity shall also prioritize weatherization and
+13 thermal sector efficiency programs within its offerings pursuant to this section,
+14 and shall budget at least 60 percent of the funds for programs under this
+15 section for weatherization and thermal sector efficiency programs, to be
+16 offered to customers regardless of their preexisting fuel source, with a
+17 minimum of 60 percent of those weatherization and thermal sector efficiency
+18 program funds allocated for customers with low income and low-to-moderate
+19 income and projects requiring electric panel or wiring upgrades or abatement
+20 of other health- or building-related items to facilitate weatherization and
+21 thermal efficiency.
+VT LEG #387265 v.4
+
+BILL AS INTRODUCED H.940
+2026 Page 3 of 11
+1 (c) The entity shall seek approval from the PUC for all planned
+2 expenditures throughout the three-year performance period as part of the
+3 triennial energy efficiency utility planning process in the Demand Resources
+4 Plan proceeding, and report, to the PUC, annually on program participation,
+5 including any customer survey data obtained that discuss how impactful
+6 incentives offered under this section were for customer adoption.
+7 (d) Any funds spent on programs, measures, and services pursuant to this
+8 section shall not be counted towards the calculation of funds used by the entity
+9 for energy transformation projects pursuant to 30 V.S.A. § 8005(a)(3) and the
+10 calculation of project costs pursuant to 30 V.S.A. § 8005(a)(3)(C)(iv).
+11 * * * Energy Planning * * *
+12 Sec. 2. 24 V.S.A. § 4348 is amended to read:
+13 § 4348. ADOPTION AND AMENDMENT OF REGIONAL PLAN
+14 * * *
+15 (b) 60 Sixty days prior to holding the first public hearing on a regional
+16 plan, a regional planning commission shall submit a draft regional plan to the
+17 Land Use Review Board for review and comments related to conformance of
+18 the draft with sections 4302 and 4348a of this title and chapter 139 of this title
+19 and, if it is seeking an optional determination of energy compliance, to the
+20 Department of Public Service for review and comments related to conformance
+21 of the draft plan with section 4352 of this title. The Board shall coordinate
+VT LEG #387265 v.4
+
+BILL AS INTRODUCED H.940
+2026 Page 4 of 11
+1 with other State agencies and respond within 60 days unless more time is
+2 granted by the regional planning commission.
+3 * * *
+4 (d)(1) At least 30 days prior to the first hearing, a copy of the proposed
+5 plan or amendment, a report documenting conformance with the goals
+6 established in section 4302 of this chapter and the plan elements established in
+7 section 4348a of this chapter, and a description of any changes to the Regional
+8 Future Land Use Map with a request for general comments and for specific
+9 comments with respect to the extent to which the plan or amendment is
+10 consistent with the goals established in section 4302 of this title, shall be
+11 delivered physically or electronically with proof of receipt or sent by certified
+12 mail, return receipt requested, to each of the following:
+13 * * *
+14 (2) At least 30 days prior to the first hearing, the regional planning
+15 commission shall provide each of its member municipalities with a written
+16 description of map changes within the municipality, a municipality-wide map
+17 showing old versus new areas with labels, and information about the new Tier
+18 structure under 10 V.S.A. chapter 151, including how to obtain Tier 1A or 1B
+19 status, and the process for updating designated area boundaries. The regional
+20 planning commission shall, if it is seeking an optional determination of energy
+21 compliance, solicit feedback on its enhanced energy plan, including
+VT LEG #387265 v.4
+
+BILL AS INTRODUCED H.940
+2026 Page 5 of 11
+1 consistency with section 4352 of this chapter and the enhanced energy
+2 planning standards.
+3 * * *
+4 (h)(1) Within 15 days following adoption, a regional planning commission
+5 shall submit its regionally adopted regional plan to the Land Use Review
+6 Board for a determination of regional plan compliance with a report
+7 documenting conformance with the goals established in section 4302 of this
+8 chapter and the plan elements established in section 4348a of this chapter and a
+9 description of any changes to the regional plan future land use map. The
+10 regional planning commission shall also at this time, if it is seeking an optional
+11 determination of energy compliance pursuant to section 4352 of this chapter,
+12 submit the plan to the Department of Public Service for review with a
+13 description of conformance with the enhanced energy planning standards and
+14 with a summary of any comments received during the public hearings.
+15 * * *
+16 Sec. 3. 24 V.S.A. § 4350 is amended to read:
+17 § 4350. REVIEW AND CONSULTATION REGARDING MUNICIPAL
+18 PLANNING EFFORT
+19 * * *
+20 (b)(1) As part of the consultation process, the commission shall consider
+21 whether a municipality has adopted a plan. In order to obtain or retain
+VT LEG #387265 v.4
+
+BILL AS INTRODUCED H.940
+2026 Page 6 of 11
+1 confirmation of the planning process, a municipality must have an approved
+2 plan. A regional planning commission shall review and approve plans of its
+3 member municipalities, when approval is requested and warranted. Each
+4 review shall include a public hearing which that is noticed at least 15 days in
+5 advance by posting in the office of the municipal clerk and at least one public
+6 place within the municipality and by publication in a newspaper or newspapers
+7 of general publication in the region affected. The commission shall approve a
+8 plan if it finds that the plan:
+9 (A) is consistent with the goals established in section 4302 of this
+10 title;
+11 (B) is compatible with its regional plan;
+12 (C) is compatible with approved plans of other municipalities in the
+13 region; and
+14 (D) contains all the elements included in subdivisions 4382(a)(1)–
+15 (12) of this title; and
+16 (E) if the municipality is seeking an optional determination of energy
+17 compliance, is consistent with section 4352 of this title and the enhanced
+18 energy planning standards.
+19 * * *
+VT LEG #387265 v.4
+
+BILL AS INTRODUCED H.940
+2026 Page 7 of 11
+1 Sec. 4. 24 V.S.A. § 4352 is amended to read:
+2 § 4352. OPTIONAL DETERMINATION OF ENERGY COMPLIANCE;
+3 ENHANCED ENERGY PLANNING
+4 * * *
+5 (c) Enhanced energy planning; requirements. To obtain an affirmative
+6 determination of energy compliance under this section, a plan must:
+7 (1) in the case of a regional plan, include the energy element as
+8 described in subdivision 4348a(a)(3) of this title;
+9 (2) in the case of a municipal plan, include an energy element that has
+10 the same components as described in subdivision 4348a(a)(3) of this title for a
+11 regional plan and be confirmed under section 4350 of this title;
+12 (3) be consistent with the following, with consistency determined in the
+13 manner described under subdivision 4302(f)(1) of this title:
+14 (A) Vermont’s greenhouse gas reduction goals requirements under
+15 10 V.S.A. § 578(a);
+16 (B) Vermont’s 25 by 25 goal for renewable energy under 10 V.S.A. §
+17 580 Renewable Energy Standard under 30 V.S.A. §§ 8004 and 8005;
+18 (C) Vermont’s building efficiency goals under 10 V.S.A. § 581; and
+19 (D) State energy policy under 30 V.S.A. § 202a and the
+20 recommendations for regional and municipal energy planning pertaining to the
+21 efficient use of energy and the siting and development of renewable energy
+VT LEG #387265 v.4
+
+BILL AS INTRODUCED H.940
+2026 Page 8 of 11
+1 resources contained in the State energy plans adopted pursuant to 30 V.S.A.
+2 §§ 202 and 202b; and
+3 (E) the distributed renewable generation and energy transformation
+4 categories of resources to meet the requirements of the Renewable Energy
+5 Standard under 30 V.S.A. §§ 8004 and 8005; and
+6 * * *
+7 (d) State energy plans; recommendations; standards.
+8 (1) The State energy plans Commissioner of Public Service shall include
+9 the issue recommendations for regional and municipal energy planning and the
+10 standards for issuing a determination of energy compliance described in
+11 subdivision (c)(3) of this section within one year after adopting or readopting
+12 the State Comprehensive Energy Plan adopted pursuant to 30 V.S.A. § 202b.
+13 These recommendations and standards shall be consistent with the State
+14 Comprehensive Energy Plan.
+15 * * *
+16 (e) Process for issuing determinations of energy compliance. Review of
+17 whether to issue a determination of energy compliance under this section shall
+18 include a public hearing noticed at least 15 days in advance by direct mail or
+19 electronically with proof of receipt to the requesting regional planning
+20 commission or municipal legislative body, posting on the website of the entity
+21 from which the determination is requested, and publication in a newspaper of
+VT LEG #387265 v.4
+
+BILL AS INTRODUCED H.940
+2026 Page 9 of 11
+1 general publication in the region or municipality affected consideration of
+2 comments received by the regional planning commission or municipality
+3 during the plan adoption process on consistency with this section, and with the
+4 enhanced energy planning standards. The Commissioner or regional planning
+5 commission shall issue the determination in writing within two months 60 days
+6 after the receipt of a request for a determination. If the determination is
+7 negative, the Commissioner or regional planning commission shall state the
+8 reasons for denial in writing and, if appropriate, suggest acceptable
+9 modifications. Submissions for a new determination that follow a negative
+10 determination shall receive a new determination within 45 days.
+11 * * *
+12 (g) Municipality; determination from DPS; time-limited option. Until July
+13 1, 2018, a municipality whose plan has been confirmed under section 4350 of
+14 this title may seek issuance of a determination of energy compliance from the
+15 Commissioner of Public Service if it is a member of a regional planning
+16 commission whose regional plan has not received such a determination.
+17 (1) The Commissioner shall issue an affirmative determination of energy
+18 compliance for the municipal plan on finding that the plan meets the
+19 requirements of subsection (c) of this section. The Commissioner’s review of
+20 the municipal plan shall be for the purpose only of determining whether a
+VT LEG #387265 v.4
+
+BILL AS INTRODUCED H.940
+2026 Page 10 of 11
+1 determination of energy compliance should be issued because those
+2 requirements are met.
+3 (2) A municipality aggrieved by an act or decision of the Commissioner
+4 under this subsection may appeal in accordance with the procedures of
+5 subsection (f) of this section.
+6 (h) Determination; time period. An affirmative determination of energy
+7 compliance issued pursuant to this section shall remain in effect until the end
+8 of the period for expiration or readoption of the plan to which it applies, with
+9 the following exceptions:
+10 (1) The regional planning commission or municipal legislative body has
+11 adopted a plan with an updated energy element and notified the appropriate
+12 body of its intent to request a determination of energy compliance at least 30
+13 days prior to the first public hearing on that plan. In this case, the
+14 Commissioner of Public Service or regional planning commission may choose
+15 to offer the requesting body a provisional affirmative determination of energy
+16 compliance that shall remain in effect for two months following the adoption
+17 of the new plan.
+18 (2) In the event a regional or municipal plan is readopted without
+19 updates to the energy element or chapter that impact the plan’s existing
+20 affirmative determination, the affirmative determination shall be extended to
+21 the expiration date of the readopted plan. The regional planning commission
+VT LEG #387265 v.4
+
+BILL AS INTRODUCED H.940
+2026 Page 11 of 11
+1 or municipality shall seek an opinion from the Department or regional planning
+2 commission that a new determination of energy compliance is not required,
+3 and shall seek a new determination of energy compliance if determined
+4 necessary by the Department or regional planning commission.
+5 Notwithstanding the opinion, a new determination of energy compliance shall
+6 be required if the standards for issuing a determination of energy compliance
+7 have been revised since the last affirmative determination of energy
+8 compliance was issued.
+9 (i)(h) Commissioner; consultation. In the discharge of the duties assigned
+10 under this section, the Commissioner shall may consult with and solicit the
+11 recommendations of the Secretaries of Agriculture, Food and Markets, of
+12 Commerce and Community Development, of Natural Resources, and of
+13 Transportation.
+14 Sec. 5. REPEAL
+15 30 V.S.A. § 202f (establishing the Telecommunications and Connectivity
+16 Advisory Board) is repealed.
+17 * * * Effective Date * * *
+18 Sec. 6. EFFECTIVE DATE
+19 This act shall take effect on passage.
+VT LEG #387265 v.4

@@ -1,0 +1,219 @@
+Title: 
+Official Title: 
+Source: versions - House Proposal of Amendment (OfficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House Proposal of Amendment
+S. 60
+An act relating to establishing the Farm Security Special Fund to provide
+grants for farm losses due to weather conditions
+The House proposes to the Senate to amend the bill by striking out all after
+the enacting clause and inserting in lieu thereof the following:
+Sec. 1. FINDINGS
+The General Assembly finds that:
+(1) In 2023 and 2024, Vermont experienced extreme flooding and other
+weather-based disasters that devastated farms and other working lands
+businesses across the State.
+(2) Many existing State and federal programs that are designed to
+support farms and forestry operations are difficult to access, are
+administratively burdensome, are not equitably distributed to small- and
+medium-scale farmers and forestry operations, and currently do not meet the
+needs of Vermont farmers and forestry operations in a holistic way.
+(3) In particular, because federal crop insurance programs are not
+designed to serve the needs of smaller scale or more diversified farming
+operations, many Vermont farmers are not covered by crop insurance.
+(4) The State should establish a permanent funding support program to:
+(A) maintain the viability of farms and forestry operations in
+Vermont in order to ensure food security, resilience, rural economic vitality,
+and environmental health;
+(B) continuously invest in farms and forestry operations in a way that
+makes them more resilient to current and future challenges; and
+(C) provide a source of relief funds permanently available to farmers
+and forestry operations impacted by weather-based emergencies.
+Sec. 2. 6 V.S.A. chapter 207 is amended to read:
+CHAPTER 207. PROMOTION AND, MARKETING, AND SUPPORT OF
+VERMONT FARMS, FOODS, AND PRODUCTS
+* * *
+Subchapter 5. Farm and Forestry Operations Security Special Fund
+§ 4641. DEFINITIONS
+As used in this subchapter:
+
+(1) “Eligible weather condition” means any of the following weather
+conditions that are found to be closely correlated with agricultural or forest
+operation income losses:
+(A) high winds;
+(B) excessive moisture, intense precipitation, or flooding;
+(C) extreme heat;
+(D) abnormal freeze conditions;
+(E) a forest fire or wild fire event;
+(F) hail;
+(G) drought; or
+(H) any other severe weather or growing conditions impacting
+agricultural or forestry operations income, as determined by the Review
+Board.
+(2) “Farm” means a parcel or parcels of land owned, leased, or managed
+by a person and devoted primarily to farming and that is subject to regulation
+under the Required Agricultural Practices.
+(3) “Farm and Forestry Operations Security Special Fund Review
+Board” or “Review Board” means the Board established under section 4644 of
+this title.
+(4) “Farming” has the same meaning as in section 2.16 of the Required
+Agricultural Practices.
+(5) “Forestry operation” has the same meaning as in 10 V.S.A. § 2602.
+§ 4642. FARM AND FORESTRY OPERATIONS SECURITY SPECIAL
+FUND
+(a) There is established the Farm and Forestry Operations Security Special
+Fund to be administered by the Secretary of Agriculture, Food and Markets
+and that shall be managed in accordance with 32 V.S.A. chapter 7, subchapter
+5. The Fund shall consist of:
+(1) funds transferred by the General Assembly;
+(2) funds from public and private sources that the Secretary accepts for
+the Fund; and
+(3) funds from federal government aid for State support of farmers or
+forestry operations suffering income loss due to weather conditions.
+
+(b) The Secretary of Agriculture, Food and Markets shall ensure language
+accessibility of the Fund through procurement and provision of interpretation
+and translation services.
+(c) All balances in the Fund at the end of any fiscal year shall be carried
+forward and remain part of the Fund.
+§ 4643. FARM AND FORESTRY OPERATIONS SECURITY SPECIAL
+FUND; PAYMENTS
+(a) The Secretary, after consultation with the Review Board, shall award
+payments from the Farm and Forestry Operations Security Special Fund to
+persons owning farms and forestry operations that have incurred financial
+losses or expenses due to an eligible weather condition.
+(1) Payments from the Fund shall be in an amount that reimburses a
+farm or forestry operation for up to 50 percent of the unreimbursed, uninsured,
+or otherwise uncovered losses due to eligible weather conditions, up to a
+maximum annual award of five percent of the undesignated and unreserved
+funds in the Farm and Forestry Operations Security Special Fund at the
+beginning of each fiscal year, provided that the award shall not exceed
+$150,000.00 per qualified applicant farm or forestry operation per year.
+(2) The Secretary may verify the occurrence of an eligible weather
+condition claimed under this section through a site visit or through use of
+available data from the National Oceanic and Atmospheric Administration,
+from other federal or State certified weather data sources, or from other public
+or private weather or satellite data or models.
+(3) Losses reimbursable by a payment under this section include:
+(A) wages or compensation;
+(B) replacement of lost income from destroyed crops, impacted
+livestock, or timber;
+(C) debt payments or other ongoing expenses;
+(D) costs of replanting;
+(E) livestock feed replacement costs;
+(F) infrastructure or equipment repair and replacement;
+(G) repair of farm roads, roads necessary to access farms, repair of
+washed out or otherwise damaged logging roads;
+(H) inability to access harvested timber due to flooding or other
+weather conditions; and
+(I) other losses as determined by the Secretary after consultation with
+the Review Board.
+
+(b) The Secretary shall develop a streamlined application for awards under
+this section that shall include:
+(1) a brief description of the damage that occurred;
+(2) attestation of an eligible weather condition or event;
+(3) a list of any State grants or loans received for the purposes of the
+farm or forestry operation business in the past five years, to include amount,
+source, and purposes of the funding received;
+(4) an estimate of losses; and
+(5) a year-end report of farm or forestry operation income and expenses.
+(c) An application for an award under this section may be made at any
+time, and the Secretary may only close the application process upon award of
+all appropriated funds for the relevant fiscal year.
+(d) Applications for an award under this section shall be processed in the
+order received for each quarter, but an application shall not be ready for
+evaluation until the Secretary determines that the application is
+administratively complete and includes all documentation required by the
+Secretary.
+(e) All administratively complete applications shall be evaluated by the
+Review Board. Within 15 days following receipt of an administratively
+complete application, the Review Board by majority vote shall recommend to
+the Secretary whether to issue a payment to the applicant. If the Review Board
+recommends an award under this section, the Secretary shall issue the award
+within 15 days following the date of the Review Board’s recommendation.
+(f) The Secretary of Agriculture, Food and Markets may pay reasonable
+administrative expenses from the Fund for purposes of administering the
+requirements of this subchapter.
+§ 4644. FARM AND FORESTRY OPERATIONS SECURITY SPECIAL
+FUND REVIEW BOARD
+(a) Creation. There is created the Farm and Forestry Operations Security
+Special Fund Review Board, which for administrative purposes shall be
+attached to the Agency of Agriculture, Food and Markets.
+(b) Organization of Board. The Board shall be composed of:
+(1) the Secretary of Agriculture, Food and Markets or designee, who
+shall serve as chair;
+(2) the Commissioner of Forests, Parks and Recreation or designee;
+(3) the State Chief Recovery Officer or designee;
+
+(4) representatives of three agricultural organizations who can
+demonstrate expertise in dealing with all sizes and types of farms in Vermont,
+whether through granting funds, offering technical assistance, or advocacy, and
+who have a proven track record of working with farmers, appointed by the
+Secretary of Agriculture, Food and Markets;
+(5) two farmers who have received relief funding, appointed by the
+Secretary of Agriculture, Food and Markets; and
+(6) two forestry operators, appointed by the Commissioner of Forests,
+Parks and Recreation.
+(c) Member terms; conflict.
+(1) The members designated in subdivision (b)(4) of this section shall
+be appointed to initial terms of two years. Thereafter, each appointed member
+shall serve a term of three years or until the member’s earlier resignation or
+removal. The members designated in subdivision (b)(5) of this section shall be
+appointed to initial terms of one year. The members designated in subdivision
+(b)(6) of this section shall be appointed to initial terms of two years.
+Thereafter, each appointed member shall serve a term of three years or until
+the member’s earlier resignation or removal. A vacancy shall be filled by the
+appointing authority for the remainder of the unexpired term. An appointed
+member shall not serve more than three consecutive three-year terms.
+(2) If a Board member has a conflict of interest, as that term is defined
+by 3 V.S.A. § 1201, regarding review of any application for a payment under
+this section, the Secretary of Agriculture, Food and Markets may appoint an
+alternate member to maintain a quorum of the Board to review an application
+and recommend whether payment should be awarded.
+(d) Powers.
+(1) The Review Board shall review applications for assistance under this
+section, assess the accuracy and validity of the applications, and recommend to
+the Secretary applicants who should receive assistance under this section.
+(2) The Board annually shall report to the House Committee on
+Agriculture, Food Resiliency, and Forestry and the Senate Committee on
+Agriculture the total documented Vermont farm and forestry operations
+financial losses from eligible weather conditions averaged over the previous
+three calendar years.
+(3) In order to ensure that the Fund is meeting the needs of Vermont’s
+agricultural community and forestry operations community, the Review Board
+annually shall review the application process, eligibility criteria, distribution,
+and accessibility of the Fund. The Review Board annually shall recommend to
+the House Committee on Agriculture, Food Resiliency, and Forestry and the
+
+Senate Committee on Agriculture ways to improve the effectiveness of the
+Fund.
+(e) Officers; committees. The Board may elect officers, establish one or
+more committees or subcommittees, and adopt such procedural rules as it shall
+determine necessary and appropriate to perform its work.
+(f) Quorum; meetings; voting. A majority of the sitting members shall
+constitute a quorum, and action taken by the Board may be authorized by a
+majority of the members present and voting at any regular or special meeting
+at which a quorum is present. The Board may meet as an advisory body under
+1 V.S.A. chapter 5, subchapter 2.
+(g) Compensation. Private sector members shall be entitled to per diem
+compensation authorized under 32 V.S.A. § 1010(b) for each day spent in the
+performance of their duties, and each member shall be reimbursed from the
+Fund for the member’s actual and necessary expenses incurred in carrying out
+the member’s duties.
+Sec. 2a. CONTINGENCY OF FUNDING
+The duty to implement Sec. 2 of this act (Farm and Forestry Operations
+Security Special Fund) is contingent upon an appropriation of funds in fiscal
+year 2027 or subsequent fiscal years from the General Fund to the Agency of
+Agriculture, Food and Markets for the specific purposes described in Sec. 2 of
+this act.
+Sec. 3. EFFECTIVE DATE
+This act shall take effect on July 1, 2026.
+and that after passage the title of the bill be amended to read: “An act
+relating to establishing the Farm and Forestry Operations Security Special
+Fund to provide payments for farm and forestry operation losses due to
+weather conditions”

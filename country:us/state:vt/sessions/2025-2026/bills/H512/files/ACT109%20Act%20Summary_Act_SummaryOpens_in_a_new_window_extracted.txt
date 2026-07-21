@@ -1,0 +1,50 @@
+Title: 
+Official Title: 
+Source: versions - Act SummaryOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Act No. 109 Page 1 of 1
+2026
+This act summary is provided for the convenience of the public and members of the General Assembly. It
+is intended to provide a general summary of the act and may not be exhaustive. It has been prepared by the
+staff of the Office of Legislative Counsel without input from members of the General Assembly. It is not
+intended to aid in the interpretation of legislation or to serve as a source of legislative intent.
+Act No. 109 (H.512). An act relating to the regulation of the event ticketing market
+Subjects: Commerce and trade; consumer protection; event ticketing
+This act creates a new subchapter, subchapter 2B, within the Consumer Protection
+chapter in Title 9, Commerce and Trade. The new subchapter governs the resale of event
+tickets.
+First the act requires ticket issuers to disclose on the face of a ticket the total price of
+the original ticket. The act also requires a secondary ticket exchange to disclose that the
+customer is purchasing the ticket from the ticket issuer or a reseller, as the case may be;
+that the ticket price is limited by 9 V.S.A. § 2479f; and, if the secondary ticket exchange
+provides information about the number or percentage of available tickets, that the
+information shall not mislead customers about the availability of tickets on the secondary
+ticket exchange or other platforms. “Secondary ticket exchange” is defined as an
+electronic marketplace enabling the sale, purchase, and resale of tickets.
+Second, the act prohibits a ticket reseller from selling or offering a ticket for sale at a
+price greater than 110 percent of the price of an original ticket. The act prohibits a
+secondary ticket exchange from authorizing for resale on the exchange a ticket priced at
+greater than 110 percent of the price of the original ticket. The price caps in the act only
+apply to the resale of tickets where the event is held at an independent venue, as defined,
+and where the seating capacity of the venue is 3,000 individuals or fewer; the event is at a
+nonprofit venue that hosts agricultural fairs, exhibitions, or multiday community events
+in addition to live performances; or the venue is primarily used for collegiate or amateur
+sports. The cap on resale prices does not apply to the resale of tickets under a written
+contract with the ticket issuer. The definition of reseller excludes individuals reselling a
+ticket purchased for personal use.
+Third, the act makes it unlawful to use deceptive website addresses or imply
+endorsement or ownership of any intellectual property of a venue or artist or to state or
+imply an affiliation or endorsement by a venue, team, or artist without express written
+consent.
+Fourth, the act makes it unlawful for any person to sell or offer for sale speculative
+tickets, which is defined as a ticket not in the actual or constructive possession at the time
+a person lists, advertises, or offers the ticket for sale or resale.
+A violation of the act is an unfair and deceptive act in commerce in violation of
+9 V.S.A. § 2453.
+Lastly, the act provides a sunset repeal of the entire subchapter 2B on July 1, 2028.
+Effective Date: July 1, 2026
+VT LEG #390231 v.2

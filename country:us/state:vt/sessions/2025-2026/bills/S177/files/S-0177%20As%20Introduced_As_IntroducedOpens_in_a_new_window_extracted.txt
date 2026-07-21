@@ -1,0 +1,788 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED S.177
+2026 Page 1 of 33
+1 S.177
+2 Introduced by Senator White
+3 Referred to Committee on
+4 Date:
+5 Subject: Conservation and development; solid waste; extended producer
+6 responsibility; motor vehicle tires
+7 Statement of purpose of bill as introduced: This bill proposes to establish an
+8 extended producer responsibility program for waste motor vehicle tires.
+9 An act relating to the collection and recycling of waste motor vehicle tires
+10 It is hereby enacted by the General Assembly of the State of Vermont:
+11 Sec. 1. 10 V.S.A. chapter 169 is added to read:
+12 CHAPTER 169. COLLECTION AND RECYCLING
+13 OF WASTE MOTOR VEHICLE TIRES
+14 Subchapter 1. Definitions
+15 § 7601. DEFINITIONS
+16 As used in this chapter:
+17 (1) “Agency” means the Agency of Natural Resources.
+18 (2) “Brand” means a name, symbol, word, or traceable mark
+19 that identifies a motor vehicle tire and attributes the motor vehicle tire to the
+20 owner or licensee of the brand as the manufacturer.
+VT LEG #385841 v.1
+
+BILL AS INTRODUCED S.177
+2026 Page 2 of 33
+1 (3) “Collection rate” means a percentage of the number of waste tires
+2 that each manufacturer or waste tire stewardship organization collects by an
+3 established date. The collection rate is calculated by dividing the total number
+4 of the waste tires that are collected during a calendar year by the average
+5 number of motor vehicle tires that were estimated to have been sold in the
+6 State by participating manufacturers during the previous three calendar years.
+7 Estimates of motor vehicle tires sold in the State may be based on a reasonable
+8 pro rata calculation based on national sales.
+9 (4) “Covered entity” means any person that presents or delivers any
+10 number of waste tires to a collection facility that is included in an approved
+11 waste tire stewardship plan.
+12 (5) “Legacy waste tire pile” means an accumulation of 50 or more waste
+13 tires, whether or not they are lying upon another, that:
+14 (A) is located on a parcel of real property, other than a parcel used by
+15 a person engaged in farming, as that term is defined in section 6001 of this
+16 title, when the person engaged in farming has sliced the tires to prevent the
+17 holding of water and the sliced tires are currently in use annually for the
+18 practice of holding down silage bunkers; and
+19 (B) is not enclosed by a building.
+VT LEG #385841 v.1
+
+BILL AS INTRODUCED S.177
+2026 Page 3 of 33
+1 (6) “Manufacturer” means a person that:
+2 (A) manufactures or manufactured a motor vehicle tire under the
+3 person’s own brand or label for sale in the State;
+4 (B) sells in the State under its own brand or label a motor vehicle tire
+5 produced by another supplier;
+6 (C) owns a brand that the person licenses or licensed to another
+7 person for use on a motor vehicle tire sold in the State;
+8 (D) imports into the United States for sale in the State a motor
+9 vehicle tire manufactured by a person without a presence in the United States;
+10 (E) manufactures a motor vehicle tire for sale in the State without
+11 affixing a brand name; or
+12 (F) assumes the responsibilities, obligations, and liabilities of a
+13 manufacturer as defined under subdivisions (A) through (E) of this subdivision
+14 (6), provided that the Secretary may enforce the requirements of this chapter
+15 against a manufacturer as defined under subdivisions (A) through (E) of this
+16 subdivision (6) if a person that assumes the manufacturer’s responsibilities
+17 fails to comply with the requirements of this chapter.
+18 (7) “Motorized electric-powered bicycle or tricycle” means a bicycle or
+19 tricycle that is equipped with an assistance motor that has a maximum piston
+20 displacement of 48 cubic centimeters or less, that may also be self-propelled,
+21 and that is operated at speeds of less than 20 miles per hour.
+VT LEG #385841 v.1
+
+BILL AS INTRODUCED S.177
+2026 Page 4 of 33
+1 (8) “Motor vehicle” means all vehicles operated in the State that are
+2 propelled or drawn by power other than muscular power.
+3 (A) “Motor vehicle” includes:
+4 (i) “all-terrain vehicles,” which has the same meaning as in
+5 23 V.S.A. § 3501(1);
+6 (ii) “motorcycles,” which has the same meaning as in 23 V.S.A.
+7 § 4(18);
+8 (iii) farm tractors and farm trailers; and
+9 (iv) “motor-driven cycles,” which has the same meaning as in
+10 23 V.S.A. § 4(45)(A).
+11 (B) “Motor vehicle” does not mean:
+12 (i) an “electric personal assistive mobility device,” which has the
+13 same meaning as in 23 V.S.A. § 4(66);
+14 (ii) an “electric bicycle,” which has the same meaning as in
+15 23 V.S.A. § 4(46)(A);
+16 (iii) a “motor-assisted bicycle,” which has the same meaning as in
+17 23 V.S.A. § 4(45)(B)(i), or a motor-assisted bicycle that has been modified to
+18 meet the physical needs or abilities of the operator or a passenger;
+19 (iv) an “adaptive electric cycle,” which has the same meaning as
+20 in 19 V.S.A. § 2901;
+VT LEG #385841 v.1
+
+BILL AS INTRODUCED S.177
+2026 Page 5 of 33
+1 (v) a lawn mower; or
+2 (vi) a specialized construction vehicle, such as motorized highway
+3 building equipment, a road-making appliance, a tracked vehicle, or an aircraft
+4 pushback tractor.
+5 (9) “Motor vehicle tire” means a tire designed for on-road use on a
+6 motor vehicle.
+7 (10) “Retailer” means a person that sells a motor vehicle tire to a person
+8 in the State through any means, including a sales outlet, a catalogue, the
+9 telephone, the internet, or any electronic means.
+10 (11) “Secretary” means the Secretary of Natural Resources.
+11 (12) “Sell” or “sale” means any transfer to a person for consideration of
+12 title or of the right of a person to use by lease or sales contract a motor vehicle
+13 tire in the State of Vermont. “Sell” or “sale” does not include the sale, resale,
+14 lease, or transfer of a used motor vehicle tire or a manufacturer’s or a
+15 distributor’s wholesale transaction with a distributor or a retailer.
+16 (13) “Tire” means a continuous solid or pneumatic rubber covering
+17 encircling the wheel of a motor vehicle.
+18 (14) “Waste tire” means a motor vehicle tire that has been removed
+19 from a motor vehicle and is no longer suitable for its original purpose because
+20 of wear, tear, damage, defect, or another reason.
+VT LEG #385841 v.1
+
+BILL AS INTRODUCED S.177
+2026 Page 6 of 33
+1 (15) “Waste tire stewardship organization” or “stewardship
+2 organization” means an organization appointed by one or more manufacturers
+3 to act as an agency on behalf of a manufacturer or manufacturers to design,
+4 submit, implement, and administer a waste tire stewardship plan under this
+5 chapter.
+6 Subchapter 2. Waste Tire Stewardship Program
+7 § 7604. SALE OF MOTOR VEHICLE TIRES; STEWARDSHIP
+8 ORGANIZATION REGISTRATION
+9 Sale prohibited. Beginning on January 1, 2028, except as set forth under
+10 section 7609 of this title, a manufacturer of a motor vehicle tire shall not sell,
+11 offer for sale, or deliver to a retailer for subsequent sale a motor vehicle tire
+12 unless all the following have been met:
+13 (1) The manufacturer is:
+14 (A) implementing an approved waste tire stewardship plan; or
+15 (B) participating in a waste tire stewardship organization that is
+16 registered with the Secretary and that is implementing an approved waste tire
+17 stewardship plan.
+18 (2) The manufacturer or waste tire stewardship organization has paid the
+19 fee under section 7620 of this title.
+VT LEG #385841 v.1
+
+BILL AS INTRODUCED S.177
+2026 Page 7 of 33
+1 (3) The name of the manufacturer and the manufacturer’s brands are
+2 designated on the Agency website as covered by an approved waste tire
+3 stewardship plan.
+4 § 7605. REGISTRATION OF MANUFACTURER OR WASTE TIRE
+5 STEWARDSHIP ORGANIZATION
+6 (a) Manufacturer registration requirements. On or before July 1, 2027, and
+7 annually thereafter, a manufacturer of motor vehicle tires sold or offered for
+8 sale in the State shall register with the Secretary.
+9 (b) Waste tire stewardship organization registration. A manufacturer of
+10 motor vehicle tires may meet the requirements of this chapter by participating
+11 in a waste tire stewardship organization that registers with the Secretary on or
+12 before July 1, 2027, and annually thereafter, and that meets the requirements of
+13 section 7606 of this title.
+14 (c) Registration form. The Secretary shall provide the registration form to
+15 the manufacturer or waste tire stewardship organization. The registration form
+16 shall include:
+17 (1) for a manufacturer registering independently:
+18 (A) a list of the manufacturer’s brands offered for sale in the
+19 State; and
+20 (B) the name, address, and contact information of a person
+21 responsible for ensuring the manufacturer’s compliance with this chapter; and
+VT LEG #385841 v.1
+
+BILL AS INTRODUCED S.177
+2026 Page 8 of 33
+1 (2) for a waste tire stewardship organization:
+2 (A) a list of the manufacturers participating in the waste tire
+3 stewardship organization;
+4 (B) the name, address, and contact information of a person
+5 responsible for ensuring each participating manufacturer’s compliance with
+6 this chapter;
+7 (C) a description of how the waste tire stewardship organization
+8 meets the requirements of sections 7604, 7607, and 7608 of this title for
+9 manufacturers, including any reasonable requirements for participation in the
+10 waste tire stewardship organization; and
+11 (D) the name, address, and contact information of a person whom a
+12 nonmember manufacturer can contact regarding how to participate in the waste
+13 tire stewardship organization as a method of satisfying the requirements of this
+14 chapter.
+15 (d) Renewal of registration. A manufacturer or waste tire stewardship
+16 organization may renew a registration without changes by notifying the
+17 Agency of Natural Resources on a form provided by the Secretary.
+VT LEG #385841 v.1
+
+BILL AS INTRODUCED S.177
+2026 Page 9 of 33
+1 § 7606. WASTE TIRE STEWARDSHIP ORGANIZATIONS;
+2 REQUIREMENTS
+3 Qualifications for a waste tire stewardship organization. To qualify as a
+4 waste tire stewardship organization under this chapter, a stewardship
+5 organization shall:
+6 (1) commit to assume the responsibilities, obligations, and liabilities of
+7 the manufacturers participating in the waste tire stewardship organization;
+8 (2) not create unreasonable barriers for participation by manufacturers in
+9 the waste tire stewardship organization;
+10 (3) maintain a public website that lists all manufacturers and
+11 manufacturers’ brands covered by the waste tire stewardship organization’s
+12 approved waste tire stewardship plan; and
+13 (4) register with the Secretary as required under section 7605 of
+14 this title.
+15 § 7607. WASTE TIRE STEWARDSHIP PLANS
+16 (a) Stewardship plan required. On or before October 1, 2027, each
+17 manufacturer selling, offering for sale, distributing, or offering for promotional
+18 purposes a motor vehicle tire in the State shall individually or as part of a
+19 waste tire stewardship organization submit a waste tire stewardship plan to the
+20 Secretary for review.
+VT LEG #385841 v.1
+
+BILL AS INTRODUCED S.177
+2026 Page 10 of 33
+1 (b) Waste tire stewardship plan; minimum requirements. Each waste tire
+2 stewardship plan shall include, at a minimum, all of the following elements:
+3 (1) List of manufacturers and brands. Each waste tire stewardship plan
+4 shall list:
+5 (A) all participating manufacturers and contact information for each
+6 of the participating manufacturers; and
+7 (B) the brands of motor vehicle tires covered by the stewardship plan.
+8 (2) Free collection of waste tires. Each waste tire stewardship plan shall
+9 provide for the collection of waste tires from covered entities at no cost to
+10 covered entities. A manufacturer shall not refuse the collection of a waste tire
+11 based on the brand or manufacturer of the motor vehicle tire.
+12 (3) Convenient collection location. Each waste tire stewardship
+13 plan shall:
+14 (A) Provide for notification of all retailers of the opportunity to
+15 participate at no cost as a collection location under the plan.
+16 (B) Allow all retailers that meet the requirements specified in the
+17 plan, all municipalities, and all certified solid waste management facilities to
+18 opt to be a collection facility under the plan at no cost to the retailer,
+19 municipality, or certified solid waste management facility.
+VT LEG #385841 v.1
+
+BILL AS INTRODUCED S.177
+2026 Page 11 of 33
+1 (C) Provide, at a minimum, in each county of the State not fewer than
+2 two collection facilities that provide for the collection of waste tires throughout
+3 the year. All collection facilities shall be specified in the plan.
+4 (D) Provide for the acceptance from a covered entity of up to 12
+5 waste tires per visit. A collection facility may agree to accept more than 12
+6 waste tires per visit.
+7 (4) Legacy waste tire pile response. Each waste tire stewardship plan
+8 shall include a proposed method of collecting tires from or eliminating legacy
+9 waste tire piles in the State. Proposed methods may include financial
+10 payments to property owners, bounties on collection, or other incentives.
+11 (5) Collection rate. Each waste tire stewardship plan shall include a
+12 collection rate performance goal approved by the Secretary. In the first year of
+13 the plan, manufacturers shall have a collection rate performance goal of 50
+14 percent of the participating manufacturer’s motor vehicle tires sold, by unit, in
+15 the State in the previous calendar year.
+16 (6) Method of disposition. Each waste tire stewardship plan shall
+17 include a description of the method that will be used to manage waste tires
+18 responsibly. A manufacturer or waste tire stewardship organization shall
+19 recycle or reuse at least 50 percent of collected waste tires, provided that the
+20 use of waste tires as tire-derived fuel shall not be considered reuse or
+21 recycling.
+VT LEG #385841 v.1
+
+BILL AS INTRODUCED S.177
+2026 Page 12 of 33
+1 (7) Education and outreach. Each waste tire stewardship plan shall
+2 include an education and outreach program that may include media
+3 advertising, retail displays, articles in publications, and other public
+4 educational efforts. At a minimum, the education and outreach program shall
+5 notify the public of the following:
+6 (A) that there is a free collection program for waste tires;
+7 (B) the location of collection points for waste tires and how a covered
+8 entity can access the collection program; and
+9 (C) the opportunity for retailers, manufacturers, and certified solid
+10 waste management facilities to participate in a waste tire stewardship plan at
+11 no cost.
+12 (8) Compliance with appropriate environmental standards. In
+13 implementing a waste tire stewardship plan, a manufacturer shall comply with
+14 all applicable laws related to the collection, transportation, and disposal of
+15 waste tires.
+16 (9) Reimbursement. A waste tire stewardship plan shall include
+17 a reimbursement procedure that is consistent with the requirements of
+18 subchapter 3 of this chapter.
+19 (c) Implementation. A manufacturer or a waste tire stewardship
+20 organization shall include provisions in the waste tire stewardship plan for the
+21 implementation of the program in conjunction with those retailers,
+VT LEG #385841 v.1
+
+BILL AS INTRODUCED S.177
+2026 Page 13 of 33
+1 municipalities, and certified solid waste management facilities acting as
+2 collection facilities under a program. A manufacturer or waste tire stewardship
+3 organization shall not impose transportation or recycling costs on retailers,
+4 municipalities, or certified solid waste management facilities acting as
+5 collection facilities under a program. A manufacturer or waste tire stewardship
+6 organization shall provide retailers, municipalities, and certified solid waste
+7 management facilities acting as collection facilities with products or equipment
+8 for setting up a collection point and for providing for the pickup of collected
+9 waste tires, including arranging for the management of those waste tires.
+10 (d) Term of waste tire stewardship plan. A stewardship plan approved by
+11 the Secretary under section 7610 of this title shall have a term not to exceed
+12 five years, provided that the manufacturer remains in compliance with the
+13 requirements of this chapter and the terms of the approved plan.
+14 § 7608. ANNUAL REPORT; PLAN AUDIT
+15 (a) Annual report. On or before March 1, 2029, and annually thereafter, a
+16 manufacturer of motor vehicle tires or a waste tire stewardship organization
+17 representing manufacturers of motor vehicle tires shall submit a report to the
+18 Secretary that contains the following:
+19 (1) the estimated total number of motor vehicle tires sold in the State in
+20 the previous calendar year;
+VT LEG #385841 v.1
+
+BILL AS INTRODUCED S.177
+2026 Page 14 of 33
+1 (2) the number of waste tires collected by the manufacturer or the waste
+2 tire stewardship organization in the prior calendar year;
+3 (3) the collection rate achieved in the prior calendar year under the
+4 waste tire stewardship plan;
+5 (4) the locations for all collection points set up by the manufacturer or
+6 the waste tire stewardship organization and contact information for each
+7 location;
+8 (5) examples and a description of the educational materials used to
+9 increase collection;
+10 (6) the manner in which the collected waste tires were managed,
+11 including:
+12 (A) the number of waste tires collected from legacy waste tire piles;
+13 (B) the number of collected waste tires recycled or reused; and
+14 (C) the number of collected waste tires disposed of as tire-derived
+15 fuel or otherwise incinerated;
+16 (7) any material change to the waste tire stewardship plan approved by
+17 the Secretary under section 7610 of this title; and
+18 (8) the cost of implementation of the waste tire stewardship plan,
+19 including the costs of collection, recycling, education, and outreach.
+20 (b) Plan audit. Beginning on January 1, 2033, and every five years
+21 thereafter, a manufacturer or waste tire stewardship organization shall hire an
+VT LEG #385841 v.1
+
+BILL AS INTRODUCED S.177
+2026 Page 15 of 33
+1 independent third party to audit the plan and plan operation. The auditor shall
+2 examine the effectiveness of the plan in collecting and disposing of waste tires.
+3 The auditor shall examine the cost-effectiveness of the plan and compare it to
+4 that of waste tire stewardship plans in other jurisdictions. The auditor shall
+5 make recommendations to the Secretary on ways to increase the efficacy and
+6 cost-effectiveness of the waste tire stewardship plan.
+7 § 7609. NEW MANUFACTURERS; SMALL MANUFACTURERS
+8 (a) New manufacturers.
+9 (1) A manufacturer of a motor vehicle tire that, after January 1, 2028,
+10 seeks to sell, offer for sale, or offer for promotional purposes in the State a
+11 motor vehicle tire not previously sold in the State shall notify the Secretary
+12 prior to selling or offering for sale or promotion a motor vehicle tire not
+13 covered by an approved waste tire stewardship plan.
+14 (2) The Secretary shall list a manufacturer that supplies notice under this
+15 subsection as a “new manufacturer” on the Agency’s website. A manufacturer
+16 that supplies notice under this subsection shall have 90 days, not including the
+17 time required for public comment under subsection 7610(d) of this title, to
+18 either join an existing waste tire stewardship organization or submit a waste
+19 tire stewardship plan for approval to the Secretary.
+VT LEG #385841 v.1
+
+BILL AS INTRODUCED S.177
+2026 Page 16 of 33
+1 (b) Small manufacturers. A manufacturer that annually sells, offers for
+2 sale, or distributes in or imports into the State motor vehicles with a total retail
+3 value of less than $5,000.00 is exempt from the requirements of this chapter.
+4 § 7610. AGENCY RESPONSIBILITIES
+5 (a) Review and approval of stewardship plans. The Secretary shall review
+6 and approve or deny waste tire stewardship plans submitted under section 7607
+7 of this title. The Secretary shall approve a waste tire stewardship plan if the
+8 Secretary finds that the plan:
+9 (1) complies with the requirements of subsection 7607(b) of this title;
+10 (2) provides adequate notice to the public of the collection opportunities
+11 available for waste tires;
+12 (3) ensures that the collection of waste tires will occur in an
+13 environmentally sound fashion that is consistent with the law; and
+14 (4) promotes the collection and disposal of waste tires.
+15 (b) Assessment of performance. The Secretary shall assess each
+16 manufacturer’s or waste tire stewardship organization’s performance under an
+17 approved waste tire stewardship plan, including whether a manufacturer or
+18 waste tire stewardship organization achieved the collection rate performance
+19 goal for the year. If a manufacturer or waste tire stewardship organization fails
+20 to achieve its collection rate performance goal, the Secretary shall impose a
+21 penalty under section 7612 of this title.
+VT LEG #385841 v.1
+
+BILL AS INTRODUCED S.177
+2026 Page 17 of 33
+1 (c) Plan amendment. The Secretary, in the Secretary’s discretion or at the
+2 request of a manufacturer or a waste tire stewardship organization, may require
+3 a manufacturer or a stewardship organization to amend an approved plan. The
+4 Secretary shall subject all plan amendments to the public input provisions of
+5 subsection (d) of this section.
+6 (d) Public input. Approval of or amendment to the waste tire stewardship
+7 plan shall be subject to the public input provisions of section 7714 of this title.
+8 (e) Registrations. The Secretary shall accept, review, and approve or deny
+9 the manufacturer registrations or the waste tire stewardship organization
+10 registrations required by this chapter. The Secretary may revoke a registration
+11 of a manufacturer or a waste tire stewardship organization for actions that are
+12 unreasonable, unnecessary, or contrary to the requirements or the policy of this
+13 chapter.
+14 (f) Supervisory capacity. The Secretary shall act in a supervisory capacity
+15 over the actions of a manufacturer or a waste tire stewardship organization
+16 registered under this chapter. In acting in this capacity, the Secretary shall
+17 review the actions of the manufacturer or the waste tire stewardship
+18 organization to ensure that they are reasonable, necessary, and limited to
+19 carrying out the requirements of and the policy established by this chapter.
+VT LEG #385841 v.1
+
+BILL AS INTRODUCED S.177
+2026 Page 18 of 33
+1 (g) Special handling requirements. The Secretary may adopt, by rule,
+2 special handling requirements for the collection, transport, and disposal of
+3 waste tires.
+4 (h) Approved plans; internet posting. The Secretary shall post on the
+5 Agency website the names of all manufacturers and manufacturers’ brands that
+6 are covered under an approved waste tire stewardship plan. For waste tire
+7 stewardship organizations, the Secretary may link to the list of manufacturers
+8 and manufacturers’ brands on the waste tire stewardship organization’s
+9 website.
+10 § 7611. RETAILER OBLIGATIONS
+11 (a) Sale prohibited. Except as set forth under subsection (b) of this section,
+12 beginning on January 1, 2028, no retailer shall sell or offer for sale a motor
+13 vehicle tire unless the producer of the motor vehicle tire is implementing an
+14 approved stewardship plan, is a member of a stewardship organization that is
+15 implementing an approved stewardship plan, or is exempt from participation in
+16 a plan.
+17 (b) Inventory exception; expiration or revocation of manufacturer
+18 registration. A retailer shall not be responsible for an unlawful sale of a motor
+19 vehicle tire under subsection (a) of this section if:
+20 (1) the retailer purchased the motor vehicle tire prior to January 1,
+21 2028; or
+VT LEG #385841 v.1
+
+BILL AS INTRODUCED S.177
+2026 Page 19 of 33
+1 (2) the manufacturer’s waste tire stewardship plan expired or was
+2 revoked, and the retailer took possession of the in-store inventory of motor
+3 vehicle tires prior to the expiration or revocation of the manufacturer’s waste
+4 tire stewardship plan.
+5 (c) Educational material. A manufacturer or waste tire stewardship
+6 organization supplying motor vehicle tires to a retailer shall provide the retailer
+7 with educational materials describing collection opportunities for waste tires.
+8 The retailer shall make the educational materials available to covered entities.
+9 § 7612. PENALTIES FOR FAILURE TO ACHIEVE COLLECTION
+10 PERFORMANCE GOAL
+11 (a) Assessment of penalty. The Secretary shall assess a penalty against a
+12 manufacturer or waste tire stewardship organization that fails to achieve the
+13 collection rate performance goal in its waste tire stewardship plan.
+14 (b) Amount of penalty. The Secretary shall assess a penalty under this
+15 section as follows:
+16 (1) If the manufacturer achieved less than 50 percent of the collection
+17 rate performance goal, the manufacturer shall pay a penalty of $1.00 per tire
+18 difference between the collection rate performance goal and the actual number
+19 of waste tires collected in the calendar year.
+20 (2) If the manufacturer achieved 50 percent or greater of the collection
+21 rate performance goal, the manufacturer shall pay a penalty of $0.50 per tire
+VT LEG #385841 v.1
+
+BILL AS INTRODUCED S.177
+2026 Page 20 of 33
+1 difference between the collection rate performance goal and the actual number
+2 of waste tires collected in the calendar year.
+3 (c) Disposition of penalties. The Secretary shall deposit penalties collected
+4 under this section in the Solid Waste Management Assistance Account of the
+5 Waste Management Assistance Fund for the proper disposal of waste tires as
+6 provided for in subdivision 6618(b)(10) of this title, including the elimination
+7 of legacy waste tire piles.
+8 Subchapter 3. Reimbursement and Cost Recovery
+9 § 7614. REIMBURSEMENT; AUTHORIZATION
+10 (a) Reimbursement of motor vehicle tire manufacturers.
+11 (1) A manufacturer or a waste tire stewardship organization operating
+12 under an approved waste tire stewardship plan that collects waste tires that are
+13 not listed under its approved waste tire stewardship plan is entitled to
+14 reimbursement from the manufacturer of the collected waste tires or the waste
+15 tire stewardship organization representing the manufacturer of the collected
+16 waste tires of reimbursable costs per tire incurred in collecting the waste tires.
+17 (2) Reimbursement may be requested by a collecting manufacturer or
+18 waste tire stewardship organization only after that manufacturer or stewardship
+19 organization has achieved the collection rate performance goal approved by the
+20 Secretary under section 7607 of this title.
+VT LEG #385841 v.1
+
+BILL AS INTRODUCED S.177
+2026 Page 21 of 33
+1 (b) Reimbursable costs. Under this subchapter, a manufacturer or a waste
+2 tire stewardship organization may seek reimbursement only for those costs
+3 incurred in collecting the waste tires subject to the reimbursement request.
+4 Reimbursable costs include:
+5 (1) costs of collection, transport, recycling, and other methods of
+6 disposition identified in an approved waste tire stewardship plan; and
+7 (2) reasonable educational, promotional, or administrative costs.
+8 § 7615. REIMBURSEMENT PROCESS
+9 (a) Reimbursement request.
+10 (1) A manufacturer or waste tire stewardship organization that incurs
+11 reimbursable costs under section 7614 of this title shall submit a request to the
+12 manufacturer of the collected waste tire or the waste tire stewardship
+13 organization in which the manufacturer of the collected waste tire is
+14 participating.
+15 (2) A manufacturer or waste tire stewardship organization that receives
+16 a request for reimbursement may, prior to payment and within 30 days after
+17 receipt of the request for reimbursement, request an independent audit of
+18 submitted reimbursement costs.
+19 (3) The independent auditor shall verify the reasonableness of the
+20 reimbursement request, including the costs sought for reimbursement, the
+VT LEG #385841 v.1
+
+BILL AS INTRODUCED S.177
+2026 Page 22 of 33
+1 amount of reimbursement, and the reimbursable costs assessed by each of the
+2 two programs.
+3 (4) If the independent audit confirms the reasonableness of the
+4 reimbursement request, the manufacturer or waste tire stewardship
+5 organization requesting the audit shall pay the cost of the audit and the amount
+6 of the reimbursement calculated by the independent auditor. If the
+7 independent audit indicates that the reimbursement request was not reasonable,
+8 the manufacturer or waste tire stewardship organization that initiated the
+9 reimbursement request shall pay the cost of the audit and the amount of the
+10 reimbursement calculated by the independent auditor.
+11 (b) Role of Agency. The Agency shall not provide assistance or otherwise
+12 participate in a reimbursement request, audit, or other action under this section,
+13 unless subject to subpoena before a court of jurisdiction.
+14 § 7616. PRIVATE RIGHT OF ACTION
+15 (a) Action against manufacturer with no waste tire stewardship plan. A
+16 manufacturer or waste tire stewardship organization implementing an approved
+17 waste tire stewardship plan in compliance with the requirements of this chapter
+18 may bring a civil action against another manufacturer or waste tire stewardship
+19 organization for damages when:
+20 (1) the plaintiff manufacturer or waste tire stewardship organization
+21 incurs more than $1,000.00 in actual reimbursable costs collecting, handling,
+VT LEG #385841 v.1
+
+BILL AS INTRODUCED S.177
+2026 Page 23 of 33
+1 recycling, or properly disposing of waste tires that were sold or offered for sale
+2 in the State by that other manufacturer; and
+3 (2) the manufacturer from which damages are sought:
+4 (A) can be identified as the manufacturer of the collected waste tires
+5 from a brand or marking on the waste tire or from other information available
+6 to the plaintiff manufacturer or waste tire stewardship organization; and
+7 (B) does not operate or participate in an approved waste tire
+8 stewardship organization in the State or is not otherwise in compliance with
+9 the requirements of this chapter.
+10 (b) Action against manufacturer with an approved waste tire stewardship
+11 plan. A manufacturer or waste tire stewardship organization in compliance
+12 with the requirements of this chapter may bring a civil action for damages
+13 against a manufacturer or waste tire stewardship organization in the State that
+14 is in compliance with the requirements of this chapter, provided that:
+15 (1) a plaintiff manufacturer or waste tire stewardship organization
+16 submitted a reimbursement request to another manufacturer or waste tire
+17 stewardship organization under section 7615 of this title; and
+18 (2) the manufacturer or waste tire stewardship organization does not
+19 receive reimbursement within:
+20 (A) 90 days after the reimbursement request, if no independent audit
+21 is requested under section 7615 of this title; or
+VT LEG #385841 v.1
+
+BILL AS INTRODUCED S.177
+2026 Page 24 of 33
+1 (B) 60 days after completion of an audit if an independent audit is
+2 requested under section 7615 of this title, and the audit confirms the validity of
+3 the reimbursement request.
+4 (c) Action against individual manufacturer.
+5 (1) A civil action under this section may be brought against an
+6 individual manufacturer only if the manufacturer is implementing its own
+7 waste tire stewardship plan or the manufacturer has failed to register to
+8 participate in a waste tire stewardship plan.
+9 (2) A manufacturer participating in an approved waste tire stewardship
+10 plan covering multiple manufacturers shall not be sued individually for
+11 reimbursement.
+12 (3) An action against a manufacturer participating in a waste tire
+13 stewardship plan covering multiple manufacturers shall be brought against the
+14 stewardship organization implementing the plan.
+15 (d) Role of Agency. The Agency shall not be a party to or be required to
+16 provide assistance or otherwise participate in a civil action authorized under
+17 this section solely due to its regulatory requirements under this chapter, unless
+18 subject to subpoena before a court of jurisdiction.
+19 (e) Damages; definition. As used in this section, “damages” means the
+20 actual, reimbursable costs a plaintiff manufacturer or waste tire stewardship
+21 organization incurs in collecting, handling, recycling, or properly disposing of
+VT LEG #385841 v.1
+
+BILL AS INTRODUCED S.177
+2026 Page 25 of 33
+1 waste tires reasonably identified as having originated from another
+2 manufacturer or waste tire stewardship organization.
+3 Subchapter 4. General Provisions
+4 § 7618. CONFIDENTIALITY OF SUBMITTED DATA
+5 (a) Confidentiality. The Secretary shall make the reports and data
+6 submitted under this chapter available for public inspection and copying,
+7 provided that:
+8 (1) information protected under the Uniform Trade Secrets Act, as
+9 codified under 9 V.S.A. chapter 143, or under the trade secret exemption under
+10 1 V.S.A. § 317(c)(9) shall be exempt from public inspection and copying under
+11 the Public Records Act; and
+12 (2) the Secretary may publish information that is confidential under
+13 subdivision (1) of this subsection in a summary or aggregated form that does
+14 not directly or indirectly identify individual manufacturers, distributors, or
+15 retailers.
+16 (b) Omission of trade secret information. The Secretary may require, as
+17 part of a report submitted under this chapter, that the manufacturer or waste
+18 tire stewardship organization submit a report that does not contain trade secret
+19 information and is available for public inspection and review.
+20 (c) Total number of waste tires. The total number of waste tires collected
+21 under an approved waste tire stewardship plan is not confidential business
+VT LEG #385841 v.1
+
+BILL AS INTRODUCED S.177
+2026 Page 26 of 33
+1 information under the Uniform Trade Secrets Act, as codified under 9 V.S.A.
+2 chapter 143, and is subject to inspection and review under the Public Records
+3 Act, 1 V.S.A. chapter 5, subchapter 3.
+4 § 7619. ANTITRUST; CONDUCT AUTHORIZED
+5 (a) Activity authorized. A manufacturer, a group of manufacturers, or a
+6 waste tire stewardship organization implementing or participating in an
+7 approved waste tire stewardship plan under this chapter for the collection,
+8 transport, processing, and end-of-life management of waste tires is individually
+9 or jointly immune from liability for conduct under State laws relating to
+10 antitrust, restraint of trade, unfair trade practices, and other regulation of trade
+11 or commerce under 9 V.S.A. chapter 63, subchapter 1, to the extent that the
+12 conduct is reasonably necessary to plan, implement, and comply with the
+13 manufacturer’s, group of manufacturers’, or waste tire stewardship
+14 organization’s chosen system for managing waste tires. This subsection shall
+15 also apply to conduct of a retailer or wholesaler participating in a waste tire
+16 stewardship organization’s approved waste tire stewardship plan when the
+17 conduct is necessary to plan and implement the manufacturer’s or waste tire
+18 stewardship organization’s collection or recycling system for waste tires.
+19 (b) Limitations on antitrust activity. Subsection (a) of this section shall not
+20 apply to an agreement among manufacturers, groups of manufacturers,
+21 retailers, wholesalers, or waste tire stewardship organizations affecting the
+VT LEG #385841 v.1
+
+BILL AS INTRODUCED S.177
+2026 Page 27 of 33
+1 price of motor vehicle tires or any agreement restricting the geographic area in
+2 which, or customers to whom, motor vehicle tires are sold.
+3 § 7620. FEES
+4 (a) A manufacturer or waste tire stewardship organization shall pay
+5 $15,000.00 annually for operation under a waste tire stewardship plan
+6 approved by the Secretary under section 7610 of this title.
+7 (b) The Secretary shall deposit fees collected under subsection (a) of this
+8 section in the Environmental Permit Fund established under 3 V.S.A. § 2805.
+9 § 7621. RULEMAKING; PROCEDURE
+10 The Secretary may adopt rules or procedures to implement the requirements
+11 of this chapter.
+12 Sec. 2. 10 V.S.A. § 8003 is amended to read:
+13 § 8003. APPLICABILITY
+14 (a) The Secretary may take action under this chapter to enforce the
+15 following statutes and rules, permits, assurances, or orders implementing the
+16 following statutes, and the Board may take such action with respect to
+17 subdivision (10) of this subsection:
+18 * * *
+19 (31) 10 V.S.A. chapter 124, relating to the trade in covered animal parts
+20 or products;
+VT LEG #385841 v.1
+
+BILL AS INTRODUCED S.177
+2026 Page 28 of 33
+1 (32) 10 V.S.A. chapter 164B, relating to collection and management of
+2 covered household hazardous products; and
+3 (33) 10 V.S.A. chapter 24A relating to the Climate Superfund Cost
+4 Recovery Program; and
+5 (34) 10 V.S.A. chapter 169, relating to the collection and recycling of
+6 waste tires.
+7 * * *
+8 Sec. 3. 10 V.S.A. § 8503 is amended to read:
+9 § 8503. APPLICABILITY
+10 (a) This chapter shall govern all appeals of an act or decision of the
+11 Secretary, excluding enforcement actions under chapters 201 and 211 of this
+12 title and rulemaking, under the following authorities and under the rules
+13 adopted under those authorities:
+14 (1) The following provisions of this title:
+15 * * *
+16 (P) chapter 166 (collection and recycling of electronic waste);
+17 (Q) chapter 164A (collection and disposal of mercury-containing
+18 lamps);
+19 * * *
+VT LEG #385841 v.1
+
+BILL AS INTRODUCED S.177
+2026 Page 29 of 33
+1 (V) chapter 124 (trade in covered animal parts or products); and
+2 (W) chapter 164B (collection and management of covered household
+3 hazardous products); and
+4 (X) chapter 169 (collection and recycling of waste motor vehicle
+5 tires).
+6 * * *
+7 Sec. 4. 24 V.S.A. § 2201 is amended to read:
+8 § 2201. THROWING, DEPOSITING, BURNING, AND DUMPING
+9 REFUSE; PENALTY; SUMMONS AND COMPLAINT
+10 (a)(1) Prohibition.
+11 (1) Every person shall be responsible for proper disposal of his or her
+12 the person’s own solid waste. A person shall not throw, dump, deposit, or
+13 cause or permit to be thrown, dumped, or deposited any solid waste as defined
+14 in 10 V.S.A. § 6602, refuse of whatever nature, or any noxious thing in or on
+15 lands or waters of the State outside a solid waste management facility certified
+16 by the Agency of Natural Resources.
+17 (2) There shall be a rebuttable presumption that a person who is
+18 identifiable from an examination of illegally disposed solid waste is the person
+19 who violated a provision of this section.
+20 (3) No person shall burn or cause to be burned in the open or incinerate
+21 in any container, furnace, or other device any solid waste without:
+VT LEG #385841 v.1
+
+BILL AS INTRODUCED S.177
+2026 Page 30 of 33
+1 (A) first having obtained all necessary permits from the Agency of
+2 Natural Resources, the District Environmental Commission, and the
+3 municipality where the burning is to take place; and
+4 (B) complying with all relevant State and local regulations and
+5 ordinances.
+6 (b) Prosecution of violations. A person who violates a provision of this
+7 section commits a civil violation and shall be subject to a civil penalty of not
+8 more than $800.00.
+9 (1) This violation shall be enforceable in the Judicial Bureau pursuant to
+10 the provisions of 4 V.S.A. chapter 29 in an action that may be brought by a
+11 municipal attorney, a solid waste management district attorney, an
+12 environmental enforcement officer employed by the Agency of Natural
+13 Resources, a designee of the legislative body of the municipality, or any duly
+14 authorized law enforcement officer.
+15 (2) If the throwing, placing, or depositing was done from a snowmobile,
+16 vessel, or motor vehicle, except a motor bus, there shall be a rebuttable
+17 presumption that the throwing, placing, or depositing was done by the operator
+18 of the snowmobile, vessel, or motor vehicle.
+19 (3) Nothing in this section shall be construed as affecting the operation
+20 of an automobile graveyard or salvage yard as defined in section 2241 of this
+21 title, nor shall anything in this section be construed as prohibiting the
+VT LEG #385841 v.1
+
+BILL AS INTRODUCED S.177
+2026 Page 31 of 33
+1 installation and use of appropriate receptacles for solid waste provided by the
+2 State or towns.
+3 (c) Roadside cleanup. A person found in violation of this section may be
+4 assigned to spend up to 80 hours collecting trash or litter from a specified
+5 segment of roadside or from a specified area of public property.
+6 (d) Waste tire disposal. A person shall not transfer possession of a waste
+7 tire to an unlicensed solid waste hauler for disposal. Violation of this
+8 subsection shall be a violation of subsection (a) of this section.
+9 (e) Revocation of hunting, fishing, or trapping license. The Commissioner
+10 of Fish and Wildlife shall revoke the privilege of a person found in violation of
+11 this section from holding a hunting, fishing, or trapping license for a period of
+12 one year from the date of the conviction, if the person fails to pay the penalty
+13 set forth in subsection (b) of this section. The Bureau shall immediately notify
+14 the Commissioner of Fish and Wildlife of the entry of judgment.
+15 (f) [Repealed.]
+16 (g) Amendment of complaint. A person authorized to enforce this section
+17 may amend or dismiss a complaint issued by that person by marking the
+18 complaint and returning it to the Judicial Bureau. At the hearing, a person
+19 authorized to enforce this section may amend or dismiss a complaint issued by
+20 that person, subject to the approval of the hearing judge.
+VT LEG #385841 v.1
+
+BILL AS INTRODUCED S.177
+2026 Page 32 of 33
+1 (h) [Repealed.]
+2 (i) Applicability. Enforcement actions taken under this section shall in no
+3 way preclude the Agency of Natural Resources, the Attorney General, or an
+4 appropriate State prosecutor from initiating other or further enforcement
+5 actions under the civil, administrative, or criminal enforcement provisions of
+6 10 V.S.A. chapter 23, 47, 159, 201, or 211. To the extent that enforcement
+7 under this section is by an environmental enforcement officer employed by the
+8 Agency of Natural Resources, enforcement under this section shall preclude
+9 other enforcement by the Agency for the same offence.
+10 (j) Definitions. As used in this section:
+11 (1) “Motor vehicle” shall have has the same meaning as in 23 V.S.A.
+12 § 4(21).
+13 (2) “Snowmobile” shall have has the same meaning as in 23 V.S.A.
+14 § 3801.
+15 (3) “Vessel” means motor boats, boats, kayaks, canoes, sailboats, and all
+16 other types of watercraft.
+17 (4) “Waste tire” means a motor vehicle tire that has been removed from
+18 a motor vehicle and is no longer suitable for its original purpose because of
+19 wear, tear, damage, defect, or another reason.
+20 (5) “Waters” shall have has the same meaning as in 10 V.S.A.
+21 § 1251(13).
+VT LEG #385841 v.1
+
+BILL AS INTRODUCED S.177
+2026 Page 33 of 33
+1 Sec. 5. EFFECTIVE DATE
+2 This act shall take effect on passage.
+VT LEG #385841 v.1

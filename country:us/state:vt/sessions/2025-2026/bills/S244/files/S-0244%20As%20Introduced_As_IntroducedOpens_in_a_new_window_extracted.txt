@@ -1,0 +1,415 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED S.244
+2026 Page 1 of 17
+1 S.244
+2 Introduced by Senator Vyhovsky
+3 Referred to Committee on
+4 Date:
+5 Subject: Education; education finance; foundation formula; education
+6 transformation; tuition eligibility; approved independent schools;
+7 State Board of Education; regional assessment districts; property tax
+8 classifications; School Construction Aid Special Fund
+9 Statement of purpose of bill as introduced: This bill proposes to repeal 2025
+10 Acts and Resolves No. 73 except changes made to the tuition eligibility criteria
+11 for approved independent schools in 16 V.S.A. § 828; the State Board of
+12 Education appointment authority changes in 16 V.S.A. §§ 161 and 162; the
+13 creation of regional assessment districts; and miscellaneous tax provisions.
+14 The bill creates a new property tax classification and an increased rate for
+15 residential properties used as second homes and short-term rentals and further
+16 creates a new property classification for nonhomestead seasonal residential
+17 properties that are taxed like nonhomestead nonresidential properties.
+18 An act relating to the repeal of 2025 Acts and Resolves No. 73
+VT LEG #385815 v.6
+
+BILL AS INTRODUCED S.244
+2026 Page 2 of 17
+1 It is hereby enacted by the General Assembly of the State of Vermont:
+2 Sec. 1. INTENT
+3 With the repeal of portions of 2025 Acts and Resolves No. 73, it is the
+4 intent of the General Assembly to transform Vermont’s education governance
+5 system by:
+6 (1) building upon the work of 2015 Acts and Resolves No. 46 by
+7 identifying the characteristics of Vermont’s preferred education governance
+8 structure or structures and incentivizing school districts to voluntarily merge
+9 into larger school districts that satisfy the identified characteristics;
+10 (2) leveraging the economies of scale and efficiencies that may be
+11 provided through the use of boards of cooperative education services (BOCEs)
+12 by creating five to 10 BOCEs that provide membership for each supervisory
+13 union in Vermont; and
+14 (3) adding the construction of regional high schools to the list of high-
+15 priority funding areas in the State Aid for School Construction Program
+16 operated pursuant to 16 V.S.A. chapter 123.
+17 Sec. 2. ACT 73 REPEALS
+18 The following sections of 2025 Acts and Resolves No. 73 are repealed on
+19 passage:
+20 (1) Sec. 1 (findings; intent; plan);
+21 (2) Sec. 2 (Commission on the Future of Public Education);
+VT LEG #385815 v.6
+
+BILL AS INTRODUCED S.244
+2026 Page 3 of 17
+1 (3) Sec. 3 (School District Redistricting Task Force);
+2 (4) Sec. 4 (School District Voting Ward Working Group);
+3 (5) Sec. 5 (scale; intent);
+4 (6) Sec. 6 (prospective amendment to 16 V.S.A. § 165; class size
+5 minimums);
+6 (7) Sec. 7 (failure to comply with class size minimums);
+7 (8) Sec. 8 (SBE rules; report);
+8 (9) Sec. 9 (AOE report; school calendar; graduation requirements);
+9 (10) Sec. 10 (SBE rule review; appropriation);
+10 (11) Sec. 23 (state-level governance; intent);
+11 (12) Sec. 27 (prospective amendments to 16 V.S.A. § 823);
+12 (13) Sec. 28 (prospective tuition repeals);
+13 (14) Sec. 28a (State Board of Education tuition fee rules);
+14 (15) Sec. 29 (special education report);
+15 (16) Sec. 30 (AOE special education strategic plan);
+16 (17) Sec. 31 (AOE position);
+17 (18) Sec. 32 (AOE transformation support);
+18 (19) Sec. 33 (AOE positions);
+19 (20) Secs. 34–43 (transition to cost-factor foundation formula);
+20 (21) Sec. 44 (transportation reimbursement guidelines);
+21 (22) Sec. 45 (inflationary measures; prekindergarten; reports);
+VT LEG #385815 v.6
+
+BILL AS INTRODUCED S.244
+2026 Page 4 of 17
+1 (23) Sec. 45a (foundation formula report);
+2 (24) Sec. 45b (educational opportunity payment transition);
+3 (25) Secs. 46, 47, 49, and 50 (statewide education tax; supplemental
+4 district spending tax);
+5 (26) Sec. 46a (supplemental district spending tax; cap; transition);
+6 (27) Sec. 48 (prospective amendments to December 1 letter);
+7 (28) Sec. 48a (tax rate transition);
+8 (29) Secs. 51, 52, and 54–56 (property tax credit repeal; creation of
+9 homestead exemption);
+10 (30) Sec. 53 (homestead exemption report);
+11 (31) Sec. 57 (Education Fund Advisory Committee; review of
+12 foundation formula);
+13 (32) Secs. 60 and 61 (property tax classifications);
+14 (33) Sec. 61a (tax classifications transition);
+15 (34) Sec. 61b (property tax classifications implementation report);
+16 (35) Sec. 61c (tax classifications intent); and
+17 (36) Sec. 61d (prospective repeal).
+18 Sec. 3. 2025 Acts and Resolves No. 73, Sec. 70 is amended to read:
+19 Sec. 70. EFFECTIVE DATES
+20 (a) This section and the following sections shall take effect on passage:
+VT LEG #385815 v.6
+
+BILL AS INTRODUCED S.244
+2026 Page 5 of 17
+1 (1) Sec. 1 (findings; intent; plan); [Deleted.]
+2 (2) Sec. 2 (Commission on the Future of Public Education); [Deleted.]
+3 (3) Sec. 3 (School District Redistricting Task Force); [Deleted.]
+4 (4) Sec. 4 (School District Voting Ward Working Group); [Deleted.]
+5 (5) Sec. 28a (State Board of Education tuition fee rules); [Deleted.]
+6 (6) Sec. 32 (Agency of Education transformation support); [Deleted.]
+7 (7) Sec. 33 (Agency of Education positions); [Deleted.]
+8 (8) Sec. 44 (transportation reimbursement guidelines); [Deleted.]
+9 (9) Sec. 45 (inflationary measures; prekindergarten; reports); [Deleted.]
+10 (10) Sec. 45a (foundation formula report); [Deleted.]
+11 (11) Sec. 45c (Education Fund Advisory Committee; delay);
+12 (12) Sec. 53 (homestead exemption report); [Deleted.]
+13 (13) Sec. 61b (property tax classifications implementation report);
+14 [Deleted.]
+15 (14) Sec. 61c (tax classifications intent); [Deleted.]
+16 (15) Sec. 61d (prospective repeal); [Deleted.]
+17 (16) Sec. 63 (regional assessment district transition; progress report);
+18 (17) Sec. 64 (RAD stakeholder working group);
+19 (18) Sec. 65 (inadvertently removed language);
+20 (19) Sec. 66 (minimum debt for tax sales);
+21 (20) Sec. 68 (property tax credit late fee); and
+VT LEG #385815 v.6
+
+BILL AS INTRODUCED S.244
+2026 Page 6 of 17
+1 (21) Sec. 69 (statewide adjustment correction).
+2 (b) The following sections shall take effect on July 1, 2025:
+3 (1) Sec. 5 (scale; intent); [Deleted.]
+4 (2) Sec. 8 (SBE rules; report); [Deleted.]
+5 (3) Sec. 9 (AOE report; school calendar; graduation requirements);
+6 [Deleted.]
+7 (4) Sec. 10 (SBE rule review; appropriation); [Deleted.]
+8 (5) Sec. 14 (16 V.S.A. § 3443);
+9 (6) Sec. 15 (School Construction Advisory Board sunset);
+10 (7) Sec. 21 (16 V.S.A. § 828);
+11 (8) Sec. 22 (tuition transition);
+12 (9) Sec. 23 (state-level governance; intent); [Deleted.]
+13 (10) Sec. 24 (16 V.S.A. § 161);
+14 (11) Sec. 25 (SBE appointments transition);
+15 (12) Sec. 26 (16 V.S.A. § 162); and
+16 (13) Sec. 29 (special education report); [Deleted.]
+17 (14) Sec. 30 (AOE special education strategic plan); [Deleted.]
+18 (15) Sec. 31 (AOE position); and [Deleted.]
+19 (16) Sec. 67 (PVR hearing officer pay).
+20 (c) The following sections shall take effect on July 1, 2026:
+21 (1) Sec. 6 (class size minimums); [Deleted.]
+VT LEG #385815 v.6
+
+BILL AS INTRODUCED S.244
+2026 Page 7 of 17
+1 (2) Sec. 7 (failure to comply with class size minimums); [Deleted.]
+2 (3) Sec. 12 (school construction policy);
+3 (4) Sec. 13 (16 V.S.A. § 3442);
+4 (5) Sec. 16 (16 V.S.A. § 3444);
+5 (6) Sec. 17 (16 V.S.A. § 3445);
+6 (7) Sec. 18 (16 V.S.A. § 3446);
+7 (8) Sec. 19 (transfer of rulemaking authority); and
+8 (9) Sec. 20 (repeals).
+9 (d) Sec. 48 (December 1 letter) shall take effect on July 1, 2027. [Deleted.]
+10 (e) Sec. 61a shall take effect on January 1, 2027, provided that the General
+11 Assembly has enacted new school district boundaries between the enactment
+12 of this act and January 1, 2027. [Deleted.]
+13 (f) The following sections shall take effect on July 1, 2028, provided that
+14 the new school districts contemplated by this act have assumed responsibility
+15 for the education of all resident students and that the expert tasked with
+16 developing a cost-factor foundation formula has provided to the General
+17 Assembly the report pursuant to Sec. 45a to provide the General Assembly an
+18 opportunity to enact legislation in consideration of the report:
+19 (1) In Sec. 27, 16 V.S.A. § 823(a) and (d);
+20 (2) Sec. 28 (tuition repeals);
+21 (3) Secs. 34–43 (transition to cost-factor foundation formula);
+VT LEG #385815 v.6
+
+BILL AS INTRODUCED S.244
+2026 Page 8 of 17
+1 (4) Sec. 45b (educational opportunity payment transition);
+2 (5) Secs. 46, 47, 49, and 50 (statewide education tax; supplemental
+3 district spending tax);
+4 (6) Sec. 46a (supplemental district spending tax; cap; transition);
+5 (7) Sec. 48a (tax rate transition);
+6 (8) Secs. 51, 52, and 54–56 (property tax credit repeal; creation of
+7 homestead exemption);
+8 (9) Sec. 57 (Education Fund Advisory Committee; review of foundation
+9 formula); and
+10 (10) Secs. 60 and 61 (property tax classifications). [Deleted.]
+11 (g) In Sec. 27, 16 V.S.A. § 823(b) and (c) shall take effect on July 1, 2028,
+12 provided that the new school districts contemplated by this act have assumed
+13 responsibility for the education of all resident students and that the cost-factor
+14 foundation formula report required pursuant to Sec. 45a contains evidence that
+15 it costs more to educate students in grades nine through 12 but the General
+16 Assembly has failed to enact legislation to add a secondary student weight.
+17 [Deleted.]
+18 (h) Sec. 62 (regional assessment districts) shall take effect on January 1,
+19 2029.
+VT LEG #385815 v.6
+
+BILL AS INTRODUCED S.244
+2026 Page 9 of 17
+1 Sec. 4. 16 V.S.A. § 828 is amended to read:
+2 § 828. TUITION TO APPROVED SCHOOLS; AGE; APPEAL
+3 (a) A school district shall not pay the tuition of a student except to:
+4 (1) a public school located in Vermont;
+5 (2) an approved independent school that:
+6 (A) is located in Vermont;
+7 (B) is approved under section 166 of this title on or before July 1,
+8 2025;
+9 (C) is located within either:
+10 (i) a supervisory district that does not operate a public school for
+11 some or all grades as of July 1, 2024; or
+12 (ii) a supervisory union with one or more member school districts
+13 that does not operate a public school for some or all grades as of July 1, 2024;
+14 (D) had at least 25 51 percent of its student enrollment composed of
+15 students attending on a district-funded tuition basis pursuant to chapter 21 of
+16 this title during the 2023–2024 school year; and
+17 (E) complies with the minimum class size requirements contained in
+18 subdivision 165(a)(9) of this title and State Board rule; provided, however, that
+19 if a school is unable to comply with the class size minimum standards due to
+20 geographic isolation or a school has developed an implementation plan to meet
+VT LEG #385815 v.6
+
+BILL AS INTRODUCED S.244
+2026 Page 10 of 17
+1 the class size minimum requirements, the school may ask the State Board to
+2 grant it a waiver from this subdivision (E), which decision shall be final;
+3 * * *
+4 Sec. 5. 16 V.S.A. § 3444 is amended to read:
+5 § 3444. SCHOOL CONSTRUCTION AID SPECIAL FUND
+6 (a) Creation. There is created the School Construction Aid Special Fund,
+7 to be administered by the Agency of Education. Monies in the Fund shall be
+8 used for the purposes of:
+9 (1) awarding aid to school construction projects under section 3445 of
+10 this title;
+11 (2) awarding grants through the Facilities Master Plan Grant Program
+12 established in section 3441 of this title;
+13 (3) funding administrative costs of the State Aid for School
+14 Construction Program; and
+15 (4) awarding emergency aid under section 3445 of this title.
+16 (b) Funds. The Fund shall consist of:
+17 (1) half of the revenue generated by the education property tax imposed
+18 on nonhomestead residential properties;
+19 (2) any amounts transferred or appropriated to it by the General
+20 Assembly; and
+21 (2)(3) any interest earned by the Fund.
+VT LEG #385815 v.6
+
+BILL AS INTRODUCED S.244
+2026 Page 11 of 17
+1 Sec. 6. 32 V.S.A. § 4152a is added to read:
+2 § 4152a. PROPERTY TAX CLASSIFICATIONS
+3 (a) The grand list of a town shall include one or more tax classifications for
+4 each parcel of real estate. A parcel shall be classified using one of the general
+5 classes of real estate listed under subsection (b) of this section and based on the
+6 considerations set forth in this section and guidance provided by the Division
+7 of Property Valuation and Review. The listers and assessors shall annually
+8 update the grand list to include a tax classification not later than June 1 of
+9 every year, using information submitted to the Department of Taxes pursuant
+10 to this section. The tax classification may be updated after June 1 when a
+11 taxpayer files a, or corrects an erroneously filed, homestead declaration after
+12 June 1.
+13 (b) A parcel shall be assigned one or more of the following general classes:
+14 (1) homestead;
+15 (2) nonhomestead nonresidential;
+16 (3) nonhomestead residential; and
+17 (4) nonhomestead seasonal.
+18 (c) As used in this section:
+19 (1) “Homestead” means a parcel, or portion of a parcel, declared as a
+20 homestead on or before October 15 in accordance with section 5410 of this
+21 title for the current year.
+VT LEG #385815 v.6
+
+BILL AS INTRODUCED S.244
+2026 Page 12 of 17
+1 (2) “Nonhomestead nonresidential” means a parcel, or portion of a
+2 parcel, that does not qualify as “homestead” or “nonhomestead residential”
+3 under this section.
+4 (3) “Nonhomestead residential” means a parcel, or portion of a parcel,
+5 for which a homestead was not declared in accordance with section 5410 of
+6 this title for the current year and that has a residential property, as defined by
+7 the Commissioner by rule.
+8 (4) “Nonhomestead seasonal” means a parcel, or portion of a parcel, that
+9 would qualify as “nonhomestead residential,” except the parcel has no
+10 residential property fit for habitation on a year-round basis. The
+11 Commissioner shall adopt rules further defining residential property fit for
+12 habitation on a year-round basis.
+13 (d) A parcel with two or more portions qualifying for different tax
+14 classifications under this section shall be classified proportionally based on the
+15 percentage of floor space used.
+16 (1) In the case of a homestead with 25 percent or less of floor space used
+17 for a business purpose, the parcel shall be classified as a homestead pursuant to
+18 subdivision 5401(7)(F) of this title.
+19 (2) If a portion of floor space is used for more than one purpose, the use
+20 for which the floor space is most often used shall be considered the primary
+VT LEG #385815 v.6
+
+BILL AS INTRODUCED S.244
+2026 Page 13 of 17
+1 use, and the floor space shall be dedicated to that use for purposes of tax
+2 classification.
+3 (e) The Commissioner shall amend existing forms, and publish new forms,
+4 as needed to gather the necessary attestations and declarations required under
+5 this section.
+6 (f) Nothing in this section shall be construed to alter the tax treatment or
+7 enrollment eligibility of property as it relates to use value appraisal under
+8 chapter 124 of this title.
+9 (g) Persons aggrieved by a decision to classify property for taxation
+10 purposes under this section may appeal in the manner provided for property
+11 valuation appeals under this title.
+12 Sec. 7. 32 V.S.A. § 4152 is amended to read:
+13 § 4152. CONTENTS
+14 (a) When completed, the grand list of a town shall be in such form as the
+15 Director prescribes and shall contain such information as the Director
+16 prescribes, including:
+17 (1) In alphabetical order, the name of each real property owner and each
+18 owner of taxable personal property.
+19 (2) The last known mailing address of all such owners.
+20 (3) A brief description of each parcel of taxable real estate in the town,
+21 including a classification assigned pursuant to section 4152a of this title.
+VT LEG #385815 v.6
+
+BILL AS INTRODUCED S.244
+2026 Page 14 of 17
+1 “Parcel” As used in this subdivision, “parcel” means a separate and sellable lot
+2 or piece of real estate. Parcels may be combined to represent all contiguous
+3 land in the same ownership, together with all improvements thereon.
+4 * * *
+5 Sec. 8. 32 V.S.A. § 5402 is amended to read:
+6 § 5402. EDUCATION PROPERTY TAX LIABILITY
+7 (a) A statewide education tax is imposed on all nonhomestead and
+8 homestead property at the following rates:
+9 (1) The tax rate for nonhomestead nonresidential and nonhomestead
+10 seasonal property shall be $1.59 per $100.00 divided by the statewide
+11 adjustment.
+12 (2) The tax rate for homestead property shall be $1.00 multiplied by the
+13 education property tax spending adjustment for the municipality per $100.00 of
+14 equalized education property value as most recently determined under section
+15 5405 of this title. The homestead property tax rate for each municipality that is
+16 a member of a union or unified union school district shall be calculated as
+17 required under subsection (e) of this section.
+18 (3) The tax rate for nonhomestead residential property shall be $2.00
+19 multiplied by the education property tax spending adjustment for the
+20 municipality per $100.00 of equalized education property value as most
+21 recently determined under section 5405 of this title. The Commissioner of
+VT LEG #385815 v.6
+
+BILL AS INTRODUCED S.244
+2026 Page 15 of 17
+1 Taxes shall determine a nonhomestead residential education tax rate for each
+2 municipality that is a member of a union or unified union school district using
+3 the same process as is used for homesteads under subsection (e) of this section.
+4 Nonhomestead residential property shall use the same property dollar
+5 equivalent yield as homesteads in the same municipality.
+6 * * *
+7 Sec. 9. 32 V.S.A. § 5402b is amended to read:
+8 § 5402b. STATEWIDE EDUCATION TAX YIELDS;
+9 RECOMMENDATION OF THE COMMISSIONER
+10 (a) Annually, not later than December 1, the Commissioner of Taxes, after
+11 consultation with the Secretary of Education, the Secretary of Administration,
+12 and the Joint Fiscal Office, shall calculate and recommend a property dollar
+13 equivalent yield, an income dollar equivalent yield, and a nonhomestead
+14 property tax rate for the following fiscal year. In making these calculations,
+15 the Commissioner shall assume:
+16 * * *
+17 (4) the percentage change in the average education tax bill applied to
+18 nonhomestead nonresidential property and, the percentage change in the
+19 average education tax bill applied to nonhomestead seasonal property, the
+20 percentage change in the average education tax bill applied to nonhomestead
+21 residential property, the percentage change in the average education tax bill of
+VT LEG #385815 v.6
+
+BILL AS INTRODUCED S.244
+2026 Page 16 of 17
+1 homestead property, and the percentage change in the average education tax
+2 bill for taxpayers who claim a credit under subsection 6066(a) of this title are
+3 equal;
+4 * * *
+5 Sec. 10. 16 V.S.A. § 4025 is amended to read:
+6 § 4025. EDUCATION FUND
+7 (a) The Education Fund is established to comprise the following:
+8 (1) all revenue paid to the State from the statewide education tax on
+9 nonhomestead and homestead property under 32 V.S.A. chapter 135, except
+10 revenue deposited in the School Construction Aid Special Fund pursuant to
+11 subdivision 3444(b)(1) of this title;
+12 * * *
+13 Sec. 11. PROPERTY TAX CLASSIFICATIONS; TRANSITION; DATA
+14 COLLECTION
+15 (a) For calendar year 2027, the Commissioner of Taxes shall amend and
+16 create forms so that taxpayers report information on the use of their property
+17 for such property to be classified as homestead, nonhomestead residential,
+18 nonhomestead nonresidential, or nonhomestead seasonal, or a proportional
+19 classification of those uses. The information collected, and classifications
+20 determined, shall align with the definitions and requirements of Sec. 1 of this
+21 act. The Commissioner shall use the information to determine and assign a tax
+VT LEG #385815 v.6
+
+BILL AS INTRODUCED S.244
+2026 Page 17 of 17
+1 classification for every grand list parcel and, on or before October 1, 2027, the
+2 Commissioner shall provide that information to the Joint Fiscal Office.
+3 (b) On or before August 1, 2027, the Commissioner of Taxes shall publish
+4 guidance that interprets and explains the statutory definitions from Sec. 1 of
+5 this act, which shall serve as the Department’s official interpretation until the
+6 Commissioner adopts rules relating to the property classification system
+7 created by this act.
+8 Sec. 12. EFFECTIVE DATES
+9 (a) This section, Secs. 1–4 (intent; Act 73 repeals and updates), and Sec. 11
+10 (transition provisions) shall take effect on passage.
+11 (b) Secs. 5–10 (new property tax classifications and rates) shall take effect
+12 on January 1, 2028.
+VT LEG #385815 v.6

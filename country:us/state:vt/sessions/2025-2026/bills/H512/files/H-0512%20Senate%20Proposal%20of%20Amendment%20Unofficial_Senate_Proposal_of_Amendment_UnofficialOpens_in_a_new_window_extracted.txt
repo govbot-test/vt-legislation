@@ -1,0 +1,112 @@
+Title: 
+Official Title: 
+Source: versions - Senate Proposal of Amendment (UnofficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE PROPOSAL OF AMENDMENT H.512
+2026 Page 1 of 5
+1 H.512
+2 An act relating to the regulation of the event ticketing market
+3 The Senate proposes to the House to amend the bill by striking out all after
+4 the enacting clause and inserting in lieu thereof the following:
+5 Sec. 1. 9 V.S.A. chapter 63, subchapter 2B is added to read:
+6 Subchapter 2B. Event Tickets
+7 § 2479f. RESALE OF EVENT TICKETS
+8 (a) Definitions. As used in this section:
+9 (1) “Independent venue” means an event space that derives a majority of
+10 its revenue, excluding charitable donations, from ticket events, is not majority
+11 owned by a publicly traded company, and does not operate venues in more
+12 than 10 states.
+13 (2) “Price” means the total amount paid or to be paid for a ticket,
+14 including all taxes, fees, and charges. Price does not include actual shipping
+15 costs.
+16 (3) “Resale” means the second or subsequent sale of a ticket by any
+17 method, including in-person transactions, telephone, mail, email, facsimile, or
+18 electronic means through websites or mobile phone applications.
+19 (4) “Reseller” means a business entity engaged in the sale or resale of
+20 tickets. A “reseller” does not include an individual reselling a ticket purchased
+21 for personal use.
+VT LEG #389324 v.1
+
+SENATE PROPOSAL OF AMENDMENT H.512
+2026 Page 2 of 5
+1 (5) “Secondary ticket exchange” means an electronic marketplace
+2 enabling the sale, purchase, and resale of tickets.
+3 (6) “Speculative ticket” means a ticket not in the actual or constructive
+4 possession at the time a person lists, advertises, or offers the ticket for sale or
+5 resale. This includes tickets not owned or under contract to be transferred at
+6 the time of sale.
+7 (7) “Ticket” means any form of physical, electronic, or other evidence
+8 that grants the possessor of the evidence license to enter a place of
+9 entertainment within the State for one or more events at a specified date and
+10 time.
+11 (8) “Ticket issuer” means a person or entity that issues tickets for initial
+12 sale, including musicians, venues, promoters, theater companies, marketplaces
+13 for initial purchases, or their agents.
+14 (b) Ticket disclosure requirements.
+15 (1) A ticket issuer shall include on the face of a ticket in a clear and
+16 conspicuous manner the total price of the original ticket.
+17 (2) A person operating a secondary ticket exchange shall provide a
+18 statement in a clear and conspicuous manner informing any customer:
+19 (A) whether the customer is purchasing the ticket from a ticket issuer
+20 or a reseller as the case may be; and
+VT LEG #389324 v.1
+
+SENATE PROPOSAL OF AMENDMENT H.512
+2026 Page 3 of 5
+1 (B) that the resale price of the ticket is limited by subsection (c) of
+2 this section.
+3 (3) If a secondary ticket exchange provides information about the
+4 number or percentage of available tickets for a given event, the information
+5 shall not mislead customers about the availability of tickets on that platform or
+6 on other platforms.
+7 (c) Price cap on the resale of event tickets.
+8 (1) A ticket reseller shall not sell or offer for sale a ticket at a price
+9 greater than 110 percent of the price of an original ticket.
+10 (2) A secondary ticket exchange shall not authorize for resale on the
+11 exchange a ticket for a price at greater than 110 percent of the price of an
+12 original ticket.
+13 (3) This subsection shall apply to the resale of tickets where the event is
+14 held at an independent venue and where:
+15 (A) the seating capacity of the venue is 3,000 individuals or fewer;
+16 (B) the event is to be held at a nonprofit venue that hosts agricultural
+17 fairs, exhibitions, or multiday community events in addition to live
+18 performances; or
+19 (C) the venue is primarily used for collegiate or amateur sports.
+VT LEG #389324 v.1
+
+SENATE PROPOSAL OF AMENDMENT H.512
+2026 Page 4 of 5
+1 (4) This subsection shall not apply to the resale of a ticket under a
+2 written contract with the ticket issuer for the resale of tickets at a price greater
+3 than 110 percent of the price of the original ticket.
+4 (d) Ban on deceptive URLs and improper use of intellectual property. It
+5 shall be unlawful for a secondary ticket exchange, reseller, or the operator of
+6 any website purporting to sell or offer for sale event tickets that links or
+7 redirects to a secondary ticket exchange or reseller to:
+8 (1) use deceptive website addresses or imply endorsement or ownership
+9 of any intellectual property of the venue or artist without explicit written
+10 authorization of the venue or artist; or
+11 (2) state or imply that the secondary ticket exchange, reseller, or website
+12 is affiliated with or endorsed by a venue, team, or artist, including by using
+13 words such as “official” in promotional materials, social media promotions,
+14 search engine optimization, paid advertising, URLs, or search engine
+15 monetization, unless the secondary ticket exchange, reseller, or website has the
+16 express written consent of the venue, team, or artist.
+17 (e) Prohibition on speculative ticket sales. A person shall not sell or offer
+18 for sale speculative tickets.
+19 (f) Violations. A person that violates a provision of this section commits
+20 an unfair and deceptive act in commerce in violation of section 2453 of this
+21 title.
+VT LEG #389324 v.1
+
+SENATE PROPOSAL OF AMENDMENT H.512
+2026 Page 5 of 5
+1 Sec. 2. REPEAL
+2 9 V.S.A. chapter 63, subchapter 2B is repealed on July 1, 2028.
+3 Sec. 3. EFFECTIVE DATE
+4 This act shall take effect on July 1, 2026.
+VT LEG #389324 v.1

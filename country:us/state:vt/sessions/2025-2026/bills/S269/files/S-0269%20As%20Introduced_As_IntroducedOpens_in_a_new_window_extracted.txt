@@ -1,0 +1,164 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED S.269
+2026 Page 1 of 7
+1 S.269
+2 Introduced by Senator Chittenden
+3 Referred to Committee on
+4 Date:
+5 Subject: Taxation and finance; education property tax; homestead property tax
+6 credit and renter credit; household income; Social Security;
+7 Supplemental Security Income
+8 Statement of purpose of bill as introduced: This bill proposes to exclude
+9 Supplemental Security Income payments from the definition of “household
+10 income” for purposes of calculating the homestead property tax credit and
+11 renter credit.
+12 An act relating to excluding Supplemental Security Income payments from
+13 household income
+14 It is hereby enacted by the General Assembly of the State of Vermont:
+15 Sec. 1. 32 V.S.A. § 6061 is amended to read:
+16 § 6061. DEFINITIONS
+17 As used in this chapter unless the context requires otherwise:
+18 * * *
+VT LEG #385118 v.2
+
+BILL AS INTRODUCED S.269
+2026 Page 2 of 7
+1 (3)(A) “Household” means, for any individual and for any taxable year,
+2 the individual and such other persons as the other persons who resided with the
+3 individual in the principal dwelling at any time during the taxable year.
+4 * * *
+5 (4)(A) “Household income” means modified adjusted gross income, but
+6 not less than zero, received in a calendar year by:
+7 (i) all persons of a household while members of that household;
+8 and
+9 (ii) the spouse of the claimant who is not a member of that
+10 household and who is not legally separated from the claimant in the taxable
+11 year as defined in subdivision (9) of this section, unless the spouse is at least
+12 62 years of age and has moved to a nursing home or other care facility with no
+13 reasonable prospect of returning to the homestead.
+14 (B) “Household income” does not mean:
+15 (i) the modified adjusted gross income of the spouse or former
+16 spouse of the claimant for any period that the spouse or former spouse is not a
+17 member of the household, if the claimant is legally separated or divorced from
+18 the spouse in the taxable year as defined in subdivision (9) of this section; or
+19 (ii) the modified adjusted gross income of the spouse of the
+20 claimant, if the spouse is subject to a protection order as defined in 15 V.S.A.
+VT LEG #385118 v.2
+
+BILL AS INTRODUCED S.269
+2026 Page 3 of 7
+1 § 1101(5) that is in effect at the time the claimant reports household income to
+2 the Department of Taxes.
+3 (5) “Modified adjusted gross income” means “federal adjusted gross
+4 income”:
+5 (A) Before the deduction of any trade or business loss from a sole
+6 proprietorship, loss from a partnership, loss from a limited liability company or
+7 “subchapter S” corporation, loss from a rental property, or capital loss, except
+8 that in the case of a business that sells a business property with respect to
+9 which it is required, under the Internal Revenue Code, to report a capital gain,
+10 a business loss incurred in the same tax year with respect to the same business
+11 may be netted against such capital gain, and except that a business loss from a
+12 sole proprietorship may be netted against a business gain from a sole
+13 proprietorship, as long as the loss and the gain are incurred in the same tax
+14 year with respect to different business.
+15 (B) With the addition of the following, to the extent not included in
+16 adjusted gross income: alimony, support money other than gifts, gifts received
+17 by the household in excess of a total of $6,500.00 in cash or cash-equivalents
+18 cash equivalents, cash public assistance and relief (not including relief granted
+19 under this subchapter), cost of living cost-of-living allowances paid to federal
+20 employees, allowances received by dependents of servicemen and women
+21 service members, the portion of Roth IRA distributions representing
+VT LEG #385118 v.2
+
+BILL AS INTRODUCED S.269
+2026 Page 4 of 7
+1 investment earnings and not included in adjusted gross income, railroad
+2 retirement benefits, payments received under the federal Social Security Act
+3 other than Supplemental Security Income payments, all benefits under
+4 Veterans’ Acts, federal pension, and annuity benefits not included in adjusted
+5 gross income, nontaxable interest received from the state or federal
+6 government or any of its instrumentalities, workers’ compensation, the gross
+7 amount of “loss of time” insurance, and the amount of capital gains excluded
+8 from adjusted gross income, less the net employment and self-employment
+9 taxes withheld from or paid by the individual (exclusive of any amounts
+10 deducted to arrive at adjusted gross income or deducted on account of excess
+11 payment of employment taxes) on account of income included under this
+12 section, less any amounts paid as child support money if substantiated by
+13 receipts or other evidence that the Commissioner may require.
+14 (C) Without the inclusion of: any gifts from nongovernmental
+15 sources other than those described in subdivision (B) of this subdivision (5),
+16 surplus food or other relief in kind supplied by a governmental agency, or the
+17 first $6,500.00 of income earned by a full-time student who qualifies as a
+18 dependent of the claimant under the federal Internal Revenue Code, the first
+19 $6,500.00 of income received by a person who qualifies as a dependent of the
+20 claimant under the Internal Revenue Code and who is the claimant’s parent or
+21 adult child with a disability, any income attributable to cancellation of debt, or
+VT LEG #385118 v.2
+
+BILL AS INTRODUCED S.269
+2026 Page 5 of 7
+1 payments made by the State pursuant to 33 V.S.A. chapters 49 and 55 for
+2 foster care, or payments made by the State or an agency designated in 18
+3 V.S.A. § 8907 for adult foster care or to a family for the support of a person
+4 who is eligible and who has a developmental disability. If the Commissioner
+5 determines, upon application by the claimant, that a person resides with a
+6 claimant who has a disability or was at least 62 years of age as of the end of
+7 the year preceding the claim, for the primary purpose of providing attendant
+8 care services as defined in 33 V.S.A. § 6321 or homemaker or companionship
+9 services, with or without compensation, which allow the claimant to remain in
+10 his or her the claimant’s home or avoid institutionalization, the Commissioner
+11 shall exclude that person’s modified adjusted gross income from the claimant’s
+12 household income. The Commissioner may require that a certificate in a form
+13 satisfactory to him or her the Commissioner be submitted that supports the
+14 claim.
+15 (D) Without the inclusion of adjustments to total income except
+16 certain business expenses of reservists, one-half of self-employment tax paid,
+17 alimony paid, deductions for tuition and fees, health insurance costs of self-
+18 employed individuals, and health savings account deductions.
+19 (E) With the addition of an asset adjustment of 1 one times the sum
+20 of interest and dividend income included in household income above
+VT LEG #385118 v.2
+
+BILL AS INTRODUCED S.269
+2026 Page 6 of 7
+1 $10,000.00 for claimants under age 65 years of age, regardless of whether that
+2 dividend or interest income is included in federal adjusted gross income.
+3 * * *
+4 (18) Notwithstanding subdivisions (4) and (5) of this section, for the
+5 purposes of the renter credit, “income” means federal adjusted gross income
+6 increased by the following:
+7 (A) trade or business loss from a sole proprietorship, loss from a
+8 partnership, loss from a limited liability company or “subchapter S”
+9 corporation, loss from a rental property, capital loss, loss from an estate or
+10 trust, loss from a real estate mortgage investment conduit, farm rental loss, any
+11 loss associated with the sale of business property, and farm losses included in
+12 adjusted gross income;
+13 (B) exempt interest received or accrued during the taxable year;
+14 (C) 75 percent of the portion of Social Security benefits as defined
+15 under 26 U.S.C. § 86(d) that is excluded from gross income under 26 U.S.C.
+16 § 86 for the taxable year; and
+17 (D) to the extent excluded from federal adjusted gross income,
+18 educator expenses; certain business expenses of reservists, performing artists,
+19 and fee-basis government officials; health savings account deductions; moving
+20 expenses for members of the U.S. Armed Forces; the deductible part of self-
+21 employment tax; self-employed SEP, SIMPLE, and qualified plan deductions;
+VT LEG #385118 v.2
+
+BILL AS INTRODUCED S.269
+2026 Page 7 of 7
+1 self-employed health insurance deductions; the penalty for early withdrawal of
+2 savings; alimony paid; certain IRA retirement savings deductions; student loan
+3 interest deductions; and tuition and fees deductions.
+4 * * *
+5 Sec. 2. EFFECTIVE DATE
+6 Notwithstanding 1 V.S.A. § 214, this act shall take effect retroactively on
+7 January 1, 2026, and apply to taxable years beginning on or after January 1,
+8 2026.
+VT LEG #385118 v.2

@@ -1,0 +1,28 @@
+Title: 
+Official Title: 
+Source: versions - House Proposal of Amendment (OfficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House Proposal of Amendment
+S. 255
+An act relating to establishing a pilot Law Enforcement Governance
+Council in Windham County
+The House proposes to the Senate to amend the bill in Sec. 7, reporting and
+evaluation, by striking out subsection (b) in its entirety and inserting in lieu
+thereof a new subsection (b) to read as follows:
+(b) On or before September 30, 2030, and again on or before December 31,
+2033, the Council, in consultation with the Windham County Sheriff and
+Windham County Assistant Judges, shall submit a comprehensive evaluation
+of the pilot program to the House Committee on Government Operations and
+Military Affairs and the Senate Committee on Government Operations,
+including:
+(1) an assessment of cost-effectiveness compared to alternative service
+delivery models;
+(2) an analysis of service quality improvements;
+(3) an evaluation of the governance model’s effectiveness;
+(4) recommendations regarding continuation, modification, or
+expansion of the program; and
+(5) a proposed framework for statewide replication, if warranted.

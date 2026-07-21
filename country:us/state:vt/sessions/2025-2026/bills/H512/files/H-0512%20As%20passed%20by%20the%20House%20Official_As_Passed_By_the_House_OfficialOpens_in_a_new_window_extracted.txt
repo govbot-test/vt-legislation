@@ -1,0 +1,115 @@
+Title: 
+Official Title: 
+Source: versions - As Passed By the House (OfficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILLAS PASSED BY THE HOUSE H.512
+2025 Page 1 of 5
+1 H.512
+2 SHORT FORM
+3 Introduced by Representatives Harrison of Chittenden, Bosch of Clarendon,
+4 Canfield of Fair Haven, Howard of Rutland City, Howland of
+5 Rutland Town, Keyser of Rutland City, Maguire of Rutland
+6 City, Malay of Pittsford, McCoy of Poultney, Pinsonault of
+7 Dorset, Pritchard of Pawlet, and Winter of Ludlow
+8 Referred to Committee on
+9 Date:
+10 Subject: Commerce and trade; consumer protection; musical performances
+11 Statement of purpose of bill as introduced: This bill proposes to enhance
+12 consumer protection in the event ticketing market by regulating the resale of
+13 tickets through improved transparency and the prevention of predatory and
+14 deceptive practices. The bill proposes to require entities that resell or facilitate
+15 the resale of tickets to guarantee to each purchaser a full refund under certain
+16 circumstances; to provide clear, itemized price details, including taxes and
+17 fees; to prohibit selling tickets that a reseller does not own or have under
+18 contract, unless the reseller provides notice to the purchaser in a clear and
+19 conspicuous manner; and to prohibit the use of ticket purchasing software or
+20 other methods to bypass online sales limits or other security measures. The
+21 bill also proposes to require annual licensing for ticket resellers, require those
+
+BILLAS PASSED BY THE HOUSE H.512
+2025 Page 2 of 5
+1 resellers to maintain a minimum surety bond to cover consumer losses, and
+2 require the maintenance of certain records regarding resale transactions.
+3 Finally, the bill proposes to provide enforcement authority with the Office of
+4 the Attorney General and authorizes the Attorney General to conduct audits for
+5 compliance, to issue administrative penalties, and to revoke or suspend a
+6 reseller’s license under appropriate circumstances. Violations shall constitute
+7 an unfair and deceptive act in commerce in violation of 9 V.S.A. § 2453.
+8 An act relating to the regulation of the event ticketing market
+9 It is hereby enacted by the General Assembly of the State of Vermont:
+10 (TEXT OMITTED IN SHORT-FORM BILLS)
+Sec. 1. 9 V.S.A. chapter 63, subchapter 2B is added to read:
+Subchapter 2B. Event Tickets
+§ 2479f. RESALE OF EVENT TICKETS
+(a) Definitions. As used in this section:
+(1) “Price” means the total amount paid or to be paid for a ticket,
+including all taxes, fees, and charges. Price does not include actual shipping
+costs.
+
+BILLAS PASSED BY THE HOUSE H.512
+2025 Page 3 of 5
+(2) “Resale” means the second or subsequent sale of a ticket by any
+method, including in-person transactions, telephone, mail, email, facsimile, or
+electronic means through websites or mobile phone applications.
+(3) “Reseller” means a person engaged in the resale of tickets.
+(4) “Secondary ticket exchange” means an electronic marketplace
+enabling the sale, purchase, and resale of tickets.
+(5) “Speculative ticket” means a ticket not in the actual or constructive
+possession of the reseller at the time of listing, sale, or advertisement. This
+includes tickets not owned by the reseller or under contract to be transferred to
+the reseller at the time of sale.
+(6) “Ticket” means any form of physical, electronic, or other evidence
+that grants the possessor of the evidence license to enter a place of
+entertainment for one or more events at a specified date and time.
+(7) “Ticket issuer” means a person or entity that issues tickets for initial
+sale, including musicians, venues, promoters, theater companies, marketplaces
+for initial purchases, or their agents.
+(b) Notice requirement.
+(1) A person operating a secondary ticket exchange shall provide a
+statement in a clear and conspicuous manner informing any customer:
+(A) whether the customer is purchasing the ticket from a ticket issuer
+or a reseller as the case may be; and
+
+BILLAS PASSED BY THE HOUSE H.512
+2025 Page 4 of 5
+(B) that the resale price of the ticket is limited by subsection (c) of
+this section.
+(2) If a secondary ticket exchange provides information about the
+number or percentage of available tickets for a given event, the information
+shall not mislead customers about the availability of tickets on that platform or
+on other platforms.
+(c) Price cap on the resale of event tickets.
+(1) A ticket reseller shall not sell or offer for sale a ticket at a price
+greater than 110 percent of the price of an original ticket.
+(2) A secondary ticket exchange shall not authorize for resale on the
+exchange a ticket for a price at greater than 110 percent of the price of an
+original ticket.
+(3) This subsection shall not apply to the resale of a ticket if the reseller
+has a written contract with the ticket issuer for the resale of tickets at a price
+greater than 110 percent of the price of the original ticket.
+(d) Ban on deceptive URLs and improper use of intellectual property. It
+shall be unlawful for a secondary ticket exchange, reseller, or the operator of
+any website purporting to sell or offer for sale event tickets that links or
+redirects to a secondary ticket exchange or reseller to:
+
+BILLAS PASSED BY THE HOUSE H.512
+2025 Page 5 of 5
+(1) use deceptive website addresses or imply endorsement or ownership
+of any intellectual property of the venue or artist without explicit written
+authorization of the venue or artist; or
+(2) state or imply that the secondary ticket exchange, reseller, or website
+is affiliated with or endorsed by a venue, team, or artist, including by using
+words such as “official” in promotional materials, social media promotions,
+search engine optimization, paid advertising, URLs, or search engine
+monetization, unless the secondary ticket exchange, reseller, or website has the
+express written consent of the venue, team, or artist.
+(e) Prohibition on speculative ticket sales. A reseller shall not sell or offer
+for sale speculative tickets.
+(f) Violations. A person that violates a provision of this section commits an
+unfair and deceptive act in commerce in violation of section 2453 of this title.
+Sec. 2. EFFECTIVE DATE
+This act shall take effect on July 1, 2026.

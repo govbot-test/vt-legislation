@@ -1,0 +1,89 @@
+Title: 
+Official Title: 
+Source: versions - As Passed By the House (UnofficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+AS PASSED BY HOUSE H.512
+2026 Page 1 of 4
+1 H.512
+2 An act relating to the regulation of the event ticketing market
+3 It is hereby enacted by the General Assembly of the State of Vermont:
+4 Sec. 1. 9 V.S.A. chapter 63, subchapter 2B is added to read:
+5 Subchapter 2B. Event Tickets
+6 § 2479f. RESALE OF EVENT TICKETS
+7 (a) Definitions. As used in this section:
+8 (1) “Price” means the total amount paid or to be paid for a ticket,
+9 including all taxes, fees, and charges. Price does not include actual shipping
+10 costs.
+11 (2) “Resale” means the second or subsequent sale of a ticket by any
+12 method, including in-person transactions, telephone, mail, email, facsimile, or
+13 electronic means through websites or mobile phone applications.
+14 (3) “Reseller” means a person engaged in the resale of tickets.
+15 (4) “Secondary ticket exchange” means an electronic marketplace
+16 enabling the sale, purchase, and resale of tickets.
+17 (5) “Speculative ticket” means a ticket not in the actual or constructive
+18 possession of the reseller at the time of listing, sale, or advertisement. This
+19 includes tickets not owned by the reseller or under contract to be transferred to
+20 the reseller at the time of sale.
+VT LEG #387892 v.1
+
+AS PASSED BY HOUSE H.512
+2026 Page 2 of 4
+1 (6) “Ticket” means any form of physical, electronic, or other evidence
+2 that grants the possessor of the evidence license to enter a place of
+3 entertainment for one or more events at a specified date and time.
+4 (7) “Ticket issuer” means a person or entity that issues tickets for initial
+5 sale, including musicians, venues, promoters, theater companies, marketplaces
+6 for initial purchases, or their agents.
+7 (b) Notice requirement.
+8 (1) A person operating a secondary ticket exchange shall provide a
+9 statement in a clear and conspicuous manner informing any customer:
+10 (A) whether the customer is purchasing the ticket from a ticket issuer
+11 or a reseller as the case may be; and
+12 (B) that the resale price of the ticket is limited by subsection (c) of
+13 this section.
+14 (2) If a secondary ticket exchange provides information about the
+15 number or percentage of available tickets for a given event, the information
+16 shall not mislead customers about the availability of tickets on that platform or
+17 on other platforms.
+18 (c) Price cap on the resale of event tickets.
+19 (1) A ticket reseller shall not sell or offer for sale a ticket at a price
+20 greater than 110 percent of the price of an original ticket.
+VT LEG #387892 v.1
+
+AS PASSED BY HOUSE H.512
+2026 Page 3 of 4
+1 (2) A secondary ticket exchange shall not authorize for resale on the
+2 exchange a ticket for a price at greater than 110 percent of the price of an
+3 original ticket.
+4 (3) This subsection shall not apply to the resale of a ticket if the reseller
+5 has a written contract with the ticket issuer for the resale of tickets at a price
+6 greater than 110 percent of the price of the original ticket.
+7 (d) Ban on deceptive URLs and improper use of intellectual property. It
+8 shall be unlawful for a secondary ticket exchange, reseller, or the operator of
+9 any website purporting to sell or offer for sale event tickets that links or
+10 redirects to a secondary ticket exchange or reseller to:
+11 (1) use deceptive website addresses or imply endorsement or ownership
+12 of any intellectual property of the venue or artist without explicit written
+13 authorization of the venue or artist; or
+14 (2) state or imply that the secondary ticket exchange, reseller, or website
+15 is affiliated with or endorsed by a venue, team, or artist, including by using
+16 words such as “official” in promotional materials, social media promotions,
+17 search engine optimization, paid advertising, URLs, or search engine
+18 monetization, unless the secondary ticket exchange, reseller, or website has the
+19 express written consent of the venue, team, or artist.
+20 (e) Prohibition on speculative ticket sales. A reseller shall not sell or offer
+21 for sale speculative tickets.
+VT LEG #387892 v.1
+
+AS PASSED BY HOUSE H.512
+2026 Page 4 of 4
+1 (f) Violations. A person that violates a provision of this section commits
+2 an unfair and deceptive act in commerce in violation of section 2453 of this
+3 title.
+4 Sec. 2. EFFECTIVE DATE
+5 This act shall take effect on July 1, 2026.
+VT LEG #387892 v.1

@@ -1,0 +1,363 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.705
+2026 Page 1 of 15
+1 H.705
+2 Introduced by Representatives Priestley of Bradford and Sibilia of Dover
+3 Referred to Committee on
+4 Date:
+5 Subject: Education; student rights; First Amendment; religious freedom
+6 Statement of purpose of bill as introduced: This bill proposes to create a
+7 Student Secular Bill of Rights to protect a student’s right to practice or not
+8 practice any religion the student chooses on school grounds and to be free from
+9 school-sponsored religious teachings. This bill requires the Agency of
+10 Education to develop a model student secular rights policy and school districts
+11 and schools to adopt a policy at least as stringent as the Agency’s model
+12 policy. This bill also creates a private right of action for violation of the
+13 Student Secular Bill of Rights.
+14 An act relating to the creation of the Student Secular Bill of Rights
+15 It is hereby enacted by the General Assembly of the State of Vermont:
+16 Sec. 1. SHORT TITLE
+17 This act may be cited as the “Student Secular Bill of Rights.”
+18 Sec. 2. FINDINGS
+19 The General Assembly finds that:
+VT LEG #386118 v.1
+
+BILL AS INTRODUCED H.705
+2026 Page 2 of 15
+1 (1) The separation of religion and government is a cornerstone of
+2 American jurisprudence, recognized foremost in the First Amendment to the
+3 U.S. Constitution and in all 50 of the states’ constitutions.
+4 (2) Protecting religious freedom and conscience rights serves students of
+5 all faiths and none, ensuring that no student is compelled to participate in
+6 religious exercises against the student’s beliefs or nonbeliefs.
+7 (3) In 1802, President Thomas Jefferson, an original supporter of the
+8 First Amendment to the U.S. Constitution, alongside primary author James
+9 Madison, described the First Amendment as “building a wall of separation
+10 between church and state.”
+11 (4) The U.S. Supreme Court declared in the 1947 case Everson v. Board
+12 of Education, 330 U.S. 1, 18 (1947), that, “The First Amendment has erected a
+13 wall between church and state. That wall must be kept high and impregnable.
+14 We could not approve the slightest breach.”
+15 (5) The Supreme Court also declared in the same case that the
+16 Establishment Clause “means at least this: Neither a state nor the Federal
+17 Government can set up a church. Neither can pass laws which aid one
+18 religion, aid all religions, or prefer one religion over another…No tax in any
+19 amount, large or small, can be levied to support any religious activities or
+20 institutions…Neither a state nor the Federal Government can, openly or
+21 secretly, participate in the affairs of any religious organizations or groups, and
+VT LEG #386118 v.1
+
+BILL AS INTRODUCED H.705
+2026 Page 3 of 15
+1 vice versa. In the words of Jefferson, the clause against establishment of
+2 religion by law was intended to erect ‘a wall of separation between Church and
+3 State.’” (Id. at 15-16).
+4 (6) Democrats and Republicans alike, united in dedication to America’s
+5 founding principles, have recognized the indispensable principle of separation
+6 between church and state, with President Ronald Reagan saying in 1984 that,
+7 “We establish no religion in this country, we command no worship, we
+8 mandate no belief, nor will we ever. Church and state are, and must remain,
+9 separate.”
+10 (7) All persons have the fundamental and inalienable right to worship,
+11 or not, according to the dictates of their own conscience, free from
+12 governmental influence or interference, provided their practices do not excuse
+13 acts of lawlessness, or justify practices inconsistent with the order, peace, or
+14 safety of the state, or the rights of others.
+15 (8) The U.S. Supreme Court has addressed the First Amendment in an
+16 education context in several cases, including:
+17 (A) In the 1948 decision McCollum v. Board of Education, 333 U.S.
+18 203, 211 (1948), the Court held that a “released time” program in public
+19 schools, where religious instruction was provided by outside teachers during
+20 school hours, violated the Establishment Clause because using public school
+21 facilities and resources to “aid any or all religious faiths or sects in the
+VT LEG #386118 v.1
+
+BILL AS INTRODUCED H.705
+2026 Page 4 of 15
+1 dissemination of their doctrines and ideals” constituted an unconstitutional
+2 endorsement of religion.
+3 (B) In the 1962 decision Engel v. Vitale, 370 U.S. 421 (1962), the
+4 Court held that prayer composed by the state and recited over the intercom in
+5 public schools violates the U.S. Constitution’s Establishment Clause.
+6 (C) In the 1968 decision Epperson v. Arkansas, 393 U.S. 97 (1968),
+7 the Court held that a state law prohibiting the teaching of evolution in public
+8 schools violated the Establishment Clause of the First Amendment because the
+9 law was enacted to advance a particular religious viewpoint, constituting
+10 government endorsement of religion.
+11 (D) In the 1980 decision Stone v. Graham, 449 U.S. 39, 41 (1980),
+12 the Court held that a law requiring the posting of privately funded Ten
+13 Commandments displays in public school classrooms violated the
+14 Establishment Clause because the “pre-eminent purpose for posting the Ten
+15 Commandments on schoolroom walls is plainly religious in nature.”
+16 (E) In 1987 decision Edwards v. Aguillard, 482 U.S. 578, 591
+17 (1987), the Court held that a Louisiana law prohibiting the teaching of
+18 evolution unless accompanied by instruction in “creation science” was
+19 unconstitutional because the “preeminent purpose of the Louisiana Legislature
+20 was clearly to advance the religious viewpoint that a supernatural being created
+21 humankind,” while an offered secular purpose for the law was “a sham.”
+VT LEG #386118 v.1
+
+BILL AS INTRODUCED H.705
+2026 Page 5 of 15
+1 (F) In the 1992 decision Lee v. Weisman, 505 U.S. 577, 589 (1992),
+2 the Court held that public schools cannot provide even nonsectarian prayer at
+3 public school events, that “preservation and transmission of religious beliefs
+4 and worship is a responsibility and choice committed to the private sphere,”
+5 and that it was not a remedy to simply say that students could avoid the prayer
+6 by foregoing their own graduation.
+7 (G) In the 2000 decision Santa Fe Independent School District v.
+8 Doe, 530 U.S. 290, 309 (2000), the Court held that school-sponsored prayer at
+9 a public school event violates the U.S. Constitution by sending the message to
+10 nonbelievers that “‘they are outsiders, not full members of the political
+11 community,’” even when those prayers are student-led (quoting Lynch v.
+12 Donnelly, 465 U.S. 668, 688 (1984)).
+13 (9) These rulings by the U.S. Supreme Court are in danger of being
+14 overturned or otherwise eroded by future rulings.
+15 (10) The protection of religious and academic freedom in public schools
+16 must be strengthened through statutory protections to preserve the integrity of
+17 public education and ensure that all students may exercise their fundamental
+18 rights.
+19 (11) The Vermont Constitution provides a vehicle for protecting these
+20 rights at the State level.
+VT LEG #386118 v.1
+
+BILL AS INTRODUCED H.705
+2026 Page 6 of 15
+1 (12) It is the State’s inherent duty as sovereign to guarantee the rights of
+2 its residents.
+3 Sec. 3. 16 V.S.A. § 1625 is added to read:
+4 § 1625. STUDENT SECULAR BILL OF RIGHTS
+5 (a) Definitions. As used in this section:
+6 (1) “Academic study of religion” means objective, educational
+7 examination of religious traditions, texts, history, or practices for secular
+8 scholarly purposes, conducted in a manner that neither promotes nor denigrates
+9 any particular religious belief or nonbelief.
+10 (2) “Club” means a noncurricular student group recognized by a school
+11 district that meets the fair opportunity criteria of the Equal Access Act of 1984,
+12 20 U.S.C. § 4071(c).
+13 (3) “Coerce” means exerting direct or indirect pressure, whether through
+14 official policy, practice, or conduct, that would compel a reasonable student to
+15 participate in or refrain from religious exercise against the student’s
+16 conscience.
+17 (4) “Endorsement” means a governmental practice that a reasonable
+18 observer would view as government approval, favor, or disapproval of religion
+19 or particular religious beliefs.
+20 (5) “Nonparticipatory capacity” means presence at a student religious
+21 club meeting or event solely for supervisory purposes, consistent with the
+VT LEG #386118 v.1
+
+BILL AS INTRODUCED H.705
+2026 Page 7 of 15
+1 Equal Access Act, 20 U.S.C. §§ 4071–4074, without lecturing, proselytizing,
+2 praying, preaching, planning religious events, or otherwise engaging in
+3 religious activities.
+4 (6) “Official capacity” means when a person is:
+5 (A) performing official duties or furthering the work of a school
+6 district or school board; or
+7 (B) acting under or with power or authority granted by virtue of
+8 employment by or association with a school district or school board.
+9 (7) “Prayer” means a communication, either spoken or written, directed
+10 toward a deity, deities, or other supernatural or spiritual force, including a
+11 benediction, invocation, chant, or request for guidance, blessing, forgiveness,
+12 or intervention.
+13 (8) “Proselytizing” means attempting to convert individuals from one
+14 religion, religious belief, or nonbelief to another through persuasion or
+15 inducement.
+16 (9) “Public official” means any elected official, appointed official, or
+17 employee of a state or local unit of government, including any employee of a
+18 public school district or public school board.
+19 (10) “Religious activity” means any practice, observance, or expression
+20 intended primarily for religious purposes, including prayer, worship, religious
+21 instruction, or proselytizing.
+VT LEG #386118 v.1
+
+BILL AS INTRODUCED H.705
+2026 Page 8 of 15
+1 (11) “Religious display” means any visual presentation of religious
+2 symbols, texts, imagery, or artifacts that conveys a religious message or
+3 promotes religious beliefs.
+4 (12) “Religious text” means writing that is used primarily for
+5 devotional, worship, or proselytizing purposes rather than for legitimate
+6 academic study of religion, religious history, or comparative religion.
+7 (13) “School” means:
+8 (A) any public school as that term is defined in subdivision 11(a)(7)
+9 of this title; and
+10 (B) any approved independent school as that term is defined in
+11 subdivision 11(a)(20) of this title that is eligible to receive public tuition
+12 pursuant to section 828 of this title.
+13 (14) “School event” means any activity at a school facility or sponsored,
+14 conducted, or supervised by a school official acting in official capacity,
+15 including graduation, grade-promotion ceremony, award program, induction
+16 ceremony, pep rally, competition, practice, performance, class instructional
+17 time, and club meeting or event. “School event” does not include:
+18 (A) a student religious club meeting or event, if all school employees
+19 and agents are only present at the meeting or event in a nonparticipatory
+20 capacity;
+VT LEG #386118 v.1
+
+BILL AS INTRODUCED H.705
+2026 Page 9 of 15
+1 (B) an activity at a school facility, if it is outside the presence of
+2 students and no school official acts in official capacity; or
+3 (C) an activity at a school facility that is used by a third party
+4 pursuant to a standard facility use agreement or advance written permission
+5 that indicates the responsible third-party user, use period, facility to be used,
+6 purpose of use, and conditions of use, provided such use occurs during the
+7 agreed period, is on terms consistent with other third-party users, involves no
+8 school official acting in official capacity, and does not take place during school
+9 hours.
+10 (15) “School official” means any employee, agent, or representative of a
+11 public school or school district, including teachers, administrators, coaches,
+12 and support staff.
+13 (16) “School property” means any building, facility, grounds, or vehicle
+14 owned, leased, or controlled by a school or school district.
+15 (17) “Secular purpose” means an objective that is not primarily religious
+16 in nature and serves a legitimate educational, administrative, or civic function.
+17 (b) Rights of students. Students in all schools shall enjoy:
+18 (1) The right to practice any religion they choose on school grounds or
+19 at school events, provided that their practices are orderly and do not inhibit the
+20 operations or safety of the school or infringe on the rights of others.
+VT LEG #386118 v.1
+
+BILL AS INTRODUCED H.705
+2026 Page 10 of 15
+1 (2) The right to not practice any religion whatsoever, if they so choose,
+2 on school property or at school events.
+3 (3) The right to be free from discrimination based on their religious
+4 beliefs or lack thereof.
+5 (4) The right to be free from school-sponsored religious teachings or
+6 practices of all kinds on school property or at school events, including:
+7 (A) staff-led prayer;
+8 (B) prayer led by nonstaff adults or students, when it is:
+9 (i) sponsored by the school; or
+10 (ii) supported by the school by means of marketing, planning,
+11 audiovisual equipment, or endorsement by any member of school staff or the
+12 school itself;
+13 (C) any religious instruction as part of a school curriculum, including
+14 creationism and intelligent design; or
+15 (D) required or coerced reading of religious texts other than for the
+16 academic study of religion; provided, however, that any academic study of
+17 religion that includes instruction of religious perspectives shall include
+18 multiple religious perspectives.
+19 (5)(A) The right to be free of school-sponsored religious displays on
+20 school property or at school events, including:
+VT LEG #386118 v.1
+
+BILL AS INTRODUCED H.705
+2026 Page 11 of 15
+1 (i) the Ten Commandments and similar statements of religious
+2 doctrine;
+3 (ii) the Christian cross, the Star of David, the Star and Crescent of
+4 Islam, and similar symbols; and
+5 (iii) depictions of holy figures, prophets, or spiritual leaders for
+6 the purpose of promoting religious adherence.
+7 (B) This subdivision (b)(5) shall not apply to:
+8 (i) de minimis wardrobe items such as necklaces, rings, or
+9 headdresses; or
+10 (ii) displays in a private office area, provided the display is not
+11 obvious to students or the public.
+12 (6) The right to be free from school-sponsored religious messaging on
+13 school property or at school events, including at school assemblies and in the
+14 classroom. This section shall not prohibit:
+15 (A) student-created religious expression in individual assignments or
+16 projects, provided the work addresses the learning objectives required by the
+17 curriculum; or
+18 (B) reasonable accommodation of religious practices, including:
+19 (i) reasonable scheduling accommodations for religious
+20 observances;
+VT LEG #386118 v.1
+
+BILL AS INTRODUCED H.705
+2026 Page 12 of 15
+1 (ii) dietary accommodations consistent with religious
+2 requirements;
+3 (iii) styling of hair or personal grooming practices consistent with
+4 religious or cultural practices;
+5 (iv) wearing of religious items, jewelry, and regalia, including
+6 Indigenous traditional regalia and religious items; and
+7 (v) any personal expression of religious practices, or of nonbelief,
+8 provided such practices:
+9 (I) do not interfere with the rights of others or the safe and
+10 normal functioning of the school; and
+11 (II) are not done by school staff operating in their official
+12 capacity.
+13 (7) The right to refuse to engage in religious discussions or to otherwise
+14 reject unwanted proselytizing by other students.
+15 (8) The right to be free from incentives, offered by either the school or
+16 school staff, to participate in religious activities during school hours facilitated
+17 by third-party organizations, including through the offer of money, food,
+18 school supplies, or other items not otherwise available in the school.
+19 (c) Grievance procedures.
+20 (1) Each school district and approved independent school that is eligible
+21 to receive public tuition shall establish a formal grievance procedure for
+VT LEG #386118 v.1
+
+BILL AS INTRODUCED H.705
+2026 Page 13 of 15
+1 students, parents, and staff to report violations of this section. Complaints
+2 shall be acknowledged in writing within seven days following receipt.
+3 Complaints shall be investigated within 30 days following receipt. A written
+4 determination and an action plan identifying necessary and specific steps to
+5 remediate any violations found shall be issued by the district immediately
+6 following the investigation, and within 40 days following receipt the
+7 complaint.
+8 (2) Complainants shall have the right to appeal to the Agency of
+9 Education.
+10 (d) Private right of action.
+11 (1) Any student or parent of a student who alleges a violation of this
+12 section may bring a civil action in the Civil Division of the Superior Court for
+13 damages, injunctive relief, punitive damages in the case of an intentional
+14 violation, and reasonable costs and attorney’s fees.
+15 (2) No qualified or good-faith immunity shall apply to public officials
+16 who knowingly violate the provisions of this section.
+17 (3) Actions must be brought within two years following the date of the
+18 alleged violation.
+19 (4) For purposes of enforcing this section, any student currently enrolled
+20 or who was enrolled in a school at the time of the alleged violation, or the
+VT LEG #386118 v.1
+
+BILL AS INTRODUCED H.705
+2026 Page 14 of 15
+1 student’s parent or guardian, shall have standing to bring suit, without having
+2 to demonstrate any economic injury.
+3 (e) Whistleblower protection. No school employee shall be subject to
+4 discipline or retaliation for reporting, in good faith, a violation of this section.
+5 (f) Training and guidance.
+6 (1) The Agency of Education shall:
+7 (A) develop and provide training materials for school districts and
+8 schools regarding compliance with this section; and
+9 (B) develop and from time to time update model student secular
+10 rights policies and guidance documents to assist school districts and schools
+11 with compliance with this section.
+12 (2) School districts and schools shall:
+13 (A) provide training to all school officials regarding compliance with
+14 this section; and
+15 (B) adopt, ensure the enforcement of, and make available in the
+16 manner described under subdivision 563(1) of this title a student secular rights
+17 policy that shall be at least as stringent as the model policy developed by the
+18 Agency. Any school board or school that fails to adopt a policy shall be
+19 presumed to have adopted the most current model policy published by the
+20 Agency.
+VT LEG #386118 v.1
+
+BILL AS INTRODUCED H.705
+2026 Page 15 of 15
+1 Sec. 4. IMPLEMENTATION
+2 (a) The Agency of Education shall issue the guidance and model student
+3 secular rights policy required under 16 V.S.A. § 1625(f)(1) on or before
+4 September 1, 2026.
+5 (b) School districts shall have 120 days from issuance of the Agency’s
+6 model student secular rights policy to adopt a policy consistent with the
+7 requirements of 16 V.S.A. § 1625(f)(2)(B).
+8 (c) School districts shall provide annual training regarding the requirements
+9 of 16 V.S.A. § 1625 beginning with the 2026–2027 school year.
+10 Sec. 5. EFFECTIVE DATE
+11 This act shall take effect on July 1, 2026.
+VT LEG #386118 v.1

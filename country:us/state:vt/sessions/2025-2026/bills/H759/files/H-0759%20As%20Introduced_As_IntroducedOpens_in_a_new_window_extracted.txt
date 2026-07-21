@@ -1,0 +1,498 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.759
+2026 Page 1 of 20
+1 H.759
+2 Introduced by Representatives Dobrovich of Williamstown, Bosch of
+3 Clarendon, Burtt of Cabot, Coffin of Cavendish, Galfetti of
+4 Barre Town, Goslant of Northfield, and Southworth of Walden
+5 Referred to Committee on
+6 Date:
+7 Subject: Taxation; income tax; education property tax; sales and use tax; flat
+8 income tax
+9 Statement of purpose of bill as introduced: This bill proposes to repeal several
+10 existing Vermont tax types and replace them with a flat income tax.
+11 An act relating to a flat income tax
+12 It is hereby enacted by the General Assembly of the State of Vermont:
+13 Sec. 1. FINDINGS
+14 The General Assembly finds:
+15 (1) Vermont’s current tax system, including personal and corporate
+16 income tax, sales and use tax, property tax, and estate tax, is complex and
+17 burdensome, hindering economic growth and fairness.
+18 (2) A flat income tax rate can provide a transparent and equitable
+19 funding mechanism for essential State services, including education,
+20 healthcare, public safety, and infrastructure.
+VT LEG #386295 v.1
+
+BILL AS INTRODUCED H.759
+2026 Page 2 of 20
+1 (3) Targeted relief for low-income households and support for rural
+2 communities will mitigate regressive impacts and ensure equitable access to
+3 services.
+4 (4) Simplifying the tax code will attract residents and businesses,
+5 fostering economic development while maintaining fiscal stability through
+6 legislative and public oversight.
+7 (5) A balanced transition plan is necessary to phase out existing taxes
+8 and implement the new system effectively.
+9 Sec. 2. REPEALS; REPORT
+10 (a) Repeal of Vermont tax types.
+11 (1) 24 V.S.A. § 138 (local option tax) is repealed.
+12 (2) 32 V.S.A. chapters 135 and 154 (education property tax) are
+13 repealed.
+14 (3) 32 V.S.A. chapters 185, 187, 189, and 190 (estate and gift taxes) are
+15 repealed.
+16 (4) 32 V.S.A. chapter 219 (purchase and use tax) is repealed.
+17 (5) 32 V.S.A. chapter 215 (uniform capacity tax) is repealed.
+18 (6) 32 V.S.A. chapter 231 (property transfer tax) is repealed.
+19 (7) 32 V.S.A. chapter 233 (sales and use tax) is repealed.
+20 (8) 32 V.S.A. chapter 236 (land gains tax) is repealed.
+21 (9) 32 V.S.A. chapter 237 (hazardous waste tax) is repealed.
+VT LEG #386295 v.1
+
+BILL AS INTRODUCED H.759
+2026 Page 3 of 20
+1 (10) 32 V.S.A. chapter 243 (health care claims tax) is repealed.
+2 (11) 32 V.S.A. chapter 246 (child care contribution) is repealed.
+3 (12) 33 V.S.A. § 2503 (fuel tax) is repealed.
+4 (b) The Office of Legislative Counsel shall make all conforming changes to
+5 Vermont statutes as necessary to effectuate the repeals in subsection (a) of this
+6 section, including the repeal of any special fund solely funded by the taxes
+7 repealed under this section.
+8 (c) It is the intent of the General Assembly that any program or institution
+9 funded solely through a special fund that is effectively repealed by this section
+10 will instead be funded through appropriation from the General Fund. It shall
+11 be presumed that the General Assembly has chosen not to fund the program or
+12 institution if an appropriation is not made for that program or institution.
+13 Sec. 3. 32 V.S.A. § 5811(21) is amended to read:
+14 (21) “Taxable income” means, in the case of an individual, federal
+15 adjusted gross income determined without regard to 26 U.S.C. § 168(k) and:
+16 (A) increased by the following items of income (to the extent such
+17 income is excluded from federal adjusted gross income):
+18 (i) interest income from non-Vermont state and local obligations;
+19 and
+20 (ii) dividends or other distributions from any fund to the extent
+21 they are attributable to non-Vermont state or local obligations; and
+VT LEG #386295 v.1
+
+BILL AS INTRODUCED H.759
+2026 Page 4 of 20
+1 (B) decreased by the following items of income (to the extent such
+2 income is included in federal adjusted gross income):
+3 (i) income from U.S. government obligations;
+4 (ii) with respect to adjusted net capital gain income as defined in
+5 26 U.S.C. § 1(h) reduced by the total amount of any qualified dividend
+6 income: either the first $5,000.00 of such adjusted net capital gain income or
+7 40 percent of adjusted net capital gain income from the sale of assets held by
+8 the taxpayer for more than three years, except not adjusted net capital gain
+9 income from:
+10 (I) the sale of any real estate or portion of real estate used by the
+11 taxpayer as a primary or nonprimary residence; or
+12 (II) the sale of depreciable personal property other than farm
+13 property and standing timber; or stocks or bonds publicly traded or traded on
+14 an exchange, or any other financial instruments; regardless of whether sold by
+15 an individual or business; and provided that the total amount of decrease under
+16 this subdivision (21)(B)(ii) shall not exceed 40 percent of federal taxable
+17 income or $350,000.00, whichever is less;
+18 (iii) recapture of State and local income tax deductions not taken
+19 against Vermont income tax;
+VT LEG #386295 v.1
+
+BILL AS INTRODUCED H.759
+2026 Page 5 of 20
+1 (iv) the portion of certain retirement income and federally taxable
+2 benefits received under the federal Social Security Act that is required to be
+3 excluded under section 5830e of this chapter;
+4 (v) the amount of any federal deduction or credit that the taxpayer
+5 would have been allowed for the cultivation, testing, processing, or sale of
+6 cannabis or cannabis products as authorized under 7 V.S.A. chapter 33 or 37,
+7 but for 26 U.S.C. § 280E; and
+8 (vi) the amount of interest paid by a qualified resident taxpayer
+9 during the taxable year on a qualified education loan for the costs of attendance
+10 at an eligible educational institution; and
+11 (C) decreased by the following exemptions and deductions:
+12 (i) a personal exemption of $4,150.00 per person for the taxpayer,
+13 for the spouse or the deceased spouse of the taxpayer whose filing status under
+14 section 5822 of this chapter is married filing a joint return or surviving spouse,
+15 and for each individual qualifying as a dependent of the taxpayer under 26
+16 U.S.C. § 152, provided that no exemption may be claimed for an individual
+17 who is a dependent of another taxpayer;
+18 (ii) a standard deduction determined as follows:
+19 (I) for taxpayers whose filing status under section 5822 of this
+20 chapter is unmarried (other than surviving spouses or heads of households) or
+21 married filing separate returns, $6,000.00;
+VT LEG #386295 v.1
+
+BILL AS INTRODUCED H.759
+2026 Page 6 of 20
+1 (II) for taxpayers whose filing status under section 5822 of this
+2 chapter is head of household, $9,000.00; and
+3 (III) for taxpayers whose filing status under section 5822 of this
+4 chapter is married filing joint return or surviving spouse, $12,000.00;
+5 (iii) an additional deduction of $1,000.00 for each federal
+6 deduction under 26 U.S.C. § 63(f) that the taxpayer qualified for and received;
+7 and
+8 (iv) an amount equal to the itemized deduction for medical
+9 expenses taken at the federal level by the taxpayer, under 26 U.S.C. § 213:
+10 (I) minus the amount of the Vermont standard deduction and
+11 Vermont personal exemptions taken by the taxpayer under this subdivision
+12 (C); and
+13 (II) minus any amount deducted at the federal level that is
+14 attributable to the payment of an entrance fee or recurring monthly payment
+15 made to a continuing care retirement community regulated under 8 V.S.A.
+16 chapter 151, which exceeds the deductibility limits for premiums paid during
+17 the taxable year on qualified long-term care insurance contracts under 26
+18 U.S.C. 213(d)(10)(A).
+19 (D) The dollar amounts of the personal exemption allowed under
+20 subdivision (C)(i) of this subdivision (21), the standard deduction allowed
+21 under subdivision (C)(ii) of this subdivision (21), and the additional deduction
+VT LEG #386295 v.1
+
+BILL AS INTRODUCED H.759
+2026 Page 7 of 20
+1 allowed under subdivision (C)(iii) of this subdivision (21) shall be adjusted
+2 annually for inflation by the Commissioner of Taxes beginning with taxable
+3 year 2018 by using the Consumer Price Index and the same methodology as
+4 used for adjustments under 26 U.S.C. § 1(f)(3); provided, however, that as
+5 used in this subdivision (D), “consumer price index” means the last Consumer
+6 Price Index for All Urban Consumers published by the U.S. Department of
+7 Labor.
+8 Sec. 4. 32 V.S.A. § 5822 is amended to read:
+9 § 5822. TAX ON INCOME OF INDIVIDUALS, ESTATES, AND TRUSTS
+10 (a) A tax is imposed for each taxable year upon the taxable income earned
+11 or received in that year by every individual, estate, and trust, subject to income
+12 taxation under the laws of the United States at a rate of 13 percent, in an
+13 amount determined by the following tables, and adjusted as required under this
+14 section:
+15 (1) Married individuals filing joint returns and surviving spouses:
+16 If taxable income is: The tax is:
+17 Not over $64,600.00 3.35% of taxable income
+18 Over $64,600.00 but $2,164.00 plus 6.6% of
+19 not over $156,150.00 the amount of taxable
+20 income over $64,600.00
+21 Over $156,150.00 but $8,206.00 plus 7.6%
+VT LEG #386295 v.1
+
+BILL AS INTRODUCED H.759
+2026 Page 8 of 20
+1 not over $237,950.00 of the amount of taxable
+2 income over $156,150.00
+3 Over $237,950.00 $14,423.00 plus 8.75%
+4 of the amount of taxable
+5 income over $237,950.00
+6 (2) Heads of households:
+7 If taxable income is: The tax is:
+8 Not over $51,850.00 3.35% of taxable income
+9 Over $51,850.00 but $1,737.00 plus 6.6%
+10 not over $133,850.00 of the amount of taxable
+11 income over $51,850.00
+12 Over $133,850.00 but $7,149.00 plus 7.60%
+13 not over $216,700.00 of the amount of taxable
+14 income over $133,850.00
+15 Over $216,700.00 $13,446.00 plus 8.75%
+16 of the amount of taxable
+17 income over $216,700.00
+18 (3) Unmarried individuals (other than surviving spouse or head of
+19 household):
+20 If taxable income is: The tax is:
+21 Not over $38,700.00 3.35% of taxable income
+VT LEG #386295 v.1
+
+BILL AS INTRODUCED H.759
+2026 Page 9 of 20
+1 Over $38,700.00 but $1,296.00 plus 6.6% of
+2 not over $93,700.00k the amount of taxable
+3 income over $38,700.00
+4 Over $93,700.00 but $4,926.00 plus 7.6%
+5 not over $195,450.00 of the amount of taxable
+6 income over $93,700.00
+7 Over $195,450.00 $12,659.00 plus 8.75%
+8 of the amount of taxable
+9 income over $195,450.00
+10 (4) Married individuals filing separate returns:
+11 If taxable income is: The tax is:
+12 Not over $32,300.00 3.35% of taxable income
+13 Over $32,300.00 but $1,082.00 plus 6.6% of
+14 not over $78,075.00 the amount of taxable
+15 income over $32,300.00
+16 Over $78,075.00 but $4,103.00 plus 7.6%
+17 not over $118,975.00 of the amount of taxable
+18 income over $78,075.00
+19 Over $118,975.00 $7,212.00 plus 8.75%
+20 of the amount of taxable
+21 income over $118,975.00
+VT LEG #386295 v.1
+
+BILL AS INTRODUCED H.759
+2026 Page 10 of 20
+1 (5) Estates and trusts:
+2 If taxable income is: The tax is:
+3 $2,600.00 or less 3.35% of taxable income
+4 Over $2,600.00 but $87.00 plus 6.6% of
+5 not over $6,100.00 the amount of taxable
+6 income over $2,600.00
+7 Over $6,100.00 but $318.00 plus 7.6%
+8 not over $9,350.00 of the amount of taxable
+9 income over $6,100.00
+10 Over $9,350.00 $565.00 plus 8.75%
+11 of the amount of taxable
+12 income over $9,350.00
+13 (6) If the federal adjusted gross income of the taxpayer exceeds
+14 $150,000.00, then the tax calculated under this subsection shall be the greater
+15 of the tax calculated under subdivisions (1)-(5) of this subsection or three
+16 percent of the taxpayer’s federal adjusted gross income.
+17 (b) As used in this section:
+18 (1) “Married individuals,” “surviving spouse,” “head of household,”
+19 “unmarried individual,” “estate,” and “trust” have the same meaning as under
+20 the Internal Revenue Code.
+VT LEG #386295 v.1
+
+BILL AS INTRODUCED H.759
+2026 Page 11 of 20
+1 (2) The amounts of taxable income shown in the tables in this section
+2 shall be adjusted annually for inflation by the Commissioner of Taxes using
+3 the Consumer Price Index adjustment percentage, in the manner prescribed for
+4 inflation adjustment of federal income tax tables for the taxable year by the
+5 Commissioner of Internal Revenue, beginning with taxable year 2003;
+6 provided, however, notwithstanding 26 U.S.C. § 1(f)(3), that as used in this
+7 subdivision, “consumer price index” means the last Consumer Price Index for
+8 All Urban Consumers published by the U.S. Department of Labor.
+9 (c) The amount of tax determined under subsection (a) of this section shall
+10 be:
+11 (1) increased by 24 percent of the taxpayer’s federal tax liability for the
+12 taxable year for the following:
+13 (A) additional taxes on qualified retirement plans, including
+14 individual retirement accounts and medical savings accounts and other tax-
+15 favored accounts;
+16 (B) recapture of the federal investment tax credit attributable to the
+17 Vermont portion of the investment; and
+18 (C) tax on qualified lump-sum distributions of pension income not
+19 included in federal taxable income; and
+20 (2) decreased by 24 percent of the reduction in the taxpayer’s federal tax
+21 liability due to farm income averaging.
+VT LEG #386295 v.1
+
+BILL AS INTRODUCED H.759
+2026 Page 12 of 20
+1 (d)(1) A taxpayer shall be entitled to a credit against the tax imposed under
+2 this section of 24 percent of each of the credits allowed against the taxpayer’s
+3 federal income tax for the taxable year as follows: the credit for people who
+4 are elderly or permanently totally disabled and the investment tax credit
+5 attributable to the Vermont-property portion of the investment.
+6 (2) Any unused solar energy investment tax credit under this section may
+7 be carried forward for not more than five years following the first year in
+8 which the credit is claimed.
+9 (3) Individuals shall receive a nonrefundable charitable contribution
+10 credit against the tax imposed under this section for the taxable year. The
+11 credit shall be five percent of the first $20,000.00 in charitable contributions
+12 made during the taxable year that are allowable under 26 U.S.C. § 170. This
+13 credit shall be available irrespective of a taxpayer’s election not to itemize at
+14 the federal level.
+15 (e) The tax determined under subsections (a) through (d) of this section
+16 shall be reduced by a percentage equal to the portion of adjusted gross income
+17 that is not Vermont income; provided, however, that if a taxpayer’s Vermont
+18 income exceeds the taxpayer’s adjusted gross income, no reduction shall be
+19 made and provided, further, that if a taxpayer has zero or negative Vermont
+20 income and the taxpayer’s Vermont income computed without regard to the
+VT LEG #386295 v.1
+
+BILL AS INTRODUCED H.759
+2026 Page 13 of 20
+1 reductions in subsection 5823(a) of this chapter does not equal or exceed the
+2 taxpayer’s adjusted gross income, no tax shall be due under this section.
+3 Sec. 5. REPEAL OF CORPORATE INCOME TAX
+4 32 V.S.A. chapter 151, subchapter 3 (corporate income tax) is repealed.
+5 Sec. 6. CONFORMING CHANGES
+6 The Office of Legislative Counsel shall make conforming changes to
+7 32 V.S.A. chapter 151 as necessary to effectuate the changes made under Secs.
+8 4 and 5 of this act, including the repeal any tax credits available for the
+9 corporate income tax. The Office of Legislative Counsel shall take into
+10 account the intent of the General Assembly that corporations shall not be liable
+11 for income tax pursuant to 32 V.S.A. chapter 151.
+12 Sec. 7. 32 V.S.A. § 5830h is added to read:
+13 § 5830h. LOW-INCOME RELIEF CREDIT
+14 (a) A resident individual or part-year resident individual shall be entitled to
+15 a refundable credit against the tax imposed by section 5822 of this title for the
+16 taxable year.
+17 (b) A taxpayer shall be eligible for the credit under this section provided
+18 the federal adjusted gross income of the taxpayer is less than or equal to
+19 150 percent of the federal poverty level, as updated by the U.S. Department of
+20 Health and Human Services for the current year.
+VT LEG #386295 v.1
+
+BILL AS INTRODUCED H.759
+2026 Page 14 of 20
+1 (c) The credit available under this section shall be the lesser of an amount
+2 equal to 50 percent of a taxpayer’s tax liability or $1,000.00.
+3 (d) The credit amount allowed under subsection (c) of this section shall be
+4 adjusted annually for inflation by the Commissioner of Taxes beginning with
+5 taxable year 2025 by using the Consumer Price Index and the same
+6 methodology as used for adjustments under 26 U.S.C. § 1(f)(3); provided,
+7 however, that as used in this subsection, “consumer price index” means the last
+8 Consumer Price Index for All Urban Consumers published by the U.S.
+9 Department of Labor.
+10 Sec. 8. REPEAL; INCOME TAX CREDITS
+11 Repeal of personal income tax credits.
+12 (1) 32 V.S.A. § 5825a (Vermont Higher Education Investment Plan
+13 contributions) is repealed.
+14 (2) 32 V.S.A. § 5828 (mobile home park sale; capital gain credit) is
+15 repealed.
+16 (3) 32 V.S.A. § 5828b (earned income tax credit) is repealed.
+17 (4) 32 V.S.A. § 5828c (child and dependent care credit) is repealed.
+18 (5) 32 V.S.A. § 5830 (taxpayer identification numbers; credits) is
+19 repealed.
+20 (6) 32 V.S.A. § 5830b (Entrepreneurs’ Seed Capital Fund) is repealed.
+VT LEG #386295 v.1
+
+BILL AS INTRODUCED H.759
+2026 Page 15 of 20
+1 (7) 32 V.S.A. § 5830c (tax credits for charitable investments in housing)
+2 is repealed.
+3 (8) 32 V.S.A. § 5830e (retirement income; Social Security income) is
+4 repealed.
+5 (9) 32 V.S.A. § 5830f (Vermont child tax credit) is repealed.
+6 (10) 32 V.S.A. § 5830g (Vermont veteran tax credit) is repealed.
+7 Sec. 9. INTENT; EDUCATION FUNDING
+8 (a) It is the intent of the General Assembly to annually transfer funds from
+9 the General Fund to the Education Fund to provide for public education. It is
+10 further intended that up to $100,000,000.00 shall be transferred annually to a
+11 local education stabilization fund, administered by the Agency of Education, to
+12 support rural school districts and school districts with low property value grand
+13 lists.
+14 (b) It is the intent of the General Assembly to annually transfer funds from
+15 the General Fund to the Transportation Fund to provide for transportation
+16 needs.
+17 Sec. 10. 32 V.S.A. § 3116 is added to read:
+18 § 3116. REVENUE REPORT
+19 (a) Annually, on or before December 31, the Commissioner shall submit a
+20 report to House Committee on Ways and Means and the Senate Committee on
+21 Finance a report on revenue collection in the previous year. The report shall
+VT LEG #386295 v.1
+
+BILL AS INTRODUCED H.759
+2026 Page 16 of 20
+1 address education funding in the coming year and a recommended amount to
+2 be transferred from the General Fund to the Education Fund in the coming
+3 year.
+4 (b) Biennially, the report shall further include a revenue and expenditure
+5 review addressing whether an income tax rate adjustment is advisable in
+6 consideration of economic data, inflation, and extraordinary demands. The
+7 Commissioner shall provide opportunities for public input and engagement
+8 relating to this section of the report.
+9 Sec. 11. 32 V.S.A. § 5822a is added to read:
+10 § 5822a. TAX RATE ADJUSTMENT; CHAPTER AMENDMENT
+11 (a) Any adjustment to the tax rate imposed pursuant to section 5822 of this
+12 title shall require passage by two-thirds of the members present in the House
+13 and Senate.
+14 (b) In addition to the other requirements under this section, any amendment
+15 to this chapter passed after January 1, 2027, shall be referred to a statewide
+16 vote by the citizens of this State.
+17 (c)(1) The Governor may propose a temporary rate adjustment for one year,
+18 provided the rate adjustment is approved by the General Assembly, requiring
+19 passage by two-thirds of the members present in the House and Senate, and
+20 further provided that, at the time of the budget adjustment process, the Office
+VT LEG #386295 v.1
+
+BILL AS INTRODUCED H.759
+2026 Page 17 of 20
+1 of Budget and Management predicts there will be a budget shortfall within the
+2 current fiscal year of at least 10 percent of the most recently passed budget.
+3 (2) Notwithstanding subdivision (1) of this subsection (c), the Governor
+4 shall not propose a temporary rate adjustment under this subsection (c) if a
+5 temporary rate adjustment was made in both of the two consecutive years
+6 immediately prior to the current year.
+7 Sec. 12. SMALL BUSINESS INCENTIVE; 2027
+8 A nonrefundable tax credit of up to $5,000.00 shall be available in tax year
+9 2027 for taxpayers with pass-through income from a business with fewer than
+10 50 employees and gross receipts of less than $5,000,000.00.
+11 Sec. 13. PUBLIC EDUCATION CAMPAIGN; ADOPTION OF
+12 REGULATIONS
+13 (a) In calendar year 2026, the Department of Taxes shall conduct a
+14 statewide public education campaign to educate Vermonters on the flat income
+15 tax system, the benefits, and the relief available for households with low
+16 incomes.
+17 (b) The Commissioner shall begin the process to adopt new rules relating to
+18 the income tax on or before July 1, 2026. The Commissioner shall adopt
+19 emergency income tax rules on or before July 1, 2026, to take effect while the
+20 rulemaking process takes place.
+VT LEG #386295 v.1
+
+BILL AS INTRODUCED H.759
+2026 Page 18 of 20
+1 Sec. 14. LOCAL EDUCATION STABILIZATION; AGENCY OF
+2 EDUCATION
+3 On or before January 1, 2027, the Agency of Education shall establish
+4 policies and procedures to allocate local education stabilization funds for
+5 school districts pursuant to Sec. 9 of this act.
+6 Sec. 15. 32 V.S.A. chapter 225 is amended to read:
+7 CHAPTER 225. MEALS AND ROOMS ALCOHOLIC BEVERAGES TAX
+8 * * *
+9 § 9241. IMPOSITION OF TAX
+10 (a) An operator shall collect a tax of nine percent of the rent of each
+11 occupancy. [Repealed.]
+12 (b) An operator shall collect a tax on the sale of each taxable meal at the
+13 rate of nine percent of each full dollar of the total charge and on each sale for
+14 less than one dollar and on each part of a dollar in excess of a full dollar in
+15 accordance with the following formula:
+16 $0.01-0.11 $0.01
+17 0.12-0.22 0.02
+18 0.23-0.33 0.03
+19 0.34-0.44 0.04
+20 0.45-0.55 0.05
+21 0.56-0.66 0.06
+VT LEG #386295 v.1
+
+BILL AS INTRODUCED H.759
+2026 Page 19 of 20
+1 0.67-0.77 0.07
+2 0.78-0.88 0.08
+3 0.89-1.00 0.09 [Repealed.]
+4 (c) An operator shall collect a tax on each sale of alcoholic beverages at the
+5 rate of 10 percent of each full dollar of the total charge and on each sale for
+6 less than one dollar and on each part of a dollar in excess of a full dollar in
+7 accordance with the following formula:
+8 $0.01–0.14 $0.01
+9 0.15–0.24 0.02
+10 0.25–0.34 0.03
+11 0.35–0.44 0.04
+12 0.45–0.54 0.05
+13 0.55–0.64 0.06
+14 0.65–0.74 0.07
+15 0.75–0.84 0.08
+16 0.85–0.94 0.09
+17 0.95–1.00 0.10
+18 * * *
+19 § 9301. IMPOSITION; SHORT-TERM RENTAL IMPACT SURCHARGE
+20 (a) An operator shall collect a surcharge of three percent of the rent of each
+21 occupancy that is a short-term rental. As used in this subchapter, “short-term
+VT LEG #386295 v.1
+
+BILL AS INTRODUCED H.759
+2026 Page 20 of 20
+1 rental” means a furnished house, condominium, or other dwelling room or self-
+2 contained dwelling unit rented to the transient, traveling, or vacationing public
+3 for a period of fewer than 30 consecutive days and for more than 14 days per
+4 calendar year. As used in this subchapter, “short-term rental” does not mean an
+5 occupancy in a lodging establishment licensed under 18 V.S.A. chapter 85.
+6 (b) The surcharge shall be in addition to any tax assessed under section
+7 9241 of this chapter. The surcharge assessed under this section shall be paid,
+8 collected, remitted, and enforced under this chapter in the same manner as the
+9 rooms tax assessed under section 9241 of this title. [Repealed.]
+10 Sec. 16. CONFORMING CHANGES; ALCOHOLIC BEVERAGES TAX
+11 During statutory revision, the Office of Legislative Counsel shall make all
+12 conforming changes to the Vermont Statutes Annotated as necessary to
+13 effectuate the intent of Sec. 16 of this act, which is to eliminate the taxes on
+14 meals and rooms and the short-term rental surcharge but retain the tax on sales
+15 of alcoholic beverages for immediate consumption.
+16 Sec. 17. EFFECTIVE DATES
+17 (a) This section and Secs. 6 (conforming changes), 9 (intent), 13 (public
+18 education campaign), and 14 (local education stabilization) shall take effect on
+19 passage.
+20 (b) All other sections shall take effect on January 1, 2027, and apply to tax
+21 years commencing after January 1, 2027.
+VT LEG #386295 v.1
