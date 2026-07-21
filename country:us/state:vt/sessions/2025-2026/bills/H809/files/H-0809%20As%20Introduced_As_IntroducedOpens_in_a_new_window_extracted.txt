@@ -1,0 +1,487 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.809
+2026 Page 1 of 20
+1 H.809
+2 Introduced by Representatives Cina of Burlington, Logan of Burlington, and
+3 Tomlinson of Winooski
+4 Referred to Committee on
+5 Date:
+6 Subject: Education; education finance; foundation formula; education
+7 transformation; tuition eligibility; approved independent schools;
+8 State Board of Education; regional assessment districts; property tax
+9 classifications; School Construction Aid Special Fund
+10 Statement of purpose of bill as introduced: This bill proposes to repeal 2025
+11 Acts and Resolves No. 73 except changes made to the tuition eligibility criteria
+12 for approved independent schools in 16 V.S.A. § 828; the State Board of
+13 Education appointment authority changes in 16 V.S.A. §§ 161 and 162; the
+14 creation of regional assessment districts; and miscellaneous tax provisions.
+15 The bill would create a new property tax classification and an increased rate
+16 for residential properties used as second homes and short-term rentals and
+17 further creates a new property classification for nonhomestead seasonal
+18 residential properties that are taxed like nonhomestead nonresidential
+19 properties. It would also create a summer study committee to study and make
+20 recommendations regarding class sizes.
+VT LEG #386154 v.3
+
+BILL AS INTRODUCED H.809
+2026 Page 2 of 20
+1 An act relating to the repeal of 2025 Acts and Resolves No. 73
+2 It is hereby enacted by the General Assembly of the State of Vermont:
+3 * * * Intent * * *
+4 Sec. 1. INTENT
+5 With the repeal of portions of 2025 Acts and Resolves No. 73, it is the
+6 intent of the General Assembly to transform Vermont’s education governance
+7 system by:
+8 (1) building upon the work of 2015 Acts and Resolves No. 46 by
+9 identifying the characteristics of Vermont’s preferred education governance
+10 structure or structures and incentivizing school districts to voluntarily merge
+11 into larger school districts that satisfy the identified characteristics;
+12 (2) leveraging the economies of scale and efficiencies that may be
+13 provided through the use of boards of cooperative education services (BOCEs)
+14 by creating five to 10 BOCEs that provide membership for each supervisory
+15 union in Vermont; and
+16 (3) adding the construction of regional high schools to the list of high-
+17 priority funding areas in the State Aid for School Construction Program
+18 operated pursuant to 16 V.S.A. chapter 123.
+19 * * * Act 73 Repeals * * *
+20 Sec. 2. ACT 73 REPEALS
+VT LEG #386154 v.3
+
+BILL AS INTRODUCED H.809
+2026 Page 3 of 20
+1 The following sections of 2025 Acts and Resolves No. 73 are repealed on
+2 passage:
+3 (1) Sec. 1 (findings; intent; plan);
+4 (2) Sec. 2 (Commission on the Future of Public Education);
+5 (3) Sec. 3 (School District Redistricting Task Force);
+6 (4) Sec. 4 (School District Voting Ward Working Group);
+7 (5) Sec. 5 (scale; intent);
+8 (6) Sec. 6 (prospective amendment to 16 V.S.A. § 165; class size
+9 minimums);
+10 (7) Sec. 7 (failure to comply with class size minimums);
+11 (8) Sec. 8 (SBE rules; report);
+12 (9) Sec. 9 (AOE report; school calendar; graduation requirements);
+13 (10) Sec. 10 (SBE rule review; appropriation);
+14 (11) Sec. 23 (state-level governance; intent);
+15 (12) Sec. 27 (prospective amendments to 16 V.S.A. § 823);
+16 (13) Sec. 28 (prospective tuition repeals);
+17 (14) Sec. 28a (State Board of Education tuition fee rules);
+18 (15) Sec. 29 (special education report);
+19 (16) Sec. 30 (AOE special education strategic plan);
+20 (17) Sec. 31 (AOE position);
+21 (18) Sec. 32 (AOE transformation support);
+VT LEG #386154 v.3
+
+BILL AS INTRODUCED H.809
+2026 Page 4 of 20
+1 (19) Sec. 33 (AOE positions);
+2 (20) Secs. 34–43 (transition to cost-factor foundation formula);
+3 (21) Sec. 44 (transportation reimbursement guidelines);
+4 (22) Sec. 45 (inflationary measures; prekindergarten; reports);
+5 (23) Sec. 45a (foundation formula report);
+6 (24) Sec. 45b (educational opportunity payment transition);
+7 (25) Secs. 46, 47, 49, and 50 (statewide education tax; supplemental
+8 district spending tax);
+9 (26) Sec. 46a (supplemental district spending tax; cap; transition);
+10 (27) Sec. 48 (prospective amendments to December 1 letter);
+11 (28) Sec. 48a (tax rate transition);
+12 (29) Secs. 51, 52, and 54–56 (property tax credit repeal; creation of
+13 homestead exemption);
+14 (30) Sec. 53 (homestead exemption report);
+15 (31) Sec. 57 (Education Fund Advisory Committee; review of
+16 foundation formula);
+17 (32) Secs. 60 and 61 (property tax classifications);
+18 (33) Sec. 61a (tax classifications transition);
+19 (34) Sec. 61b (property tax classifications implementation report);
+20 (35) Sec. 61c (tax classifications intent); and
+21 (36) Sec. 61d (prospective repeal).
+VT LEG #386154 v.3
+
+BILL AS INTRODUCED H.809
+2026 Page 5 of 20
+1 Sec. 3. 2025 Acts and Resolves No. 73, Sec. 70 is amended to read:
+2 Sec. 70. EFFECTIVE DATES
+3 (a) This section and the following sections shall take effect on passage:
+4 (1) Sec. 1 (findings; intent; plan); [Deleted.]
+5 (2) Sec. 2 (Commission on the Future of Public Education); [Deleted.]
+6 (3) Sec. 3 (School District Redistricting Task Force); [Deleted.]
+7 (4) Sec. 4 (School District Voting Ward Working Group); [Deleted.]
+8 (5) Sec. 28a (State Board of Education tuition fee rules); [Deleted.]
+9 (6) Sec. 32 (Agency of Education transformation support); [Deleted.]
+10 (7) Sec. 33 (Agency of Education positions); [Deleted.]
+11 (8) Sec. 44 (transportation reimbursement guidelines); [Deleted.]
+12 (9) Sec. 45 (inflationary measures; prekindergarten; reports); [Deleted.]
+13 (10) Sec. 45a (foundation formula report); [Deleted.]
+14 (11) Sec. 45c (Education Fund Advisory Committee; delay);
+15 (12) Sec. 53 (homestead exemption report); [Deleted.]
+16 (13) Sec. 61b (property tax classifications implementation report);
+17 [Deleted.]
+18 (14) Sec. 61c (tax classifications intent); [Deleted.]
+19 (15) Sec. 61d (prospective repeal); [Deleted.]
+20 (16) Sec. 63 (regional assessment district transition; progress report);
+21 (17) Sec. 64 (RAD stakeholder working group);
+VT LEG #386154 v.3
+
+BILL AS INTRODUCED H.809
+2026 Page 6 of 20
+1 (18) Sec. 65 (inadvertently removed language);
+2 (19) Sec. 66 (minimum debt for tax sales);
+3 (20) Sec. 68 (property tax credit late fee); and
+4 (21) Sec. 69 (statewide adjustment correction).
+5 (b) The following sections shall take effect on July 1, 2025:
+6 (1) Sec. 5 (scale; intent); [Deleted.]
+7 (2) Sec. 8 (SBE rules; report); [Deleted.]
+8 (3) Sec. 9 (AOE report; school calendar; graduation requirements);
+9 [Deleted.]
+10 (4) Sec. 10 (SBE rule review; appropriation); [Deleted.]
+11 (5) Sec. 14 (16 V.S.A. § 3443);
+12 (6) Sec. 15 (School Construction Advisory Board sunset);
+13 (7) Sec. 21 (16 V.S.A. § 828);
+14 (8) Sec. 22 (tuition transition);
+15 (9) Sec. 23 (state-level governance; intent); [Deleted.]
+16 (10) Sec. 24 (16 V.S.A. § 161);
+17 (11) Sec. 25 (SBE appointments transition);
+18 (12) Sec. 26 (16 V.S.A. § 162); and
+19 (13) Sec. 29 (special education report); [Deleted.]
+20 (14) Sec. 30 (AOE special education strategic plan); [Deleted.]
+21 (15) Sec. 31 (AOE position); and [Deleted.]
+VT LEG #386154 v.3
+
+BILL AS INTRODUCED H.809
+2026 Page 7 of 20
+1 (16) Sec. 67 (PVR hearing officer pay).
+2 (c) The following sections shall take effect on July 1, 2026:
+3 (1) Sec. 6 (class size minimums); [Deleted.]
+4 (2) Sec. 7 (failure to comply with class size minimums); [Deleted.]
+5 (3) Sec. 12 (school construction policy);
+6 (4) Sec. 13 (16 V.S.A. § 3442);
+7 (5) Sec. 16 (16 V.S.A. § 3444);
+8 (6) Sec. 17 (16 V.S.A. § 3445);
+9 (7) Sec. 18 (16 V.S.A. § 3446);
+10 (8) Sec. 19 (transfer of rulemaking authority); and
+11 (9) Sec. 20 (repeals).
+12 (d) Sec. 48 (December 1 letter) shall take effect on July 1, 2027. [Deleted.]
+13 (e) Sec. 61a shall take effect on January 1, 2027, provided that the General
+14 Assembly has enacted new school district boundaries between the enactment
+15 of this act and January 1, 2027. [Deleted.]
+16 (f) The following sections shall take effect on July 1, 2028, provided that
+17 the new school districts contemplated by this act have assumed responsibility
+18 for the education of all resident students and that the expert tasked with
+19 developing a cost-factor foundation formula has provided to the General
+20 Assembly the report pursuant to Sec. 45a to provide the General Assembly an
+21 opportunity to enact legislation in consideration of the report:
+VT LEG #386154 v.3
+
+BILL AS INTRODUCED H.809
+2026 Page 8 of 20
+1 (1) In Sec. 27, 16 V.S.A. § 823(a) and (d);
+2 (2) Sec. 28 (tuition repeals);
+3 (3) Secs. 34–43 (transition to cost-factor foundation formula);
+4 (4) Sec. 45b (educational opportunity payment transition);
+5 (5) Secs. 46, 47, 49, and 50 (statewide education tax; supplemental
+6 district spending tax);
+7 (6) Sec. 46a (supplemental district spending tax; cap; transition);
+8 (7) Sec. 48a (tax rate transition);
+9 (8) Secs. 51, 52, and 54–56 (property tax credit repeal; creation of
+10 homestead exemption);
+11 (9) Sec. 57 (Education Fund Advisory Committee; review of foundation
+12 formula); and
+13 (10) Secs. 60 and 61 (property tax classifications). [Deleted.]
+14 (g) In Sec. 27, 16 V.S.A. § 823(b) and (c) shall take effect on July 1, 2028,
+15 provided that the new school districts contemplated by this act have assumed
+16 responsibility for the education of all resident students and that the cost-factor
+17 foundation formula report required pursuant to Sec. 45a contains evidence that
+18 it costs more to educate students in grades nine through 12 but the General
+19 Assembly has failed to enact legislation to add a secondary student weight.
+20 [Deleted.]
+VT LEG #386154 v.3
+
+BILL AS INTRODUCED H.809
+2026 Page 9 of 20
+1 (h) Sec. 62 (regional assessment districts) shall take effect on January 1,
+2 2029.
+3 * * * Tuition to Approved Schools * * *
+4 Sec. 4. 16 V.S.A. § 828 is amended to read:
+5 § 828. TUITION TO APPROVED SCHOOLS; AGE; APPEAL
+6 (a) A school district shall not pay the tuition of a student except to:
+7 (1) a public school located in Vermont;
+8 (2) an approved independent school that:
+9 (A) is located in Vermont;
+10 (B) is approved under section 166 of this title on or before July 1,
+11 2025;
+12 (C) is located within either:
+13 (i) a supervisory district that does not operate a public school for
+14 some or all grades as of July 1, 2024; or
+15 (ii) a supervisory union with one or more member school districts
+16 that does not operate a public school for some or all grades as of July 1, 2024;
+17 and
+18 (D) had at least 25 51 percent of its student enrollment composed of
+19 students attending on a district-funded tuition basis pursuant to chapter 21 of
+20 this title during the 2023–2024 school year; and
+VT LEG #386154 v.3
+
+BILL AS INTRODUCED H.809
+2026 Page 10 of 20
+1 (E) complies with the minimum class size requirements contained in
+2 subdivision 165(a)(9) of this title and State Board rule; provided, however, that
+3 if a school is unable to comply with the class size minimum standards due to
+4 geographic isolation or a school has developed an implementation plan to meet
+5 the class size minimum requirements, the school may ask the State Board to
+6 grant it a waiver from this subdivision (E), which decision shall be final;
+7 [Repealed.]
+8 * * *
+9 * * * Property Tax Classifications * * *
+10 Sec. 5. 32 V.S.A. § 4152a is added to read:
+11 § 4152a. PROPERTY TAX CLASSIFICATIONS
+12 (a) The grand list of a town shall include one or more tax classifications for
+13 each parcel of real estate. A parcel shall be classified using one of the general
+14 classes of real estate listed under subsection (b) of this section and based on the
+15 considerations set forth in this section and guidance provided by the Division
+16 of Property Valuation and Review. The listers and assessors shall annually
+17 update the grand list to include a tax classification not later than June 1 of
+18 every year, using information submitted to the Department of Taxes pursuant
+19 to this section. The tax classification may be updated after June 1 when a
+20 taxpayer files a, or corrects an erroneously filed, homestead declaration after
+21 June 1.
+VT LEG #386154 v.3
+
+BILL AS INTRODUCED H.809
+2026 Page 11 of 20
+1 (b) A parcel shall be assigned one or more of the following general classes:
+2 (1) homestead;
+3 (2) nonhomestead nonresidential;
+4 (3) nonhomestead residential; and
+5 (4) nonhomestead seasonal.
+6 (c) As used in this section:
+7 (1) “Homestead” means a parcel, or portion of a parcel, declared as a
+8 homestead on or before October 15 in accordance with section 5410 of this
+9 title for the current year.
+10 (2) “Nonhomestead nonresidential” means a parcel, or portion of a
+11 parcel, that does not qualify as “homestead” or “nonhomestead residential”
+12 under this section.
+13 (3) “Nonhomestead residential” means a parcel, or portion of a parcel,
+14 for which a homestead was not declared in accordance with section 5410 of
+15 this title for the current year and that has a residential property, as defined by
+16 the Commissioner by rule.
+17 (4) “Nonhomestead seasonal” means a parcel, or portion of a parcel, that
+18 would qualify as “nonhomestead residential,” except the parcel has no
+19 residential property fit for habitation on a year-round basis. The
+20 Commissioner shall adopt rules further defining residential property fit for
+21 habitation on a year-round basis.
+VT LEG #386154 v.3
+
+BILL AS INTRODUCED H.809
+2026 Page 12 of 20
+1 (d) A parcel with two or more portions qualifying for different tax
+2 classifications under this section shall be classified proportionally based on the
+3 percentage of floor space used.
+4 (1) In the case of a homestead with 25 percent or less of floor space used
+5 for a business purpose, the parcel shall be classified as a homestead pursuant to
+6 subdivision 5401(7)(F) of this title.
+7 (2) If a portion of floor space is used for more than one purpose, the use
+8 for which the floor space is most often used shall be considered the primary
+9 use, and the floor space shall be dedicated to that use for purposes of tax
+10 classification.
+11 (e) The Commissioner shall amend existing forms, and publish new forms,
+12 as needed to gather the necessary attestations and declarations required under
+13 this section.
+14 (f) Nothing in this section shall be construed to alter the tax treatment or
+15 enrollment eligibility of property as it relates to use value appraisal under
+16 chapter 124 of this title.
+17 (g) Persons aggrieved by a decision to classify property for taxation
+18 purposes under this section may appeal in the manner provided for property
+19 valuation appeals under this title.
+VT LEG #386154 v.3
+
+BILL AS INTRODUCED H.809
+2026 Page 13 of 20
+1 Sec. 6. 32 V.S.A. § 4152 is amended to read:
+2 § 4152. CONTENTS
+3 (a) When completed, the grand list of a town shall be in such form as the
+4 Director prescribes and shall contain such information as the Director
+5 prescribes, including:
+6 (1) In alphabetical order, the name of each real property owner and each
+7 owner of taxable personal property.
+8 (2) The last known mailing address of all such owners.
+9 (3) A brief description of each parcel of taxable real estate in the town,
+10 including a classification assigned pursuant to section 4152a of this title.
+11 “Parcel” As used in this subdivision, “parcel” means a separate and sellable lot
+12 or piece of real estate. Parcels may be combined to represent all contiguous
+13 land in the same ownership, together with all improvements thereon.
+14 * * *
+15 Sec. 7. 32 V.S.A. § 5402 is amended to read:
+16 § 5402. EDUCATION PROPERTY TAX LIABILITY
+17 (a) A statewide education tax is imposed on all nonhomestead and
+18 homestead property at the following rates:
+19 (1) The tax rate for nonhomestead nonresidential and nonhomestead
+20 seasonal property shall be $1.59 per $100.00 divided by the statewide
+21 adjustment.
+VT LEG #386154 v.3
+
+BILL AS INTRODUCED H.809
+2026 Page 14 of 20
+1 (2) The tax rate for homestead property shall be $1.00 multiplied by the
+2 education property tax spending adjustment for the municipality per $100.00 of
+3 equalized education property value as most recently determined under section
+4 5405 of this title. The homestead property tax rate for each municipality that is
+5 a member of a union or unified union school district shall be calculated as
+6 required under subsection (e) of this section.
+7 (3) The tax rate for nonhomestead residential property shall be $2.00
+8 multiplied by the education property tax spending adjustment for the
+9 municipality per $100.00 of equalized education property value as most
+10 recently determined under section 5405 of this title. The Commissioner of
+11 Taxes shall determine a nonhomestead residential education tax rate for each
+12 municipality that is a member of a union or unified union school district using
+13 the same process as is used for homesteads under subsection (e) of this section.
+14 Nonhomestead residential property shall use the same property dollar
+15 equivalent yield as homesteads in the same municipality.
+16 * * *
+17 Sec. 8. 32 V.S.A. § 5402b is amended to read:
+18 § 5402b. STATEWIDE EDUCATION TAX YIELDS;
+19 RECOMMENDATION OF THE COMMISSIONER
+20 (a) Annually, not later than December 1, the Commissioner of Taxes, after
+21 consultation with the Secretary of Education, the Secretary of Administration,
+VT LEG #386154 v.3
+
+BILL AS INTRODUCED H.809
+2026 Page 15 of 20
+1 and the Joint Fiscal Office, shall calculate and recommend a property dollar
+2 equivalent yield, an income dollar equivalent yield, and a nonhomestead
+3 property tax rate for the following fiscal year. In making these calculations,
+4 the Commissioner shall assume:
+5 * * *
+6 (4) the percentage change in the average education tax bill applied to
+7 nonhomestead nonresidential property and, the percentage change in the
+8 average education tax bill applied to nonhomestead seasonal property, the
+9 percentage change in the average education tax bill applied to nonhomestead
+10 residential property, the percentage change in the average education tax bill of
+11 homestead property, and the percentage change in the average education tax
+12 bill for taxpayers who claim a credit under subsection 6066(a) of this title are
+13 equal;
+14 * * *
+15 Sec. 9. PROPERTY TAX CLASSIFICATIONS; TRANSITION; DATA
+16 COLLECTION
+17 (a) For calendar year 2027, the Commissioner of Taxes shall amend and
+18 create forms so that taxpayers report information on the use of their property
+19 for such property to be classified as homestead, nonhomestead residential,
+20 nonhomestead nonresidential, or nonhomestead seasonal, or a proportional
+21 classification of those uses. The information collected, and classifications
+VT LEG #386154 v.3
+
+BILL AS INTRODUCED H.809
+2026 Page 16 of 20
+1 determined, shall align with the definitions and requirements of Sec. 1 of this
+2 act. The Commissioner shall use the information to determine and assign a tax
+3 classification for every grand list parcel and, on or before October 1, 2027, the
+4 Commissioner shall provide that information to the Joint Fiscal Office.
+5 (b) On or before August 1, 2027, the Commissioner of Taxes shall publish
+6 guidance that interprets and explains the statutory definitions from Sec. 1 of
+7 this act, which shall serve as the Department’s official interpretation until the
+8 Commissioner adopts rules relating to the property classification system
+9 created by this act.
+10 * * * Study Committee on Ideal Class Size Ranges * * *
+11 Sec. 10. STUDY COMMITTEE ON IDEAL CLASS SIZE RANGES;
+12 REPORT
+13 (a) Creation. There is created the Study Committee on Ideal Class Size
+14 Ranges to examine and recommend evidence-based class size ranges for
+15 Vermont public schools. The Committee shall study and make
+16 recommendations regarding optimal class size ranges by grade level and
+17 instructional context in order to:
+18 (1) improve student academic outcomes and well-being;
+19 (2) support effective instruction, including for students with disabilities,
+20 multilingual learners, and students experiencing poverty;
+VT LEG #386154 v.3
+
+BILL AS INTRODUCED H.809
+2026 Page 17 of 20
+1 (3) account for Vermont’s rural school context and varying school sizes;
+2 (4) consider fiscal sustainability and workforce availability; and
+3 (5) promote equity and consistency while preserving appropriate local
+4 flexibility.
+5 (b) Membership. The Committee shall consist of nine members who, to the
+6 extent practicable, reflect Vermont’s geographic diversity and include
+7 representation from rural and small schools and who shall be appointed as
+8 follows:
+9 (1) three classroom teachers, representing elementary, middle, and
+10 secondary levels, appointed by the Vermont-National Education Association;
+11 (2) two school administrators, one principal and one superintendent,
+12 appointed by the Vermont Principals’ Association and the Vermont
+13 Superintendents Association, respectively;
+14 (3) one school board member, appointed by the Vermont School Boards
+15 Association;
+16 (4) one member of the House of Representatives, appointed by the
+17 Speaker of the House, who shall be a member of the House Committee on
+18 Education;
+19 (5) one member of the Senate, appointed by the Committee on
+20 Committees, who shall be a member of the Senate Committee on Education;
+21 and
+VT LEG #386154 v.3
+
+BILL AS INTRODUCED H.809
+2026 Page 18 of 20
+1 (6) one representative of the Agency of Education, appointed by the
+2 Secretary of Education.
+3 (c) Powers and Duties. The Committee shall:
+4 (1) review current research on class size and student outcomes,
+5 including differentiated impacts by grade level and student population;
+6 (2) analyze current class size practices across Vermont supervisory
+7 unions and school districts;
+8 (3) consider alternative staffing models, including team teaching and
+9 instructional aides;
+10 (4) evaluate the fiscal and workforce implications of various class size
+11 ranges;
+12 (5) identify circumstances in which deviations from recommended
+13 ranges may be appropriate; and
+14 (6) develop recommended class size ranges by grade band and
+15 instructional setting.
+16 (d) Assistance. The Committee shall have the administrative, technical,
+17 and legal assistance of the Agency of Education.
+18 (e) Report. On or before January 15, 2027, the Committee shall submit a
+19 written report to the House and Senate Committees on Education with
+20 recommended class size ranges by grade band and instructional context. The
+VT LEG #386154 v.3
+
+BILL AS INTRODUCED H.809
+2026 Page 19 of 20
+1 report shall include the evidence and research the Committee relied upon in
+2 making its final recommendations.
+3 (f) Meetings.
+4 (1) The member appointed by the Secretary of Education shall call the
+5 first meeting of the Committee to occur on or before August 15, 2026.
+6 (2) The Committee shall select a chair from among its members at the
+7 first meeting.
+8 (3) A majority of the membership shall constitute a quorum.
+9 (4) The Committee shall cease to exist on January 31, 2027.
+10 (g) Compensation and reimbursement.
+11 (1) For attendance at meetings during adjournment of the General
+12 Assembly, a legislative member of the Committee serving in the member’s
+13 capacity as a legislator shall be entitled to per diem compensation and
+14 reimbursement of expenses pursuant to 2 V.S.A. § 23 for not more than six
+15 meetings. These payments shall be made from monies appropriated to the
+16 General Assembly.
+17 (2) Other members of the Committee shall be entitled to per diem
+18 compensation and reimbursement of expenses as permitted under 32 V.S.A.
+19 § 1010 for not more than six meetings. These payments shall be made from
+20 monies appropriated to the Agency of Education.
+VT LEG #386154 v.3
+
+BILL AS INTRODUCED H.809
+2026 Page 20 of 20
+1 (h) Appropriation. The sum of $3,000.00 is appropriated to the Agency of
+2 Education from the General Fund in fiscal year 2027 for per diem
+3 compensation and reimbursement of expenses for members of the Committee.
+4 * * * Effective Dates * * *
+5 Sec. 11. EFFECTIVE DATES
+6 (a) This section, Secs. 1–4 (intent; Act 73 repeals and updates), Sec. 9
+7 (transition provisions), and Sec. 10 (Study Committee on Ideal Class Size
+8 Ranges) shall take effect on passage.
+9 (b) Secs. 5–8 (new property tax classifications and rates) shall take effect
+10 on January 1, 2028.
+VT LEG #386154 v.3

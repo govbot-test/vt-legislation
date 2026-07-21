@@ -1,0 +1,93 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED S.205
+2026 Page 1 of 4
+1 S.205
+2 Introduced by Senators White, Bongartz, Hardy, Major and Vyhovsky
+3 Referred to Committee on
+4 Date:
+5 Subject: Utilities; AI data centers; moratorium; study
+6 Statement of purpose of bill as introduced: This bill proposes to impose a
+7 temporary moratorium on the siting and construction of AI data centers in
+8 Vermont for the purpose of allowing time for the Public Utility Commission to
+9 study the impact such centers would have in Vermont and make
+10 recommendations to the General Assembly for a regulatory regime that would
+11 best serve the general good of the State.
+12 An act relating to a temporary moratorium on AI data centers and a report
+13 on the construction and operation of AI data centers in Vermont
+14 It is hereby enacted by the General Assembly of the State of Vermont:
+15 Sec. 1. AI DATA CENTER MORATORIUM AND REPORT
+16 (a) Moratorium. To protect the public safety and welfare and safeguard the
+17 rights of ratepayers in Vermont, no person shall be permitted to operate an
+18 artificial intelligence (AI) data center or to in any way begin site preparation
+19 for or commence construction of an AI data center in this State prior to July 1,
+20 2030. The purpose of this temporary moratorium is to allow time for the
+VT LEG #385431 v.2
+
+BILL AS INTRODUCED S.205
+2026 Page 2 of 4
+1 appropriate regulatory entities to study and develop a regulatory regime
+2 applicable to AI data centers in Vermont that best serves the general good.
+3 (b) Definitions. As used in this section:
+4 (1) “AI data center” means a facility that requires greater than 100
+5 megawatts of new load dedicated to AI inference, training, simulation, or
+6 synthetic data generation.
+7 (2) “Person” has the same meaning as in 1 V.S.A. § 128.
+8 (3) “Ratepayer” means a member of any electric ratepayer class in
+9 Vermont, but not including an AI data center.
+10 (c) Investigation and report.
+11 (1) The Public Utility Commission, with input from the Department of
+12 Public Service and all other interested parties, shall open an investigation into
+13 the construction and operation of AI data centers in Vermont. The purpose of
+14 the investigation is for the Commission to develop findings and
+15 recommendations related to the impact AI data center deployment would have
+16 in this State and the regulatory regime that would best serve the general good
+17 of the State.
+18 (2) On or before January 15, 2027, the Commission shall report the
+19 findings and recommendations developed pursuant to this section to the House
+20 Committees on Energy and Digital Infrastructure and on Environment and the
+21 Senate Committees on Finance and on Natural Resources and Energy.
+VT LEG #385431 v.2
+
+BILL AS INTRODUCED S.205
+2026 Page 3 of 4
+1 (d) Considerations. In developing the report required by this section, the
+2 Public Utility Commission shall consider:
+3 (1) the increased energy load required to power an AI data center;
+4 (2) water consumption necessary to support the cooling of computing
+5 equipment in an AI data center;
+6 (3) the environmental impacts of an AI data center with respect to water
+7 quality and availability, air quality, local ecosystems, noise emissions, and the
+8 availability of surrounding land for other purposes, including farming,
+9 conservation, recreation, and housing;
+10 (4) strategies for maintaining the reliability and security of the power
+11 grid;
+12 (5) strategies for promoting energy efficiency and renewable energy
+13 initiatives consistent with Vermont’s climate goals;
+14 (6) a cost-allocation model that would hold all other electric ratepayers
+15 harmless from the increased energy demand necessary to operate an AI data
+16 center, including any associated costs for local, State, or regional grid
+17 upgrades;
+18 (7) the impact, both positive and negative, an AI data center would have
+19 on the Vermont economy, particularly regarding workforce opportunities, local
+20 businesses, and economic growth, generally;
+VT LEG #385431 v.2
+
+BILL AS INTRODUCED S.205
+2026 Page 4 of 4
+1 (8) environmental justice initiatives, particularly regarding the location
+2 of an AI data center;
+3 (9) local and State permitting requirements that would minimize any
+4 adverse effects of the construction and operation of AI data centers in
+5 Vermont; and
+6 (10) any other matters deemed relevant by the Public Utility
+7 Commission.
+8 Sec. 2. EFFECTIVE DATE
+9 This act shall take effect on passage.
+VT LEG #385431 v.2

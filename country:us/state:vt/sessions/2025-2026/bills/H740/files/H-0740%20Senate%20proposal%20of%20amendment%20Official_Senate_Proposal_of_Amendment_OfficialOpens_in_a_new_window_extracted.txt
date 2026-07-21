@@ -1,0 +1,66 @@
+Title: 
+Official Title: 
+Source: versions - Senate Proposal of Amendment (OfficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate proposal of amendment
+H. 740
+An act relating to the greenhouse gas inventory and registry.
+The Senate proposes to the House to amend the bill by striking out all after
+the enacting clause and inserting in lieu thereof the following:
+Sec. 1 10 V.S.A. § 582 is amended to read:
+§ 582. GREENHOUSE GAS INVENTORIES; REGISTRY
+* * *
+(e) Rules.
+(1) The Secretary may adopt rules to implement the provisions of this
+section and shall review existing and proposed international, federal, and State
+greenhouse gas emission reporting programs and make reasonable efforts to
+promote consistency among the programs established pursuant to this section
+and other programs, and to streamline reporting requirements on greenhouse
+gas emission sources. Except as provided in subsection (g) of this section,
+nothing in this section shall limit a State agency from adopting any rule within
+its authority.
+(2) The Secretary has authority to adopt rules that create a
+comprehensive greenhouse gas emission reporting program that covers all
+sources of emissions, including fuel suppliers. Suppliers of transportation and
+heating fuels covered by the rules shall comply with requests from the
+Secretary for information. The Secretary shall adopt a rule that at a minimum
+includes the types and volume of fossil fuels sold by sector for the
+transportation, residential, commercial, and industrial sectors and by zip code,
+municipality, or the smallest geographic level practicable that also protects the
+individual identities of consumers.
+* * *
+Sec. 2. RULEMAKING
+On or before July 1, 2027, the Secretary of Natural Resources shall adopt
+final rules for greenhouse gas emission reporting as required under 10 V.S.A.
+§ 582(e)(2).
+Sec. 3. APPROPRIATION
+In addition to other funds appropriated to the Agency of Natural Resources,
+in fiscal year 2027, the sum of $300,000.00 is appropriated from the General
+Fund to the Agency of Natural Resources to be used to draft the greenhouse
+gas emission reporting rules and to develop a greenhouse gas emission source
+database.
+
+Sec. 4. REPEAL
+30 V.S.A. chapter 94 (Clean Heat Standard) is repealed.
+Sec. 5. 32 V.S.A. § 3102 is amended to read:
+§ 3102. CONFIDENTIALITY OF TAX RECORDS
+* * *
+(e) The Commissioner may, in the Commissioner’s discretion and subject
+to such conditions and requirements as the Commissioner may provide,
+including any confidentiality requirements of the Internal Revenue Service,
+disclose a return or return information:
+* * *
+(23) To the Public Utility Commission and the Department of Public
+Service, provided the disclosure relates to the fuel tax under 33 V.S.A. chapter
+25 and is used for the purposes of auditing compliance with the Clean Heat
+Standard under 30 V.S.A. chapter 94. The Commissioner shall, at a minimum,
+provide the names of any new businesses selling heating fuel in any given year
+and the names of any businesses that are no longer selling heating fuel.
+[Repealed.]
+* * *
+Sec. 6. EFFECTIVE DATE
+This act shall take effect on passage.

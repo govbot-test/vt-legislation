@@ -1,0 +1,178 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.734
+2026 Page 1 of 7
+1 H.734
+2 Introduced by Representative Boutin of Barre City
+3 Referred to Committee on
+4 Date:
+5 Subject: Elections; campaign finance; lobbying; nonprofit organizations
+6 Statement of purpose of bill as introduced: This bill proposes to adopt
+7 transparency requirements for nonprofit organizations that engage in advocacy,
+8 lobbying, and other activities that attempt to impact or influence public policy,
+9 including disclosure and reporting of advocacy organization expenditures of
+10 more than $10,000.00 annually for Vermont-focused issue advocacy; require
+11 nonprofit organizations to annually disclose any affiliated entities and major
+12 funders; and create new categories of lobbying entities called “advocacy
+13 organizations” and “grassroots lobbying entities.”
+14 An act relating to nonprofit transparency in lobbying and elections
+15 It is hereby enacted by the General Assembly of the State of Vermont:
+16 Sec. 1. SHORT TITLE
+17 This act may be cited as the “Vermont Nonprofit Advocacy Transparency
+18 and Accountability Act of 2026.”
+VT LEG #386654 v.1
+
+BILL AS INTRODUCED H.734
+2026 Page 2 of 7
+1 Sec. 2. PURPOSE
+2 The purpose of this act is to strengthen transparency, accountability, and
+3 fair play in the political and advocacy activities of nonprofit organizations
+4 operating in Vermont, particularly those engaging in issue advocacy,
+5 grassroots lobbying, influencing public policy, and elections.
+6 Sec. 3. 17 V.S.A. § 2901 is amended to read:
+7 § 2901. DEFINITIONS
+8 As used in this chapter:
+9 (1) “Advocacy organization” means any entity exempt under 26 U.S.C.
+10 § 501(c) that spends more than $10,000.00 per year on issue advocacy,
+11 grassroots lobbying, public policy, or election campaigns related to Vermont.
+12 (2) “Affiliated entity” means an entity that shares staff, board members,
+13 office space, or financial resources with another nonprofit.
+14 (3) “Candidate” means an individual who has taken affirmative action to
+15 become a candidate for State, county, local, or legislative office in a primary,
+16 special, general, or local election. An affirmative action shall include one or
+17 more of the following:
+18 * * *
+19 (2)(4) “Candidate’s committee” means the candidate’s campaign staff,
+20 whether paid or unpaid.
+21 (3)(5) “Clearly identified,” with respect to a candidate, means:
+VT LEG #386654 v.1
+
+BILL AS INTRODUCED H.734
+2026 Page 3 of 7
+1 * * *
+2 (4)(6) “Contribution” means a payment, distribution, advance, deposit,
+3 loan, or gift of money or anything of value, paid or promised to be paid for the
+4 purpose of influencing an election, advocating a position on a public question,
+5 or supporting or opposing one or more candidates in any election. As used in
+6 this chapter, “contribution” shall not include any of the following:
+7 * * *
+8 (5)(7) “Election” means the procedure whereby the voters of this State
+9 or any of its political subdivisions select a person to be a candidate for public
+10 office or to fill a public office or to act on public questions, including voting on
+11 constitutional amendments. Each primary, general, special, or local election
+12 shall constitute a separate election.
+13 (6)(8) “Electioneering communication” means any communication that
+14 refers to a clearly identified candidate for office and that promotes or supports
+15 a candidate for that office or attacks or opposes a candidate for that office,
+16 regardless of whether the communication expressly advocates a vote for or
+17 against a candidate, including communications published in any newspaper or
+18 periodical or broadcast on radio or television or over the internet or any public
+19 address system; placed on any billboards, outdoor facilities, buttons, or printed
+20 material attached to motor vehicles, window displays, posters, cards,
+VT LEG #386654 v.1
+
+BILL AS INTRODUCED H.734
+2026 Page 4 of 7
+1 pamphlets, leaflets, flyers, or other circulars; or contained in any direct
+2 mailing, robotic phone calls, or mass electronic or digital communications.
+3 (7)(9) “Expenditure” means a payment, disbursement, distribution,
+4 advance, deposit, loan, or gift of money or anything of value, paid or promised
+5 to be paid, for the purpose of influencing an election, advocating a position on
+6 a public question, or supporting or opposing one or more candidates.
+7 * * *
+8 (8)(10) “Four-year general election cycle” means the 48-month period
+9 that begins 38 days after a general election for a four-year-term office.
+10 (9)(11) “Full name” means an individual’s full first name, middle name
+11 or initial, if any, and full legal last name, making the identity of the person who
+12 made the contribution apparent by unambiguous reference.
+13 (12) “Grassroots lobbying” means the act of urging the public, via
+14 media or mass communications, to contact legislators to influence legislation,
+15 public policy, or election outcomes.
+16 (10)(13) “Independent expenditure-only political committee” means any
+17 one or more individuals, or any corporation, labor organization, public interest
+18 group, or other entity, excluding a political party, that accepts contributions or
+19 makes expenditures in any amounts within any two-year general election cycle
+20 for the purpose of supporting or opposing candidates, influencing an election,
+21 or advocating for or against a public question; conducts its activities entirely
+VT LEG #386654 v.1
+
+BILL AS INTRODUCED H.734
+2026 Page 5 of 7
+1 independent of candidates; does not give contributions to candidates, political
+2 committees, or political parties; does not make related expenditures; and is not
+3 closely related to a political party or to a political committee that makes
+4 contributions to candidates or makes related expenditures. “Independent
+5 expenditure-only political committee” includes any “self-funded individual,”
+6 meaning an individual who receives no contributions from any other source for
+7 the purpose of supporting or opposing candidates, influencing an election, or
+8 advocating for or against a public question.
+9 (11)(14) “Mass media activity” means a television commercial, radio
+10 commercial, internet advertisement, mass mailing, mass electronic or digital
+11 communication, literature drop, newspaper or periodical advertisement, robotic
+12 phone call, or telephone bank, that includes the name or likeness of a clearly
+13 identified candidate for office.
+14 (12)(15) “Party candidate listing” means any communication by a
+15 political party that:
+16 * * *
+17 (13)(16) “Political committee” or “political action committee” means
+18 any formal or informal committee of one or more individuals or a corporation,
+19 labor organization, public interest group, or other entity, not including a
+20 political party, that accepts contributions or makes expenditures in any
+21 amounts in any two-year general election cycle for the purpose of supporting
+VT LEG #386654 v.1
+
+BILL AS INTRODUCED H.734
+2026 Page 6 of 7
+1 or opposing one or more candidates, influencing an election, or advocating a
+2 position on a public question in any election, and includes a legislative
+3 leadership political committee.
+4 (14)(17) “Political party” means a political party organized under
+5 chapter 45 of this title and any committee established, financed, maintained, or
+6 controlled by the party, including any subsidiary, branch, or local unit thereof,
+7 and shall be considered a single, unified political party. The national affiliate
+8 of the political party shall be considered a separate political party.
+9 (15)(18) “Public question” means an issue that is before the voters for a
+10 binding decision.
+11 (16)(19) “Single source” means an individual, partnership, corporation,
+12 association, labor organization, or any other organization or group of persons
+13 that is not a political committee or political party.
+14 (17)(20) “Telephone bank” means more than 500 telephone calls of an
+15 identical or substantially similar nature that are made to the general public
+16 within any 30-day period.
+17 (18)(21) “Two-year general election cycle” means the 24-month period
+18 that begins 38 days after a general election.
+19 (19)(22) “Legislative leadership political committee” means a political
+20 committee established by or on behalf of a political party caucus within a
+21 chamber of the General Assembly.
+VT LEG #386654 v.1
+
+BILL AS INTRODUCED H.734
+2026 Page 7 of 7
+1 Sec. 4. 17 V.S.A. § 2974 is added to read:
+2 § 2974. PUBLIC REPORTING BY ADVOCACY ORGANIZATIONS;
+3 AUDITS
+4 (a) Any advocacy organization expending more than $10,000.00 annually
+5 on Vermont-focused issue advocacy or grassroots lobbying shall:
+6 (1) file, on a quarterly basis, reports with the Secretary of State listing:
+7 (A) the total amount expended on advertisements, mailers, digital
+8 media, and canvassing;
+9 (B) donors who contributed over $1,000.00 during the reporting
+10 period; and
+11 (C) the names of any affiliated entities; and
+12 (2) include on all public communications a disclaimer reading:
+13 “Paid for by [organization name], not authorized by any candidate.”
+14 (b) Advocacy organizations that either receive or earn annual revenue over
+15 $1,000,000.00 shall perform an audit of their finances, at minimum,
+16 biannually. The organization shall file the results of these audits with the
+17 Secretary of State within three months after completion.
+18 (c) The Secretary of State shall design and make available any form
+19 required by this section.
+20 Sec. 5. EFFECTIVE DATE
+21 This act shall take effect on passage.
+VT LEG #386654 v.1

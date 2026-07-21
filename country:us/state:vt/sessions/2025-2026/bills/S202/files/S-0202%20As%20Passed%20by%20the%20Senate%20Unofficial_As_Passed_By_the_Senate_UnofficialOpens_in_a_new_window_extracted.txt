@@ -1,0 +1,105 @@
+Title: 
+Official Title: 
+Source: versions - As Passed By the Senate (UnofficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+AS PASSED BY SENATE S.202
+2026 Page 1 of 4
+1 S.202
+2 An act relating to portable solar energy generation devices
+3 It is hereby enacted by the General Assembly of the State of Vermont:
+4 Sec. 1. 30 V.S.A. § 201 is amended to read:
+5 § 201. DEFINITIONS
+6 As used in this chapter:
+7 * * *
+8 (9) “Portable solar energy generation device” means a movable
+9 photovoltaic generation device that:
+10 (A) is designed to be connected to a building’s electrical system via
+11 an electrical cord plugged into a receptacle;
+12 (B) includes a feature that prevents the system from energizing the
+13 building’s electrical system during a power outage;
+14 (C) complies with UL 3700 for plug-in photovoltaic systems by UL
+15 Solutions or an equivalent certification by an equivalent Nationally
+16 Recognized Testing Laboratory for use in the United States; and
+17 (D) is connected to a building that is connected to the electric grid.
+18 Sec. 2. 30 V.S.A. § 256 is added to read:
+19 § 256. PORTABLE SOLAR ENERGY GENERATION DEVICES
+20 (a) A customer may install one or more portable solar energy generation
+21 devices per electric meter if the devices have a maximum combined capacity
+VT LEG #387045 v.1
+
+AS PASSED BY SENATE S.202
+2026 Page 2 of 4
+1 of not more than 1,200 watts. Portable solar energy generation devices shall
+2 only be connected to systems using smart meters.
+3 (b) The installation of a portable solar energy generation device that
+4 complies with subsection (a) of this section shall not be required to comply
+5 with the requirements of section 248 of this chapter or be required to obtain an
+6 interconnection agreement with an electric distribution company.
+7 (c) An electric distribution company shall not require a customer using a
+8 portable solar energy generation device that complies with subsection (a) of
+9 this section to:
+10 (1) obtain the company’s approval before installing or using the device;
+11 (2) pay any fee or charge related to the device; or
+12 (3) install any additional controls or equipment beyond what is
+13 integrated into the device.
+14 (d) A customer with a net metering system shall not also install a portable
+15 solar energy generation device. A portable solar energy generation device
+16 shall not be eligible for net metering. Excess generation fed back into the grid
+17 by a portable solar energy generation device shall not be compensated by an
+18 electric distribution company.
+19 (e) A portable solar energy device in a public building, as defined in 20
+20 V.S.A. § 2730, shall be used in a manner that complies with all applicable
+VT LEG #387045 v.1
+
+AS PASSED BY SENATE S.202
+2026 Page 3 of 4
+1 requirements of the most recent Fire and Building Safety Code adopted by the
+2 Division of Fire Safety.
+3 Sec. 3. 24 V.S.A. § 4413(g) is amended to read:
+4 (g) Notwithstanding any provision of law to the contrary, a bylaw adopted
+5 under this chapter shall not:
+6 (1) Regulate the installation, operation, and maintenance, of a portable
+7 solar energy generation device or on a flat roof of an otherwise complying
+8 structure, of a solar energy device that heats water or space or generates
+9 electricity. For the purpose of this subdivision, “flat roof” means a roof having
+10 a slope less than or equal to five degrees.
+11 (2) Prohibit or have the effect of prohibiting the installation of solar
+12 collectors not exempted from regulation under subdivision (1) of this
+13 subsection, clotheslines, or other energy devices based on renewable resources.
+14 Sec. 4. 27 V.S.A. § 544 is amended to read:
+15 § 544. ENERGY DEVICES BASED ON RENEWABLE RESOURCES
+16 (a) No deed restrictions, covenants, or similar binding agreements running
+17 with the land shall prohibit or have the effect of prohibiting solar collectors,
+18 clotheslines, or other energy devices based on renewable resources from being
+19 installed on or, for a portable solar energy generation device as defined in 30
+20 V.S.A. § 201, appurtenant to buildings erected on the lots or parcels covered
+21 by the deed restrictions, covenants, or binding agreements. A property owner
+VT LEG #387045 v.1
+
+AS PASSED BY SENATE S.202
+2026 Page 4 of 4
+1 may not be denied permission to install solar collectors or other energy devices
+2 based on renewable resources by any entity granted the power or right in any
+3 deed restriction, covenant, or similar binding agreement to approve, forbid,
+4 control, or direct alteration of property with respect to residential dwellings.
+5 For purposes of this subsection, that entity may determine the specific location
+6 where solar collectors may be installed on the roof within an orientation to the
+7 south or within 45° east or west of due south, provided that this determination
+8 does not impair the effective operation of the solar collectors.
+9 * * *
+10 (c) The legislative intent in enacting this section is to protect the public
+11 health, safety, and welfare by encouraging the development and use of
+12 renewable resources in order to conserve and protect the value of land,
+13 buildings, and resources by preventing measures that will have the ultimate
+14 effect, whether or not intended, of driving the costs of owning and operating
+15 commercial or residential property beyond the capacity of private owners to
+16 maintain. This section shall not apply to patio railings in condominiums,
+17 cooperatives, or apartments, except for a portable solar energy generation
+18 device.
+19 Sec. 5. EFFECTIVE DATE
+20 This act shall take effect on July 1, 2026.
+VT LEG #387045 v.1

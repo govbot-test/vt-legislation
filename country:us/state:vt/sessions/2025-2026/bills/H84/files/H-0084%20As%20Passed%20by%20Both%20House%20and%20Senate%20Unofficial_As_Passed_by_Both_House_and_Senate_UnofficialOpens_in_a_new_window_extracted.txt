@@ -1,0 +1,38 @@
+Title: 
+Official Title: 
+Source: versions - As Passed by Both House and Senate (UnofficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+AS PASSED BY HOUSE AND SENATE H.84
+2026 Page 1 of 2
+1 H.84
+2 An act relating to allowing telehealth appointments to be recorded with
+3 patient and provider consent
+4 It is hereby enacted by the General Assembly of the State of Vermont:
+5 Sec. 1. 18 V.S.A. § 9361 is amended to read:
+6 § 9361. HEALTH CARE PROVIDERS DELIVERING HEALTH CARE
+7 SERVICES THROUGH TELEMEDICINE OR BY STORE-AND-
+8 FORWARD MEANS
+9 * * *
+10 (d) Neither a health care provider nor a patient shall create or cause to be
+11 created a recording of a provider’s telemedicine consultation with a patient
+12 unless both the patient and the provider consent to the recording.
+13 * * *
+14 Sec. 2. 18 V.S.A. § 9362 is amended to read:
+15 § 9362. HEALTH CARE PROVIDERS DELIVERING HEALTH CARE
+16 SERVICES BY AUDIO-ONLY TELEPHONE
+17 * * *
+18 (d) Neither a health care provider nor a patient shall create or cause to be
+19 created a recording of a provider’s telephone consultation with a patient unless
+20 both the patient and the provider consent to the recording.
+21 * * *
+VT LEG #388574 v.1
+
+AS PASSED BY HOUSE AND SENATE H.84
+2026 Page 2 of 2
+1 Sec. 3. EFFECTIVE DATE
+2 This act shall take effect on passage.
+VT LEG #388574 v.1

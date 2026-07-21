@@ -1,0 +1,123 @@
+Title: 
+Official Title: 
+Source: versions - House Proposal of Amendment (OfficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House Proposal of Amendment
+S. 202
+An act relating to portable solar energy generation devices
+The House proposes to the Senate to amend the bill by striking out all after
+the enacting clause and inserting in lieu thereof the following:
+Sec. 1. 30 V.S.A. § 201 is amended to read:
+§ 201. DEFINITIONS
+As used in this chapter:
+* * *
+(9) “Plug-in photovoltaic device” means a photovoltaic generation
+device that:
+(A) is designed to be connected to a building’s electrical system via
+an electrical cord plugged into a receptacle;
+(B) includes a feature that prevents the system from energizing the
+building’s electrical system during a power outage;
+(C) complies with UL 3700 for plug-in photovoltaic systems by UL
+Solutions or an equivalent certification by an equivalent Nationally
+Recognized Testing Laboratory for use in the United States and is installed and
+operated in compliance with IEEE 1547-2018 and any successor standard,
+using default performance and setting profiles consistent with those developed
+by regional transmission and distribution system operators; and
+(D) is connected to a building that is connected to the electric grid.
+Sec. 2. 30 V.S.A. § 256 is added to read:
+§ 256. PLUG-IN PHOTOVOLTAIC DEVICES
+(a) A customer may install one or more plug-in photovoltaic devices per
+electric meter if the devices have a maximum combined inverter capacity of
+not more than 1,200 watts. Plug-in photovoltaic devices shall only be
+connected to systems using smart meters. A customer shall ensure a device is
+temporarily but securely attached to the ground or a structure.
+(b) The installation of a plug-in photovoltaic device that complies with
+subsection (a) of this section shall not be required to comply with the
+requirements of section 248 of this chapter, shall not be required to obtain an
+interconnection agreement with an electric distribution company, and shall not
+otherwise be subject to the jurisdiction of the Public Utility Commission.
+(c) An electric distribution company shall not require a customer using a
+plug-in photovoltaic device that complies with subsection (a) of this section to:
+
+(1) obtain the company’s approval before installing or using the device;
+(2) pay any fee or charge related to the installation of the device; or
+(3) install any additional controls or equipment beyond what is
+integrated into the device.
+(d) Nothing in this section shall prevent an electric distribution company
+from recovering costs associated with the overloading of the service provided
+due to the presence of a plug-in photovoltaic device.
+(e) A customer with a net metering system shall not also install a plug-in
+photovoltaic device. A plug-in photovoltaic device shall not be eligible for net
+metering. Generation exported to the grid by a plug-in photovoltaic device
+shall not be compensated by an electric distribution company.
+(f) A plug-in photovoltaic device in a public building, as defined in 20
+V.S.A. § 2730, shall be used in a manner that complies with all applicable
+requirements of the most recent Fire and Building Safety Code adopted by the
+Division of Fire Safety.
+(g) No tenant shall install a plug-in photovoltaic device without the
+landlord’s permission. A tenant shall provide at least 10 days’ notice to the
+landlord of the tenant’s intent to install a plug-in photovoltaic device in
+compliance with subsection (a) of this section in the building. The landlord
+shall respond within 10 days with any reasonable restrictions on the
+installation of the device or may deny installation.
+Sec. 3. 24 V.S.A. § 4413(g) is amended to read:
+(g) Notwithstanding any provision of law to the contrary, a bylaw adopted
+under this chapter shall not:
+(1) Regulate the installation, operation, and maintenance of a plug-in
+photovoltaic device or, on a flat roof of an otherwise complying structure, of a
+solar energy device that heats water or space or generates electricity. For the
+purpose of this subdivision, “flat roof” means a roof having a slope less than or
+equal to five degrees.
+(2) Prohibit or have the effect of prohibiting the installation of solar
+collectors not exempted from regulation under subdivision (1) of this
+subsection, clotheslines, or other energy devices based on renewable resources.
+Sec. 4. 27 V.S.A. § 544 is amended to read:
+§ 544. ENERGY DEVICES BASED ON RENEWABLE RESOURCES
+(a) No deed restrictions, covenants, or similar binding agreements running
+with the land shall prohibit or have the effect of prohibiting solar collectors,
+clotheslines, or other energy devices based on renewable resources from being
+installed on or, for a plug-in photovoltaic device as defined in 30 V.S.A. § 201,
+
+appurtenant to buildings erected on the lots or parcels covered by the deed
+restrictions, covenants, or binding agreements. A property owner may not be
+denied permission to install solar collectors or other energy devices based on
+renewable resources by any entity granted the power or right in any deed
+restriction, covenant, or similar binding agreement to approve, forbid, control,
+or direct alteration of property with respect to residential dwellings. For
+purposes of this subsection, that entity may determine the specific location
+where solar collectors may be installed on the roof within an orientation to the
+south or within 45° east or west of due south, provided that this determination
+does not impair the effective operation of the solar collectors.
+* * *
+(c) The legislative intent in enacting this section is to protect the public
+health, safety, and welfare by encouraging the development and use of
+renewable resources in order to conserve and protect the value of land,
+buildings, and resources by preventing measures that will have the ultimate
+effect, whether or not intended, of driving the costs of owning and operating
+commercial or residential property beyond the capacity of private owners to
+maintain. This section shall not apply to patio railings in condominiums,
+cooperatives, or apartments, except for a plug-in photovoltaic device.
+Sec. 5. 9 V.S.A. § 2795 is amended to read:
+§ 2795. EFFICIENCY AND WATER CONSERVATION STANDARDS
+(a) The Commissioner shall adopt rules in accordance with the provisions
+of 3 V.S.A. chapter 25 establishing minimum efficiency standards for the types
+of new products set forth in section 2794 of this title. The rules shall provide
+for the following minimum efficiency standards for products sold or installed
+in this State:
+* * *
+(6) In the rules, the Commissioner shall adopt minimum efficiency and
+water conservation standards for each product that is subject to a standard
+under 10 C.F.R. §§ 430 and 431 as those provisions existed on January 19,
+2017 2025. The minimum standard and the testing protocol for each product
+shall be the same as adopted in those sections of the Code of Federal
+Regulations, except that for faucets, showerheads, and urinals, the minimum
+standard and testing protocol shall be as otherwise set forth in this section.
+* * *
+Sec. 6. EFFECTIVE DATE
+This act shall take effect on July 1, 2026.
+and that after passage the title of the bill be amended to read: “An act relating
+to plug-in photovoltaic devices”

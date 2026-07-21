@@ -1,0 +1,154 @@
+Title: 
+Official Title: 
+Source: versions - House Proposal of Amendment (OfficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House Proposal of Amendment
+S. 157
+An act relating to recovery residence certification
+The House proposes to the Senate to amend the bill by striking out all after
+the enacting clause and inserting in lieu thereof the following:
+Sec. 1. 18 V.S.A. § 4802 is amended to read:
+§ 4802. DEFINITIONS
+As used in this chapter:
+* * *
+(5) “Designated substance abuse counselor” means a person approved
+by the Secretary to evaluate and treat substance abusers individuals with
+substance use disorder, pursuant to the provisions of this chapter.
+* * *
+(12) “Recovery residence” means a shared living residence supporting
+residents recovering from a substance use disorder that provides residents with
+peer support, assistance accessing support services, and other community
+resources related to substance use disorder.
+(13) “Secretary” means the Secretary of Human Services or designee.
+(13)(14) “Substance abuse crisis team” means an organization approved
+by the Secretary to provide emergency treatment and transportation services to
+substance abusers individuals with substance use disorder pursuant to the
+provisions of this chapter.
+(14)(15) “Substance abuser” “Individual with substance use disorder”
+means anyone who drinks alcohol or consumes other drugs to an extent or with
+a frequency that impairs or endangers his or her the individual’s health or the
+health and welfare of others.
+(15)(16) “Treatment” means the broad range of medical, detoxification,
+residential, outpatient, aftercare, and follow-up services which that are needed
+by substance abusers individuals with substance use disorder and may include
+a variety of other medical, social, vocational, and educational services relevant
+to the rehabilitation of these persons.
+Sec. 2. 18 V.S.A. § 4806 is amended to read:
+§ 4806. DIVISION OF SUBSTANCE USE PROGRAMS
+(a) The Division of Substance Use Programs shall plan, operate, and
+evaluate a consistent, effective program of substance use programs. All duties,
+
+responsibilities, and authority of the Division shall be carried out and exercised
+by and within the Department of Health.
+(b) The Division shall be responsible for the following services:
+(1) prevention and intervention;
+(2) [Repealed.]
+(3) project CRASH schools; and
+(4) alcohol and drug treatment; and
+(5) recovery residences.
+* * *
+Sec. 3. 9 V.S.A. § 4452 is amended to read:
+§ 4452. EXCLUSIONS
+(a) Unless created to avoid the application of this chapter, this chapter does
+not apply to any of the following:
+* * *
+(b)(1) Notwithstanding subsections 4463(b) and 4467(b) and section 4468
+of this chapter only, a recovery residence may immediately exit or transfer a
+resident if all of the following conditions are met:
+(A) the recovery residence has developed and adopted a residential
+agreement:
+(i) containing a written exit and transfer policy approved by the
+Vermont Alliance for Recovery Residences or another certifying organization
+approved by the Department of Health that:
+(I) addresses the length of time that a bed will be held in the
+event of a temporary removal;
+(II) establishes the criteria by which a resident can return to the
+recovery residence in the event of a temporary removal; and
+(III) ensures a resident’s possessions will be held not less than
+60 days in the event of permanent removal;
+(ii) explaining the recovery residence’s program rules and social
+standards;
+(iii) designating alternative housing arrangements for the resident
+in the event of an exit or transfer, including contingency plans when alternative
+housing arrangements are not available;
+
+(iii)(iv) describing the recovery residence’s substance use policy,
+which shall exempt the use of a resident’s valid prescription medication when
+used as prescribed; and
+(iv)(v) indicating that by signing a residential agreement, a
+resident acknowledges that the recovery residence may cause the resident to be
+immediately exited or transferred to alternative housing if for behaving in a
+manner that impacts the health or safety of other individuals residing, working,
+or volunteering at the recovery residence, such as the resident violates
+violating the recovery residence’s substance use policy, repeatedly refusing to
+engage in services or programming, being charged with a criminal offense,
+engaging in theft, materially interfering with the recovery of other residents, or
+engages engaging in acts of violence that threaten the health or safety of other
+residents, recovery residence staff, or volunteers;
+(B) the recovery residence has obtained the resident’s written consent
+to its residential agreement, reaffirmed after seven days;
+(C) the resident violated behaved in a manner that impacted the
+health or safety of other individuals residing, working, or volunteering at the
+recovery residence, such as violating the recovery residence’s substance use
+policy in the residential agreement, repeatedly refusing to engage in services or
+programming, being charged with a criminal offense, engaging in theft,
+materially interfering with the recovery of other residents, or engaged
+engaging in acts of violence that threatened threaten the health or safety of
+other residents, recovery residence staff, or volunteers; and
+(D) the recovery residence has provided or arranged for a
+stabilization re-engagement bed or other alternative temporary housing;
+(E) the recovery residence has provided written or electronic notice
+to the resident containing the date and rationale for the temporary removal or
+transfer and options for returning to the recovery residence; and
+(F) the recovery residence has established a grievance process
+approved by the Vermont Alliance for Recovery Residences or another
+certifying organization approved by the Department of Health.
+(2) Relapse of a substance use disorder resulting in exiting a recovery
+residence shall not be deemed a cause of the resident’s own homelessness for
+purposes of obtaining emergency housing.
+(3) Notwithstanding section 4460 of this chapter, a recovery residence
+employee may enter the recovery residence at reasonable times as necessary to
+carry out functions related to the operation of the recovery residence.
+(4) As used in this subsection, “recovery residence” means a shared
+living residence supporting persons recovering from a substance use disorder
+This subsection shall only apply to a recovery residence that:
+
+(A) provides tenants with peer support and assistance accessing
+support services and community resources available to persons recovering
+from substance use disorders meets the definition of “recovery residence” in
+18 V.S.A. § 4802; and
+(B) is certified by an organization approved by the Department of
+Health and that is either a Vermont affiliate of the National Alliance for
+Recovery Residences or another approved organization.
+Sec. 4. 2024 Acts and Resolves No. 163, Sec. 5 is amended to read:
+Sec. 5. SUNSET; RECOVERY RESIDENCES; RESIDENTIAL
+AGREEMENT; REPORTING
+(a) 9 V.S.A. § 4452(b) is repealed on July 1, 2026. [Repealed.]
+(b) Sec. 4 (report; recovery residences’ exit and transfer data) is repealed
+on July 1, 2026.
+Sec. 5. RULEMAKING; RECOVERY RESIDENCE CERTIFICATION
+(a) On or before September 1, 2027, the Department of Health shall file an
+initial proposed rule with the Secretary of State pursuant to 3 V.S.A.
+§ 836(a)(2) for the purposes of establishing a voluntary recovery residence
+certification program. At a minimum, the rule shall:
+(1) require that a recovery residence seeking certification from the State
+comply with the certification standards of the Vermont Alliance for Recovery
+Residences or another organization approved by the Department; and
+(2) set forth data collection standards and reporting requirements for
+certified recovery residences, including data elements and frequency, exit and
+transfer data, and requirements for annual reporting from the Department to
+the General Assembly that measure the program’s effectiveness.
+(b) The Department shall complete the rulemaking process and adopt a
+permanent rule pursuant to 3 V.S.A. chapter 25 on or before December 1,
+2028.
+(c) If the Department identifies the need for a fee to support the voluntary
+recovery residence certification program described in this section, the
+Department shall first propose the fee to the General Assembly and, if the
+General Assembly chooses to enact it into law, may incorporate the fee into the
+required rule.
+Sec. 6. EFFECTIVE DATE
+This act shall take effect on July 1, 2026.

@@ -1,0 +1,74 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.824
+2026 Page 1 of 3
+1 H.824
+2 Introduced by Representatives Arsenault of Williston and Priestley of
+3 Bradford
+4 Referred to Committee on
+5 Date:
+6 Subject: Commerce and trade; consumer protection; vehicle phone
+7 disconnection
+8 Statement of purpose of bill as introduced: This bill proposes to require
+9 providers of mobile phone applications to provide a process that allows an
+10 occupant of a vehicle to sever a connection between the vehicle and a user
+11 connected to the vehicle through the application.
+12 An act relating to smartphone-connected vehicles
+13 It is hereby enacted by the General Assembly of the State of Vermont:
+14 Sec. 1. 9 V.S.A. § 2466e is added to read:
+15 § 2466e. VEHICLE PHONE DISCONNECTION
+16 (a) Definitions. As used in this section:
+17 (1) “App publisher” means a publisher of a mobile phone application
+18 that provides the ability for a user of the application to connect to a vehicle
+19 through the application and gain information about the vehicle or to control
+20 certain aspects of the vehicle, including the ability to:
+VT LEG #386310 v.1
+
+BILL AS INTRODUCED H.824
+2026 Page 2 of 3
+1 (A) track the location of the vehicle;
+2 (B) start or turn off the vehicle; or
+3 (C) do any other thing that, without the application, would require the
+4 user to be an occupant of the vehicle.
+5 (2) “Motor vehicle” has the same meaning as in 23 V.S.A. § 4(21).
+6 (3) “Vehicle” includes all motor vehicles that have a telematic control
+7 unit, or similar technology, that is compatible with the U.S. cellular network
+8 and allows for a user to connect to the vehicle with a mobile phone application.
+9 (4) “Vehicle manufacturer” means the original manufacturer or
+10 assembler of a vehicle.
+11 (b) Requirements.
+12 (1) An app publisher shall provide in the mobile phone application a
+13 process where an occupant of the vehicle can:
+14 (A) determine whether there is one or more users connected to the
+15 vehicle through the mobile phone application; and
+16 (B) disconnect any user that, through the mobile phone application, is
+17 connected to the vehicle.
+18 (2) The process provided pursuant to subdivision (1) of this subsection
+19 shall:
+20 (A) be no more difficult or burdensome than the process to connect to
+21 the vehicle through the mobile phone application;
+VT LEG #386310 v.1
+
+BILL AS INTRODUCED H.824
+2026 Page 3 of 3
+1 (B) require the occupant to be inside the vehicle;
+2 (C) not require:
+3 (i) any special tools or skills;
+4 (ii) separate consent from the vehicle manufacturer or app
+5 publisher; or
+6 (iii) permission or consent from the user that is being
+7 disconnected; and
+8 (D) disconnect any users so chosen by the occupant in a reasonable
+9 amount of time, but not later than 30 minutes after the occupant has completed
+10 the in-vehicle process.
+11 (c) Enforcement. A violation of this section constitutes a violation of
+12 section 2453 of this title.
+13 Sec. 2. EFFECTIVE DATE
+14 This act shall take effect on July 1, 2026.
+VT LEG #386310 v.1

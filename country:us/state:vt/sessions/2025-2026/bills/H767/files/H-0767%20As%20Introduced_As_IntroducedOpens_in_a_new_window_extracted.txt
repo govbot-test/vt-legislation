@@ -1,0 +1,303 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.767
+2026 Page 1 of 12
+1 H.767
+2 Introduced by Representative Tagliavia of Corinth
+3 Referred to Committee on
+4 Date:
+5 Subject: Conservation and development; climate change; air pollution;
+6 renewable energy; land conservation; Act 250; future land use maps;
+7 Renewable Energy Standard; Clean Heat Standard
+8 Statement of purpose of bill as introduced: This bill proposes to pause
+9 multiple climate-change-related laws for eight years.
+10 An act relating to moratoria on climate change programs
+11 It is hereby enacted by the General Assembly of the State of Vermont:
+12 * * * Findings and Purpose * * *
+13 Sec. 1. FINDINGS AND PURPOSE
+14 (a) The General Assembly finds that:
+15 (1) 2023 Acts and Resolves No. 59 and 2024 Acts and Resolves No. 181
+16 have imposed regulatory burdens that may increase housing costs and limit
+17 development opportunities, infringing on private property rights by overriding
+18 individual landowner’s decisions and local control.
+19 (2) The Global Warming Solutions Act establishes emissions reduction
+20 targets that could lead to higher energy costs through mandated transitions to
+VT LEG #386330 v.3
+
+BILL AS INTRODUCED H.767
+2026 Page 2 of 12
+1 cleaner energy sources, restricting individual rights to choose affordable
+2 energy options and violating private property rights through enforced
+3 compliance.
+4 (3) The Renewable Energy Standard established in 30 V.S.A. chapter 89
+5 requires utilities to procure increasing percentages of electricity from
+6 renewable sources, aiming for 100 percent by 2030 or 2035 depending on the
+7 utility, which may result in higher electricity rates and program costs for
+8 ratepayers, burdening individuals and property owners with unnecessary
+9 expenses.
+10 (4) The Clean Heat Standard aims to reduce greenhouse gas emissions
+11 from heating fuels but may result in increased costs for heating and energy for
+12 households with low and moderate income, limiting personal freedoms in
+13 energy consumption.
+14 (5) These acts, while intended to promote environmental sustainability,
+15 may inadvertently exacerbate affordability challenges in housing and energy,
+16 particularly in rural areas of Vermont, and encroach on fundamental individual
+17 rights to economic self-determination and private property use.
+18 (6) A temporary moratorium is necessary to evaluate the cumulative
+19 impacts on housing availability, energy affordability, and overall costs to
+20 Vermonters, allowing time for alternative approaches that balance
+VT LEG #386330 v.3
+
+BILL AS INTRODUCED H.767
+2026 Page 3 of 12
+1 environmental goals with economic realities, while safeguarding private
+2 property rights against regulatory overreach.
+3 (7) On September 17, 2025, Governor Phil Scott issued Executive Order
+4 06-25, which promotes housing construction and rehabilitation by directing
+5 State agencies to streamline permitting processes, reduce or defer fees for
+6 multifamily housing, adjust building energy standards such as the Residential
+7 Building Energy Standards (RBES) and Commercial Building Energy
+8 Standards (CBES) to mitigate cost impacts, identify and resolve regulatory
+9 barriers, and provide monthly performance reports on permit processing times
+10 and housing project approvals. This order addresses housing affordability by
+11 aiming to lower development costs and accelerate the production of needed
+12 housing units, with Vermont requiring approximately 40,000 new homes by
+13 2030, particularly for renters who often spend over 50 percent of their income
+14 on housing. However, the Executive Order’s focus on administrative reforms
+15 does not fully mitigate the statutory burdens imposed by the targeted acts,
+16 necessitating this legislative moratorium to pause additional cost drivers and
+17 allow for a comprehensive evaluation of combined impacts, including
+18 protections for individual and property rights.
+19 (8) Scientific evidence from the CO2 Coalition indicates that higher
+20 CO2 levels, such as doubling to 800 ppm, would boost plant growth by 40–46
+21 percent, enhancing Vermont’s agricultural output, such as dairy and maple, and
+VT LEG #386330 v.3
+
+BILL AS INTRODUCED H.767
+2026 Page 4 of 12
+1 drought resistance, countering mandates that treat CO2 solely as a pollutant
+2 and infringe on individual rights to benefit from natural processes.
+3 (9) Physicist William Happer’s analyses show CO2 is essential for life,
+4 with benefits like improved crop efficiency and minimal warming (1°C per
+5 doubling), outweighing costs in rural economies like Vermont’s, and saturation
+6 physics demonstrates no dangerous warming from greenhouse gases,
+7 supporting the protection of individual rights against unfounded regulatory
+8 restrictions.
+9 (10) Energy analyses by Peter Clack reveal decarbonization adds
+10 billions in costs, such as $275 trillion globally by 2050 for net zero
+11 infrastructure, without acknowledging CO2’s role in affordable energy and
+12 ecosystem health, emphasizing the need to protect private property from
+13 excessive financial burdens.
+14 (11) Electroverse data confirms CO2-driven greening, with 55.15
+15 percent accelerated global greening from 2001–2020 and global vegetation up
+16 15 percent since the 1980s due to CO2, supporting Vermont’s forests and
+17 reducing net emissions through natural sequestration, thus benefiting
+18 individual property owners in agriculture and forestry.
+19 (12) Data from the 2022 Hunga Tonga eruption shows it injected 150 Tg
+20 of water vapor, causing stratospheric cooling (-4K) and minor surface cooling,
+21 persisting into 2025, indicating natural events like volcanic activity can explain
+VT LEG #386330 v.3
+
+BILL AS INTRODUCED H.767
+2026 Page 5 of 12
+1 recent anomalies more than CO2, per 2024–2025 studies, justifying a pause on
+2 mandates that overlook such factors while infringing on private property
+3 through enforced transitions.
+4 (13) Glacial ice core research, including Vostok, EPICA, demonstrates
+5 CO2 lagged temperature by 800–1,000 years in historical cycles, with lower
+6 glacial CO2 (190–250 ppm) acting as a feedback, not driver, supporting that
+7 CO2 is beneficial for greening and agriculture, and regulations treating it as a
+8 pollutant unduly restrict private property rights in land and energy use, with
+9 recent 2025 studies showing CO2 lag during glacial cooling initiation, such as
+10 13,000 years in Eemian.
+11 (14) These scientific insights, combined with CO2’s role in boosting
+12 plant growth by 40–50 percent per doubling; drought resistance; and global
+13 greening, including a 14 percent vegetated area increase since 1980, highlight
+14 that environmental mandates may exacerbate costs without proportional
+15 benefits, while eroding private property rights and individual freedoms
+16 essential for Vermont’s economic vitality, such as developing land for housing
+17 amid a 24,000–36,000 unit shortage by 2029.
+18 (15) Research by Bjørn Lomborg demonstrates that the total cost of
+19 untreated climate change is moderate, equivalent to a 3.6 percent reduction in
+20 global gross domestic product across the century, far less than the trillions in
+21 costs from aggressive policies like the Paris Agreement, which could cost
+VT LEG #386330 v.3
+
+BILL AS INTRODUCED H.767
+2026 Page 6 of 12
+1 $819–$1,890 billion annually by 2030 while delivering only $0.11 in climate
+2 benefits per dollar spent, underscoring the inefficiency of such regulations and
+3 fees that burden private property owners and individual rights.
+4 (16) Lomborg’s analyses show that optimal, realistic climate policies,
+5 such as modest carbon taxes, could reduce global temperature rise from 4.1°C
+6 to 3.75°C by 2100 at a cost of $18 trillion, with benefits twice the costs, while
+7 pursuing unrealistic targets like 2°C would leave the world over $250 trillion
+8 worse off, supporting a moratorium on costly Vermont regulations to avoid
+9 undue economic harm and protect individual freedoms in energy choices.
+10 (17) Lomborg advocates for investing in research and development for
+11 cheaper green energy alternatives rather than subsidies and mandates that drive
+12 up energy prices, as current climate policies have spent trillions, including
+13 $4 trillion globally, without making renewables competitive, emphasizing
+14 smarter approaches that respect private property rights and reduce fees on
+15 Vermonters.
+16 (b) The purpose of this act is to impose an eight-year moratorium on the
+17 implementation and enforcement of 2023 Acts and Resolves No. 59, 2024 Acts
+18 and Resolves No. 181, the Global Warming Solutions Act, the Renewable
+19 Energy Standard, and the Clean Heat Standard to provide relief on
+20 affordability issues, protect private property rights and individual rights, and to
+21 study potential reforms based on the latest scientific data.
+VT LEG #386330 v.3
+
+BILL AS INTRODUCED H.767
+2026 Page 7 of 12
+1 * * * Act 59 * * *
+2 Sec. 2. MORATORIUM
+3 Effective upon passage, an eight-year moratorium is imposed on the
+4 implementation, enforcement, and any new regulations under 2023 Acts and
+5 Resolves No. 59. During this period, no new land use restrictions or planning
+6 requirements under this act shall be applied to housing development projects
+7 aimed at increasing affordable housing stock, preserving private property
+8 rights.
+9 * * * Act 181 * * *
+10 Sec. 3. MORATORIUM
+11 Effective upon passage, an eight-year moratorium is imposed on the
+12 implementation, enforcement, and any new regulations under 2024 Acts and
+13 Resolves No. 181, including the development or revision of future land use
+14 maps and operations of the Land Use Review Board as they pertain to housing
+15 and development. This moratorium shall prioritize maintaining private
+16 property rights and individual rights by suspending State-imposed reviews that
+17 override owner decisions and local control over land use.
+18 * * * Global Warming Solutions Act * * *
+19 Sec. 4. MORATORIUM
+20 Effective upon passage, an eight-year moratorium is imposed on new
+21 mandates, emissions reduction requirements, or enforcement actions under the
+VT LEG #386330 v.3
+
+BILL AS INTRODUCED H.767
+2026 Page 8 of 12
+1 Global Warming Solutions Act (10 V.S.A. chapter 24) that directly impact
+2 housing costs or energy affordability. Existing programs may continue, but no
+3 expansions or new compliance costs shall be imposed on residential or
+4 commercial sectors during this period, protecting individual rights to
+5 affordable energy.
+6 * * * Renewable Energy Standard * * *
+7 Sec. 5. MORATORIUM
+8 Effective upon passage, an eight-year moratorium is imposed on new
+9 mandates, increases in renewable procurement targets, or enforcement actions
+10 under the Renewable Energy Standard (30 V.S.A. chapter 89) that would
+11 impose additional costs on ratepayers. No expansions, new tier requirements,
+12 or additional compliance costs shall be imposed on utilities or passed on to
+13 consumers during this period, safeguarding private property from economic
+14 burdens.
+15 * * * Clean Heat Standard * * *
+16 Sec. 6. MORATORIUM
+17 Effective upon passage, an eight-year moratorium is imposed on the
+18 implementation, enforcement, and any new regulations under the Clean Heat
+19 Standard. This includes pausing any carbon credit systems, fuel surcharges, or
+20 transition requirements that could increase heating costs for Vermonters,
+21 respecting individual rights in energy choices.
+VT LEG #386330 v.3
+
+BILL AS INTRODUCED H.767
+2026 Page 9 of 12
+1 * * * Study * * *
+2 Sec. 7. STUDY AND REPORT
+3 (a) The Agency of Natural Resources, in consultation with the Department
+4 of Housing and Community Development and the Public Utility Commission,
+5 shall conduct a comprehensive study on the impacts of the moratoria under this
+6 act.
+7 (b) The study shall include:
+8 (1) an analysis of effects on housing availability, energy costs, and
+9 overall affordability;
+10 (2) recommendations for alternative policies that achieve environmental
+11 goals without undue economic burden or infringement on private property
+12 rights and individual rights;
+13 (3) consideration of competition with other bills, such as S.127,
+14 regarding land use and energy reforms;
+15 (4) an evaluation of the implementation and effects of the Governor’s
+16 Executive Order 06-25 on housing construction, rehabilitation, and
+17 affordability, including how it interacts with the moratoria proposed in this act;
+18 (5) a specific assessment of the Renewable Energy Standard’s impacts
+19 on electricity rates, ratepayer costs, and energy affordability, including
+20 potential alternatives for renewable procurement;
+VT LEG #386330 v.3
+
+BILL AS INTRODUCED H.767
+2026 Page 10 of 12
+1 (6) an evaluation of CO2’s beneficial effects on plant growth, greening,
+2 and agriculture, using data from the CO2 Coalition, Happer, Clack analyses,
+3 and Electroverse to assess if reduction targets overlook economic gains and
+4 violate individual rights;
+5 (7) an assessment of natural climate influences, including the Hunga
+6 Tonga eruption’s cooling effects and ice core evidence of CO2-temperature
+7 lags, using data from recent studies, the CO2 Coalition, Happer, Clack
+8 analyses, and Electroverse to evaluate if mandates infringe on private property
+9 rights without scientific justification;
+10 (8) an analysis of how paused regulations protect private property rights
+11 and individual rights, quantifying economic gains, such as reduced
+12 development costs by four to six percent per the 2025 Vermont Economic
+13 Action Plan, from restored owner autonomy; and
+14 (9) a review of Bjorn Lomborg’s cost-benefit research on climate
+15 policies, including the moderate costs of untreated climate change, including a
+16 3.6 percent gross domestic product reduction, versus the inefficiency of
+17 regulations like the Paris Agreement, such as a $0.11 benefit per dollar, to
+18 recommend cost-effective alternatives that minimize fees and respect private
+19 property rights.
+20 (c) A report shall be submitted to the General Assembly on or before
+21 January 15, 2034.
+VT LEG #386330 v.3
+
+BILL AS INTRODUCED H.767
+2026 Page 11 of 12
+1 Sec. 8. FISCAL IMPACT ANALYSIS
+2 (a) The Joint Fiscal Office, in consultation with the Public Utility
+3 Commission and relevant agencies, has analyzed the potential fiscal impacts of
+4 this act based on available data and estimates.
+5 (b) Estimated savings.
+6 (1) Moratorium on the Clean Heat Standard. Avoidance of up to $956
+7 million in program-related costs, with fuel surcharges estimated at $0.08 per
+8 gallon in the first year, 2026, and increasing to $0.58 per gallon thereafter.
+9 (2) Moratorium on the Global Warming Solutions Act. Potential
+10 reduction in State and resident expenditures for emissions reduction programs,
+11 though specific costs since 2011 are not fully quantified; however, related
+12 climate action plans identify billions of dollars in implementation costs by
+13 2050, with avoided climate damage costs estimated at $6 billion if targets are
+14 met.
+15 (3) Moratorium on the Renewable Energy Standard. Avoidance of
+16 escalating program costs, which have risen from approximately $5 million in
+17 2017 to about $32 million recently, with potential rate increases of five percent
+18 annually leading to over 25 percent by 2030 for retail electricity; changes
+19 could add $150 million to $450 million in ratepayer costs between 2025 and
+20 2035.
+VT LEG #386330 v.3
+
+BILL AS INTRODUCED H.767
+2026 Page 12 of 12
+1 (4) Moratorium on 2023 Acts and Resolves No. 59. Minimal direct
+2 savings but potential preservation of property tax revenues by pausing land
+3 conservation efforts that could remove land from tax rolls or shift burdens,
+4 with impacts varying by town and including possible lower tax bills in areas
+5 with more conserved lands, while protecting private property rights.
+6 (5) Moratorium on 2024 Acts and Resolves No. 181. Limited fiscal
+7 impact, primarily savings in administrative costs for the Land Use Review
+8 Board and related planning, with application fees such as $295.00 for Tier 1A
+9 areas and overall fee collections for similar programs historically in the range
+10 of hundreds of thousands annually. The gains here are in preserved private
+11 property rights.
+12 (c) Estimated costs. The comprehensive study required under Sec. 7 of this
+13 act is projected to cost approximately $200,000.00, covering agency
+14 consultations, data analysis, and reporting.
+15 (d) Overall, this act is anticipated to result in net positive fiscal impacts
+16 through significant cost avoidance, outweighing the minor expenses of the
+17 study, while providing economic relief to Vermonters and upholding private
+18 property rights and individual rights.
+19 * * * Effective Date * * *
+20 Sec. 4. EFFECTIVE DATE
+21 This act shall take effect on passage.
+VT LEG #386330 v.3

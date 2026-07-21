@@ -1,0 +1,379 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.746
+2026 Page 1 of 16
+1 H.746
+2 Introduced by Representatives Olson of Starksboro, Burke of Brattleboro,
+3 Carris Duncan of Whitingham, Charlton of Chester, Duke of
+4 Burlington, Harple of Glover, Lalley of Shelburne, and Priestley
+5 of Bradford
+6 Referred to Committee on
+7 Date:
+8 Subject: Conservation and development; potable water supply and wastewater
+9 system permitting; siting; isolation distances; design flows; taxation
+10 Statement of purpose of bill as introduced: This bill proposes to amend
+11 multiple provisions of the potable water supply and wastewater system
+12 requirements in statute and in rule in order to enable additional housing
+13 development in the State. The bill also would allow a permitted potable water
+14 supply used for a public benefit, such as a school, child or elder care, or a
+15 government building, to change to another use for a public benefit with a
+16 similar number of users without redesign of the supply or required additional
+17 capacity for the supply. The bill would require the potable water supply and
+18 wastewater system rules to be amended to provide design standards for the
+19 construction of wastewater systems underneath land used for parking, car
+20 parks, or other similar paved surfaces. The bill would also require the rules to
+21 be amended to reduce design flows to allow for compact housing and other
+VT LEG #386103 v.1
+
+BILL AS INTRODUCED H.746
+2026 Page 2 of 16
+1 appropriate development. In addition, the bill would provide that the minimum
+2 horizontal isolation distance between all components of a wastewater system
+3 and a potable water supply shall be 75 feet unless, based on the specific site
+4 conditions, the Secretary of Natural Resources determines that a greater
+5 isolation distance or larger isolation zone is necessary due to designated
+6 criteria. The bill would provide that when issuing a permit for an indirect
+7 discharge system, the Secretary shall require an easement or other permanent
+8 legal access only to the indirect discharge system and the disposal area and not
+9 for all potential service connections. The bill would provide that no wetlands
+10 permit would be required for the siting of a leachfield in the buffer zone of a
+11 Class II wetland when the leachfield is part of a permitted wastewater system.
+12 The bill also would provide that no Act 250 permit or permit amendment is
+13 required for the construction of improvements for water or wastewater
+14 infrastructure serving a village and downtown center. In addition, the bill
+15 would exempt from the land use change tax the construction on or
+16 development of land enrolled in the Use Value Appraisal Program for the
+17 purpose of permitting a potable water supply or wastewater system for
+18 residential housing.
+19 An act relating to potable water supply and wastewater system permitting
+VT LEG #386103 v.1
+
+BILL AS INTRODUCED H.746
+2026 Page 3 of 16
+1 It is hereby enacted by the General Assembly of the State of Vermont:
+2 Sec. 1. PURPOSE
+3 The purpose of this act is to simplify the design and installation
+4 requirements for public and private water supplies and for public and private
+5 wastewater systems in order to reduce the cost of housing and other
+6 development while also maintaining essential protections for human health and
+7 the environment.
+8 Sec. 2. 10 V.S.A. § 1971 is amended to read:
+9 § 1971. PURPOSE
+10 It is the purpose of this chapter to:
+11 (1) establish a comprehensive program to regulate the construction,
+12 replacement, modification, and operation of potable water supplies and
+13 wastewater systems in the State in order to protect encourage construction of
+14 housing and foster economic development while also protecting human health
+15 and the environment, including potable water supplies, surface water, and
+16 groundwater;
+17 (2) eliminate duplicative or unnecessary permitting requirements
+18 through the consolidation of existing authorities and, where appropriate, the
+19 use of permits by rule;
+VT LEG #386103 v.1
+
+BILL AS INTRODUCED H.746
+2026 Page 4 of 16
+1 (3) allow the use of alternative, innovative, and experimental
+2 technologies for the treatment and disposal of wastewater in the appropriate
+3 circumstances;
+4 (4) protect the investment of homeowners through a flexible remediation
+5 process for failed potable water supplies and wastewater systems;
+6 (5) increase reliance on and the accountability of the private sector for
+7 the design and installation of potable water supplies and wastewater systems,
+8 through licensing and enforcement; and
+9 (6) allow delegation of the permitting program created by this chapter to
+10 municipalities demonstrating the capacity to administer the chapter.
+11 Sec. 3. 10 V.S.A. § 1973 is amended to read:
+12 § 1973. PERMITS
+13 (a) Except as provided in this section and sections 1974 and 1978 of this
+14 title, a person shall obtain a permit from the Secretary before:
+15 (1) subdividing land;
+16 (2) creating or modifying a campground in a manner that affects a
+17 potable water supply or wastewater system or the requirements for providing
+18 potable water and wastewater disposal;
+19 (3) constructing, replacing, or modifying a potable water supply or
+20 wastewater system;
+21 (4) using or operating a failed supply or failed system;
+VT LEG #386103 v.1
+
+BILL AS INTRODUCED H.746
+2026 Page 5 of 16
+1 (5) constructing a new building or structure;
+2 (6) modifying an existing building or structure in a manner that
+3 increases the design flow or modifies other operational requirements of a
+4 potable water supply or wastewater system, provided that when the use of an
+5 existing, permitted potable water supply used for a public benefit, such as a
+6 school, child or elder care, or government use, is altered for use for another
+7 public benefit with a similar number of users, the Secretary shall not require
+8 redesign of the supply or require additional capacity for the supply;
+9 (7) making a new or modified connection to a new or existing potable
+10 water supply or wastewater system; or
+11 (8) changing the use of a building or structure in a manner that increases
+12 the design flows or modifies other operational requirements of a potable water
+13 supply or wastewater system.
+14 * * *
+15 (f)(1) The Secretary shall give deference to a certification by a licensed
+16 designer with respect to the engineering design or judgment exercised by the
+17 designer in order to minimize Agency review of certified designs. Nothing in
+18 this section shall limit the responsibility of the licensed designer to comply
+19 with all standards and rules, or the authority of the Secretary to review and
+20 comment on design aspects of an application or to enforce Agency rules with
+21 respect to the design or the design certification. This section shall allow the
+VT LEG #386103 v.1
+
+BILL AS INTRODUCED H.746
+2026 Page 6 of 16
+1 Secretary to issue a permit under this chapter based on the certification by a
+2 licensed designer of record drawings or the design of a wastewater system or
+3 potable water supply without individual review of each certification by the
+4 Secretary.
+5 (2) The Secretary shall issue a permit for a new or modified connection
+6 to a water main and a sewer main or indirect discharge system from a building
+7 or structure in a designated downtown development district upon submission
+8 of an application under subsection (b) of this section that consists solely of the
+9 certification of a licensed designer, in accordance with subsection (d) of this
+10 section, and a letter from the owner of the water main and sewer main or
+11 indirect discharge system allocating the capacity needed to accommodate the
+12 new or modified connection. However, this subdivision (2) shall not apply if
+13 the Secretary finds one of the following:
+14 (A) The Secretary has prohibited the system that submitted the
+15 allocation letter from issuing new allocation letters due to a lack of capacity.
+16 (B) As a result of an audit of the application performed on a random
+17 basis or in response to a complaint, the system is not designed in accordance
+18 with the rules adopted under this chapter.
+19 (3) When the Secretary issues a permit for a new or modified connection
+20 to an existing permitted indirect discharge system, the approval of the
+VT LEG #386103 v.1
+
+BILL AS INTRODUCED H.746
+2026 Page 7 of 16
+1 connection shall not require reissuance, reevaluation, or modification of the
+2 existing permitted indirect discharge system permit.
+3 * * *
+4 (k) When issuing a permit for an indirect discharge system, the Secretary
+5 shall require an easement or other permanent legal access only to the indirect
+6 discharge system and the disposal area. An easement or other permanent legal
+7 access shall not be required prior to issuance of the permit for every potential
+8 service connection from a building or structure to the indirect discharge
+9 system.
+10 Sec. 4. 10 V.S.A. § 1978 is amended to read:
+11 § 1978. RULES
+12 (a) The Secretary shall adopt rules, in accordance with 3 V.S.A. chapter 25,
+13 necessary for the administration of this chapter. These rules shall include the
+14 following:
+15 (1) Performance standards for wastewater systems, including standards
+16 for the maximum application rates for the sizing of a leachfield for a
+17 wastewater system based on soil texture and soil structure.
+18 (2) Design flow standards for potable water supplies and wastewater
+19 systems, including:
+20 (A) design standards for the construction of wastewater systems
+21 underneath land used for parking, car parks, or other similar paved surfaces;
+VT LEG #386103 v.1
+
+BILL AS INTRODUCED H.746
+2026 Page 8 of 16
+1 (B) design flows specific to systems serving compact housing, small
+2 homes, or community systems serving small homes;
+3 (C) reduced capacity requirements for wastewater systems using
+4 water-saving devices based on the number of living units served by the system;
+5 and
+6 (D) design flow requirements for community-based wastewater
+7 systems that replace on-site wastewater systems that reflect the actual flow for
+8 living units served.
+9 (3) Design requirements, including isolation distances, provided that for
+10 wastewater systems that include a leachfield in a mound, the rules shall allow
+11 any fill material that meets ASTM International specification C-33 or type 2
+12 soil standards.
+13 (4) Monitoring and reporting requirements.
+14 (5) Soils and hydrogeologic requirements.
+15 (6) Operation and maintenance requirements appropriate to the
+16 complexity of the system.
+17 * * *
+18 (16) Performance standards, design requirements, and design flow
+19 standards for compact wastewater systems that use advanced filtration
+20 technologies, such as aerobic treatment units, biofilters, compact leachfields, or
+21 drip irrigation. Any standards adopted for compact wastewater systems shall
+VT LEG #386103 v.1
+
+BILL AS INTRODUCED H.746
+2026 Page 9 of 16
+1 allow for importation of materials into the State for the design and installation
+2 of the compact wastewater system.
+3 (b) The Secretary may, by rule, establish permitting exemptions upon a
+4 determination that those exemptions are consistent with the purposes of this
+5 chapter, and are necessary for the appropriate implementation of this chapter.
+6 (c) The Secretary shall first adopt rules under this section no later than July
+7 30, 2002. [Repealed.]
+8 (d) The Secretary shall not adopt rules under this chapter that allow
+9 wastewater systems that serve lots created after June 13, 2002, to be
+10 constructed on ground with a maximum slope in excess of 20 percent. This
+11 limitation shall not apply to replacement wastewater systems.
+12 (e)(1) The Secretary shall periodically review and, if necessary, revise the
+13 rules adopted under this chapter to ensure that the technical standards remain
+14 current with the known and proven technologies regarding potable water
+15 supplies and wastewater systems.
+16 (2) The Secretary shall seek advice from a Technical Advisory
+17 Committee in carrying out the mandate of this subdivision. The Governor
+18 shall appoint the members of the Committee and ensure that there is at least
+19 one representative of the following entities on the Committee: professional
+20 engineers, site technicians, well drillers, hydrogeologists, town officials with
+21 jurisdiction over potable water supplies and wastewater systems, water quality
+VT LEG #386103 v.1
+
+BILL AS INTRODUCED H.746
+2026 Page 10 of 16
+1 specialists, technical staff of the Agency of Natural Resources, and technical
+2 staff of the Department of Health. Administrative support for the Advisory
+3 Committee shall be provided by the Secretary of Natural Resources.
+4 (3) The Technical Advisory Committee shall provide annual reports,
+5 starting on January 15, 2003, to the Chairs of the House Committee on
+6 Corrections and Institutions and the Senate Committee on Institutions. The
+7 reports shall include information on the following topics: the implementation
+8 of this chapter and the rules adopted under this chapter; the number and type of
+9 alternative or innovative systems approved for general use, approved for use as
+10 a pilot project, and approved for experimental use; the functional status of
+11 alternative or innovative systems approved for use as a pilot project or
+12 approved for experimental use; the number of permit applications received
+13 during the preceding calendar year; the number of permits issued during the
+14 preceding calendar year; and the number of permit applications denied during
+15 the preceding calendar year, together with a summary of the basis of denial.
+16 * * *
+17 (f) The Secretary may adopt emergency rules as necessary to assure that the
+18 implementation of this chapter does not have an undue adverse effect upon the
+19 marketability of title to real estate.
+VT LEG #386103 v.1
+
+BILL AS INTRODUCED H.746
+2026 Page 11 of 16
+1 Sec. 5. 10 V.S.A. § 1983 is added to read:
+2 § 1983. ISOLATION DISTANCES
+3 (a) The minimum horizontal isolation distance between all components of a
+4 wastewater system and a potable water supply, including a public water source,
+5 shall be 75 feet unless, based on the specific site conditions, the Secretary
+6 determines that a greater isolation distance or larger isolation zone is necessary
+7 to:
+8 (1) prevent the potential subsurface flow of effluent from impacting a
+9 potable water supply;
+10 (2) prevent the potable water supply from impacting the performance of
+11 a wastewater system; or
+12 (3) protect human health and the environment from a threat or potential
+13 threat of contamination posed by the construction techniques or materials used
+14 in the wastewater system or the potable water supply.
+15 (b) The maximum horizontal isolation distance or isolation zone that the
+16 Secretary can approve under subsection (a) of this section is 200 feet.
+17 Sec. 6. TRANSITION; IMPLEMENTATION; EFFECTIVE DATE
+18 (a) The Secretary of Natural Resources shall consult with the Technical
+19 Advisory Committee regarding the rulemaking required under 10 V.S.A.
+20 § 1978 in Sec. 4 of this act on or before October 1, 2026.
+VT LEG #386103 v.1
+
+BILL AS INTRODUCED H.746
+2026 Page 12 of 16
+1 (b) On or before January 1, 2028, the Secretary of Natural Resources shall
+2 amend the Department of Environmental Conservation’s Wastewater System
+3 and Potable Water Supply Rules in order to ensure consistency with the
+4 requirements of this act, including the required rulemaking under 10 V.S.A.
+5 § 1978.
+6 (c) Potable water supply and wastewater system permits shall be issued
+7 under the Department of Environmental Conservation’s current Wastewater
+8 System and Potable Water Supply Rules until the rules are amended for
+9 consistency with the requirements of this act or until July 1, 2027, whichever
+10 occurs first.
+11 Sec. 7. 10 V.S.A. § 913 is amended to read:
+12 § 913. PROHIBITION
+13 (a) Except for allowed uses adopted by the Department by rule, no person
+14 shall conduct or allow to be conducted an activity in a significant wetland or
+15 buffer zone of a significant wetland except in compliance with a permit,
+16 conditional use determination, or order issued by the Secretary.
+17 (b) A permit shall not be required under this section for:
+18 (1) any activity that occurred before the effective date of this section
+19 unless the activity occurred within:
+20 (A) an area identified as a wetland on the Vermont significant
+21 wetlands inventory maps;
+VT LEG #386103 v.1
+
+BILL AS INTRODUCED H.746
+2026 Page 13 of 16
+1 (B) a wetland that was contiguous to an area identified as a wetland
+2 on the Vermont significant wetlands inventory maps; or
+3 (C) the buffer zone of a wetland referred to in subdivision (A) or (B)
+4 of this subdivision (1); and
+5 (2) any construction within a wetland that is identified on the Vermont
+6 significant wetlands inventory maps or within the buffer zone of such a
+7 wetland, provided that the construction was completed prior to February 23,
+8 1992, and no action for which a permit is required under the rules of the
+9 Department was taken or caused to be taken on or after February 23, 1992.
+10 (c) Notwithstanding the requirement under subsection (b) of this section for
+11 a permit to conduct an activity in a wetland or wetland buffer zone, no permit
+12 shall be required under this section for the siting of a leachfield in the buffer
+13 zone of a Class II wetland when the leachfield is part of a wastewater system
+14 permitted by the Secretary of Natural Resources under chapter 64 of this title.
+15 Sec. 8. 10 V.S.A. § 1263(f) is amended to read:
+16 (f)(1) Existing indirect discharges to the waters of the State from on-site
+17 disposal of sewage shall comply with and be subject to the provisions of this
+18 chapter, and shall obtain the required permit, no not later than July 1, 1991.
+19 Notwithstanding the requirements of subsections 1259(d) and (e) of this title,
+20 the Secretary shall grant a permit for an existing indirect discharge to the
+21 waters of the State for on-site disposal of sewage unless he or she the Secretary
+VT LEG #386103 v.1
+
+BILL AS INTRODUCED H.746
+2026 Page 14 of 16
+1 finds that the discharge violates the water quality standards. Existing indirect
+2 discharges from on-site sewage disposal systems of less than 6,500 gpd
+3 capacity shall not require a permit.
+4 (2) Notwithstanding the requirements of chapter 170 of this title, prior to
+5 issuing a permit under this chapter for a new indirect discharge, the Secretary
+6 shall provide notice to the public of a draft permit and a comment period of not
+7 more than 15 days. After the conclusion of the comment period, the Secretary
+8 shall allow any person to request a public hearing on the draft permit for a
+9 period of not more than 15 days.
+10 Sec. 9. 10 V.S.A. § 6081 is amended to read:
+11 § 6081. PERMITS REQUIRED; EXEMPTIONS
+12 * * *
+13 (ee) No permit or permit amendment is required for the construction of
+14 improvements for water or wastewater infrastructure serving a village and
+15 downtown center.
+16 Sec. 10. 32 V.S.A. § 3752(5) is amended to read:
+17 (5)(A) “Development” means, for the purposes of determining whether
+18 a land use change tax is to be assessed under section 3757 of this chapter, the
+19 construction of any building, road, or other structure, or any mining,
+20 excavation, or landfill activity.
+VT LEG #386103 v.1
+
+BILL AS INTRODUCED H.746
+2026 Page 15 of 16
+1 (B) “Development” also means the subdivision of a parcel of land
+2 into two or more parcels, regardless of whether a change in use actually occurs,
+3 where one or more of the resulting parcels contains less than 25 acres each; but
+4 if subdivision is solely the result of a transfer to one or more of a spouse, ex-
+5 spouse in a divorce settlement, parent, grandparent, child, grandchild, niece,
+6 nephew, or sibling of the transferor, or to the surviving spouse of any of the
+7 foregoing, then “development” shall not apply to any portion of the newly
+8 created parcel or parcels that qualify for enrollment and for which, within
+9 30 days following the transfer, each transferee or transferor applies for
+10 reenrollment in the Use Value Appraisal Program.
+11 * * *
+12 (G) The term “development” does not include the construction on or
+13 development of enrolled land for the purpose of permitting a potable water
+14 supply or wastewater system under 10 V.S.A. chapter 64 to be used for
+15 residential housing.
+16 Sec. 11. 32 V.S.A. § 9603 is amended to read:
+17 § 9603. EXEMPTIONS
+18 The following transfers are exempt from the tax imposed by this chapter:
+19 * * *
+20 (29) Transfers of easements required for the permitting of a potable
+21 water supply or wastewater system under 10 V.S.A. chapter 64.
+VT LEG #386103 v.1
+
+BILL AS INTRODUCED H.746
+2026 Page 16 of 16
+1 Sec. 12. EFFECTIVE DATE
+2 This act shall take effect on July 1, 2026.
+VT LEG #386103 v.1

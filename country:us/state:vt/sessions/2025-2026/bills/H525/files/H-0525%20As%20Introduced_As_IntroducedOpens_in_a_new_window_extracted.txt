@@ -1,0 +1,53 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.525
+2026 Page 1 of 2
+1 H.525
+2 Introduced by Representative Micklus of Milton
+3 Referred to Committee on
+4 Date:
+5 Subject: Insurance; motor vehicle; glass coverage; deductible prohibited
+6 Statement of purpose of bill as introduced: This bill proposes to require a
+7 policy of motor vehicle insurance that provides comprehensive coverage to
+8 include full glass coverage without regard to any deductible or minimum
+9 amount.
+10 An act relating to insurance coverage for motor vehicle glass
+11 It is hereby enacted by the General Assembly of the State of Vermont:
+12 Sec. 1. 8 V.S.A. § 4212 is added to read:
+13 § 4212. COVERAGE FOR MOTOR VEHICLE GLASS
+14 (a) A policy of motor vehicle insurance that provides comprehensive
+15 coverage, whether designated as such or included within a broader coverage,
+16 shall provide complete coverage for the repair or replacement of damaged
+17 motor vehicle glass when a claim is for motor vehicle glass only, and such
+18 claim shall not be subject to any deductible or minimum amount.
+VT LEG #384976 v.2
+
+BILL AS INTRODUCED H.525
+2026 Page 2 of 2
+1 (b) As used in this section:
+2 (1) “Advanced driver assistance system” means any motor vehicle
+3 electronic safety system, as outlined in the most recent version of SAE
+4 International’s SAE J3016 Levels of Driving Automation, that is designed to
+5 support the driver and motor vehicle in a manner intended to:
+6 (A) increase motor vehicle safety; and
+7 (B) reduce losses associated with motor vehicle crashes.
+8 (2) “Motor vehicle glass” means the glass and nonglass parts associated
+9 with the replacement of the glass used in the windshield, doors, or windows of
+10 a motor vehicle.
+11 (3) “Repair or replacement of damaged motor vehicle glass” includes:
+12 (A) inspecting, repairing, restoring, or replacing damaged motor
+13 vehicle glass; and
+14 (B) calibrating or recalibrating an advanced driver assistance system
+15 when an incident requires the replacement of damaged motor vehicle glass.
+16 Sec. 2. APPLICATION
+17 Sec. 1 of this act shall apply to all policies and contracts offered, issued, or
+18 renewed on or after October 1, 2026.
+19 Sec. 3. EFFECTIVE DATE
+20 This act shall take effect on July 1, 2026.
+VT LEG #384976 v.2

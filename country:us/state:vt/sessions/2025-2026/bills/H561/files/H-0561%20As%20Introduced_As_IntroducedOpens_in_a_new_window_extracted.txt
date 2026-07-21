@@ -1,0 +1,61 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.561
+2026 Page 1 of 3
+1 H.561
+2 Introduced by Representative Morrow of Weston
+3 Referred to Committee on
+4 Date:
+5 Subject: Public service; energy; net metering; fees
+6 Statement of purpose of bill as introduced: This bill proposes to increase the
+7 fees for electric generation facility applications.
+8 An act relating to electric generation facility fees
+9 It is hereby enacted by the General Assembly of the State of Vermont:
+10 Sec. 1. 30 V.S.A. § 248c is amended to read:
+11 § 248c. FEES; DEPARTMENT OF PUBLIC SERVICE AND PUBLIC
+12 UTILITY COMMISSION; PARTICIPATION IN CERTIFICATION
+13 AND SITING PROCEEDINGS
+14 * * *
+15 (d) Electric and natural gas facilities. This subsection sets fees for
+16 registrations and applications under section 248 of this title.
+17 (1) There shall be a fee of $100.00 $200.00 for each electric generation
+18 facility less than or equal to 50 kW in plant capacity, or for a rooftop project,
+19 or for a hydroelectric project filing a net metering registration, or for an
+20 application filed under subsection 248(n) of this title, or for an energy storage
+VT LEG #386173 v.2
+
+BILL AS INTRODUCED H.561
+2026 Page 2 of 3
+1 facility less than or equal to 1 MW in nameplate capacity that is required to
+2 obtain a certificate of public good under section 248 of this title and is
+3 proposed to be located inside an existing building and that would not require
+4 any ground disturbance work or upgrades to the distribution system.
+5 (2) There shall be a fee of $25.00 $200.00 for modifications for each
+6 electric generation facility less than or equal to 50 kW in plant capacity, or for
+7 a rooftop project, or for a hydroelectric project filing a net metering
+8 registration, or for an application filed under subsection 248(n) of this title, or
+9 for an energy storage facility less than or equal to 1 MW in nameplate capacity
+10 that is required to obtain a certificate of public good under section 248 of this
+11 title and is proposed to be located inside an existing building and that would
+12 not require any ground disturbance work or upgrades to the distribution
+13 system.
+14 (3) There shall be a fee for electric generation facilities and energy
+15 storage facilities that are required to obtain a certificate of public good under
+16 section 248 of this title and that do not qualify for the lower fees in
+17 subdivisions (1) and (2) of this subsection, calculated as follows:
+18 (A) $5.00 $8.00 per kW; and
+19 (B) $100.00 $400.00 for modifications.
+20 * * *
+VT LEG #386173 v.2
+
+BILL AS INTRODUCED H.561
+2026 Page 3 of 3
+1 Sec. 2. EFFECTIVE DATE
+2 This act shall take effect on July 1, 2026.
+VT LEG #386173 v.2

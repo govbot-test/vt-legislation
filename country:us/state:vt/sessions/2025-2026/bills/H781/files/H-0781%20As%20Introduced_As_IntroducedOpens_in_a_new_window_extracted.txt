@@ -1,0 +1,169 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.781
+2026 Page 1 of 7
+1 H.781
+2 Introduced by Representatives Dobrovich of Williamstown, Bosch of
+3 Clarendon, Boutin of Barre City, Burtt of Cabot, Coffin of
+4 Cavendish, Galfetti of Barre Town, Goslant of Northfield,
+5 Maguire of Rutland City, Morgan, M. of Milton, Nelson of
+6 Derby, Nielsen of Brandon, and Wells of Brownington
+7 Referred to Committee on
+8 Date:
+9 Subject: Juvenile proceedings
+10 Statement of purpose of bill as introduced: This bill proposes to expand the
+11 number of offenses that commence in the Criminal Division of the Superior
+12 Court rather than the Family Division when committed by a juvenile.
+13 An act relating to filing certain juvenile offenses in the Criminal Division
+14 It is hereby enacted by the General Assembly of the State of Vermont:
+15 Sec. 1. 33 V.S.A. § 5201 is amended to read:
+16 § 5201. COMMENCEMENT OF DELINQUENCY PROCEEDINGS
+17 * * *
+18 (c)(1) Any proceeding concerning a child who is alleged to have committed
+19 an act specified in subsection 5204(a) of this title after attaining 14 years of
+20 age, but not 22 years of age, shall originate in the Criminal Division of the
+VT LEG #385896 v.1
+
+BILL AS INTRODUCED H.781
+2026 Page 2 of 7
+1 Superior Court, provided that jurisdiction may be transferred in accordance
+2 with this chapter and chapter 52A of this title, unless the State’s Attorney files
+3 the charge directly as a youthful offender petition in the Family Division.
+4 (2)(A) Any proceeding concerning a child who is alleged to have
+5 committed one of the following acts after attaining 14 years of age, but not 22
+6 years of age, shall originate in the Criminal Division of the Superior Court,
+7 provided that jurisdiction may be transferred in accordance with this chapter
+8 and chapter 52A of this title, unless the State’s Attorney files the charge
+9 directly as a youthful offender petition in the Family Division:
+10 (i) a violation of a condition of release as defined in 13 V.S.A.
+11 § 7559 imposed by the Criminal Division for any of the offenses listed in
+12 subsection 5204(a) of this title; or
+13 (ii) a violation of a condition of release as defined in 13 V.S.A.
+14 § 7559 imposed by the Criminal Division for an offense that was transferred
+15 from the Family Division pursuant to section 5204 of this title.
+16 (B) This subdivision (2) shall not apply to a proceeding that is the
+17 subject of a final order accepting the case for youthful offender treatment
+18 pursuant to subsection 5281(d)(c) of this title.
+19 (3) Any proceeding concerning a child who is alleged to have committed
+20 one of the following acts after attaining 16 years of age, but not 22 years of
+21 age, shall originate in the Criminal Division of the Superior Court, provided
+VT LEG #385896 v.1
+
+BILL AS INTRODUCED H.781
+2026 Page 3 of 7
+1 that jurisdiction may be transferred in accordance with this chapter and chapter
+2 52A of this title, unless the State’s Attorney files the charge directly as a
+3 youthful offender petition in the Family Division:
+4 (A) using a firearm while committing a felony in violation of 13
+5 V.S.A. § 4005, or an attempt to commit that offense;
+6 (B) trafficking a regulated drug in violation of 18 V.S.A. chapter 84,
+7 subchapter 1, or an attempt to commit that offense; or
+8 (C) aggravated stalking as defined in 13 V.S.A. § 1063(a)(3), or an
+9 attempt to commit that offense.
+10 (d) Any proceeding concerning a child who is alleged to have committed
+11 any offense other than those specified in subsection 5204(a) of this title or
+12 subdivision (c)(2) or (3) of this section before attaining 19 years of age shall
+13 originate in the Family Division of the Superior Court, provided that
+14 jurisdiction may be transferred in accordance with this chapter.
+15 * * *
+16 Sec. 2. 33 V.S.A. § 5203 is amended to read:
+17 § 5203. TRANSFER FROM OTHER COURTS
+18 (a) If it appears to a Criminal Division of the Superior Court that the
+19 defendant was under 19 years of age at the time the offense charged was
+20 alleged to have been committed and the offense charged is an offense not
+21 specified in subsection 5204(a) or subdivision 5201(c)(2) or (3) of this title,
+VT LEG #385896 v.1
+
+BILL AS INTRODUCED H.781
+2026 Page 4 of 7
+1 that court shall forthwith transfer the proceeding to the Family Division of the
+2 Superior Court under the authority of this chapter, and the minor shall then be
+3 considered to be subject to this chapter as a child charged with a delinquent
+4 act.
+5 (b) If it appears to a Criminal Division of the Superior Court that the
+6 defendant had attained 14 years of age but not 18 years of age at the time an
+7 offense specified in subsection 5204(a) or subdivision 5201(c)(2) or (3) of this
+8 title was alleged to have been committed, that court may forthwith transfer the
+9 proceeding to the Family Division of the Superior Court under the authority of
+10 this chapter, and the minor shall then be considered to be subject to this chapter
+11 as a child charged with a delinquent act.
+12 (c) If it appears to the State’s Attorney that the defendant was under 19
+13 years of age at the time the felony offense charged was alleged to have been
+14 committed and the felony charged is not an offense specified in subsection
+15 5204(a) or subdivision 5201(c)(2) or (3) of this title, the State’s Attorney shall
+16 file charges in the Family Division of the Superior Court, pursuant to section
+17 5201 of this title. The Family Division may transfer the proceeding to the
+18 Criminal Division pursuant to section 5204 of this title.
+19 * * *
+VT LEG #385896 v.1
+
+BILL AS INTRODUCED H.781
+2026 Page 5 of 7
+1 Sec. 3. 33 V.S.A. § 5204 is amended to read:
+2 § 5204. TRANSFER FROM FAMILY DIVISION OF THE SUPERIOR
+3 COURT
+4 (a) After a petition has been filed alleging delinquency, upon motion of the
+5 State’s Attorney and after hearing, the Family Division of the Superior Court
+6 may transfer jurisdiction of the proceeding to the Criminal Division of the
+7 Superior Court if the child had attained 16 years of age but not 19 years of age
+8 at the time the act was alleged to have occurred and the delinquent act set forth
+9 in the petition is a felony not specified in subdivisions (1)–(11)(30) of this
+10 subsection or if the child had attained 12 years of age but not 14 years of age at
+11 the time the act was alleged to have occurred, and if the delinquent act set forth
+12 in the petition was any of the following:
+13 (1) arson causing death as defined in 13 V.S.A. § 501 or an attempt to
+14 commit that offense;
+15 (2) assault and robbery with a dangerous weapon as defined in 13
+16 V.S.A. § 608(b) or an attempt to commit that offense;
+17 (3) assault and robbery causing bodily injury as defined in 13 V.S.A.
+18 § 608(c) or an attempt to commit that offense;
+19 (4) aggravated assault as defined in 13 V.S.A. § 1024 or an attempt to
+20 commit that offense;
+VT LEG #385896 v.1
+
+BILL AS INTRODUCED H.781
+2026 Page 6 of 7
+1 (5) murder as defined in 13 V.S.A. § 2301 and aggravated murder as
+2 defined in 13 V.S.A. § 2311 or an attempt to commit either of those offenses;
+3 (6) manslaughter as defined in 13 V.S.A. § 2304 or an attempt to
+4 commit that offense;
+5 (7) kidnapping as defined in 13 V.S.A. § 2405 or an attempt to commit
+6 that offense;
+7 (8) unlawful restraint as defined in 13 V.S.A. § 2406 or 2407 or an
+8 attempt to commit that offense;
+9 (9) maiming as defined in 13 V.S.A. § 2701 or an attempt to commit
+10 that offense;
+11 (10) sexual assault as defined in 13 V.S.A. § 3252(a)(1) or (a)(2) or an
+12 attempt to commit that offense; or
+13 (11) aggravated sexual assault as defined in 13 V.S.A. § 3253 and
+14 aggravated sexual assault of a child as defined in 13 V.S.A. § 3253a or an
+15 attempt to commit either of those offenses;
+16 (12) aggravated stalking as defined in 13 V.S.A. § 1063(a)(3) or an
+17 attempt to commit that offense;
+18 (13) first degree aggravated domestic assault as defined in 13 V.S.A.
+19 § 1043 or second degree aggravated domestic assault as defined in 13 V.S.A.
+20 § 1044 or an attempt to commit any of those offenses;
+VT LEG #385896 v.1
+
+BILL AS INTRODUCED H.781
+2026 Page 7 of 7
+1 (14) lewd or lascivious conduct as defined in 13 V.S.A. § 2601 or an
+2 attempt to commit that offense;
+3 (15) lewd or lascivious conduct with a child as defined in 13 V.S.A.
+4 § 2602 or an attempt to commit that offense;
+5 (16) carrying a dangerous or deadly weapon while committing a felony
+6 in violation of 13 V.S.A. § 4005 or an attempt to commit that offense;
+7 (17) trafficking a regulated drug in violation of 18 V.S.A. chapter 84,
+8 subchapter 1 or an attempt to commit that offense; or
+9 (18) human trafficking as defined in 13 V.S.A. § 2652 and aggravated
+10 human trafficking as defined in 13 V.S.A. § 2653 or an attempt to commit
+11 either of those offenses.
+12 Sec. 4. EFFECTIVE DATE
+13 This act shall take effect on passage.
+VT LEG #385896 v.1

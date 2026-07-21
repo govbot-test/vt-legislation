@@ -1,0 +1,723 @@
+Title: 
+Official Title: 
+Source: versions - As Passed by Both House and Senate (UnofficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+AS PASSED BY HOUSE AND SENATE H.385
+2026 Page 1 of 30
+1 H.385
+2 An act relating to remedies and protections for victims of coerced debt
+3 It is hereby enacted by the General Assembly of the State of Vermont:
+4 Sec. 1. 9 V.S.A. chapter 63, subchapter 13 is added to read:
+5 Subchapter 13. Coerced Debt
+6 § 2495a. DEFINITIONS
+7 As used in this subchapter:
+8 (1) “Adequate documentation” means at least one of the following:
+9 (A) a copy of a report filed with a federal, state, or local law
+10 enforcement agency that identifies the coerced debt and the circumstances
+11 under which the coerced debt was incurred, the filing of which subjects the
+12 person filing the report to criminal penalties for filing false information if, in
+13 fact, the information in the report is false;
+14 (B) a court order finding that the debt was coerced; or
+15 (C) a sworn certification from a qualified third-party professional
+16 regarding the debtor’s claim of coerced debt.
+17 (2) “Coerced debt” means all or a portion of secured or unsecured debt
+18 solely or jointly in a debtor’s name that:
+19 (A) was incurred as a result of domestic abuse, human trafficking, or
+20 the abuse, neglect, or exploitation of a vulnerable adult and the perpetrator’s:
+21 (i) use of the debtor’s personal information without the debtor’s
+22 knowledge, authorization, or consent; or
+VT LEG #389415 v.1
+
+AS PASSED BY HOUSE AND SENATE H.385
+2026 Page 2 of 30
+1 (ii) use or threat of force, intimidation, undue influence, fraud,
+2 deception, coercion, or other similar means against the debtor;
+3 (B) is not a mortgage loan as defined in 8 V.S.A. § 2101(15); and
+4 (C) is not a commercial loan as defined in 8 V.S.A. § 2101(2).
+5 (3) “Creditor” means a person, or the person’s successor, assignee, or
+6 agent, claiming to own or have the right to collect a debt owed by the debtor.
+7 (4) “Debtor” means a person who:
+8 (A) owes coerced debt; and
+9 (B) is a survivor of domestic abuse or human trafficking; or
+10 (C) is a vulnerable adult who is a survivor of abuse, neglect, or
+11 exploitation as those terms are defined under 33 V.S.A. chapter 69.
+12 (5) “Domestic abuse” has the same meaning as abuse in 15 V.S.A.
+13 § 1101(1).
+14 (6) “Future abuse” means abuse as defined in 15 V.S.A. § 1101(1),
+15 except that the abuse need not occur between family or household members.
+16 (7) “Good faith” has the same meaning as provided in 9A V.S.A.
+17 § 1—201(b)(20).
+18 (8) “Human trafficking” has the same meaning as in 13 V.S.A. § 2652
+19 or 2653.
+20 (9) “Perpetrator of coerced debt” or “perpetrator” means an individual
+21 who causes or is alleged to have caused coerced debt to be incurred by another.
+VT LEG #389415 v.1
+
+AS PASSED BY HOUSE AND SENATE H.385
+2026 Page 3 of 30
+1 (10) “Qualified third-party professional” means any of the following
+2 individuals who do not have a conflict of interest:
+3 (A) an officer of the court or law enforcement personnel;
+4 (B) a court-appointed special advocate;
+5 (C) a crisis worker as defined in 12 V.S.A. § 1614(a)(1) employed at
+6 a program that assists survivors of domestic violence, sexual assault, stalking,
+7 human trafficking, or abuse of children, and who has relevant training or
+8 expertise;
+9 (D) a licensed attorney; or
+10 (E) a health care provider as defined in 18 V.S.A. § 9402(7).
+11 (11)(A) “Statement of coerced debt” means a sworn written statement
+12 by a debtor provided by mail to a creditor that includes the following
+13 information:
+14 (i) identification of the debt, or portion of the debt, alleged to be
+15 coerced debt;
+16 (ii) if available, a description of the circumstances under which the
+17 coerced debt was allegedly incurred;
+18 (iii) a statement by the debtor disclosing that the debtor did not
+19 willingly authorize the use of the debtor’s name or personal information to
+20 incur such debt;
+VT LEG #389415 v.1
+
+AS PASSED BY HOUSE AND SENATE H.385
+2026 Page 4 of 30
+1 (iv) any information known by the debtor, including account
+2 information or credit card information and, if applicable, the name of any other
+3 individual in whose name such debt was jointly incurred;
+4 (v) the identity of and contact information for the perpetrator, if
+5 known, unless the debtor signs a sworn statement that disclosing such
+6 information is likely to result in future abuse to the debtor or to a member of
+7 the debtor’s immediate family;
+8 (vi) the debtor’s preferred language and contact method and
+9 information such as a telephone number, email address, physical address, or
+10 safe address for either the debtor or a third party whom the debtor designates to
+11 receive information about the coerced debt, which shall be specified by the
+12 debtor; and
+13 (vii) any other documents the debtor deems appropriate to support
+14 the statement.
+15 (B) As used in subdivision (A) of this subdivision (11), “mail” means
+16 certified mail, certificate of mailing, or any other similar first-class mail
+17 tracking method used or approved by the U.S. Postal Service, including
+18 Intelligent Mail barcode Tracing (IMb Tracing). The term also includes any
+19 electronic or digital transmission that provides a verifiable date, timestamp, or
+20 tracking capability.
+VT LEG #389415 v.1
+
+AS PASSED BY HOUSE AND SENATE H.385
+2026 Page 5 of 30
+1 (C) A statement of coerced debt shall be notarized or shall include
+2 the following language inserted above the debtor’s signature and date:
+3 “I declare that the above statement is true and accurate to the best of
+4 my knowledge and belief. I understand that if the above statement is false, I
+5 will be subject to the penalty of perjury or to other sanctions in the discretion
+6 of the court.”
+7 (12) “Sworn certification” means a written statement by a qualified
+8 third-party professional in the following form:
+9 CERTIFICATION OF QUALIFIED THIRD-PARTY PROFESSIONAL
+10 I, .................... (name of qualified third-party professional), do hereby
+11 certify under penalty of perjury as follows:
+12 1. I am a qualified third-party professional as defined in 9 V.S.A.
+13 § 2495a(10) who has had in-person contact or face-to-face contact through an
+14 electronic medium with .................... (name of debtor).
+15 2. Based on my professional interactions with the debtor and
+16 information presented to me in my professional capacity, I have a reasonable
+17 basis to believe .................... (name of debtor) is a survivor of domestic abuse
+18 or human trafficking or is a vulnerable adult who is a survivor of abuse,
+19 neglect, or exploitation, and has incurred all or a portion of debt that is coerced
+20 debt.
+VT LEG #389415 v.1
+
+AS PASSED BY HOUSE AND SENATE H.385
+2026 Page 6 of 30
+1 3. Based on my professional interactions with the debtor and on
+2 information presented to me, I have reason to believe that the circumstances
+3 under which the coerced debt was incurred are as follows:
+4 4. The following debts or portions of the debts have been identified to
+5 me as coerced:
+6 I attest that the foregoing is true and correct.
+7 (Printed name of qualified third-party professional)
+8 (Signature of qualified third-party professional)
+9 (Business address and business telephone)
+10 (Date)
+11 § 2495b. COERCED DEBT PROHIBITED
+12 A person shall not cause another person to incur coerced debt.
+13 Substantiated coerced debt is not enforceable against the debtor.
+14 § 2495c. CREDITOR’S CONDUCT PURSUANT TO A DEBTOR’S
+15 STATEMENT OF COERCED DEBT
+16 (a) Within 10 business days following receipt of a debtor’s statement of
+17 coerced debt and adequate documentation, a creditor shall:
+18 (1) cease all collection activities and refrain from selling, assigning, or
+19 otherwise transferring for consideration such debt;
+20 (2) notify the debtor it has ceased all collection activities pending further
+21 review of the claim; and
+VT LEG #389415 v.1
+
+AS PASSED BY HOUSE AND SENATE H.385
+2026 Page 7 of 30
+1 (3) notify any credit reporting agency to which it furnished adverse
+2 information about such debt that the debtor disputes the accuracy of the
+3 adverse information.
+4 (b) If a debtor notifies a creditor that a particular debt being collected, or a
+5 portion thereof, is coerced debt, but does not provide all the information
+6 required under subsection (a) of this section or provides such notice orally, and
+7 if such creditor does not cease such collection activities, then within 10
+8 business days after receipt of the debtor’s notice of the coerced debt, the
+9 creditor shall inform the debtor that additional written information is required
+10 and shall provide the debtor with Model Form A-1, as described in subsection
+11 (g) of this section.
+12 (c)(1) Within 30 days following receipt of a debtor’s statement of coerced
+13 debt and adequate documentation, the creditor shall complete a reasonable
+14 investigation of the disputed information, which shall include a review of all
+15 information provided by the debtor and any other relevant information
+16 available to the creditor and, upon completion of the investigation, make a
+17 determination as to the accuracy of the debtor’s claim of coerced debt.
+18 (2) The 30-day period described in subdivision (1) of this subsection
+19 may be extended for up to an additional 15 days if the creditor receives
+20 supplementary information from the debtor during that 30-day period that is
+21 relevant to the investigation.
+VT LEG #389415 v.1
+
+AS PASSED BY HOUSE AND SENATE H.385
+2026 Page 8 of 30
+1 (d) Within five business days after making a determination under
+2 subsection (c) of this section, the creditor shall notify the debtor of such
+3 determination in writing and shall provide a good faith basis for the
+4 determination. The notice shall not include personally identifiable information
+5 of another person. If the creditor:
+6 (1) determines the disputed debt is coerced debt, the creditor shall notify
+7 the debtor that it is ceasing collection activities and contact any consumer
+8 reporting agencies to which it furnished adverse information about the debtor’s
+9 coerced debt and request that such information be deleted from the debtor’s
+10 file and credit report; or
+11 (2) determines the available information does not establish that the
+12 disputed debt is coerced debt, the creditor may recommence collection
+13 activities; however, the creditor is prohibited from selling, assigning, or
+14 otherwise transferring such debt.
+15 (e) All communications from the creditor to a debtor under this section
+16 shall be made using only the debtor’s preferred contact method and, in
+17 addition, the creditor shall make reasonable efforts to use the debtor’s
+18 preferred language as identified in the debtor’s statement of coerced debt.
+19 (f) In connection with a statement of coerced debt, the creditor:
+20 (1) shall not disclose the contact information the debtor provides in the
+21 statement of coerced debt to any other person, including the perpetrator or joint
+VT LEG #389415 v.1
+
+AS PASSED BY HOUSE AND SENATE H.385
+2026 Page 9 of 30
+1 account holders, without the debtor’s express written authorization, unless
+2 directed or authorized to do so by court order; and
+3 (2) may request that the debtor provide the identity of and contact
+4 information for the perpetrator, if known, unless the debtor signs a sworn
+5 statement that disclosing such information is likely to result in abuse to the
+6 debtor or to a member of the debtor’s immediate family.
+7 (g) Model Form A-1 shall be developed by the Commissioner of Financial
+8 Regulation, posted in English and Spanish on a publicly accessible website
+9 maintained by the Department of Financial Regulation, and substantially in the
+10 following form:
+11 MODEL FORM A-1 FOR CREDITORS TO PROVIDE TO DEBTORS
+12 [Creditor name:
+13 Address:
+14 Email address:
+15 Telephone number:
+16 Website URL where this form can be filled out online]
+17 [Debtor’s name]
+18 [Debtor’s preferred contact information: debtor may provide a telephone
+19 number, email address, physical address, or the address of a third party]
+20 [Debtor’s preferred language]
+VT LEG #389415 v.1
+
+AS PASSED BY HOUSE AND SENATE H.385
+2026 Page 10 of 30
+1 You have given us information about a debt that may have been taken out
+2 because someone used your personal information without your permission or
+3 because someone intimidated, threatened, forced, or manipulated you into
+4 taking out this debt.
+5 For example, an abusive partner could have taken out a credit card or loan
+6 in your name without your knowledge or permission or pressured you into
+7 taking out credit to buy a car, television, computer, or other item and
+8 threatened you with harm if you refused.
+9 Questions: To temporarily or permanently stop collection of this debt, you
+10 need to answer the questions below. If you do not know the answer, you can
+11 explain why you do not know the answer.
+12 1. Did you sign for or agree to the debt?
+13 2. If you did sign for or agree to the debt, was it because someone
+14 threatened you or used intimidation, force, manipulation, theft, or other forms
+15 of control to take out the debt in your name? If yes, please describe how it
+16 happened.
+17 3. If you did not sign for or agree to the debt, do you know who used your
+18 information to take out the debt? If yes, please describe.
+19 4. What is your preferred contact method and contact information? You
+20 can provide a telephone number, email address, physical address, safe address,
+VT LEG #389415 v.1
+
+AS PASSED BY HOUSE AND SENATE H.385
+2026 Page 11 of 30
+1 or the contact information of another trusted person you want to receive
+2 information for you because you are concerned about your safety.
+3 Supporting Documentation: Please include at least one of the documents
+4 below that show that the debt was taken out by someone who threatened you or
+5 used intimidation, force, manipulation, theft, or other forms of control to take
+6 out the debt in your name. You only need to send one, but you may provide
+7 more than one.
+8 1. A copy of a report filed with a federal, state, or local law enforcement
+9 agency that identifies the coerced debt and the circumstances under which the
+10 coerced debt was incurred, the filing of which subjects the person filing the
+11 report to criminal penalties for filing false information if, in fact, the
+12 information in the report is false;
+13 2. A court order finding that the debt was coerced; or
+14 3. A sworn certification from a qualified third-party professional you talked
+15 with about this debt. The statement should include who the person is, where
+16 the person works, the person’s contact information, and information you
+17 shared with the person about the debt and how it was taken out. The third
+18 party may be:
+19 (a) an officer of the court or law enforcement personnel;
+20 (b) a court-appointed special advocate;
+VT LEG #389415 v.1
+
+AS PASSED BY HOUSE AND SENATE H.385
+2026 Page 12 of 30
+1 (c) a crisis worker as defined in 12 V.S.A. § 1614(a)(1) employed at a
+2 program that assists survivors of domestic violence, sexual assault, stalking,
+3 human trafficking, or abuse of children, and who has relevant training or
+4 expertise;
+5 (d) a licensed attorney; or
+6 (e) a health care provider as defined in 18 V.S.A. § 9402(7).
+7 In addition to the required documentation, you may include any other
+8 document [such as a divorce decree, restraining order, protection from abuse
+9 order or another document] that includes information about the debt and how it
+10 was taken out.
+11 We need to receive your answers to the above questions and at least one
+12 document supporting your claim before we stop collecting on the debt.
+13 Within 30 days after we receive this information, we will do all of the
+14 following:
+15 1. Notify you in writing that we are stopping all attempts to collect the debt
+16 from you, pending our review of your claim.
+17 2. Review your claim and make a determination as to whether you should
+18 be relieved from liability for the coerced debt.
+19 3. Contact the consumer reporting agencies to which we gave information
+20 about you and the coerced debt and request that they remove the information
+21 from your file and credit report. Alternatively, we also have the right to
+VT LEG #389415 v.1
+
+AS PASSED BY HOUSE AND SENATE H.385
+2026 Page 13 of 30
+1 challenge your claim of coerced debt in court, subject to legal protections for
+2 victims of coerced debt.
+3 Your statement of coerced debt must be notarized or certified as true and
+4 accurate by you under penalty of perjury.
+5 If you have questions, please contact us at: [creditor’s name, mailing
+6 address, telephone number, and email address]. If you prefer to communicate
+7 with us by email, please confirm with us by telephone our correct email
+8 address for submitting information about the debt so we can ensure a timely
+9 response.
+10 For more information, see 9 V.S.A. chapter 63, subchapter 13.
+11 (h) With respect to coerced debt secured by tangible personal property,
+12 nothing in this subchapter shall affect a creditor’s right to enforce a security
+13 interest upon default under 9A V.S.A. article 9 (Uniform Commercial Code -
+14 Secured Transactions), including repossession, surrender, or court-ordered
+15 seizure of the subject collateral. However, a creditor is prohibited from
+16 collecting or seeking to collect any deficiency from the victim of coerced debt.
+17 § 2495d. CIVIL LEGAL REMEDIES
+18 (a)(1) A debtor shall not be liable to a creditor for coerced debt.
+19 (2) In any action initiated by a creditor to seek collection of a debt from
+20 a debtor, the debtor may establish a prima facie case that the debt is coerced
+21 debt by submitting a statement of coerced debt and adequate documentation. If
+VT LEG #389415 v.1
+
+AS PASSED BY HOUSE AND SENATE H.385
+2026 Page 14 of 30
+1 the debtor establishes a prima facie case of coerced debt, the creditor shall bear
+2 the burden of proving, by a preponderance of the evidence, that the debt is not
+3 coerced debt.
+4 (b) If a court finds a debt is coerced debt:
+5 (1) the court shall vacate any previous default judgment issued against
+6 the debtor on the coerced debt;
+7 (2) the creditor shall have a cause of action against the perpetrator; and
+8 (3) the debtor shall have a cause of action against the perpetrator for any
+9 payments made or costs incurred by the debtor in connection with the coerced
+10 debt.
+11 (c) This section shall not be construed to limit or infringe upon any other
+12 rights or remedies available under common law or any other provision of law
+13 or rule.
+14 (d) If a debtor signs a sworn statement that disclosing the identity of and
+15 contact information for the perpetrator is likely to result in future abuse to the
+16 debtor or a member of the debtor’s immediate family, the creditor may file a
+17 motion requesting a hearing to determine the danger of future abuse to the
+18 debtor or to a member of the debtor’s immediate family. The debtor shall bear
+19 the burden of proving by a preponderance of the evidence that, if the debtor
+20 discloses the identity of and contact information for the perpetrator, the
+21 perpetrator poses a danger of future abuse to the debtor or to a member of the
+VT LEG #389415 v.1
+
+AS PASSED BY HOUSE AND SENATE H.385
+2026 Page 15 of 30
+1 debtor’s immediate family. If the court finds that the debtor meets this burden,
+2 the debtor shall not be required to disclose the information. If the debtor does
+3 not meet this burden, the court shall order the debtor to disclose the identity of,
+4 and, if known, the contact information of the perpetrator.
+5 (e) In any action involving an alleged coerced debt, upon motion of the
+6 debtor, the court may seal court records in accordance with Rule 9 of the
+7 Vermont Rules for Public Access to Court Records, redact personally
+8 identifiable information, or direct that any deposition or evidentiary hearing be
+9 conducted remotely to protect the debtor or a member of the debtor’s
+10 immediate family from a perpetrator. A debtor seeking a relief from abuse
+11 order or an order against stalking or sexual assault shall do so in accordance
+12 with 15 V.S.A. chapter 21 or 12 V.S.A. chapter 178, respectively.
+13 (f) The provisions of this subchapter apply in any action brought in a court
+14 of this State, notwithstanding a contractual choice-of-law provision.
+15 (g) Nothing in this subchapter shall be construed to preclude a creditor
+16 from seeking recourse under applicable law for a claim of coerced debt that is
+17 knowingly and materially false.
+18 (h) A perpetrator shall not be a necessary party to an action between a
+19 creditor and a debtor under this subchapter. However, no finding in such an
+20 action shall be binding on a person who was not a party to the action.
+VT LEG #389415 v.1
+
+AS PASSED BY HOUSE AND SENATE H.385
+2026 Page 16 of 30
+1 (i) An action by a debtor against a perpetrator shall be commenced within
+2 six years after the date the debtor discovered or reasonably should have
+3 discovered the coerced debt or within six years after the coercion or abuse
+4 giving rise to the debt ceased, whichever is later.
+5 (j) An action by a creditor against a perpetrator shall be commenced within
+6 six years after the date the creditor received the debtor’s statement of coerced
+7 debt and adequate documentation or received notice of the identity of the
+8 perpetrator, whichever is later.
+9 § 2495e. VIOLATIONS
+10 (a) A person who knowingly and materially violates this subchapter
+11 commits an unfair and deceptive act in trade and commerce in violation of
+12 section 2453 of this title.
+13 (b) The Attorney General has the same authority to make rules, conduct
+14 civil investigations, enter into assurances of discontinuance, and bring civil
+15 actions as provided under subchapter 1 of this chapter.
+16 § 2495f. CONFIDENTIALITY
+17 (a) Except as otherwise expressly provided in this subchapter or required
+18 by law, any financial and personally identifying information related to a claim
+19 of coerced debt that is shared by a debtor pursuant to the provisions of this
+20 subchapter shall not be disclosed by the recipient without the express consent
+21 of the debtor, unless such disclosure is authorized by court order.
+VT LEG #389415 v.1
+
+AS PASSED BY HOUSE AND SENATE H.385
+2026 Page 17 of 30
+1 (b) Information or material that is subject to privilege protections under
+2 federal or state law that is shared by the debtor pursuant to the provisions of
+3 this subchapter shall not be disclosed by the recipient, unless the debtor
+4 expressly waives the privilege, or the privilege is waived by an express
+5 provision of law.
+6 (c) Any record or information produced or acquired by a public body
+7 pursuant to the provisions of this subchapter that contains financial or
+8 personally identifiable information related to a claim of coerced debt shall be
+9 kept confidential and shall be exempt from public inspection or copying under
+10 Vermont’s Public Records Act. This exemption shall not be subject to
+11 1 V.S.A. § 317(e).
+12 Sec. 2. 9 V.S.A. § 2480d is amended to read:
+13 § 2480d. PROCEDURE IN CASE OF DISPUTED ACCURACY; COERCED
+14 DEBT
+15 (a) If the completeness or accuracy of any item of information contained in
+16 the consumer’s file is disputed by the consumer and the consumer notifies the
+17 credit reporting agency directly of such dispute, the agency shall reinvestigate
+18 free of charge and record the current status of the disputed information on or
+19 before 30 business days after the date the agency receives notice from the
+20 consumer.
+VT LEG #389415 v.1
+
+AS PASSED BY HOUSE AND SENATE H.385
+2026 Page 18 of 30
+1 (b) On or before five business days after the date a credit reporting agency
+2 receives notice of a dispute from a consumer in accordance with subsection (a)
+3 of this section, the agency shall provide notice of the dispute to all persons who
+4 provided any item of information in dispute.
+5 (c) Notwithstanding subsection (a) of this section, a credit reporting agency
+6 may terminate a reinvestigation of information disputed by a consumer under
+7 such subsection if the agency reasonably determines that such dispute by the
+8 consumer is frivolous or irrelevant. Upon making such a determination, a
+9 credit reporting agency shall promptly notify the consumer of such
+10 determination and the reasons therefor, by mail, or, if authorized by the
+11 consumer for that purpose, by telephone. The presence of contradictory
+12 information in the consumer’s file does not in and of itself constitute
+13 reasonable grounds for determining the dispute is frivolous or irrelevant.
+14 (d) In conducting a reinvestigation under subsection (a) of this section, the
+15 credit reporting agency shall review and consider all relevant information
+16 submitted by the consumer with respect to such disputed information.
+17 (e) If, after a reinvestigation under subsection (a) of this section of any
+18 information disputed by a consumer, the information is found to be inaccurate
+19 or cannot be verified, the credit reporting agency shall promptly delete such
+20 information from the consumer’s file. For purposes of this section,
+VT LEG #389415 v.1
+
+AS PASSED BY HOUSE AND SENATE H.385
+2026 Page 19 of 30
+1 “information” shall does not include other information in the same item that is
+2 not disputed by the consumer.
+3 (f) If any information is deleted after a reinvestigation under subsection (a)
+4 of this section, the information may not be reinserted in the consumer’s file
+5 after deletion unless the person who furnishes the information reinvestigates
+6 and states in writing or by electronic record to the agency that the information
+7 is complete and accurate. Such furnisher shall not provide such statement
+8 unless the furnisher reasonably believes that the information is complete and
+9 accurate. Upon such reinvestigation and statement by the furnisher, the credit
+10 reporting agency shall promptly notify the consumer of any reinsertion.
+11 (g) A credit reporting agency shall provide written notice of the results of
+12 any reinvestigation under this subsection within five business days of
+13 following the completion of the reinvestigation, by mail or, if authorized by the
+14 consumer for that purpose, by telephone. This notice shall include:
+15 (1) a statement that the reinvestigation is complete;
+16 (2) a statement of the determination of the agency on the completeness
+17 or accuracy of the disputed information;
+18 (3) a credit report that is based upon the consumer’s file as that file is
+19 revised as a result of the reinvestigation;
+VT LEG #389415 v.1
+
+AS PASSED BY HOUSE AND SENATE H.385
+2026 Page 20 of 30
+1 (4) a description of the manner in which the information disputed by the
+2 consumer has been altered, changed, deleted, or modified in the consumer’s
+3 credit report;
+4 (5) a description of the procedure used to determine the accuracy and
+5 completeness of the information, including the name, business address, and, if
+6 available, the telephone number of any person contacted in connection with
+7 such information; and
+8 (6) a notification that the consumer has the right, pursuant to 15 U.S.C.
+9 § 1681i, to add a statement to the consumer’s file disputing the accuracy or
+10 completeness of the information.
+11 (h) If a consumer provides notice to a consumer reporting agency that a
+12 debt or any portion of a debt is coerced debt and provides the consumer
+13 reporting agency either a court order finding that the debt was coerced or a
+14 statement of coerced debt and adequate documentation, as those terms are
+15 defined in subchapter 13 of this chapter, the consumer reporting agency shall
+16 reinvestigate the debt pursuant to this section. If, after the reinvestigation, the
+17 credit reporting agency determines that the debt was coerced, the consumer
+18 reporting agency shall remove any reference to the debt, or any portion of the
+19 debt determined to be coerced debt, from the consumer’s file and credit report.
+VT LEG #389415 v.1
+
+AS PASSED BY HOUSE AND SENATE H.385
+2026 Page 21 of 30
+1 Sec. 3. 9 V.S.A. § 2480k is amended to read:
+2 § 2480k. COMPLAINTS TO LAW ENFORCEMENT AGENCIES
+3 A person who has learned or reasonably suspects that his or her the person’s
+4 personal identifying information has been unlawfully used by another, as
+5 described in 13 V.S.A. § 2030(a) 2030, may make a complaint about the
+6 unlawful use of personal identifying information to the State Police or to the
+7 person’s local law enforcement agency. The law enforcement agency shall
+8 take the complaint and provide the complainant with a copy of the complaint,
+9 the name of the law enforcement officer taking the complaint, and an incident
+10 number or case number assigned to the complaint by the law enforcement
+11 agency. If the suspected crime was committed in a different jurisdiction, the
+12 law enforcement agency shall take the complaint and provide the complainant
+13 with a copy of the complaint, the name of the law enforcement officer taking
+14 the complaint, and an incident number or case number assigned to the
+15 complaint by the law enforcement agency and refer the complaint to a law
+16 enforcement agency in that different jurisdiction.
+17 Sec. 4. 8 V.S.A. chapter 200, subchapter 8 is added to read:
+18 Subchapter 8. Protection from Financial Exploitation
+19 § 10801. FINDINGS AND INTENT
+20 (a) The General Assembly finds that:
+VT LEG #389415 v.1
+
+AS PASSED BY HOUSE AND SENATE H.385
+2026 Page 22 of 30
+1 (1) A covered entity has a duty imposed by law and contract to conduct
+2 customer-directed transactions in a timely manner and in accordance with a
+3 customer’s instructions.
+4 (2) Customers are increasingly being induced to authorize transactions
+5 that are not in their best interests.
+6 (b) It is the intent of the General Assembly to:
+7 (1) ensure customers have ready access to their funds; and
+8 (2) provide a covered entity with the tools and protections to intervene
+9 in a customer-directed transaction when the covered entity reasonably believes
+10 the transaction presents potential significant risk of harm to the customer.
+11 (c) It is not the intent of the General Assembly to impose a duty on a
+12 covered entity to contravene the valid instructions of a customer, and nothing
+13 in this chapter creates such a duty.
+14 § 10802. DEFINITIONS
+15 As used in this subchapter:
+16 (1) “Account” means any deposit, share, custodial, trust, or transaction
+17 account, whether held individually or jointly, and whether checking, savings,
+18 money market, certificate of deposit, prepaid, or similar, that is established,
+19 maintained, or administered by a covered entity, through which the covered
+20 entity accepts, holds, disburses, or transfers funds of a customer. The term
+21 includes accounts held for the benefit of another, including fiduciary,
+VT LEG #389415 v.1
+
+AS PASSED BY HOUSE AND SENATE H.385
+2026 Page 23 of 30
+1 guardianship, conservatorship, power of attorney, and representative payee
+2 accounts, to the extent the account is maintained by a covered entity.
+3 (2) “Associated third party” means:
+4 (A) a parent, spouse, adult child, sibling, or other family member of a
+5 customer whom a covered entity reasonably believes is closely associated with
+6 the customer;
+7 (B) an individual the customer has authorized to be contacted by the
+8 customer’s covered entity;
+9 (C) a co-owner, additional authorized signatory, or beneficiary on a
+10 customer’s account or an agent for the customer under a power of attorney; or
+11 (D) a licensed attorney, trustee, conservator, guardian, or other
+12 fiduciary selected by a court or governmental agency to manage some or all of
+13 the financial affairs of the customer.
+14 (3) “Covered entity” means a bank, trust company, or savings institution
+15 as defined in subdivision 11101(32) of this title or a credit union as defined in
+16 subdivision 30101(5) of this title. The term also includes the subsidiaries and
+17 affiliates that provide financial services for such entity, as well as the directors,
+18 officers, employees, or agents of such entity.
+19 (4) “Customer” means any person who establishes, maintains, or is a
+20 beneficiary of an account with a covered entity, including any person who
+21 owns, controls, or has a present or contingent legal or beneficial interest in
+VT LEG #389415 v.1
+
+AS PASSED BY HOUSE AND SENATE H.385
+2026 Page 24 of 30
+1 funds held in the account, whether acting directly or through an agency,
+2 fiduciary, or representative.
+3 (5) “Financial exploitation” means:
+4 (A) the wrongful or unauthorized taking, withholding, appropriation,
+5 transfer, expenditure, or use of a customer’s money, assets, or property; or
+6 (B) any act or omission by a person, including by a fiduciary or other
+7 representative of the customer, whether acting under a power of attorney,
+8 guardianship, conservatorship, trust, or similar authority, that:
+9 (i) obtains or attempts to obtain control over the customer’s
+10 money, assets, or property through deception, intimidation, coercion, or undue
+11 influence, for the purpose or effect of depriving the customer of the ownership,
+12 use, benefit, or possession of the customer’s money, assets, or property; or
+13 (ii) converts or misuses the customer’s money, assets, or property
+14 so as to deprive the customer of the ownership, use, benefit, or possession of
+15 the customer’s money, assets, or property.
+16 § 10803. PROTECTIVE ACCOUNT ACTION
+17 (a) If a covered entity reasonably believes that a customer is or has been the
+18 victim of financial exploitation or attempted financial exploitation, and such
+19 belief is based on information either individually observed or received from a
+20 State, local, or law enforcement agency, the covered entity may take one or
+21 more of the following measures to protect a customer’s account:
+VT LEG #389415 v.1
+
+AS PASSED BY HOUSE AND SENATE H.385
+2026 Page 25 of 30
+1 (1) delay or refuse one or more transactions with or involving the
+2 customer;
+3 (2) delay or refuse to permit the withdrawal or disbursement of funds
+4 contained in the customer’s account;
+5 (3) prevent a change in ownership of the customer’s account;
+6 (4) prevent a transfer of funds from the customer’s account to an
+7 account owned wholly or partially by another person;
+8 (5) refuse to comply with instructions given to the covered entity by an
+9 agent or person acting for or with an agent under a power of attorney signed or
+10 purported to have been signed by the customer; or
+11 (6) prevent or change the designation of the beneficiaries to receive any
+12 property, benefit, or contract rights for the customer.
+13 (b) A covered entity is not required to take protective action under this
+14 section with regard to a customer’s account but may use its sole discretion to
+15 determine whether taking such action is warranted based on the information
+16 available to it at the time.
+17 (c)(1) The authority to delay a transaction under this section expires at the
+18 earlier of:
+19 (A) 15 business days after the date on which the covered entity
+20 initiated the delay;
+VT LEG #389415 v.1
+
+AS PASSED BY HOUSE AND SENATE H.385
+2026 Page 26 of 30
+1 (B) when the covered entity is satisfied within its sole discretion that
+2 the transaction will not likely result in financial exploitation; or
+3 (C) upon a court order directing the release of funds.
+4 (2) Unless otherwise directed by a court order, the covered entity may
+5 extend the duration of the delay for up to an additional 15 days based on a
+6 reasonable belief that the financial exploitation or attempted financial
+7 exploitation of the customer may continue.
+8 (d) Any refusal, delay, or other protective action taken by a covered entity
+9 in good faith under this section to prevent the financial exploitation of a
+10 customer shall:
+11 (1) not constitute wrongful dishonor under 9A V.S.A. § 4—402;
+12 (2) constitute reasonable grounds under the federal Check Clearing for
+13 the 21st Century Act, 12 U.S.C. § 5001 et seq., the Expedited Funds
+14 Availability Act, 12 U.S.C. § 4001 et seq., or related regulations, without
+15 imposing a duty to review every deposit or check individually; and
+16 (3) not constitute a violation of 9A V.S.A. article 4A (fund transfers) or
+17 related funds transfer laws, and any delayed payment order is deemed received
+18 only when the hold is removed and the covered entity submits the order for
+19 processing.
+VT LEG #389415 v.1
+
+AS PASSED BY HOUSE AND SENATE H.385
+2026 Page 27 of 30
+1 § 10804. ASSOCIATED THIRD PARTY; NOTIFICATIONS
+2 (a) A covered entity may notify an associated third party, if any, if it
+3 reasonably believes that the financial exploitation or attempted financial
+4 exploitation of a customer is occurring or has occurred and such disclosure is
+5 in the best interests of the customer.
+6 (b) A covered entity may choose not to notify an associated third party if it
+7 reasonably believes that the third party is, was, or may be engaged in the
+8 financial exploitation or attempted financial exploitation of the customer.
+9 (c) A covered entity shall limit disclosures to an associated third party to
+10 only information necessary to convey its suspicion that the customer was or
+11 may be the victim or intended victim of financial exploitation.
+12 (d) Any disclosure by a covered entity pursuant to this section is exempt
+13 from the financial privacy protections specified under subchapter 2 of this
+14 chapter and, to the extent permitted by federal law, under the Gramm-Leach-
+15 Bliley Act, 15 U.S.C. § 6801 et seq., as those laws may be amended.
+16 § 10805. IMMUNITY
+17 When carrying out protective actions authorized by this subchapter, a
+18 covered entity shall be protected from civil, criminal, and administrative
+19 liability for any act or omission within the scope of its duties and authorized by
+20 this subchapter, provided the act or omission is in good faith and does not
+21 amount to gross negligence or willful misconduct.
+VT LEG #389415 v.1
+
+AS PASSED BY HOUSE AND SENATE H.385
+2026 Page 28 of 30
+1 § 10806. CONSTRUCTION
+2 This subchapter shall be liberally construed to encourage covered entities to
+3 take reasonable protective actions to prevent the financial exploitation of their
+4 customers.
+5 Sec. 5. SUSPICIOUS TRANSACTION HOLDS; DATA COLLECTION;
+6 REPORT
+7 The Commissioner of Financial Regulation shall consult, at least annually,
+8 with representatives from the Vermont Bankers Association and the
+9 Association of Vermont Credit Unions, and any other relevant party
+10 determined by the Commissioner, for the purpose of collecting data about the
+11 number and dollar amount of suspicious transaction holds implemented by a
+12 covered entity pursuant to Sec. 4 of this act and report such information in
+13 aggregated form to the House Committee on Commerce and Economic
+14 Development and the Senate Committee on Finance on or before January 15,
+15 2027, and annually thereafter.
+16 Sec. 6. COERCED DEBT; DATA COLLECTION; REPORT
+17 (a) Beginning on July 1, 2028, the Commissioner of Financial Regulation
+18 shall study the utilization of the coerced debt protections and remedies codified
+19 in 9 V.S.A. chapter 63, subchapter 13. In conducting such study, the
+20 Commissioner shall consult with representatives from the Vermont Network
+21 Against Domestic and Sexual Violence, the Vermont Bankers Association, the
+VT LEG #389415 v.1
+
+AS PASSED BY HOUSE AND SENATE H.385
+2026 Page 29 of 30
+1 Association of Vermont Credit Unions, the Office of the Attorney General,
+2 Vermont Legal Aid, and any other person deemed appropriate by the
+3 Commissioner. Among other things, the study shall include an assessment of
+4 coerced debt claims with regard to:
+5 (1) their frequency;
+6 (2) creditor investigations;
+7 (3) the presence of fraudulent or illegitimate claims;
+8 (4) any challenges experienced by debtors or creditors in exercising
+9 their rights under the applicable subchapter; and
+10 (5) any other matters deemed relevant and appropriate by the
+11 Commissioner.
+12 (b) On or before November 15, 2029, the Commissioner shall report the
+13 Commissioner’s findings and recommendations in draft form to the House
+14 Committee on Commerce and Economic Development and the Senate
+15 Committee on Finance.
+16 Sec. 7. EFFECTIVE DATES; APPLICATION
+17 (a) This section, Sec. 3 (complaints regarding claims of identity theft), Sec.
+18 4 (suspicious banking transactions), and Sec. 5 (report on suspicious banking
+19 transactions) shall take effect on passage.
+20 (b) Sec. 1 (coerced debt, creditor conduct, civil legal remedies), Sec. 2
+21 (duty of credit reporting agency to reinvestigate coerced debt), and Sec. 6
+VT LEG #389415 v.1
+
+AS PASSED BY HOUSE AND SENATE H.385
+2026 Page 30 of 30
+1 (report on coerced debt) shall take effect on July 1, 2028, and shall apply to all
+2 outstanding coerced debt, including coerced debt incurred prior to July 1,
+3 2028.
+VT LEG #389415 v.1

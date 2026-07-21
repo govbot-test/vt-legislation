@@ -1,0 +1,143 @@
+Title: 
+Official Title: 
+Source: versions - House Proposal of Amendment (UnofficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HOUSE PROPOSAL OF AMENDMENT S.202
+2026 Page 1 of 6
+1 S.202
+2 An act relating to portable solar energy generation devices
+3 The House proposes to the Senate to amend the bill by striking out all after
+4 the enacting clause and inserting in lieu thereof the following:
+5 Sec. 1. 30 V.S.A. § 201 is amended to read:
+6 § 201. DEFINITIONS
+7 As used in this chapter:
+8 * * *
+9 (9) “Plug-in photovoltaic device” means a photovoltaic generation
+10 device that:
+11 (A) is designed to be connected to a building’s electrical system via
+12 an electrical cord plugged into a receptacle;
+13 (B) includes a feature that prevents the system from energizing the
+14 building’s electrical system during a power outage;
+15 (C) complies with UL 3700 for plug-in photovoltaic systems by UL
+16 Solutions or an equivalent certification by an equivalent Nationally
+17 Recognized Testing Laboratory for use in the United States and is installed and
+18 operated in compliance with IEEE 1547-2018 and any successor standard,
+19 using default performance and setting profiles consistent with those developed
+20 by regional transmission and distribution system operators; and
+21 (D) is connected to a building that is connected to the electric grid.
+VT LEG #389353 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.202
+2026 Page 2 of 6
+1 Sec. 2. 30 V.S.A. § 256 is added to read:
+2 § 256. PLUG-IN PHOTOVOLTAIC DEVICES
+3 (a) A customer may install one or more plug-in photovoltaic devices per
+4 electric meter if the devices have a maximum combined inverter capacity of
+5 not more than 1,200 watts. Plug-in photovoltaic devices shall only be
+6 connected to systems using smart meters. A customer shall ensure a device is
+7 temporarily but securely attached to the ground or a structure.
+8 (b) The installation of a plug-in photovoltaic device that complies with
+9 subsection (a) of this section shall not be required to comply with the
+10 requirements of section 248 of this chapter, shall not be required to obtain an
+11 interconnection agreement with an electric distribution company, and shall not
+12 otherwise be subject to the jurisdiction of the Public Utility Commission.
+13 (c) An electric distribution company shall not require a customer using a
+14 plug-in photovoltaic device that complies with subsection (a) of this section to:
+15 (1) obtain the company’s approval before installing or using the device;
+16 (2) pay any fee or charge related to the installation of the device; or
+17 (3) install any additional controls or equipment beyond what is
+18 integrated into the device.
+19 (d) Nothing in this section shall prevent an electric distribution company
+20 from recovering costs associated with the overloading of the service provided
+21 due to the presence of a plug-in photovoltaic device.
+VT LEG #389353 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.202
+2026 Page 3 of 6
+1 (e) A customer with a net metering system shall not also install a plug-in
+2 photovoltaic device. A plug-in photovoltaic device shall not be eligible for net
+3 metering. Generation exported to the grid by a plug-in photovoltaic device
+4 shall not be compensated by an electric distribution company.
+5 (f) A plug-in photovoltaic device in a public building, as defined in
+6 20 V.S.A. § 2730, shall be used in a manner that complies with all applicable
+7 requirements of the most recent Fire and Building Safety Code adopted by the
+8 Division of Fire Safety.
+9 (g) No tenant shall install a plug-in photovoltaic device without the
+10 landlord’s permission. A tenant shall provide at least 10 days’ notice to the
+11 landlord of the tenant’s intent to install a plug-in photovoltaic device in
+12 compliance with subsection (a) of this section in the building. The landlord
+13 shall respond within 10 days with any reasonable restrictions on the installation
+14 of the device or may deny installation.
+15 Sec. 3. 24 V.S.A. § 4413(g) is amended to read:
+16 (g) Notwithstanding any provision of law to the contrary, a bylaw adopted
+17 under this chapter shall not:
+18 (1) Regulate the installation, operation, and maintenance of a plug-in
+19 photovoltaic device or, on a flat roof of an otherwise complying structure, of a
+20 solar energy device that heats water or space or generates electricity. For the
+VT LEG #389353 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.202
+2026 Page 4 of 6
+1 purpose of this subdivision, “flat roof” means a roof having a slope less than or
+2 equal to five degrees.
+3 (2) Prohibit or have the effect of prohibiting the installation of solar
+4 collectors not exempted from regulation under subdivision (1) of this
+5 subsection, clotheslines, or other energy devices based on renewable resources.
+6 Sec. 4. 27 V.S.A. § 544 is amended to read:
+7 § 544. ENERGY DEVICES BASED ON RENEWABLE RESOURCES
+8 (a) No deed restrictions, covenants, or similar binding agreements running
+9 with the land shall prohibit or have the effect of prohibiting solar collectors,
+10 clotheslines, or other energy devices based on renewable resources from being
+11 installed on or, for a plug-in photovoltaic device as defined in 30 V.S.A. § 201,
+12 appurtenant to buildings erected on the lots or parcels covered by the deed
+13 restrictions, covenants, or binding agreements. A property owner may not be
+14 denied permission to install solar collectors or other energy devices based on
+15 renewable resources by any entity granted the power or right in any deed
+16 restriction, covenant, or similar binding agreement to approve, forbid, control,
+17 or direct alteration of property with respect to residential dwellings. For
+18 purposes of this subsection, that entity may determine the specific location
+19 where solar collectors may be installed on the roof within an orientation to the
+20 south or within 45° east or west of due south, provided that this determination
+21 does not impair the effective operation of the solar collectors.
+VT LEG #389353 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.202
+2026 Page 5 of 6
+1 * * *
+2 (c) The legislative intent in enacting this section is to protect the public
+3 health, safety, and welfare by encouraging the development and use of
+4 renewable resources in order to conserve and protect the value of land,
+5 buildings, and resources by preventing measures that will have the ultimate
+6 effect, whether or not intended, of driving the costs of owning and operating
+7 commercial or residential property beyond the capacity of private owners to
+8 maintain. This section shall not apply to patio railings in condominiums,
+9 cooperatives, or apartments, except for a plug-in photovoltaic device.
+10 Sec. 5. 9 V.S.A. § 2795 is amended to read:
+11 § 2795. EFFICIENCY AND WATER CONSERVATION STANDARDS
+12 (a) The Commissioner shall adopt rules in accordance with the provisions
+13 of 3 V.S.A. chapter 25 establishing minimum efficiency standards for the types
+14 of new products set forth in section 2794 of this title. The rules shall provide
+15 for the following minimum efficiency standards for products sold or installed
+16 in this State:
+17 * * *
+18 (6) In the rules, the Commissioner shall adopt minimum efficiency and
+19 water conservation standards for each product that is subject to a standard
+20 under 10 C.F.R. §§ 430 and 431 as those provisions existed on January 19,
+21 2017 2025. The minimum standard and the testing protocol for each product
+VT LEG #389353 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.202
+2026 Page 6 of 6
+1 shall be the same as adopted in those sections of the Code of Federal
+2 Regulations, except that for faucets, showerheads, and urinals, the minimum
+3 standard and testing protocol shall be as otherwise set forth in this section.
+4 * * *
+5 Sec. 6. EFFECTIVE DATE
+6 This act shall take effect on July 1, 2026.
+7 and that after passage the title of the bill be amended to read: “An act relating
+8 to plug-in photovoltaic devices”
+VT LEG #389353 v.1

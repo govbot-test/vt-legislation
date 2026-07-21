@@ -1,0 +1,665 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.866
+2026 Page 1 of 27
+1 H.866
+2 Introduced by Representative Galfetti of Barre Town
+3 Referred to Committee on
+4 Date:
+5 Subject: Crimes and criminal procedures; bail and recognizances
+6 Statement of purpose of bill as introduced: This bill proposes to eliminate
+7 limitations on the imposition of bail; raise the maximum amount of bail a court
+8 may impose on a defendant who is charged with a misdemeanor that is eligible
+9 for sealing; require that the court hold without bail or impose mandatory
+10 minimum bail amounts for certain defendants who failed to appear at a court
+11 proceeding multiple times, were charged with or convicted of multiple
+12 misdemeanors or felonies, or are charged while on release for other pending
+13 charges; require the court to provide a written justification based on specific
+14 factors if the court does not hold the defendant without bail; authorize the law
+15 enforcement officer who arrested or cited the defendant for the offense to
+16 recommend detention without bail or an amount of bail and require the court to
+17 comply with the law enforcement officer’s recommendation in certain
+18 circumstances; require that the court hold an expedited hearing within 72 hours
+19 at which the defendant may present evidence regarding the bail determination;
+20 automatically forfeit all bail posted for a defendant’s previous charges if the
+21 defendant is released and arrested for a new offense while on release; eliminate
+VT LEG #386499 v.1
+
+BILL AS INTRODUCED H.866
+2026 Page 2 of 27
+1 the requirement that a court impose the least restrictive conditions when
+2 imposing conditions of release; eliminate the court’s consideration of the
+3 defendant’s financial means in imposing bail as a condition of release; and
+4 require that a judicial officer impose specified mandatory conditions of release
+5 on certain defendants who have failed to appear at a court proceeding multiple
+6 times, have been charged with or convicted of multiple misdemeanors or
+7 felonies, or are charged while on release for other pending charges.
+8 An act relating to bail and conditions of pretrial release
+9 It is hereby enacted by the General Assembly of the State of Vermont:
+10 Sec. 1. 13 V.S.A. § 7551 is amended to read:
+11 § 7551. IMPOSITION OF BAIL, SECURED APPEARANCE BONDS, AND
+12 APPEARANCE BONDS
+13 (a) Bonds; generally. A bond given by a person charged with a criminal
+14 offense or by a witness in a criminal prosecution under section 6605 of this
+15 title, conditioned for the appearance of the person or witness before the court
+16 in cases where the offense is punishable by fine or imprisonment, and in
+17 appealed cases, shall be taken to the Criminal Division of the Superior Court
+18 where the prosecution is pending and shall remain binding upon parties until
+19 discharged by the court or until sentencing. The person or witness shall appear
+20 at all required court proceedings.
+VT LEG #386499 v.1
+
+BILL AS INTRODUCED H.866
+2026 Page 3 of 27
+1 (b) Limitation on imposition Imposition of bail, secured appearance bonds,
+2 and appearance bonds.
+3 (1) Except as provided in subdivision (2) of this subsection, no bail,
+4 secured appearance bond, or appearance bond may be imposed:
+5 (A) at the initial appearance of a person charged with a misdemeanor
+6 if the person was cited for the offense in accordance with Rule 3 of the
+7 Vermont Rules of Criminal Procedure; or
+8 (B) at the initial appearance or upon the temporary release pursuant
+9 to Rule 5(b) of the Vermont Rules of Criminal Procedure of a person charged
+10 with a violation of a misdemeanor offense that is eligible for expungement
+11 pursuant to subdivision 7601(4)(A) of this title.
+12 (2) In the event the court finds that imposing bail is necessary to
+13 mitigate the risk of flight from prosecution for In the case of a person
+14 defendant charged with a violation of a misdemeanor offense that is eligible
+15 for expungement sealing pursuant to subdivision 7601(4)(A) of this title, the
+16 court may impose bail in a maximum amount of $200.00 $1,000.00 if the court
+17 finds that imposing bail is necessary for one or more of the following purposes:
+18 (A) to mitigate risk of flight from prosecution;
+19 (B) to reasonably ensure protection of the public;
+20 (C) to reasonably ensure protection of a victim or witness; or
+VT LEG #386499 v.1
+
+BILL AS INTRODUCED H.866
+2026 Page 4 of 27
+1 (D) to address concerns identified in the release recommendation of
+2 the law enforcement officer who arrested or cited the defendant for the offense.
+3 The $200.00 limit shall not apply to an offense allegedly committed by a
+4 defendant who has been released on personal recognizance or conditions of
+5 release pending trial for another offense.
+6 (3)(2) This subsection shall not be construed to restrict the court’s
+7 ability to impose conditions on such persons to reasonably mitigate the risk of
+8 flight from prosecution or to reasonably protect the public in accordance with
+9 section 7554 of this title defendants for the purposes set forth in subdivisions
+10 (1)(A)–(D) of this subsection.
+11 (c) Mandatory detention and enhanced bail for repeat offenders.
+12 (1) Notwithstanding subsections (a) and (b) of this section and except as
+13 provided in subdivision (2) of this subsection, the following defendants shall
+14 be held without bail:
+15 (A) a defendant who has failed to appear at a court proceeding two or
+16 more times in the previous five years;
+17 (B) a defendant who was previously convicted of three or more
+18 offenses in the previous five years;
+19 (C) a defendant who has four or more pending charges, including the
+20 offense charged;
+VT LEG #386499 v.1
+
+BILL AS INTRODUCED H.866
+2026 Page 5 of 27
+1 (D) a defendant who was arrested for the offense charged while
+2 released on bail in another pending case;
+3 (E) a defendant who was previously convicted of five or more
+4 misdemeanor offenses in the previous three years;
+5 (F) a defendant who was previously convicted of two or more felony
+6 offenses in the previous five years;
+7 (G) a defendant charged with a crime involving domestic violence
+8 who was previously convicted of or charged with one or more crimes
+9 involving domestic violence in the previous seven years;
+10 (H) a defendant who was previously convicted of three or more
+11 alcohol-related or drug-related offenses in the previous five years;
+12 (I) a defendant charged with a felony offense while on release after
+13 being charged with a felony offense;
+14 (J) a defendant charged with a violent offense while on release after
+15 being charged with any other offense;
+16 (K) a defendant charged with a drug trafficking or drug distribution
+17 offense while on release after being charged with any other offense; and
+18 (L) a defendant in subdivisions (A)–(K) of this subdivision (1) who is
+19 released on bail, on personal recognizance, or subject to conditions of release
+20 and who is charged with any new offense.
+VT LEG #386499 v.1
+
+BILL AS INTRODUCED H.866
+2026 Page 6 of 27
+1 (2) For persons identified in subdivisions (1)(A)–(L) of this subsection,
+2 the judicial officer may set bail in the following amounts for the purposes set
+3 forth in subdivisions (b)(1)(A)–(D) of this section:
+4 (A) for a defendant who failed to appear at a court proceeding two or
+5 more times in the previous five years, an amount not less than:
+6 (i) $1,000.00 if the defendant previously failed to appear at a court
+7 proceeding two times in the previous five years;
+8 (ii) $2,000.00 if the defendant previously failed to appear at a
+9 court proceeding three times in the previous five years; and
+10 (iii) $3,000.00 if the defendant previously failed to appear at a
+11 court proceeding four or more times in the previous five years;
+12 (B) for a defendant who was previously convicted of three or more
+13 offenses in the previous five years, an amount not less than:
+14 (i) $2,500.00 if the defendant was previously convicted of three
+15 offenses in the previous five years;
+16 (ii) $5,000.00 if the defendant was previously convicted of four
+17 offenses in the previous five years; and
+18 (iii) $7,500.00 if the defendant was previously convicted of five or
+19 more offenses in the previous five years;
+20 (C) for a defendant who has four or more pending charges, including
+21 the charged offense, an amount not less than:
+VT LEG #386499 v.1
+
+BILL AS INTRODUCED H.866
+2026 Page 7 of 27
+1 (i) $5,000.00 if the defendant has four pending charges, including
+2 the charged offense;
+3 (ii) $10,000.00 if the defendant has five pending charges,
+4 including the charged offense; and
+5 (iii) $15,000.00 if the defendant has six or more pending charges,
+6 including the charged offense;
+7 (D) for a defendant who was arrested for the charged offense while
+8 released on bail in another pending case, an amount not less than:
+9 (i) $5,000.00 if the defendant was arrested one time for a new
+10 offense while released on bail in a pending case;
+11 (ii) $10,000.00 if the defendant was arrested two times for a new
+12 offense while released on bail in a pending case; and
+13 (iii) $15,000.00 if the defendant was arrested three or more times
+14 for a new offense while released on bail in a pending case;
+15 (E) for a defendant who was previously convicted of five or more
+16 misdemeanor offenses in the previous three years, an amount not less than:
+17 (i) $7,500.00 if the defendant was previously convicted of five
+18 misdemeanor offenses in the previous three years;
+19 (ii) $15,000.00 if the defendant was previously convicted of six
+20 misdemeanor offenses in the previous three years; and
+VT LEG #386499 v.1
+
+BILL AS INTRODUCED H.866
+2026 Page 8 of 27
+1 (iii) $22,500.00 if the defendant was previously convicted of
+2 seven or more misdemeanor offenses in the previous three years;
+3 (F) for a defendant who was previously convicted of two or more
+4 felony offenses in the previous five years, an amount not less than:
+5 (i) $10,000.00 if the defendant was previously convicted of two
+6 felony offenses in the previous five years;
+7 (ii) $20,000.00 if the defendant was previously convicted of three
+8 felony offenses in the previous five years; and
+9 (iii) $30,000.00 if the defendant was previously convicted of four
+10 or more felony offenses in the previous five years;
+11 (G) for a defendant charged with an offense involving domestic
+12 violence who was previously convicted of or charged with one or more
+13 offenses involving domestic violence in the previous seven years, an amount
+14 not less than:
+15 (i) $5,000.00 if the defendant was previously charged with or
+16 convicted of one offense involving domestic violence in the previous seven
+17 years;
+18 (ii) $10,000.00 if the defendant was previously charged with or
+19 convicted of two offenses involving domestic violence in the previous seven
+20 years; and
+VT LEG #386499 v.1
+
+BILL AS INTRODUCED H.866
+2026 Page 9 of 27
+1 (iii) $20,000.00 if the defendant was previously charged with or
+2 convicted of three or more offenses involving domestic violence in the
+3 previous seven years;
+4 (H) for a defendant who was previously convicted of three or more
+5 alcohol-related or drug-related offenses in the previous five years, an amount
+6 not less than:
+7 (i) $3,000.00 if the defendant was previously convicted of three
+8 alcohol-related or drug-related offenses in the previous five years;
+9 (ii) $6,000.00 if the defendant was previously convicted of four
+10 alcohol-related or drug-related offenses in the previous five years; and
+11 (iii) $12,000.00 if the defendant was previously convicted of five
+12 or more alcohol-related or drug-related offenses in the previous five years;
+13 (I) for a defendant charged with a felony offense while on release
+14 after being charged with a felony offense, an amount not less than:
+15 (i) $15,000.00 if the defendant was not previously convicted of a
+16 felony offense;
+17 (ii) $30,000.00 if the defendant was previously convicted of one
+18 felony offense; and
+19 (iii) $50,000.00 if the defendant was previously convicted of two
+20 or more felony offenses;
+VT LEG #386499 v.1
+
+BILL AS INTRODUCED H.866
+2026 Page 10 of 27
+1 (J) for a defendant charged with a violent offense while on release
+2 after being charged with any other offense, an amount not less than:
+3 (i) $20,000.00 if the defendant was not previously charged with a
+4 violent offense while on release after being charged with another offense;
+5 (ii) $40,000.00 if the defendant was previously convicted of one
+6 violent offense; and
+7 (iii) $50,000.00 if the defendant was previously convicted of two
+8 or more violent offenses;
+9 (K) for a defendant charged with a drug trafficking or drug distribution
+10 offense while on release after being charged with any other offense, an amount
+11 not less than:
+12 (i) $25,000.00 if the defendant was not previously charged with a
+13 drug trafficking or drug distribution offense while on release after being
+14 charged with another offense;
+15 (ii) $50,000.00 if the defendant was previously convicted of one
+16 drug trafficking or drug distribution offense; and
+17 (iii) $100,000.00 if the defendant was previously convicted of two
+18 or more drug trafficking or drug distribution offenses; and
+19 (L) for a defendant identified in subdivisions (1)(A)–(K) of this
+20 subsection (c) who is charged with any new criminal offense while on bail,
+21 personal recognizance, or subject to conditions of release, an amount not less
+VT LEG #386499 v.1
+
+BILL AS INTRODUCED H.866
+2026 Page 11 of 27
+1 than twice the amount specified in subdivisions (A)–(K) of this subdivision
+2 (c)(2).
+3 (d) Judicial determination that detention without bail is not warranted;
+4 factors, written justification.
+5 (1) In determining whether to impose mandatory detention without bail
+6 or enhanced bail amounts, the judicial officer shall consider the following:
+7 (A) the number and frequency of prior offenses of which the
+8 defendant was previously convicted and with which the defendant is charged,
+9 including all of the following:
+10 (i) the number of the defendant’s prior convictions;
+11 (ii) the number of the defendant’s pending charges;
+12 (iii) the number of times the defendant failed to appear at a court
+13 proceeding;
+14 (iv) the number of offenses the defendant committed per year; and
+15 (v) any pattern of escalating or de-escalating criminal behavior by
+16 the defendant;
+17 (B) the nature and circumstances of the offenses of which the
+18 defendant was previously convicted and with which the defendant is charged,
+19 including all of the following:
+VT LEG #386499 v.1
+
+BILL AS INTRODUCED H.866
+2026 Page 12 of 27
+1 (i) whether the charged offense is a felony or misdemeanor;
+2 (ii) whether each offense of which the defendant was previously
+3 convicted is a felony or misdemeanor;
+4 (iii) whether the offenses of which the defendant was previously
+5 convicted and with which the defendant is charged involve violence committed
+6 by the defendant;
+7 (iv) whether the offenses of which the defendant was previously
+8 convicted and with which the defendant is charged are against persons or
+9 property;
+10 (v) whether a weapon was used in the commission of the offenses
+11 of which the defendant was previously convicted and with which the defendant
+12 is charged;
+13 (vi) whether the offenses of which the defendant was previously
+14 convicted and with which the defendant is charged involve bodily injury to
+15 victims; and
+16 (vii) the level of threat to public safety posed by the offenses of
+17 which the defendant was previously convicted and with which the defendant is
+18 charged;
+19 (C) the risk assessment and recommendation of the law enforcement
+20 officer who arrested or cited the defendant for the offense, including all of the
+21 following:
+VT LEG #386499 v.1
+
+BILL AS INTRODUCED H.866
+2026 Page 13 of 27
+1 (i) the recommendation of the law enforcement officer who
+2 arrested or cited the defendant for the offense that the defendant be detained
+3 without bail or that a certain bail amount should be imposed;
+4 (ii) the risk assessment of the law enforcement officer who
+5 arrested or cited the defendant for the offense, including whether the defendant
+6 cooperated with law enforcement, was under the influence of alcohol or
+7 another substance at the time of the offense, or poses a risk to the public;
+8 (iii) any flight risk indicators observed by the law enforcement
+9 officer who arrested or cited the defendant for the offense;
+10 (iv) any threats made by the defendant during the arrest;
+11 (v) the defendant’s history of which the law enforcement officer
+12 who arrested or cited the defendant for the offense has knowledge; and
+13 (vi) the risk factors identified in the affidavit of the law
+14 enforcement officer who arrested or cited the defendant for the offense; and
+15 (D) the defendant’s circumstances, the protection of the public, and
+16 the protection of a victim or witness, including all of the following:
+17 (i) whether the defendant complied with prior conditions of
+18 release;
+19 (ii) the defendant’s ties to the community, including the
+20 defendant’s employment status and family;
+VT LEG #386499 v.1
+
+BILL AS INTRODUCED H.866
+2026 Page 14 of 27
+1 (iii) the defendant’s history of substance abuse;
+2 (iv) the defendant’s mental health status;
+3 (v) the protection of a victim or witness;
+4 (vi) the protection of the public; and
+5 (vii) the risk of nonappearance at future court proceedings.
+6 (2) If the judicial officer sets an enhanced bail amount instead of
+7 holding the defendant without bail, the judicial officer shall make written
+8 findings on the record explaining:
+9 (A) the factors the judicial officer considered;
+10 (B) why detention without bail is not necessary even though the
+11 defendant committed one or more prior offenses;
+12 (C) how the bail amount and conditions of release will mitigate flight
+13 risk and protect the public; and
+14 (D) if the judicial officer’s determination is not consistent with the
+15 release recommendation of the law enforcement officer who arrested or cited
+16 the defendant for the offense, why the judicial officer’s determination is not
+17 consistent with the release recommendation of the law enforcement officer.
+18 (e) Advisory bail by law enforcement officer who arrested or cited the
+19 defendant for the offense binding on judicial officer in certain circumstances.
+20 The law enforcement officer who arrested or cited the defendant for the
+21 offense may provide a release recommendation to the judicial officer based on
+VT LEG #386499 v.1
+
+BILL AS INTRODUCED H.866
+2026 Page 15 of 27
+1 the law enforcement officer’s observations of the defendant’s behavior, flight
+2 risk indicators, and history.
+3 (1) Notwithstanding subdivision (c)(2) of this section, if the law
+4 enforcement officer who arrested or cited the defendant for the offense
+5 recommends that the defendant be held without bail, the judicial officer shall
+6 hold the defendant without bail.
+7 (2) Notwithstanding subsection (c) of this section, if the law
+8 enforcement officer who arrested or cited the defendant for the offense
+9 recommends that bail should be imposed, the judicial officer shall impose bail
+10 in the amount recommended by the law enforcement officer, provided the law
+11 enforcement officer submits an affidavit that details the defendant’s risk
+12 factors and the judicial officer finds the law enforcement officer’s
+13 recommendation supported by the evidence. The law enforcement officer who
+14 arrested or cited the defendant for the offense shall not recommend and the
+15 judicial officer shall not impose bail in an amount greater than $25,000.00 for a
+16 misdemeanor offense or greater than $100,000.00 for a felony offense.
+17 (f) Expedited hearing for defendant to present evidence. At the initial bail
+18 hearing, a defendant held without bail under subsection (c) of this section may
+19 request an expedited hearing at which the defendant may present evidence
+20 regarding the factors listed in subsection (d) of this section. If the defendant
+21 requests a hearing, a hearing shall be held within 72 hours after the initial bail
+VT LEG #386499 v.1
+
+BILL AS INTRODUCED H.866
+2026 Page 16 of 27
+1 determination, excluding weekends and holidays. At the hearing, a judicial
+2 officer shall hear the defendant’s evidence and review whether the defendant
+3 should be held without bail as provided in subsection (c).
+4 (g) Automatic forfeiture of bail upon arrest for new offense. A defendant
+5 who has been released pursuant to subdivision (c)(2) of this section who is
+6 charged with a new offense while on release shall automatically forfeit all bail
+7 posted for the defendant’s previous charges. The defendant shall be subject to
+8 the provisions of subdivisions (c)(2)(A)–(L) of this section for the new offense
+9 and all pending charges.
+10 Sec. 2. 13 V.S.A. § 7554 is amended to read:
+11 § 7554. RELEASE PRIOR TO TRIAL
+12 (a) Release; conditions of release. Any person charged with an offense,
+13 other than a person held without bail under section 7553 or 7553a of this title,
+14 shall may at the person’s appearance before a judicial officer be ordered
+15 released pending trial in accordance with this section.
+16 (1) The defendant shall may only be ordered released on personal
+17 recognizance or upon the execution of an unsecured a secured appearance bond
+18 in an amount specified by the judicial officer unless if the judicial officer
+19 determines that such a release will not reasonably mitigate the risk of flight
+20 from prosecution as required achieve the purposes set forth in subdivisions
+21 7551(b)(1)(A)–(D) of this title. In determining whether the defendant presents
+VT LEG #386499 v.1
+
+BILL AS INTRODUCED H.866
+2026 Page 17 of 27
+1 a risk of flight from prosecution making this determination, the judicial officer
+2 shall consider, in addition to any other factors, the seriousness of the offense
+3 charged; the number of offenses with which the person is charged; whether, at
+4 the time of the current offense or arrest, the defendant was released on
+5 conditions or personal recognizance, on probation, furlough, parole, or other
+6 release pending trial, sentencing, appeal, or completion of a sentence for an
+7 offense under federal or state law; and whether, in connection with a criminal
+8 prosecution, the defendant is compliant with court orders or has failed to
+9 appear at a court hearing; the protection of the public; the protection of a
+10 victim or witness; and the concerns identified in the release recommendation of
+11 the law enforcement officer who arrested or cited the defendant for the offense.
+12 If the judicial officer determines that the defendant presents a risk of flight
+13 from prosecution, a risk to the public, a risk to a victim or witness, or a concern
+14 identified in the release recommendation of the law enforcement officer who
+15 arrested or cited the defendant for the offense, the officer shall, either in lieu of
+16 or in addition to the methods of release in this section, impose the least
+17 restrictive of the following conditions or the least restrictive a combination of
+18 the following conditions that will reasonably mitigate the risk of flight of the
+19 defendant as required achieve the purposes set forth in subdivisions
+20 7551(b)(1)(A)–(D) of this title:
+VT LEG #386499 v.1
+
+BILL AS INTRODUCED H.866
+2026 Page 18 of 27
+1 (A) Place the defendant in the custody of a designated person or
+2 organization agreeing to supervise the defendant if the defendant is charged
+3 with an offense that is not a nonviolent misdemeanor or nonviolent felony as
+4 defined in 28 V.S.A. § 301.
+5 (B) Place restrictions on the travel or association of the defendant
+6 during the period of release.
+7 (C) Require the defendant to participate in an alcohol or drug
+8 treatment program. The judicial officer shall take into consideration the
+9 defendant’s ability to comply with an order of treatment and the availability of
+10 treatment resources.
+11 (D) Upon consideration of the defendant’s financial means, require
+12 Require the execution of a secured appearance bond in a specified amount and
+13 the deposit with the clerk of the court, in cash or other security as directed, of a
+14 sum not to exceed 10 percent of the amount of the bond, such deposit to be
+15 returned upon the appearance of the defendant as required.
+16 (E) Upon consideration of the defendant’s financial means, require
+17 Require the execution of a surety bond with sufficient solvent sureties, or the
+18 deposit of cash in lieu thereof.
+19 (F) Impose any other condition found reasonably necessary to
+20 mitigate the risk of flight achieve the purposes set forth in subdivisions
+VT LEG #386499 v.1
+
+BILL AS INTRODUCED H.866
+2026 Page 19 of 27
+1 7551(b)(1)(A)–(D) of this title as required, including a condition requiring that
+2 the defendant return to custody after specified hours.
+3 (G) [Repealed.]
+4 (H) Place the defendant in the pretrial supervision program Pretrial
+5 Supervision Program pursuant to section 7555 of this title, provided that the
+6 defendant meets the criteria identified in subdivisions 7555(d)(2)–(3)
+7 7555(d)(2) and (3) of this title.
+8 (I) Place the defendant in the home detention program Home
+9 Detention Program pursuant to section 7554b of this title.
+10 (2) If the judicial officer determines that conditions of release imposed
+11 to mitigate the risk of flight will not reasonably protect the public or address
+12 concerns identified in the release recommendation of the law enforcement
+13 officer who arrested or cited the defendant for the offense, the judicial officer
+14 may impose, in addition, the least restrictive of the following conditions or the
+15 least restrictive a combination of the following conditions that will reasonably
+16 ensure protection of the public and address concerns identified in the release
+17 recommendation of the law enforcement officer who arrested or cited the
+18 defendant for the offense:
+19 (A) Place the defendant in the custody of a designated person or
+20 organization agreeing to supervise the defendant if the defendant is charged
+VT LEG #386499 v.1
+
+BILL AS INTRODUCED H.866
+2026 Page 20 of 27
+1 with an offense that is not a nonviolent misdemeanor or nonviolent felony as
+2 defined in 28 V.S.A. § 301.
+3 (B) Place restrictions on the travel, association, or place of abode of
+4 the defendant during the period of release.
+5 (C) Require the defendant to participate in an alcohol or drug
+6 treatment program. The judicial officer shall take into consideration the
+7 defendant’s ability to comply with an order of treatment and the availability of
+8 treatment resources.
+9 (D) Impose any other condition found reasonably necessary to
+10 protect the public, except that a physically restrictive condition may only be
+11 imposed in extraordinary circumstances and address concerns identified in the
+12 release recommendation of the law enforcement officer who arrested or cited
+13 the defendant for the offense.
+14 (E) Suspend the officer’s duties in whole or in part if the defendant is
+15 a State, county, or municipal officer charged with violating section 2537 of this
+16 title and the court finds that it is necessary to protect the public.
+17 (F) [Repealed.]
+18 (G) Place the defendant in the pretrial supervision program Pretrial
+19 Supervision Program pursuant to section 7555 of this title, provided that the
+20 defendant meets the criteria identified in subdivisions 7555(d)(2)–(3)
+21 7555(d)(2) and (3) of this title.
+VT LEG #386499 v.1
+
+BILL AS INTRODUCED H.866
+2026 Page 21 of 27
+1 (H) Place the defendant in the home detention program Home
+2 Detention Program pursuant to section 7554b of this title.
+3 (3) If the defendant satisfies the criteria in subdivisions (A)–(H) of this
+4 subdivision, a judicial officer shall impose the conditions as required in
+5 subdivisions (A)–(H) of this subdivision.
+6 (A) If a defendant failed to appear at a court proceeding two or more
+7 times in the previous five years, the judicial officer shall:
+8 (i) place the defendant under surveillance and electronic
+9 monitoring by the Department of Corrections, including the use of passive
+10 electronic monitoring;
+11 (ii) place the defendant in the Pretrial Supervision Program
+12 pursuant to section 7555 of this title, provided that the defendant meets the
+13 criteria identified in subdivisions 7555(d)(2) and (3) of this title, and require
+14 the defendant to report on a daily basis to the Department of Corrections; and
+15 (iii) require the defendant to participate in an alcohol or drug
+16 treatment program.
+17 (B) If the defendant was previously convicted of three or more
+18 offenses in the previous five years, the judicial officer shall:
+19 (i) place the defendant under surveillance and electronic
+20 monitoring by the Department of Corrections, including the use of passive
+VT LEG #386499 v.1
+
+BILL AS INTRODUCED H.866
+2026 Page 22 of 27
+1 electronic monitoring, or place the defendant in the Home Detention Program
+2 pursuant to section 7554b of this title;
+3 (ii) place the defendant in the Pretrial Supervision Program
+4 pursuant to section 7555 of this title, provided that the defendant meets the
+5 criteria identified in subdivisions 7555(d)(2) and (3) of this title, and require
+6 the defendant to report on a weekly basis to the Department of Corrections;
+7 and
+8 (iii) require the defendant to participate in an alcohol or drug
+9 treatment program.
+10 (C) If the defendant has four or more pending criminal charges,
+11 including the charged offense, the judicial officer shall:
+12 (i) place the defendant under surveillance and electronic
+13 monitoring by the Department of Corrections, including the use of passive
+14 electronic monitoring;
+15 (ii) place the defendant in the Pretrial Supervision Program
+16 pursuant to section 7555 of this title, provided that the defendant meets the
+17 criteria identified in subdivisions 7555(d)(2) and (3) of this title;
+18 (iii) require the defendant to participate in an alcohol or drug
+19 treatment program; and
+20 (iv) place restrictions on the travel of the defendant during the
+21 period of release to the county of the defendant’s residence.
+VT LEG #386499 v.1
+
+BILL AS INTRODUCED H.866
+2026 Page 23 of 27
+1 (D) If the defendant violated release conditions in the previous three
+2 years, the judicial officer shall:
+3 (i) place the defendant in the Home Detention Program pursuant
+4 to section 7554b of this title;
+5 (ii) place the defendant in the Pretrial Supervision Program
+6 pursuant to section 7555 of this title, provided that the defendant meets the
+7 criteria identified in subdivisions 7555(d)(2) and (3) of this title;
+8 (iii) require the defendant to participate in an alcohol or drug
+9 treatment program; and
+10 (iv) require the defendant to abstain from consuming alcohol,
+11 which the Department of Corrections may enforce through random testing.
+12 (E) If the defendant is charged with an offense involving domestic
+13 violence and was charged with or convicted of an offense involving domestic
+14 violence in the previous seven years, the judicial officer shall:
+15 (i) require that the defendant not contact the victim or victims;
+16 (ii) place the defendant under surveillance and electronic
+17 monitoring by the Department of Corrections, including the use of passive
+18 electronic monitoring, with designated exclusion zones;
+19 (iii) require the defendant to participate in a domestic violence
+20 treatment program; and
+VT LEG #386499 v.1
+
+BILL AS INTRODUCED H.866
+2026 Page 24 of 27
+1 (iv) require the defendant to participate in an alcohol or drug
+2 treatment program.
+3 (F) If the defendant was previously convicted of five or more
+4 misdemeanor offenses in the previous three years, the judicial officer shall:
+5 (i) place the defendant in the Pretrial Supervision Program
+6 pursuant to section 7555 of this title, provided that the defendant meets the
+7 criteria identified in subdivisions 7555(d)(2) and (3) of this title;
+8 (ii) require the defendant to participate in an alcohol or drug
+9 treatment program;
+10 (iii) require the defendant to report in person each week to the
+11 Department of Corrections; and
+12 (iv) require the defendant comply with a curfew between 10:00
+13 p.m. and 6:00 a.m.
+14 (G) If the defendant was charged with a felony while on release after
+15 being charged with a felony offense, the judicial officer shall:
+16 (i) place the defendant under surveillance and electronic
+17 monitoring by the Department of Corrections, including the use of passive
+18 electronic monitoring;
+19 (ii) require the defendant to participate in an alcohol or drug
+20 treatment program; and
+VT LEG #386499 v.1
+
+BILL AS INTRODUCED H.866
+2026 Page 25 of 27
+1 (iii) place restrictions on the association of the defendant with any
+2 co-defendants during the period of release.
+3 (H) If the defendant was previously convicted of three or more
+4 alcohol-related or drug-related offenses in the previous five years, the judicial
+5 officer shall:
+6 (i) require the defendant to participate in an alcohol or drug
+7 treatment program;
+8 (ii) require the defendant to submit to random drug and alcohol
+9 testing at least two times each week;
+10 (iii) place the defendant under surveillance and electronic
+11 monitoring by the Department of Corrections, including the use of passive
+12 electronic monitoring, or place the defendant in the Home Detention Program
+13 pursuant to section 7554b of this title; and
+14 (iv) require the defendant to abstain from consuming alcohol or
+15 visiting establishments that primarily serve alcohol.
+16 (4) A judicial officer may shall order that a defendant not harass or
+17 contact or cause to be harassed or contacted a victim or potential witness. This
+18 order shall take effect immediately, regardless of whether the defendant is
+19 incarcerated or released.
+20 (b) Judicial considerations in imposing conditions of release. In
+21 determining which conditions of release to impose:
+VT LEG #386499 v.1
+
+BILL AS INTRODUCED H.866
+2026 Page 26 of 27
+1 (1) In subdivision (a)(1) of this section, the judicial officer, on the basis
+2 of available information, shall take into account the nature and circumstances
+3 of the offense charged; the weight of the evidence against the accused
+4 defendant; the accused’s defendant’s employment; financial resources,
+5 including the accused’s ability to post bail; the accused’s defendant’s character
+6 and mental condition; the accused’s defendant’s length of residence in the
+7 community; and the accused’s defendant’s record of appearance at court
+8 proceedings or of flight to avoid prosecution or failure to appear at court
+9 proceedings; and the protection of the public.
+10 (2) In subdivision (a)(2) of this section, the judicial officer, on the basis
+11 of available information, shall take into account the nature and circumstances
+12 of the offense charged; the weight of the evidence against the accused
+13 defendant; the accused’s defendant’s family ties, employment, character and
+14 mental condition, length of residence in the community, record of convictions,
+15 and record of appearance at court proceedings or of flight to avoid prosecution
+16 or failure to appear at court proceedings; whether, at the time of the current
+17 offense or arrest, the defendant was released on conditions or personal
+18 recognizance, on probation, furlough, parole, or other release pending trial,
+19 sentencing, appeal, or completion of a sentence for an offense under federal or
+20 state law; and whether, in connection with a criminal prosecution, the
+21 defendant is compliant with court orders or has failed to appear at a court
+VT LEG #386499 v.1
+
+BILL AS INTRODUCED H.866
+2026 Page 27 of 27
+1 hearing; and the protection of the public. Recent history of actual violence or
+2 threats of violence may be considered by the judicial officer as bearing on the
+3 character and mental condition of the accused defendant.
+4 (3) In subdivision (a)(2) of this section, the judicial officer, on the basis
+5 of available information, shall take into account whether the defendant is a
+6 repeat or chronic offender and the protection of the public and public
+7 resources. The judicial officer may impose enhanced conditions based on
+8 whether the defendant was previously convicted of three or more misdemeanor
+9 offenses in the previous two years, whether the defendant was previously
+10 convicted of five or more misdemeanor offenses in the previous five years,
+11 whether the defendant was previously convicted of two or more felony
+12 offenses in the previous five years, whether the defendant has four or more
+13 pending charges, whether the defendant previously failed to appear at a court
+14 proceeding two or more times in the previous five years, and whether the
+15 defendant has a pattern of committing similar offenses, defined as being
+16 convicted of three or more offenses of the same type in the previous three
+17 years.
+18 * * *
+19 Sec. 3. EFFECTIVE DATE
+20 This act shall take effect on July 1, 2026.
+VT LEG #386499 v.1

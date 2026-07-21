@@ -1,0 +1,139 @@
+Title: 
+Official Title: 
+Source: versions - Senate Proposal of Amendment (OfficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate proposal of amendment
+H. 778
+An act relating to dam safety.
+The Senate proposes to the House to amend the bill by striking out all after
+the enacting clause and inserting in lieu thereof the following:
+Sec. 1. 20 V.S.A. § 10 is amended to read:
+§ 10. REQUEST TO GOVERNOR BY MUNICIPALAUTHORITIES
+The all-hazards event provisions of this chapter shall not be brought into
+action unless the municipal director of emergency management, a member of
+the legislative body of the municipality, the city or town manager, or the
+mayor of a city that is within the area affected by an all-hazards event shall
+declare an emergency and request the Governor to find that a state of
+emergency exists and the Governor so finds, or unless the Governor declares a
+state of emergency under section 9 of this title. This section shall not be
+construed to prevent the Governor or the Director of Emergency Management
+without municipal approval from requiring the evacuation of an area subject to
+inundation from a dam failure when there is a dam failure or an imminent risk
+of failure.
+Sec. 2. STATE OF VERMONT EMERGENCY OPERATIONS PLANNING
+PILOT PROJECT; REPORT
+(a)(1) The Division of Emergency Management, in coordination with the
+Department of Environmental Conservation, shall conduct a pilot project
+under which the Division shall develop a set of emergency operations plans
+(EOPs) for two State-owned dams that have been classified as high-hazard
+potential. One of the dams shall have a population at risk of 1,000 or more
+persons and the other shall have a population at risk of 100 or more but fewer
+than 1,000 persons.
+(2) The set of EOPs for each dam shall include actions for each
+municipality in the inundation zone of the dam.
+(b)(1) In preparing the EOPs required under subsection (a) of this section
+and in order to ensure the sufficiency of the EOPs to protect public lives and
+property, the Division shall coordinate with and collect input from the Whole
+Community that would be inundated if the dam were to fail. The Division also
+shall coordinate with any owner or operator of a hydroelectric generation
+facility located at a State-owned dam. As used in this section, “Whole
+Community” shall have the same meaning as provided in the Federal
+Emergency Management Administration guidance on A Whole Community
+Approach to Emergency Management: Principles, Themes, and Pathways for
+Action FDOC 104-008-1, December 2011.
+
+(2) The Division of Emergency Management may hire a contractor,
+including a regional planning commission, to complete the requirements of
+this section, including one or both of the EOPs required under subsection (a)
+of this section.
+(c) Each EOP required to be completed under subsection (a) of this section
+shall:
+(1) be coordinated with each dam’s emergency action plan and shall
+utilize each dam’s emergency action plan inundation maps;
+(2) identify planned evacuations and evacuation routes based on
+possible inundation scenarios, including how to evacuate vulnerable
+populations such as medically vulnerable individuals who need access to
+electricity or specialized medical equipment;
+(3) identify where individuals shall evacuate to, such as a shelter, higher
+ground, or reunification location;
+(4) engage managers and administrators of facilities that house
+vulnerable populations within the Whole Community in the plan development;
+(5) plan for the use of mutual aid and State resources, and coordinate
+such use between municipalities downstream of the dam;
+(6) address how to implement the use of pre-event communication and
+early warning systems to alert persons in the inundation areas, including the
+use of the VT-Alert system; and
+(7) include any additional provisions deemed useful by the Division in
+developing the EOP or for inclusion in the EOP.
+(d) On or before July 1, 2028, the Division of Emergency Management
+shall submit to the House Committee on Environment and the Senate
+Committee on Natural Resources and Energy the results of the pilot project
+required under subsection (a) of this section, including:
+(1) copies of the EOPs for the two dams;
+(2) a summary of the process of developing the EOPs, including
+whether the Division completed the EOPs with Division staff, contracted with
+regional planning commissions, or hired other contractors to complete the
+EOPs;
+(3) a summary of who in the area of potential inundation for each dam
+that the Division or the Division contractor coordinated with in the
+development of the EOP;
+
+(4) the cost of the EOPs completed under the pilot project;
+(5) a summary of early warning and communications systems
+municipalities may use to communicate recommendations or requests for
+evacuation, including the best use of the State’s VT-Alert system; and
+(6) a scope, timeline, and budget for the Division to develop an EOP
+template or templates and a training on EOP development for municipalities.
+(e) As part of the report required under subsection (d) of this section, the
+Division of Emergency Management shall, based on the results of the pilot
+project EOPs:
+(1) recommend how EOPs should be completed for municipalities
+downstream of all State or federal dams in Vermont that are high-hazard
+potential dams and that have a population at risk of 100 or more persons,
+including:
+(A) whether and how to prioritize completion of the EOPs for
+municipalities downstream of all high-hazard dams with a population at risk of
+100 or more persons;
+(B) whether the Division of Emergency Management can complete
+or contract for completion of the EOPs for municipalities downstream of all
+State or federal dams with a population at risk of 100 or more persons by
+2035;
+(C) whether the Division of Emergency Management can complete
+an EOP for municipalities downstream of federal dam or whether the Division
+may only assist those local entities authorized to complete an EOP under
+federal law; and
+(D) what it would cost for the Division of Emergency Management
+to complete the EOPs for municipalities downstream of dams with a
+population at risk of 100 or more persons or what it would cost for the
+Division to contract with a qualified consultant to complete the EOPs;
+(2) recommend how EOPs should be completed for municipalities
+downstream of high-hazard dams with a population at risk of fewer than 100
+persons;
+(3) recommend organizations that may assist municipalities in accessing
+potential funding sources assist in the completion or compliance with an EOP;
+(4) recommend how to best educate municipalities and emergency
+service providers about the need for and importance of EOPs for dams;
+(5) recommend whether and how an EOP should identify structures that
+persons would reasonably be expected to occupy and how to geotag these
+structures for purposes of inclusion in the VT-Alert system; and
+
+(6) recommend how often exercises should be conducted to validate the
+EOPs required under subsection (a) of this section and ultimately for all EOPs
+prepared for dams in the State.
+Sec. 3. APPROPRIATIONS
+(a) In addition to other funds appropriated to the Department of Public
+Safety for the Division of Emergency Management in fiscal year 2027,
+$250,000.00 is appropriated from the General Fund to the Department for
+completion by the Division of Emergency Management of the emergency
+operations plan pilot project required under Sec. 2 of this act.
+(b) In addition to other funds appropriated to the Department of
+Environmental Conservation in fiscal year 2027, $125,000.00 is appropriated
+from the General Fund to the Department of Environmental Conservation for
+the Department’s assistance in completing the emergency operations plan pilot
+project required under Sec. 2 of this act.
+Sec. 4. EFFECTIVE DATE
+This act shall take effect on passage.

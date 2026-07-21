@@ -1,0 +1,591 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.585
+2026 Page 1 of 24
+1 H.585
+2 Introduced by Representatives McCoy of Poultney and McFaun of Barre
+3 Town
+4 Referred to Committee on
+5 Date:
+6 Subject: Health; health care reform; health insurers; health insurance; prior
+7 authorization; site-neutral billing; reinsurance
+8 Statement of purpose of bill as introduced: This bill proposes to modify the
+9 governance and executive compensation requirements for certain health
+10 insurance companies. It would allow limited age rating for health insurance
+11 plans in the individual and small group markets and expand access to
+12 association health plans and to short-term, limited duration health insurance.
+13 The bill would define high-dollar claims for purposes of claims edits and
+14 would limit the primary care provider exemption from prior authorization
+15 requirements to apply to independent providers only. The bill would also
+16 begin implementing site-neutral billing policies for certain health care services
+17 and would authorize the State to pursue a federal waiver to establish a
+18 reinsurance program.
+19 An act relating to health insurance reforms
+VT LEG #386188 v.1
+
+BILL AS INTRODUCED H.585
+2026 Page 2 of 24
+1 It is hereby enacted by the General Assembly of the State of Vermont:
+2 * * * Health Insurer Governance and Executive Compensation * * *
+3 Sec. 1. 8 V.S.A. chapter 123 is amended to read:
+4 CHAPTER 123. NONPROFIT HOSPITAL SERVICE CORPORATIONS
+5 * * *
+6 § 4512. POWERS
+7 (a) Such A hospital service corporation shall be a nonprofit sharing
+8 corporation without capital stock. It shall be maintained and operated solely
+9 for the benefit of the its subscribers thereof and shall ensure that benefits and
+10 services are balanced with the efficient and economical management of the
+11 corporation. A hospital service corporation shall not be authorized to pay
+12 money in lieu of hospital service. A person, partnership, association, or
+13 corporation shall not contract to furnish hospital service unless authorized so to
+14 do so pursuant to the provisions of this chapter. Corporations formed under
+15 the provisions of this chapter shall have the privileges and be subject to the
+16 provisions of Title 11B as well as the applicable provisions of this chapter. In
+17 the event of a conflict between the provisions of Title 11B and the provisions
+18 of this chapter, the latter shall control.
+19 * * *
+20 § 4513. PERMIT TO ENGAGE IN BUSINESS; FOREIGN
+21 CORPORATIONS
+VT LEG #386188 v.1
+
+BILL AS INTRODUCED H.585
+2026 Page 3 of 24
+1 (a) At least three-fourths of the board of directors of a corporation
+2 organized under this chapter shall be composed of subscribers and members of
+3 the public. The remainder may be providers. The subscriber members of the
+4 board shall comprise at least a majority of the board. A corporation organized
+5 under this chapter shall provide for the election of its board of directors at a
+6 publicly announced meeting. As used in this section, “provider” means any
+7 person who is a provider of hospital or medical services, or who is an
+8 employee, director, trustee, or representative of a provider of such services.
+9 [Repealed.]
+10 * * *
+11 § 4513a. BOARD OF DIRECTORS
+12 (a) Definitions. As used in this section:
+13 (1) “Provider” means any person who is a provider of hospital or
+14 medical services, or who is an employee, director, trustee, or representative of
+15 a provider of such services.
+16 (2) “Representative of the public” means any member of the board of
+17 directors appointed by the Governor. A representative of the public may be a
+18 member of the public, a subscriber, or a provider.
+19 (b) Composition. At least three-fourths of the board of directors of a
+20 corporation organized under this chapter shall be composed of subscribers and
+21 members of the public. The remainder may be providers. The subscriber
+VT LEG #386188 v.1
+
+BILL AS INTRODUCED H.585
+2026 Page 4 of 24
+1 members of the board shall comprise at least a majority of the board. A
+2 corporation organized under this chapter shall provide for the election of its
+3 board of directors at a publicly announced meeting.
+4 (c) Representatives of the public.
+5 (1) Two voting members of the board, but in no event less than one-
+6 sixth of the board of directors, shall be representatives of the public appointed
+7 by the Governor. Unless otherwise specified in this chapter, a representative
+8 of the public shall have the same rights and responsibilities as any other
+9 member of the board of directors.
+10 (2) The initial term of one representative of the public shall be two years
+11 and the initial term of the other representative of the public shall be three years.
+12 If there are more than two representatives of the public, their initial terms shall
+13 be divided as equally as possible between the two initial term lengths.
+14 Thereafter, each representative of the public appointed by the Governor to
+15 succeed a representative of the public shall serve a three-year term and shall
+16 serve until a successor is appointed.
+17 (3) A representative of the public shall be terminated only by the
+18 appointing authority, by conclusion of the appointed term, or by voluntary
+19 resignation.
+VT LEG #386188 v.1
+
+BILL AS INTRODUCED H.585
+2026 Page 5 of 24
+1 (4) If a vacancy occurs prior to the conclusion of the three-year term,
+2 whether by termination, resignation, or otherwise, the Governor shall appoint a
+3 new representative of the public to complete the term.
+4 (d) Committees.
+5 (1) The board of directors may create one or more committees and may
+6 appoint members of the board, including the representatives of the public, to
+7 serve on them.
+8 (2) The board shall create a compensation committee to review and
+9 recommend to the full board for approval all compensation packages offered to
+10 the corporation’s officers and executives.
+11 (A) The compensation committee shall be composed of two or more
+12 members, who shall serve at the pleasure of the board of directors.
+13 (B) At least two representatives of the public shall be voting
+14 members of the compensation committee.
+15 (e) Guiding principles for representatives of the public. In discharging the
+16 duties of a director, including as a member of a committee, each representative
+17 of the public:
+18 (1) shall, in determining what the representative of the public reasonably
+19 believes to be in the best interests of the hospital service corporation, consider
+20 the effects of any action or inaction on:
+21 (A) the subscribers of the hospital service corporation;
+VT LEG #386188 v.1
+
+BILL AS INTRODUCED H.585
+2026 Page 6 of 24
+1 (B) the community and societal considerations of the State of
+2 Vermont, including the principles for health care reform expressed in 18
+3 V.S.A. § 9371; and
+4 (C) the goal that the hospital service corporation’s benefits and
+5 services should be provided at minimum cost and under efficient and
+6 economical management of the corporation;
+7 (2) may consider any other relevant factors and the interests of any other
+8 group that the representative of the public determines are appropriate to
+9 consider; and
+10 (3) shall not be required to give priority to the interests of any particular
+11 person or group described in subdivision (1) or (2) of this subsection over the
+12 interests of any other person or group.
+13 (f) No violation of Title 11B. The consideration of interests and factors in
+14 the manner described in subsection (e) of this section shall not constitute a
+15 violation of Title 11B.
+16 (g) Limitations on liability.
+17 (1) A representative of the public is not liable for the failure of the
+18 hospital service corporation to create general or specific impacts on the
+19 community or the health care system.
+20 (2) A representative of the public is not liable to the hospital service
+21 corporation for any action or failure to take action in the representative’s
+VT LEG #386188 v.1
+
+BILL AS INTRODUCED H.585
+2026 Page 7 of 24
+1 official capacity if the representative of the public performed the duties of the
+2 office in compliance with Title 11B and this section. In the event of a conflict
+3 between Title 11B and this chapter, this chapter shall control.
+4 (3) A representative of the public shall have no duty to any person who
+5 is a beneficiary of the general or specific public benefit purposes of a hospital
+6 service corporation arising solely from the person’s status as a beneficiary of
+7 the general or specific public benefit.
+8 (h) Bylaws. Any new hospital benefit corporation shall adopt bylaws in
+9 accordance with the requirements of this chapter and Title 11B. All bylaws
+10 shall be filed with the Commissioner of Financial Regulation for review and
+11 approval.
+12 * * *
+13 § 4516a. EXECUTIVE COMPENSATION
+14 (a) As used in this section:
+15 (1) “Compensation” means total cash compensation, including base
+16 salary and annual incentive compensation.
+17 (2) “Executives” means the president, chief executive officer, chief
+18 medical officer, chief administrative officer, chief fiscal officer, vice
+19 presidents, and all functionally equivalent roles in a hospital service
+20 corporation.
+VT LEG #386188 v.1
+
+BILL AS INTRODUCED H.585
+2026 Page 8 of 24
+1 (b) On or before July 1, 2026, and prior to approving any changes to the
+2 compensation of any executive after that date, each hospital service
+3 corporation shall file with the Commissioner of Financial Regulation a
+4 statement sworn to by the chair of the corporation’s board of directors and the
+5 president of the corporation that includes the following information regarding
+6 compensation paid to executives of the corporation:
+7 (1) all compensation benchmarks utilized in connection with
+8 establishing or awarding compensation for each of the corporation’s
+9 executives, including information used by any consultant, vendor, or other
+10 third party retained by the corporation;
+11 (2) a detailed compensation survey or peer group data used by the
+12 corporation or by any consultant, vendor, or other third party retained by the
+13 corporation to establish compensation benchmarks or otherwise to establish or
+14 award compensation for each of the corporation’s executives; and
+15 (3) if any bonus or variable compensation was awarded or paid for the
+16 prior fiscal year, the criteria used to evaluate whether that compensation should
+17 be paid or awarded and the specific results that supported the payment.
+18 (c) The Commissioner may require the corporation to modify a group
+19 described in subdivision (b)(2) of this section if, in the Commissioner’s
+20 discretion, the group contains entities that are not sufficiently similar to the
+VT LEG #386188 v.1
+
+BILL AS INTRODUCED H.585
+2026 Page 9 of 24
+1 corporation in terms of size, business, operations, nonprofit status, or other
+2 factors.
+3 (d) The Commissioner may retain at the corporation’s expense such outside
+4 consultants and other experts as are reasonably necessary to assist the
+5 Commissioner in evaluating the materials provided pursuant to this section.
+6 Any persons so retained shall be under the direction and control of the
+7 Commissioner and shall act in a purely advisory capacity.
+8 (e) Nothing in this section shall be construed to preclude a corporation
+9 from segregating and designating any materials provided to the Commissioner
+10 under this section as confidential due to content that is proprietary, privileged,
+11 or otherwise confidential under Vermont law, and the Commissioner shall
+12 maintain the confidentiality of the information as appropriate under the Public
+13 Records Act.
+14 * * *
+15 Sec. 2. HOSPITAL SERVICE CORPORATIONS; IMPLEMENTATION OF
+16 AMENDMENTS TO 8 V.S.A. CHAPTER 123
+17 Not later than September 1, 2026, each hospital service corporation
+18 operating in this State on July 1, 2026, shall amend its bylaws to comply with
+19 the amendments to 8 V.S.A. chapter 123 as set forth in Sec. 1 of this act. The
+20 hospital service corporation shall file its amended bylaws with the
+21 Commissioner of Financial Regulation for review and approval.
+VT LEG #386188 v.1
+
+BILL AS INTRODUCED H.585
+2026 Page 10 of 24
+1 * * * Limited Age Rating * * *
+2 Sec. 3. 8 V.S.A. § 4516 is amended to read:
+3 § 4516. ANNUAL REPORT TO COMMISSIONER
+4 Annually, on or before March 1, a hospital service corporation shall file
+5 with the Commissioner of Financial Regulation a statement sworn to by the
+6 president and treasurer of the corporation showing its condition on December
+7 31. The statement shall be in such form and contain such matters as the
+8 Commissioner shall prescribe. To qualify for the tax exemption set forth in
+9 section 4518 of this title, the statement shall include a certification that the
+10 hospital service corporation operates on a nonprofit basis for the purpose of
+11 providing an adequate hospital service plan to individuals of the State, both
+12 groups and nongroups, without discrimination based on age, gender,
+13 geographic area, industry, and medical history, except as allowed by 33 V.S.A.
+14 § 1811(f)(2)(B).
+15 Sec. 4. 8 V.S.A. § 4588 is amended to read:
+16 § 4588. ANNUAL REPORT TO COMMISSIONER
+17 Annually, on or before March 1, a medical service corporation shall file
+18 with the Commissioner of Financial Regulation a statement sworn to by the
+19 president and treasurer of the corporation showing its condition on December
+20 31, which shall be in such form and contain such matters as the Commissioner
+21 shall prescribe. To qualify for the tax exemption set forth in section 4590 of
+VT LEG #386188 v.1
+
+BILL AS INTRODUCED H.585
+2026 Page 11 of 24
+1 this title, the statement shall include a certification that the medical service
+2 corporation operates on a nonprofit basis for the purpose of providing an
+3 adequate medical service plan to individuals of the State, both groups and
+4 nongroups, without discrimination based on age, gender, geographic area,
+5 industry, and medical history, except as allowed by 33 V.S.A. § 1811(f)(2)(B).
+6 Sec. 5. 8 V.S.A. § 5115 is amended to read:
+7 § 5115. DUTY OF NONPROFIT HEALTH MAINTENANCE
+8 ORGANIZATIONS
+9 Any nonprofit health maintenance organization subject to this chapter shall
+10 offer nongroup plans to individuals in accordance with 33 V.S.A. § 1811
+11 without discrimination based on age, gender, industry, and medical history,
+12 except as allowed by 33 V.S.A. § 1811(f)(2)(B).
+13 Sec. 6. DEPARTMENT OF FINANCIAL REGULATION; HEALTH
+14 INSURANCE PLANS; LIMITED AGE RATING
+15 The Department of Financial Regulation shall review and amend its rules
+16 and guidance as needed to allow health insurers to use age classifications in the
+17 premiums charged for their individual and small group plans starting in the
+18 2028 plan year, provided that the premium charged to any cohort shall not
+19 deviate by more than five percent above or below the community rate filed by
+20 the health insurer pursuant to 8 V.S.A. § 4026.
+VT LEG #386188 v.1
+
+BILL AS INTRODUCED H.585
+2026 Page 12 of 24
+1 * * * Expanding Access to Association Health Plans * * *
+2 Sec. 7. 8 V.S.A. § 4041 is amended to read:
+3 § 4041. GROUP HEALTH INSURANCE POLICIES; DEFINITIONS
+4 (a) As used in this section:
+5 (1) “Employees” includes the officers, managers, and employees of the
+6 employer; the partners, if the employer is a partnership; the officers, managers,
+7 and employees of subsidiary or affiliated corporations of a corporation
+8 employer; and the individual proprietors, partners, and employees of
+9 individuals and firms, the business of which is controlled by the insured
+10 employer through stock ownership, contract, or otherwise.
+11 (2) “Employer” may be deemed to include any municipal or
+12 governmental entity or officer, or the appropriate officer for an unincorporated
+13 town or gore or for the Unified Towns and Gores of Essex County, as well as
+14 private individuals, partnerships, and corporations.
+15 (b) Group health insurance is a form of health insurance that covers one or
+16 more persons, with or without their dependents, that is issued upon the
+17 following basis:
+18 (1)(A) Under a policy issued to an employer, who is deemed the
+19 policyholder, insuring at least one employee of the employer, for the benefit of
+20 persons other than the employer.
+VT LEG #386188 v.1
+
+BILL AS INTRODUCED H.585
+2026 Page 13 of 24
+1 (B) In accordance with section 3368 of this title, an employer
+2 domiciled in a jurisdiction other than Vermont that has more than 25
+3 certificate-holder employees whose principal worksite and domicile is in
+4 Vermont and that is defined as a large group in its own jurisdiction and under
+5 the Patient Protection and Affordable Care Act, Pub. L. No. 111-148, § 1304,
+6 as amended by the Health Care and Education Reconciliation Act of 2010,
+7 Pub. L. No. 111-152, may purchase insurance in the large group health
+8 insurance market for its Vermont-domiciled certificate-holder employees.
+9 (2)(A) Under a policy issued:
+10 (i) to an association, a trust, or one or more trustees of a fund
+11 established by one or more associations otherwise eligible for the issuance of a
+12 policy under this subdivision (2) and maintained, directly or indirectly, by one
+13 or more associations for the benefit of its members or a contract or plan issued
+14 by such an association or trust; or
+15 (ii) by a “multiple employer welfare arrangement” that constitutes
+16 an “employer,” as those terms are defined in the Employee Retirement Income
+17 Security Act of 1974, as amended, and accompanying U.S. Department of
+18 Labor regulations and guidance.
+19 (B)(i) The association or associations shall have:
+20 (I) a minimum of 100 persons at the time of incorporation or
+21 formation;
+VT LEG #386188 v.1
+
+BILL AS INTRODUCED H.585
+2026 Page 14 of 24
+1 (II) been organized and maintained in good faith for purposes
+2 other than that of obtaining insurance;
+3 (III) been in active existence for at least one year; and
+4 (IV) a constitution and bylaws that provide that:
+5 (aa) the association or associations hold regular meetings
+6 not less than annually to further purposes of the members;
+7 (bb) except for credit unions, the association or associations
+8 collect dues or solicit contributions from members; and
+9 (cc) the members constitute a majority of the voting power
+10 of the association for all purposes and have representation on the governing
+11 board and committees.
+12 (ii)(I) The association or associations shall not be controlled by a
+13 health insurer, as evidenced by the operation of the association or associations.
+14 (II) The following factors may be used as evidence to
+15 determine whether an association is a health insurer-operated association;
+16 provided, however, that the presence or absence of one or more of these factors
+17 shall not serve to limit or be dispositive of such a determination:
+18 (aa) common board members, officers, executives, or
+19 employees;
+20 (bb) common ownership of the health insurer and the
+21 association, or of the association and another eligible group; and
+VT LEG #386188 v.1
+
+BILL AS INTRODUCED H.585
+2026 Page 15 of 24
+1 (cc) common use of office space or equipment used by the
+2 health insurer to transact insurance. [Repealed.]
+3 (C) An association’s members shall have a shared or common
+4 purpose that is not primarily a business or customer relationship. [Repealed.]
+5 (D)(i) A policy issued by an association shall not insure persons other
+6 than the members or employees of the association or associations, or
+7 employees of members, or all of any class or classes of employees of the
+8 association, associations, or members, together, in each case, with the
+9 employees’ or members’ dependents, as applicable, for the benefit of persons
+10 other than the employee’s employer.
+11 (ii) A policy issued by an association shall insure all eligible
+12 persons, except those who reject coverage in writing.
+13 (E) An association shall not use the solicitation of insurance as the
+14 primary method of obtaining new members.
+15 (F) If a health insurer collects membership fees or dues on behalf of
+16 an association, the health insurer shall disclose to the members of the
+17 association that the health insurer is billing and collecting membership fees and
+18 dues on behalf of the association.
+19 (3)(A) Under a policy issued to a trust, or to one or more trustees of a
+20 fund established and maintained, directly or indirectly, by:
+21 (i) two or more employers;
+VT LEG #386188 v.1
+
+BILL AS INTRODUCED H.585
+2026 Page 16 of 24
+1 (ii) one or more labor unions or similar employee organizations;
+2 or
+3 (iii) one or more employers and one or more labor unions or
+4 similar employee organizations.
+5 (B)(i) A policy under this subdivision (3) must be issued to the trust
+6 or trustees for the purpose of insuring all of the employees of the employers or
+7 all of the members of the unions or organizations, or all of any class or classes
+8 of employees or members, together, in each case, with the employees’ or
+9 members’ dependents, as applicable, for the benefit of persons other than the
+10 employers or the unions or organizations.
+11 (ii) A policy issued to a trust shall insure all eligible persons,
+12 except those who reject coverage in writing.
+13 (4) Under a policy issued to any other substantially similar group that, in
+14 the discretion of the Commissioner, may be subject to the issuance of a group
+15 accident and sickness policy or contract.
+16 Sec. 8. 8 V.S.A. § 4043 is amended to read:
+17 § 4043. ASSOCIATION HEALTH PLANS
+18 (a)(1) As used in this section, “association health plan” means a policy
+19 issued to an association; to a trust; or to one or more trustees of a fund
+20 established, created, or maintained for the benefit of the members of one or
+21 more associations or a contract or plan issued by an association or trust or by a
+VT LEG #386188 v.1
+
+BILL AS INTRODUCED H.585
+2026 Page 17 of 24
+1 multiple employer welfare arrangement as defined in the Employee Retirement
+2 Income Security Act of 1974, 29 U.S.C. § 1001 et seq.
+3 (2) No association health plan shall be issued, offered, or renewed in
+4 this State to any person other than an association that was formed or could
+5 have been formed under the Employee Retirement Income Security Act of
+6 1974, 29 U.S.C. § 1001 et seq., and accompanying U.S. Department of Labor
+7 regulations and guidance, in each case, as in effect as of January 19, 2017 a
+8 group described in subdivision 4041(b)(2), (3), or (4) of this chapter.
+9 (b) The Commissioner shall adopt rules pursuant to 3 V.S.A. chapter 25
+10 regulating association health plans in order to protect Vermont consumers and
+11 promote the stability of Vermont’s health insurance markets, to the extent
+12 permitted under federal law, including rules regarding licensure, solvency and
+13 reserve requirements, and rating requirements.
+14 (c) The Notwithstanding any statute or rule to the contrary, the provisions
+15 of section sections 3661 and 4042 of this title shall apply to fully insured
+16 association health plans.
+17 * * * Expanding Access to Short-Term, Limited-Duration Plans * * *
+18 Sec. 9. 8 V.S.A. § 4053 is amended to read:
+19 § 4053. SHORT-TERM, LIMITED-DURATION HEALTH INSURANCE
+20 (a) As used in this section, “short-term, limited-duration health insurance”
+21 means health insurance that provides medical, hospital, or major medical
+VT LEG #386188 v.1
+
+BILL AS INTRODUCED H.585
+2026 Page 18 of 24
+1 expense benefits coverage pursuant to a policy or contract with a health insurer
+2 and that has an expiration date specified in the policy or contract that is three
+3 months or less after the original effective date of the policy or contract has the
+4 same meaning as “short-term, limited-duration insurance” in 45 C.F.R.
+5 § 144.103.
+6 (b) No person shall provide short-term, limited-duration health insurance
+7 coverage without a certificate of authority from the Commissioner to offer
+8 health insurance in this State unless the person is exempted by subdivision
+9 3368(a)(4) of this title.
+10 (c) A short-term, limited-duration health insurance policy or contract shall
+11 be nonrenewable, and a health insurer shall not issue a short-term, limited-
+12 duration health insurance policy or contract to any person if the issuance would
+13 result in the person being covered by short-term, limited-duration health
+14 insurance coverage for more than three months in any 12-month period not
+15 have a duration of longer than 12 months in total, taking into account any
+16 renewals or extensions.
+17 (d) A policy or contract for short-term, limited-duration health insurance
+18 coverage shall display prominently in the policy or contract and in any
+19 application materials provided in connection with enrollment in that coverage,
+20 in at least 14-point type, certain disclosures regarding the scope of short-term,
+21 limited-duration health insurance coverage, including the types of benefits and
+VT LEG #386188 v.1
+
+BILL AS INTRODUCED H.585
+2026 Page 19 of 24
+1 consumer protections that are and are not included. The Commissioner shall
+2 determine the specific disclosure language that shall be used in all short-term,
+3 limited-duration health insurance policies, contracts, and application materials
+4 and shall provide the language to the health insurers offering that coverage.
+5 (e) The Commissioner shall adopt rules pursuant to 3 V.S.A. chapter 25:
+6 (1) establishing the minimum financial, marketing, service, and other
+7 requirements for registration of a health insurer to provide short-term, limited-
+8 duration health insurance coverage to individuals in this State;
+9 (2) requiring a health insurer seeking to provide short-term, limited-
+10 duration health insurance coverage to individuals in this State to file its rates
+11 and forms with the Commissioner for the Commissioner’s approval;
+12 (3) requiring a health insurer seeking to provide short-term, limited-
+13 duration health insurance coverage to individuals in this State to file its
+14 advertising materials with the Commissioner for the Commissioner’s approval;
+15 and
+16 (4) establishing such other requirements as the Commissioner deems
+17 necessary to protect Vermont consumers and promote the stability of
+18 Vermont’s health insurance markets.
+19 (f) The provisions of section 4063 of this title, and any rules adopted under
+20 that section, shall apply to short-term, limited-duration health insurance
+21 coverage.
+VT LEG #386188 v.1
+
+BILL AS INTRODUCED H.585
+2026 Page 20 of 24
+1 * * * Defining “High-Dollar Claims” for Claims Edit Purposes * * *
+2 Sec. 10. 18 V.S.A. § 9418a is amended to read:
+3 § 9418a. PROCESSING CLAIMS, DOWNCODING, AND ADHERENCE
+4 TO CODING RULES
+5 * * *
+6 (e)(1) Except as otherwise provided in subdivision (2) of this subsection,
+7 no health plan, contracting entity, covered entity, or payer shall subject any
+8 health care provider to prepayment coding validation edit review. As used in
+9 this subsection, “prepayment coding validation edit review” means any action
+10 by the health plan, contracting entity, covered entity, or payer, or by a
+11 contractor, assignee, agent, or other entity acting on its behalf, requiring a
+12 health care provider to provide medical record documentation in conjunction
+13 with or after submission of a claim for payment for health care services
+14 delivered, but before the claim has been adjudicated.
+15 (2) Nothing in this subsection shall be construed to prohibit targeted
+16 prepayment coding validation edit review of a specific provider, provider
+17 group, or facility under certain circumstances, including evaluating high-dollar
+18 claims exceeding $25,000.00 per episode of care; verifying complex financial
+19 arrangements; investigating member questions; conducting post-audit
+20 monitoring; addressing a reasonable belief of fraud, waste, or abuse; or other
+21 circumstances determined by the Commissioner through a bulletin or guidance.
+VT LEG #386188 v.1
+
+BILL AS INTRODUCED H.585
+2026 Page 21 of 24
+1 * * *
+2 * * * Limiting Prior Authorization Exemptions for Primary Care * * *
+3 Sec. 11. 18 V.S.A. § 9418b is amended to read:
+4 § 9418b. PRIOR AUTHORIZATION
+5 * * *
+6 (c)(1)(A) Except as provided in subdivision (B) of this subdivision (1), a
+7 health plan shall not impose any prior authorization requirement for any
+8 admission, item, service, treatment, or procedure ordered by a primary care
+9 provider who practices at an independent physician practice that is not owned
+10 or affiliated with a hospital or hospital network and who is not employed by or
+11 otherwise under the control of a hospital or hospital network.
+12 (B) The prohibition set forth in subdivision (A) of this subdivision
+13 (1) shall not be construed to prohibit prior authorization requirements for
+14 prescription drugs or for an admission, item, service, treatment, or procedure
+15 that is provided out-of-network.
+16 (2) As used in this subsection, “primary care provider” means a health
+17 care provider who is contracted and enrolled with the health plan as a primary
+18 care provider.
+19 * * *
+VT LEG #386188 v.1
+
+BILL AS INTRODUCED H.585
+2026 Page 22 of 24
+1 * * * Site-Neutral Billing * * *
+2 Sec. 12. 18 V.S.A. § 9376 is amended to read:
+3 § 9376. PAYMENT AMOUNTS; METHODS
+4 (a) Intent. It is the intent of the General Assembly:
+5 (1) to ensure payments to health care professionals that are consistent
+6 with efficiency, economy, and quality of care and will permit them to provide,
+7 on a solvent basis, effective and efficient health care services that are in the
+8 public interest. It is also the intent of the General Assembly;
+9 (2) to eliminate the shift of costs between the payers of health care
+10 services to ensure that the amount paid to health care professionals is sufficient
+11 to enlist enough providers to ensure that health care services are available to all
+12 Vermonters and are distributed equitably; and
+13 (3) that payments for health care services that can be delivered safely
+14 and affordably outside a hospital setting should be standardized regardless of
+15 the health care setting in which they are delivered.
+16 * * *
+17 (f) Site-neutral billing.
+18 (1) The Board, in coordination with the Department of Financial
+19 Regulation, shall identify outpatient or ambulatory items and services that are
+20 safe and appropriate to be delivered in lower-cost, nonhospital settings. For
+21 each of these items and services, the Board shall establish a single reference-
+VT LEG #386188 v.1
+
+BILL AS INTRODUCED H.585
+2026 Page 23 of 24
+1 based price that shall be applied in all hospital and nonhospital service
+2 locations across Vermont, based on a percentage of the Medicare
+3 reimbursement rate for the same or a similar item or service or on another
+4 benchmark, as appropriate, using the same parameters as set forth in
+5 subdivision (e)(2)(A) of this section.
+6 (2)(A) In developing site-neutral, reference-based prices for site-neutral
+7 billing pursuant to this subsection (f), the Board and the Department shall
+8 consult with health insurers, hospitals, other health care professionals as
+9 applicable; the Office of the Health Care Advocate; and the Agency of Human
+10 Services.
+11 (B) The Board shall implement site-neutral billing in a manner that
+12 does not allow health care professionals to charge or collect from patients or
+13 health insurers, and does not allow health insurers to pay, any amount for the
+14 outpatient or ambulatory item or service in excess of the site-neutral,
+15 reference-based amount established by the Board.
+16 (3) The Board shall identify factors that would necessitate terminating
+17 or modifying the use of site-neutral billing, such as a measurable reduction in
+18 access to or quality of care.
+19 (4) The Board’s authority to implement site-neutral billing pursuant to
+20 this subsection shall not include the authority to set amounts applicable to
+VT LEG #386188 v.1
+
+BILL AS INTRODUCED H.585
+2026 Page 24 of 24
+1 outpatient or ambulatory items provided or services delivered to patients who
+2 are enrolled in Medicare or Medicaid.
+3 * * * Section 1332 Reinsurance Waiver * * *
+4 Sec. 13. REINSURANCE; AUTHORIZATION TO PURSUE SECTION
+5 1332 WAIVER
+6 The Department of Vermont Health Access, in consultation with the
+7 Department of Financial Regulation, is authorized to submit a State Innovation
+8 Waiver pursuant to Section 1332 of the Patient Protection and Affordable Care
+9 Act of 2010, Pub. L. No. 111-148, as amended by the Health Care and
+10 Education Reconciliation Act of 2010, Pub. L. No. 111-152, to establish a
+11 program for reinsurance and seek federal pass-through funding of amounts
+12 attributable to premium tax credits under 26 U.S.C. § 36B and cost-sharing
+13 reductions under 42 U.S.C. § 18071.
+14 * * * Effective Date * * *
+15 Sec. 14. EFFECTIVE DATE
+16 This act shall take effect on July 1, 2026.
+VT LEG #386188 v.1

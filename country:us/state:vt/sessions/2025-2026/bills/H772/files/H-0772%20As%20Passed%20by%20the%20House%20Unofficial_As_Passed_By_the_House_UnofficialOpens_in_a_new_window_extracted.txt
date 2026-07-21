@@ -1,0 +1,775 @@
+Title: 
+Official Title: 
+Source: versions - As Passed By the House (UnofficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+AS PASSED BY HOUSE H.772
+2026 Page 1 of 32
+1 H.772
+2 An act relating to residential rental agreements, eviction procedures, and the
+3 creation of the positive rental payment credit reporting pilot program
+4 It is hereby enacted by the General Assembly of the State of Vermont:
+5 * * * Termination of Residential Rental Agreement * * *
+6 Sec. 1. 9 V.S.A. chapter 137 is amended to read:
+7 CHAPTER 137. RESIDENTIAL RENTAL AGREEMENTS
+8 Subchapter 1. General
+9 § 4451. DEFINITIONS
+10 As used in this chapter:
+11 (1)(A) “Actual notice” means receipt of written notice either:
+12 (i) hand-delivered or;
+13 (ii) delivered by sheriff service;
+14 (iii) mailed to the last known address or the address provided in
+15 the residential rental agreement;
+16 (iv) emailed to an email address included in the lease agreement
+17 and mailed as described in subdivision (iii) of this subdivision (1)(A); or
+18 (v) if the last address is unknown, posted to the door of the
+19 dwelling unit.
+20 (B) A There is created a rebuttable presumption that the notice was
+21 received three five days after:
+VT LEG #388404 v.1
+
+AS PASSED BY HOUSE H.772
+2026 Page 2 of 32
+1 (i) the date the email was sent if sent via electronic means;
+2 (ii) the date the notice was posted to the door; or
+3 (iii) mailing is created if the sending party proves that the notice
+4 was sent by first-class or certified U.S. mail, the date of the mailing.
+5 * * *
+6 (11) “Immediate family” means:
+7 (A) an adult person related by blood, adoption, civil marriage, or civil
+8 union;
+9 (B) an unmarried parent of a joint child;
+10 (C) a child, grandchild, foster child, ward, or guardian; or
+11 (D) a child, grandchild, foster child, ward, or guardian of any person
+12 listed in subdivision (A) or (B) of this subdivision (11).
+13 (12) “Actual and imminent threat” means a physical danger that is real,
+14 would occur within an immediate time frame, and could result in death or
+15 serious bodily harm. Factors to be considered when determining whether there
+16 is an actual and imminent threat include the duration of the risk, the nature and
+17 severity of the potential harm, the likelihood that the potential harm will occur,
+18 and the length of time before the potential harm would occur.
+19 (13) “Domestic abuse” has the same meaning as abuse in 15 V.S.A.
+20 § 1101(1).
+VT LEG #388404 v.1
+
+AS PASSED BY HOUSE H.772
+2026 Page 3 of 32
+1 (14) “Sexual assault” has the same meaning as in 12 V.S.A. § 5131(5).
+2 (15) “Stalking” has the same meaning as in 12 V.S.A. § 5131(6).
+3 * * *
+4 Subchapter 2. Residential Rental Agreements
+5 § 4455. TENANT OBLIGATIONS; PAYMENT OF RENT; RENT
+6 INCREASES
+7 (a) Rent is payable without demand or notice at the time and place agreed
+8 upon by the parties.
+9 (b) An increase in rent shall take effect on the first day of the rental period
+10 following no less than 60 days’ actual notice to the tenant.
+11 (c) A landlord shall not increase rent more than once in any 12-month
+12 period. This subsection shall not prohibit a landlord from increasing rent after
+13 the purchase of a dwelling unit subject to the requirements of this section.
+14 * * *
+15 § 4456a. RESIDENTIAL RENTAL APPLICATION
+16 (a)(1) A landlord or a landlord’s agent shall not charge an application fee to
+17 any individual in order to apply to enter into a rental agreement for a
+18 residential dwelling unit. This subsection shall not be construed to prohibit a
+19 person from charging a fee to a person in order to apply to rent commercial or
+20 nonresidential property.
+VT LEG #388404 v.1
+
+AS PASSED BY HOUSE H.772
+2026 Page 4 of 32
+1 (2) As used in this section, an “application fee” means any fee, charge,
+2 or cost to submit a residential rental application including any third-party
+3 processing payment.
+4 (3) A landlord or a landlord’s agent may charge actual costs to conduct a
+5 background or credit check of an applicant, unless the tenant or applicant
+6 provides a current credit report as part of the application, in which case the
+7 landlord or landlord’s agent shall not charge for a credit check. For purposes
+8 of this subdivision, a “current credit report” means a report dated within 90
+9 days prior to the date of the residential rental application.
+10 (4) If charging for a background or credit check on an applicant, the
+11 landlord or the landlord’s agent shall provide a copy of the results of the
+12 background or credit check to the applicant.
+13 * * *
+14 (c) A person who violates this section commits an unfair practice in
+15 commerce in violation of section 2453 of this title.
+16 * * *
+17 § 4461. SECURITY DEPOSITS
+18 (a)(1) A security deposit is any advance, deposit, or prepaid rent, however
+19 named, which is refundable to the tenant at the termination or expiration of the
+20 tenancy. The function of a security deposit is to secure the performance of a
+21 tenant’s obligations to pay rent and to maintain a dwelling unit.
+VT LEG #388404 v.1
+
+AS PASSED BY HOUSE H.772
+2026 Page 5 of 32
+1 (2) A landlord shall not charge for or receive a security deposit
+2 exceeding an amount equal to two months’ rent, in addition to any rent for the
+3 first month paid on or before initial occupancy.
+4 (3) Subject to the requirements of this section, a landlord may charge a
+5 separate security deposit in addition to the amount authorized in subdivision
+6 (2) of this subsection as a condition for allowing the tenant to have a pet or
+7 pets during the rental period. A landlord shall not charge any amount under
+8 this subdivision for any animal that mitigates a disability.
+9 * * *
+10 (c)(1) A landlord shall return the security deposit along with a written
+11 statement itemizing any deductions to a tenant within 14 days from after the
+12 date on which the landlord discovers that the tenant vacated or abandoned the
+13 dwelling unit or the date the tenant vacated the dwelling unit, provided the
+14 landlord received notice from the tenant of that date. In the case of the
+15 seasonal occupancy and rental of a dwelling unit not intended as a primary
+16 residence, the security deposit and written statement shall be returned within
+17 60 days.
+18 (2) If a landlord terminates a tenancy under subsection 4467(d) or (e) of
+19 this title and at the request of the tenant, the landlord shall return one-half of
+20 the security deposit, subject to any deductions authorized by subsection (b) of
+VT LEG #388404 v.1
+
+AS PASSED BY HOUSE H.772
+2026 Page 6 of 32
+1 this section, along with a written statement itemizing any deductions to the
+2 tenant not later than 45 days before the date in the termination notice.
+3 * * *
+4 (e) If a landlord fails to return the security deposit with a statement within
+5 14 days the timeframes outlined in subsection (c) of this section, the landlord
+6 forfeits the right to withhold any portion of the security deposit. If the failure
+7 is willful, the landlord shall be liable for double the amount wrongfully
+8 withheld, plus reasonable attorney’s fees and costs.
+9 * * *
+10 § 4465. RETALIATORY CONDUCT PROHIBITED
+11 (a) A landlord of a residential dwelling unit may not retaliate by
+12 establishing or changing terms of a rental agreement or by bringing or
+13 threatening to bring an action against a tenant who:
+14 (1) has complained to a governmental agency charged with
+15 responsibility for enforcement of a building, housing, or health regulation of a
+16 violation applicable to the premises materially affecting health and safety;
+17 (2) has complained to the landlord of a violation of this chapter; or
+18 (3) has organized or become a member of a tenant’s union or similar
+19 organization;
+VT LEG #388404 v.1
+
+AS PASSED BY HOUSE H.772
+2026 Page 7 of 32
+1 (4) has taken any legal action authorized by law against the landlord; or
+2 (5) has contacted law enforcement to respond to an instance of domestic
+3 abuse.
+4 (b) If the landlord acts in violation of this section, the tenant is entitled to
+5 recover damages and reasonable attorney’s fees and has a defense in any
+6 retaliatory action for possession.
+7 (c) If a landlord serves notice of termination of tenancy on any grounds
+8 other than for nonpayment of rent within 90 days after notice by any municipal
+9 or State governmental entity that the premises are not in compliance with
+10 applicable health or safety regulations, there is a rebuttable presumption that
+11 any termination by the landlord is in retaliation for the tenant having reported
+12 the noncompliance.
+13 * * *
+14 § 4467. TERMINATION OF TENANCY; NOTICE
+15 (a) Termination for nonpayment of rent. The landlord may terminate a
+16 tenancy for nonpayment of rent by providing actual notice to the tenant of the
+17 date on which the tenancy will terminate, which shall be at least 14 10 days
+18 after the date of the actual notice. The rental agreement shall not terminate if
+19 the tenant pays or tenders rent due through the end of the rental period in
+20 which payment is made or tendered, provided a landlord may terminate a
+21 tenancy under subdivision (b)(1) of this section for repeated late payment of
+VT LEG #388404 v.1
+
+AS PASSED BY HOUSE H.772
+2026 Page 8 of 32
+1 rent. Acceptance of partial payment of rent shall not constitute a waiver of the
+2 landlord’s remedies for nonpayment of rent or an accord and satisfaction for
+3 nonpayment of rent.
+4 (b) Termination for breach of rental agreement.
+5 (1)(A) The landlord may terminate a tenancy for:
+6 (i) failure of the tenant to comply with a material term of the rental
+7 agreement or with obligations imposed under this chapter by;
+8 (ii) a tenant’s late payment of rent more than three times in a 12-
+9 month period; or
+10 (iii) a tenant’s refusal to allow a landlord or a landlord’s agent
+11 access to the dwelling unit in accordance with section 4460 of this title.
+12 (B) A landlord shall provide actual notice given to the tenant at least
+13 30 21 days prior to the termination date specified in the notice.
+14 (C) As used in this subsection (b), “late payment of rent” means
+15 payment of rent more than 10 days after rent is due under the rental agreement.
+16 (2) When termination is based on criminal activity, illegal drug activity,
+17 or acts of violence, damage to the dwelling unit or premises, or other activity
+18 any of which threaten threatens the health or safety of other residents, the
+19 landlord or landlord’s agent, or neighbors, the landlord may terminate the
+20 tenancy by providing actual notice to the tenant of the date on which the
+VT LEG #388404 v.1
+
+AS PASSED BY HOUSE H.772
+2026 Page 9 of 32
+1 tenancy will terminate, which shall be at least 14 five days from the date of the
+2 actual notice.
+3 (3) The actual notice required under this subsection (b) shall be
+4 accompanied by an affidavit setting forth particular facts and the basis thereof
+5 in support of the termination with sufficient details to inform the tenant of the
+6 reasoning behind the termination.
+7 (4) A landlord shall not terminate a rental agreement under this
+8 subsection based on a person seeking medical assistance for a drug overdose,
+9 being the subject of a good faith request for medical assistance, or being at the
+10 scene of a drug overdose or within close proximity of the scene of a drug
+11 overdose as provided in 18 V.S.A. § 4254 and evidence obtained from the
+12 good faith request for medical assistance for a drug overdose shall not be used
+13 in an ejectment action brought under 12 V.S.A. chapter 169.
+14 (5)(A) A landlord shall not terminate a rental agreement of a tenant
+15 under this subsection (b) because the tenant is the victim of an incident or
+16 pattern of domestic abuse, sexual assault, or stalking.
+17 (B) The landlord shall allow a tenant who is the victim of domestic
+18 abuse, sexual assault, or stalking committed by another tenant or lawful
+19 occupant to bifurcate the rental agreement as authorized in section 4472a of
+20 this title.
+VT LEG #388404 v.1
+
+AS PASSED BY HOUSE H.772
+2026 Page 10 of 32
+1 (C) The landlord may terminate the rental agreement under
+2 subdivision (2) of this subsection (b) for a tenant who has committed an act of
+3 domestic abuse, sexual assault, or stalking against another tenant if the act
+4 poses an actual and imminent threat to the remaining tenants, other residents,
+5 the landlord or landlord’s agent, or neighbors, and there is no other action to be
+6 taken that would reduce or eliminate the threat.
+7 (c) Termination for no cause Termination for tenant or governmental notice
+8 to vacate. In the absence of a written rental agreement, the landlord may
+9 terminate a tenancy for no cause as follows:
+10 (1) If rent is payable on a monthly basis, by providing actual notice to
+11 the tenant of the date on which the tenancy will terminate, which shall be:
+12 (A) for tenants who have resided continuously in the same premises
+13 for two years or less, at least 60 days after the date of the actual notice;
+14 (B) for tenants who have resided continuously in the same premises
+15 for more than two years, at least 90 days after the date of the actual notice
+16 When termination is based on an intent to vacate provided by actual notice
+17 from a tenant, a landlord may terminate a rental agreement on the date
+18 provided in the actual notice.
+19 (2) If rent is payable on a weekly basis, by providing actual notice to the
+20 tenant of the date on which the tenancy will terminate, which shall be at least
+21 21 days after the date of the actual notice When termination is based on
+VT LEG #388404 v.1
+
+AS PASSED BY HOUSE H.772
+2026 Page 11 of 32
+1 compliance with an order issued by a governmental agency or court order that
+2 necessitates vacating the premises, a landlord may terminate a rental agreement
+3 on the date provided in the order.
+4 (d) Termination of rental agreement when property is sold or repurposed.
+5 In the absence of a written rental agreement a A landlord who has contracted to
+6 sell the building may terminate a tenancy by providing actual notice to the
+7 tenant of the date on which the tenancy will terminate, which shall be at least
+8 30 90 days after the date of the actual notice or, in the event of a written rental
+9 agreement, at least 90 days before the expiration of the stated term of the rental
+10 agreement, when:
+11 (1) the landlord has contracted to sell the building;
+12 (2) necessary for the landlord or a member of the landlord’s immediate
+13 family to occupy the premises for a minimum of 12 continuous months as a
+14 primary residence;
+15 (3) permanently withdrawing the dwelling unit from the rental market;
+16 or
+17 (4) demolishing the dwelling unit or premises or the rental unit requires
+18 renovations that exceed 50 percent of the rental unit’s value to become or
+19 remain habitable, provided that the tenant shall have the right of first refusal to
+20 reoccupy the unit at market rate following renovations.
+VT LEG #388404 v.1
+
+AS PASSED BY HOUSE H.772
+2026 Page 12 of 32
+1 (e) Termination for no cause under terms of written at the expiration of a
+2 rental agreement.
+3 (1) If there is a written rental agreement, the notice to terminate for no
+4 cause shall be at least 30 90 days before the end or expiration of the stated term
+5 of the rental agreement if the tenancy has continued for two years or less. The
+6 notice to terminate for no cause shall be at least 60 days before the end or
+7 expiration of the term of the rental agreement if the tenancy has continued for
+8 more than two years.
+9 (2) In the absence of a written rental agreement, the notice to terminate
+10 shall be at least 90 days after the date of actual notice.
+11 (3) If there is a written week-to-week rental agreement, the notice to
+12 terminate for no cause shall be at least seven 10 days; however, a notice to
+13 terminate for nonpayment of rent shall be as provided in subsection (a) of this
+14 section.
+15 (f) Termination date notice. In all cases, the termination date shall be
+16 specifically stated in the notice as well as the reason for the termination.
+17 (g) Conversion to condominium. If the building is being converted to
+18 condominiums, notice shall be given in accordance with 27 V.S.A. chapter 15,
+19 subchapter 2.
+20 (h) Termination of shared occupancy. A rental arrangement whereby a
+21 person rents to another individual one or more rooms in his or her the person’s
+VT LEG #388404 v.1
+
+AS PASSED BY HOUSE H.772
+2026 Page 13 of 32
+1 personal residence that includes the shared use of any of the common living
+2 spaces, such as the living room, kitchen, or bathroom, may be terminated by
+3 either party by providing actual notice to the other of the date the rental
+4 agreement shall terminate, which shall be at least 15 days after the date of
+5 actual notice if the rent is payable monthly and at least seven days after the
+6 date of actual notice if the rent is payable weekly.
+7 (i) Multiple notices. All actual notices that are in compliance with this
+8 section shall not invalidate any other actual notice and shall be a valid basis for
+9 commencing and maintaining an action for possession pursuant to this chapter,
+10 10 V.S.A. chapter 153, 11 V.S.A. chapter 14, or 12 V.S.A. chapter 169,
+11 notwithstanding that the notices may be based on different or unrelated
+12 grounds, dates of termination, or that the notices are sent at different times
+13 prior to or during an ejectment action. A landlord may maintain an ejectment
+14 action and rely on as many grounds for ejectment as are allowed by law at any
+15 time during the eviction process.
+16 (j) Payment after termination; effect.
+17 (1) A landlord’s acceptance of full or partial rent payment by or on
+18 behalf of a tenant after the termination of the tenancy for reasons other than
+19 nonpayment of rent or at any time during the ejectment action shall not result
+20 in the dismissal of an ejectment action or constitute a waiver of the landlord’s
+21 remedies to proceed with an eviction action based on any of the following:
+VT LEG #388404 v.1
+
+AS PASSED BY HOUSE H.772
+2026 Page 14 of 32
+1 (A) the tenant’s breach of the terms of a rental agreement pursuant to
+2 subsection (b) of this section;
+3 (B) the tenant’s breach of the tenant’s obligations pursuant to
+4 subsections 4456(a), (b), and (c) of this title; or
+5 (C) for no cause pursuant to subsections (c), (d), (e), and (h) of this
+6 section.
+7 (2) This subsection shall apply to 10 V.S.A. chapter 153, 11 V.S.A.
+8 chapter 14, and 12 V.S.A. chapter 169.
+9 (k) Commencement of ejectment action. A notice to terminate a tenancy
+10 shall be insufficient to support a judgment of eviction unless the proceeding is
+11 commenced not later than 60 days from after the termination date set forth in
+12 the notice.
+13 (l) Affirmative defense to ejectment action.
+14 (1) For any ejectment action based on a failure to pay rent pursuant to
+15 subsection (a) of this section, it shall be an affirmative defense of the tenant,
+16 and judgment shall be issued for the defendant, if there exists a serious health
+17 and safety code violation issued to the landlord under 20 V.S.A. § 2677 and the
+18 landlord has made no reasonable attempt to correct the violation as of the date
+19 of the termination, which shall include:
+VT LEG #388404 v.1
+
+AS PASSED BY HOUSE H.772
+2026 Page 15 of 32
+1 (A) any condition that jeopardizes the security of the unit;
+2 (B) major plumbing leaks, flooding, or waterlogged ceiling or
+3 flooring in imminent danger of falling in;
+4 (C) gas or fuel oil leaks;
+5 (D) electrical conditions that could result in shock or fire;
+6 (E) absence of a working heating system when outside temperature is
+7 below 60 degrees Fahrenheit;
+8 (F) utilities not in service, including no running hot water;
+9 (G) conditions that present the immediate possibility of serious
+10 injury;
+11 (H) obstacles that prevent the safe entrance into or exit from the
+12 dwelling unit;
+13 (I) absence of a functional toilet within the dwelling unit; or
+14 (J) inoperable smoke or carbon monoxide detectors.
+15 (2) Tenant remedies under this subsection shall not defeat an ejectment
+16 action if the serious health and safety code violation was caused by the
+17 negligent or deliberate act or omission of the tenant or a person on the
+18 premises with the tenant’s consent.
+19 (3) This subsection shall apply to 10 V.S.A. chapter 153, 11 V.S.A.
+20 chapter 14, and 12 V.S.A. chapter 169.
+VT LEG #388404 v.1
+
+AS PASSED BY HOUSE H.772
+2026 Page 16 of 32
+1 § 4468. TERMINATION OF TENANCY; ACTION FOR POSSESSION
+2 If the tenant remains in possession after termination of the rental agreement
+3 without the express consent of the landlord, the landlord may bring an action
+4 for possession, damages, and costs:
+5 (1) for a termination provided under subsections 4467(a) and (b) of this
+6 title, under 12 V.S.A. chapter 169, subchapter 4; and
+7 (2) for all other terminations provided in section 4467 of this title, under
+8 12 V.S.A. chapter 169, subchapter 3.
+9 * * *
+10 Sec. 1a. 9 V.S.A. § 4472a is added to read:
+11 § 4472a. RIGHT TO BIFURCATION OF A RENTAL AGREEMENT
+12 (a)(1) Notwithstanding a contrary provision of a rental agreement or of
+13 subchapter 2 of this chapter, a landlord shall authorize a protected tenant to
+14 bifurcate a rental agreement in order to eject, remove, or terminate a rental
+15 agreement to any individual who is a tenant or lawful occupant of the dwelling
+16 unit that engages in abuse, sexual assault, or stalking, against the protected
+17 tenant without ejecting, removing, or terminating the rental agreement with the
+18 protected tenant.
+19 (2) In bifurcating a rental agreement under this section, the landlord may
+20 terminate the rental agreement of the abuser in accordance with subdivision
+21 4467(b)(2) of this chapter.
+VT LEG #388404 v.1
+
+AS PASSED BY HOUSE H.772
+2026 Page 17 of 32
+1 (b)(1) In the event the bifurcation and removal of an individual under
+2 subsection (a) of this section results in the protected tenant being unable to
+3 cover the rent of the dwelling unit, the landlord shall provide the protected
+4 tenant with a reasonable opportunity to locate additional tenants or to
+5 otherwise find new housing.
+6 (2) A reasonable opportunity under this section shall be not less than 90
+7 days.
+8 * * * Ejectment * * *
+9 Sec. 2. 12 V.S.A. § 663 is added to read:
+10 § 663. ALTERNATE SERVICE OF PROCESS; EJECTMENT
+11 When a motion for alternative service of process is filed pursuant to Rule
+12 4(d)(1) of the Vermont Rules of Civil Procedure in an action under 10 V.S.A.
+13 chapter 153, 11 V.S.A. chapter 14, or chapter 169 of this title, the court shall
+14 rule on the motion promptly.
+15 Sec. 3. 12 V.S.A. chapter 169 is amended to read:
+16 CHAPTER 169. EJECTMENT
+17 * * *
+18 Subchapter 3. Superior Court Ejectment
+19 * * *
+20 § 4853a. PAYMENT OF RENT INTO COURT; EXPEDITED HEARING
+21 [Subsection (a) as amended by 2007, Act No. 125 (Adj. Sess.), § 1.]
+VT LEG #388404 v.1
+
+AS PASSED BY HOUSE H.772
+2026 Page 18 of 32
+1 (a) In any action against a tenant for possession, the landlord may file a
+2 motion for an order that the tenant pay rent into court. The motion may be
+3 filed and served with the complaint or at any time after the complaint has been
+4 filed. The motion shall be accompanied by affidavit setting forth particular
+5 facts in support of the motion.
+6 [Subsection (a) as amended by 2007, Act No. 176 (Adj. Sess.), § 51.]
+7 (a) In any action against a tenant for possession brought in accordance with
+8 this chapter, 9 V.S.A. chapter 137, 10 V.S.A. chapter 153, or 11 V.S.A. chapter
+9 14, the landlord may file a motion for an order that the tenant pay rent into
+10 court. The motion may be filed and served with the complaint or at any time
+11 after the complaint has been filed. The motion shall be accompanied by
+12 affidavit setting forth particular facts in support of the motion.
+13 * * *
+14 (d) If the court finds the tenant is obligated to pay rent and has failed to do
+15 so, the court shall order full or partial payment into court of rent as it accrues
+16 while the proceeding is pending and rent accrued from the date of filing with
+17 the court the complaint for ejectment or the date the summons and complaint
+18 for ejectment were served on the tenant pursuant to Rule 3 of the Vermont
+19 Rules of Civil Procedure, whichever occurs first.
+20 * * *
+VT LEG #388404 v.1
+
+AS PASSED BY HOUSE H.772
+2026 Page 19 of 32
+1 (g) The tenant may at any time by motion apply to the court to reduce the
+2 amount ordered to be paid into court under this section. The motion for
+3 reduction shall be accompanied by affidavit setting forth particular facts in its
+4 support.
+5 * * *
+6 (i) Notwithstanding subsection (d) of this section, the parties may come to
+7 an agreement and at any time by motion apply to the court to reduce the
+8 amount ordered to be paid into court under this section.
+9 * * *
+10 § 4854a. PROPERTY OF TENANT REMAINING ON PREMISES AFTER
+11 EVICTION
+12 (a) A landlord may dispose of any personal property remaining in a
+13 dwelling unit or leased premises without notice or liability to the tenant or
+14 owner of the personal property:
+15 (1) 15 days after a writ of possession is served pursuant to this chapter
+16 or immediately upon the landlord being legally restored to possession of the
+17 dwelling unit or leased premises pursuant to this chapter, whichever is later; or
+18 (2) in the case of an eviction brought pursuant to 10 V.S.A. chapter 153,
+19 40 days after a writ of possession issued for failure to pay rent into court
+20 pursuant to subsection 4853a(h) of this title is served or upon the landlord
+21 being legally restored to possession of the leased premises by a writ of
+VT LEG #388404 v.1
+
+AS PASSED BY HOUSE H.772
+2026 Page 20 of 32
+1 possession issued for failure to pay rent into court pursuant to subsection
+2 4853a(h) of this title, whichever is later.
+3 (b) Notwithstanding subsection (a) of this section, if the court stays the
+4 execution of a writ of possession issued pursuant to this chapter, then a
+5 landlord may dispose of any personal property remaining in a dwelling unit or
+6 leased premises without notice or liability to the tenant or owner of the
+7 personal property one day immediately after the landlord is legally restored to
+8 possession of the dwelling unit or leased premises.
+9 * * *
+10 Subchapter 4. Superior Court Ejectment for Nonpayment or Breach
+11 § 4861. ISSUANCE OF PROCESS BY SUPERIOR JUDGE FOR
+12 NONPAYMENT OR BREACH
+13 When the lessee of lands or tenements, either by parole or written lease, or a
+14 person holding under the lease, holds possession of the demised premises
+15 without right, after the termination of the lease under 9 V.S.A. § 4467(a) or (b),
+16 the person entitled to the possession of the premises may have from the
+17 presiding judge of the Superior Court a writ to restore the person to the
+18 possession thereof.
+19 § 4862. MODE AND SERVICE OF PROCESS; TRIAL BY JURY
+20 (a) The process may issue as a summons, requiring the defendant to appear
+21 and answer to the complaint of the plaintiff, which shall state that the
+VT LEG #388404 v.1
+
+AS PASSED BY HOUSE H.772
+2026 Page 21 of 32
+1 defendant is in the possession of the lands or tenements in question, with a
+2 description thereof, that the tenant holds unlawfully and against the right of the
+3 plaintiff. A copy of the rental agreement, if any, and any notice to terminate
+4 the defendant’s tenancy, including the affidavit required by 9 V.S.A.
+5 § 4467(b)(2)(B), shall be attached to the complaint. If the complaint is based
+6 on a termination under 9 V.S.A. § 4467(a), the complaint shall include a copy
+7 of the rent ledger, if available.
+8 (b) Either party shall have the right to a trial by jury.
+9 § 4863. ANSWER; HEARING
+10 (a) An answer to a complaint filed under this subchapter shall be
+11 accompanied by an affidavit setting forth particular facts in opposition to the
+12 complaint.
+13 (b)(1) Upon receipt of an answer to a complaint based on a termination
+14 under 9 V.S.A. § 4467(a) or (b), the court shall set a final hearing date not later
+15 than 90 days after the filing of the complaint absent good cause.
+16 (2) The timeline in this subsection shall not apply when the plaintiff is in
+17 possession of the lands or tenements in question or has received from the court
+18 a writ of possession for the lands or tenements.
+19 § 4864. DEFAULT
+20 If the defendant fails to file an answer in the time provided pursuant to Rule
+21 12 of the Vermont Rules of Civil Procedure, the plaintiff may file a motion for
+VT LEG #388404 v.1
+
+AS PASSED BY HOUSE H.772
+2026 Page 22 of 32
+1 a default judgment in accordance with Rule 55 of the Vermont Rules of Civil
+2 Procedure. The court shall rule on the motion promptly.
+3 § 4865. THREATENING BEHAVIOR; EXPEDITED HEARING
+4 (a)(1) In an action for ejectment based on a termination under 9 V.S.A.
+5 § 4467(b)(2), the plaintiff may file a motion for a judgment that the plaintiff is
+6 entitled to immediate possession of the premises on the grounds that the
+7 defendant’s continued occupation of the lands or tenements is threatening the
+8 health or safety of other residents, the landlord or the landlord’s agent, or
+9 neighbors.
+10 (2) The motion may be filed and served with the complaint or at any
+11 time after the complaint has been filed. The motion shall be accompanied by
+12 an affidavit setting forth particular facts in support of the motion and a copy of
+13 the lease agreement.
+14 (b) A hearing on the motion shall be held promptly any time after 10 days’
+15 notice to the parties but not later than 21 days after the motion is filed absent
+16 good cause.
+17 (c) At any time before the hearing, the defendant may oppose the motion
+18 pursuant to Rule 7(b)(6) of the Vermont Rules of Civil Procedure by filing an
+19 affidavit, a signed written statement, or a memorandum in opposition to the
+20 motion. The affidavit, signed written statement, or memorandum shall set
+VT LEG #388404 v.1
+
+AS PASSED BY HOUSE H.772
+2026 Page 23 of 32
+1 forth particular facts to show that a genuine dispute of fact exists in relation to
+2 the motion.
+3 (d)(1) If the defendant fails to appear for the hearing, or to file an affidavit,
+4 signed written statement, or memorandum in opposition to the plaintiff’s
+5 motion, or has failed to file an answer in the time provided pursuant to Rule 12
+6 of the Vermont Rules of Civil Procedure, the plaintiff shall be entitled to
+7 judgment by default for immediate possession of the premises.
+8 (2) If the court finds that the defendant’s continued occupation of the
+9 lands or tenements is a threat to the health or safety of other residents, the
+10 landlord or the landlord’s agent, or neighbors, the court shall grant the
+11 plaintiff’s motion and issue judgment in favor of the plaintiff for immediate
+12 possession of the premises.
+13 (e) If the court issues judgment in favor of the plaintiff pursuant to
+14 subsection (d) of this section, the court shall, on the date judgment is entered,
+15 issue a writ of possession directing the sheriff of the county in which the
+16 property or a portion thereof is located to serve the writ upon the defendant
+17 and, not sooner than five days after the writ is served, to put the plaintiff into
+18 possession.
+19 § 4866. COSTS; JUDGMENT FOR PLAINTIFF; POSSESSION
+20 If the court finds the plaintiff is entitled to possession, the plaintiff shall
+21 have a judgment for possession and rents due, if applicable, including damages
+VT LEG #388404 v.1
+
+AS PASSED BY HOUSE H.772
+2026 Page 24 of 32
+1 and costs, and when a written rental agreement so provides, the court may
+2 award reasonable attorney’s fees. A writ of possession shall issue on the date
+3 of judgment and shall direct any sheriff to serve the writ upon the defendant
+4 and, not earlier than 14 days after the writ is served, put the plaintiff in
+5 possession.
+6 § 4867. PROPERTY OF TENANT REMAINING ON PREMISES AFTER
+7 EVICTION
+8 A landlord may dispose of any personal property remaining in a dwelling
+9 unit or leased premises without notice or liability to the tenant or owner of the
+10 personal property upon the landlord being legally restored to possession of the
+11 dwelling unit or leased premises pursuant to this subchapter.
+12 § 4868. TRESPASS ORDERS
+13 After being legally restored to possession of the dwelling unit or leased
+14 premises pursuant to this chapter, the plaintiff may issue the defendant an order
+15 against trespass for the entire premises subject to the ejectment action in
+16 accordance with 13 V.S.A. § 3705.
+17 * * * Trespass * * *
+18 Sec. 4. PURPOSE
+19 The purpose of Sec. 5 of this act is to overrule the Vermont Supreme
+20 Court’s decision in State v. Dixon, 169 Vt. 15 (1999), and allow the landlord
+21 of a dwelling unit to obtain a no trespass order prohibiting the tenant’s invitees
+VT LEG #388404 v.1
+
+AS PASSED BY HOUSE H.772
+2026 Page 25 of 32
+1 or licensees from entering the dwelling unit’s common areas if the invitee or
+2 licensee subject to the order has violated the terms of the lease agreement.
+3 Sec. 5. 13 V.S.A. § 3705 is amended to read:
+4 § 3705. UNLAWFUL TRESPASS
+5 (a)(1) A person shall be imprisoned for not more than three months or fined
+6 not more than $500.00, or both, if, without legal authority or the consent of the
+7 person in lawful possession, the person enters or remains on any land or in any
+8 place as to which notice against trespass is given by:
+9 * * *
+10 (g)(1) Notwithstanding subsection (a) of this section or any provision of
+11 law to the contrary, a landlord of a dwelling unit may cause to be served an
+12 order against trespass that prohibits a tenant’s invitees or licensees from
+13 trespassing in the dwelling unit or any of the dwelling unit’s common areas if:
+14 (A) the tenant responsible for the invitee or licensee consents to the
+15 order;
+16 (B) the invitee or licensee subject to the order has violated the terms
+17 of the dwelling unit’s lease agreement; or
+18 (C) the invitee or licensee has violated a State or federal law while on
+19 the premises of the dwelling unit.
+VT LEG #388404 v.1
+
+AS PASSED BY HOUSE H.772
+2026 Page 26 of 32
+1 (2) As used in this subsection:
+2 (A) “Dwelling unit” means a building or the part of a building that is
+3 used as a home, residence, or sleeping place by one or more persons who
+4 maintain a household.
+5 (B) “Tenant” means a person entitled under a rental agreement to
+6 occupy a residential dwelling unit to the exclusion of others.
+7 Sec. 6. [Deleted.]
+8 * * * Positive Rental Payment Pilot Program * * *
+9 Sec. 7. POSITIVE RENTAL PAYMENT CREDIT REPORTING PILOT
+10 (a) Definitions. As used in this section:
+11 (1) “Contractor” means the third-party vendor that the State Treasurer’s
+12 Office contracts with to administer the pilot program described in this section.
+13 (2) “Dwelling unit” has the same meaning as in 9 V.S.A. § 4451(3).
+14 (3) “Participant property owner” means a landlord that has agreed in
+15 writing to participate in the pilot program and has satisfied the requirements
+16 described in subsection (c) of this section.
+17 (4) “Participant tenant” means a tenant who has elected to participate in
+18 the pilot program and whose landlord is a participant property owner.
+19 (5) “Rental payment information” means information concerning a
+20 participant tenant’s timely payment of rent. “Rent payment information” does
+VT LEG #388404 v.1
+
+AS PASSED BY HOUSE H.772
+2026 Page 27 of 32
+1 not include information concerning a participant tenant’s payment or
+2 nonpayment of fees.
+3 (b) Pilot program creation.
+4 (1) The State Treasurer shall create and implement a two-year positive
+5 rental payment credit reporting pilot program to facilitate the reporting of rent
+6 payment information from participant tenants to consumer reporting agencies.
+7 (2) On or before May 1, 2027, the State Treasurer shall contract with a
+8 third party to administer a positive rental payment credit reporting pilot
+9 program and facilitate the transmission of rent reporting information from a
+10 participant property owner to a consumer reporting agency. The third-party
+11 administrator shall be required to:
+12 (A) enter into an agreement with one or more participant property
+13 owners in the State in accordance with the requirements of this section for
+14 participation in the pilot program;
+15 (B) ensure that information to a credit reporting agency includes only
+16 rent payment information after the date on which the participant tenant elected
+17 to participate in the pilot program;
+18 (C) develop and implement a process for removal of participant
+19 tenants for failure to comply with program requirements, including failure to
+20 make timely rental payments;
+VT LEG #388404 v.1
+
+AS PASSED BY HOUSE H.772
+2026 Page 28 of 32
+1 (D) establish a standard form for a participant tenant to use to elect to
+2 participate or cease participation in the pilot program, which shall include a
+3 statement that the tenant’s participation is voluntary and that a participant may
+4 cease participating in the pilot program at any time and for any reason by
+5 providing notice to the participant’s landlord and that the tenant may be
+6 removed from the program for failure to comply with program requirements,
+7 including failure to make timely rental payments; and
+8 (E) offer an optional financial education course for participant
+9 tenants.
+10 (c) Pilot program agreements. A participant property owner shall agree in
+11 writing:
+12 (1) to participate in the pilot program for the duration of the pilot
+13 program;
+14 (2) not to charge a participant tenant for participation in the pilot
+15 program;
+16 (3) to comply with the requirements of the pilot program;
+17 (4) to provide information as required by the State Treasurer concerning
+18 the implementation of the pilot program; and
+19 (5) to assist in the recruitment of tenants to participate in the pilot
+20 program.
+VT LEG #388404 v.1
+
+AS PASSED BY HOUSE H.772
+2026 Page 29 of 32
+1 (d) Pilot program participants. On or before June 1, 2027, the contractor
+2 shall, in coordination with the State Treasurer, recruit not more than 10
+3 participant property owners and, to the extent practicable, not fewer than 100
+4 participant tenants to participate in the pilot program. The contractor shall
+5 seek to select participant tenants from populations that are underserved and
+6 underrepresented in home ownership. The contractor shall also seek to recruit
+7 participant landlords who offer:
+8 (1) a variety of types of dwelling units for rent, including dwelling units
+9 of various sizes;
+10 (2) dwelling units for rent that are located in geographically diverse
+11 areas of the State; and
+12 (3) at least five dwelling units for rent.
+13 (e) Termination. The State Treasurer may terminate the pilot program at
+14 any time in the Treasurer’s sole discretion or terminate participation of a
+15 participant property owner for failure to comply with the requirements of the
+16 pilot program.
+17 (f) Reports.
+18 (1) On or before November 1, 2028, the State Treasurer shall submit an
+19 interim report to the House Committee on General and Housing and the Senate
+20 Committee on Economic Development, Housing and General Affairs regarding
+21 the findings of the pilot program. The report shall include:
+VT LEG #388404 v.1
+
+AS PASSED BY HOUSE H.772
+2026 Page 30 of 32
+1 (A) the number of participant tenants, including information
+2 regarding the demographic makeup of participant tenants, such as race,
+3 ethnicity, gender, income, and age, as voluntarily provided by the participant;
+4 (B) the number of participant tenants who ceased participating in the
+5 pilot program voluntarily;
+6 (C) the number of participant tenants who were removed from the
+7 pilot program and the reasons why;
+8 (D) a breakdown of costs of administering the pilot program,
+9 including the monthly costs associated with rent reporting;
+10 (E) a description of challenges faced by the participant property
+11 owners and participant tenants during the pilot program;
+12 (F) an analysis of the outcomes of rent reporting on participant
+13 tenants’ credit scores; and
+14 (G) recommendations for legislative action, including proposed
+15 statutory language and an appropriation for associated costs.
+16 (2) On or before November 1, 2029, the State Treasurer shall submit a
+17 final report to the House Committee on General and Housing and the Senate
+18 Committee on Economic Development, Housing and General Affairs regarding
+19 the findings of the pilot program. The report shall include an update to the
+20 information required in the interim report.
+VT LEG #388404 v.1
+
+AS PASSED BY HOUSE H.772
+2026 Page 31 of 32
+1 (g) Appropriation contingency. The duty to implement this section is
+2 contingent upon an appropriation of funds in fiscal year 2027 from the General
+3 Fund for the specific purposes described in this section.
+4 * * * Residential Security Deposit Transition Period * * *
+5 Sec. 8. SECURITY DEPOSIT; TRANSITION PERIOD
+6 Notwithstanding 9 V.S.A. § 4461(a), a landlord may retain a security
+7 deposit that exceeds an amount equal to two months’ rent, provided that the
+8 residential rental agreement was in effect prior to July 1, 2026.
+9 * * * Technical Training * * *
+10 Sec. 9. LANDLORD AND TENANT EDUCATION AND TECHNICAL
+11 ASSISTANCE PROGRAM
+12 (a) The Champlain Valley Office of Economic Opportunity (CVOEO) shall
+13 provide education and technical assistance to Vermont landlords and tenants
+14 regarding their rights, obligations, and remedies for statutory violations under
+15 Vermont rental statutes.
+16 (b)(1) Training for tenants shall include training under the Preferred Renter
+17 Certification Program or its future equivalent.
+18 (2) For landlords, CVOEO shall develop a curriculum to address any
+19 resource and information gaps to increase positive interactions with tenants
+20 and improve renter household stability.
+VT LEG #388404 v.1
+
+AS PASSED BY HOUSE H.772
+2026 Page 32 of 32
+1 (c) Assistance under this program shall include in-person, virtual, and on-
+2 demand options.
+3 (d) The duty to implement this section is contingent upon an appropriation
+4 of funds in fiscal year 2027 from the General Fund for the specific purposes
+5 described in this section.
+6 Sec. 10. [Deleted.]
+7 * * * Effective Date * * *
+8 Sec. 11. EFFECTIVE DATE
+9 This act shall take effect on July 1, 2026.
+VT LEG #388404 v.1

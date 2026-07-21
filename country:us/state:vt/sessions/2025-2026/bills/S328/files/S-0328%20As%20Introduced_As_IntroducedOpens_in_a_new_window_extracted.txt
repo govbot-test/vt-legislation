@@ -1,0 +1,609 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED S.328
+2026 Page 1 of 25
+1 S.328
+2 Introduced by Committee on Economic Development, Housing and General
+3 Affairs
+4 Date:
+5 Subject: Housing; municipal and county government; municipal planning;
+6 taxation and finance; tax credits; Vermont Housing Finance Agency;
+7 common interest communities; conservation and development; mobile
+8 home parks; Vermont Economic Development Authority; land use;
+9 municipal zoning
+10 Statement of purpose of bill as introduced: This bill proposes to make multiple
+11 changes related to housing. The bill proposes to require municipal
+12 development plans to include information and analysis on housing targets,
+13 extend the Down Payment Assistance Program tax credits, cap the allowable
+14 rate of increase for mobile home lot rent increases, authorize the Vermont
+15 Economic Development Authority to finance certain housing projects, and
+16 create the Service-Supported Housing Advisory Council. The bill proposes to
+17 restrict common interest communities from prohibiting a unit owner from
+18 leasing a unit, utilizing a unit as a family child care home, and installing
+19 electrical vehicle supply equipment. The bill proposes to make changes related
+20 to municipal zoning requirements related to duplexes, multiunit dwellings, and
+VT LEG #386841 v.2
+
+BILL AS INTRODUCED S.328
+2026 Page 2 of 25
+1 areas served by municipal sewer and water infrastructure. The bill proposes to
+2 provide a density bonus for housing constructed with union labor.
+3 An act relating to housing and common interest communities
+4 It is hereby enacted by the General Assembly of the State of Vermont:
+5 * * * Housing Targets * * *
+6 Sec. 1. 24 V.S.A. § 4388 is added to read:
+7 § 4388. PLANNING FOR HOUSING TARGETS
+8 A municipal plan shall include an analysis of regulatory and physical
+9 constraints preventing the municipality from developing sufficient housing to
+10 meet the regional housing targets developed pursuant to subdivision
+11 4348a(a)(9) of this title as follows:
+12 (1) The municipality shall identify and analyze existing and projected
+13 housing needs for the projected population of the jurisdiction and provide
+14 regulations that allow for the rehabilitation, improvement, or development of
+15 the number of housing units needed, as identified in the land use plan and
+16 future land use map, including:
+17 (A) a quantification of the jurisdiction’s existing and projected
+18 needed housing types, including location, age, condition, and occupancy
+19 required to accommodate existing and estimated population projections;
+VT LEG #386841 v.2
+
+BILL AS INTRODUCED S.328
+2026 Page 3 of 25
+1 (B) an inventory of sites, including zoned, unzoned, vacant,
+2 underutilized, and potential redevelopment sites, available to meet the
+3 jurisdiction’s needed housing types;
+4 (C) an analysis of any constraints to housing development, such as
+5 zoning, development standards, and infrastructure needs and capacity, and the
+6 identification of market-based incentives that may affect or encourage the
+7 development of needed housing types; and
+8 (D) a detailed description of what actions the jurisdiction may take to
+9 accommodate the projected needed housing types identified in subdivision (A)
+10 of this subdivision (1), including:
+11 (i) updates to specific zoning or municipal bylaw provisions or
+12 maps; and
+13 (ii) updates to specific infrastructure, including municipal water
+14 and sewer capacity.
+15 (2) The housing section of the land use plan and future land use map
+16 may incorporate by reference any information or policies identified in other
+17 housing needs assessments adopted by the governing body.
+18 (3) If, after performing the analysis required in subdivision (1) of this
+19 section, the legislative body of the municipality determines that the total
+20 needed housing types may not be met due to lack of resources, development
+21 sites, infrastructure capacity, or other documented constraints, the legislative
+VT LEG #386841 v.2
+
+BILL AS INTRODUCED S.328
+2026 Page 4 of 25
+1 body shall establish the minimum number of housing units that may be
+2 rehabilitated, improved, or developed within the jurisdiction over the 20-year
+3 planning period and the actions the legislative body may take to remove
+4 constraints to the development of those units over that period.
+5 (4) Progress toward the construction of the housing units identified as
+6 needed to meet projected housing needs during the 20-year planning period of
+7 the land use plan must be documented at each municipal plan adoption,
+8 renewal, or readoption pursuant to section 4385 or 4387 of this title.
+9 (5) The amount of detail provided in the analysis beyond the minimum
+10 criteria established in this section is at the discretion of the legislative body.
+11 * * * Tax Credits * * *
+12 Sec. 2. 32 V.S.A. § 5930u is amended to read:
+13 § 5930u. TAX CREDIT FOR AFFORDABLE HOUSING
+14 * * *
+15 (b) Eligible tax credit allocations.
+16 * * *
+17 (3)(A) The Vermont Housing Finance Agency shall have the authority
+18 to allocate affordable housing tax credits to finance down payment assistance
+19 loans that meet the following requirements:
+20 (i) the loan is made in connection with a mortgage through an
+21 Agency program;
+VT LEG #386841 v.2
+
+BILL AS INTRODUCED S.328
+2026 Page 5 of 25
+1 (ii) the borrower is a first-time home buyer of an owner-occupied
+2 primary residence; and
+3 (iii) the borrower uses the loan for the borrower’s down payment
+4 or closing costs, or both.
+5 (B) The Agency shall require the borrower to repay the loan upon the
+6 transfer or refinance of the residence.
+7 (C) The Agency shall use the proceeds of loans made under the
+8 Program for future down payment assistance.
+9 (D) The Agency may reserve funding and adopt guidelines to provide
+10 grants to first-time homebuyers who are also first-generation homebuyers.
+11 * * *
+12 (h) Credit allocation; Down Payment Assistance Program.
+13 (1) In fiscal year 2016 through fiscal year 2019, the allocating agency
+14 may award up to $125,000.00 in total first-year credit allocations for loans
+15 through the Down Payment Assistance Program created in subdivision (b)(2)
+16 of this section.
+17 (2) In fiscal year 2020 through fiscal year 2026 2031, the allocating
+18 agency may award up to $250,000.00 in total first-year credit allocations for
+19 loans through the Down Payment Assistance Program created in subdivision
+20 (b)(3) of this section.
+VT LEG #386841 v.2
+
+BILL AS INTRODUCED S.328
+2026 Page 6 of 25
+1 * * * Off-Site Construction Accelerator Pilot * * *
+2 Sec. 3. OFF-SITE CONSTRUCTION ACCELERATOR PILOT
+3 (a) The Agency of Commerce and Community Development in
+4 collaboration with the Department of Buildings and General Services shall
+5 develop a pilot demonstration project and study that explores the possibilities
+6 of reducing housing development costs through modular construction.
+7 (b) The pilot will consider the following elements:
+8 (1) bulk purchasing for a single development or aggregation of multiple
+9 developments;
+10 (2) streamlining regulatory processes by creating preapproved modular
+11 designs;
+12 (3) creating a loan loss reserve for construction loans;
+13 (4) off-site construction, including panelized or volumetric modular
+14 construction;
+15 (5) establishing a statewide procurement consortium for bulk orders of
+16 modular units and materials;
+17 (6) aligning State and local permitting; and
+18 (7) the creation and adoption of off-site building codes.
+19 (c) As part of the pilot, the Agency shall work with the Office of the State
+20 Treasurer to identify the feasibility of the State providing a guarantee or other
+21 device to facilitate bulk purchasing of the off-site construction of homes.
+VT LEG #386841 v.2
+
+BILL AS INTRODUCED S.328
+2026 Page 7 of 25
+1 (d) The pilot shall occur in a municipality willing to participate in
+2 regulatory reforms necessary to implement the process and accept the
+3 constructed homes.
+4 (e) A municipal planning grant shall be made available to the participating
+5 municipality to assist in enacting the necessary regulatory reforms.
+6 (f) On or before November 15, 2028, the Agency shall submit a written
+7 report to the House Committee on General and Housing and the Senate
+8 Committee on Economic Development, Housing and General Affairs with its
+9 findings and any recommendations for legislative action based on the success
+10 of the pilot. The report shall include information on whether to enact a
+11 statewide building code for off-site construction.
+12 * * * Common Interest Communities * * *
+13 Sec. 4. 27A V.S.A. § 1-204 is amended to read:
+14 § 1-204. PREEXISTING COMMON INTEREST COMMUNITIES
+15 (a)(1) Unless excepted under section 1-203 of this title, the following
+16 sections and subdivisions of this title apply to a common interest community
+17 created in this State before January 1, 1999: sections 1-103, 1-105, 1-106, 1-
+18 107, 2-103, 2-104, and 2-121,; subdivisions 3-102(a)(1) through (6) and (11)
+19 through (16),; and sections 3-111, 3-116, 3-118, 4-109, and 4-117 to the extent
+20 necessary to construe the applicable sections. The sections and subdivisions
+21 described in this subdivision apply only to events and circumstances occurring
+VT LEG #386841 v.2
+
+BILL AS INTRODUCED S.328
+2026 Page 8 of 25
+1 after December 31, 1998, and do not invalidate existing provisions of the
+2 declarations, bylaws, plats, or plans of those common interest communities.
+3 * * *
+4 (3) Unless excepted under section 1-203 of this title, sections 3-125 and
+5 3-126 of this title shall apply to a common interest community created in this
+6 State before January 1, 1999. Sections 3-125 and 3-126 apply only to events
+7 and circumstances occurring after June 30, 2026, and do not invalidate existing
+8 provisions of the declarations, bylaws, plats, or plans of those common interest
+9 communities.
+10 * * *
+11 Sec. 5. 27A V.S.A. § 3-125 is added to read:
+12 § 3-125. PROHIBITED USES DISALLOWED
+13 (a) Leasing units.
+14 (1) Any covenant, restriction, or condition contained in any deed,
+15 contract, security instrument, or other instrument affecting the transfer or sale
+16 of any interest in a common interest community, and any provision of a
+17 governing document associated with a common interest community, such as a
+18 declaration, bylaw, or rule, that either effectively prohibits or unreasonably
+19 restricts a unit owner from leasing the individual unit owner’s unit for
+20 residential purposes or is in conflict with this section is void and
+21 unenforceable.
+VT LEG #386841 v.2
+
+BILL AS INTRODUCED S.328
+2026 Page 9 of 25
+1 (2) Nothing in this subsection shall prevent or prohibit any deed,
+2 contract, security instrument, or other instrument affecting the transfer or sale
+3 of any interest in a common interest community, and any provision of a
+4 governing document associated with a common interest community, such as a
+5 declaration, bylaw, or rule, from preventing the subleasing of a unit or
+6 restricting the leasing of residential units as authorized by subdivision 3-
+7 120(f)(3) of this title.
+8 (3) This subsection shall not be interpreted to authorize transient
+9 occupancy in a hotel, motel, or lodgings that would subject the occupant to a
+10 tax levied under 32 V.S.A. chapter 225.
+11 (4) This subsection shall not be interpreted to authorize a unit owner to
+12 lease a unit as a short-term rental as that term is defined in 18 V.S.A. § 4301.
+13 (5) This subsection shall not apply to common interest communities
+14 reserved exclusively for nonresidential purposes.
+15 (b) Family child care home.
+16 (1) Any covenant, restriction, or condition contained in any deed,
+17 contract, security instrument, or other instrument affecting the transfer or sale
+18 of any interest in a common interest community, and any provision of a
+19 governing document associated with a common interest community, such as a
+20 declaration, bylaw, or rule, that either effectively prohibits or unreasonably
+21 restricts a unit owner from operating a family child care home, as that term is
+VT LEG #386841 v.2
+
+BILL AS INTRODUCED S.328
+2026 Page 10 of 25
+1 defined in 33 V.S.A. § 3511, within the unit owner’s unit is void and
+2 unenforceable.
+3 (2) Notwithstanding subdivision (1) of this subsection, a family child
+4 care home operating within a common interest community shall comply with
+5 applicable federal and State laws relating to the regulation of family child care
+6 homes.
+7 (c) Zoning; land use requirements. Unit owners shall comply with federal,
+8 State, and local laws related to applicable zoning requirements, land use
+9 requirements, and other covenants, conditions, and restrictions.
+10 (d) Leasehold common interest communities. This section shall not apply
+11 to leasehold common interest communities.
+12 Sec. 6. 27A V.S.A. § 3-126 is added to read:
+13 § 3-126. ELECTRIC VEHICLE SUPPLY EQUIPMENT
+14 (a) Definitions. As used in this section:
+15 (1) “Electric vehicle supply equipment (EVSE)” means a device or
+16 system designed and used specifically to transfer electrical energy to a plug-in
+17 electric vehicle.
+18 (2) “EVSE owner” means the unit owner who applies to install an EVSE
+19 and each successive unit owner associated with the initial application to install
+20 the EVSE unless there is a specific change in ownership of the EVSE, in which
+VT LEG #386841 v.2
+
+BILL AS INTRODUCED S.328
+2026 Page 11 of 25
+1 case the EVSE owner shall be the owner specified in a conveying document
+2 memorializing the change in ownership of the EVSE.
+3 (3) “Plug-in electric vehicles” has the same meaning as in 23 V.S.A.
+4 § 4(85).
+5 (4) “Reasonable restrictions” are restrictions that do not significantly
+6 increase the cost of the EVSE or significantly decrease the efficiency or
+7 specified performance of the EVSE.
+8 (b) Protected uses.
+9 (1) Any covenant, restriction, or condition contained in any deed,
+10 contract, security instrument, or other instrument affecting the transfer or sale
+11 of any interest in a common interest community, and any provision of a
+12 governing document associated with a common interest community, such as a
+13 declaration, bylaw, or rule, that either effectively prohibits or unreasonably
+14 restricts the installation or use of an EVSE within a unit owner’s unit or in a
+15 designated parking space, including a deeded parking space, a parking space in
+16 a unit owner’s exclusive use common element, or a parking space that is
+17 specifically designated for use by a particular unit owner, or is in conflict with
+18 this section is void and unenforceable.
+19 (2) This subsection shall not apply to provisions that impose reasonable
+20 restrictions on EVSE. However, it is the policy of the State to promote,
+VT LEG #386841 v.2
+
+BILL AS INTRODUCED S.328
+2026 Page 12 of 25
+1 encourage, and remove obstacles to the use of plug-in electric vehicles,
+2 including access to EVSE at home.
+3 (3) The EVSE and all modifications and improvements to the common
+4 interest community shall comply with federal, State, and local law, and all
+5 applicable zoning requirements; land use requirements; and covenants,
+6 conditions, and restrictions.
+7 (4) If approval is required for the installation or use of EVSE, the
+8 application for approval shall be processed and approved by the association in
+9 the same manner as an application for approval of an architectural modification
+10 to the common interest community and shall not be intentionally avoided or
+11 delayed. The approval or denial of an application shall be in writing. If an
+12 application is not denied in writing within 60 days from the date of receipt of
+13 the application, the application shall be deemed approved, unless that delay is
+14 the result of a reasonable request for additional information.
+15 (5) If the EVSE is to be placed in a common element or a limited
+16 common element, as designated in the common interest community’s
+17 declaration, the following provisions apply:
+18 (A) The unit owner first shall obtain approval from the association to
+19 install the EVSE, and the association shall approve the installation if the unit
+20 owner agrees in writing to do all of the following:
+VT LEG #386841 v.2
+
+BILL AS INTRODUCED S.328
+2026 Page 13 of 25
+1 (i) comply with the association’s architectural standards for the
+2 installation of the EVSE;
+3 (ii) engage a licensed contractor to install the EVSE; and
+4 (iii) pay for both the costs associated with the installation of the
+5 EVSE and the electricity usage associated with the EVSE.
+6 (B) The unit owner and each successive owner of the EVSE shall be
+7 responsible for all of the following:
+8 (i) costs for damage to the EVSE, common element, or limited
+9 common element resulting from the installation, maintenance, repair, removal,
+10 or replacement of the EVSE;
+11 (ii) costs for the maintenance, repair, and replacement of the
+12 EVSE until the EVSE has been removed and for the restoration of the common
+13 element or limited common element after removal;
+14 (iii) cost of electricity associated with the EVSE; and
+15 (iv) disclosing to prospective buyers of the unit the existence of
+16 any EVSE and the related responsibilities of the unit owner under this section.
+17 (6) An association that intentionally violates this subsection shall be
+18 liable to the applicant unit owner or other party for actual damages and shall
+19 pay a civil penalty to the applicant unit owner or other party in an amount not
+20 to exceed $1,000.00.
+VT LEG #386841 v.2
+
+BILL AS INTRODUCED S.328
+2026 Page 14 of 25
+1 (7) In any action by a unit owner requesting to have an EVSE installed
+2 and seeking to enforce compliance with this section, the prevailing plaintiff
+3 shall be awarded reasonable attorney’s fees.
+4 * * * Mobile Home Lot Rent * * *
+5 Sec. 7. 10 V.S.A. § 6252 is amended to read:
+6 § 6252. LOT RENT INCREASE DISPUTE; MEDIATION
+7 (a)(1) If the percentage of a proposed A mobile home park owner shall not
+8 propose a lot rent increase is of more than one percentage point above the U.S.
+9 Consumer Price Index for all Urban Consumers, Housing Component,
+10 published by the U.S. Bureau of Labor Statistics in the periodical “Monthly
+11 Labor Review and Handbook of Labor Statistics” as established annually by
+12 the Department, and if,.
+13 (2) If, within 15 business days after receipt by the Commissioner of the
+14 notice required pursuant to subsection 6251(a) of this title, a majority of the
+15 affected leaseholders files with the Commissioner and the park owner a written
+16 petition that includes the name of the person who will act as the representative
+17 of the leaseholders, and a statement that they dispute the proposed lot rent
+18 increase, the Commissioner shall send a list of qualified professional mediators
+19 compiled by the Department in cooperation with park owners and leaseholders
+20 to the park owner and to the leaseholders’ representative. Within five business
+21 days of after receipt of the list, the park owner and the leaseholders’
+VT LEG #386841 v.2
+
+BILL AS INTRODUCED S.328
+2026 Page 15 of 25
+1 representative shall agree on a mediator from the list provided by the
+2 Commissioner and notify the Commissioner of the name, address, and
+3 telephone number of the mediator selected, accompanied by the mediator’s
+4 agreement to conduct the mediation. If the Commissioner has not been
+5 notified of a mediator as required by this subsection, the Commissioner shall
+6 appoint a mediator from the Department’s list. The mediator may not have any
+7 interest, direct or indirect, in the mobile home park at issue and shall disclose
+8 to the park owner, the leaseholders, and the Commissioner any experience as a
+9 mobile home park owner, resident, or leaseholder, or any other circumstance
+10 that may create a real or perceived conflict of interest. The Department shall
+11 pay the reasonable fees for professional mediation services based on a schedule
+12 established by rule of the Department.
+13 (b) The mediator shall conduct one or more mediation sessions within the
+14 period that ends 10 days prior to the effective date of the proposed lot rent
+15 increase. The mediation shall include the mobile home park owner and the
+16 leaseholders, or their respective representatives, and shall attempt to resolve
+17 the dispute. No Not later than five days before the initial mediation session,
+18 the mobile home park owner shall provide to the mediator and the
+19 leaseholders’ representative all documents and information that the park owner
+20 considers relevant to support the proposed lot rent increase. The mobile home
+21 park owner shall have the burden of providing information to show that the
+VT LEG #386841 v.2
+
+BILL AS INTRODUCED S.328
+2026 Page 16 of 25
+1 proposed lot rent increase is reasonable. The mediator may also request any
+2 additional documents or information for the purposes of the mediation process.
+3 Any resolution of the dispute shall include an agreement regarding the amount
+4 of the lot rent increase and the effective date. If the dispute is resolved, the
+5 mobile home park owner shall not be required to provide any additional notice
+6 in order for the lot rent increase to take effect pursuant to the resolution.
+7 (c) The mediator shall issue to the parties and the Commissioner a report
+8 signed by the mediator and the parties regarding the outcome of the mediation.
+9 The report shall not be admitted into evidence and the mediator shall not be
+10 competent to testify in any subsequent action regarding the proposed lot rent
+11 increase.
+12 * * * Vermont Economic Development Authority * * *
+13 Sec. 8. 10 V.S.A. § 212 is amended to read:
+14 § 212. DEFINITIONS
+15 As used in this chapter:
+16 * * *
+17 (6) “Eligible facility” or “eligible project” means any industrial,
+18 commercial, or agricultural enterprise or endeavor approved by the Authority
+19 used in a trade or business whether or not such business is operated for profit,
+20 including land and rights in land, air, or water; buildings; structures;
+21 machinery; and equipment of such eligible facilities or eligible projects, except
+VT LEG #386841 v.2
+
+BILL AS INTRODUCED S.328
+2026 Page 17 of 25
+1 that an eligible facility or project shall not include the portion of an enterprise
+2 or endeavor relating to the sale of goods at retail where such goods are
+3 manufactured primarily out of State, and except further that an eligible facility
+4 or project shall not include the portion of an enterprise or endeavor relating to
+5 housing unless otherwise authorized in this chapter. Such enterprises or
+6 endeavors may include:
+7 * * *
+8 (U) After consultation with, and with deference to, the Vermont
+9 Housing Finance Agency on applications that are eligible for financing from
+10 both the Authority and the Agency, joint financing with a financing lender
+11 multiunit housing developments of five or more units when requested by a
+12 financing lender.
+13 * * *
+14 * * * Service-Supported Housing * * *
+15 Sec. 9. 3 V.S.A. § 3098 is added to read:
+16 § 3098. SERVICE-SUPPORTED HOUSING ADVISORY COUNCIL
+17 (a) The Service-Supported Housing Advisory Council is created for the
+18 purpose of identifying opportunities for increased alignment between human
+19 services programs and policies serving individuals who receive Medicaid-
+20 funded developmental disability services and housing capital and support
+21 services programs.
+VT LEG #386841 v.2
+
+BILL AS INTRODUCED S.328
+2026 Page 18 of 25
+1 (b) The Advisory Council shall be overseen by the Department of
+2 Disabilities, Aging, and Independent Living and shall be composed of the
+3 following individuals:
+4 (1) one member, appointed by the Vermont Housing and Conservation
+5 Board;
+6 (2) the Secretary of Human Services or designee;
+7 (3) the Commissioner of Disabilities, Aging, and Independent Living or
+8 designee;
+9 (4) the State Treasurer or designee;
+10 (5) the Commissioner of Housing and Community Development or
+11 designee;
+12 (6) two members, appointed by the Developmental Disabilities Housing
+13 Initiative;
+14 (7) the Executive Director of the Vermont Developmental Disabilities
+15 Council or designee;
+16 (8) two members, appointed by Green Mountain Self-Advocates; and
+17 (9) one member, appointed by Vermont Care Partners.
+18 (c)(1) The Advisory Council shall meet at least monthly.
+19 (2) The Commissioner of Disabilities, Aging, and Independent Living
+20 shall convene the first meeting of the Advisory Council, during which the
+21 Advisory Council shall elect a chair from among its members.
+VT LEG #386841 v.2
+
+BILL AS INTRODUCED S.328
+2026 Page 19 of 25
+1 (d) The Advisory Council shall report annually on or before November 15
+2 to the House Committees on General and Housing and on Human Services and
+3 the Senate Committees on Economic Development, Housing and General
+4 Affairs and on Health and Welfare regarding:
+5 (1) administrative and programmatic reforms carried out to better align
+6 support-services and housing development programs and policies, including
+7 examples of projects or progress enabled by those changes;
+8 (2) a housing needs assessment for individuals with developmental
+9 disabilities, including a summary of the number of units and an overview of
+10 the types of housing needed to support this population;
+11 (3) activities undertaken pursuant to this section; and
+12 (4) recommendations for future legislative action, including actionable
+13 recommendations for changes in State laws or policies that are obstacles to the
+14 creation of housing needed by individuals with Medicaid-funded home- and
+15 community-based services.
+16 (e) The Advisory Council shall have the administrative, technical, and legal
+17 assistance of the Department of Disabilities, Aging, and Independent Living.
+18 (f) Members of the Advisory Council who are not otherwise compensated
+19 for their time shall be entitled to per diem compensation as permitted under 32
+20 V.S.A. § 1010 for not more than 12 meetings per year.
+VT LEG #386841 v.2
+
+BILL AS INTRODUCED S.328
+2026 Page 20 of 25
+1 * * * Municipal Zoning * * *
+2 Sec. 10. 24 V.S.A. § 4412 is amended to read:
+3 § 4412. REQUIRED PROVISIONS AND PROHIBITED EFFECTS
+4 Notwithstanding any existing bylaw, the following land development
+5 provisions shall apply in every municipality:
+6 (1) Equal treatment of housing and required provisions for affordable
+7 housing.
+8 * * *
+9 (B) Except as provided in subdivisions 4414(1)(E) and (F) of this
+10 title, no bylaw shall have the effect of excluding mobile homes, modular
+11 housing, or prefabricated housing from any district that allows year-round
+12 residential development in the municipality, except upon the same terms and
+13 conditions as conventional housing is excluded. A municipality may establish
+14 specific site standards in the bylaws to regulate individual sites within
+15 preexisting mobile home parks with regard to distances between structures and
+16 other standards as necessary to ensure public health, safety, and welfare,
+17 provided the standards do not have the effect of prohibiting the replacement of
+18 mobile homes on existing lots.
+19 * * *
+20 (D) Bylaws shall designate appropriate districts and reasonable
+21 regulations for multiunit or multifamily dwellings. No bylaw shall have the
+VT LEG #386841 v.2
+
+BILL AS INTRODUCED S.328
+2026 Page 21 of 25
+1 effect of excluding these multiunit or multifamily dwellings from the
+2 municipality. In any district that allows year-round residential development,
+3 duplexes shall be an allowed a permitted use with dimensional standards that
+4 are not more restrictive than is required for a single-unit dwelling, including no
+5 additional land or lot area than would be required for a single-unit dwelling. In
+6 any district that is served by municipal sewer and water infrastructure that
+7 allows residential development, multiunit dwellings with four or fewer units
+8 shall be a permitted use on the same size lot as a single-unit dwelling, unless
+9 that district specifically requires multiunit structures to have more than four
+10 dwelling units.
+11 * * *
+12 Sec. 11. 24 V.S.A. § 4303 is amended to read:
+13 § 4303. DEFINITIONS
+14 The following definitions shall apply throughout this chapter unless the
+15 context otherwise requires:
+16 * * *
+17 (42)(A) An area “served by municipal sewer and water infrastructure”
+18 means an area within one-quarter mile of a road with water and sewer lines
+19 where there is capacity or capacity is being added imminently to accommodate
+20 housing or:
+VT LEG #386841 v.2
+
+BILL AS INTRODUCED S.328
+2026 Page 22 of 25
+1 (i) an area where residential connections and expansions are
+2 available to municipal water and direct and indirect discharge wastewater
+3 systems and not prohibited by:
+4 (I) State regulations or permits;
+5 (II) identified capacity constraints; or
+6 (III) municipally adopted service and capacity agreements; or
+7 (ii) an area established by the municipality by ordinance or bylaw
+8 where residential connections and expansions are available to municipal water
+9 and direct and indirect discharge wastewater systems and which may exclude:
+10 (I) flood hazard or inundation areas as established by statute,
+11 river corridors or fluvial erosion areas as established by statute, shorelands,
+12 areas within a zoning district or overlay district the purpose of which is natural
+13 resource protection, and wherever year-round residential development is not
+14 allowed;
+15 (II) areas with identified service limits established by State
+16 regulations or permits, identified capacity constraints, or municipally adopted
+17 service and capacity agreements;
+18 (III) areas served by sewer and water to address an identified
+19 community-scale public health hazard or environmental hazard;
+20 (IV) areas serving a mobile home park that is not within an area
+21 planned for year-round residential growth;
+VT LEG #386841 v.2
+
+BILL AS INTRODUCED S.328
+2026 Page 23 of 25
+1 (V) areas serving an industrial site or park;
+2 (VI) areas where service lines are located to serve the areas
+3 described in subdivisions (III)–(V) of this subdivision (ii), but no connections
+4 or expansions are permitted; or
+5 (VII) areas that, through an approved Planned Unit
+6 Development under section 4417 of this title or Transfer of Development
+7 Rights under section 4423 of this title, prohibit year-round residential
+8 development.
+9 (B) Municipally adopted areas served by municipal sewer and water
+10 infrastructure that limit sewer and water connections and expansions shall not
+11 result in the unequal treatment of housing by discriminating against a year-
+12 round residential use or housing type otherwise allowed in this chapter.
+13 Sec. 12. 24 V.S.A. § 4412a is added to read:
+14 § 4412a. UNION LABOR
+15 Any residential housing construction that uses union labor for construction
+16 may receive a density bonus in a zoning bylaw by an additional 20 percent.
+17 * * * Positions * * *
+18 Sec. 13. POSITIONS
+19 (a) The following positions are created in the Department of Housing and
+20 Community Development:
+VT LEG #386841 v.2
+
+BILL AS INTRODUCED S.328
+2026 Page 24 of 25
+1 (1) two full-time, classified Grants Management Specialist Housing and
+2 Community Development positions; and
+3 (2) one full-time, exempt position to increase capacity to administer
+4 programs, including municipal planning grants, Homes for All developer
+5 trainings, 802 Homes Initiative, and Housing Data analysis and reporting.
+6 (b) There is created in the Department of Disabilities, Aging, and
+7 Independent Living one full-time, classified position for expanding housing
+8 and residential service options for individuals who receive Medicaid-funded
+9 home- and community-based services.
+10 * * * Appropriations * * *
+11 Sec. 14. APPROPRIATIONS
+12 The following shall be appropriated from the General Fund in fiscal year
+13 2027:
+14 (1) The sum of $250,000.00 to the Municipal and Regional Planning and
+15 Resilience Fund to increase available municipal planning grants for
+16 municipalities seeking to meet the housing targets established pursuant to 2024
+17 Acts and Resolves No. 181.
+18 (2) The sum of $5,000,000.00 to the Department of Housing and
+19 Community Development’s base budget for the purpose of funding the
+20 Vermont Rental Housing Improvement Program (VHIP).
+VT LEG #386841 v.2
+
+BILL AS INTRODUCED S.328
+2026 Page 25 of 25
+1 (3) The sum of $3,000,000.00 to the Vermont Housing and
+2 Conservation Board (VHCB) for the purpose of providing support and
+3 enhanced capacity for the production of permanently affordable housing for
+4 individuals who are eligible to receive Medicaid-funded developmental
+5 disability services. In expending the funds authorized by this section, the
+6 VHCB shall consult with the Developmental Disabilities Housing Initiative
+7 and the Vermont Developmental Disabilities Council.
+8 * * * Effective Date * * *
+9 Sec. 15. EFFECTIVE DATE
+10 This act shall take effect on July 1, 2026.
+VT LEG #386841 v.2

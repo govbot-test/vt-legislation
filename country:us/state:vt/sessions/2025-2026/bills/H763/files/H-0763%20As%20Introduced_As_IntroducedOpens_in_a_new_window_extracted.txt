@@ -1,0 +1,112 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.763
+2026 Page 1 of 5
+1 H.763
+2 Introduced by Representative Greer of Bennington
+3 Referred to Committee on
+4 Date:
+5 Subject: Elections; periodic reapportionment; counting of offenders
+6 Statement of purpose of bill as introduced: This bill proposes to count certain
+7 offenders by their residential address prior to incarceration for the purpose of
+8 periodic reapportionment of districts for the General Assembly.
+9 An act relating to how to count certain offenders for the purpose of periodic
+10 reapportionment of districts for the General Assembly
+11 It is hereby enacted by the General Assembly of the State of Vermont:
+12 Sec. 1. 17 V.S.A. § 1913 is added to read:
+13 § 1913. COUNTING OF OFFENDERS
+14 (a) Department of Corrections determination and sharing of offender
+15 residential information.
+16 (1) The Department of Corrections shall:
+17 (A) for each offender in the Department’s custody, determine the
+18 offender’s residential address prior to incarceration; and
+19 (B) maintain an electronic record of offenders’ residential addresses
+20 prior to incarceration that shall determine the offenders’ residential addresses
+VT LEG #385083 v.1
+
+BILL AS INTRODUCED H.763
+2026 Page 2 of 5
+1 prior to incarceration on the date for which the decennial census reports
+2 population.
+3 (2) On or before May 1 of the year following each decennial census
+4 under the authority of Congress and in which the U.S. Census Bureau counts
+5 any offender as a resident of the town in which the offender’s respective
+6 correctional facility is located, the Department of Corrections shall deliver to
+7 the Legislative Apportionment Board, in a form as prescribed by the Board, the
+8 following information as determined on the date for which the decennial
+9 census reports population:
+10 (A) a unique identifier for each offender subject to the
+11 jurisdiction of the Department of Corrections;
+12 (B) the street address of the correctional facility in which each
+13 offender was incarcerated;
+14 (C) for each offender, an indication of whether the offender:
+15 (i) has attained 18 years of age; and
+16 (ii) is serving a sentence of life imprisonment without the
+17 possibility of release;
+18 (D) each offender’s in-state residential address prior to incarceration,
+19 or an indication that the offender’s residential address prior to incarceration
+20 was:
+VT LEG #385083 v.1
+
+BILL AS INTRODUCED H.763
+2026 Page 3 of 5
+1 (i) outside Vermont; or
+2 (ii) unknown; and
+3 (E) any additional information requested by the Board otherwise
+4 permitted by law.
+5 (b) Legislative Apportionment Board use of offender address information.
+6 (1) For each offender included in a report received under subsection (a)
+7 of this section, the Board shall determine the geographic units for which
+8 population counts are reported in the decennial census, which units contain the
+9 address of the correctional facility in which an offender was incarcerated, and
+10 which contain an offender’s residential address prior to incarceration.
+11 (2) If an offender’s residential address prior to incarceration is known
+12 and is located within the State, the Board shall ensure that when creating
+13 proposals for dividing the State into initial districts for the election of the
+14 House of Representatives and the Senate, as described in sections 1905, 1906,
+15 and 1907 of this title, the relevant population counts reported in the decennial
+16 census are adjusted so that an offender is considered to have been residing at
+17 the offender’s residential address prior to incarceration and not at the address
+18 of the correctional facility where the offender was incarcerated.
+19 (3) If an offender’s residential address prior to incarceration is unknown
+20 or not in this State, the Board shall ensure that an offender is not represented in
+21 any applicable population count reported in the decennial census for the
+VT LEG #385083 v.1
+
+BILL AS INTRODUCED H.763
+2026 Page 4 of 5
+1 geographic units that include the correctional facility in which an offender was
+2 incarcerated.
+3 (4) Notwithstanding subdivisions (1)–(3) of this subsection, if an
+4 offender is serving a sentence of life imprisonment without the possibility of
+5 release, the Board shall ensure that an offender is represented in the applicable
+6 population count reported in the decennial census for the geographic units that
+7 include the correctional facility in which an offender was incarcerated.
+8 (5) The Board shall prepare and publish such information, both adjusted
+9 and unadjusted, pursuant to this subsection (b) as part of its tentative proposal,
+10 as described in sections 1905 and 1907 of this title, and any subsequent
+11 proposals, including the Board’s final proposal, as described in section 1906 of
+12 this title.
+13 (c) Confidentiality of offender information. Notwithstanding any other
+14 statute, the information required to be provided under this section shall not
+15 include the name of any offender or in any other way allow for the
+16 identification of the individual. This information is exempt from public
+17 inspection and copying under the Public Records Act and shall be kept
+18 confidential, except to the Board for the purposes of subsection (b) of this
+19 section or as aggregated by decennial census block for the purposes of
+20 subdivision (b)(5) of this section.
+VT LEG #385083 v.1
+
+BILL AS INTRODUCED H.763
+2026 Page 5 of 5
+1 (d) Definition. As used in section, “offender” has the same meaning as in
+2 28 V.S.A. § 3(8).
+3 Sec. 2. EFFECTIVE DATE
+4 This act shall take effect on passage.
+VT LEG #385083 v.1

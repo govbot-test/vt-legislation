@@ -1,0 +1,47 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.589
+2026 Page 1 of 2
+1 H.589
+2 Introduced by Representative Holcombe of Norwich
+3 Referred to Committee on
+4 Date:
+5 Subject: Court procedure; limitations on actions; statute of repose; actions
+6 arising out of improvements to real property
+7 Statement of purpose of bill as introduced: This bill proposes to establish a
+8 six-year statute of repose for an action arising out of improvements to real
+9 property.
+10 An act relating to a six-year statute of repose for actions arising out of
+11 improvements to real property
+12 It is hereby enacted by the General Assembly of the State of Vermont:
+13 Sec. 1. 12 V.S.A. § 526 is added to read:
+14 § 526. ACTION ARISING OUT OF IMPROVEMENTS TO REAL
+15 PROPERTY; STATUTE OF REPOSE
+16 (a) Except as otherwise provided in this section, a civil action for personal
+17 injury or property damages arising out of a deficiency in the creation of an
+18 improvement to real property, including the design, planning, contract
+19 administration, supervision, or construction of the improvement, shall be
+20 brought within six years after substantial completion of the improvement.
+VT LEG #385570 v.1
+
+BILL AS INTRODUCED H.589
+2026 Page 2 of 2
+1 (b) Subsection (a) of this section shall not apply to actions involving
+2 fraudulent misrepresentations or to actions involving the fraudulent
+3 concealment of material facts upon which a claim might be based, which are
+4 governed by section 555 of this title.
+5 (c) As used in this section, “substantial completion” means that
+6 construction is sufficiently complete so that an improvement may be utilized
+7 by its owner or lawful possessor for the purposes intended. In the case of a
+8 phased project with more than one substantial completion date, the six-year
+9 period of limitations for actions involving systems designed to serve the entire
+10 project shall begin at the substantial completion of each phase.
+11 Sec. 2. EFFECTIVE DATE
+12 This act shall take effect on July 1, 2026.
+VT LEG #385570 v.1

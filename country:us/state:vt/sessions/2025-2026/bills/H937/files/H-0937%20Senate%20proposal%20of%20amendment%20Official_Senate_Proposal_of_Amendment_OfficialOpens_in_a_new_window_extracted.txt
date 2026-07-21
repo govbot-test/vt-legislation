@@ -1,0 +1,253 @@
+Title: 
+Official Title: 
+Source: versions - Senate Proposal of Amendment (OfficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate proposal of amendment
+H. 937
+An act relating to miscellaneous judiciary procedures.
+The Senate proposes to the House to amend the bill as follows:
+First: In Sec. 2, 7 V.S.A. § 656, after the second ellipses, by inserting the
+following:
+(d) Issuance of notice of suspension.
+(1) On behalf of the Commissioner of Motor Vehicles, a law
+enforcement officer issuing a notice of violation in accordance with subsection
+(c) of this section for a violation of subdivision (b)(1)(E) of this section shall
+also serve a notice of suspension of the person’s operator’s license and
+privilege to operate a motor vehicle in a form prescribed by the Court
+Administrator. The form shall include the following:
+(A) the effective date of the suspension;
+(B) the suspension’s duration;
+(C) an explanation of the consequences of the suspension;
+(D) the option to operate a motor vehicle with an ignition interlock
+restricted driver’s license or certificate in accordance with 23 V.S.A. § 1213;
+(E) the projected date of reinstatement upon successful completion of
+the suspension; and
+(F) the ability to review the imposition of the suspension pursuant to
+Rule 75 of the Vermont Rules of Civil Procedure.
+* * *
+Second: By striking out Sec. 3, 7 V.S.A. § 1005, in its entirety and
+inserting in lieu thereof a new Sec. 3 to read as follows:
+Sec. 3. [Deleted.]
+Third: In Sec. 5, 12 V.S.A. § 506, in subdivision (b)(3)(C), by striking out
+“affirmation” and inserting in lieu thereof “affirmative”
+Fourth: By adding nine new sections to be Secs. 40a–40i to read as
+follows:
+Sec. 40a. 28 V.S.A. § 102 is amended to read:
+§ 102. COMMISSIONER OF CORRECTIONS; APPOINTMENT;
+POWERS; RESPONSIBILITIES
+* * *
+
+(c) The Commissioner is charged with the following responsibilities:
+* * *
+(24) To provide and sustain trauma-informed family support services
+and programming pursuant to section 128 of this title.
+(25) To provide notification and other services to victims.
+Notwithstanding any other provision of law requiring the Department to
+provide notification or other services to victims, a victim may decline any
+notification or other service provided by the Department.
+Sec. 40b. 13 V.S.A. § 2029 is amended to read:
+§ 2029. HOME IMPROVEMENT AND LAND IMPROVEMENT FRAUD
+* * *
+(b) A person commits the offense of home improvement or land
+improvement fraud when the person knowingly enters into a contract or,
+agreement, or change order, written or oral, for $1,000.00 or more, with an
+owner for home improvement or land improvement, or into several contracts
+or, agreements, or change orders for $2,500.00 or more in the aggregate, with
+more than one owner for home improvement or land improvement, and the
+person knowingly:
+(1)(A) fails to perform the contract or agreement, in whole or in part;
+and
+(B) when the owner requests performance, payment, or a refund of
+payment made, the person fails to either:
+(i) refund the payment;
+(ii) make and comply with a definite plan for completion of the
+work that is agreed to by the owner; or
+(iii) make the payment promises performance that the person does
+not intend to perform or knows will not be performed, in whole or in part;
+(2) misrepresents a material fact relating to the terms of the contract or,
+agreement, or change order or to the condition of any portion of the property
+involved;
+(3) uses or employs any unfair or deceptive act or practice in order to
+induce, encourage, or solicit such person to enter into any contract or,
+agreement, or change order or to modify the terms of the original contract or,
+agreement, or change order; or
+(4) when there is a declared state of emergency, charges for goods or
+services related to the emergency a price that exceeds two times the average
+
+price for the goods or services and the increase is not attributable to the
+additional costs incurred in connection with providing those goods or services.
+* * *
+Sec. 40c. 12 V.S.A. § 5606 is amended to read:
+§ 5606. INDEMNIFICATION OF EMPLOYEES
+(a) In any action defended by the Attorney General or the Attorney
+General’s designee in which a judgment is rendered against an employee of the
+State for acts or omissions within the scope of his or her employment, or a
+settlement requires payment by such a person, and the right of action is based
+upon 42 U.S.C. § 1983 or a similar State statute, or under a similar federal
+statute where State law is incapable of establishing employee immunity, the
+State shall indemnify the employee for the amount of the employee’s liability.
+(b) The maximum liability of the State under this section shall be
+$500,000.00 to any one person and the maximum aggregate liability shall be
+$2,000,000.00 to all persons arising out of each occurrence.
+* * *
+Sec. 40d. 2023 Acts and Resolves No. 47, Sec. 44 is amended to read:
+Sec. 44. TENANT REPRESENTATION PILOT PROGRAM
+(a) Creation; purpose. Vermont Legal Aid shall create and administer a
+two-year Tenant Representation Pilot Program:
+(1) to provide full representation to eligible and consenting tenants in
+Lamoille and Windsor counties Vermont who have been served with a
+summons and complaint for eviction; and
+(2) to determine the impact of representation on the issuance of writs of
+possession and homelessness prevention.
+(b) Tenant eligibility. Vermont Legal Aid may enter a notice of appearance
+on behalf of a residential tenant in Lamoille or Windsor County who is served
+with a summons and complaint in an ejectment action, consents to the
+representation, and meets the following criteria:
+(1) household income equals or is less than 120 percent of State area
+median income;
+(2) the cost of rent equals or exceeds 30 percent of household income;
+or
+(3) household expenses exceed income.
+(c) Scope of representation.
+(1) Full representation through the Program is limited to eviction.
+
+(2) The pursuit of counterclaims shall be at the discretion of appointed
+counsel.
+(d) Conflicts of interest.
+(1) Vermont Legal Aid may subcontract to Legal Services Vermont if it
+is unable to provide tenant representation due to a conflict of interest as
+defined by the Vermont Rules of Professional Conduct.
+(2) If Legal Services Vermont also has a conflict of interest, Vermont
+Legal Aid may subcontract to one or more private counsels who are members
+in good standing of the Vermont Bar.
+(e) Report. Vermont Legal Aid shall provide interim reports on the
+progress of the Program on or before November 15, 2023 November 30, 2025,
+and November 15, 2024 November 30, 2026, and a final report on or before
+July 30, 2025 July 31, 2027, which shall describe:
+(1) the number of tenants represented;
+(2) case outcomes, including:
+(A) the number of cases fully or partially resolved through access to
+the Rent Arrears Assistance Fund;
+(B) the number of cases fully or partially resolved through the
+Vermont Landlord’s Association mediation program; and
+(C) the number of cases fully or partially resolved through access to
+another resource identified through the Rental Housing Stabilization Services
+Program; and
+(3) recommendations for policy changes and for pilot expansion.
+(f) Implementation. The duty to implement this section is contingent upon
+an appropriation in fiscal year 2024 2025 from the General Fund to the
+Agency of Human Services for a subgrant to Vermont Legal Aid to provide
+representation in eligible eviction cases in the two pilot counties of Lamoille
+and Windsor beginning on July 1, 2023 November 1, 2024.
+Sec. 40e. 2024 Acts and Resolves No. 181, Sec. 95. is amended to read:
+Sec. 95. APPROPRIATION; TENANT REPRESENTATION PILOT
+PROGRAM
+The sum of $1,025,000.00 is appropriated from the General Fund to the
+Agency of Human Services in fiscal year 2025 for a grant to Vermont Legal
+Aid for the Tenant Representation Pilot Program established by 2023 Acts and
+Resolves No. 47, Sec. 44. These funds shall carry forward each fiscal year
+until fully expended or reverted by an act of the General Assembly.
+Sec. 40f. 9 V.S.A. § 4555 is amended to read:
+
+§ 4555. INFORMATION; DISCLOSURE AND CONFIDENTIALITY
+(a)(1) Except as provided in this subsection, the Human Rights
+Commission’s complaint files and investigative files shall be confidential.
+(2) The Commission shall make the investigative file available to the
+charging party, the respondent, their attorneys, and any State or federal law
+enforcement agency seeking to enforce anti-discrimination antidiscrimination
+statutes, upon reasonable request, except that the Commission may refuse to
+disclose:
+(A) the identities of nonparty witnesses to the investigation if good
+cause is shown to protect the witness’s confidentiality; or
+(B) records or information the release of which may be prohibited
+under State or federal law absent court order.
+(3) For any complaint initiated pursuant to subsection 4554(b) of this
+title, any resulting investigative report shall not be confidential after the
+Commission has issued a final determination and after the parties have been
+notified of the Commission’s determination, except that the Commission shall
+not proactively disclose any report and shall not disclose:
+(A) the identities of nonparty witnesses to the investigation if good
+cause is shown to protect the witness’s confidentiality;
+(B) information the release of which may be prohibited under State
+or federal law absent court order; and
+(C) the identity of the parties and any information that would identify
+the parties if the Commission finds that there are no reasonable grounds to
+believe that discrimination occurred.
+(4) A party or entity denied information or records under subdivision
+(2)(A) or (B) of this subsection may seek the information or records by
+subpoena. The Commission and any affected person may contest the subpoena
+in court.
+(4)(5) Any records or information described in subdivision (2)(A) or
+(B) of this subsection made available to a party or entity pursuant to a
+confidentiality agreement or court order requiring confidentiality shall be kept
+confidential in accordance with the agreement or order, unless disclosure is
+otherwise authorized by law or court order.
+(b) Nothing said or done as part of conciliation efforts under this chapter
+may be made a matter of public record or used as evidence in a subsequent
+civil action without written consent of the parties. Final settlement agreements
+shall be public documents and the parties shall be so informed.
+
+(c) If the Commission determines that there are reasonable grounds to
+believe that discrimination has occurred, that determination and the names of
+the parties may be made public after the parties have been notified of the
+Commission’s determination. If the Commission finds that there are no
+reasonable grounds to find discrimination, the identity of the parties and any
+information that would identify the parties shall remain confidential. The
+Commission shall inform the parties about the provisions of this subsection.
+In all cases, even if the records are confidential, the facts may be used for
+educational purposes if sufficiently altered so that no person involved in a case
+can be identified.
+Sec. 40g. APPLICATION TO PENDING INVESTIGATIONS
+Sec. 40f of this act shall apply to any pending investigations by the Human
+Rights Commission.
+Sec. 40h. 15 V.S.A. § 1103 is amended to read:
+§ 1103. REQUESTS FOR RELIEF
+(a) Any family or household member may seek relief from abuse by
+another family or household member on behalf of themselves or their children
+by filing a complaint under this chapter. A minor 16 years of age or older, or a
+minor of any age who is in a dating relationship as defined in subdivision
+1101(3) of this chapter, may file a complaint under this chapter seeking relief
+on the minor’s own behalf. The plaintiff shall submit an affidavit in support of
+the order.
+(b) Except as provided in section 1104 of this title, the court shall grant
+relief only after notice to the defendant and a hearing. The plaintiff shall have
+the burden of proving abuse by a preponderance of the evidence.
+(c)(1) The court shall make such orders as it deems necessary to protect the
+plaintiff or the children, or both, if the court finds that the defendant has
+abused the plaintiff, and:
+(A) there is a danger of further abuse; or
+(B) the defendant is currently incarcerated under the supervision of
+the Department of Corrections and has been convicted of one of the following:
+murder, attempted murder, kidnapping, domestic assault, aggravated domestic
+assault, sexual assault, aggravated sexual assault, stalking, aggravated stalking,
+lewd or lascivious conduct with a child, use of a child in a sexual performance,
+or consenting to a sexual performance.
+* * *
+Sec. 40i. 13 V.S.A. § 7551 is amended to read:
+
+§ 7551. IMPOSITION OF BAIL, SECURED APPEARANCE BONDS, AND
+APPEARANCE BONDS
+* * *
+(b) Limitation on imposition of bail, secured appearance bonds, and
+appearance bonds.
+(1) Except as provided in subdivision (2) of this subsection, no bail,
+secured appearance bond, or appearance bond may be imposed:
+(A) at the initial appearance of a person charged with a misdemeanor
+if the person was cited for the offense in accordance with Rule 3 of the
+Vermont Rules of Criminal Procedure; or
+(B) at the initial appearance or upon the temporary release pursuant
+to Rule 5(b) of the Vermont Rules of Criminal Procedure of a person charged
+with a violation of a misdemeanor offense that is eligible for expungement
+sealing pursuant to subdivision 7601(4)(A) of this title.
+(2) In the event the court finds that imposing bail is necessary to
+mitigate the risk of flight from prosecution for a person charged with a
+violation of a misdemeanor offense that is eligible for expungement sealing
+pursuant to subdivision 7601(4)(A) of this title, the court may impose bail in a
+maximum amount of $200.00. The $200.00 limit shall not apply to an offense
+allegedly committed by a defendant who has been released on personal
+recognizance or conditions of release pending trial for another offense.
+* * *

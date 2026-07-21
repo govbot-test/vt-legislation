@@ -1,0 +1,74 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILLAS INTRODUCED S.202
+2026 Page 1 of 3
+1 S.202
+2 Introduced by Senators Watson, Bongartz, Chittenden, Clarkson, Gulick,
+3 Hardy, Lyons, Ram Hinsdale, Vyhovsky, Weeks and White
+4 Referred to Committee on
+5 Date:
+6 Subject: Public service; energy; renewable energy; solar energy; portable solar
+7 energy generation devices
+8 Statement of purpose of bill as introduced: This bill proposes to allow
+9 portable solar energy generation devices to be installed without a certificate of
+10 public good.
+11 An act relating to portable solar energy generation devices
+12 It is hereby enacted by the General Assembly of the State of Vermont:
+13 Sec. 1. 30 V.S.A. § 201 is amended to read:
+14 § 201. DEFINITIONS
+15 As used in this chapter:
+16 * * *
+17 (9) “Portable solar energy generation device” means a movable
+18 photovoltaic generation device that:
+
+BILLAS INTRODUCED S.202
+2026 Page 2 of 3
+1 (A) has a maximum power output to the electric grid of not more
+2 than 1,200 watts;
+3 (B) is designed to be connected to a building’s electrical system via
+4 an electrical cord plugged into a receptacle;
+5 (C) is intended primarily to offset part of the customer’s electricity
+6 consumption;
+7 (D) includes a feature that prevents the system from energizing the
+8 building’s electrical system during a power outage;
+9 (E) is certified by Underwriters Laboratories or an equivalent
+10 Nationally Recognized Testing Laboratory for use in the United States; and
+11 (F) is connected to a building that is connected the electric grid.
+12 Sec. 2. 30 V.S.A. § 256 is added to read:
+13 § 256. PORTABLE SOLAR ENERGY GENERATION DEVICES
+14 (a) The installation of a portable solar energy generation device shall not
+15 be required to comply with the requirements of section 248 of this chapter or
+16 be required to obtain an interconnection agreement with an electric distribution
+17 company.
+18 (b) On or before September 10, 2026, the Public Utility Commission, in
+19 consultation with the Division of Fire Safety and the electric distribution
+20 companies, shall develop a simple notification form for customers who install
+21 portable solar energy devices, which shall, at a minimum, include name of
+
+BILLAS INTRODUCED S.202
+2026 Page 3 of 3
+1 customer and contact information, address of installation, the customer’s
+2 electric utility, and meter number. The form shall be available in an online
+3 version and a printable version. An electric distribution company may require
+4 customers to submit the notification form to the company after installation of
+5 the device.
+6 (c) An electric distribution company shall not require a customer using a
+7 portable solar energy generation device to:
+8 (1) obtain the company’s approval before installing or using the device;
+9 (2) pay any fee or charge related to the device; or
+10 (3) install any additional controls or equipment beyond what is
+11 integrated into the device.
+12 (d) A portable solar energy generation device shall not be eligible for net
+13 metering.
+14 (e) A portable solar energy device in a public building, as defined in 20
+15 V.S.A. § 2730, shall be used in a manner that complies with all applicable
+16 requirements of the most recent Fire and Building Safety Code adopted by the
+17 Division of Fire Safety.
+18 Sec. 3. EFFECTIVE DATE
+19 This act shall take effect on July 1, 2026.

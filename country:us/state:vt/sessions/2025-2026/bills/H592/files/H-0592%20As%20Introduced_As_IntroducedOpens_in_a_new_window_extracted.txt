@@ -1,0 +1,233 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.592
+2026 Page 1 of 10
+1 H.592
+2 Introduced by Representative Rachelson of Burlington
+3 Referred to Committee on
+4 Date:
+5 Subject: Civil procedure; forfeiture; right to counsel; record keeping
+6 Statement of purpose of bill as introduced: This bill proposes to mandate the
+7 assignment of a public defender for needy persons in certain civil forfeiture
+8 proceedings. The bill would also provide for notice of the right to legal
+9 counsel in such proceedings, along with mandates for law enforcement and
+10 adjudicators to maintain records of forfeited property.
+11 An act relating to the appointment of legal counsel and record keeping in
+12 civil forfeiture actions
+13 It is hereby enacted by the General Assembly of the State of Vermont:
+14 Sec. 1. 13 V.S.A. § 5232 is amended to read:
+15 § 5232. PARTICULAR PROCEEDINGS
+16 Counsel shall be assigned under section 5231 of this title to represent needy
+17 persons in any of the following:
+18 (1) extradition proceedings;
+VT LEG #385622 v.1
+
+BILL AS INTRODUCED H.592
+2026 Page 2 of 10
+1 (2) habeas corpus and other proceedings wherein in which the person is
+2 confined in a penal or mental institution in this state State and seeks release
+3 therefrom from such institution; or
+4 (3) proceedings arising out of a petition brought in a juvenile court when
+5 the court deems the interests of justice require representation of either the child
+6 or his or her the child’s parents or guardian, or both, including any subsequent
+7 proceedings arising from an order therein in those proceedings; or
+8 (4) forfeiture proceedings pursuant to 6 V.S.A. § 3315 (livestock and
+9 poultry products); 7 V.S.A. §§ 567 and 574 (alcoholic beverages, alcohol, and
+10 related property); 10 V.S.A. §§ 4505 and 4511 (property associated with big
+11 game violations); 18 V.S.A. chapter 84, subchapter 2 (regulated drugs and
+12 related property); and 23 V.S.A. § 1213c (motor vehicles).
+13 Sec. 2. 6 V.S.A. § 3315 is amended to read:
+14 § 3315. FORFEITURE
+15 * * *
+16 (b)(1) Law enforcement departments and agencies or other State
+17 departments and agencies that have custody of any property subject to
+18 forfeiture under this section, or that dispose of such property, shall keep and
+19 maintain full and complete records, including the following:
+20 (A) from whom the property was received;
+21 (B) a description of the property;
+VT LEG #385622 v.1
+
+BILL AS INTRODUCED H.592
+2026 Page 3 of 10
+1 (C) the value of the property;
+2 (D) under what authority the property was held or received or
+3 disposed of;
+4 (E) to whom the property was delivered; and
+5 (F) the date and manner of destruction or disposition of the property.
+6 (2) The records shall be submitted to the Superior Court and shall be
+7 open to inspection by all federal and State departments and agencies charged
+8 with regulation and enforcement of livestock and poultry products. Persons
+9 making final disposition or destruction of the property under court order shall
+10 report, under oath, to the court the exact circumstances of that disposition or
+11 destruction, and a copy of that report shall be maintained by the Superior
+12 Court.
+13 (c) The provisions of this section shall in no way impair authority for
+14 condemnation or seizure conferred by other provisions of this chapter or other
+15 laws.
+16 Sec. 3. 7 V.S.A. § 604 is added to read:
+17 § 604. RECORDS OF FORFEITED PROPERTY
+18 (a) Law enforcement departments and agencies or other State departments
+19 and agencies that have custody of any property subject to forfeiture under
+20 section 567 or 574 of this title, or that dispose of such property, shall keep and
+21 maintain full and complete records, including the following:
+VT LEG #385622 v.1
+
+BILL AS INTRODUCED H.592
+2026 Page 4 of 10
+1 (1) from whom the property was received;
+2 (2) a description of the property;
+3 (3) the value of the property;
+4 (4) if the property is deposited in an interest-bearing account, the
+5 location of the account and the amount of interest;
+6 (5) under what authority the property was held or received or disposed
+7 of;
+8 (6) to whom the property was delivered; and
+9 (7) the date and manner of destruction or disposition of the property.
+10 (b) The records shall be submitted to the Superior Court and shall be open
+11 to inspection by all federal and State departments and agencies charged with
+12 regulation and enforcement of alcoholic beverages. Persons making final
+13 disposition or destruction of the property under court order shall report, under
+14 oath, to the court the exact circumstances of that disposition or destruction, and
+15 a copy of that report shall be maintained by the Superior Court.
+16 Sec. 4. 10 V.S.A. chapter 109, subchapter 1 is amended to read:
+17 Subchapter 1. General Provisions
+18 * * *
+19 § 4520a. NOTICE AND HEARING REQUIREMENTS
+20 (a) The Commissioner shall use the following procedures in assessing the
+21 penalty under section 4520 of this title: the Attorney General or an alleged
+VT LEG #385622 v.1
+
+BILL AS INTRODUCED H.592
+2026 Page 5 of 10
+1 violator shall be given an opportunity for a hearing after reasonable notice;,
+2 and the notice shall be served by personal service or by certified mail, return
+3 receipt requested. The notice shall include:
+4 (1) a statement of the legal authority and jurisdiction under which the
+5 hearing is to be held;
+6 (2) a statement of the matter at issue, including reference to the
+7 particular statute allegedly violated and a factual description of the alleged
+8 violation;
+9 (3) the amount of the proposed administrative penalty; and
+10 (4) a warning that the decision shall become final and the penalty
+11 imposed if no hearing is requested within 15 days of following receipt of the
+12 notice. The notice shall specify the requirements which that shall be met in
+13 order to avoid being deemed to have waived the right to a hearing or the
+14 manner of payment if the person elects to pay the penalty and waive a hearing;
+15 and
+16 (5) the right to the advice and assistance of private counsel or the public
+17 defender.
+18 (b) Any person who receives notification pursuant to this section shall be
+19 deemed to have waived the right to a hearing unless, within 15 days of
+20 following the receipt of the notice, the person requests a hearing in writing. If
+21 the person waives the right to a hearing, the Commissioner shall issue a final
+VT LEG #385622 v.1
+
+BILL AS INTRODUCED H.592
+2026 Page 6 of 10
+1 order finding the person in default and imposing the penalty. A copy of the
+2 final default order shall be sent to the violator by certified mail, return receipt
+3 requested.
+4 (c) When an alleged violator requests a hearing in a timely fashion, the
+5 Commissioner shall hold the hearing pursuant to 3 V.S.A. chapter 25.
+6 * * *
+7 § 4523. RECORDS OF FORFEITED PROPERTY
+8 (a) Law enforcement departments and agencies or other State departments
+9 and agencies that have custody of any property subject to forfeiture under
+10 section 4505 or 4511 of this title, or that dispose of such property, shall keep
+11 and maintain full and complete records, including the following:
+12 (1) from whom the property was received;
+13 (2) a description of the property;
+14 (3) the value of the property;
+15 (4) if the property is deposited in an interest-bearing account, the
+16 location of the account and the amount of interest;
+17 (5) under what authority the property was held or received or disposed
+18 of;
+19 (6) to whom the property was delivered; and
+20 (7) the date and manner of destruction or disposition of the property.
+VT LEG #385622 v.1
+
+BILL AS INTRODUCED H.592
+2026 Page 7 of 10
+1 (b) The records shall be submitted to the Commissioner and shall be open
+2 to inspection by all federal and State departments and agencies charged with
+3 regulation and enforcement of alcoholic beverages. Persons making final
+4 disposition or destruction of the property under court order shall report, under
+5 oath, to the court the exact circumstances of that disposition or destruction, and
+6 a copy of that report shall be maintained by the Commissioner.
+7 Sec. 5. 18 V.S.A. § 4243 is amended to read:
+8 § 4243. JUDICIAL FORFEITURE PROCEDURE
+9 * * *
+10 (d) Notice. Within 60 days from when the seizure occurs, the State shall
+11 notify any owners, possessors, and lienholders of the property of the action, if
+12 known or readily ascertainable. The notice shall include a statement that the
+13 recipient has the right to the advice and assistance of private counsel or the
+14 public defender pursuant to 13 V.S.A. § 5232(4). Upon motion by the State, a
+15 court may extend the time period for sending notice for a period not to exceed
+16 90 days for good cause shown.
+17 (e) Return of property. If notice is not sent in accordance with subsection
+18 (d) of this section, and no time extension is granted or the extension period has
+19 expired, the law enforcement agency shall return the property to the person
+20 from whom the property was seized. An agency’s return of property due to
+21 lack of proper notice does not restrict the agency’s authority to commence a
+VT LEG #385622 v.1
+
+BILL AS INTRODUCED H.592
+2026 Page 8 of 10
+1 forfeiture proceeding at a later time. Nothing in this subsection shall require
+2 the agency to return contraband, evidence, or other property that the person
+3 from whom the property was seized is not entitled to lawfully possess.
+4 * * *
+5 Sec. 6. 23 V.S.A. § 1213c is amended to read:
+6 § 1213c. IMMOBILIZATION AND FORFEITURE PROCEEDINGS
+7 * * *
+8 (b) Content of notice. The notice shall contain the following:
+9 (1) a description of the motor vehicle, including vehicle identification
+10 number, make, model, and year;
+11 (2) the name of the registered owner or owners, lienholder, and any
+12 other person appearing to be an innocent owner or operator as described in
+13 subsection (g) of this section;
+14 (3) the date, time, and place of the hearing; and
+15 (4) a statement that any person who is an owner, an innocent owner or
+16 operator, or who holds a security interest in or claims any interest in the motor
+17 vehicle may appear and be heard at the hearing to protect the person’s interest
+18 in the motor vehicle; and
+19 (5) the right to the advice and assistance of private counsel or the public
+20 defender pursuant to 13 V.S.A. § 5232(4).
+21 * * *
+VT LEG #385622 v.1
+
+BILL AS INTRODUCED H.592
+2026 Page 9 of 10
+1 (p) Records.
+2 (1) Law enforcement departments and agencies or other State
+3 departments and agencies that have custody of any property subject to
+4 forfeiture under this section, or that dispose of such property, shall keep and
+5 maintain full and complete records, including the following:
+6 (A) from whom the property was received;
+7 (B) a description of the property;
+8 (C) the value of the property;
+9 (D) if the property is deposited in an interest-bearing account, the
+10 location of the account and the amount of interest;
+11 (E) under what authority the property was held or received or
+12 disposed of;
+13 (F) to whom the property was delivered; and
+14 (G) the date and manner of destruction or disposition of the property.
+15 (2) The records shall be submitted to the Superior Court and shall be
+16 open to inspection by all federal and State departments and agencies charged
+17 with regulation and enforcement of alcoholic beverages. Persons making final
+18 disposition or destruction of the property under court order shall report, under
+19 oath, to the court the exact circumstances of that disposition or destruction, and
+20 a copy of that report shall be maintained by the Superior Court.
+VT LEG #385622 v.1
+
+BILL AS INTRODUCED H.592
+2026 Page 10 of 10
+1 Sec. 7. EFFECTIVE DATE
+2 This act shall take effect on July 1, 2026.
+VT LEG #385622 v.1

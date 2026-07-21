@@ -1,0 +1,261 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED S.263
+2026 Page 1 of 11
+1 S.263
+2 Introduced by Senators Perchlik and Chittenden
+3 Referred to Committee on
+4 Date:
+5 Subject: Motor vehicles; traffic enforcement; traffic violations; moving
+6 violations; automated law enforcement; traffic cameras; automated
+7 license plate recognition systems; automated traffic law enforcement
+8 systems
+9 Statement of purpose of bill as introduced: This bill proposes to authorize
+10 municipal law enforcement agencies to utilize automated traffic law
+11 enforcement in municipal work zones; at locations with an increased incidence
+12 of crashes or speeding, or both; at traffic signals; and in areas with an increased
+13 incidence of vehicles exceeding municipal sound limits until July 1, 2029.
+14 An act relating to the use of automated traffic law enforcement (ATLE)
+15 systems by municipalities
+16 It is hereby enacted by the General Assembly of the State of Vermont:
+17 Sec. 1. 23 V.S.A. § 1605 is amended to read:
+18 § 1605. DEFINITIONS
+19 As used in this subchapter:
+20 * * *
+VT LEG #385982 v.3
+
+BILL AS INTRODUCED S.263
+2026 Page 2 of 11
+1 (3) “Automated traffic law enforcement system” or “ATLE system”
+2 means a device with one or more sensors that is:
+3 (A) working in conjunction with a speed measuring device to
+4 produce recorded images of the rear registration number plates of motor
+5 vehicles traveling at more than 10 miles above the speed limit;
+6 (B) working in conjunction with a traffic signal to produce recorded
+7 images of the rear registration plates of motor vehicles entering an intersection
+8 in a manner that is prohibited pursuant to subdivision 1022(a)(3) of this title;
+9 and
+10 (C) working in conjunction with a sound measuring device to
+11 produce recorded images of the rear registration plates of motor vehicles
+12 operating at a sound level that exceeds the maximum sound level permitted by
+13 a municipal ordinance.
+14 * * *
+15 (9) “Recorded image” means a photograph, microphotograph, electronic
+16 image, or electronic video that shows, clearly enough to identify, the rear
+17 registration number plate of a motor vehicle that has activated the radar or
+18 other detection component of an ATLE system by traveling past the ATLE
+19 system at more than 10 miles above the speed limit; entering an intersection in
+20 a manner that is prohibited pursuant to subdivision 1022(a)(3) of this title; or
+VT LEG #385982 v.3
+
+BILL AS INTRODUCED S.263
+2026 Page 3 of 11
+1 operating at a sound level that exceeds the maximum sound level permitted by
+2 a municipal ordinance.
+3 * * *
+4 Sec. 2. 23 V.S.A. § 1606 is amended to read:
+5 § 1606. AUTOMATED TRAFFIC LAW ENFORCEMENT SYSTEMS;
+6 SPEEDING
+7 (a) Use. Deployment of ATLE systems on behalf of the Agency of
+8 Transportation by a third party pursuant to subsection (b) of this section or by a
+9 municipal law enforcement agency as provided pursuant to subsection (b) of
+10 this section is intended to investigate the benefits of automated law
+11 enforcement for speeding, red light, and vehicle noise violations as a way to
+12 improve work crew safety and reduce traffic crashes resulting from an
+13 increased adherence to traffic laws achieved by effective deterrence of
+14 potential violators, which could not be achieved by traditional law enforcement
+15 methods or traffic calming measures, or both. Deployment of ATLE systems
+16 on behalf of the Agency and municipal law enforcement agencies is not
+17 intended to replace law enforcement personnel, nor is it intended to mitigate
+18 problems caused by deficient road design, construction, or maintenance.
+19 (b) Vendor.
+20 * * *
+VT LEG #385982 v.3
+
+BILL AS INTRODUCED S.263
+2026 Page 4 of 11
+1 (2) A municipal law enforcement agency that is authorized to utilize
+2 ATLE pursuant to section 1610 of this subchapter may purchase or lease
+3 ATLE systems for use pursuant to the provisions of this subchapter or may
+4 contract with a third party for the operation and deployment of ATLE systems
+5 on behalf of the municipal law enforcement agency.
+6 (3) The Agency or a municipal law enforcement agency, in consultation
+7 with the Department of Public Safety, may require the vendor to maintain a
+8 storage system to store any recorded images or other data collected by the
+9 ATLE system. Any storage system shall adhere to the use, retention, and
+10 limitation requirements pursuant to this section.
+11 (c) Locations. An ATLE system may only be utilized:
+12 (1) at a location in the vicinity of a work zone that is located on either a
+13 limited-access highway under the jurisdiction of the Agency of Transportation
+14 and that is selected by the Agency or on a highway within the jurisdiction of a
+15 municipal law enforcement agency that is selected by the law enforcement
+16 agency, provided that:
+17 (1)(A)(i) for a location selected by the Agency of Transportation, the
+18 Agency shall document through an appropriate engineering analysis that the
+19 location meets highway standards; or
+VT LEG #385982 v.3
+
+BILL AS INTRODUCED S.263
+2026 Page 5 of 11
+1 (ii) for a location selected by a municipal law enforcement agency,
+2 the municipal law enforcement agency shall confirm through an appropriate
+3 engineering analysis that the location meets highway standards;
+4 (2)(B) the ATLE system is not used as a means of combating
+5 deficiencies in roadway design or environment;
+6 (3)(C) at least two signs notifying members of the traveling public of the
+7 use of an ATLE system are in place before any recorded images or other data
+8 is collected by the ATLE system;
+9 (4)(D) there is a sign at the end of the work zone;
+10 (5)(E) the ATLE system is only in operation when workers are present
+11 in the work zone and at least one of the signs required under subdivision (3) of
+12 this subsection indicates whether the ATLE system is currently in operation;
+13 and
+14 (6)(F) there is notice of the use of the ATLE system on the Agency’s
+15 website or, for a municipal work zone, on the municipality’s website, including
+16 the location and typical hours when workers are present and the ATLE system
+17 is in operation;
+18 (2) at locations with a high incidence of crashes, speeding, or red light
+19 violations, or any combination of the three, if the municipal law enforcement
+20 agency with jurisdiction over the location determines, in its sole discretion, that
+21 it may be impractical or unsafe to utilize traditional law enforcement methods
+VT LEG #385982 v.3
+
+BILL AS INTRODUCED S.263
+2026 Page 6 of 11
+1 or that the use of traditional law enforcement personnel has failed to deter
+2 violators, provided that:
+3 (A) the municipal law enforcement agency confirms, through a traffic
+4 engineering analysis of the proposed location, that the location meets highway
+5 safety standards;
+6 (B) the ATLE system is not used as a means of combating
+7 deficiencies in roadway design or environment;
+8 (C) at least two signs notifying members of the traveling public of the
+9 use of an ATLE system are in place before any recorded images or other data
+10 is collected by the ATLE system; and
+11 (D) there is notice of the use of the ATLE system, including its
+12 location, on the municipality’s website; and
+13 (3) at locations with a high incidence of vehicle noise violations, if the
+14 municipal law enforcement agency with jurisdiction over the location
+15 determines, in its sole discretion, that it may be impractical or unsafe to utilize
+16 traditional law enforcement methods or that the use of traditional law
+17 enforcement personnel has failed to deter violators, provided that:
+18 (A) at least two signs notifying members of the traveling public of
+19 the use of an ATLE system are in place before any recorded images or other
+20 data is collected by the ATLE system; and
+VT LEG #385982 v.3
+
+BILL AS INTRODUCED S.263
+2026 Page 7 of 11
+1 (B) there is notice of the use of the ATLE system, including its
+2 location, on the municipality’s website.
+3 (d) Daily log.
+4 * * *
+5 (2) The daily log shall be retained for not fewer than three years by the
+6 Agency or the municipal law enforcement agency, as appropriate, and be
+7 admissible in any proceeding for a violation involving ATLE systems
+8 deployed on behalf of the Agency or the municipal law enforcement agency.
+9 (e) Annual calibration. All ATLE systems shall undergo an annual
+10 calibration check performed by an independent calibration laboratory. The
+11 calibration laboratory shall issue a signed certificate of calibration after the
+12 annual calibration check, which shall be retained for not fewer than three years
+13 by the Agency or the municipal law enforcement agency, as appropriate, and
+14 be admissible in any proceeding for a violation involving the ATLE system.
+15 (f) Penalty.
+16 (1) The owner of the motor vehicle bearing the rear registration number
+17 plate captured in a recorded image shall be liable for one of the following civil
+18 penalties unless, for the violation in question, the owner is convicted of
+19 exceeding the speed limit under chapter 13 of this title, violating the provisions
+20 of subdivision 1022(a)(3) of this title, operating the vehicle at a sound level
+VT LEG #385982 v.3
+
+BILL AS INTRODUCED S.263
+2026 Page 8 of 11
+1 that exceeds the maximum sound level permitted by a municipal ordinance, or
+2 has a defense under subsection (h) of this section:
+3 * * *
+4 (h) Defenses. The following shall be defenses to a violation under this
+5 section:
+6 * * *
+7 (2) that the radar or other detection component of the ATLE system was
+8 not properly calibrated or tested at the time of the violation.
+9 * * *
+10 (k) Review process and annual report.
+11 (1) The Agency of Transportation, in consultation with the Department
+12 of Public Safety, shall establish a review process to ensure that recorded
+13 images are used only for the purposes permitted by this section. The Agency
+14 of Transportation shall report the results of this review annually on or before
+15 January 15 to the Senate and House Committees on Judiciary and on
+16 Transportation. The report shall contain the following information based on
+17 prior calendar year data:
+18 (A) the total number of ATLE systems units being operated in the
+19 State on behalf of the Agency in the State and on behalf of municipal law
+20 enforcement agencies;
+VT LEG #385982 v.3
+
+BILL AS INTRODUCED S.263
+2026 Page 9 of 11
+1 (B) the terms of any contracts entered into with any vendors for the
+2 deployment of ATLE on behalf of the Agency or on behalf of municipal law
+3 enforcement agencies;
+4 (C) all of the locations where an ATLE system was deployed along
+5 with the dates and hours that the ATLE system was in operation;
+6 (D) the number of violations issued based on recorded images and
+7 the outcomes of those violations by category, including first, second, and third
+8 and subsequent violations and contested violations;
+9 (E) the number of recorded images the Agency and municipal law
+10 enforcement agencies submitted to the automated traffic law enforcement
+11 storage system;
+12 (F) the total amount paid in civil penalties; and
+13 (G) any recommended changes for the use of ATLE systems in
+14 Vermont.
+15 * * *
+16 Sec. 3. 23 V.S.A. § 1610 is added to read:
+17 § 1610. AUTHORIZATION OF MUNICIPAL ATLE USE
+18 (a) A municipal law enforcement agency shall not utilize ATLE within the
+19 municipality until affirmatively permitted to do so pursuant to subsection (b) of
+20 this section.
+VT LEG #385982 v.3
+
+BILL AS INTRODUCED S.263
+2026 Page 10 of 11
+1 (b)(1) A municipal law enforcement agency may submit a proposal to
+2 utilize ATLE within the municipality to the legislative body of the
+3 municipality. The proposal shall include information regarding:
+4 (A) the types of ATLE the law enforcement agency proposes to use;
+5 (B) the traffic offenses the ATLE is intended to address; and
+6 (C) whether the law enforcement agency proposes to purchase or
+7 lease the ATLE systems or to contract with a third party for the operation and
+8 deployment of ATLE system.
+9 (2) Following review of the proposal, the legislative body of the
+10 municipality shall determine whether to submit to the voters of the
+11 municipality the question of whether to utilize ATLE within the municipality
+12 in accordance with the proposal.
+13 (3) Upon a vote of approval by a majority of the voters present and
+14 voting at an annual or special meeting duly warned for that purpose, the
+15 municipal law enforcement agency may utilize ATLE within the municipality
+16 in accordance with the proposal.
+17 (c) A municipality may rescind the vote to approve ATLE use by a
+18 majority vote of those present and voting at an annual or special meeting
+19 warned for that purpose. A proposal to rescind the vote to approve ATLE use
+20 may be brought by petition of five percent of the voters of the municipality.
+VT LEG #385982 v.3
+
+BILL AS INTRODUCED S.263
+2026 Page 11 of 11
+1 Sec. 4. 2024 Acts and Resolves No. 135, Sec. 5 is amended to read:
+2 Sec. 5. PROSPECTIVE REPEAL
+3 4 V.S.A. § 1102(b)(33) (Vermont Judicial Bureau jurisdiction over
+4 automated traffic law enforcement violations) and 23 V.S.A. §§ 1606–1608
+5 (automated law enforcement) are repealed on July 1, 2027; provided, however,
+6 if the Agency is unable to secure federal funding for a work zone ATLE pilot
+7 program by June 30, 2025, then 4 V.S.A. § 1102(b)(33) and 23 V.S.A.
+8 §§ 1606–1608 are repealed on July 2, 2025 2029.
+9 Sec. 5. EFFECTIVE DATE
+10 This act shall take effect on July 1, 2026.
+VT LEG #385982 v.3

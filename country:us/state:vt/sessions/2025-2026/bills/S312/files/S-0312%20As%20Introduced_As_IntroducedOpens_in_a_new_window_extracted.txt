@@ -1,0 +1,101 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED S.312
+2026 Page 1 of 4
+1 S.312
+2 Introduced by Senators Beck, Ingalls and Morley
+3 Referred to Committee on
+4 Date:
+5 Subject: Taxation; income tax; tax credits; machinery and equipment
+6 investment tax credit
+7 Statement of purpose of bill as introduced: This bill proposes to change the
+8 corporate income tax credit for investment in machinery and equipment from a
+9 nonrefundable credit into a refundable credit and terminate the limitations on
+10 how much it can reduce income tax liability in a year. The bill extends the
+11 sunset for the credit from 2030 to 2034.
+12 An act relating to a refundable machinery and equipment investment tax
+13 credit
+14 It is hereby enacted by the General Assembly of the State of Vermont:
+15 Sec. 1. 32 V.S.A. § 5930ll is amended to read:
+16 § 5930ll. MACHINERY AND EQUIPMENT TAX CREDIT
+17 * * *
+18 (c) Amount of credit. Except as limited by subsections (e) and (f) of this
+19 section, a qualified taxpayer shall be entitled to claim against its Vermont
+VT LEG #385566 v.1
+
+BILL AS INTRODUCED S.312
+2026 Page 2 of 4
+1 income tax a credit in an amount equal to ten 10 percent of the total qualified
+2 capital expenditures.
+3 (d) Availability of credit.
+4 (1) The credit earned under this section with respect to qualified capital
+5 expenditures shall be available to reduce the qualified taxpayer’s Vermont
+6 income tax liability for its tax year beginning on or after January 1, 2012, or, if
+7 later, the first tax year within which the qualified taxpayer’s aggregate
+8 qualified capital expenditures exceed $20,000,000.00. A taxpayer claiming a
+9 credit under this subchapter shall submit with the first return on which a credit
+10 is claimed a copy of the qualified taxpayer’s certification from the Vermont
+11 Economic Progress Council.
+12 (2)(A) The credit may be used in the year earned or carried forward to
+13 reduce the qualified taxpayer’s Vermont income tax liability in succeeding tax
+14 years ending on or before December 31, 2030 2034.
+15 (B) If the credit earned under this section reduces the qualified
+16 taxpayer’s Vermont income tax liability in a year by more than 100 percent,
+17 the taxpayer may elect to have up to $500,000.00 of the excess credit amount
+18 refunded. If a refund election is made under this subdivision (B), any
+19 remaining credit amount after the refund shall be carried forward to reduce the
+20 qualified taxpayer’s Vermont income tax liability in succeeding tax years
+21 ending on or before December 31, 2034.
+VT LEG #385566 v.1
+
+BILL AS INTRODUCED S.312
+2026 Page 3 of 4
+1 (e) Limitations.
+2 (1) The credit earned under this section, either alone or in combination
+3 with any other credit allowed by this chapter, may not be applied to reduce the
+4 qualified taxpayer’s Vermont income tax liability in any one year by more than
+5 80 percent, and in no event shall the credit reduce the taxpayer’s income tax
+6 liability below any minimum tax imposed by this chapter. [Repealed.]
+7 (2) The total amount of credit authorized under this section shall be
+8 $8,000,000.00, and in no event shall the credit in any one tax year exceed
+9 $1,000,000.00. The credit shall be available on a first-come, first-served basis
+10 by certification of the Vermont Economic Progress Council pursuant to
+11 subsection (b) of this section.
+12 * * *
+13 (g) Reporting.
+14 (1) Any qualified taxpayer who has been certified under subsection (b)
+15 of this section shall file a report with the Vermont Economic Progress Council
+16 on a form prescribed by the Council for this purpose and provide a copy of the
+17 report to the Commissioner of Taxes.
+18 (2) The report shall be filed for each year following the certification
+19 until the year following the last year the taxpayer claims the credit to reduce its
+20 Vermont income tax liability, or 2031 2035, whichever occurs first.
+VT LEG #385566 v.1
+
+BILL AS INTRODUCED S.312
+2026 Page 4 of 4
+1 (3) The report shall be filed by the due date of the taxpayer’s tax return,
+2 including extensions, in each year for activity the previous calendar year and
+3 include, at a minimum:
+4 (A) the number of full-time jobs in each quarter and the average
+5 number of hours worked per week;
+6 (B) the level of qualifying capital investments made if reporting on a
+7 year within an investment period; and
+8 (C) the amount of tax credit earned and applied during the previous
+9 calendar year.
+10 Sec. 2. 2010 Acts and Resolves No. 156, Sec. H.2, as amended by 2024 Acts
+11 and Resolves, No. 144, Sec. 17, is further amended to read:
+12 Sec. H.2 REPEAL
+13 (a) Subchapter 11M of chapter 151 of Title 32 is repealed July 1, 2030
+14 2034, and no credit under that section shall be available for any taxable year
+15 beginning after June 30, 2030 2034.
+16 Sec. 3. EFFECTIVE DATE
+17 This act shall take effect on January 1, 2027, and apply to taxable years
+18 beginning on and after January 1, 2027.
+VT LEG #385566 v.1

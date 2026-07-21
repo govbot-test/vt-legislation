@@ -1,0 +1,49 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.554
+2026 Page 1 of 2
+1 H.554
+2 Introduced by Representatives Garofano of Essex and McGill of Bridport
+3 Referred to Committee on
+4 Date:
+5 Subject: Human services; Temporary Assistance for Needy Families; Reach
+6 Up; eligibility; asset limit
+7 Statement of purpose of bill as introduced: This bill proposes to remove the
+8 asset limit as a component of Reach Up eligibility.
+9 An act relating to removing the Reach Up asset limit
+10 It is hereby enacted by the General Assembly of the State of Vermont:
+11 Sec. 1. 33 V.S.A. § 1103 is amended to read:
+12 § 1103. ELIGIBILITY AND BENEFIT LEVELS
+13 * * *
+14 (c) The Commissioner shall adopt rules for the determination of eligibility
+15 for the Reach Up program and benefit levels for all participating families that
+16 include the following provisions:
+17 * * *
+18 (5)(A) The asset limitation shall be $9,000.00 for families for the
+19 purposes of determining initial and continuing eligibility for the Reach Up
+VT LEG #386110 v.1
+
+BILL AS INTRODUCED H.554
+2026 Page 2 of 2
+1 program, and the following savings accounts shall not be considered in the
+2 calculation for determining the asset limitation:
+3 (i) a retirement account, such as an individual retirement
+4 arrangement (IRA), a defined contribution plan qualified under 26 U.S.C. §
+5 401(k), or any similar account as defined in 26 U.S.C. § 408; and
+6 (ii) a qualified child education savings account, such as the
+7 Vermont Higher Education Investment Plan, established in 16 V.S.A. § 2877,
+8 or any similar plan qualified under 26 U.S.C. § 529. [Repealed.]
+9 (B) The value of assets accumulated from the earnings of adults and
+10 children in participating families and from any federal or Vermont earned
+11 income tax credit shall be excluded for purposes of determining continuing
+12 eligibility for the Reach Up program.
+13 * * *
+14 Sec. 2. EFFECTIVE DATE
+15 This act shall take effect on July 1, 2026.
+VT LEG #386110 v.1
