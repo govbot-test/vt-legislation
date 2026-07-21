@@ -1,0 +1,951 @@
+Title: 
+Official Title: 
+Source: versions - As Passed by Both House and Senate (OfficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.298
+2026 Page 1 of 35
+1 S.298
+2 Introduced by Senators Ram Hinsdale, White, Baruth, Bongartz, Brock,
+3 Chittenden, Clarkson, Cummings, Gulick, Hardy, Hashim,
+4 Lyons, Major, Perchlik, Plunkett, Vyhovsky, Watson and
+5 Westman
+6 Referred to Committee on Government Operations
+7 Date: January 23, 2026
+8 Subject: Elections; voting rights; conduct of elections; language assistance;
+9 election interference; periodic reapportionment; counting of offenders
+10 Statement of purpose of bill as introduced: This bill will explicitly prohibit
+11 discrimination based on race or color or membership in a language minority
+12 group. It will prohibit local racial gerrymandering. This bill proposes to
+13 create language assistance in voting and elections and voting assistance
+14 methods for individuals above 65 years of age and individuals with disabilities.
+15 It prohibits municipal electoral changes within 60 days preceding a general
+16 election and creates a pre-clearance system where municipalities must first
+17 seek authorization from the Attorney General’s office for changes to electoral
+18 districts or systems. This bill prohibits at-large districts where these would
+19 impair the ability of members of a protected class to elect candidates of its
+20 choice or its ability to influence the outcome of an election. It creates the
+21 Voter Education and Outreach Fund. This bill criminalizes the intimidation of
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.298
+2026 Page 2 of 35
+1 voters, the communication of false information to registered voters, and
+2 interference with voting. It also proposes to count certain offenders by their
+3 residential address prior to incarceration for the purpose of periodic
+4 reapportionment of districts for the General Assembly.
+5 An act relating to creating the Vermont Voting Rights Act
+An act relating to voter protections
+6 It is hereby enacted by the General Assembly of the State of Vermont:
+7 * * * Vermont Voting Rights Act * * *
+8 Sec. 1. 17 V.S.A. chapter 59 is added to read:
+9 CHAPTER 59. VERMONT VOTING RIGHTS ACT
+10 Subchapter 1. Definitions; Rights of Voters
+11 § 2801. DEFINITIONS
+12 As used in this chapter:
+13 (1) “Certification of No Objection” means a certification issued by the
+14 Attorney General stating that there is no objection to the enactment or
+15 administration of a covered practice by a municipality because the covered
+16 practice neither has the purpose or effect of denying or abridging the right to
+17 vote based on race or color or membership in a language minority group nor
+18 will result in the retrogression in the position of members of a racial or ethnic
+19 group with respect to their effective exercise of the electoral franchise.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.298
+2026 Page 3 of 35
+1 (2) “Covered practice” means:
+2 (A) any change to the method of election of members of a governing
+3 body or an elected school board by adding seats elected at large or by
+4 converting one or more seats elected from a single-member district to one or
+5 more at-large seats or seats from a multimember district;
+6 (B) any change, or series of changes within a 12-month period, to the
+7 boundaries of the municipality that reduces by more than five percentage
+8 points the proportion of the municipality’s voting age population that is
+9 composed of members of a single racial or language minority group, as
+10 determined by the most recent U.S. Census Bureau’s American Community
+11 Survey data;
+12 (C) any change to the boundaries of election districts or wards in the
+13 municipality, including changes made pursuant to a decennial redistricting
+14 measure;
+15 (D) any change that restricts the ability of any person to provide
+16 interpreter services to voters in any language other than English or that limits
+17 or impairs the creation or distribution of voting or election materials in any
+18 language other than English; or
+19 (E) any change that reduces the number of or consolidates or
+20 relocates polling places in the municipality, except where permitted by law in
+21 the event of an emergency.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.298
+2026 Page 4 of 35
+1 (3) “Municipality” means a town, city, village, school district, or other
+2 political subdivision that holds public elections.
+3 (4) “Protected class” means a group of citizens protected from
+4 discrimination based on race or color or membership in a language minority
+5 group.
+6 (5) “Racially polarized voting” refers to the extent to which the
+7 candidate preferences of members of a protected class and other voters in the
+8 jurisdiction have differed in recent elections for the office at issue and other
+9 offices in which the voters have been presented with a choice between
+10 candidates who are members of the protected class and candidates who are not
+11 members of the protected class.
+12 (6) “Voting age population” means the resident population of persons
+13 who are 18 years of age or older, as determined by the most recent U.S.
+14 Census Bureau’s American Community Survey data available at the time any
+15 change to a covered practice is published.
+16 § 2802. VOTE DENIALOR DILUTION
+17 (a) No voting qualification or prerequisite to voting or standard, practice,
+18 or procedure shall be imposed or applied by the State or any municipality in a
+19 manner that results in a denial or abridgement of the right of any citizen of the
+20 United States to vote based on race or color or membership in a language
+21 minority group.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.298
+2026 Page 5 of 35
+1 (b) A violation of subsection (a) of this section is established if, on the
+2 basis of the totality of circumstances, it is shown that the political processes
+3 leading to nomination or election in the State or a municipality are not equally
+4 open to participation by members of a protected class in that its members have
+5 less opportunity than other members of the electorate to participate in the
+6 political processes or to elect representatives of their choice. The extent to
+7 which members of a protected class have been elected to office in the State or
+8 municipality is one circumstance that may be considered.
+9 (c) Nothing in this section shall be construed to establish a right to have
+10 members of a protected class elected in numbers equal to their proportion in
+11 the population.
+12 § 2803. IMPAIRMENT OF VOTING RIGHTS OF REGISTERED VOTERS.
+13 Nothing in this chapter shall be construed to deny, impair, or otherwise
+14 adversely affect the right to vote of any registered voter.
+15 Subchapter 2. Assistance in Voting and Elections
+16 § 2811. LANGUAGE ASSISTANCE IN VOTING AND ELECTIONS
+17 (a) Determination of languages and municipalities.
+18 (1) The Secretary of State shall designate one or more languages, other
+19 than English, for which assistance in voting and elections shall be provided in
+20 a municipality if the Secretary finds that a significant and substantial need
+21 exists.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.298
+2026 Page 6 of 35
+1 (2) The Secretary of State shall find that such significant and substantial
+2 need exists if, based on the best available data, including information from the
+3 U.S. Census Bureau’s American Community Survey, more than five percent or
+4 more than 1,000 of the residents qualified to vote in a municipality speak a
+5 particular shared language other than English and are limited English
+6 proficient individuals.
+7 (3) As used in this section, “limited English proficient individual”
+8 means an individual who does not speak English as the individual’s primary
+9 language and who speaks, reads, or understands the English language less than
+10 “very well,” in accordance with U.S. Census Bureau data or data of
+11 comparable quality collected by a governmental entity.
+12 (4) On or before January 15, the Secretary of State shall annually
+13 publish on the website of the Office of the Secretary of State a list of each
+14 municipality in which assistance in voting and elections in a language other
+15 than English shall be provided and each such language in which such
+16 assistance shall be provided in each such municipality. The Secretary’s
+17 determinations under this section shall be effective upon such publication. The
+18 Secretary shall distribute to each affected municipality the information
+19 contained in such list.
+20 (b) Assistance to voters.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.298
+2026 Page 7 of 35
+1 (1) The Secretary, in consultation with each municipality described in
+2 subdivision (a)(4) of this section, shall provide assistance in voting and
+3 elections in any language designated pursuant to subdivision (a)(1) of this
+4 section to voters in that municipality who are limited English proficient
+5 individuals.
+6 (2) The Secretary shall provide competent assistance in each designated
+7 language. The Secretary shall provide election-related materials both in
+8 English and in each designated language, including registration or voting
+9 notices, forms, instructions, assistance, ballots, and other information relating
+10 to the electoral process, except that, in the case of a language that is oral or
+11 unwritten, the Secretary may provide only oral instructions, assistance, or
+12 other information relating to the electoral process in that language. All
+13 materials provided in a designated language shall be of an equal quality to the
+14 corresponding English materials. All provided translations shall convey the
+15 intent and essential meaning of the original text or communication and shall
+16 not rely solely on any automatic translation service. Whenever available,
+17 language assistance shall also include interpretation services.
+18 (c) Review process.
+19 (1) The Secretary of State shall adopt regulations, in accordance with
+20 the provisions of 3 V.S.A. chapter 25, to establish a review process under
+21 which the Secretary shall determine, upon receipt of a request submitted under
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.298
+2026 Page 8 of 35
+1 this subsection, whether a significant and substantial need exists in a
+2 municipality for a language to be designated for the provision of assistance in
+3 voting and elections whenever a need has not been found under subsection (a)
+4 of this section.
+5 (2) The Secretary’s review process shall include:
+6 (A) an opportunity for any resident qualified to vote, organization
+7 whose membership includes or is likely to include residents qualified to vote,
+8 or organization whose mission would be frustrated by the Secretary’s failure to
+9 provide such language assistance to submit a request for the Secretary to
+10 consider so designating a language in a municipality;
+11 (B) an opportunity for public comment; and
+12 (C) that, upon receipt and review of any request, the Secretary may,
+13 in accordance with the process for making such determination, so designate
+14 any language in a municipality.
+15 (d) Right of action. Any resident qualified to vote who is aggrieved by a
+16 violation of this section and any organization whose membership includes
+17 residents qualified to vote who are aggrieved by such a violation shall be
+18 entitled to initiate a cause of action in the Superior Court in the county in
+19 which the alleged violation has occurred, except that no determination of the
+20 Secretary under this section to designate a municipality or a language for the
+21 provision of assistance shall constitute a violation of this section.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.298
+2026 Page 9 of 35
+1 § 2812. ASSISTANCE FOR CERTAIN VOTERS; PENALTIES
+2 (a) Any voter 65 years of age or older or any voter who is physically
+3 disabled may request and then shall be handed a printed ballot by an election
+4 officer outside the polling place but within 150 feet of the entrance to the
+5 polling place. The voter shall mark the printed ballot in the officer’s presence
+6 but in a secret manner and, obscuring the voter’s vote, return the ballot to the
+7 officer. The officer shall immediately return to the polling place and shall
+8 deposit the ballot in accordance with section 2570 of this title.
+9 (b)(1) Any qualified voter who requires assistance to vote by reason of
+10 physical disability or inability to read or write may, if the voter so requests, be
+11 assisted in voting. The voter may designate an officer of election or any other
+12 person to assist the voter.
+13 (2) The election officer or other person so designated shall not enter the
+14 booth with the voter unless:
+15 (A) the voter signs a request stating that the voter requires assistance
+16 by reason of physical disability or inability to read or write; and
+17 (B) the election officer or other person signs a statement that the
+18 officer or other person will act in accordance with the requirements of this
+19 section.
+20 (3) The request and statement shall be on a single form furnished by the
+21 Secretary of State. If the voter is unable to sign the request, the voter’s own
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.298
+2026 Page 10 of 35
+1 mark acknowledged by the voter before an election officer shall be a sufficient
+2 signature, provided no mark shall be required of a voter who is blind. An
+3 election officer shall advise the voter and any person assisting the voter of the
+4 requirements of this section and record the name of the voter and the name and
+5 address of the person assisting the voter.
+6 (4) The election officer or other person so designated shall assist the
+7 qualified voter in the preparation of the voter’s ballot in accordance with the
+8 voter’s instructions and without soliciting the voter’s vote or in any manner
+9 attempting to influence the voter’s vote and shall not in any manner divulge or
+10 indicate, by signs or otherwise, how the voter voted on any office or question.
+11 The officer shall immediately deposit the ballot in accordance with section
+12 2570 of this title.
+13 (c) If the voter requires assistance in a language other than English and has
+14 not designated a person to assist the voter, an election officer may assist as an
+15 interpreter but shall first inquire of the present election officials whether there
+16 is an election official of a party or candidate of the voter’s preference available
+17 who can interpret for the voter. One representative interpreter for each party
+18 or candidate, insofar as available, shall be permitted to observe the officer of
+19 election communicate with the voter. In any municipality designated as a
+20 covered municipality pursuant to section 2811 of this title, the local board of
+21 civil authority shall ensure that interpretation services in the language of the
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.298
+2026 Page 11 of 35
+1 applicable minority group are available and easily accessible to voters needing
+2 assistance pursuant to this subsection. The voter may designate one of the
+3 volunteer party or candidate interpreters to provide assistance. A person so
+4 designated by the voter shall meet all the requirements of this section for a
+5 person providing assistance.
+6 (d) A person who willfully violates subsection (b) or (c) of this section
+7 shall be imprisoned not more than sixmonths or fined not more than
+8 $2,000.00, or both.
+9 Subchapter 3. Changes to Election Practices
+10 § 2821. CHANGES NOT TO BE EFFECTUATED WITHIN 60 DAYS
+11 PRECEDING A GENERALELECTION; NOTICE
+12 REQUIREMENTS
+13 No change in any local election district, ward, or polling place shall take
+14 effect within 60 days preceding any general election.
+15 § 2822. COVERED PRACTICES; ACTIONS REQUIRED PRIOR TO
+16 ENACTMENT OR ADMINISTRATION
+17 (a)(1) Prior to enacting or seeking to administer any voting qualification or
+18 prerequisite to voting, or any standard, practice, or procedure with respect to
+19 voting, that is a covered practice, the governing body shall cause to be
+20 published on the official website for the municipality the proposed covered
+21 practice and general notice of opportunity for public comment on the proposed
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.298
+2026 Page 12 of 35
+1 covered practice. The governing body shall also publicize the notice through
+2 press releases and such other media as will best serve the purpose and subject
+3 involved. Such notice shall be made at least 45 days in advance of the last
+4 date prescribed in the notice for public comment.
+5 (2) Public comment shall be accepted for a period of not fewer than 30
+6 days. During this period, the governing body shall afford interested persons an
+7 opportunity to submit data, views, and arguments in writing by mail, fax, or
+8 email, or through an online public comment forum on the official website for
+9 the municipality if one has been established. The governing body shall
+10 conduct at least one public hearing during this period to receive public
+11 comment on the proposed covered practice.
+12 (3) The governing body may make changes to the proposed covered
+13 practice in response to public comment received. If doing so, the revised
+14 covered practice shall be published and public comment shall be accepted in
+15 accordance with this subsection, except the public comment period shall be not
+16 fewer than 15 days.
+17 (b)(1) Following the public comment period or periods prescribed in
+18 subsection (a) of this section, the governing body shall publish the final
+19 covered practice, which shall include a plain English description of the
+20 practice and the text of an ordinance giving effect to the practice, maps of
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.298
+2026 Page 13 of 35
+1 proposed boundary changes, or other relevant materials, and notice that the
+2 covered practice will take effect in 30 days.
+3 (2) During the 30-day waiting period described in subdivision (1) of this
+4 subsection, any individual who will be subject to or affected by the covered
+5 practice may challenge in the Superior Court of the municipality where the
+6 covered practice is to be implemented the covered practice as:
+7 (A) having the purpose or effect of denying or abridging the right to
+8 vote on the basis of race or color or membership in a language minority group;
+9 or
+10 (B) resulting in the retrogression in the position of members of a
+11 racial or ethnic group with respect to their effective exercise of the electoral
+12 franchise.
+13 (3) In an action described in subdivision (2) of this subsection, the court
+14 may, in its discretion, allow a private plaintiff a reasonable attorney’s fee as
+15 part of the costs, if such plaintiff is the prevailing party.
+16 (c) The governing body of a municipality seeking to administer or
+17 implement a covered practice, in lieu of following the provisions of
+18 subsections (a) and (b) of this section, may submit the proposed covered
+19 practice to the Office of the Attorney General for issuance of a Certification of
+20 No Objection. The practice shall not be given effect until the Attorney
+21 General has issued the certification. A Certification of No Objection shall be
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.298
+2026 Page 14 of 35
+1 deemed to have been issued if the Attorney General does not interpose an
+2 objection within 60 days after the governing body’s submission or if, upon
+3 good cause shown and to facilitate an expedited approval within 60 days after
+4 the governing body’s submission, the Attorney General has affirmatively
+5 indicated that no such objection will be made. An affirmative indication by
+6 the Attorney General that no objection will be made or the absence of an
+7 objection to the covered practice by the Attorney General shall not bar a
+8 subsequent action to enjoin enforcement of such qualification, prerequisite,
+9 standard, practice, or procedure.
+10 § 2823. NOTICE REQUIREMENTS
+11 (a) In addition to the requirements set forth in section 2822 of this title,
+12 notice shall be published prior to enactment in a newspaper having general
+13 circulation in the election district or ward once a week for two successive
+14 weeks. The published notice shall state where descriptions and maps of
+15 proposed boundary and polling place changes may be inspected.
+16 (b) Notice of any adopted change in any election district, ward, or polling
+17 place shall be mailed to all registered voters whose election district, ward, or
+18 polling place is changed at least 15 days prior to the next general, special, or
+19 primary election in which the voters will be voting in the changed election
+20 district, ward, or polling place.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.298
+2026 Page 15 of 35
+1 (c) Each municipality shall comply with the applicable requirements of law
+2 and send copies of enacted changes, including a geographic information
+3 system (GIS) map showing the new boundaries of the districts or wards, to the
+4 Secretary of State. Any municipality that does not have GIS capabilities may
+5 request the Secretary of State to create on its behalf a GIS map showing the
+6 boundaries of the new districts or wards, and the Secretary of State shall create
+7 such a map.
+8 Subchapter 4. At-Large Method of Election
+9 § 2831. AT-LARGE METHOD OF ELECTION; LIMITATIONS;
+10 VIOLATIONS; REMEDIES
+11 (a) An at-large method of election, including one that combines at-large
+12 elections with district-or ward-based elections, shall not be imposed or applied
+13 by the governing body of any municipality in a manner that impairs the ability
+14 of members of a protected class to elect candidates of its choice or its ability to
+15 influence the outcome of an election, as a result of the dilution or the
+16 abridgement of the rights of voters who are members of a protected class.
+17 (b) A violation of subsection (a) of this section is established if it is shown
+18 that racially polarized voting occurs in the local election and that, in
+19 combination with the method of election, the voting strength of members of a
+20 protected class is diluted. A finding of racially polarized voting or a violation
+21 of subsection (a) of this section shall not be precluded by the fact that
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.298
+2026 Page 16 of 35
+1 members of a protected class are not geographically compact or concentrated
+2 in a municipality. Proof of an intent on the part of voters or elected officials to
+3 discriminate against members of a protected class shall not be required to
+4 prove a violation of subsection (a) of this section.
+5 (c) Any voter who is a member of a protected class and who resides in a
+6 municipality where a violation of this section is alleged shall be entitled to
+7 initiate a cause of action in the Superior Court in the county in which the
+8 alleged violation has occurred. In such action, the court may, in its discretion,
+9 allow a private plaintiff a reasonable attorney’s fee as part of the costs, if such
+10 plaintiff is the prevailing party.
+11 (d) Upon a finding of a violation of this section, the court shall implement
+12 appropriate remedies that are tailored to remedy the violation.
+13 Subchapter 5. Voter Education and Outreach Fund
+14 § 2841. VOTER EDUCATION AND OUTREACH FUND
+15 There is hereby created in the State Treasury a special nonreverting fund to
+16 be known as the Voter Education and Outreach Fund, referred to in this section
+17 as the Fund. All penalties and charges directed to this Fund by subchapter 7 of
+18 this chapter and all other funds from any public or private source directed to
+19 the Fund shall be paid into the State Treasury and credited to the Fund.
+20 Interest earned on monies in the Fund shall remain in the Fund and be credited
+21 to it. Any monies remaining in the Fund, including interest thereon, at the end
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.298
+2026 Page 17 of 35
+1 of each fiscal year shall not revert to the General Fund but shall remain in the
+2 Fund. Monies in the Fund shall be used solely for the purposes of educating
+3 voters and persons qualified to be voters on the rights ensured to them
+4 pursuant to federal and State constitutional and statutory law and remedies.
+5 The State Treasurer shall make expenditures and disbursements from the Fund
+6 upon written request signed by the Secretary of State or the Secretary’s
+7 designee.
+8 Subchapter 6. Election Interference
+9 § 2851. INTIMIDATION OF ELECTION OFFICERS
+10 Any person who, by bribery, intimidation, threats, coercion, or other means
+11 in violation of the election laws, willfully hinders or prevents, or attempts to
+12 hinder or prevent, an election officer at any polling place from holding an
+13 election shall be imprisoned not more than two years or fined not more than
+14 $2,000.00, or both.
+15 § 2852. INTIMIDATION OF VOTERS; CIVILCAUSE OF ACTION
+16 (a) Any person who intimidates, threatens, or coerces, or attempts to
+17 intimidate, threaten, or coerce, any other person in giving the person’s vote or
+18 ballot or who intimidates, threatens, or coerces, or attempts to intimidate,
+19 threaten, or coerce, a voter to deter or prevent the voter from voting shall be
+20 imprisoned not more than two years or fined not more than $2,000.00, or both.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.298
+2026 Page 18 of 35
+1 (b) In addition to the criminal penalty provided in subsection (a) of this
+2 section, such actions shall also create a private cause of action. A voter who is
+3 intimidated, threatened, or coerced by another person in violation of
+4 subsection (a) of this section shall be entitled to institute an action for
+5 preventive relief, including an application for a permanent or temporary
+6 injunction, restraining order, or other order, against such person. The action
+7 shall be initiated in the Superior Court in the county in which the alleged
+8 violation has occurred. In any such action, the court may, in its discretion,
+9 allow a private plaintiff a reasonable attorney’s fee as part of the costs, if such
+10 plaintiff is the prevailing party.
+11 (c) This section applies to any election and to any method used by a
+12 political party for selection of its nominees and for selection of delegates to its
+13 conventions and meetings.
+14 § 2853. COMMUNICATION OF FALSE INFORMATION TO
+15 REGISTERED VOTER
+16 (a) It shall be unlawful for any person to communicate to a registered
+17 voter, by any means, false information, knowing the same to be false, intended
+18 to impede the voter in the exercise of the voter’s right to vote. The provisions
+19 of this section shall apply to information only about the date, time, and place
+20 of the election, or the voter’s ward, polling place, or voter registration status,
+21 or how to register to vote.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.298
+2026 Page 19 of 35
+1 (b) Any person who violates the provisions of subsection (a) of this section
+2 shall be imprisoned not more than sixmonths or fined not more than
+3 $1,000.00, or both. A violation may be prosecuted in the Superior Court in
+4 either the county in which the alleged communication was made or in the
+5 county in which the communication was received, if different.
+6 (c) In addition to the criminal penalty provided in subsection (b) of this
+7 section, a violation of the provisions of this section shall also create a private
+8 cause of action. A registered voter to whom such false information is
+9 communicated shall be entitled to institute an action for preventive relief,
+10 including an application for a permanent or temporary injunction, restraining
+11 order, or other order, against the person communicating such false information.
+12 The action shall be initiated in the Superior Court in either the county in which
+13 the alleged communication was made or in the county in which the
+14 communication was received, if different. In any such action, the court may,
+15 in its discretion, allow a private plaintiff a reasonable attorney’s fee as part of
+16 the costs, if such plaintiff is the prevailing party.
+17 § 2854. INTERFERENCE WITH VOTING
+18 (a) Any person acting under the color of law who, contrary to an official
+19 policy or procedure, fails to permit, or refuses to permit, a qualified voter to
+20 vote, or who willfully fails or refuses to tabulate, count, or report the vote of a
+21 qualified voter, is subject to a civil penalty in an amount not more than
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.298
+2026 Page 20 of 35
+1 $1,000.00 for each affected voter. Civil penalties shall be payable to the Voter
+2 Education and Outreach Fund established pursuant to 2841.
+3 (b)(1) Any person who furnishes a ballot to a voter who that person knows
+4 cannot understand the language in which the ballot is printed and misinforms
+5 the voter as to the content of the ballot with an intent to deceive the voter and
+6 induce the voter to vote contrary to the voter’s desire shall be imprisoned not
+7 more than sixmonths or fined not more than $1,000.00, or both.
+8 (2) Any person who changes a ballot of a voter to prevent the voter
+9 from voting as the voter desires shall be imprisoned not more than sixmonths
+10 or fined not more than $1,000.00, or both.
+11 (3) This subsection applies to any election and to any method used by a
+12 political party for selection of its nominees and for selection of delegates to its
+13 conventions and meetings.
+14 Subchapter 7. Enforcement
+15 § 2861. CIVILACTIONS BY ATTORNEY GENERAL
+16 (a) Whenever the Attorney General has reasonable cause to believe that a
+17 violation of this chapter has occurred and that the rights of any voter or group
+18 of voters have been affected by such violation, the Attorney General may
+19 initiate a civil action in the Superior Court in the county in which the alleged
+20 violation has occurred for appropriate relief.
+21 (b) In such civil action, the court may:
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.298
+2026 Page 21 of 35
+1 (1) Award such preventive relief, including a permanent or temporary
+2 injunction, restraining order, or other order against the person responsible for a
+3 violation of this title, as is necessary to ensure the full enjoyment of the rights
+4 granted by this title.
+5 (2) Assess a civil penalty against the respondent in an amount not more
+6 than $5,000.00 for a first violation and in an amount not more than $25,000.00
+7 for any subsequent violation. Such civil penalties are payable to the Voter
+8 Education and Outreach Fund established pursuant to section 2841 of this title.
+9 (3) Award a prevailing plaintiff reasonable attorney’s fees and costs.
+10 (c) The court or jury may award such other relief to the aggrieved person
+11 as the court deems appropriate, including compensatory damages and punitive
+12 damages.
+13 * * * Counting Offenders in Reapportionment of Legislative Districts * * *
+14 Sec. 2. 17 V.S.A. § 1913 is added to read:
+15 § 1913. COUNTING OF OFFENDERS
+16 (a) Department of Corrections determination and sharing of offender
+17 residential information.
+18 (1) The Department of Corrections shall:
+19 (A) for each offender in the Department’s custody, determine the
+20 offender’s residential address prior to incarceration; and
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.298
+2026 Page 22 of 35
+1 (B) maintain an electronic record of offenders’ residential addresses
+2 prior to incarceration that shall determine the offenders’ residential addresses
+3 prior to incarceration on the date for which the decennial census reports
+4 population.
+5 (2) On or before May 1 of the year following each decennial census
+6 under the authority of Congress and in which the U.S. Census Bureau counts
+7 any offender as a resident of the town in which the offender’s respective
+8 correctional facility is located, the Department of Corrections shall deliver to
+9 the Legislative Apportionment Board, in a form as prescribed by the Board,
+10 the following information as determined on the date for which the decennial
+11 census reports population:
+12 (A) a unique identifier for each offender subject to the
+13 jurisdiction of the Department of Corrections;
+14 (B) the street address of the correctional facility in which each
+15 offender was incarcerated;
+16 (C) for each offender, an indication of whether the offender:
+17 (i) has attained 18 years of age; and
+18 (ii) is serving a sentence of life imprisonment without the
+19 possibility of release;
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.298
+2026 Page 23 of 35
+1 (D) each offender’s in-state residential address prior to incarceration,
+2 or an indication that the offender’s residential address prior to incarceration
+3 was:
+4 (i) outside Vermont; or
+5 (ii) unknown; and
+6 (E) any additional information requested by the Board otherwise
+7 permitted by law.
+8 (b) Legislative Apportionment Board use of offender address information.
+9 (1) For each offender included in a report received under subsection (a)
+10 of this section, the Board shall determine the geographic units for which
+11 population counts are reported in the decennial census, which units contain the
+12 address of the correctional facility in which an offender was incarcerated, and
+13 which contain an offender’s residential address prior to incarceration.
+14 (2) If an offender’s residential address prior to incarceration is known
+15 and is located within the State, the Board shall ensure that when creating
+16 proposals for dividing the State into initial districts for the election of the
+17 House of Representatives and the Senate, as described in sections 1905, 1906,
+18 and 1907 of this title, the relevant population counts reported in the decennial
+19 census are adjusted so that an offender is considered to have been residing at
+20 the offender’s residential address prior to incarceration and not at the address
+21 of the correctional facility where the offender was incarcerated.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.298
+2026 Page 24 of 35
+1 (3) If an offender’s residential address prior to incarceration is unknown
+2 or not in this State, the Board shall ensure that an offender is not represented in
+3 any applicable population count reported in the decennial census for the
+4 geographic units that include the correctional facility in which an offender was
+5 incarcerated.
+6 (4) Notwithstanding subdivisions (1)–(3) of this subsection, if an
+7 offender is serving a sentence of life imprisonment without the possibility of
+8 release, the Board shall ensure that an offender is represented in the applicable
+9 population count reported in the decennial census for the geographic units that
+10 include the correctional facility in which an offender was incarcerated.
+11 (5) The Board shall prepare and publish such information, both adjusted
+12 and unadjusted, pursuant to this subsection as part of its tentative proposal, as
+13 described in sections 1905 and 1907 of this title, and any subsequent
+14 proposals, including the Board’s final proposal, as described in section 1906 of
+15 this title.
+16 (c) Confidentiality of offender information. Notwithstanding any other
+17 statute to the contrary, the information required to be provided under this
+18 section shall not include the name of any offender or in any other way allow
+19 for the identification of the individual. This information is exempt from public
+20 inspection and copying under the Public Records Act and shall be kept
+21 confidential, except to the Board for the purposes of subsection (b) of this
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.298
+2026 Page 25 of 35
+1 section or as aggregated by decennial census block for the purposes of
+2 subdivision (b)(5) of this section.
+3 (d) Definition. As used in section, “offender” has the same meaning as in
+4 28 V.S.A. § 3(8).
+5 * * * Conforming Amendments * * *
+6 Sec. 3. REPEALS
+7 (a) 17 V.S.A. § 1933 (nonperformance of duty by public officer) is
+8 repealed.
+9 (b) 17 V.S.A. § 2569 (assistance to voter) is repealed.
+10 Sec. 4. 17 V.S.A. § 2570 is amended to read:
+11 § 2570. DEPOSITING BALLOTS
+12 * * *
+13 (c) Except as provided in section 2569 2812 of this title, no election
+14 official or other person shall look at the contents of any ballot.
+15 * * * Effective Date * * *
+16 Sec. 5. EFFECTIVE DATE
+17 This act shall take effect on January 1, 2027.
+* * * Vermont Voting Rights Act * * *
+Sec. 1. SHORT TITLE
+This act may be cited as the “Vermont Voting Rights Act of 2026.”
+Sec. 2. 17 V.S.A. chapter 59 is added to read:
+CHAPTER 59. VERMONT VOTING RIGHTS ACT
+Subchapter 1. Rights of Voters
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.298
+2026 Page 26 of 35
+§ 2801. DEFINITIONS
+As used in this chapter:
+(1) “Municipality” means a town, city, village, school district, or other
+political subdivision that holds public elections.
+(2) “Protected class” means a group of citizens protected from
+discrimination based on race or color or membership in a language minority
+group.
+§ 2802. VOTE DENIAL OR DILUTION
+(a) No voting qualification or prerequisite to voting or standard, practice,
+or procedure shall be imposed or applied by the State or any municipality in a
+manner that results in a denial or abridgement of the right of any citizen of the
+United States to vote based on race or color or membership in a language
+minority group.
+(b) A violation of subsection (a) of this section is established if, on the
+basis of the totality of circumstances, it is shown that the political processes
+leading to nomination or election in the State or a municipality are not equally
+open to participation by members of a protected class in that its members have
+less opportunity than other members of the electorate to participate in the
+political processes or to elect representatives of their choice. The extent to
+which members of a protected class have been elected to office in the State or
+municipality is one circumstance that may be considered.
+(c) Nothing in this section shall be construed to establish a right to have
+members of a protected class elected in numbers equal to their proportion in
+the population.
+§ 2803. IMPAIRMENT OF VOTING RIGHTS OF REGISTERED VOTERS
+Nothing in this chapter shall be construed to deny, impair, or otherwise
+adversely affect the right to vote of any registered voter.
+§ 2804. CIVIL ACTIONS BY ATTORNEY GENERAL
+(a) Whenever the Attorney General has reasonable cause to believe that a
+violation of this subchapter has occurred and that the rights of any voter or
+group of voters have been affected by such violation, the Attorney General may
+initiate a civil action in the Civil Division of the Superior Court in the county
+in which the alleged violation has occurred for appropriate relief.
+(b) In such civil action, the court may:
+(1) award such preventive relief, including a permanent or temporary
+injunction, restraining order, or other order against the person responsible for
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.298
+2026 Page 27 of 35
+a violation of this title, as is necessary to ensure the full enjoyment of the rights
+granted by this title;
+(2) assess a civil penalty against the respondent of not more than
+$5,000.00 for a first violation and of not more than $25,000.00 for any
+subsequent violation; and
+(3) issue an order requiring reimbursement to the State of Vermont for
+the reasonable value of its services and its expenses in investigating and
+prosecuting the action.
+Sec. 3. 17 V.S.A. chapter 35 is amended to read:
+CHAPTER 35. OFFENSES AGAINST THE PURITY OF ELECTIONS
+Subchapter 1. Penalties Upon Officers
+* * *
+§ 1934. INTERFERENCE WITH VOTING
+(a) An election officer or a person acting under color of the law shall not
+intentionally:
+(1) refuse to permit or fail to permit a qualified voter to vote;
+(2) refuse or fail to tabulate, count, or report the vote of a qualified
+voter;
+(3) change a ballot of a voter to prevent the voter from voting as the
+voter desires.
+(b)(1) A person who violates subdivision (a)(1) or (2) of this section shall
+be subject to a civil penalty of not more than $1,000.00 for each affected voter.
+(2) A person who violates subdivision (a)(3) or (4) of this section shall
+be imprisoned not more than six months or fined not more than $1,000.00, or
+both, for each affected voter.
+(c) This section applies to any election and to any method used by a
+political party for selection of its nominees and for selection of delegates to its
+conventions and meetings.
+* * *
+Subchapter 3. Miscellaneous
+* * *
+§ 2022. INTIMIDATION OF ELECTION OFFICERS
+(a) A person shall not intentionally, by bribery, intimidation, threats,
+coercion, or other means in violation of the election laws, hinder or prevent, or
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.298
+2026 Page 28 of 35
+attempt to hinder or prevent, an election officer at any polling place from
+holding an election.
+(b) A person who violates this section shall be imprisoned not more than
+two years or fined not more than $2,000.00, or both.
+§ 2023. INTIMIDATION OF VOTERS; CIVIL CAUSE OF ACTION
+(a) A person shall not intentionally intimidate, threaten, or coerce, or
+intentionally attempt to intimidate, threaten, or coerce:
+(1) any other person in giving the person’s vote or ballot; or
+(2) a voter to deter or prevent the voter from voting.
+(b) A person who violates this section shall be imprisoned not more than
+two years or fined not more than $2,000.00, or both.
+(c) In addition to the criminal penalty provided in subsection (b) of this
+section, such actions shall also create a private cause of action. A voter who
+is intimidated, threatened, or coerced by another person in violation of
+subsection (a) of this section shall be entitled to institute an action for
+injunctive relief, including an application for a permanent or temporary
+injunction, restraining order, or other order, against such person. The action
+shall be initiated in the Civil Division of the Superior Court in the county in
+which the alleged violation has occurred. A court may, in its discretion, allow
+a private plaintiff a reasonable attorney’s fee as part of the costs, if the
+plaintiff is the prevailing party.
+(d) This section applies to any election and to any method used by a
+political party for selection of its nominees and for selection of delegates to its
+conventions and meetings.
+§ 2024. COMMUNICATION OF FALSE INFORMATION TO
+ELIGIBLE VOTERS
+(a) A person shall not intentionally communicate to a registered voter false
+information, knowing the information to be false, for the purpose of impeding
+the voter in exercising the voter’s right to vote. The provisions of this section
+shall apply to information only about the date, time, or place of the election;
+how to register to vote; or a voter’s registration status.
+(b) Any person who violates the provisions of subsection (a) of this section
+shall be imprisoned not more than six months or fined not more than
+$1,000.00, or both. A violation may be prosecuted in the Superior Court in
+either the county in which the alleged communication was made or in the
+county in which the communication was received, if different.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.298
+2026 Page 29 of 35
+(c) In addition to the criminal penalty provided in subsection (b) of this
+section, a violation of the provisions of this section shall also create a private
+cause of action. A registered voter to whom such false information is
+communicated shall be entitled to institute an action for injunctive relief,
+including an application for a permanent or temporary injunction, restraining
+order, or other order, against the person communicating such false
+information. The action shall be initiated in the Superior Court in either the
+county in which the alleged communication was made or in the county in
+which the communication was received, if different. The court may, in its
+discretion, allow a private plaintiff a reasonable attorney’s fee as part of the
+costs, if the plaintiff is the prevailing party.
+* * *
+* * * Safety Protections for Candidates * * *
+Sec. 4. 17 V.S.A. § 2901 is amended to read:
+§ 2901. DEFINITIONS
+As used in this chapter:
+* * *
+(7) “Expenditure” means a payment, disbursement, distribution,
+advance, deposit, loan, or gift of money or anything of value, paid or promised
+to be paid, for the purpose of influencing an election, advocating a position on
+a public question, or supporting or opposing one or more candidates.
+(A) Expenditures may include those expenses that are necessary to
+allow a candidate to campaign, such as expenses for the care of a dependent
+family member that are incurred as a direct result of campaign activity or for
+the provision of security for the candidate.
+* * *
+* * * Effective Date * * *
+Sec. 5. EFFECTIVE DATE
+This act shall take effect on passage.
+* * * Voter Protections Act * * *
+Sec. 1. SHORT TITLE
+This act may be cited as the “Voter Protections Act of 2026.”
+Sec. 2. 17 V.S.A. chapter 35 is amended to read:
+CHAPTER 35. OFFENSES AGAINST THE PURITY OF ELECTIONS
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.298
+2026 Page 30 of 35
+* * *
+Subchapter 2. Penalties Upon Voters
+* * *
+§ 1972. SHOWING BALLOT; INTERFERENCE WITH VOTER
+(a) A voter who, except in cases of assistance as provided in this title,
+allows his or her the voter’s ballot to be seen by another person with an
+apparent intention of letting it be known how he or she the voter is about to
+vote or makes a false statement to the presiding officer at an election as to his
+or her the voter’s inability to mark his or her the voter’s ballot or places a
+distinguishing mark on his or her the voter’s ballot or a person who interferes
+with a voter when inside the guard rail or who, within the building in which
+the voting is proceeding, endeavors to induce a voter to vote for a particular
+candidate, shall be fined $1,000.00.
+(b) It shall be the duty of the election officers to see that the offender is
+duly prosecuted for a violation of this section.
+* * *
+§ 1975. INTERFERENCE WITH VOTERS AND ELECTION OFFICIALS
+(a) No person shall intentionally or recklessly intimidate, threaten, or
+coerce, or attempt to intimidate, threaten, or coerce:
+(1) any other person for the purpose of:
+(A) obstructing the right of the other person to vote or to vote as the
+other person may choose; or
+(B) causing the other person to vote for, or not to vote for, any
+candidate for public office or public question at any election; or
+(2) a public servant, an election official, or a public employee for the
+purpose of obstructing the administration of an election.
+(b) A person who violates subsection (a) of this section shall be imprisoned
+not more than two years or fined not more than $2,000.00, or both.
+§ 1976. IMPAIRMENT OF VOTING RIGHTS OF REGISTERED VOTERS
+Nothing in this chapter shall be construed to deny, impair, or otherwise
+adversely affect the right to vote of any registered voter.
+* * *
+Subchapter 4. Use of Synthetic Media in Elections
+* * *
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.298
+2026 Page 31 of 35
+Subchapter 5. Enforcement and Investigation
+* * *
+Subchapter 6. Voter Protections
+§ 2045. VOTE DENIAL OR DILUTION
+(a) No voting qualification or prerequisite to voting or standard, practice,
+or procedure shall be imposed or applied by the State or any municipality in a
+manner that results in a denial or abridgement of the right of any citizen of the
+United States to vote based on race or color, membership in a language
+minority group, or having a disability as defined in 9 V.S.A. § 4501.
+(b) A violation of subsection (a) of this section is established if, on the
+basis of the totality of circumstances, it is shown that the political processes
+leading to nomination or election in the State or a municipality are not equally
+open to participation by members of a protected class in that its members have
+less opportunity than other members of the electorate to participate in the
+political processes or to elect representatives of their choice. The extent to
+which members of a protected class have been elected to office in the State or
+municipality is one circumstance that may be considered.
+(c) Nothing in this section shall be construed to establish a right to have
+members of a protected class elected in numbers equal to their proportion in
+the population.
+(d) As used in this section:
+(1) “Municipality” means a town, city, village, school district, or other
+political subdivision that holds public elections.
+(2) “Protected class” means a group of citizens protected from
+discrimination based on race or color, membership in a language minority
+group, or having a disability as defined in 9 V.S.A. § 4501.
+§ 2046. CIVIL ACTIONS BY ATTORNEY GENERAL
+(a) Whenever the Attorney General has reasonable cause to believe that a
+violation of this subchapter has occurred and that the rights of any voter or
+group of voters have been affected by such violation, the Attorney General may
+initiate a civil action in the Civil Division of the Superior Court in the county
+in which the alleged violation has occurred for appropriate relief.
+(b) In such civil action, the court may:
+(1) award such preventive relief, including a permanent or temporary
+injunction, restraining order, or other order against the person responsible for
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.298
+2026 Page 32 of 35
+a violation of this title, as is necessary to ensure the full enjoyment of the rights
+granted by this title;
+(2) assess a civil penalty against the respondent of not more than
+$5,000.00 for a first violation and of not more than $25,000.00 for any
+subsequent violation; and
+(3) issue an order requiring reimbursement to the State of Vermont for
+the reasonable value of its services and its expenses in investigating and
+prosecuting the action.
+* * * Voter Checklists * * *
+Sec. 3. 17 V.S.A. § 2154 is amended to read:
+§ 2154. STATEWIDE VOTER CHECKLIST
+* * *
+(c)(1) Any person wishing to obtain a copy of all of the statewide voter
+checklist must, a municipality’s portion of the statewide voter checklist, or any
+other municipal voter checklist shall swear or affirm, under penalty of perjury
+pursuant to 13 V.S.A. chapter 65, that the person will not:
+(A) use the checklist for commercial purposes; or
+(B) knowingly disclose the checklist to any foreign government or to
+a federal agency or commission or to a person acting on behalf of a foreign
+government or of such a federal entity in circumvention of the prohibited
+purposes for using the checklist set forth in subdivision (b)(2) of this section.
+(2) The In the case of the statewide voter checklist, the affirmation shall
+be filed with the Secretary of State. In the case of a municipality’s portion of
+the statewide voter checklist or any other municipal voter checklist, the
+affirmation shall be filed with the municipal clerk.
+* * *
+* * * Disclosures for Candidates for State, Legislative, and
+County Office * * *
+Sec. 4. 17 V.S.A. § 2414 is amended to read:
+§ 2414. CANDIDATES FOR STATE AND, LEGISLATIVE, AND
+COUNTY OFFICE; DISCLOSURE FORM
+* * *
+(f)(1) The State Ethics Commission shall provide informational resources
+to candidates and answer candidates’ questions regarding the requirements of
+this section, how to accurately complete and submit the disclosure form, and
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.298
+2026 Page 33 of 35
+the penalties for failing to properly file the disclosure form pursuant to section
+2415 of this title. The Commission shall make available on its web page the
+disclosure form, preprepared responses to frequently asked questions, and any
+informational resources and materials that it deems necessary to adequately
+inform candidates of how to comply with the provisions of this section. Upon
+contact by a candidate, the Commission shall provide answers to the
+candidate’s questions by email or by phone, whichever the candidate may
+prefer.
+(2) The Office of the Secretary of State shall provide hyperlinks from its
+web page connecting to the disclosure form and other materials and resources
+required of the State Ethics Commission pursuant to subdivision (1) of this
+subsection.
+Sec. 4. CANDIDATES FOR STATE, LEGISLATIVE, AND
+COUNTY OFFICE; DISCLOSURE FORM
+Through May 30, 2027:
+(1) The State Ethics Commission shall provide informational resources
+to candidates and answer candidates’ questions regarding the requirements of
+17 V.S.A. § 2414, how to accurately complete and submit the candidate
+disclosure form, and the penalties for failing to properly file the disclosure
+form pursuant to 17 V.S.A. § 2415. The Commission shall make available on
+its web page the disclosure form, preprepared responses to frequently asked
+questions, and any informational resources and materials that it deems
+necessary to adequately inform candidates of how to comply with the
+provisions of 17 V.S.A. §§ 2414 and 2415.
+(2) The Office of the Secretary of State shall provide hyperlinks from its
+web page connecting to the disclosure form and other materials and resources
+required of the State Ethics Commission pursuant to subdivision (1) of this
+section.
+Sec. 4a. MANAGEMENT OF CANDIDATE DISCLOSURE FORMS;
+REPORT
+On or before January 30, 2027, the State Ethics Commission and the
+Secretary of State’s Office shall report to the House Committee on Government
+Operations and Military Affairs and the Senate Committee on Government
+Operations their combined and shared recommendations on how to best
+manage candidate disclosure forms required under 17 V.S.A. §§ 2414 and
+2415.
+Sec. 4b. 17 V.S.A. § 2901 is amended to read:
+§ 2901. DEFINITIONS
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.298
+2026 Page 34 of 35
+As used in this chapter:
+* * *
+(13) “Political committee” or “political action committee” means any
+formal or informal committee of one or more individuals or a corporation,
+labor organization, public interest group, or other entity, not including a
+political party, that accepts contributions or and makes expenditures in any
+amounts in any two-year general election cycle for the purpose of supporting
+or opposing one or more candidates, influencing an election, or advocating a
+position on a public question in any election, and includes a legislative
+leadership political committee.
+* * *
+Sec. 5. SUSPENSION OF DISCLOSURE PENALTIES FOR
+CANDIDATES FOR STATE, LEGISLATIVE, AND COUNTY
+OFFICE
+Notwithstanding 17 V.S.A. § 2415, through May 30, 2027, the State Ethics
+Commission shall not enforce against any delinquent filers, nor shall the
+Office of the Secretary of State notify the State Ethics Commission of the
+names of delinquent filers, nor shall the candidates for State office, county
+office, State Senator, and State Representative be otherwise penalized for
+delinquently filing a disclosure.
+* * * Safety Protections for Candidates * * *
+Sec. 6. 17 V.S.A. § 2901 is amended to read:
+§ 2901. DEFINITIONS
+As used in this chapter:
+* * *
+(7) “Expenditure” means a payment, disbursement, distribution,
+advance, deposit, loan, or gift of money or anything of value, paid or promised
+to be paid, for the purpose of influencing an election, advocating a position on
+a public question, or supporting or opposing one or more candidates.
+(A) Expenditures may include those expenses that are necessary to
+allow a candidate to campaign, such as expenses for the care of a dependent
+family member that are incurred as a direct result of campaign activity or for
+the provision of monitoring systems, protective detail, and cybersecurity
+related to a candidate’s security.
+* * *
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.298
+2026 Page 35 of 35
+* * * Effective Date * * *
+Sec. 7. EFFECTIVE DATE
+This act shall take effect on passage.

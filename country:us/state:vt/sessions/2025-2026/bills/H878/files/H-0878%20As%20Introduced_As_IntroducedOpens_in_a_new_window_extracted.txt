@@ -1,0 +1,140 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.878
+2026 Page 1 of 6
+1 H.878
+2 Introduced by Representatives Harvey of Castleton, Bosch of Clarendon,
+3 Coffin of Cavendish, Goslant of Northfield, Labor of Morgan,
+4 Malay of Pittsford, Morgan, M. of Milton, Nielsen of Brandon,
+5 North of Ferrisburgh, Pinsonault of Dorset, Powers of
+6 Waterford, Tagliavia of Corinth, and Winter of Ludlow
+7 Referred to Committee on
+8 Date:
+9 Subject: Taxation; income tax; Social Security income; tax exemption;
+10 property tax
+11 Statement of purpose of bill as introduced: This bill proposes to exempt all
+12 Social Security benefits from income tax and cap annual property tax increases
+13 at one percent.
+14 An act relating to Vermont income and education property taxes
+15 It is hereby enacted by the General Assembly of the State of Vermont:
+16 Sec. 1. 32 V.S.A. § 5830e is amended to read:
+17 § 5830e. RETIREMENT INCOME; SOCIAL SECURITY INCOME
+18 (a) Social Security income. The portion of federally taxable Social Security
+19 benefits excluded from taxable income under subdivision 5811(21)(B)(iv) of
+20 this chapter shall be as follows:
+VT LEG #386323 v.1
+
+BILL AS INTRODUCED H.878
+2026 Page 2 of 6
+1 (1) For taxpayers whose filing status is single, married filing separately,
+2 head of household, or surviving spouse:
+3 (A) If the federal adjusted gross income of the taxpayer is less than or
+4 equal to $55,000.00, all federally taxable benefits received under the federal
+5 Social Security Act shall be excluded.
+6 (B) If the federal adjusted gross income of the taxpayer is greater
+7 than $55,000.00 but less than $65,000.00, the percentage of federally taxable
+8 benefits received under the Social Security Act to be excluded shall be
+9 proportional to the amount of the taxpayer’s federal adjusted gross income
+10 over $55,000.00, determined by:
+11 (i) subtracting the federal adjusted gross income of the taxpayer
+12 from $65,000.00;
+13 (ii) dividing the value under subdivision (i) of this subdivision (B)
+14 by $10,000.00; and
+15 (iii) multiplying the value under subdivision (ii) of this subdivision
+16 (B) by the federally taxable benefits received under the Social Security Act.
+17 (C) If the federal adjusted gross income of the taxpayer is equal to or
+18 greater than $65,000.00, no amount of the federally taxable benefits received
+19 under the Social Security Act shall be excluded under this section.
+VT LEG #386323 v.1
+
+BILL AS INTRODUCED H.878
+2026 Page 3 of 6
+1 (2) For taxpayers whose filing status is married filing jointly:
+2 (A) If the federal adjusted gross income of the taxpayer is less than or
+3 equal to $70,000.00, all federally taxable benefits received under the Social
+4 Security Act shall be excluded.
+5 (B) If the federal adjusted gross income of the taxpayer is greater than
+6 $70,000.00 but less than $80,000.00, the percentage of federally taxable
+7 benefits received under the Social Security Act to be excluded shall be
+8 proportional to the amount of the taxpayer’s federal adjusted gross income
+9 over $70,000.00, determined by:
+10 (i) subtracting the federal adjusted gross income of the taxpayer
+11 from $80,000.00;
+12 (ii) dividing the value under subdivision (i) of this subdivision (B)
+13 by $10,000.00; and
+14 (iii) multiplying the value under subdivision (ii) of this subdivision
+15 (B) by the federally taxable benefits received under the Social Security Act.
+16 (C) If the federal adjusted gross income of the taxpayer is equal to or
+17 greater than $80,000.00, no amount of the federally taxable benefits received
+18 under the Social Security Act shall be excluded under this section. [Repealed.]
+19 * * *
+20 (e)(1) Requirement to elect one exclusion. A taxpayer of this State who is
+21 eligible during the taxable year for more than one of the exclusions under
+VT LEG #386323 v.1
+
+BILL AS INTRODUCED H.878
+2026 Page 4 of 6
+1 subsections (a), subsection (b), and or (c) of this section shall elect only one of
+2 the exclusions for which the taxpayer is eligible.
+3 (2) A taxpayer of this State who is eligible during the taxable year for
+4 the military retirement and survivor benefit exclusion under subsection (d) of
+5 this section may elect that exclusion regardless of whether the taxpayer also
+6 elects an exclusion under subsections (a)–(c) subsection (b) or (c) of this
+7 section.
+8 Sec. 2. 32 V.S.A. § 5811 is amended to read:
+9 § 5811. DEFINITIONS
+10 As used in this chapter unless the context requires otherwise:
+11 * * *
+12 (21) “Taxable income” means, in the case of an individual, federal
+13 adjusted gross income determined without regard to 26 U.S.C. § 168(k) and:
+14 * * *
+15 (B) decreased by the following items of income (to the extent such
+16 income is included in federal adjusted gross income):
+17 * * *
+18 (iv) the portion of certain retirement income and federally taxable
+19 benefits received under the federal Social Security Act that is required to be
+20 excluded under section 5830e of this chapter and all federally taxable benefits
+21 received under the Social Security Act;
+VT LEG #386323 v.1
+
+BILL AS INTRODUCED H.878
+2026 Page 5 of 6
+1 * * *
+2 Sec. 3. 32 V.S.A. § 5813 is amended to read:
+3 § 5813. STATUTORY PURPOSES
+4 * * *
+5 (w) The statutory purpose of the partial exemption of federally taxable
+6 benefits under the Social Security Act and certain retirement income in section
+7 5830e of this title is to lessen the tax burden on Vermonters with low to
+8 moderate income who derive part of their income from Social Security benefits
+9 and certain retirement income.
+10 * * *
+11 (bb) The statutory purpose of the exemption of all federally taxable
+12 benefits under the Social Security Act in subdivision 5811(21)(B)(iv) of this
+13 title is to lessen the tax burden on Vermonters who derive part of their income
+14 from Social Security benefits.
+15 Sec. 4. 32 V.S.A. § 5402 is amended to read:
+16 § 5402. EDUCATION PROPERTY TAX LIABILITY
+17 * * *
+18 (g) Notwithstanding any other provision of law to the contrary, the property
+19 dollar equivalent yield and income dollar equivalent yield established under
+20 this section and section 5402b of this chapter shall be calculated so that the
+VT LEG #386323 v.1
+
+BILL AS INTRODUCED H.878
+2026 Page 6 of 6
+1 average homestead property tax bill in Vermont increases by not more than
+2 one percent over the previous year.
+3 * * *
+4 Sec. 5. EFFECTIVE DATES
+5 (a) Notwithstanding 1 V.S.A. § 214, this section, Secs. 1–3 (Social Security
+6 income) shall take effect retroactively on January 1, 2026, and apply to taxable
+7 years beginning on and after January 1, 2026.
+8 (b) Sec. 4 (property tax cap) shall take effect on January 1, 2027.
+VT LEG #386323 v.1

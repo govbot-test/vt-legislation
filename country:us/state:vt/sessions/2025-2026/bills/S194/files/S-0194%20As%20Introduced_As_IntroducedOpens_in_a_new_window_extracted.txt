@@ -1,0 +1,88 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED S.194
+2026 Page 1 of 4
+1 S.194
+2 Introduced by Senator Lyons
+3 Referred to Committee on
+4 Date:
+5 Subject: Human services; designated and specialized service agencies;
+6 payment methodology
+7 Statement of purpose of bill as introduced: This bill proposes to implement a
+8 monthly prospective payment methodology for designated and specialized
+9 service agencies.
+10 An act relating to designated and specialized service agency payment
+11 methodology
+12 It is hereby enacted by the General Assembly of the State of Vermont:
+13 Sec. 1. 33 V.S.A. § 911 is amended to read:
+14 § 911. PAYMENT RATES FOR PROVIDERS OF COMMUNITY-BASED
+15 SERVICES
+16 (a) The Secretary of Human Services shall calculate payment rates for
+17 providers of community-based services that are reasonable and adequate to
+18 achieve the required outcomes for the populations they serve. When
+19 calculating these payment rates, the Secretary:
+VT LEG #386019 v.1
+
+BILL AS INTRODUCED S.194
+2026 Page 2 of 4
+1 (1) for informational purposes, shall ensure that the calculations take
+2 into account factors that include:
+3 (A) the reasonable cost of any governmental mandate that has been
+4 enacted, adopted, or imposed by any State or federal authority; and
+5 (B) a cost adjustment factor to reflect changes in reasonable costs of
+6 goods to and services of providers of community-based services, including
+7 those attributed to inflation and labor market dynamics; and
+8 (2) may consider geographic differences in wages, benefits, housing,
+9 and real estate costs in each region of the State.
+10 (b) The Secretary shall establish a methodology for calculating payment
+11 rates for providers of community-based services in accordance with this
+12 section. The methodology shall:
+13 (1) provide a schedule for conducting studies of the Medicaid
+14 reimbursement rates paid to the providers of community-based services,
+15 including the rates’ adequacy and their underlying methodologies, that
+16 includes studying the rates paid to providers for each type of service at least
+17 once every five years require a monthly prospective payment issued to each
+18 community-based service provider on the first day of the month on which a
+19 service is to be provided, reflecting:
+20 (A) per-member per-month amounts calculated from the most
+21 recently approved independent budgets; and
+VT LEG #386019 v.1
+
+BILL AS INTRODUCED S.194
+2026 Page 3 of 4
+1 (B) the number of individuals with approved individual budgets;
+2 (2) set forth a predictable timeline for redetermination of base rates;
+3 (3) include a process for calculating an annual inflationary rate
+4 adjustment;
+5 (4)(3) to the extent permitted by the Centers for Medicare and Medicaid
+6 Services, take into account the financial needs of providers whose
+7 reimbursements may be negatively affected by client absences; and
+8 (5)(4) use Vermont labor market rates and Vermont costs of operation.
+9 (c) The Secretary shall establish a process by which a provider of
+10 community-based services whose financial condition places it at imminent risk
+11 of closure may request provider stabilization from the Agency.
+12 (d) The Secretary shall recalculate the payment rates for providers of
+13 community-based services in accordance with this section at least annually and
+14 shall report those rates, and the amounts necessary to fund them, to the House
+15 Committees on Appropriations, on Human Services, and on Health Care and
+16 the Senate Committees on Appropriations and on Health and Welfare annually
+17 as part of the Agency’s budget presentation.
+18 (e) Community-based service providers shall submit monthly encounter
+19 data and invoices to the Agency, which shall inform subsequent monthly
+20 payments. The Agency shall conduct a reconciliation process at least annually
+21 to ensure alignment between authorized services and actual delivery of
+VT LEG #386019 v.1
+
+BILL AS INTRODUCED S.194
+2026 Page 4 of 4
+1 services. The reconciliation process shall include census validation, funding
+2 accuracy, and value-based performance metrics.
+3 Sec. 2. EFFECTIVE DATE
+4 This act shall take effect on July 1, 2026.
+VT LEG #386019 v.1

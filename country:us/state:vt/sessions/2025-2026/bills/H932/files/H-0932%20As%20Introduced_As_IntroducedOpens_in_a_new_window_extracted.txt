@@ -1,0 +1,75 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.932
+2026 Page 1 of 3
+1 H.932
+2 Introduced by Committee on Agriculture, Food Resiliency, and Forestry
+3 Date:
+4 Subject: Conservation and development; land use; forestry; Act 250
+5 Statement of purpose of bill as introduced: This bill proposes to clarify Act
+6 250 jurisdiction over forestry by specifying that on a parcel devoted primarily
+7 to forestry, that jurisdiction only attaches to the part of the property that is for
+8 development. It would also exempt log and pulp concentration yards from Act
+9 250. It would also clarify that forestry and logging below 2,500 feet in
+10 elevation is exempt from Act 250, provided it does not violate any other Act
+11 250 permit conditions.
+12 An act relating to the regulation of forestry under Act 250
+13 It is hereby enacted by the General Assembly of the State of Vermont:
+14 Sec. 1. 10 V.S.A. § 6001 is amended to read:
+15 § 6001. DEFINITIONS
+16 As used in this chapter:
+17 * * *
+18 (3)(A) “Development” means each of the following:
+19 * * *
+VT LEG #387365 v.2
+
+BILL AS INTRODUCED H.932
+2026 Page 2 of 3
+1 (C) For the purposes of determining jurisdiction under subdivision
+2 (3)(A) of this section subdivision (3), the following shall apply:
+3 * * *
+4 (vi) Forestry as referenced in subdivision (D) of this subdivision
+5 (3) does not include conversion of land for nonexempt uses, such as for a
+6 commercial or industrial purpose constituting development as defined in this
+7 chapter.
+8 * * *
+9 (F) When development is proposed to occur on a parcel or tract of
+10 land that is devoted to logging and forestry, only those portions of the parcel or
+11 the tract that support the development shall be subject to regulation under this
+12 chapter. Permits issued under this chapter shall not impose conditions on other
+13 portions of the parcel or tract of land that do not support the development or
+14 necessary mitigation areas and that restrict or conflict with the Acceptable
+15 Management Practices for Maintaining Water Quality on Logging Jobs in
+16 Vermont.
+17 * * *
+18 (44) “Wood products manufacturer” means a manufacturer that
+19 aggregates wood products from forestry operations and adds value through
+20 processing or marketing in the wood products supply chain or directly to
+21 consumers through retail sales. “Wood products manufacturer” includes
+VT LEG #387365 v.2
+
+BILL AS INTRODUCED H.932
+2026 Page 3 of 3
+1 sawmills; veneer mills; pulp mills; pellet mills; and producers of firewood,
+2 woodchips, mulch, and fuel wood; and log and pulp concentration yards.
+3 “Wood products manufacturer” does not include facilities that purchase,
+4 market, and resell finished goods, such as wood furniture, wood pellets, and
+5 milled lumber, without first receiving wood products from forestry operations.
+6 * * *
+7 Sec. 2. 10 V.S.A. § 6081 is amended to read:
+8 § 6081. PERMITS REQUIRED; EXEMPTIONS
+9 * * *
+10 (ee) No permit or permit amendment is required for logging and forestry
+11 below the elevation of 2,500 feet that will not conflict with or violate any
+12 condition of a permit issued pursuant to this chapter. Permits shall include a
+13 statement that logging and forestry activities consistent with this subsection
+14 and below the elevation of 2,500 feet are exempt from amendment jurisdiction.
+15 Sec. 3. EFFECTIVE DATE
+16 This act shall take effect on July 1, 2026.
+VT LEG #387365 v.2

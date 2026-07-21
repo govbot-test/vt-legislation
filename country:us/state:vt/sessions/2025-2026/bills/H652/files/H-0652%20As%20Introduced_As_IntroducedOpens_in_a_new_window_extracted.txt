@@ -1,0 +1,146 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.652
+2026 Page 1 of 6
+1 H.652
+2 Introduced by Representatives Page of Newport City, Labor of Morgan,
+3 Campbell of St. Johnsbury, Cina of Burlington, Donahue of
+4 Northfield, Galfetti of Barre Town, Hango of Berkshire, Harple
+5 of Glover, Holcombe of Norwich, Kascenska of Burke,
+6 Kleppner of Burlington, McFaun of Barre Town, Mrowicki of
+7 Putney, Ode of Burlington, Olson of Starksboro, Pinsonault of
+8 Dorset, Pouech of Hinesburg, Sibilia of Dover, Sweeney of
+9 Shelburne, Wells of Brownington, and White of Waitsfield
+10 Referred to Committee on
+11 Date:
+12 Subject: Conservation and development; water quality; discharges; landfills
+13 Statement of purpose of bill as introduced: This bill proposes to prohibit the
+14 discharge of leachate from a landfill or a solid waste management facility into
+15 the watershed of Lake Memphremagog regardless of whether the leachate has
+16 been treated or is untreated. The bill would prohibit both direct discharge from
+17 a landfill or a solid waste management facility and the transfer of the leachate
+18 to a wastewater treatment facility in the watershed of Lake Memphremagog for
+19 discharge.
+20 An act relating to wastewater discharges from landfills
+VT LEG #385582 v.1
+
+BILL AS INTRODUCED H.652
+2026 Page 2 of 6
+1 It is hereby enacted by the General Assembly of the State of Vermont:
+2 Sec. 1. FINDINGS
+3 The General Assembly finds that:
+4 (1) Lake Memphremagog is of integral importance to Vermont and
+5 Quebec as the lake:
+6 (A) is the largest body of water in northeastern Vermont and
+7 southeastern Quebec;
+8 (B) provides over 175,000 individuals with drinking water in the
+9 municipalities of Sherbrooke, Magog, Potton, and Saint-Benoît-du-Lac;
+10 (C) is an important economic driver in northeastern Vermont and
+11 southeastern Canada, drawing individuals and resources for its beautiful
+12 landscapes and numerous recreational opportunities; and
+13 (D) is a precious natural resource and habitat for fish and wildlife.
+14 (2) Vermont environmental agencies need to take on a greater role in the
+15 oversight and restriction of discharges that may cause impairments to northerly
+16 flowing Lake Memphremagog as more than 100 permanent or intermittent
+17 tributaries feed the Lake, including the Black River in Coventry, with 71
+18 percent of the watershed located in Vermont.
+19 (3) Prior to the issuance of the Act 250 permit to New England Waste
+20 Services of Vermont in 2019 prohibiting the disposal of landfill leachate in the
+21 Lake Memphremagog watershed, 15,000 gallons per day of toxic landfill
+VT LEG #385582 v.1
+
+BILL AS INTRODUCED H.652
+2026 Page 3 of 6
+1 leachate were disposed of, untreated for perfluoroalkyl and polyfluoroalkyl
+2 substances (PFAS), in Newport’s wastewater treatment facility.
+3 (4) Current leachate treatment systems are incapable of removing all
+4 hazardous PFAS from leachate. Therefore, Lake Memphremagog must be
+5 protected from chemically contaminated discharges into the lake and
+6 watershed that are proven to be harmful to human and environmental health.
+7 (5) PFAS contamination of Lake Memphremagog’s waters has been
+8 identified in numerous reports by the Agency of Natural Resources (ANR), the
+9 Department of Fish and Wildlife, and others; for example, in an ANR study
+10 entitled 2021 Vermont Per- and Polyfluoroalkyl Substances (PFAS) Surface
+11 Water, Fish Tissue, and Wastewater Treatment Facility Effluent Monitoring
+12 Report, Lake Memphremagog measured highest of all surface waters sampled
+13 or analyzed for perfluorooctanesulfonic acid (PFOS), at 2.8 parts per trillion
+14 (ppt) at mid-lake, which is 70 percent of the maximum contaminant level of 4
+15 ppt for PFOS.
+16 (6) In the ANR study in the Vermont Per- and Polyfluoroalkyl
+17 Substances (PFAS) Surface Water, Fish Tissue, and Wastewater Treatment
+18 Facility Effluent Monitoring Report:
+19 (A) four species of fish in Lake Memphremagog that were sampled
+20 and analyzed for hazardous PFOS measured equivalent to 1,000 ppt; and
+VT LEG #385582 v.1
+
+BILL AS INTRODUCED H.652
+2026 Page 4 of 6
+1 (B) the City of Newport’s wastewater treatment facility measured
+2 higher for PFAS than any other Vermont wastewater treatment facility
+3 sampled and analyzed in the study.
+4 (7) In the 2020 U.S. Geological Survey (USGS) publication Malignant
+5 Melanoma of Brown Bullhead (Ameiurus nebulosus) in Lake Memphremagog,
+6 Vermont Quebec, the USGS found a prevalence of 30 percent of adult brown
+7 bullhead had malignant melanoma. Cancerous brown bullheads are found in
+8 no other waterbodies in Vermont.
+9 (8) PFAS chemicals are proven to accumulate in the environment
+10 and bioaccumulate in organisms, including in humans.
+11 (9) PFAS chemicals are proven to cause harmful health effects,
+12 including up to 10 types of cancers; endocrine disruption leading to problems
+13 with reproduction, development, and metabolism; hypertension; and numerous
+14 other serious health impairments.
+15 (10) As more PFAS chemicals enter the groundwater and surface water
+16 system of the Lake Memphremagog watershed, levels of these chemicals will
+17 increase, lasting for decades and longer.
+18 (11) To address the environmental and public health concerns posed by
+19 the disposal of PFAS to the waters of Vermont, the State should permanently
+20 prohibit the discharge of landfill leachate, treated or untreated, anywhere in the
+21 Lake Memphremagog watershed, either by direct discharge into the watershed,
+VT LEG #385582 v.1
+
+BILL AS INTRODUCED H.652
+2026 Page 5 of 6
+1 or by discharge into a wastewater treatment facility that discharges into the
+2 Lake Memphremagog watershed.
+3 Sec. 2. 10 V.S.A. § 1259 is amended to read:
+4 § 1259. PROHIBITIONS
+5 (a) No person shall discharge any waste, substance, or material into waters
+6 of the State, nor shall any person discharge any waste, substance, or material
+7 into an injection well or discharge into a publicly owned treatment works any
+8 waste that interferes with, passes through without treatment, or is otherwise
+9 incompatible with those works or would have a substantial adverse effect on
+10 those works or on water quality, without first obtaining a permit for that
+11 discharge from the Secretary. This subsection shall not prohibit the proper
+12 application of fertilizer to fields and crops, nor reduce or affect the authority or
+13 policy declared in Joint House Resolution 7 of the 1971 Session of the General
+14 Assembly.
+15 * * *
+16 (j) No person shall discharge waste from hydraulic fracturing, as that term
+17 is defined in 29 V.S.A. § 503, into or from a pollution abatement facility, as
+18 that term is defined in section 1278 of this title.
+19 (k)(1) No person shall discharge leachate from a landfill or a solid waste
+20 management facility into a water within the Lake Memphremagog watershed
+21 regardless of whether the leachate has been treated or is untreated. The
+VT LEG #385582 v.1
+
+BILL AS INTRODUCED H.652
+2026 Page 6 of 6
+1 prohibition on the discharge of PFAS into a water within the Lake
+2 Memphremagog watershed includes the prohibition on direct discharges from a
+3 landfill or solid waste management facility and the prohibition on the transfer
+4 of the leachate to a wastewater treatment facility in Vermont for subsequent
+5 discharge into a water within the Lake Memphremagog watershed.
+6 (2) As used in this subsection:
+7 (A) “Landfill” has the same meaning as “sanitary landfill” in section
+8 6602 of this title.
+9 (B) “Solid waste management facility” has the same meaning as
+10 “facility” in section 6602 of this title.
+11 Sec. 3. EFFECTIVE DATE
+12 This act shall take effect on passage.
+VT LEG #385582 v.1

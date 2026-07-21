@@ -1,0 +1,52 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.783
+2026 Page 1 of 2
+1 H.783
+2 Introduced by Representatives Priestley of Bradford, Berbeco of Winooski,
+3 Burrows of West Windsor, Chapin of East Montpelier, Cole of
+4 Hartford, Donahue of Northfield, Graning of Jericho, Headrick
+5 of Burlington, Holcombe of Norwich, Kleppner of Burlington,
+6 McCann of Montpelier, McGill of Bridport, Mrowicki of
+7 Putney, Nugent of South Burlington, Ode of Burlington, Olson
+8 of Starksboro, Pouech of Hinesburg, Rachelson of Burlington,
+9 Scheu of Middlebury, Sibilia of Dover, Sweeney of Shelburne,
+10 Tomlinson of Winooski, and Torre of Moretown
+11 Referred to Committee on
+12 Date:
+13 Subject: Commerce and trade; consumer protection; chatbot disclosure
+14 Statement of purpose of bill as introduced: This bill proposes to require that a
+15 person operating a chatbot in a commercial transaction disclose to a consumer
+16 that the consumer is interacting with a chatbot, if a reasonable person could be
+17 misled into thinking the chatbot is a human.
+18 An act relating to chatbot disclosure requirements
+VT LEG #386301 v.1
+
+BILL AS INTRODUCED H.783
+2026 Page 2 of 2
+1 It is hereby enacted by the General Assembly of the State of Vermont:
+2 Sec. 1. 9 V.S.A. § 2466e is added to read:
+3 § 2466e. CHATBOT DISCLOSURE
+4 (a) No person shall engage in a commercial transaction or trade practice
+5 with a consumer in which the consumer is communicating or otherwise
+6 interacting with a chatbot that may mislead or deceive a reasonable person to
+7 believe the person is engaging with an actual human, whether or not any
+8 consumer is in fact misled or deceived, unless the consumer is notified in a
+9 clear and conspicuous manner that the consumer is communicating with a
+10 chatbot and not an actual human being.
+11 (b) As used in this section, “chatbot” means any artificial intelligence,
+12 algorithmic, or automated system that generates information via text, audio,
+13 image, or video in a manner that simulates interpersonal interactions or
+14 conversation. “Chatbot” includes artificial intelligence agents, avatars, or
+15 other computer technology that engages in textual or aural conversations.
+16 (c) A person who violates subsection (a) of this section commits an unfair
+17 and deceptive act in commerce in violation of section 2453 of this title.
+18 Sec. 2. EFFECTIVE DATE
+19 This act shall take effect on July 1, 2026.
+VT LEG #386301 v.1

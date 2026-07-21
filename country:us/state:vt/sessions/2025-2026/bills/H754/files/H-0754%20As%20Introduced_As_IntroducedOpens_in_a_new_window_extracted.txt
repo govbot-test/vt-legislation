@@ -1,0 +1,184 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.754
+2026 Page 1 of 8
+1 H.754
+2 Introduced by Representatives Dobrovich of Williamstown, Bosch of
+3 Clarendon, Boutin of Barre City, Burtt of Cabot, Coffin of
+4 Cavendish, Galfetti of Barre Town, Goslant of Northfield,
+5 Luneau of St. Albans City, Maguire of Rutland City, Micklus of
+6 Milton, Morgan, M. of Milton, Nielsen of Brandon, Pinsonault
+7 of Dorset, Southworth of Walden, Taylor of Milton, and Wells
+8 of Brownington
+9 Referred to Committee on
+10 Date:
+11 Subject: Crimes; sentencing; corrections
+12 Statement of purpose of bill as introduced: This bill proposes to establish a
+13 repeat violent offender statute that permits the State to seek stricter penalties
+14 for a person upon a third conviction for a felony crime of violence, establish
+15 higher penalties for aggravated assault against a protected professional, and
+16 require victim input prior to the acceptance of a plea agreement.
+17 An act relating to repeat violent offenders, assaults against a protected
+18 professional, and victim input on plea agreements
+VT LEG #385336 v.2
+
+BILL AS INTRODUCED H.754
+2026 Page 2 of 8
+1 It is hereby enacted by the General Assembly of the State of Vermont:
+2 Sec. 1. 13 V.S.A. § 11b is added to read:
+3 § 11b. REPEAT VIOLENT OFFENDER
+4 (a) As used in this section, “felony crime of violence” means a felony, an
+5 element of which involves an act of violence against another person.
+6 (b) The State may elect to seek the substitute penalty as set forth in this
+7 section against a person who, after having been at least two times convicted of
+8 a felony crime of violence, is convicted of a third felony crime of violence.
+9 (c) If the State seeks a substitute penalty for a felony crime of violence, it
+10 shall give notice to the defendant by filing an information seeking the penalty
+11 contained in this section.
+12 (d) A person charged under this section shall be sentenced upon conviction
+13 of such third or subsequent offense to imprisonment of not less than three
+14 years, up to and including life.
+15 (e) The three-year minimum term of imprisonment provided by this section
+16 shall be served and shall not be suspended, deferred, or served as a supervised
+17 sentence. The defendant shall not be eligible for probation, parole, furlough,
+18 or any other type of early release until the expiration of the three-year term of
+19 imprisonment.
+20 (f) For the purposes of this section, multiple convictions that arise out of
+21 the same criminal transaction shall be treated as one conviction.
+VT LEG #385336 v.2
+
+BILL AS INTRODUCED H.754
+2026 Page 3 of 8
+1 Sec. 2. 13 V.S.A. § 1028 is amended to read:
+2 § 1028. ASSAULT OF PROTECTED PROFESSIONAL; ASSAULT WITH
+3 BODILY FLUIDS
+4 (a)(1) A person convicted of a simple or aggravated assault against a
+5 protected professional as defined in subdivision (d)(1) of this section while the
+6 protected professional is performing a lawful duty, or with the intent to prevent
+7 the protected professional from performing his or her the professional’s lawful
+8 duty, in addition to any other penalties imposed under sections 1023 and 1024
+9 of this title, shall:
+10 (1)(A) for the first offense, be imprisoned not less than 90 days and
+11 not more than one year or fined not more than $2,500.00, or both;
+12 (2)(B) for the second offense and each subsequent offenses offense,
+13 be imprisoned not less than one year and not more than 10 years or fined not
+14 more than $5,000.00, or both.
+15 (2) A person convicted of aggravated assault against a protected
+16 professional as defined in subdivision (d)(1) of this section while the protected
+17 professional is performing a lawful duty, or with the intent to prevent the
+18 protected professional from performing the professional’s lawful duty, in
+19 addition to any other penalties imposed under sections 1023 and 1024 of this
+20 title, shall be imprisoned not less than two years and not more than seven
+21 years, fined not more than $10,000.00, or both.
+VT LEG #385336 v.2
+
+BILL AS INTRODUCED H.754
+2026 Page 4 of 8
+1 (b)(1) No person shall intentionally cause blood, vomitus, excrement,
+2 mucus, saliva, semen, or urine to come in contact with a protected professional
+3 while the person professional is performing a lawful duty.
+4 (2) A person who violates this subsection shall be imprisoned not more
+5 than one year or fined not more than $1,000.00, or both.
+6 (c) In imposing a sentence under this section, the court shall take into
+7 consideration whether the defendant was a patient at the time of the offense
+8 and had a psychiatric illness, the symptoms of which were exacerbated by the
+9 surrounding circumstances, irrespective of whether the illness constituted an
+10 affirmative defense to the charge.
+11 (d) As used in this section:
+12 (1) “Protected professional” shall mean means a law enforcement
+13 officer; a firefighter; a health care worker; an employee, contractor, or grantee
+14 of the Department for Children and Families; or any emergency medical
+15 personnel as defined in 24 V.S.A. § 2651(6).
+16 (2) “Health care facility” shall have has the same meaning as defined in
+17 18 V.S.A. § 9432(8).
+18 (3) “Health care worker” means an employee of a health care facility or
+19 a licensed physician who is on the medical staff of a health care facility who
+20 provides direct care to patients or who is part of a team-response team response
+21 to a patient or visitor incident involving real or potential violence.
+VT LEG #385336 v.2
+
+BILL AS INTRODUCED H.754
+2026 Page 5 of 8
+1 (e) This section shall not apply to an individual under 18 years of age
+2 residing in a residential rehabilitation facility.
+3 Sec. 3. 13 V.S.A. § 5321 is amended to read:
+4 § 5321. APPEARANCE BY VICTIM
+5 (a) The victim of a crime has the following rights in any sentencing
+6 proceedings concerning the person convicted of that crime, or in the event a
+7 proposed plea agreement filed with the court recommends a deferred sentence,
+8 at any change of plea hearing concerning the person charged with committing
+9 that crime:
+10 (1) to be given advance notice by the prosecutor’s office of the date of
+11 the proceedings; and
+12 (2) to appear, personally, to express reasonably his or her the victim’s
+13 views concerning the crime, the person convicted, and the need for restitution.
+14 (b) The change of plea hearing or sentencing shall not be delayed or voided
+15 by reason of the failure to give the victim the required notice or the failure of
+16 the victim to appear Upon the request of a victim of a listed crime, prior to the
+17 acceptance by the court of a plea of a defendant pursuant to a proposed plea
+18 agreement, the prosecutor shall provide such victim with the terms of the
+19 proposed plea agreement in writing. If the prosecutor’s office is unable to
+20 notify the victim, the prosecutor shall sign a statement indicating such and the
+21 attempts that were made to comply with this subsection. If the terms of the
+VT LEG #385336 v.2
+
+BILL AS INTRODUCED H.754
+2026 Page 6 of 8
+1 proposed plea agreement provide for a term of imprisonment that is more than
+2 two years or a total effective sentence of more than a two-year term of
+3 imprisonment, the prosecutor’s office shall indicate:
+4 (1) the maximum period of imprisonment that may apply to the
+5 defendant;
+6 (2) whether the defendant may be eligible to earn risk reduction credits;
+7 and
+8 (3) whether the defendant may be eligible to apply for release on
+9 probation, furlough, or parole.
+10 (c) In accordance with court rules, at the sentencing or change of plea
+11 hearing, the court shall ask if the victim is present and, if so, whether the
+12 victim would like to be heard regarding sentencing or the proposed deferral of
+13 sentencing. In imposing the sentence or considering whether to defer
+14 sentencing, the court shall consider any views offered at the hearing by the
+15 victim. The statement may include the victim’s opinion of any plea agreement.
+16 If the victim is not present, the court shall ask whether the victim has
+17 expressed, either orally or in writing, views regarding sentencing or the
+18 proposed deferral of sentencing and shall take those views into consideration in
+19 imposing the sentence or considering whether to defer sentencing.
+20 (d) At or before the sentencing hearing, the prosecutor’s office shall
+21 instruct the victim of a listed crime, in all cases where in which the court
+VT LEG #385336 v.2
+
+BILL AS INTRODUCED H.754
+2026 Page 7 of 8
+1 imposes a sentence that includes a period of incarceration, that a sentence of
+2 incarceration is to the custody of the Commissioner of Corrections and that the
+3 Commissioner of Corrections has the authority to affect the actual time the
+4 defendant shall serve in incarceration through earned time credit, furlough,
+5 work-release work release, and other early release programs. In addition, the
+6 prosecutor’s office shall explain the significance of a minimum and maximum
+7 sentence to the victim, explain the function of parole and how it may affect the
+8 actual amount of time the defendant may be incarcerated, and inform the
+9 victim of the maximum amount of earned time that the defendant could accrue
+10 and that earned time only affects when a defendant is eligible for parole
+11 consideration but does not necessarily result in the defendant’s release.
+12 (e) At or before a change of plea hearing where the plea agreement filed
+13 with the court proposes a deferred sentence, the prosecutor’s office shall
+14 instruct the victim of a listed crime about the significance of a deferred
+15 sentence and the potential consequences of a violation of conditions imposed
+16 by the court. In addition, the prosecutor’s office shall consult with the victim
+17 concerning any proposed probation conditions prior to the hearing.
+18 (f) The prosecutor’s office shall use all reasonable efforts to keep the
+19 victim informed and consult with the victim throughout the plea agreement
+20 negotiation process in any case involving a victim of a listed crime.
+VT LEG #385336 v.2
+
+BILL AS INTRODUCED H.754
+2026 Page 8 of 8
+1 Sec. 4. EFFECTIVE DATE
+2 This act shall take effect on July 1, 2026.
+VT LEG #385336 v.2

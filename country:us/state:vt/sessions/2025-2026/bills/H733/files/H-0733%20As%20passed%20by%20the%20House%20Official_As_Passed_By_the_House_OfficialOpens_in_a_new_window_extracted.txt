@@ -1,0 +1,528 @@
+Title: 
+Official Title: 
+Source: versions - As Passed By the House (OfficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILLAS PASSED BY THE HOUSE H.733
+2026 Page 1 of 23
+1 H.733
+2 Introduced by Representatives Marcotte of Coventry, Graning of Jericho,
+3 Bosch of Clarendon, Carris Duncan of Whitingham, Duke of
+4 Burlington, Micklus of Milton, Olson of Starksboro, Page of
+5 Newport City, and White of Bethel
+6 Referred to Committee on
+7 Date:
+8 Subject: Commerce and trade; franchise agreement regulation
+9 Statement of purpose of bill as introduced: This bill proposes to regulate the
+10 relationship between franchisors and franchisees in this State, including the
+11 regulation of franchise agreements.
+12 An act relating to the regulation of franchise agreements
+An act relating to designating a franchise relationship
+13 It is hereby enacted by the General Assembly of the State of Vermont:
+14 Sec. 1. 9 V.S.A. chapter 106 is added to read:
+15 CHAPTER 106. FRANCHISE AGREEMENTS
+16 § 4051. DEFINITIONS
+17 As used in this chapter:
+
+BILLAS PASSED BY THE HOUSE H.733
+2026 Page 2 of 23
+1 (1)(A) “Agreement not to compete” means an agreement between a
+2 franchisor and franchisee that restricts the franchisee after separating from the
+3 franchisor from operating its business:
+4 (i) in a certain geographic area;
+5 (ii) for a certain period of time; or
+6 (iii) in any other way that significantly impacts the ability of the
+7 franchisee to compete with the franchisor.
+8 (B) An agreement not to compete does not include an agreement that
+9 prohibits the disclosure of trade secrets as defined in section 4601 of this title
+10 or a nondisclosure agreement that protects confidential business information
+11 that does not constitute a trade secret.
+12 (2) “Franchise” means the brand, name, trademark, or other identifying
+13 information owned and managed by a franchisor.
+14 (3) “Franchise agreement” means an agreement in which a franchisor
+15 grants a franchisee the right to operate a business or to offer, sell, or distribute
+16 goods or services identified or associated with the franchisor’s trademark.
+17 (4) “Franchised business” means a business that is being operated by a
+18 franchisee that is subject to a franchise agreement with a franchisor.
+19 (5) “Franchisee” means a person that currently operates or formerly
+20 operated a business under a franchisor’s brand, name, trademark, or other
+21 identifying information, pursuant to a franchise agreement.
+
+BILLAS PASSED BY THE HOUSE H.733
+2026 Page 3 of 23
+1 (6) “Franchisor” means a person that sells the right to operate a business
+2 to a franchisee pursuant to a franchise agreement.
+3 § 4052. TERMINATION BY FRANCHISOR
+4 (a) Except as otherwise provided in this chapter, no franchisor shall
+5 terminate a franchise agreement prior to the expiration of its term, except for
+6 good cause.
+7 (b) Except as provided in subsection (c) of this section, good cause shall be
+8 limited to the failure of the franchisee to substantially comply with the lawful
+9 requirements imposed upon the franchisee by the franchise agreement after
+10 being given written notice not less than 60 days in advance of the termination
+11 and a reasonable opportunity to cure the failure, which shall be not less than 60
+12 days after receipt of the notice of noncompliance.
+13 (c) If, during the period in which the franchise agreement is in effect, there
+14 occurs any of the following events that are relevant to the franchised business,
+15 immediate notice of termination by the franchisor without an opportunity to
+16 cure shall be deemed reasonable:
+17 (1) The franchisee is the subject of an order for relief in bankruptcy or
+18 judicially determined to be insolvent, all or a substantial part of the assets
+19 thereof are assigned to or for the benefit of any creditor, or the franchisee
+20 admits the franchisee’s inability to pay the franchisee’s debts as they come
+21 due.
+
+BILLAS PASSED BY THE HOUSE H.733
+2026 Page 4 of 23
+1 (2) The franchisee abandons the franchised business by failing to
+2 operate the business for five consecutive days during which the franchisee is
+3 required to operate the business under the terms of the franchise agreement,
+4 unless such failure to operate is due to fire, flood, earthquake, or other similar
+5 causes beyond the franchisee’s control.
+6 (3) The franchisor and franchisee agree in writing to terminate the
+7 franchise agreement.
+8 (4) The franchisee makes any material misrepresentations relating to the
+9 acquisition of the franchised business or the franchisee engages in conduct that
+10 reflects materially and unfavorably upon the operation and reputation of the
+11 franchised business.
+12 (5) The franchisee fails, for a period of 10 days after notification of
+13 noncompliance, to comply with any federal, State, or local law or regulation,
+14 including all health, safety, building, and labor laws or regulations applicable
+15 to the operation of the franchised business.
+16 (6) The franchisee, after curing any failure pursuant to subsection (b) of
+17 this section, engages in the same noncompliance, whether or not such
+18 noncompliance is corrected after notice, in excess of three times in a calendar
+19 year.
+
+BILLAS PASSED BY THE HOUSE H.733
+2026 Page 5 of 23
+1 (7) The franchisee repeatedly fails to substantially comply with the
+2 lawful requirements of the franchise agreement, whether or not corrected after
+3 notice.
+4 (8) The franchisee or business premises of the franchisee are seized,
+5 taken over, or foreclosed by a government official in the exercise the official’s
+6 duties or seized, taken over, or foreclosed by a creditor, lienholder, or lessor,
+7 provided that a final judgment against the franchisee remains unsatisfied for 30
+8 days, unless a supersedeas or other appeal bond has been filed or a levy of
+9 execution has been made upon the license granted by the franchise agreement
+10 or upon any property used in the franchised business and it is not discharged
+11 within five days following such levy.
+12 (9) The franchisee is convicted of a felony or any other criminal
+13 misconduct that is relevant to the operation of the franchise.
+14 (10) The franchisee fails to pay any franchise fees or other amounts due
+15 to the franchisor or its affiliate not less than 10 days after receiving written
+16 notice that such fees are overdue.
+17 (11) The franchisor is able to meet the burden of proof that the
+18 continued operation of the franchised business by the franchisee will result in
+19 an imminent danger to public health or safety.
+20 § 4053. INVENTORY AFTER TERMINATION OR NONRENEWAL
+
+BILLAS PASSED BY THE HOUSE H.733
+2026 Page 6 of 23
+1 (a) Except as provided in this section, upon a lawful termination or
+2 nonrenewal of a franchise agreement pursuant to this chapter, the franchisor
+3 shall purchase from the franchisee, at the then-current market value, all
+4 inventory, supplies, equipment, fixtures, furnishings, and improvements
+5 purchased or paid for under the terms of the franchise agreement or any
+6 ancillary or collateral agreement by the franchisee from or to the franchisor or
+7 its approved suppliers and sources, that are, at the time of the notice of
+8 termination or nonrenewal, in the possession of the franchisee or used by the
+9 franchisee in the franchised business. The franchisor shall have the right to
+10 receive clear title to and possession of all items purchased from the franchisee
+11 pursuant to this section.
+12 (b) This section shall not require the franchisor to purchase any
+13 personalized items or inventory, supplies, equipment, fixtures, or furnishings:
+14 (1) not reasonably required to conduct the operation of the franchised
+15 business in accordance with the franchise agreement or any ancillary or
+16 collateral agreement; or
+17 (2) to which the franchisee, at the cessation of operation of the
+18 franchised business by the franchisee, cannot lawfully, or does not, grant the
+19 franchisor clear title and possession upon the franchisor’s payment to the
+20 franchisee for the inventory, supplies, equipment, fixtures, or furnishings.
+21 (c) This section shall not apply:
+
+BILLAS PASSED BY THE HOUSE H.733
+2026 Page 7 of 23
+1 (1) when the franchisee declines a bona fide offer of renewal from the
+2 franchisor, which does not include an agreement that is substantially different
+3 than the original contract, including royalties and fees paid, split of revenue
+4 share, or term of contract;
+5 (2) if the franchisor does not prevent the franchisee from retaining
+6 control of the principal place of the franchised business;
+7 (3) to any termination or nonrenewal of a franchise due to a publicly
+8 announced and nondiscriminatory decision by the franchisor to completely
+9 withdraw from all franchise activity within the relevant geographic market
+10 area in which the franchised business is located;
+11 (4) if the franchisor and franchisee mutually agree in writing to
+12 terminate or not renew the franchise agreement; and
+13 (5) to any inventory, supplies, equipment, fixtures, or furnishings that
+14 are sold by the franchisee between the date of the notice of termination or
+15 nonrenewal and the cessation of operation of the franchised business, by the
+16 franchisee, pursuant to the termination or nonrenewal.
+17 (d) Upon the termination or nonrenewal of a franchise agreement, a
+18 franchisor may offset against the amounts owed to a franchisee under this
+19 section any amounts owed by the franchisee to the franchisor if the:
+20 (1) franchisee agrees to the amount owed; or
+21 (2) franchisor has received a final adjudication of any amounts owed.
+
+BILLAS PASSED BY THE HOUSE H.733
+2026 Page 8 of 23
+1 § 4054. NONRENEWAL
+2 (a) Advance notice. No franchisor shall fail to renew a franchise
+3 agreement unless such franchisor provides the franchisee with written notice of
+4 its intention not to renew at least 180 days before the termination date of the
+5 agreement; and
+6 (1) during the 180 days prior to termination of the franchise agreement
+7 the franchisor permits the franchisee to sell the franchisee’s business to a
+8 purchaser meeting the franchisor’s then-current requirements for granting new
+9 franchises, or if the franchisor is not granting a significant number of new
+10 franchises, the then-current requirements for granting renewal franchises; or
+11 (2) the refusal to renew is not for the purpose of converting the
+12 franchisee’s business premises to operation by employees or agents of the
+13 franchisor for such franchisor’s own account, provided that nothing in this
+14 subdivision or subdivision (1) of this subsection shall prohibit a franchisor
+15 from exercising a right of first refusal to purchase the franchisee’s business;
+16 and
+17 (A) termination would be permitted pursuant to section 4052 of this
+18 title;
+19 (B) the franchisee and the franchisor agree not to renew the
+20 franchise; or
+
+BILLAS PASSED BY THE HOUSE H.733
+2026 Page 9 of 23
+1 (C) the franchisor withdraws from distributing its products or
+2 services through franchises in the geographic market served by the franchisee,
+3 provided that:
+4 (i) the franchisor, during the period of time after giving notice
+5 pursuant to this subsection (a), offers such franchisee a right of first refusal of
+6 not less than 30 days of a bona fide offer made by another to purchase such
+7 franchisor’s interest in such premises;
+8 (ii) in the case of the sale, transfer, or assignment to another
+9 person of the franchisor’s interest in one or more other controlled marketing
+10 premises, such other person in good faith offers the franchisee a franchise on
+11 substantially the same terms and conditions currently being offered by such
+12 other person to other franchisees; or
+13 (iii) the franchisor and the franchisee fail to agree to changes or
+14 additions to the terms and conditions of the franchise agreement, if such
+15 changes or additions would result in renewal of the franchise agreement on
+16 substantially the same terms and conditions on which the franchisor is then
+17 customarily granting renewal franchises, or if the franchisor is not then
+18 granting a significant number of renewal franchises, the terms and conditions
+19 on which the franchisor is then customarily granting new franchises.
+20 (b) Nothing in subsection (a) of this section shall prohibit a franchisor from
+21 offering or agreeing before expiration of the current franchise term to extend
+
+BILLAS PASSED BY THE HOUSE H.733
+2026 Page 10 of 23
+1 the term of the franchise for a limited period in order to satisfy the time of
+2 notice of nonrenewal requirement of this section.
+3 § 4055. TERMINATION BY FRANCHISEE
+4 A franchisee may terminate a franchise agreement without penalty or fees,
+5 in the event of changes to the franchise system or the competitive
+6 circumstances of the franchised business that would cause substantial negative
+7 impact or substantial financial hardship to the franchisee in the operation of its
+8 franchised business.
+9 § 4056. TRANSFER OR SALE OF BUSINESS BY FRANCHISEE
+10 (a) Death of franchisee. No franchisor shall deny the surviving spouse,
+11 heirs, or estate of a deceased franchisee the opportunity to participate in the
+12 ownership of the franchise under a valid franchise agreement for not less than
+13 12 months after the death of the franchisee or majority shareholder of the
+14 franchisee. During that time, the surviving spouse, heirs, or estate of the
+15 deceased shall either satisfy all of the then-current qualifications for a
+16 purchaser of a franchised business or sell, transfer, or assign the franchise to a
+17 person that satisfies the franchisor’s then-current standards for new
+18 franchisees. The rights granted pursuant to this section shall be granted
+19 subject to the surviving spouse, heirs, or estate of the deceased maintaining all
+20 standards and obligations of the franchise agreement.
+21 (b) Freedom to sell.
+
+BILLAS PASSED BY THE HOUSE H.733
+2026 Page 11 of 23
+1 (1) It is unlawful for a franchisor to prevent a franchisee from selling or
+2 transferring a franchise, all or substantially all of the assets of the franchised
+3 business, or a controlling or noncontrolling interest in the franchised business
+4 to another person provided that the person is qualified under the franchisor’s
+5 then-existing standards for the approval of new or renewing franchisees.
+6 These standards shall be made available to the franchisee and shall be
+7 consistently applied to similarly situated franchisees operating within the
+8 franchise brand.
+9 (2) Notwithstanding subdivision (1) of this subsection, a franchisee shall
+10 not have the right to sell, transfer, or assign the franchise, all or substantially
+11 all of the assets of the franchised business, or a controlling or noncontrolling
+12 interest in the franchised business without the written consent of the
+13 franchisor, except that the consent shall not be withheld unless the:
+14 (A) buyer, transferee, or assignee does not meet the standards for
+15 new or renewing franchisees described in subdivision (1) of this subsection
+16 (b); or
+17 (B) franchisee and the buyer, transferee, or assignee do not comply
+18 with the transfer conditions specified in the franchise agreement.
+19 (c) Right of first refusal. This section does not prohibit a franchisor from
+20 exercising the contractual right of first refusal to purchase a franchised
+21 business, all or substantially all of the assets of a franchised business, or a
+
+BILLAS PASSED BY THE HOUSE H.733
+2026 Page 12 of 23
+1 controlling or noncontrolling interest in a franchised business after receipt of a
+2 bona fide offer from a proposed purchaser to purchase the franchised business,
+3 assets, or interest. A franchisor exercising the contractual right of first refusal
+4 shall offer the seller payment at least equal to the value offered in the bona fide
+5 offer. This section does not require a franchisor to exercise a contractual right
+6 of first refusal.
+7 (d) Notification of intent to sell.
+8 (1) The franchisee shall, prior to the sale, assignment, or transfer of a
+9 franchised business, all or substantially all of the assets of a franchised
+10 business, or a controlling or noncontrolling interest in the franchised business
+11 to another person, notify the franchisor of the franchisee’s intent to sell,
+12 transfer, or assign the franchise, all or substantially all of the assets of the
+13 franchised business, or the controlling or noncontrolling interest in the
+14 franchised business. The notice shall be in writing and delivered to the
+15 franchisor by business courier or by receipted mail and include all of the
+16 following:
+17 (A) The proposed transferee’s name and address.
+18 (B) A copy of all agreements related to the sale, assignment, or
+19 transfer of the franchise, the assets of the franchised business, or the interest in
+20 the franchised business.
+
+BILLAS PASSED BY THE HOUSE H.733
+2026 Page 13 of 23
+1 (C) The proposed transferee’s application for approval to become the
+2 successor franchisee, which shall include all forms, financial disclosures, and
+3 related information generally utilized by the franchisor in reviewing
+4 prospective new franchisees, if those forms are readily made available to the
+5 existing franchisee. If the forms are not readily available, the franchisee shall
+6 request and the franchisor shall deliver the forms to the franchisee not later
+7 than 15 days after the request.
+8 (2) As soon as practicable after the receipt of the proposed transferee’s
+9 application, the franchisor shall notify, in writing, the franchisee and the
+10 proposed transferee of any additional information or documentation necessary
+11 to complete the transfer application. If the franchisor’s then-existing standards
+12 for the approval of new or renewing franchisees are not readily available to the
+13 franchisee when the franchisee notifies the franchisor of the franchisee’s intent
+14 to sell, transfer, or assign the franchise, the assets of the franchised business, or
+15 the controlling or noncontrolling interest in the franchised business, the
+16 franchisor shall communicate the standards to the franchisee not later than 15
+17 days after receiving the notification.
+18 (e) Approval or disapproval of sale.
+19 (1) The franchisor shall, not later than 60 days after the receipt of all of
+20 the necessary information and documentation required pursuant to subsection
+21 (d) of this section, or as specified by written agreement between the franchisor
+
+BILLAS PASSED BY THE HOUSE H.733
+2026 Page 14 of 23
+1 and the franchisee, notify the franchisee of the approval or disapproval of the
+2 proposed sale, assignment, or transfer. A proposed sale, assignment, or
+3 transfer shall be deemed approved unless disapproved by the franchisor in the
+4 manner provided by this subsection. If the proposed sale, assignment, or
+5 transfer is disapproved, the franchisor shall include in the notice of disapproval
+6 a statement setting forth the reasons for the disapproval.
+7 (2) In any action in which the franchisor’s disapproval of a sale,
+8 assignment, or transfer pursuant to this section is an issue, the reasonableness
+9 of the franchisor’s decision shall be a question of fact requiring consideration
+10 of all existing circumstances. For purposes of this subsection, the finder of
+11 fact may be an arbitrator specified in the franchise agreement or an arbitrator
+12 chosen from a list of impartial arbitrators supplied by the American
+13 Arbitration Association or another impartial person. Nothing in this
+14 subsection shall prohibit summary judgment when the reasonableness of
+15 transfer approval or disapproval can be decided as a matter of law.
+16 § 4057. RIGHTS AND PROHIBITIONS
+17 The following rights and prohibitions govern the relationship between a
+18 franchisor and its franchisee:
+19 (1) The parties shall deal with each other in good faith and in a
+20 commercially reasonable manner.
+
+BILLAS PASSED BY THE HOUSE H.733
+2026 Page 15 of 23
+1 (2) A franchisor or franchisee, during the sale or establishment of a
+2 franchised business, shall not misrepresent or fail to disclose any of the
+3 following:
+4 (A) the prospects or chances for success of the proposed or existing
+5 franchised business;
+6 (B) the known total investment for such franchised business; or
+7 (C) any effort to sell or establish more franchise locations than is
+8 reasonable to expect the market or market area for the particular franchise to
+9 sustain.
+10 (3) It is prohibited and deemed an unfair and deceptive act or practice,
+11 or an unfair method of competition, and a violation of this chapter for a
+12 franchisor, or an officer, agent, employee, or other representative of a
+13 franchisor, to directly or indirectly do any of the following:
+14 (A) terminate or fail to renew a franchise agreement in violation of
+15 this chapter;
+16 (B) allow a franchise agreement to expire without complying with
+17 this chapter;
+18 (C) fail to repurchase inventory, supplies, goods, fixtures, and
+19 equipment as required by this chapter;
+
+BILLAS PASSED BY THE HOUSE H.733
+2026 Page 16 of 23
+1 (D) violate Section 5(a) of the Federal Trade Commission Act, 15
+2 U.S.C § 45, in connection with its business as a franchisor, or an officer, agent,
+3 or other representative thereof;
+4 (E) resort to false or misleading advertising in connection with its
+5 business as a franchisor, or an officer, agent, or other representative of a
+6 franchisor;
+7 (F) without prior written disclosure to a franchisee, obtain vendor
+8 rebates, kickbacks, or similar payments from another person with which the
+9 franchisee does business or that the franchisee employs on account of or in
+10 relation to the transactions between the franchisee, the franchisor, and the other
+11 person;
+12 (G) require a franchisee to assent to a release, assignment, novation,
+13 waiver, or estoppel that would relieve any person for liability imposed under
+14 this chapter, including through the use of a disclaimer or checklist designed to
+15 avoid protection under this chapter;
+16 (H) require a franchisee to make any capital expenditure greater than
+17 $5,000.00 without providing a validated business case to the franchisee
+18 showing that such expenditure has a positive return on investment for the
+19 franchisee;
+20 (I) require a franchisee to purchase or lease goods or services of the
+21 franchisor or from approved sources of supply unless and to the extent that the
+
+BILLAS PASSED BY THE HOUSE H.733
+2026 Page 17 of 23
+1 franchisor satisfies the burden of proving that such restrictive purchasing
+2 agreements are reasonably necessary for a lawful purpose justified on business
+3 grounds, and do not substantially affect competition, provided that this
+4 subdivision (I) does not apply to the initial inventory of the franchise;
+5 (J) discriminate between franchisees in the charges offered or made
+6 for goods, services, equipment, rentals, or advertising services or in any other
+7 business dealing, unless and to the extent that the franchisor satisfies the
+8 burden of proving that any classification of or discrimination between
+9 franchisees is:
+10 (i) reasonable;
+11 (ii) based on franchises granted at materially different times and
+12 such discrimination is reasonably related to such difference in time, or is based
+13 on other proper and justifiable distinctions considering the purposes of this
+14 chapter; and
+15 (iii) not arbitrary, provided that nothing in this subdivision (iii)
+16 precludes negotiation of the terms and conditions of a franchise at the initiative
+17 of the franchisees;
+18 (K) sell, rent, or offer to sell to a franchisee any product or service
+19 for more than a fair and reasonable price;
+
+BILLAS PASSED BY THE HOUSE H.733
+2026 Page 18 of 23
+1 (L) obtain money, goods, services, anything of value, or any other
+2 benefit from any other person with which the franchisee does business on
+3 account of such business unless such benefit is disclosed to the franchisee;
+4 (M) restrict a franchisee from sourcing environmentally conscious
+5 products that meet required specifications or products that use environmentally
+6 conscious packaging; or
+7 (N) fail to make readily available to franchisees, without charge,
+8 true, accurate, and complete copies of all records of marketing, rewards
+9 programs, and advertising funds and fees that have been paid by franchisees,
+10 vendors, suppliers, and licensees.
+11 § 4058. FRANCHISE AGREEMENT PROVISIONS
+12 (a) Pricing. A franchisor shall not require a franchisee to sell any product
+13 or service for a price at a loss or otherwise not reasonably acceptable to the
+14 franchisee.
+15 (b) Liquidated damages. Liquidated damages clauses shall not be
+16 enforceable in a case of termination of the franchise agreement by the
+17 franchisor.
+18 (c) No cross default. A default under one franchise agreement shall not in
+19 and of itself constitute a default under another franchise agreement to which
+20 the franchisee or an affiliate of the franchisee is a party.
+
+BILLAS PASSED BY THE HOUSE H.733
+2026 Page 19 of 23
+1 (d) Control. No franchisor shall maintain direct or indirect control of the
+2 franchisee’s employees or of the day-to-day operation of the franchised
+3 business.
+4 (e) Hours of operation. No renewal of a franchise agreement or change in
+5 the operations manual or like policy shall impose a change in the hours of
+6 operation in which the franchisee deems that it is unprofitable or unsafe to
+7 operate, or that interferes with a religious holiday.
+8 (f) Notices. All notices of termination or nonrenewal required by this
+9 chapter:
+10 (1) shall be in writing;
+11 (2) shall be posted by registered, certified, or other receipted mail;
+12 delivered by telegram; or personally delivered to the franchisee; and
+13 (3) shall contain a statement of intent to terminate or not renew the
+14 franchised business together with:
+15 (A) the reasons therefor; and
+16 (B) the effective date of such termination or nonrenewal or
+17 expiration.
+18 (g) Negotiated franchise agreement. Any franchise agreement that differs
+19 from the disclosed franchise agreement shall, in totality, have negotiated terms
+20 that are to the benefit of the franchisee.
+
+BILLAS PASSED BY THE HOUSE H.733
+2026 Page 20 of 23
+1 (h) Arbitration. Pre-dispute, mandatory arbitration clauses are forbidden in
+2 a franchise agreement.
+3 (i) Venue of disputes. A provision in a franchise agreement restricting
+4 venue to a forum outside this State is void with respect to any claim arising
+5 under or relating to a franchise agreement involving a franchised business
+6 operating within this State.
+7 (j) Limitations of claims. No franchise agreement shall place a limitation
+8 on claims that is in conflict with existing State law.
+9 (k) Noncompete language.
+10 (1) Any agreement not to compete, including an agreement not to
+11 compete contained within a contract or franchise agreement, is void and
+12 unenforceable.
+13 (2) For existing agreements not to compete that violate subdivision (1)
+14 of this subsection, the franchisor must notify each franchisee that is party to
+15 the agreement that the agreement not to compete is void and legally
+16 unenforceable. Notice shall be in the form of a written individualized
+17 communication addressed to the franchisee or former franchisee and shall be
+18 delivered to the last known address and email address of the franchisee or
+19 former franchisee.
+20 § 4059. LIABILITY
+21 (a) Liability and governing law.
+
+BILLAS PASSED BY THE HOUSE H.733
+2026 Page 21 of 23
+1 (1) If any franchisor violates any provision of this chapter, a franchisee
+2 may bring an action against such franchisor in any court of competent
+3 jurisdiction of this State for damages sustained by the franchisee as a
+4 consequence of the franchisor’s violation, together with the actual costs of the
+5 action, including reasonable actual attorney’s fees, and the franchisee also may
+6 be granted injunctive relief against unlawful termination, cancellation,
+7 nonrenewal, or any other act or practice prohibited by this chapter.
+8 (2) Notwithstanding any term or provision of a franchise agreement to
+9 the contrary:
+10 (A) the laws of this State shall govern the interpretation of the
+11 franchise agreement of a franchise located in the State and the performance of
+12 the parties thereunder;
+13 (B) the courts of this State and the federal courts with jurisdiction
+14 over cases filed in the State shall have exclusive jurisdiction with respect to
+15 any action brought under this chapter or any action brought by a franchisor
+16 concerning a franchise located in this State; and
+17 (C) except as expressly provided herein, nothing in this chapter shall
+18 abrogate the right of a franchisee to sue under any other law.
+19 (b) Unlawful termination or nonrenewal. In the event a franchisor
+20 terminates or fails to renew a franchisee in violation of this chapter, the
+21 franchisee shall be entitled to receive from the franchisor the fair market value
+
+BILLAS PASSED BY THE HOUSE H.733
+2026 Page 22 of 23
+1 of the franchised business and franchise assets and any other damages caused
+2 by the violation of this chapter.
+3 (c) Offset. The franchisor may offset against any remedies a prior recovery
+4 by the franchisee and any sums owed to the franchisor or its subsidiaries by the
+5 franchisee pursuant to the franchise agreement or any ancillary agreement.
+6 Sec. 2. EFFECTIVE DATE
+7 This act shall take effect on July 1, 2026.
+Sec. 1. 11 V.S.A. chapter 15, subchapter 3 is amended to read:
+Subchapter 3. Administrative Provisions for Business Organizations
+* * *
+§ 1654. FRANCHISE DESIGNATION
+(a) As used in this section:
+(1) “Filing” means an initial registration, amendment, periodic report,
+or other filing with the Secretary of State as the Secretary may require.
+(2) “Franchisee” and “franchisor” have the same meanings as in 16
+C.F.R. § 436.1.
+(b) In addition to all other requirements of a person registering with the
+Secretary of State pursuant to State law, a person doing business in this State
+as a franchisor or franchisee shall, at the time of a filing:
+(1) indicate that the person is operating as a franchisor or franchisee;
+and
+
+BILLAS PASSED BY THE HOUSE H.733
+2026 Page 23 of 23
+(2) provide the name of the franchisor, if the person is operating as a
+franchisee.
+* * *
+Sec. 2. EFFECTIVE DATE
+This act shall take effect on January 1, 2027.

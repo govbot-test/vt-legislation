@@ -1,0 +1,145 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED S.250
+2026 Page 1 of 6
+1 S.250
+2 Introduced by Senator Collamore
+3 Referred to Committee on
+4 Date:
+5 Subject: Health; mental health; involuntary medication; emergency
+6 circumstances
+7 Statement of purpose of bill as introduced: This bill proposes to allow the
+8 administration of involuntary psychiatric medication in emergency
+9 circumstances.
+10 An act relating to administration of involuntary psychiatric medication in
+11 emergency circumstances
+12 It is hereby enacted by the General Assembly of the State of Vermont:
+13 Sec. 1. 18 V.S.A. § 7624a is added to read:
+14 § 7624a. ADMINISTRATION OF INVOLUNTARY MEDICATION
+15 EMERGENCY CIRCUMSTANCES
+16 (a) In emergency circumstances where an application for involuntary
+17 medication has been filed pursuant to section 7624 of this chapter, but an order
+18 has not yet been issued, a patient’s treating physician may authorize the
+19 administration of involuntary psychiatric medication when the following
+20 conditions are met:
+VT LEG #385854 v.1
+
+BILL AS INTRODUCED S.250
+2026 Page 2 of 6
+1 (1) the patient’s treating physician has informed the patient of the
+2 following:
+3 (A) the name and dosage of the proposed medication;
+4 (B) the reason for ordering the proposed medication;
+5 (C) the expected benefits of the proposed medication;
+6 (D) the potential risks and side effects of the proposed medication;
+7 (E) the right to refuse the proposed medication; and
+8 (F) the status of the application for involuntary medication pursuant
+9 to section 7624 of this title;
+10 (2) the patient either orally refuses the proposed medication, cannot
+11 communicate refusal, or otherwise indicates refusal of the proposed medication
+12 after a reasonable attempt to obtain voluntary acceptance of the proposed
+13 medication: and
+14 (3) the medical director of the hospital unit or secure residential
+15 recovery facility where the patient is committed and the medical director of the
+16 Department have jointly determined that:
+17 (A) less intrusive alternatives to the proposed medication have been
+18 considered, documented in the patient’s medical record, and found unlikely to
+19 meet the needs of the patient; and
+20 (B) the proposed medication is necessary and the least restrictive
+21 intervention reasonably required to address the emergency circumstance.
+VT LEG #385854 v.1
+
+BILL AS INTRODUCED S.250
+2026 Page 3 of 6
+1 (b)(1) Authority to administer the medication under this section shall expire
+2 when the emergency circumstance ceases to exist or after 72 hours, whichever
+3 is first occurring.
+4 (2)(A) Notwithstanding subdivision (1) of this subsection (b), if the
+5 emergency circumstance persists or the emergency circumstance has abated
+6 because of the effect of the medication and the treating physician is of the
+7 opinion that the medication is necessary to keep the emergency in abeyance
+8 beyond 72 hours, then within that 72 hours, the hospital or secure residential
+9 recovery facility where the patient is committed shall file a written request to
+10 the court where the patient’s application for involuntary medication is pending
+11 for an emergency hearing within five business days. The filing shall contain a
+12 joint certification from the medical director of the hospital unit or secure
+13 residential recovery facility where the patient is committed and the medical
+14 director of the Department that continued medication is necessary to prevent an
+15 emergency circumstance or to keep the emergency circumstance in abeyance.
+16 Upon receipt of the emergency filing, the court shall review the patient’s
+17 underlying application for involuntary medication in accordance with sections
+18 7624 and 7625 of this chapter.
+19 (B) If a complete court filing is not made within 72 hours, then the
+20 medication shall be discontinued until the filing can be made, except in cases
+21 where life threatening consequences could result from an abrupt medication
+VT LEG #385854 v.1
+
+BILL AS INTRODUCED S.250
+2026 Page 4 of 6
+1 discontinuation. Under these circumstances, the patient shall be taken safely
+2 off the medication according to standards of medical practice with
+3 corresponding clinical documentation.
+4 (3) In no case shall a patient receive emergency medication under this
+5 section for a period exceeding 10 days without an order from the court where
+6 the patient’s application for involuntary medication is pending.
+7 (c) Within 12 hours after administering medication pursuant to this section,
+8 the treating physician shall document the basis for the emergency
+9 circumstance, less intrusive alternatives considered, the type and dosage of the
+10 medication administered, information provided to the patient prior to and at the
+11 time of administration, the nature of the patient’s refusal or inability to refuse
+12 the medication, and the clinical rationale for administration of the medication.
+13 (d) As soon as practicable after the administration of medication pursuant
+14 to this section, the hospital or secure residential recovery facility where the
+15 patient is committed shall notify the patient’s attorney and, if applicable, the
+16 agent designated in the patients’ advance directive regarding the decision to
+17 initiate or continue involuntary medication.
+18 (e) Each designated hospital and secure residential recovery facility shall
+19 adopt written procedures regarding staff training, documentation, and
+20 compliance with the administration of involuntary medication in emergency
+21 circumstances pursuant to this section.
+VT LEG #385854 v.1
+
+BILL AS INTRODUCED S.250
+2026 Page 5 of 6
+1 (f) A health care professional who prescribes, dispenses, or administers
+2 medication pursuant to this section shall be immune from civil liability, unless
+3 the health care professional’s actions with regard to prescribing, dispensing, or
+4 administering the medication constituted recklessness, gross negligence, or
+5 intentional misconduct. The immunity granted in this subsection shall apply to
+6 the hospital or secure residential recovery facility where the patient is receiving
+7 treatment. The administration of medication pursuant to this section shall not
+8 constitute a violation of the patient’s rights under 18 V.S.A. chapter 42,
+9 subchapter 1.
+10 (g) The Commissioner shall adopt rules pursuant to 3 V.S.A. chapter 25 to
+11 implement the provisions in this section.
+12 (h) As used in this section, “emergency circumstance” means that:
+13 (1) the patient is actively engaging in conduct, or has the present ability
+14 and manifested intent to engage in immediate conduct, that poses a risk of
+15 serious bodily harm to the patient or to others, but not necessarily that the harm
+16 has taken place or become unavoidable prior to administration of the
+17 medication;
+18 (2) the patient’s medical condition is likely to deteriorate in a manner
+19 that would cause irreparable harm while awaiting the outcome on the
+20 application for involuntary medication filed in accordance with section 7624 of
+21 this chapter;
+VT LEG #385854 v.1
+
+BILL AS INTRODUCED S.250
+2026 Page 6 of 6
+1 (3) immediate administration of the medication is necessary to preserve
+2 life, lessen immediate suffering, or prevent serious bodily harm to the patient
+3 or others; and
+4 (4) the medical director of the hospital unit and secure residential
+5 recovery facility where the patient is committed and the medical director of the
+6 Department have jointly determined that it is impracticable to wait for a
+7 hearing pursuant section 7624 of this chapter before administering the
+8 medication.
+9 Sec. 2. EFFECTIVE DATE
+10 This act shall take effect on July 1, 2026.
+VT LEG #385854 v.1

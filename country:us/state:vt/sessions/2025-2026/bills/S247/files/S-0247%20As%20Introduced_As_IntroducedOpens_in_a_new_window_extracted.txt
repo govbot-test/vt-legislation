@@ -1,0 +1,200 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED S.247
+2026 Page 1 of 8
+1 S.247
+2 Introduced by Senators Watson, Harrison, Lyons, Major and White
+3 Referred to Committee on
+4 Date:
+5 Subject: Conservation and development; environmental health; solid waste;
+6 microplastics; medical solution containers; medical tubing; chemical
+7 conversion
+8 Statement of purpose of bill as introduced: This bill proposes to prohibit the
+9 chemical conversion of plastic in the State. The bill also would, beginning on
+10 January 1, 2030, prohibit a person or entity from manufacturing, selling, or
+11 distributing in commerce a medical solution container made with intentionally
+12 added di(2-ethylhexyl) phthalate (DEHP). In addition, beginning on January 1,
+13 2035, the bill would prohibit a person or entity from manufacturing, selling, or
+14 distributing in commerce medical tubing made with intentionally added DEHP.
+15 Beginning on January 1, 2029, the bill would prohibit a person from selling,
+16 offering for sale, or distributing in commerce a personal care product or
+17 designated cleaning product containing a plastic microbead.
+18 An act relating to the regulation of the disposal of plastics and the sale of
+19 consumer products containing microplastics
+VT LEG #385740 v.1
+
+BILL AS INTRODUCED S.247
+2026 Page 2 of 8
+1 It is hereby enacted by the General Assembly of the State of Vermont:
+2 Sec. 1. 10 V.S.A. § 6621 is added to read:
+3 § 6621. USE OF CHEMICAL CONVERSION TECHNOLOGIES
+4 (a) As used in this section:
+5 (1) “Chemical conversion technologies” means using plastic inputs:
+6 (A) as a fuel or fuel substitute or the general use of plastic in energy
+7 production; or
+8 (B) in the use of the following processes:
+9 (i) gasification;
+10 (ii) pyrolysis;
+11 (iii) solvolysis;
+12 (iv) hydropyrolysis;
+13 (v) methanolysis;
+14 (vi) glycolysis;
+15 (vii) enzymatic breakdown;
+16 (viii) solvent-based purification;
+17 (ix) combustion; or
+18 (x) any other process used to transform plastic or plastic-derived
+19 materials into plastic monomers, waxes, lubricants, chemical feedstocks, crude
+20 oil, diesel, gasoline, or home heating oil.
+VT LEG #385740 v.1
+
+BILL AS INTRODUCED S.247
+2026 Page 3 of 8
+1 (2) “Facility” is a facility, as that term is defined in section 6602 of this
+2 chapter, operated for the purpose of performing, facilitating, aiding, or
+3 otherwise engaging in chemical conversion.
+4 (3) “Plastic” means a synthetic material made from linking monomers
+5 through a chemical reaction to create a polymer chain that can be molded or
+6 extruded at high heat into various solid forms that retain their defined shapes
+7 during their life cycle and after disposal, including material derived from either
+8 petroleum or a biologically based polymer, such as corn or other plant sources.
+9 (4) “Recycling” means any process in which materials are collected,
+10 separated, or processed and returned to the marketplace in the form of raw
+11 materials to make new products. “Recycling” does not include chemical
+12 conversion.
+13 (b) A person shall not use or operate chemical conversion technologies in
+14 the State.
+15 (c)(1) A person shall not build, construct, establish, or operate any facility
+16 in the State that uses chemical conversion technologies.
+17 (2) The prohibition in this subsection applies to the modification or
+18 conversion of any existing certified solid waste facility in the State into a
+19 facility that uses a chemical conversion technology.
+20 (d) The State of Vermont shall not provide subsidies, grants, tax breaks, or
+21 any other financial or nonfinancial incentives to support the development of
+VT LEG #385740 v.1
+
+BILL AS INTRODUCED S.247
+2026 Page 4 of 8
+1 facilities that use chemical conversion technologies or programs focused on
+2 chemical conversion technologies.
+3 Sec. 2. 18 V.S.A. §§ 1514 and 1515 are added to read:
+4 § 1514. MEDICAL DEVICES; DEHP
+5 (a) As used in this section:
+6 (1) “DEHP” means di(2-ethylhexyl) phthalate.
+7 (2) “Intentionally added DEHP” means DEHP that a manufacturer has
+8 intentionally added to an intravenous or other specified medical solution
+9 container or medical tubing product and that has a functional or technical
+10 effect on the product.
+11 (3) “Medical solution container” means a container used to house
+12 medicine, fluid, or nutrition therapy that is administered intravenously or
+13 through the mouth, nose, stomach, or intestines to patients in a hospital,
+14 outpatient, or other health care facility.
+15 (4) “Medical tubing” means any tubing used to administer fluids,
+16 medication, nutrients, or oxygen, including:
+17 (A) intravenous tubing used to administer fluids, medication, or
+18 parenteral nutrition directly into the bloodstream of an adult, child, or infant;
+19 (B) medical tubing used to deliver enteral nutrition or medication to
+20 the digestive system for an adult, child, or infant; or
+VT LEG #385740 v.1
+
+BILL AS INTRODUCED S.247
+2026 Page 5 of 8
+1 (C) respiratory tubing and nasal cannulas delivering oxygen to an
+2 infant or child.
+3 (5) “Ortho-phthalates” means a class of chemicals that are esters of
+4 ortho-phthalic acid.
+5 (6) “Unintentionally added DEHP” means DEHP in an intravenous or
+6 specified medical solution container or medical tubing product that is not used
+7 for a functional or technical effect on the product.
+8 (b) Beginning on January 1, 2030, no person shall manufacture, sell, or
+9 distribute in commerce in Vermont a medical solution container made with
+10 intentionally added DEHP.
+11 (c) Beginning on January 1, 2035, no person shall manufacture, sell, or
+12 distribute in commerce in Vermont medical tubing made with intentionally
+13 added DEHP.
+14 (d) No person shall replace DEHP prohibited in a product under this
+15 section with other ortho-phthalates.
+16 (e) A medical solution container or medical tubing product shall not have
+17 unintentionally added DEHP present in a quantity at or above 0.1 percent by
+18 weight.
+VT LEG #385740 v.1
+
+BILL AS INTRODUCED S.247
+2026 Page 6 of 8
+1 (f) The following are exempt from the requirements of this section:
+2 (1) human blood collection and storage bags; and
+3 (2) apheresis and cell therapy blood kits and bags, including integral
+4 tubing.
+5 § 1515. DESIGNATED CLEANING PRODUCTS; PERSONAL CARE
+6 PRODUCTS; MICROBEAD PROHIBITION
+7 (a) As used in this section
+8 (1) “Air care product” means a chemically formulated consumer product
+9 labeled to indicate that the purpose of the product is to enhance or condition
+10 the indoor environment by eliminating unpleasant odors or freshening the air.
+11 (2) “Automotive product” means a chemically formulated consumer
+12 product labeled to indicate that the purpose of the product is to maintain the
+13 appearance of a motor vehicle, as that term is defined in 23 V.S.A. § 4,
+14 including products for washing, waxing, polishing, cleaning, or treating the
+15 exterior or interior surfaces of motor vehicles. “Automotive product” does not
+16 mean automotive paint or paint repair products.
+17 (3) “Chemically formulated consumer product” means a product,
+18 excluding home appliances, that is manufactured from chemicals to be used by
+19 household, institutional, or commercial consumers without further processing
+20 for specific purposes. For the purposes of this subdivision, dilution by the user
+21 is not considered further processing.
+VT LEG #385740 v.1
+
+BILL AS INTRODUCED S.247
+2026 Page 7 of 8
+1 (4) “Designated cleaning product” means a finished product that is an
+2 air care product, automotive product, general cleaning product, or a polish or
+3 floor maintenance product used primarily for janitorial, domestic, or
+4 institutional cleaning purposes. “Designated cleaning product” does not mean
+5 any of the following:
+6 (A) food, drugs, or cosmetics, including personal care products; or
+7 (B) industrial products specifically manufactured for, and exclusively
+8 used in, the following:
+9 (i) oil and gas production;
+10 (ii) steel production;
+11 (iii) heavy industry manufacturing;
+12 (iv) industrial water treatment;
+13 (v) industrial textile maintenance and processing other than
+14 industrial laundering;
+15 (vi) food and beverage processing and packaging; or
+16 (vii) other industrial manufacturing processes.
+17 (5) “General cleaning product” means a soap, detergent, or other
+18 chemically formulated consumer product labeled to indicate that the purpose of
+19 the product is to clean, disinfect, or otherwise care for fabric, dishes, or other
+20 wares; surfaces, including floors, furniture, countertops, showers, and baths; or
+21 other hard surfaces, such as stovetops, microwaves, and other appliances.
+VT LEG #385740 v.1
+
+BILL AS INTRODUCED S.247
+2026 Page 8 of 8
+1 (6) “Personal care product” means an article intended to be rubbed,
+2 poured, sprinkled, or sprayed on; introduced to; or otherwise applied to the
+3 human body or any part thereof for cleansing, beautifying, promoting
+4 attractiveness, or altering the appearance, and an article intended for use as a
+5 component of that type of article. “Personal care product” does not include a
+6 prescription drug, as that term is defined in 21 U.S.C. § 321.
+7 (7) “Plastic microbead” means an intentionally added solid plastic
+8 particle measuring five millimeters or less in every dimension.
+9 (8) “Polish or floor maintenance product” means a chemically
+10 formulated consumer product, such as polish, wax, or a restorer, labeled to
+11 indicate that the purpose of the product is to polish, protect, buff, condition,
+12 temporarily seal, or maintain furniture, floors, metal, leather, or other surfaces.
+13 (b) Beginning on January 1, 2029, no person shall sell, offer for sale,
+14 distribute, or offer for promotional purposes in this State:
+15 (1) a personal care product containing plastic microbeads that are used
+16 as an abrasive to clean, exfoliate, or polish, in a rinse-off or non-rinse-off
+17 product, including toothpaste and sunscreen; or
+18 (2) a designated cleaning product containing plastic microbeads that are
+19 used as an abrasive to clean, exfoliate, or polish.
+20 Sec. 3. EFFECTIVE DATE
+21 This act shall take effect on July 1, 2027.
+VT LEG #385740 v.1

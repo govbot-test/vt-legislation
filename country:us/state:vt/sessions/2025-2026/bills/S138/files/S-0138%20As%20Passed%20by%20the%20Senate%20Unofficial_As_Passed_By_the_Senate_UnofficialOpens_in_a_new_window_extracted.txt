@@ -1,0 +1,269 @@
+Title: 
+Official Title: 
+Source: versions - As Passed By the Senate (UnofficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+AS PASSED BY SENATE S.138
+2026 Page 1 of 11
+1 S.138
+2 An act relating to commercial property-assessed clean energy projects
+3 It is hereby enacted by the General Assembly of the State of Vermont:
+4 Sec. 1. 24 V.S.A. chapter 87, subchapter 3 is added to read:
+5 Subchapter 3. Commercial Property-Assessed Clean Energy
+6 § 3275. COMMERCIAL PROPERTY-ASSESSED CLEAN ENERGY
+7 DISTRICTS; APPROVAL OF LEGISLATIVE BODY
+8 (a)(1) The legislative body of a town, city, or incorporated village may vote
+9 to designate the municipality as a commercial property-assessed clean energy
+10 district or C-PACE district. In a district, only those property owners who have
+11 entered into written agreements with the municipality under section 3276 of
+12 this title would be subject to a special assessment, as set forth in section 3255
+13 of this title.
+14 (2) In this subchapter, “district” means a commercial property-assessed
+15 clean energy district which includes the entire municipality.
+16 (b) Upon a vote of approval by a majority of the legislative body of the
+17 municipality voting at a duly warned meeting, the municipality shall allow for
+18 the imposition of a special assessment to secure private financing for property
+19 owners for projects relating to renewable energy, as defined in 30 V.S.A.
+20 § 8002(17), or to eligible projects relating to energy efficiency as defined by
+VT LEG #388127 v.1
+
+AS PASSED BY SENATE S.138
+2026 Page 2 of 11
+1 section 3267 of this title, undertaken by owners of commercial or industrial
+2 buildings within the boundaries of the municipality.
+3 (c) As used in this chapter, “commercial or industrial building” means any
+4 building other than a residential dwelling with fewer than five units.
+5 § 3276. WRITTEN AGREEMENTS; CONSENT OF PROPERTY
+6 OWNERS; ENERGY SAVINGS ANALYSIS; LENDER CONSENT
+7 (a) Upon an affirmative vote made pursuant to section 3275 of this title and
+8 the performance of an analysis pursuant to subsection (b) of this section, an
+9 owner of a commercial or industrial building, within the boundaries of a
+10 district, may enter into a written agreement with the municipality that shall
+11 constitute the owner’s consent to be subject to a special assessment, as set forth
+12 in section 3255 of this title. Entry into such an agreement may occur only after
+13 January 1, 2027.
+14 (b) Prior to entering into a written agreement, a property owner shall have
+15 an analysis performed that includes the following components:
+16 (1) where energy or water usage improvements are proposed, an energy
+17 analysis by a licensed professional engineer or engineering firm stating that the
+18 proposed qualified improvements will either result in more efficient use or
+19 conservation of energy or water, the reduction of greenhouse gas emissions, or
+20 the addition of renewable sources of energy or water;
+VT LEG #388127 v.1
+
+AS PASSED BY SENATE S.138
+2026 Page 3 of 11
+1 (2) where renewable energy is proposed, an engineering study showing
+2 that the improvements are feasible;
+3 (3) where resilience improvements are proposed, certification by a
+4 licensed professional engineer stating that the qualified improvements will
+5 result in improved resilience in accordance with local, State, or nationally
+6 recognized building standards; or
+7 (4) for new construction, certification by a licensed professional
+8 engineer or engineering firm stating that the proposed qualified improvements
+9 will enable the project to exceed the energy efficiency or water efficiency or
+10 renewable energy or water usage requirements of the current building code.
+11 (c) A written agreement shall provide that:
+12 (1) The length of time allowed for the property owner to repay the
+13 assessment shall not exceed the life expectancy of the project. In instances
+14 where multiple projects have been installed, the length of time shall not exceed
+15 the average lifetime of all projects, weighted by cost.
+16 (2) Notwithstanding any other provision of law:
+17 (A) A lien under this section:
+18 (i) is a first and prior lien on the property, subordinate only to a
+19 lien for property taxes, from the date on which the notice of special assessment
+20 is recorded until the assessment, interest, or penalty is paid; and
+VT LEG #388127 v.1
+
+AS PASSED BY SENATE S.138
+2026 Page 4 of 11
+1 (ii) runs with the land, and that portion of the assessment under the
+2 assessment contract that is not yet due shall not be accelerated or extinguished
+3 by foreclosure of a property tax lien or any other foreclosure.
+4 (B) In the event of a foreclosure action, all payments on an
+5 assessment under this subchapter that are due and unpaid as of the date the
+6 action is filed, and all payments on the assessment that become due after that
+7 date and that accrue up to and including the date title to the property is
+8 transferred to the mortgage holder, the lien holder, or a third party in the
+9 foreclosure action shall be paid in order for title to transfer.
+10 (3) A capital provider shall disclose to participating property owners
+11 each of the following:
+12 (A) the risks associated with participating in the program, including
+13 risks related to the failure of participating property owners to make payments
+14 and the risk of foreclosure; and
+15 (B) the provisions of subsection (h) of this section that pertain to
+16 prepayment of the assessment.
+17 (d) The notice of an agreement shall include at least each of the following:
+18 (1) the name of the property owner as grantor;
+19 (2) the name of the municipality as grantee;
+20 (3) the date of the agreement;
+VT LEG #388127 v.1
+
+AS PASSED BY SENATE S.138
+2026 Page 5 of 11
+1 (4) a legal description of the real property against which the assessment
+2 is made pursuant to the agreement;
+3 (5) the amount of the assessment and the period during which the
+4 assessment will be made on the property;
+5 (6) a statement that the assessment will remain a lien on the property
+6 until paid in full or released; and
+7 (7) the location at which the original agreement may be examined.
+8 (e) Prior to entering into the written assessment contract, the property
+9 owner shall obtain and furnish to the municipality a written statement,
+10 executed by each holder of a mortgage or deed of trust on the property
+11 securing indebtedness, in their sole and absolute discretion, that consents to the
+12 assessment and indicates that the assessment does not constitute an event of
+13 default under the mortgage or deed of trust.
+14 (f) The combined amount of the assessment plus any outstanding mortgage
+15 obligations for the property shall not exceed 90 percent of the assessed value of
+16 that property.
+17 (g) With respect to an agreement under this section:
+18 (1) the assessments to be repaid under the agreement, when calculated
+19 as if they were the repayment of a loan, shall not violate 9 V.S.A. §§ 41a, 43,
+20 44, and 46–50; and
+VT LEG #388127 v.1
+
+AS PASSED BY SENATE S.138
+2026 Page 6 of 11
+1 (2) the maximum length of time for the owner to repay the assessment
+2 shall not exceed 30 years.
+3 (h) For projects under subchapter 2 of this chapter, there shall be no penalty
+4 or premium for prepayment of the outstanding balance of an assessment under
+5 this subchapter if the balance is prepaid in full. Projects under this subchapter
+6 3 are not subject to these provisions, but shall be determined by the private
+7 agreement for financing of improvements.
+8 (i) Property may be eligible for financing if otherwise qualified
+9 improvements were completed and operational not more than 36 months prior
+10 to submission of the application to the program. Waivers to the 36-month
+11 requirement may be granted in the sole discretion of the program
+12 administrator.
+13 § 3277. PROGRAM ADMINISTRATORS
+14 (a) C-PACE Program Administration.
+15 (1) An entity that administers the commercial property-assessed clean
+16 energy program or C-PACE Program under this subchapter shall be referred to
+17 as a program administrator. A municipality, a public agency, or a private
+18 entity may serve as a program administrator. However, a capital provider or
+19 lender shall not serve as a program administrator in a municipality where it is
+20 also lending.
+VT LEG #388127 v.1
+
+AS PASSED BY SENATE S.138
+2026 Page 7 of 11
+1 (2) A municipality that has adopted a C-PACE district may:
+2 (A) enter into a contract with an entity to serve as the program
+3 administrator and to administer the functions of the C-PACE Program for the
+4 municipality; or
+5 (B) serve as the program administrator itself, to administer the
+6 functions of a C-PACE Program, including entering into C-PACE agreements
+7 with commercial property owners in its jurisdiction and collecting C-PACE
+8 assessments.
+9 (b) An entity may:
+10 (1) enter into a contract with a C-PACE municipality where the entity
+11 shall serve as the program administrator in the municipality; and
+12 (2) collect fees necessary to administer the C-PACE program.
+13 (c) Other than the fulfillment of its obligations specified in a C-PACE
+14 agreement, neither the program administrator nor a municipality has any
+15 liability to a commercial property owner for or related to energy savings or
+16 resilience improvements financed under a C-PACE Program.
+17 (d) The Department of Financial Regulation shall consult with relevant
+18 stakeholders, including the Vermont League of Cities and Towns, the Vermont
+19 Economic Development Authority, Efficiency Vermont, and agencies from
+20 other States with C-PACE programs, in order to identify appropriate entities to
+21 serve as program administrators.
+VT LEG #388127 v.1
+
+AS PASSED BY SENATE S.138
+2026 Page 8 of 11
+1 Sec. 2. 24 V.S.A. § 3263 is amended to read:
+2 § 3263. COSTS OF OPERATION OF DISTRICT
+3 The owners of real property who have entered into written agreements with
+4 the municipality under section 3262 of this title shall be obligated to cover the
+5 costs of operating the district. A municipality may use other available funds to
+6 operate the district. A municipality may charge fees to cover the operation of
+7 the C-PACE Program under subchapter 3 of this chapter.
+8 Sec. 3. 24 V.S.A. § 3264 is amended to read:
+9 § 3264. RIGHTS OF PROPERTY OWNERS
+10 A property owner who has entered into a written agreement with the
+11 municipality under section 3262 or section 3276 of this title may enter into a
+12 private agreement for the installation or construction of a project relating to
+13 renewable energy, as defined in 30 V.S.A. § 8002(17), or relating to energy
+14 efficiency as defined in section 3267 of this title.
+15 Sec. 4. 24 V.S.A. § 3265 is amended to read:
+16 § 3265. LIABILITY OF MUNICIPALITY
+17 (a) A municipality that incurs indebtedness for or otherwise finances
+18 projects under this subchapter shall not be liable for the failure of performance
+19 of a project.
+20 (b) A municipality that incurs indebtedness for bonding under this
+21 subchapter shall pledge the full faith and credit of the municipality.
+VT LEG #388127 v.1
+
+AS PASSED BY SENATE S.138
+2026 Page 9 of 11
+1 (c) A municipality that enters into a written agreement with a property
+2 owner under subchapter 3 of this chapter shall not incur any indebtedness or
+3 otherwise finance projects under this chapter, nor shall be liable for the failure
+4 of the performance of a project, nor pledge the full faith and credit of the
+5 municipality.
+6 Sec. 5. 24 V.S.A. § 3268 is amended to read:
+7 § 3268. RELEASE OF LIEN
+8 (a) A municipality shall release a participating property owner of the lien
+9 on the property against which the assessment under this subchapter or
+10 subchapter 3 of this chapter is made upon full payment of the value of the
+11 assessment.
+12 (b) Notice of a release of a lien for an assessment under this subchapter or
+13 subchapter 3 of this chapter shall be filed with the clerk of the applicable
+14 municipality for recording in the land records of that municipality.
+15 Sec. 6. 24 V.S.A. § 3255 is amended to read:
+16 § 3255. COLLECTION OF ASSESSMENTS; LIENS
+17 (a) Special assessments under this chapter shall constitute a lien on the
+18 property against which the assessment is made in the same manner and to the
+19 same extent as taxes assessed on the grand list of a municipality, and all
+20 procedures and remedies for the collection of taxes shall apply to special
+21 assessments.
+VT LEG #388127 v.1
+
+AS PASSED BY SENATE S.138
+2026 Page 10 of 11
+1 (b) Notwithstanding subsection (a) of this section, a lien for an assessment
+2 under subchapter 2 of this chapter shall be subordinate to all liens on the
+3 property in existence at the time the lien for the assessment is filed on the land
+4 records, shall be subordinate to a first mortgage on the property recorded after
+5 such filing, and shall be superior to any other lien on the property recorded
+6 after such filing. In no way shall this subsection affect the status or priority of
+7 any municipal lien other than a lien for an assessment under subchapter 2 of
+8 this chapter. A lien for an assessment under subchapter 3 of this chapter shall
+9 be exempt from the provisions of this section and, upon receipt of consent
+10 from lenders, pursuant to subsection 3276(e) of this title, shall not be
+11 subordinate to all liens on the property in existence at the time the lien for the
+12 assessment is filed on the land records.
+13 Sec. 7. 9 V.S.A. § 46 is amended to read:
+14 § 46. EXCEPTIONS
+15 Section 43 of this title, relating to deposit requirements, and section 45 of
+16 this title, relating to prepayment penalties, shall not apply and the parties may
+17 contract for a rate of interest in excess of the rate provided in section 41a of
+18 this title in the case of:
+19 (1) obligations of corporations, including municipal and nonprofit
+20 corporations; or
+VT LEG #388127 v.1
+
+AS PASSED BY SENATE S.138
+2026 Page 11 of 11
+1 (2) obligations incurred by any person, partnership, association, or other
+2 entity to finance in whole or in part income-producing business or activity, but
+3 not including obligations incurred to finance family dwellings of four units or
+4 fewer when used as a residence by the borrower or to finance real estate that is
+5 devoted to agricultural purposes as part of an operating farming unit when used
+6 as a residence by the borrower; or
+7 (3) obligations to finance the purchase, construction, or improvement of
+8 property for seasonal or part-time occupancy and not as a place of legal
+9 residence; or
+10 (4) obligations guaranteed or insured by the United States of America or
+11 any agency thereof; or
+12 (5) obligations incurred for commercial property-assessed clean energy
+13 projects pursuant to 24 V.S.A. chapter 87, subchapter 3.
+14 Sec. 8. EFFECTIVE DATE
+15 This act shall take effect on July 1, 2026.
+VT LEG #388127 v.1

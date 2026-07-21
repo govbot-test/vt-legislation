@@ -1,0 +1,98 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED S.207
+2026 Page 1 of 4
+1 S.207
+2 Introduced by Senators White, Gulick, Harrison, Major, Plunkett and
+3 Vyhovsky
+4 Referred to Committee on
+5 Date:
+6 Subject: Consumer protection; artificial intelligence; surveillance pricing
+7 Statement of purpose of bill as introduced: This bill proposes to prohibit the
+8 use of surveillance pricing to distribute, sell, or offer for sale consumer
+9 products in the State.
+10 An act relating to prohibiting surveillance pricing
+11 It is hereby enacted by the General Assembly of the State of Vermont:
+12 Sec. 1. 9 V.S.A. chapter 118 is added to read:
+13 CHAPTER 118. ARTIFICIAL INTELLIGENCE
+14 Subchapter 1. Surveillance Pricing
+15 § 4193a. DEFINITIONS
+16 As used in this subchapter:
+17 (1) “Aggregate consumer information” means information that relates to
+18 a group or category of consumers, from which individual consumer identities
+19 have been removed, that is not linked or reasonably linkable to any consumer
+20 or household, including through the use of a device.
+VT LEG #384891 v.1
+
+BILL AS INTRODUCED S.207
+2026 Page 2 of 4
+1 (2) “Consumer” means a person who purchases or intends to purchase a
+2 consumer product.
+3 (3) “Consumer commodity” has the same meaning as in 6 V.S.A. § 681.
+4 (4) “Consumer product” means any product that is regularly used or
+5 purchased to be used for personal, family, household, commercial, or business
+6 purposes, including a consumer commodity.
+7 (5) “Covered information” means either personally identifiable
+8 information or aggregate consumer information.
+9 (6) “Electronic surveillance technology” means a system, software, or
+10 process derived from machine learning, statistics, or other data processing or
+11 artificial intelligence techniques used to collect, capture, record, or retain
+12 personally identifiable information.
+13 (7) “Personally identifiable information” has the same meaning as in
+14 subdivision 2430(10) of this title.
+15 (8) “Standard price” means the price of a good or service that is set for
+16 all consumers that is not based upon covered information.
+17 (9) “Surveillance pricing” means using covered information gathered
+18 through electronic surveillance technology to set the price of a consumer
+19 product that differs from the standard price.
+VT LEG #384891 v.1
+
+BILL AS INTRODUCED S.207
+2026 Page 3 of 4
+1 § 4193b. SURVEILLANCE PRICING; PROHIBITION
+2 (a) Except as provided under subsection (b) of this section, a person shall
+3 not use surveillance pricing to distribute, sell, or offer for sale a consumer
+4 product in the State.
+5 (b) A person may use surveillance pricing to distribute, sell, or offer for
+6 sale a consumer product if any of the following apply:
+7 (1) The difference from the standard price charged to a consumer is
+8 based solely on the cost to the person of providing the consumer product to
+9 that consumer.
+10 (2) The difference from the standard price is a discount offered to all
+11 consumers on equal terms in a manner consistent with applicable
+12 antidiscrimination laws. If the person gathers personally identifiable
+13 information in connection with the provision of this discount, the person shall
+14 ensure both of the following:
+15 (A) the consumer shall receive a clear and conspicuous written notice
+16 describing in readily ascertainable terms the specific intended purposes for
+17 which the person will use the personally identifiable information before the
+18 person uses the information for those purposes; and
+19 (B) the consumer shall provide written affirmative consent for any
+20 purpose described in subdivision (A) of this subdivision (2) before the
+21 consumer’s personally identifiable information is used for that purpose.
+VT LEG #384891 v.1
+
+BILL AS INTRODUCED S.207
+2026 Page 4 of 4
+1 (3) The person is licensed by the Department of Financial Regulation to
+2 conduct insurance business in the State pursuant to 8 V.S.A. chapter 101,
+3 provided that the person complies with any applicable rate standards under 8
+4 V.S.A. chapter 128.
+5 § 4193c. VIOLATIONS
+6 (a) A violation of this subchapter is deemed to be a violation of section
+7 2453 of this title.
+8 (b) The Attorney General has the same authority to make rules, conduct
+9 civil investigations, and bring civil actions with respect to the acts and
+10 practices that constitute surveillance pricing as is provided under chapter 63,
+11 subchapter 1 of this title.
+12 (c) A consumer subject to surveillance pricing has the same rights as a
+13 consumer has under section 2461 of this title.
+14 Sec. 2. EFFECTIVE DATE
+15 This act shall take effect on July 1, 2026.
+VT LEG #384891 v.1

@@ -1,0 +1,288 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.795
+2026 Page 1 of 12
+1 H.795
+2 Introduced by Representatives Greer of Bennington and Hango of Berkshire
+3 Referred to Committee on
+4 Date:
+5 Subject: Health; food and lodging establishments; children’s camps; health and
+6 safety
+7 Statement of purpose of bill as introduced: This bill proposes to create
+8 additional health and safety requirements for the licensure of children’s camps
+9 and extend licensure requirements to day camps.
+10 An act relating to children’s camps
+11 It is hereby enacted by the General Assembly of the State of Vermont:
+12 Sec. 1. 18 V.S.A. chapter 85 is amended to read:
+13 CHAPTER 85. FOOD AND LODGING ESTABLISHMENTS
+14 Subchapter 1. Food and Lodging Establishments Generally
+15 § 4301. DEFINITIONS
+16 (a) As used in this chapter:
+17 * * *
+18 (2) “Children’s camp” means any day or residential camp for children
+19 that:
+VT LEG #385045 v.2
+
+BILL AS INTRODUCED H.795
+2026 Page 2 of 12
+1 (A) offers a combination of programs and facilities established for
+2 the primary purpose of providing an experience to children; and
+3 (B) is operated for five or more consecutive days during one or more
+4 seasons of the year; and
+5 (C) provides 24-hours-a-day supervision of children.
+6 * * *
+7 Subchapter 3. Children’s Camps
+8 § 4371. DEFINITIONS
+9 As used in this subchapter:
+10 (1) “Cabin” means a structure used to provide temporary sleeping
+11 quarters for campers.
+12 (2) “Camper” means a youth under 18 years of age who is attending a
+13 children’s camp on a day or residential basis.
+14 (3) “Flood hazard area” has the same meaning as area of special flood
+15 hazard under 44 C.F.R. § 59.1.
+16 (4) “Health and Safety Team” means the Children’s Camp Health and
+17 Safety Team established in section 4372 of this chapter.
+18 (5) “Mapped river corridor” means a river corridor drawn and adopted
+19 by the Secretary of Natural Resources as part of the statewide River Corridor
+20 Base Map Layer in accordance with the Flood Hazard Area and River Corridor
+VT LEG #385045 v.2
+
+BILL AS INTRODUCED H.795
+2026 Page 3 of 12
+1 Protection Procedure for rivers and streams with a watershed area greater than
+2 two square miles.
+3 (6) “Regional emergency management committee” means a local
+4 organization for emergency management in accordance with the State
+5 emergency management plan and program as described in 20 V.S.A. § 6.
+6 § 4372. CHILDREN’S CAMP HEALTH AND SAFETY TEAM
+7 (a) Creation. There is established the Children’s Camp Health and Safety
+8 Team within the Department of Health for the purposes of recommending
+9 minimum health and safety standards for children’s camps to the
+10 Commissioner of Health and the General Assembly and reviewing and
+11 approving children’s camps’ emergency plans.
+12 (b) Membership. The Health and Safety Team shall be composed of:
+13 (1) a representative of the Department of Health, appointed by the
+14 Commissioner;
+15 (2) the Commissioner of Public Safety or designee;
+16 (3) the Commissioner of Financial Regulation or designee; and
+17 (4) the Commissioner of Forests, Parks and Recreation or designee.
+18 (c) Powers and duties. The Health and Safety Team shall convene not less
+19 than quarterly to:
+VT LEG #385045 v.2
+
+BILL AS INTRODUCED H.795
+2026 Page 4 of 12
+1 (1) develop and recommend health and safety policies for children’s
+2 camps, including recommendations that may require amendment to State law
+3 or rule; and
+4 (2) review and approve emergency plans submitted by children’s camps
+5 in the State.
+6 (d) Assistance. The Health and Safety Team shall have the administrative,
+7 technical, and legal assistance of the Department of Health.
+8 (e) Meetings.
+9 (1) The member appointed by the Commissioner of Health shall serve as
+10 chair.
+11 (2) A majority of the membership shall constitute a quorum.
+12 § 4373. ADDITIONAL LICENSURE REQUIREMENTS
+13 (a) In addition to the requirements in subchapters 1 and 2 of this chapter, a
+14 children’s camp shall meet the following health and safety requirements to
+15 obtain a license to operate under this chapter:
+16 (1) develop and adopt an approved emergency plan pursuant to section
+17 4374 of this chapter;
+18 (2) maintain an operable radio capable of providing real-time weather
+19 alerts issued by the National Weather Service or a similar professional weather
+20 service at the children’s camp;
+VT LEG #385045 v.2
+
+BILL AS INTRODUCED H.795
+2026 Page 5 of 12
+1 (3) install and maintain at the children’s camp an emergency warning
+2 system that:
+3 (A) is capable of alerting all campers and camp occupants of an
+4 emergency; and
+5 (B) includes a public address system that is operable without reliance
+6 on an internet connection;
+7 (4) monitor safety alerts issued by:
+8 (A) the National Weather Service or a similar professional weather
+9 service; and
+10 (B) if applicable to the children’s camp, local river authorities or
+11 through other local emergency notification systems;
+12 (5) conspicuously post the proper evacuation route, as described in the
+13 approved emergency plan required pursuant to section 4374 of this chapter, in
+14 each cabin on the premises of the children’s camp;
+15 (6) ensure each evacuation route on the premises of the children’s camp
+16 is illuminated at night; and
+17 (7) provide and maintain on the premises of the children’s camp:
+18 (A) fiber-optic internet service; and
+19 (B) a secondary broadband internet service that is distinct from the
+20 fiber-optic internet service required under subdivision (A) of this subdivision
+21 (7).
+VT LEG #385045 v.2
+
+BILL AS INTRODUCED H.795
+2026 Page 6 of 12
+1 (b) The Department may suspend any children’s camp license if it finds
+2 that the children’s camp is not in compliance with this chapter. It may
+3 reinstate a suspended license only after the Department determines the
+4 children’s camp has come into compliance with the chapter.
+5 § 4374. EMERGENCY PLAN
+6 (a) A children’s camp shall develop and implement an emergency plan
+7 that:
+8 (1) specifies muster zones for campers and camp staff to gather during
+9 an emergency event that requires evacuation from any location within the
+10 children’s camp premises;
+11 (2) establishes procedures for responding to an emergency event,
+12 including:
+13 (A) a lost camper;
+14 (B) a fire on the children’s camp premises;
+15 (C) a severe injury, severe illness, serious accident, or death of one or
+16 more campers, visitors, camp staff, or camp volunteers that occurs on the
+17 children’s camp premises or while under the supervision of camp staff;
+18 (D) an aquatic emergency if the children’s camp borders a
+19 watercourse, lake, pond, or any other body of water;
+VT LEG #385045 v.2
+
+BILL AS INTRODUCED H.795
+2026 Page 7 of 12
+1 (E) an epidemic;
+2 (F) an unauthorized or unknown individual present on the children’s
+3 camp premises;
+4 (G) a transportation emergency; or
+5 (H) any other natural disaster or emergency event required by rule;
+6 (3) establishes a procedure to identify and account for each camper
+7 affected by an emergency event;
+8 (4) establishes procedures to notify and communicate with:
+9 (A) local emergency management services, including the regional
+10 emergency management committee operating in the region in which the
+11 children’s camp is located;
+12 (B) the children’s camp administrative and medical services staff;
+13 and
+14 (C) the parents and legal guardians of each camper affected by an
+15 emergency event; and
+16 (5) designates an emergency preparedness coordinator on the premises
+17 of the children’s camp.
+18 (b) A children’s camp may consult with the regional emergency
+19 management committee operating in the region in which the children’s camp is
+20 located in developing its emergency plan.
+VT LEG #385045 v.2
+
+BILL AS INTRODUCED H.795
+2026 Page 8 of 12
+1 (c)(1) Annually, at least four months prior to the children’s camp opening
+2 for the season, the children’s camp shall submit a copy of its proposed
+3 emergency plan developed pursuant to this section to the Health and Safety
+4 Team for review and approval. The proposed emergency plan shall be
+5 submitted in a form and manner prescribed by the Health and Safety Team.
+6 (2)(A) If the Health and Safety Team determines that a children’s
+7 camp’s proposed emergency plan does meet the minimum standards prescribed
+8 in this chapter and in rule, the Health and Safety Team shall approve the
+9 emergency plan. A children’s camp shall include its approved emergency plan
+10 as an addendum to each application for licensure or licensure renewal.
+11 (B) If the Health and Safety Team determines that the children’s
+12 camp’s proposed emergency plan does not meet the minimum standards
+13 prescribed in this chapter and in rule, the Health and Safety Team shall advise
+14 the children’s camp to revise and resubmit the proposed emergency plan within
+15 30 days after receiving notice from the Health and Safety Team of the
+16 proposed emergency plan’s deficiencies.
+17 (d) Annually, a children’s camp shall provide a copy of its most recently
+18 approved emergency plan to:
+19 (1) the regional emergency management committee operating in the
+20 region in which the children’s camp is located;
+VT LEG #385045 v.2
+
+BILL AS INTRODUCED H.795
+2026 Page 9 of 12
+1 (2) the parent or legal guardian of each camper; and
+2 (3) camp staff and any volunteers.
+3 (e)(1) The Department shall store in a digital database each approved
+4 emergency plan submitted by a licensed children’s camp and shall provide
+5 access to the database to the Department of Public Safety’s Division of
+6 Emergency Management and members of the Health and Safety Team.
+7 (2) Notwithstanding subdivision (1) of this subsection, any approved
+8 emergency plan stored in the Department’s digital database shall be exempt
+9 from public inspection and copying under the Public Records Act and shall be
+10 kept confidential, provided that an approved emergency plan that is no longer
+11 current shall be available for public inspection and copying 10 years after the
+12 date on which the plan was adopted.
+13 (f)(1) A children’s camp shall notify the Health and Safety Team in the
+14 form and manner prescribed by the Team if the children’s camp modifies a
+15 structure intended to facilitate children’s camp activities or the location of a
+16 camp activity on the premises of the children’s camp.
+17 (2) Upon receiving the notification, the Health and Safety Team may
+18 require the children’s camp to update its emergency plan and resubmit it to the
+19 Health and Safety Team for approval.
+VT LEG #385045 v.2
+
+BILL AS INTRODUCED H.795
+2026 Page 10 of 12
+1 § 4375. FLOOD HAZARD AREAS; PARENTAL NOTIFICATION
+2 If any area of a children’s camp is located within a flood hazard area or
+3 mapped river corridor, the children’s camp shall notify the parent or legal
+4 guardian of each current and prospective camper in writing. The children’s
+5 camp shall obtain a written statement acknowledging receipt of this notice
+6 from each camper’s parent or guardian prior to the start of the camper’s
+7 attendance at the children’s camp.
+8 § 4376. TRAINING AND SAFETY ORIENTATION
+9 (a) Each year prior to the arrival of campers, a children’s camp shall:
+10 (1) ensure each staff member and volunteer successfully completes a
+11 training on the children’s camp’s approved emergency plan in compliance with
+12 any minimum standards required by the Department by rule;
+13 (2) instruct each staff member and volunteer on the proper procedures to
+14 follow in an emergency event under the approved emergency plan; and
+15 (3) maintain written records documenting each staff member’s and
+16 volunteer’s participation in and successful completion of the training required
+17 pursuant to this subsection.
+18 (b) Within the first 48 hours of the start of any children’s camp session, a
+19 camp staff member shall conduct a mandatory health and safety orientation
+20 that:
+VT LEG #385045 v.2
+
+BILL AS INTRODUCED H.795
+2026 Page 11 of 12
+1 (1) notifies each camper of the children’s camp’s boundaries and any
+2 hazards present on the camp premises;
+3 (2) instructs each camper on behavioral expectations in an emergency
+4 event; and
+5 (3) provides each camper with developmentally appropriate instruction
+6 on the procedures to follow in an emergency event in accordance with the
+7 children’s camp approved emergency plan required under section 4374 of this
+8 chapter.
+9 § 4377. COMPLAINT AND INSPECTION PROCESS
+10 (a)(1) The Department shall maintain on its website a publicly accessible
+11 complaint page for use by any individual, including a camper, parent or legal
+12 guardian, camp staff member, or volunteer, who wishes to report that a
+13 children’s camp is noncompliant with this chapter.
+14 (2) Each licensed children’s camp shall maintain a link to the
+15 Department’s complaint page in a prominent location on its website.
+16 (b) The Department shall investigate each complaint filed with the
+17 Department using the publicly accessible web page or by other means to
+18 ensure a children’s camp is properly implementing its approved emergency
+19 plan and other obligations under this chapter. Each investigation shall include
+20 an in-person inspection of the children’s camp in question.
+VT LEG #385045 v.2
+
+BILL AS INTRODUCED H.795
+2026 Page 12 of 12
+1 § 4378. RULEMAKING
+2 The Department shall adopt rules pursuant to 3 V.S.A. chapter 25 to
+3 implement the provisions of this subchapter. The rules shall also include
+4 minimum camper-to-counselor ratios for overnight stays at children’s camps.
+5 Subchapter 34. Serving Milk to Public
+6 * * *
+7 Subchapter 45. Bakeries
+8 * * *
+9 Subchapter 56. Salvage Food Facilities
+10 * * *
+11 Subchapter 67. Temporary Outdoor Seating
+12 * * *
+13 Subchapter 78. Short-Term Rentals
+14 * * *
+15 Sec. 2. EFFECTIVE DATE
+16 This act shall take effect on passage.
+VT LEG #385045 v.2

@@ -1,0 +1,498 @@
+Title: 
+Official Title: 
+Source: versions - As Passed By the Senate (OfficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.197
+2026 Page 1 of 17
+1 S.197
+2 Introduced by Senators Lyons, Bongartz, Cummings, Gulick, Harrison, Ram
+3 Hinsdale, Watson and White
+4 Referred to Committee on Health and Welfare
+5 Date: January 6, 2026
+6 Subject: Health; health care professionals; primary care; Department of
+7 Vermont Health Access; Green Mountain Care Board
+8 Statement of purpose of bill as introduced: This bill proposes to establish a
+9 primary care payment reform program in which participating primary care
+10 providers would receive a monthly payment from the patient’s health insurer
+11 or other payer for each participating patient that would cover the patient’s
+12 routine primary care services for the month without any cost-sharing
+13 requirements. The bill would require reports from the Department of Vermont
+14 Health Access on expanding the program, from the Green Mountain Care
+15 Board on site-neutral reimbursements, from the Agency of Human Services
+16 and others on transitioning care from hospitals to community settings, from the
+17 Green Mountain Care Board and others on access to claims and hospital
+18 discharge data, and from the Office of the State Treasurer on the potential for a
+19 regional universal primary care program. The bill would also eliminate the
+20 2027 sunset on a primary care physician scholarship program.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.197
+2026 Page 2 of 17
+1 An act relating to establishing a primary care payment reform program
+An act relating to payment reform for primary care
+2 It is hereby enacted by the General Assembly of the State of Vermont:
+3 Sec. 1. LEGISLATIVE INTENT
+4 It is the intent of the General Assembly to invest in primary care by
+5 establishing a streamlined primary care payment system that will promote the
+6 public good by increasing access to primary care in order to improve the health
+7 of Vermonters and reduce health care system costs.
+8 Sec. 2. 18 V.S.A. § 721 is added to read:
+9 § 721. PRIMARY CARE PAYMENT REFORM PROGRAM
+10 (a)(1) The Department of Vermont Health Access, in coordination with the
+11 Green Mountain Care Board and the Blueprint for Health and in consultation
+12 with the Vermont Steering Committee for Comprehensive Primary Health Care
+13 and other interested stakeholders, shall develop and implement a primary care
+14 payment reform program that will promote the public good by investing in
+15 primary care and reducing administrative burdens in order to increase access to
+16 care and reduce health system costs.
+17 (2) The primary care payment reform program shall initially be
+18 voluntary for primary care practices and shall be funded by allocating a
+19 portion of commercial health insurance premiums; a portion of premium
+20 equivalents from other participating payers; and, to the extent permitted by
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.197
+2026 Page 3 of 17
+1 federal law, waivers of federal law, and federal initiatives, public funds from
+2 Medicare and Medicaid. Beginning in 2028, all primary care practices shall
+3 participate in the program.
+4 (3) The program shall collect and aggregate payments from
+5 participating payers in order to provide a capitated, per-member per-month
+6 payment to each participating primary care practice to cover all of the routine
+7 primary care needs of attributed patients who are covered by participating
+8 plans, without any patient cost-sharing requirements.
+9 (b) To the extent that the program includes any practice participation
+10 requirements, administrative or documentation requirements, or quality
+11 measurements, the Department shall establish them in a manner that
+12 streamlines and reduces the administrative burdens on primary care practices
+13 imposed by the program and by public and private payers, including aligning
+14 with, incorporating, or reducing Blueprint for Health requirements.
+15 (1) The program shall establish not more than 12 quality measures and
+16 may require a primary care practice to adopt not more than sixof them. Each
+17 quality measure shall be claims-derived, patient-centered, appropriate for a
+18 primary care setting, and supported by peer-reviewed, evidence-based research
+19 indicating that the measure is actionable and that its use will lead to
+20 improvements in patient health.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.197
+2026 Page 4 of 17
+1 (2) The goals of this subsection are:
+2 (A) to reduce the amount of time that primary care practitioners
+3 spend on administrative tasks from an average of 50 percent of practitioner
+4 time to an average of 10 percent of practitioner time; and
+5 (B) to reduce the need for administrative staff, as measured by the
+6 ratio of administrative staff to clinical staff.
+7 (c) The Department shall adopt by rule a risk-adjusted allocation model for
+8 primary care practices participating in the payment reform program that may
+9 be informed by previous accountable care organization payment
+10 methodologies and may blend base per-member per-month capitated payments
+11 with fee-for-service payments as needed for specific primary care services.
+12 The allocation shall include a reimbursement model and level that:
+13 (1) accomplishes Vermont’s primary care spending target as set forth in
+14 subsection (g) of this section;
+15 (2) supports sufficient access to and sustainability of primary care
+16 services in Vermont;
+17 (3) incorporates different methodologies as needed to address the unique
+18 needs of all practice types, including independent practices, federally qualified
+19 health centers and rural health centers, and hospital-based primary care
+20 practices;
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.197
+2026 Page 5 of 17
+1 (4) incorporates a methodology with the flexibility necessary to support
+2 and adjust for the different scope of services delivered by different practices;
+3 (5) accounts for the closure of accountable care organizations;
+4 (6) accurately attributes patients to primary care practices;
+5 (7) is sufficient to support practices in offering comprehensive, team-
+6 based primary care that includes supports for mental health and social drivers
+7 of health; and
+8 (8) to the extent permitted under federal law, does not require
+9 individuals covered by participating health plans to pay cost-sharing amounts
+10 when receiving routine primary care services from participating primary care
+11 providers and practices.
+12 (d) The Department shall operate a payment pool to:
+13 (1) collect the primary care allocation of premiums, premium
+14 equivalents, and public program funds due from each payer; and
+15 (2) determine the per capita payments or other payment mechanism to
+16 distribute the funds to participating primary care practices.
+17 (e) The Department of Vermont Health Access shall adopt rules in
+18 accordance with 3 V.S.A. chapter 25 to implement the primary care payment
+19 reform program, including:
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.197
+2026 Page 6 of 17
+1 (1) determining the scope of the primary care services to be included in
+2 the capitated rate and the primary care practices that are eligible for
+3 participation in the program;
+4 (2) if using, practice participation requirements, administrative and
+5 documentation requirements, and quality measurements, in accordance with
+6 subsection (b) of this section;
+7 (3) the risk-adjusted allocation model, in accordance with subsection (c)
+8 of this section;
+9 (4) operation of the payment pool, in accordance with subsection (d) of
+10 this section;
+11 (5) program parameters that address and mitigate against practices
+12 avoiding high-risk patients or otherwise engaging in adverse selection, while
+13 also striving to maximize practice eligibility and participation;
+14 (6) definitions of direct and indirect primary care spending and
+15 appropriate limits on indirect primary care spending as a percentage of health
+16 care spending, as set forth in subdivision (g)(2) of this section; and
+17 (7) benchmarks for determining the program’s performance, as set forth
+18 in subdivision (g)(3) of this section.
+19 (f) The Agency of Human Services or the Green Mountain Care Board, or
+20 both, shall enter into negotiations with the Centers for Medicare and Medicaid
+21 Services in order to secure Medicare participation in the primary care payment
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.197
+2026 Page 7 of 17
+1 reform program. The Agency or Board, or both, shall also conduct outreach to
+2 self-funded, nongovernmental employer-sponsored plans regarding
+3 opportunities for their voluntary participation in the program and to discuss
+4 with interested plans the appropriate allocation of premium equivalents to be
+5 paid into the payment pool, which amounts should not unfairly disadvantage
+6 individuals covered by fully insured plans, self-funded governmental plans, or
+7 public benefit programs.
+8 (g)(1) Implementation of the primary care payment reform program
+9 shall increase the proportion of total annual health care spending in Vermont
+10 that is spent on primary care, with an initial primary care spending allocation
+11 target of 15 percent of total Vermont health care spending to be met not later
+12 than January 1, 2029. The Department shall establish a transitional schedule
+13 that increases the proportion of primary care spending over time in order to
+14 achieve the primary care spending target. The increased spending for primary
+15 care shall not result in an increase in total health care spending in Vermont.
+16 (2) The Department shall limit indirect primary care spending, as
+17 defined by rule, as a percentage of total direct and indirect primary care
+18 spending for purposes of the primary care spending target.
+19 (3) The Department may establish a new, higher primary care spending
+20 target after the initial target has been achieved if the Department’s analysis
+21 determines that the primary care payment reform program has met specific
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.197
+2026 Page 8 of 17
+1 benchmarks established by the Department by rule, in areas including access to
+2 primary care, quality of primary care services delivered, impact on health
+3 outcomes, and containment of overall health care costs.
+4 (4) For purposes of the primary care spending allocation target, the
+5 Department shall use a definition of primary care services that aligns with the
+6 definition used in the 2020 report determining the proportion of health care
+7 spending in Vermont that is allocated to primary care, which was submitted to
+8 the General Assembly by the Green Mountain Care Board and the Department
+9 of Vermont Health Access in accordance with 2019 Acts and Resolves No. 17,
+10 Sec. 2, and with the definition of primary care services used by the New
+11 England States Consortium Systems Organization (NESCSO).
+12 Sec. 3. PRIMARY CARE PAYMENT REFORM PROGRAM;
+13 IMPLEMENTATION DATE; REPORTS
+14 (a) The Department of Vermont Health Access shall begin operating the
+15 primary care payment reform program established in Sec. 2 of this act on or
+16 before July 1, 2027. Participation in the program shall be voluntary for
+17 primary care practices when the program begins, but not later than January 1,
+18 2028, all primary care practices in this State shall be participating.
+19 (b) On or before December 15, 2026, the Department of Vermont Health
+20 Access, in coordination with the Green Mountain Care Board, shall report to
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.197
+2026 Page 9 of 17
+1 the House Committee on Health Care, the Senate Committee on Health and
+2 Welfare, and the Health Reform Oversight Committee regarding:
+3 (1) progress in establishing the primary care payment reform program
+4 and a timeline for its implementation; and
+5 (2) options for revenue sources and mechanisms, along with an
+6 operational and financial plan, for expanding the program not later than
+7 January 1, 2028, to any patient of a participating practice, regardless of type of
+8 the individual’s health coverage or coverage status.
+9 Sec. 4. VERMONT CLINICIAN LANDSCAPE; SITE-NEUTRAL
+10 REIMBURSEMENTS; REPORTS
+11 On or before January 1, 2027, the Green Mountain Care Board shall report
+12 to the House Committee on Health Care and the Senate Committee on Health
+13 and Welfare with:
+14 (1) an updated version of the Board’s 2017 Vermont Clinician
+15 Landscape Study report that reflects the current climate among practicing
+16 clinicians in Vermont; and
+17 (2) an updated version of the Board’s previous reporting regarding site-
+18 neutral reimbursements pursuant to 2015 Acts and Resolves No. 54, Sec. 23;
+19 2016 Acts and Resolves No. 143, Sec. 5; and 2017 Acts and Resolves No. 85,
+20 Sec. E.345.1, including the current state of reimbursement differentials based
+21 on practice setting and ownership type, along with a description of any
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.197
+2026 Page 10 of 17
+1 significant efforts that have been implemented since 2017 toward achieving
+2 site-neutral reimbursements.
+3 Sec. 5. TRANSITIONING CARE TO COMMUNITY SETTINGS; REPORT
+4 On or before January 15, 2027, the Agency of Human Services, in
+5 consultation with the Vermont Steering Committee for Comprehensive
+6 Primary Health Care, the Blueprint for Health, the Vermont Association of
+7 Hospitals and Health Systems, the Vermont Medical Society, and other
+8 interested stakeholders, shall report to the House Committee on Health Care
+9 and the Senate Committee on Health and Welfare with recommendations for
+10 ways to accelerate the appropriate transition of patients from hospital care to
+11 care delivered in a community setting, including ways to reduce the extent to
+12 which primary care services are delivered to patients in an inpatient hospital
+13 setting following surgery or other acute care, when care delivered by a primary
+14 care provider in the community would be as or more effective and less costly.
+15 The recommendations shall include opportunities to use community health
+16 teams through the Blueprint for Health to coordinate patients’ care transitions.
+17 Sec. 6. ACCESS TO CLAIMS AND HOSPITALDISCHARGE DATA;
+18 BILLBACK; REPORT
+19 (a) The Green Mountain Care Board, in collaboration with the Vermont
+20 Program for Quality in Health Care (VPQHC), the Vermont Health
+21 Information Exchange Steering Committee, and the Office of the Health Care
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.197
+2026 Page 11 of 17
+1 Advocate, shall consider the existing regulatory structures in place for access
+2 to information from the Vermont Health Care Uniform Reporting and
+3 Evaluation System (VHCURES) and the Vermont Uniform Hospital Discharge
+4 Data System (VUHDDS) and recommend ways to improve access to the
+5 information for quality improvement purposes while preserving appropriate
+6 protections for patient privacy.
+7 (b) The Board, in consultation with VPQHC, shall also recommend any
+8 modifications to statute or current practice that are necessary to enable
+9 VPQHC’s expenses incurred in maintaining the statewide quality assurance
+10 system in accordance with 18 V.S.A. § 9416 to be billed back to hospitals and
+11 health insurers pursuant to 18 V.S.A. § 9416(c).
+12 (c) On or before January 15, 2027, the Board shall report its findings and
+13 recommendations under this section to the House Committee on Health Care
+14 and the Senate Committee on Health and Welfare.
+15 Sec. 7. REGIONALUNIVERSALPRIMARY CARE PROGRAM; REPORT
+16 The Office of the State Treasurer, in consultation with the Agency of
+17 Human Services, shall collaborate with other northeastern states to explore the
+18 potential to establish a regional universal primary care program that would be
+19 available to all residents of the member states. On or before January 15, 2027,
+20 the State Treasurer shall report to the House Committee on Health Care and
+21 the Senate Committee on Health and Welfare regarding the Office’s outreach
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.197
+2026 Page 12 of 17
+1 efforts, interest from other northeastern states, any legal or regulatory obstacles
+2 identified, and recommendations for next steps.
+3 Sec. 8. 2020 Acts and Resolves No. 155, Sec. 7a, as amended by 2021 Acts
+4 and Resolves No. 74, Sec. E.311.2, is further amended to read:
+5 Sec. 7a. SUNSET
+6 18 V.S.A. § 33 (medical students; primary care) is repealed on July 1, 2027.
+7 [Deleted.]
+8 Sec. 9. EFFECTIVE DATE
+9 This act shall take effect on passage.
+Sec. 1. LEGISLATIVE INTENT
+It is the intent of the General Assembly to invest in primary through
+streamlined primary care payments that build on the Blueprint for Health and
+will promote the public good by increasing access to primary care in order to
+improve the health of Vermonters and reduce health care system costs.
+Sec. 2. 18 V.S.A. chapter 13, subchapter 1 is amended to read:
+Subchapter 1. Blueprint for Health
+§ 701. DEFINITIONS
+As used in this chapter:
+(1) “Blueprint for Health” or “Blueprint” means the State’s program
+for integrating a system of health care for patients, improving the health of the
+overall population, and improving control over health care costs by promoting
+health maintenance, prevention, and care coordination and management.
+* * *
+(8) “Health insurance plan” has the same meaning as means a major
+medical insurance plan as defined in 8 V.S.A. § 4011.
+(9) “Health insurer” shall have the same meaning as in section 9402 of
+this title means any person that offers, issues, renews, or administers a health
+insurance plan or other health benefit plan in this State and includes, to the
+extent permitted under federal law, third-party administrators that administer
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.197
+2026 Page 13 of 17
+a health benefit plan offering coverage in this State or that provide
+administrative services only for a health benefit plan offering coverage in this
+State.
+* * *
+§ 706. HEALTH INSURER PARTICIPATION; PAYMENTS TO
+PRACTICES
+(a) As set forth in 8 V.S.A. § 4025, health insurance plans shall be
+consistent with the Blueprint for Health as determined by the Commissioner of
+Financial Regulation.
+(b)(1) Health insurers shall participate in the Blueprint for Health as a
+condition of doing business in this State as provided for in this section and in 8
+V.S.A. § 4025.
+(2) In order to facilitate development of the sustainable payment models
+necessary for the Blueprint’s success, health insurers shall submit to the
+Agency of Human Services at least quarterly, or more frequently upon the
+Agency’s request, all information that the Director of the Blueprint deems
+necessary to perform a comprehensive fiscal analysis of the total cost of care
+within Vermont and to implement one or more payment models that address
+health care capacity, volume, quality, and clinical outcomes.
+(c)(1) The Blueprint payment reform methodologies shall include per-
+person per-month payments to medical home participating practices, including
+medical homes and primary care providers, by each health insurer and
+Medicaid for their attributed patients and for contributions to the shared costs
+of operating Blueprint initiatives, including the community health teams. Per-
+person per-month payments to practices shall be:
+(A) based on the official National Committee for Quality Assurance’s
+Physician Practice Connections-Patient Centered Medical Home (NCQA
+PPC-PCMH) score or another quality standard identified by the Director of
+the Blueprint in consultation with the Blueprint Payment Implementation
+Workgroup, to the extent practicable and shall be;
+(B) provided in addition to their normal a practice’s typical fee-for-
+service or other payments; and
+(C) from health insurers, in amounts at least equal to Medicaid
+payments beginning in 2027.
+(2) Consistent with recommendations of the Blueprint Executive
+Committee, the Director of the Blueprint may recommend to the Commissioner
+of Vermont Health Access Secretary of Human Services changes to the payment
+amounts or to the payment reform methodologies described in subdivision (1)
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.197
+2026 Page 14 of 17
+of this subsection, including by providing for enhanced payment to health care
+professional practices that operate as a medical home, including medical
+homes and primary care naturopathic physicians’ practices; payment toward
+the shared costs for community health teams; or other payment methodologies
+required by the Centers for Medicare and Medicaid Services (CMS) for
+participation by Medicaid or Medicare. In formulating recommendations, the
+Director shall strive to achieve or maintain parity across payers and payment
+methodologies and to adjust payment methodologies annually as needed to
+adequately support practices in maintaining NCQA PCMH status or meeting
+other requirements for participation in Blueprint programs.
+(3) Health insurers shall modify payment methodologies and amounts to
+health care professionals and providers as required for the establishment of the
+model described in sections 703–705 of this title and this section, including
+any requirements specified by the Centers for Medicare and Medicaid Services
+(CMS) in approving federal participation in the model to ensure consistency of
+payment methods in the model.
+(4) In the event that the Secretary of Human Services is denied
+permission from the Centers for Medicare and Medicaid Services (CMS) to
+include financial participation by Medicare, health insurers shall not be
+required to cover the costs associated with individuals covered by Medicare.
+(d) An A health insurer may appeal a decision to require a particular
+payment methodology or payment amount to the Commissioner of Vermont
+Health Access Secretary of Human Services or designee, who shall provide a
+hearing in accordance with 3 V.S.A. chapter 25. An A health insurer
+aggrieved by the decision of the Commissioner Secretary or designee may
+appeal to the Superior Court for the Washington District within 30 days after
+the Commissioner issues his or her Secretary or designee issues a decision.
+* * *
+§ 710. PRIMARY CARE SPENDING TARGETS
+The Agency of Human Services shall establish a target for the amount of
+per-person per-month spending on Vermont residents that should be for
+primary care services and shall develop a transitional schedule that increases
+that target over time. Targets may be adjusted to reflect payer-specific
+differences, such as age and health status. The increased spending shall be
+directed to the per-person per-month payments established in section 706(c) of
+this chapter.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.197
+2026 Page 15 of 17
+Sec. 3. BLUEPRINT PAYMENTS TO PRACTICES; PRIMARY CARE;
+REPORT
+On or before January 1, 2027, the Director of the Blueprint for Health, in
+consultation with the Blueprint Executive Committee and the Vermont Steering
+Committee for Comprehensive Primary Health Care, shall report to the House
+Committee on Health Care and the Senate Committee on Health and Welfare
+regarding changes to the payment amounts or payment reform methodologies,
+or both, that are necessary to transition the Blueprint’s per-person per-month
+payments to primary care practices to include payment for the routine primary
+care needs of attributed patients who are covered by participating health
+plans. The report shall:
+(1) define which services should be considered routine primary care;
+(2) address any differences in methodology for different practice types;
+(3) make recommendations regarding risk-adjustment and attribution
+methodologies;
+(4) describe the ways in which the methodology will balance capacity,
+volume, quality, and outcomes;
+(5) include mechanisms for ensuring that health plans make accurate
+and appropriate payments to primary care practices in a timely manner;
+(6) make recommendations regarding participation or quality
+measurement requirements, or both;
+(7) provide an analysis of including cost-sharing amounts for
+individuals covered by participating health plans in the methodology,
+including the extent to which such inclusion would be permissible for a high-
+deductible health plan without losing its eligibility to be paired with a health
+savings account;
+(8) provide an analysis of ways to incorporate a primary care spending
+allocation target into the methodology; and
+(9) provide an operational plan and a description of any additional
+legislation needed in order to implement the methodology not later than
+January 1, 2028.
+Sec. 4. PRIMARY CARE SPENDING; AGENCY OF HUMAN SERVICES;
+REPORT
+On or before January 1, 2027, the Agency of Human Services, in
+consultation with the Green Mountain Care Board, shall report to the House
+Committee on Health Care and the Senate Committee on Health and Welfare
+the baseline per-person per-month spending on primary care services for
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.197
+2026 Page 16 of 17
+Vermont residents overall and by each health insurer, third-party administrator
+administering a health plan or providing administrative services only for a
+health plan, Medicaid, and Medicare. The Agency shall use the definition of
+primary care providers and services from the Advancing Healthcare Efficiency
+through Accountable Design (AHEAD) Model or the definition of primary care
+services used by the New England States Consortium Systems Organization
+(NESCSO).
+Sec. 5. PRIMARY CARE SPENDING TARGETS; REPORT
+On or before January 1, 2028, the Agency of Human Services shall report to
+the House Committee on Health Care and the Senate Committee on Health and
+Welfare the per-person per-month primary care spending targets developed
+pursuant to 18 V.S.A. § 710, as added by Sec. 2 of this act, as well as the
+proposed transitional schedule for increasing that target over time, any
+recommendations for payer-specific adjustments to the targets, and any
+additional legislation that is needed to implement and enforce the primary care
+spending targets and 18 V.S.A. § 710.
+Sec. 6. VERMONT CLINICIAN LANDSCAPE; SITE-NEUTRAL
+REIMBURSEMENTS; REPORTS
+On or before January 1, 2027, the Green Mountain Care Board shall report
+to the House Committee on Health Care and the Senate Committee on Health
+and Welfare with:
+(1) an updated version of the Board’s 2017 Vermont Clinician
+Landscape Study report that reflects the current climate among practicing
+clinicians in Vermont; and
+(2) an updated version of the Board’s previous reporting regarding site-
+neutral reimbursements pursuant to 2015 Acts and Resolves No. 54, Sec. 23;
+2016 Acts and Resolves No. 143, Sec. 5; and 2017 Acts and Resolves No. 85,
+Sec. E.345.1, including the current state of reimbursement differentials based
+on practice setting and ownership type, along with a description of any
+significant efforts that have been implemented since 2017 toward achieving
+site-neutral reimbursements.
+Sec. 7. TRANSITIONING CARE TO COMMUNITY SETTINGS; REPORT
+On or before January 15, 2027, the Agency of Human Services, in
+consultation with the Vermont Steering Committee for Comprehensive Primary
+Health Care, the Blueprint for Health, the Vermont Association of Hospitals
+and Health Systems, the Vermont Medical Society, Bi-State Primary Care
+Association, and other interested stakeholders, shall report to the House
+Committee on Health Care and the Senate Committee on Health and Welfare
+with recommendations for ways to accelerate the appropriate transition of
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.197
+2026 Page 17 of 17
+patients from hospital care to care delivered in a community setting, including
+ways to reduce the extent to which primary care services are delivered to
+patients in an inpatient hospital setting following surgery or other acute care,
+when care delivered by a primary care provider in the community would be as
+or more effective and less costly. The recommendations shall include
+opportunities to use community health teams through the Blueprint for Health
+to coordinate patients’ care transitions. The Agency shall incorporate the
+recommendations into the Health Care Delivery Strategic Plan as appropriate.
+Sec. 8. REGIONAL UNIVERSAL PRIMARY CARE PROGRAM; REPORT
+The Office of the State Treasurer, in consultation with the Agency of Human
+Services, shall collaborate with other northeastern states to explore the
+potential to establish a regional universal primary care program that would be
+available to all residents of the member states. On or before January 15,
+2027, the State Treasurer shall report to the House Committee on Health Care
+and the Senate Committee on Health and Welfare regarding the Office’s
+outreach efforts, interest from other northeastern states, any legal or
+regulatory obstacles identified, and recommendations for next steps.
+Sec. 9. 2020 Acts and Resolves No. 155, Sec. 7a, as amended by 2021 Acts
+and Resolves No. 74, Sec. E.311.2, is further amended to read:
+Sec. 7a. SUNSET
+18 V.S.A. § 33 (medical students; primary care) is repealed on July 1, 2027.
+[Deleted.]
+Sec. 10. 8 V.S.A. § 4092(i) is amended to read:
+(i)(1) On a periodic basis but not less than once per calendar year, each
+health insurer shall notify all individuals covered under its health insurance
+plans of any changes in pharmaceutical coverage and provide access to the
+preferred drug list maintained by the health insurer or its pharmacy benefit
+manager.
+(2) Not less than 60 days prior to removing a prescription drug from its
+formulary or from the formulary maintained by a pharmacy benefit manager
+its behalf, a health insurer shall notify all individuals covered under its health
+insurance plans who filled a prescription for that prescription drug within the
+previous 12-month period that coverage for the drug will be discontinued and
+of the date on which the coverage will end.
+Sec. 11. EFFECTIVE DATE
+This act shall take effect on passage.

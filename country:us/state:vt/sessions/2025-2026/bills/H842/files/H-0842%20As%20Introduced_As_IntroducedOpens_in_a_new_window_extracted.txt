@@ -1,0 +1,284 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.842
+2026 Page 1 of 12
+1 H.842
+2 Introduced by Representatives Pinsonault of Dorset, Bishop of Colchester,
+3 Bosch of Clarendon, Boutin of Barre City, Branagan of
+4 Georgia, Canfield of Fair Haven, Charlton of Chester, Coffin of
+5 Cavendish, Cooper of Pownal, Critchlow of Colchester, Demar
+6 of Enosburgh, Dobrovich of Williamstown, Duke of Burlington,
+7 Galfetti of Barre Town, Graning of Jericho, Greer of
+8 Bennington, Harvey of Castleton, Higley of Lowell, Howland
+9 of Rutland Town, Hunter of Manchester, Keyser of Rutland
+10 City, Kimbell of Woodstock, Labor of Morgan, Laroche of
+11 Franklin, Lipsky of Stowe, Luneau of St. Albans City, Malay of
+12 Pittsford, Marcotte of Coventry, Morgan, L. of Milton, Oliver
+13 of Sheldon, Olson of Starksboro, Page of Newport City, Powers
+14 of Waterford, Pritchard of Pawlet, Southworth of Walden,
+15 Tagliavia of Corinth, and Taylor of Milton
+16 Referred to Committee on
+17 Date:
+18 Subject: Education; Commission on Public School Employee Health Benefits
+19 Statement of purpose of bill as introduced: This bill proposes to change the
+20 number and composition of the members of the Commission on Public School
+21 Employee Health Benefits, provide that the Secretary of Education serves as
+VT LEG #386139 v.1
+
+BILL AS INTRODUCED H.842
+2026 Page 2 of 12
+1 chair of the Commission, and limit the number of alternate members. This bill
+2 also proposes to place a cap on the actuarial value of health benefit plans and
+3 to include a list of factors for the Commission’s consideration in making its
+4 determinations. This bill also proposes to give the final arbiter of a dispute the
+5 option to modify the parties’ last best offers or to draft an award of the
+6 arbitrator’s design, in addition to selecting one of the parties’ last best offers.
+7 This bill also proposes that the Secretary of Education contract with a single
+8 third-party provider to oversee any health reimbursement arrangement or
+9 health savings account for school employees.
+10 An act relating to the Commission on Public School Employee Health
+11 Benefits
+12 It is hereby enacted by the General Assembly of the State of Vermont:
+13 Sec. 1. 16 V.S.A. § 2102 is amended to read:
+14 § 2102. COMMISSION ON PUBLIC SCHOOL EMPLOYEE HEALTH
+15 BENEFITS CREATED
+16 * * *
+17 (b) Composition and appointment.
+18 (1) The Commission shall have 10 nine members, of whom five three
+19 shall be representatives of school employees and five three shall be
+20 representatives of school employers. The remaining members shall be:
+VT LEG #386139 v.1
+
+BILL AS INTRODUCED H.842
+2026 Page 3 of 12
+1 (A) the Secretary of Education or designee;
+2 (B) the Commissioner of Taxes or designee; and
+3 (C) one representative from the Vermont School Boards Insurance
+4 Trust, appointed by the Chair of the Board of Directors of the Vermont School
+5 Boards Insurance Trust.
+6 (2)(A) The representatives of school employees shall be appointed as
+7 follows:
+8 (i) four two members appointed by the labor organization
+9 representing the greatest number of school employees in this State; and
+10 (ii) one member appointed by the labor organization representing
+11 the second-greatest number of school employees in this State.
+12 (B) The five three representatives of school employers shall be
+13 appointed by the organization representing the majority of the public school
+14 boards in this State.
+15 (C) The appointing authorities shall select appointees who have an
+16 understanding of health care and employer-employee relations and who
+17 demonstrate a willingness to work collaboratively.
+18 (D) The term of each member of the Commission shall be six years,
+19 provided that of the members first appointed by the labor organization
+20 described in subdivision (A)(i) of this subdivision (2), one appointee shall
+21 serve a term of two years and one appointee shall serve a term of four years,
+VT LEG #386139 v.1
+
+BILL AS INTRODUCED H.842
+2026 Page 4 of 12
+1 and of the members first appointed by the organization representing the
+2 majority of the public school boards in this State, one appointee shall serve a
+3 term of two years and one appointee shall serve a term of four years.
+4 (3) In the event of a vacancy, the appointing authority of the member
+5 whose seat becomes vacant shall appoint a successor to serve out the
+6 remainder of the member’s term.
+7 (c) Chairs. The Commission shall be chaired jointly by one member
+8 selected biennially by the representatives of school employees and one
+9 member selected biennially by the representatives of school employers the
+10 Secretary of Education or designee.
+11 (d) Removal of Commission members. Members of the Commission may
+12 be removed by the appointing authority of the member without cause.
+13 (e) Decisions. All decisions of the Commission shall require the votes of a
+14 majority of the representatives of school employees and a majority of the
+15 representatives of school employers members present at the meeting, in person
+16 or virtually.
+17 * * *
+18 (j) Alternate members.
+19 (1) Four alternate members may be appointed Any appointing authority
+20 may appoint one alternate member to the Commission.
+VT LEG #386139 v.1
+
+BILL AS INTRODUCED H.842
+2026 Page 5 of 12
+1 (2) Up to two alternate members may be appointed by representatives
+2 of school employees and up to two members may be appointed by
+3 representatives of school employers. [Repealed.]
+4 (3) The term of each alternate member, if appointed, shall be six years.
+5 (4) An alternate member may serve temporarily in the role as a member
+6 appointed under subsection (b) of this section only in the absence of an
+7 appointed member and shall not otherwise have participation or voting rights
+8 in Commission business.
+9 (5) An alternate member shall may be appointed to be a full member of
+10 the Commission by the alternate member’s appointing authority upon the
+11 resignation or removal of a full member.
+12 * * *
+13 Sec. 2. 16 V.S.A. § 2103 is amended to read:
+14 § 2103. DUTIES OF THE COMMISSION
+15 (a) The Commission shall determine the percentage of the premium for
+16 individual, two-person, parent-child, and family coverage under a health
+17 benefit plan that shall be borne by each school employer and the percentage
+18 that shall be borne by participating employees.
+19 (1) The premium responsibility percentages shall remain in effect for the
+20 entire plan year.
+VT LEG #386139 v.1
+
+BILL AS INTRODUCED H.842
+2026 Page 6 of 12
+1 (2) Each school employer shall be responsible for paying, on behalf of
+2 all of its participating employees, the applicable percentages of premium costs
+3 as determined by the Commission.
+4 (3) [Repealed.]
+5 (b)(1) The Commission shall determine the amount of participating
+6 employees’ calendar year out-of-pocket expenses for which the school
+7 employer and the participating employees shall be responsible, and whether
+8 school employers shall establish a health reimbursement arrangement, a health
+9 savings account, both, or neither, for their participating employees.
+10 (2) The Commission also shall determine the extent to which the
+11 employer or employee shall bear first dollar responsibility for out-of-pocket
+12 expenses if using a health reimbursement arrangement and whether the balance
+13 in a participating employee’s health reimbursement arrangement shall roll over
+14 from year to year.
+15 (3) [Repealed.]
+16 (4) The Commission’s determinations regarding first dollar
+17 responsibility for out-of-pocket expenses shall not increase the actuarial value
+18 of the health benefit plans above 88 percent.
+19 (c) The Commission may make recommendations regarding health benefit
+20 plan design to any intermunicipal insurance association that offers health
+VT LEG #386139 v.1
+
+BILL AS INTRODUCED H.842
+2026 Page 7 of 12
+1 benefit plans to entities providing educational services pursuant to 24 V.S.A.
+2 chapter 121, subchapter 6.
+3 (d) Pursuant to subsections (a)–(c) of this section, the Commission shall
+4 consider the following factors:
+5 (1) the interests and welfare of the public;
+6 (2) the financial ability of the Education Fund and school districts across
+7 the State to pay the costs of the health benefit plan;
+8 (3) comparisons of the health benefit plans for school employees with
+9 the health benefit plans of employees in the public and private sector in
+10 Vermont;
+11 (4) the average consumer prices for goods and services commonly
+12 known as the cost of living;
+13 (5) prior and existing health care benefits and coverage for school
+14 employees;
+15 (6) the value and costs of the health benefit plans as compared to the
+16 health benefit plans available through Vermont Health Connect; and
+17 (7) the percentage increase or decrease in education spending that is
+18 likely to occur if the negotiated health benefit plans are implemented as
+19 compared to overall economic growth for the State of Vermont.
+VT LEG #386139 v.1
+
+BILL AS INTRODUCED H.842
+2026 Page 8 of 12
+1 (e) The Commission shall not make any determinations regarding school
+2 employer or participating employee responsibilities with respect to stand-alone
+3 vision or dental benefits.
+4 (e)(f) The Commission may negotiate a statewide grievance procedure for
+5 disputes concerning public school employee health benefits.
+6 (f)(g) In no case shall a school employee receive cash in lieu of receipt of
+7 health care benefits from one school employer while simultaneously receiving
+8 health care benefits from the same or another school employer.
+9 (g)(h) Accommodations shall be made for school employees whose
+10 workload is shared between more than one school employer, and who may not
+11 otherwise qualify for health care benefits from only one school employer. The
+12 affected school employers shall determine the proportionate portion of the
+13 shared costs of the health benefits.
+14 Sec. 3. 16 V.S.A. § 2105 is amended to read:
+15 § 2105. DISPUTE RESOLUTION
+16 (a)(1) If the Commission is unable to reach agreement by August 1, the
+17 Commission shall meet with the fact finder selected pursuant to section 2104
+18 of this chapter not later than August 15.
+19 (2) The fact finder may schedule and hold additional meetings with the
+20 Commission as necessary. The Commission shall furnish the fact finder with
+VT LEG #386139 v.1
+
+BILL AS INTRODUCED H.842
+2026 Page 9 of 12
+1 all records, papers, and information in its possession pertaining to any matter
+2 remaining in dispute.
+3 (3) The fact finder shall, before issuing his or her the decision, attempt
+4 to mediate the matters remaining in dispute.
+5 (4) If the mediation fails to produce an agreement, the fact finder shall,
+6 on or before September 15, submit a written report to the Commission
+7 recommending a reasonable basis for the settlement of the matters remaining in
+8 dispute.
+9 (b)(1) If the Commission is unable to resolve all matters remaining in
+10 dispute within 30 days after receiving the fact finder’s report, the Commission
+11 shall submit the matters remaining in dispute to the VLRB, arbitrator, or
+12 arbitrators selected pursuant to section 2104 of this chapter for resolution.
+13 (2)(A) The representatives of school employees and the representatives
+14 of school employers shall submit to the VLRB, arbitrator, or arbitrators their
+15 last best offer on all issues remaining in dispute prior to the VLRB or
+16 arbitration hearing. The VLRB, arbitrator, or arbitrators shall select one of the
+17 last best offers without amendment, submitted by the parties prior to the VLRB
+18 or arbitration hearing in its entirety without amendment have the option to:
+19 (i) select one of the last best offers submitted by the parties;
+20 (ii) modify one or both of the last best offers; or
+VT LEG #386139 v.1
+
+BILL AS INTRODUCED H.842
+2026 Page 10 of 12
+1 (iii) draft an award of the arbitrator’s own design based on the
+2 information presented at the arbitration hearing.
+3 (B) The parties shall not be permitted to modify their last best offers
+4 post hearing. Prior to the issuance of the decision of the VLRB, arbitrator, or
+5 arbitrators, nothing shall prohibit the parties from settling the matters in
+6 dispute.
+7 (3)(A) The VLRB, arbitrator, or arbitrators shall hold a hearing on or
+8 before November 15 at which the Commission members shall submit all
+9 relevant evidence, documents, and written material, including a cost estimate
+10 for the term of the proposal with a breakdown of costs borne by employers and
+11 costs borne by employees, and each member may submit oral or written
+12 testimony in support of his or her the member’s position on any undecided
+13 issue that is subject to arbitration.
+14 (B) In reaching a decision, the VLRB, arbitrator, or arbitrators shall
+15 give weight to:
+16 (i) the evidence, documents, written material, and arguments
+17 presented, as well as the following factors:;
+18 (i)(ii) the interests and welfare of the public;
+19 (ii)(iii) the financial ability of the Education Fund and school
+20 districts across the State to pay for the costs of health care benefits and
+21 coverage;
+VT LEG #386139 v.1
+
+BILL AS INTRODUCED H.842
+2026 Page 11 of 12
+1 (iii)(iv) comparisons of the health care benefits of school
+2 employees with the health care benefits of similar employees in the public and
+3 private sectors in Vermont;
+4 (iv)(v) the average consumer prices for goods and services
+5 commonly known as the cost of living; and
+6 (v)(vi) prior and existing health care benefits and coverage for
+7 school employees;
+8 (vii) the value of the health benefits as compared to health plans
+9 available through Vermont Heath Connect; and
+10 (viii) the percentage increase or decrease in education spending
+11 that is likely to occur as compared to overall economic growth for the State of
+12 Vermont.
+13 (4) The VLRB, arbitrator, or arbitrators shall issue a written decision
+14 within 30 days after the hearing, providing a full explication explanation of the
+15 basis for the decision. The decision of the VLRB, arbitrator, or arbitrators
+16 shall be final and binding upon the Commission and all school employees and
+17 school employers. The decision shall not be subject to ratification.
+18 * * *
+19 Sec. 4. 16 V.S.A. § 2108 is amended to read:
+20 § 2108. DUTIES OF SCHOOL EMPLOYERS
+21 (a) Each school employer shall:
+VT LEG #386139 v.1
+
+BILL AS INTRODUCED H.842
+2026 Page 12 of 12
+1 * * *
+2 (b) The Agency of Education shall contract with a single third-party
+3 provider to be used by all school employers to oversee any health
+4 reimbursement arrangement or health savings account.
+5 Sec. 5. EFFECTIVE DATE
+6 This act shall take effect on July 1, 2026.
+VT LEG #386139 v.1

@@ -1,0 +1,267 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.671
+2026 Page 1 of 11
+1 H.671
+2 Introduced by Representative Tagliavia of Corinth
+3 Referred to Committee on
+4 Date:
+5 Subject: Elections; qualification and registration of voters; proof of U.S.
+6 citizenship
+7 Statement of purpose of bill as introduced: This bill proposes to require
+8 documented proof of U.S. citizenship to register to vote. It also requires that
+9 the Secretary of State enter into a memorandum of agreement with the U.S.
+10 Department of Homeland Security to access and utilize the Systematic Alien
+11 Verification for Entitlements (SAVE) Program for the purposes of verifying
+12 citizenship status during voter registration and for ongoing voter roll
+13 maintenance.
+14 An act relating to requiring proof of U.S. citizenship for voter registration
+15 It is hereby enacted by the General Assembly of the State of Vermont:
+16 Sec. 1. 17 V.S.A. § 2121 is amended to read:
+17 § 2121. ELIGIBILITY OF VOTERS
+18 (a) Any person may register to vote in the town of his or her the person’s
+19 residence in any election held in a political subdivision of this State in which
+20 he or she the person resides who, on election day:
+VT LEG #385989 v.1
+
+BILL AS INTRODUCED H.671
+2026 Page 2 of 11
+1 (1) is a citizen of the United States;
+2 (2) is a resident of the State of Vermont;
+3 (3) has taken the voter’s oath; and
+4 (4) is 18 years of age or more.
+5 (b) Any person meeting the requirements of subdivisions (a)(1)–(3) of this
+6 section who will be 18 years of age on or before the date of a general election
+7 may register and vote in the primary election immediately preceding that
+8 general election.
+9 (c) No person shall be permitted to register to vote or cast a ballot in any
+10 election unless the person has provided documented proof of U.S. citizenship
+11 in accordance with section 2145 of this title.
+12 Sec. 2. 17 V.S.A. § 2145 is amended to read:
+13 § 2145. APPLICATION FORMS
+14 (a) The voter registration application shall be in the form approved by the
+15 Federal Election Commission or by the Secretary of State. The application
+16 form approved by the Secretary shall include:
+17 (1) A place for the applicant to swear or affirm, by checking the
+18 appropriate box, that he or she the applicant meets all voter eligibility
+19 requirements set forth in section 2121 of this title and a place for the signature
+20 of the applicant affirming, under penalty of perjury, that all information
+VT LEG #385989 v.1
+
+BILL AS INTRODUCED H.671
+2026 Page 3 of 11
+1 submitted by the applicant is accurate and truthful. The affirmation shall
+2 include the following information:
+3 (A) The applicant’s place and date of birth.
+4 (B) The applicant’s town of legal residence.
+5 (C) The applicant’s street address or a description of the physical
+6 location of the applicant’s residence. The description must contain sufficient
+7 information so that the town clerk can determine whether the applicant is a
+8 resident of the town.
+9 (D)(1) If the applicant has been issued a current and valid driver’s
+10 license or nondriver’s identification, the applicant’s driver’s license number or
+11 nondriver’s identification number;
+12 (2) If the applicant does not possess a driver’s license number, the
+13 last four digits of the applicant’s Social Security number; or
+14 (3) If the applicant does not possess a Social Security number, the
+15 town clerk shall contact the Secretary of State and the Secretary shall assign a
+16 unique identifier for the applicant.
+17 (E) The applicant’s email address, which shall be optional to provide.
+18 (2) The voter’s oath.
+19 (3) Space for the town clerk to document action on the application.
+VT LEG #385989 v.1
+
+BILL AS INTRODUCED H.671
+2026 Page 4 of 11
+1 (4) The following statements:
+2 (A) “If you were provided with this application form by a voter
+3 registration agency, you may decline to register. If you decline to register,
+4 your failure to register will remain confidential and will be used only for voter
+5 registration purposes.”
+6 (B) “If you are submitting this application through a voter
+7 registration agency, the office through which you submitted this application
+8 will remain confidential and will be used only for voter registration purposes.”
+9 (5) A requirement for documented proof of U.S. citizenship, which must
+10 be submitted with the application and verified by the town clerk. Acceptable
+11 forms of proof include:
+12 (A) a U.S. birth certificate or equivalent;
+13 (B) a valid U.S. passport;
+14 (C) a U.S. certificate of naturalization or citizenship; or
+15 (D) any other document issued by a government agency that verifies
+16 U.S. citizenship.
+17 (b) A town clerk shall record the proof of U.S. citizenship provided on the
+18 application form and, where feasible, verify the applicant’s citizenship status
+19 using the Systematic Alien Verification for Entitlements (SAVE) Program
+20 administered by U.S. Citizenship and Immigration Services.
+21 * * *
+VT LEG #385989 v.1
+
+BILL AS INTRODUCED H.671
+2026 Page 5 of 11
+1 Sec. 3. 17 V.S.A. § 2145a is amended to read:
+2 § 2145a. REGISTRATIONS AT THE DEPARTMENT OF MOTOR
+3 VEHICLES
+4 (a) An application for, or renewal of, a motor vehicle driver’s license or
+5 nondriver identification card shall serve as a simultaneous application to
+6 register to vote if the applicant attests to provides proof of U.S. citizenship or
+7 the Department has proof of U.S. citizenship unless the applicant checks the
+8 box on the application designating that the applicant declines to use the
+9 application as a voter registration application.
+10 (b)(1) A motor vehicle driver’s license or nondriver identification card
+11 application shall provide and request the following information and shall be in
+12 the form approved by the Secretary of State:
+13 (A) The applicant’s citizenship.
+14 (B) The applicant’s place and date of birth.
+15 (C) The applicant’s town of legal residence.
+16 (D) The applicant’s E-911 street address or a description of the
+17 physical location of the applicant’s residence. The description must contain
+18 sufficient information so that the town clerk can determine whether the
+19 applicant is a resident of the town.
+VT LEG #385989 v.1
+
+BILL AS INTRODUCED H.671
+2026 Page 6 of 11
+1 (E) The voter’s oath.
+2 (F) The applicant’s email address and phone number, which shall be
+3 optional to provide.
+4 (2) A motor vehicle driver’s license or nondriver identification card
+5 application shall provide the following statements:
+6 (A) “By signing and submitting this application, you are authorizing
+7 the Department of Motor Vehicles to transmit this application to the Secretary
+8 of State for voter registration purposes. YOU MAY DECLINE TO
+9 REGISTER. Both the office through which you submit this application and
+10 your decision of whether or not to register will remain confidential and will be
+11 used for voter registration purposes only.”
+12 (B) “In order to be registered to vote, you must: (1) be a U.S. citizen;
+13 (2) be a resident of Vermont; (3) have taken the voter’s oath; and (4) be 18
+14 years of age or older. Any person meeting the requirements of (1)–(3) who
+15 will be 18 years of age on or before the date of a general election may register
+16 and vote in the primary election immediately preceding that general election.
+17 Failure to decline to register is an attestation that you meet the requirements to
+18 vote.”
+19 * * *
+20 (4)(A) An applicant who simultaneously applies to register to vote shall
+21 provide proof of U.S. citizenship. Acceptable forms of proof include:
+VT LEG #385989 v.1
+
+BILL AS INTRODUCED H.671
+2026 Page 7 of 11
+1 (i) a U.S. birth certificate or equivalent;
+2 (ii) a valid U.S. passport;
+3 (iii) a U.S. certificate of naturalization or citizenship; or
+4 (iv) any other document issued by a government agency that
+5 verifies U.S. citizenship.
+6 (B) The Department of Motor Vehicles shall record the proof of U.S.
+7 citizenship provided on the application form and, where feasible, verify the
+8 applicant’s citizenship status using the Systematic Alien Verification for
+9 Entitlements (SAVE) Program administered by U.S. Citizenship and
+10 Immigration Services before processing the voter registration.
+11 * * *
+12 (d)(1) The Department of Motor Vehicles shall transmit motor vehicle
+13 driver’s license and nondriver identification card applications received under
+14 this section to the Secretary of State not later than five days after the date the
+15 application was accepted by the Department, or before the date of any primary
+16 or general election, whichever is sooner.
+17 (2) The Department of Motor Vehicles shall not transmit motor vehicle
+18 driver’s license and nondriver identification card applications when the
+19 Department does not have proof of U.S. citizenship for an applicant and the
+20 applicant has failed to attest to U.S. citizenship, or when the applicant has
+21 designated that the applicant declines to be registered.
+VT LEG #385989 v.1
+
+BILL AS INTRODUCED H.671
+2026 Page 8 of 11
+1 * * *
+2 Sec. 4. 17 V.S.A. § 2154 is amended to read:
+3 § 2154. STATEWIDE VOTER CHECKLIST
+4 (a) The Secretary of State shall maintain a uniform and nondiscriminatory
+5 statewide voter checklist. This checklist shall serve as the official voter
+6 registration list for all elections in the State. In maintaining the statewide voter
+7 checklist, the Secretary shall:
+8 (1) limit a town clerk to adding, modifying, or deleting applicant and
+9 voter information on the portion of the checklist for that clerk’s municipality;
+10 (2) limit access to the statewide voter checklist for a local elections
+11 official to verifying whether the applicant is registered in another municipality
+12 in the State by a search for the individual voter;
+13 (3) notify a local elections official when a voter registered in that
+14 official’s district registers in another voting district so that the voter may be
+15 removed from that official’s district checklist;
+16 (4) provide adequate security to prevent unauthorized access to the
+17 checklist;
+18 (5) ensure the compatibility and comparability of information on the
+19 checklist with information contained in the Department of Motor Vehicles’
+20 computer systems; and
+VT LEG #385989 v.1
+
+BILL AS INTRODUCED H.671
+2026 Page 9 of 11
+1 (6) make reasonable efforts on an ongoing basis to compare the
+2 information on the checklist with data or information contained in any State
+3 agency’s database, a database administered by the federal government, or any
+4 database of another state or consortium of states, where possible, in an effort to
+5 maintain the accuracy and currency of the checklist; and
+6 (7) direct town clerks to use the Systematic Alien Verification for
+7 Entitlements (SAVE) Program to verify the citizenship status of registered
+8 voters and remove any individuals confirmed to be noncitizens.
+9 (b)(1) A registered voter’s month and day of birth, driver’s license or
+10 nondriver identification number, telephone number, email address, and the last
+11 four digits of his or her the voter’s Social Security number shall be kept
+12 confidential and are exempt from public inspection and copying under the
+13 Public Records Act.
+14 (2) A public agency as defined in 1 V.S.A. § 317 and any officer,
+15 employee, agent, or independent contractor of a public agency shall not
+16 knowingly disclose a copy of all of the statewide voter checklist, a
+17 municipality’s portion of the statewide voter checklist, or any other municipal
+18 voter checklist to any foreign government or to a federal agency or
+19 commission or to a person acting on behalf of a foreign government or of such
+20 a federal entity for the purpose of:
+VT LEG #385989 v.1
+
+BILL AS INTRODUCED H.671
+2026 Page 10 of 11
+1 (A) registration of a voter based on his or her the voter’s information
+2 maintained in the checklist;
+3 (B) publicly disclosing a voter’s information maintained in the
+4 checklist; or
+5 (C) comparing a voter’s information maintained in the checklist to
+6 personally identifying information contained in other federal or state databases.
+7 (c)(1) Any person wishing to obtain a copy of all of the statewide voter
+8 checklist must swear or affirm, under penalty of perjury pursuant to 13 V.S.A.
+9 chapter 65, that the person will not:
+10 (A) use the checklist for commercial purposes; or
+11 (B) knowingly disclose the checklist to any foreign government or to
+12 a federal agency or commission or to a person acting on behalf of a foreign
+13 government or of such a federal entity in circumvention of the prohibited
+14 purposes for using the checklist set forth in subdivision (b)(2) of this section.
+15 (2) The affirmation shall be filed with the Secretary of State.
+16 (d) An elections official shall not access the portion of the statewide voter
+17 checklist that is exempt from public inspection pursuant to 1 V.S.A.
+18 § 317(c)(31), except for elections purposes.
+VT LEG #385989 v.1
+
+BILL AS INTRODUCED H.671
+2026 Page 11 of 11
+1 Sec. 5. SYSTEMATIC ALIEN VERIFICATION FOR ENTITLEMENTS
+2 (SAVE) PROGRAM; MEMORANDUM OF AGREEMENT
+3 On or before January 1, 2027, the Secretary of State shall enter into a
+4 memorandum of agreement with the U.S. Department of Homeland Security to
+5 access and utilize the Systematic Alien Verification for Entitlements (SAVE)
+6 Program for the purposes of verifying citizenship status during voter
+7 registration and for ongoing voter roll maintenance. The Secretary shall
+8 implement bulk uploads and other available enhancements and shall report to
+9 the General Assembly on the status of this agreement and implementation
+10 within six months following the effective date of this act.
+11 Sec. 6. APPROPRIATION
+12 The sum of $300,000.00 is appropriated from the General Fund to the
+13 Secretary of State in fiscal year 2027 for the purpose of integrating the
+14 Systematic Alien Verification for Entitlements (SAVE) Program into State and
+15 local systems and training town clerks.
+16 Sec. 7. EFFECTIVE DATE
+17 This act shall take effect on passage.
+VT LEG #385989 v.1

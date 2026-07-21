@@ -1,0 +1,51 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.725
+2026 Page 1 of 2
+1 H.725
+2 Introduced by Representative Logan of Burlington
+3 Referred to Committee on
+4 Date:
+5 Subject: Labor; State Labor Relations Act; application
+6 Statement of purpose of bill as introduced: This bill proposes to amend and
+7 extend the applicability of the State Labor Relations Act in the event the
+8 National Labor Relations Board becomes unwilling or is unable to exercise its
+9 jurisdiction.
+10 An act relating to the State Labor Relations Act
+11 It is hereby enacted by the General Assembly of the State of Vermont:
+12 Sec. 1. 21 V.S.A. § 1505 is amended to read:
+13 § 1505. APPLICATION
+14 (a) This chapter shall not apply to any employer or any labor dispute that
+15 affects commerce within the meaning of the National Labor Relations Act, 29
+16 U.S.C. §§ 151–169, unless the National Labor Relations Board shall have
+17 ceded jurisdiction to the Board pursuant to 29 U.S.C. § 160 or, shall have
+18 declined to assert jurisdiction pursuant to 29 U.S.C. § 164(c), or can no longer
+19 execute its statutory duties for any reason, including:
+VT LEG #383751 v.1
+
+BILL AS INTRODUCED H.725
+2026 Page 2 of 2
+1 (1) the repeal of the National Labor Relations Act or a narrowing of the
+2 National Labor Relations Act so that it no longer covers a certain type, class,
+3 or industry of workers; or
+4 (2) the preemptive effect of the National Labor Relations Act is no
+5 longer effective.
+6 (b) If the Board acquires jurisdiction pursuant to subdivision (a)(1) or
+7 (a)(2) of this section, the Board shall, upon petition, promptly certify the
+8 exclusive bargaining representative of any bargaining unit previously certified
+9 by the National Labor Relations Board and whose certification remained in
+10 effect until federal preemption was no longer effective. The Board shall verify
+11 the validity of the certification formerly granted by the National Labor
+12 Relations Board within 60 days after receipt of the petition. All existing terms
+13 and conditions of employment between an exclusive bargaining representative,
+14 previously certified by the National Labor Relations Board, and an employer
+15 shall remain in full force and effect during the Board’s verification process.
+16 Sec. 2. EFFECTIVE DATE
+17 This act shall take effect on passage.
+VT LEG #383751 v.1

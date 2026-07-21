@@ -1,0 +1,45 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.855
+2026 Page 1 of 2
+1 H.855
+2 Introduced by Representative Harvey of Castleton
+3 Referred to Committee on
+4 Date:
+5 Subject: Court procedure; defenses; actions based on harm caused by artificial
+6 intelligence
+7 Statement of purpose of bill as introduced: This bill proposes, for purposes of
+8 a civil action based on harm caused to a plaintiff by artificial intelligence that
+9 was developed or used by a defendant, to prohibit the defendant from raising
+10 as a defense that the artificial intelligence autonomously caused the harm.
+11 An act relating to defenses in civil actions based on harm caused by
+12 artificial intelligence
+13 It is hereby enacted by the General Assembly of the State of Vermont:
+14 Sec. 1. 12 V.S.A. § 1036a is added to read:
+15 § 1036a. DEFENSE PROHIBITED; HARM CAUSED BY AUTONOMOUS
+16 ARTIFICIAL INTELLIGENCE
+17 (a) In an action against a defendant who developed, modified, or used
+18 artificial intelligence that is alleged to have caused harm to the plaintiff, it shall
+19 not be a defense, and the defendant shall not assert, that the artificial
+20 intelligence autonomously caused the harm to the plaintiff.
+VT LEG #386376 v.1
+
+BILL AS INTRODUCED H.855
+2026 Page 2 of 2
+1 (b) This section shall not limit or preclude a defendant from presenting:
+2 (1) any other affirmative defenses allowed by law; or
+3 (2) any other relevant evidence, including evidence relevant to
+4 causation, foreseeability, or contributory or comparative negligence.
+5 (c) As used in this section, “artificial intelligence” means an engineered or
+6 machine-based system that varies in its level of autonomy and that can, for
+7 explicit or implicit objectives, infer from the input it receives how to generate
+8 outputs that can influence physical or virtual environments.
+9 Sec. 2. EFFECTIVE DATE
+10 This act shall take effect on passage.
+VT LEG #386376 v.1

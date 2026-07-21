@@ -1,0 +1,132 @@
+Title: 
+Official Title: 
+Source: versions - House Proposal of Amendment (OfficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House Proposal of Amendment
+S. 230
+An act relating to fair employment practices
+The House proposes to the Senate to amend the bill by striking out all after
+the enacting clause and inserting in lieu thereof the following:
+Sec. 1. 21 V.S.A. § 471 is amended to read:
+§ 471. DEFINITIONS
+As used in this subchapter:
+* * *
+(5) “Employee” means a person who, in consideration of direct or
+indirect gain or profit, has been continuously employed by the same employer
+for a period of one year for an average of at least 30 hours per week or meets
+the service requirement set forth in 29 C.F.R. § 825.801 (airline flight crew
+employees) or 29 C.F.R. § 825.110(c)(3) (full-time teachers, as defined in 29
+C.F.R. § 825.102, of an elementary or secondary school system or institution
+of higher education).
+* * *
+Sec. 2. 21 V.S.A. § 495d is amended to read:
+§ 495d. DEFINITIONS
+As used in this subchapter:
+* * *
+(15) “Crime victim” means any of the following:
+(A) a person who has obtained a relief from abuse order issued under
+15 V.S.A. § 1103;
+(B) a person who has obtained an order against stalking or sexual
+assault issued under 12 V.S.A. chapter 178;
+(C) a person who has obtained an order against abuse of a vulnerable
+adult issued under 33 V.S.A. chapter 69; or
+(D)(i) a victim as defined in 13 V.S.A. § 5301, provided that the
+victim is identified as a crime victim in an affidavit filed by a law enforcement
+official with a prosecuting attorney of competent state or federal jurisdiction;
+and
+(ii) shall include the victim’s child, foster child, parent, spouse,
+stepchild or ward of the victim who lives with the victim, or a parent of the
+
+victim’s spouse, provided that the individual is not identified in the affidavit as
+the defendant; or
+(E) a person who is a survivor of domestic violence, sexual assault,
+or stalking and who has supporting documentation from any one of the
+following sources:
+(i) a court or law enforcement or other government agency;
+(ii) a domestic violence, sexual assault, or stalking assistance
+program;
+(iii) a legal, clerical, medical, or other professional from whom
+the person has received counseling or other assistance concerning domestic
+violence, sexual assault, or stalking; or
+(iv) a self-attestation by the person describing the circumstances
+supporting the person’s status as a survivor of domestic violence, sexual
+assault, and stalking for which no further corroboration shall be required
+unless otherwise mandated by law.
+* * *
+(18) “Domestic violence” has the same meaning as in 15 V.S.A. § 1151
+and includes the definition of “abuse” in 15 V.S.A. § 1101.
+(19) “Sexual assault” has the same meaning as in 12 V.S.A. § 5131.
+(20) “Stalking” has the same meaning as in 12 V.S.A. § 5131.
+Sec. 3. 21 V.S.A. § 495g is amended to read:
+§ 495g. PROVISION APPLICABLE TO COLLEGE PROFESSORS
+Nothing in this subchapter shall be construed to prohibit any institution of
+higher education as defined by section 1201(a) of the federal Higher Education
+Act of 1965 from retiring any employee who is serving under a contract of
+unlimited tenure, who attains 70 years of age. Any employee whose tenure
+contract is terminated may, in the discretion of the institution, be allowed to
+continue in the employ of the institution on a nontenured basis. [Repealed.]
+Sec. 3a. 21 V.S.A. § 383 is amended to read:
+§ 383. DEFINITIONS
+As used in this subchapter:
+(1) “Commissioner” means the Commissioner of Labor or designee.
+(2) “Employee” means any individual employed or permitted to work
+by an employer except:
+* * *
+
+(H) outside salespersons; and
+(I) students working during all or any part of the school year or
+regular vacation periods; and
+(J) elected and appointed municipal officers.
+* * *
+Sec. 3b. 21 V.S.A. § 495q is added to read:
+§ 495q. AGREEMENTS NOT TO COMPETE; PROHIBITION
+(a) Nonexempt employees. Agreements not to compete between an
+employer and a nonexempt employee, per the Fair Labor Standards Act,
+29 U.S.C. §§ 201–219, are prohibited as presumptively coercive and a restraint
+on trade, unless bargained for as part of a collective bargaining agreement.
+(b) Health care providers.
+(1) Any provision in a contract or agreement that creates or establishes
+the terms of a partnership, employment, or any other form of professional
+relationship with a health care provider regarding the health care provider’s
+provision of health care services in Vermont shall be void and unenforceable if
+the provision:
+(A) includes a restriction on the right of the health care provider to
+provide health care services in any geographical area for any period of time
+after the termination of such partnership, agreement, or professional
+relationship;
+(B) limits the ability of a separating health care provider to provide
+notice of the provider’s change of employment to individuals to whom the
+separating provider provided direct health care services;
+(C) restricts a health care provider from making disparaging
+statements about another party to the contract or agreement, or about another
+person specified in the agreement as a third-party beneficiary of the
+agreement;
+(D) is inconsistent with Vermont law; or
+(E) requires litigation arising from the performance of the contract or
+agreement in Vermont to be conducted in another state.
+(2) The notice provided in subdivision (1)(B) of this subsection may
+include the following information:
+(A) that the health care provider is continuing to practice the
+provider’s profession;
+(B) the health care provider’s new professional contact information;
+and
+
+(C) the recipient’s right to choose a health care provider.
+(3) The provisions in subdivision (1) of this subsection do not apply to
+restrictions that limit a health care provider who contracts with a third-party
+company for nonclinical business support services from opening a business
+within a specific territory supported by a different third-party company
+providing nonclinical services.
+(c) Retaliation and remedies. An employer shall not discharge or in any
+other manner retaliate against an employee who exercises or attempts to
+exercise the employee’s rights under this section. The provisions against
+retaliation in subdivision 495(a)(8) of this subchapter and the penalty
+provisions of section 495b of this subchapter shall apply to this section.
+(d) Effective date. This section shall apply to agreements not to compete
+entered into on or after July 1, 2026.
+Sec. 4. EFFECTIVE DATE
+This act shall take effect on July 1, 2026.

@@ -1,0 +1,154 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.621
+2026 Page 1 of 6
+1 H.621
+2 Introduced by Representatives Waszazak of Barre City, Yacovone of
+3 Morristown, and Bluemle of Burlington
+4 Referred to Committee on
+5 Date:
+6 Subject: Taxation; income tax; personal income tax; tax brackets
+7 Statement of purpose of bill as introduced: This bill proposes to create two
+8 new personal income tax brackets.
+9 An act relating to personal income tax brackets
+10 It is hereby enacted by the General Assembly of the State of Vermont:
+11 Sec. 1. 32 V.S.A. § 5822 is amended to read:
+12 § 5822. TAX ON INCOME OF INDIVIDUALS, ESTATES, AND TRUSTS
+13 (a) A tax is imposed for each taxable year upon the taxable income earned
+14 or received in that year by every individual, estate, and trust, subject to income
+15 taxation under the laws of the United States, in an amount determined by the
+16 following tables, and adjusted as required under this section:
+17 (1) Married individuals filing joint returns and surviving spouses:
+18 If taxable income is: The tax is:
+19 Not over $64,600.00 $84,700.00 3.35% of taxable income
+20 Over $64,600.00 $84,700.00 but $2,164.00 $2,837.00 plus 6.6% of the
+VT LEG #386362 v.1
+
+BILL AS INTRODUCED H.621
+2026 Page 2 of 6
+1 not over $156,150.00 $204,750.00 amount of taxable income over
+2 $64,600.00 $84,700.00
+3 Over $156,150.00 $204,750.00 but $8,206.00 $10,761.00 plus 7.6% of
+4 not over $237,950.00 $312,050.00 the amount of taxable income over
+5 $156,150.00 $204,750.00
+6 Over $237,950.00 $312,050.00 but $14,423.00 $18,916.00
+7 not over $500,000.00 plus 8.75% of the amount of taxable
+8 income over $237,950.00
+9 $312,050.00
+10 Over $500,000.00 but not over $35,361.00 plus 11.75% of the
+11 $1,000,000.00 amount of taxable income over
+12 $500,000.00
+13 Over $1,000,000.00 $94,111.00 plus 13.75% of the
+14 amount of taxable income over
+15 $1,000,000.00
+16 (2) Heads of households:
+17 If taxable income is: The tax is:
+18 Not over $51,850.00 $68,000.00 3.35% of taxable income
+19 Over $51,850.00 $68,000.00 but $1,737.00 $2,278.00 plus 6.6% of the
+20 not over $133,850.00 $175,500.00 amount of taxable income over
+21 $51,850.00 $64,200.00
+VT LEG #386362 v.1
+
+BILL AS INTRODUCED H.621
+2026 Page 3 of 6
+1 Over $133,850.00 $175,500.00 but $7,149.00 $9,373.00 plus 7.60% of
+2 not over $216,700.00 $284,150.00 the amount of taxable income over
+3 $133,850.00 $175,500.00
+4 Over $216,700.00 $284,150.00 $13,446.00 $17,630.00 plus 8.75% of
+5 but not over $455,300.00 the amount of taxable income over
+6 $216,700.00 $284,150.00
+7 Over $455,300.00 but not over $32,606.00 plus 11.75% of the
+8 $910,600.00 amount of taxable income over
+9 $455,300.00
+10 Over $910,600.00 $86,103.00 plus 13.75% of the
+11 amount of taxable income over
+12 $910,600.00
+13 (3) Unmarried individuals (other than surviving spouse or head of
+14 household):
+15 If taxable income is: The tax is:
+16 Not over $38,700.00 $50,750.00 3.35% of taxable income
+17 Over $38,700.00 $50,750.00 but $1,296.00 $1,700.00 plus 6.6% of the
+18 not over $93,700.00 $122,850.00 amount of taxable income over
+19 $38,700.00 $50,750.00
+20 Over $93,700.00 $122,850.00 but $4,926.00 $6,459.00 plus 7.6% of the
+21 not over $195,450.00 $256,300.00 amount of taxable income over
+VT LEG #386362 v.1
+
+BILL AS INTRODUCED H.621
+2026 Page 4 of 6
+1 $93,700.00 $122,850.00
+2 Over $195,450.00 $256,300.00 but $12,659.00 $16,601.00 plus 8.75% of
+3 not over $410,650.00 the amount of taxable income over
+4 $195,450.00 $256,300.00
+5 Over $410,650.00 but not over $30,108.00 plus 11.75% of the
+6 $821,350.00 amount of taxable income over
+7 $410,650.00
+8 Over $821,350.00 $78,362.00 plus 13.75% of the
+9 amount of taxable income over
+10 $821,350.00
+11 (4) Married individuals filing separate returns:
+12 If taxable income is: The tax is:
+13 Not over $32,300.00 $42,350.00 3.35% of taxable income
+14 Over $32,300.00 $42,350.00 but $1,082.00 $1,419.00 plus 6.6% of the
+15 not over $78,075.00 $102,375.00 amount of taxable income over
+16 $32,300.00 $42,350.00
+17 Over $78,075.00 $102,375.00 but $4,103.00 $5,380.00 plus 7.6% of the
+18 not over $118,975.00 $156,025.00 amount of taxable income over
+19 $78,075.00 $102,375.00
+20 Over $118,975.00 $156,025.00 but $7,212.00 $9,458.00 plus 8.75% of
+21 not over $250,000.00 the amount of taxable income over
+VT LEG #386362 v.1
+
+BILL AS INTRODUCED H.621
+2026 Page 5 of 6
+1 $118,975.00 $156,025.00
+2 Over $250,000.00 but not over $17,681.00 plus 11.75% of the
+3 $500,000.00 amount of taxable income over
+4 $250,000.00
+5 Over $500,000.00 $47,056.00 plus 13.75% of the
+6 amount of taxable income over
+7 $500,000.00
+8 (5) Estates and trusts:
+9 If taxable income is: The tax is:
+10 $2,600.00 $3,400.00 or less 3.35% of taxable income
+11 Over $2,600.00 $3,400.00 but $87.00 $114.00 plus 6.6% of the
+12 not over $6,100.00 $8,000.00 amount of taxable income over
+13 $2,600.00 $3,400.00
+14 Over $6,100.00 $8,000.00 but $318.00 $418.00 plus 7.6% of the
+15 not over $9,350.00 $12,250.00 amount of taxable income over
+16 $6,100.00 $8,000.00
+17 Over $9,350.00 $12,250.00 $565.00 $741.00 plus 8.75% of the
+18 amount of taxable income over
+19 $9,350.00 $12,250.00
+20 (6) If the federal adjusted gross income of the taxpayer exceeds
+21 $150,000.00, then the tax calculated under this subsection shall be the greater
+VT LEG #386362 v.1
+
+BILL AS INTRODUCED H.621
+2026 Page 6 of 6
+1 of the tax calculated under subdivisions (1)–(5) of this subsection or three
+2 percent of the taxpayer’s federal adjusted gross income.
+3 (b) As used in this section:
+4 (1) “Married individuals,” “surviving spouse,” “head of household,”
+5 “unmarried individual,” “estate,” and “trust” have the same meaning as under
+6 the Internal Revenue Code.
+7 (2) The amounts of taxable income shown in the tables in this section
+8 shall be adjusted annually for inflation by the Commissioner of Taxes using
+9 the Consumer Price Index adjustment percentage, in the manner prescribed for
+10 inflation adjustment of federal income tax tables for the taxable year by the
+11 Commissioner of Internal Revenue, beginning with taxable year 2003 2026;
+12 provided, however, notwithstanding 26 U.S.C. § 1(f)(3), that as used in this
+13 subdivision, “consumer price index” means the last Consumer Price Index for
+14 All Urban Consumers published by the U.S. Department of Labor.
+15 * * *
+16 Sec. 2. EFFECTIVE DATE
+17 Notwithstanding 1 V.S.A. § 214, this act shall take effect retroactively on
+18 January 1, 2026, and apply to taxable years beginning on and after January 1,
+19 2026.
+VT LEG #386362 v.1

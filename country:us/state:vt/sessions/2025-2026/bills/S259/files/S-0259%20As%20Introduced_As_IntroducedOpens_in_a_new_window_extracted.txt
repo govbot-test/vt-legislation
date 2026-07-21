@@ -1,0 +1,54 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED S.259
+2026 Page 1 of 2
+1 S.259
+2 Introduced by Senator Harrison
+3 Referred to Committee on
+4 Date:
+5 Subject: Motor vehicles; education; driver education and training
+6 Statement of purpose of bill as introduced: This bill proposes to permit the
+7 classroom portion of a driver education and training program to be fulfilled
+8 through an online course.
+9 An act relating to online driver education
+10 It is hereby enacted by the General Assembly of the State of Vermont:
+11 Sec. 1. 16 V.S.A. § 1045 is amended to read:
+12 § 1045. DRIVER TRAINING COURSE
+13 (a)(1) A driver education and training course, approved by the Agency of
+14 Education and the Department of Motor Vehicles, shall be made available to
+15 students whose parent or guardian is a resident of Vermont and who have
+16 reached their 15th birthday 15 years of age and who are regularly enrolled in a
+17 public or independent high school approved by the State Board.
+18 (2) The driver education and training course made available to students
+19 may be an in-person course or an asynchronous online course.
+20 * * *
+VT LEG #385907 v.1
+
+BILL AS INTRODUCED S.259
+2026 Page 2 of 2
+1 (e) Online driver education and training courses shall meet the content
+2 standards for driver education curricula in the most recent edition of the
+3 Novice Teen Driver Education and Training Administrative Standards.
+4 (f) The Agency of Education and the Department of Motor Vehicles shall
+5 only approve online driver education and training courses that:
+6 (1) include a means for each student to measure performance outcomes;
+7 (2) use a pool of rotating exam questions;
+8 (3) incorporate accountability features to verify the identity of each
+9 student while the student is engaged in the course of study;
+10 (4) measure the amount of time that each student spends in the course;
+11 (5) provide technical support to customers;
+12 (6) store course content and student data on a secure server with
+13 adequate safeguards in place to protect against data breaches and data loss;
+14 (7) incorporate appropriate measures to prevent unauthorized access to
+15 private information; and
+16 (8) include the ability to update course content uniformly throughout the
+17 State.
+18 Sec. 2. EFFECTIVE DATE
+19 This act shall take effect on July 1, 2026.
+VT LEG #385907 v.1

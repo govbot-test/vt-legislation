@@ -1,0 +1,546 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED S.169
+2026 Page 1 of 22
+1 S.169
+2 Introduced by Senators Clarkson and Watson
+3 Referred to Committee on
+4 Date:
+5 Subject: Conservation and development; land use; Act 250; appeals;
+6 Environmental Division of the Superior Court
+7 Statement of purpose of bill as introduced: This bill proposes to move appeals
+8 of Act 250 permits from the Environmental Division of the Superior Court to
+9 the Land Use Review Board.
+10 An act relating to Act 250 permit appeals
+11 It is hereby enacted by the General Assembly of the State of Vermont:
+12 * * * Appeals to the Board * * *
+13 Sec. 1. 10 V.S.A. § 6025 is amended to read:
+14 § 6025. RULES
+15 (a) The Board may adopt rules of procedure for itself and the District
+16 Commissions. The Board’s procedure for approving regional plans and
+17 regional plan maps, which may be adopted as rules or issued as guidance, shall
+18 ensure that the maps are consistent with legislative intent as expressed in
+19 section 2802 of this title and 24 V.S.A. §§ 4302 and 4348a. The Board shall
+20 adopt rules of procedure that govern appeals and other contested cases before it
+VT LEG #385895 v.2
+
+BILL AS INTRODUCED S.169
+2026 Page 2 of 22
+1 that are consistent with this chapter. The rules may include the Board’s use of
+2 hearing officers and Board panels, where less than a quorum of members of the
+3 Board hear a case.
+4 * * *
+5 Sec. 2. 10 V.S.A. § 6027(h) is amended to read:
+6 (h) The Board may shall hear:
+7 (1) all appeals from an act or decision of a District Commission under
+8 this chapter, including fee refund requests under section 6083a of this title; and
+9 (2) appeals from an act or decision of a district coordinators under
+10 subsection 6007(d) of this chapter.
+11 Sec. 3. 10 V.S.A. § 6086(f) is amended to read:
+12 (f) Prior to any appeal of a permit issued by a District Commission, any
+13 aggrieved party may file a request for a stay of construction with the District
+14 Commission together with a declaration of intent to appeal the permit. The
+15 stay request shall be automatically granted for 14 days upon receipt and notice
+16 to all parties and pending a ruling on the merits of the stay request pursuant to
+17 Board rules. The automatic stay shall not extend beyond the 30-day appeal
+18 period unless a valid appeal has been filed with the Environmental Division
+19 Board. The automatic stay may be granted only once under this subsection
+20 during the 30-day appeal period. Following appeal of the District Commission
+21 decision, any stay request must be filed with the Environmental Division
+VT LEG #385895 v.2
+
+BILL AS INTRODUCED S.169
+2026 Page 3 of 22
+1 pursuant to the provisions of chapter 220 of this title Board. A District
+2 Commission shall not stay construction authorized by a permit processed under
+3 the Board’s minor application procedures.
+4 Sec. 4. 10 V.S.A. § 6089 is amended to read:
+5 § 6089. APPEALS
+6 Appeals of any act or decision of a District Commission under this chapter
+7 or a district coordinator under subsection 6007(c) of this title shall be made to
+8 the Environmental Division in accordance with chapter 220 of this title. For
+9 the purpose of this section, a decision of the Chair of a District Commission
+10 under section 6001e of this title on whether action has been taken to
+11 circumvent the requirements of this chapter shall be considered an act or
+12 decision of the District Commission.
+13 (a)(1) Appeals to the Board. An appeal of any act or decision of a District
+14 Commission shall be to the Board and shall be accompanied by a fee
+15 prescribed by section 6083a of this title.
+16 (2) Participation before District Commission. A person shall not appeal
+17 an act or decision that was made by a District Commission unless the person
+18 was granted party status by the District Commission pursuant to subdivision
+19 6085(c)(1)(E) of this title, participated in the proceedings before the District
+20 Commission, and retained party status at the end of the District Commission
+21 proceedings. In addition, the person may only appeal those issues under the
+VT LEG #385895 v.2
+
+BILL AS INTRODUCED S.169
+2026 Page 4 of 22
+1 criteria with respect to which the person was granted party status. However,
+2 notwithstanding these limitations, a person may appeal an act or decision of the
+3 District Commission if the Board determines that:
+4 (A) there was a procedural defect that prevented the person from
+5 obtaining party status or participating in the proceeding;
+6 (B) the decision being appealed is the grant or denial of party status;
+7 or
+8 (C) some other condition exists that would result in manifest injustice
+9 if the person’s right to appeal was disallowed.
+10 (3) Filing the appeal. An appellant to the Board, under this section,
+11 shall file with the notice of appeal a statement of the issues to be addressed in
+12 the appeal, a summary of the evidence that will be presented, and a preliminary
+13 list of witnesses who will testify on behalf of the appellant.
+14 (4) De novo hearing. The Board shall hold a de novo hearing on all
+15 findings requested by any party that files an appeal or cross appeal, according
+16 to the rules of the Board. The Board may give due consideration to any
+17 findings made by the District Commission. The hearing shall be held in the
+18 municipality where the project subject to the appeal is located, if possible, or as
+19 close as possible.
+20 (5) Notice of appeal. Notice of appeal shall be filed with the Board
+21 within 30 days following the act or decision by the District Commission. The
+VT LEG #385895 v.2
+
+BILL AS INTRODUCED S.169
+2026 Page 5 of 22
+1 Board shall notify the parties who had party status before the District
+2 Commission of the filing of any appeal.
+3 (6) Prehearing discovery.
+4 (A) A party may obtain discovery of expert witnesses who may
+5 provide testimony relevant to the appeal. Expert witness prefiled testimony
+6 shall be in accordance with the Vermont Rules of Evidence. The use of
+7 discovery for experts shall comply with the requirements in Rules 26–37 of the
+8 Vermont Rules of Civil Procedure.
+9 (B) Interrogatories served on nonexpert witnesses shall be limited to
+10 discovery of the identity of witnesses and a summary of each witness’s
+11 testimony, except by order of the Board for cause shown. Interrogatories
+12 served on expert witnesses shall be in accordance with the Vermont Rules of
+13 Civil Procedure.
+14 (C) Parties may submit requests to produce and requests to enter
+15 upon land pursuant to Rule 34 of the Vermont Rules of Civil Procedure.
+16 (D) Parties may not take depositions of witnesses, except by order of
+17 the Board for cause shown.
+18 (E) The Board may require a party to supplement, as necessary, any
+19 prehearing testimony that is provided.
+20 (b) Prior decisions. Prior decisions of the former Environmental Board, the
+21 Water Resources Board, the Waste Facilities Panel, and the Environmental
+VT LEG #385895 v.2
+
+BILL AS INTRODUCED S.169
+2026 Page 6 of 22
+1 Division of the Superior Court shall be given the same weight and
+2 consideration as prior decisions of the Land Use Review Board.
+3 (c) Appeals to Supreme Court. An appeal from a decision of the Board
+4 under subsection (a) of this section shall be to the Supreme Court by a party as
+5 set forth in subsection 6085(c) of this title.
+6 (d) Objections. No objection that has not been raised before the Board may
+7 be considered by the Supreme Court, unless the failure or neglect to urge such
+8 objection shall be excused because of extraordinary circumstances.
+9 (e) Appeals of decisions. An appeal of a decision by the Board shall be
+10 allowed pursuant to 3 V.S.A. § 815, including regarding the unreasonableness
+11 or insufficiency of the conditions attached to a permit. An appeal from the
+12 District Commission shall be allowed for any reason, except no appeal shall be
+13 allowed when an application has been granted and no hearing was requested.
+14 (f) Precedent. Precedent from the former Environmental Board and of the
+15 Land Use Review Board that interprets this chapter shall be provided the same
+16 deference by the Supreme Court as precedents accorded to other Executive
+17 Branch agencies charged with administering their enabling act. On appeal to
+18 the Supreme Court from the Environmental Review Board, decisions of the
+19 Land Use Review Board interpreting this act also shall be accorded that
+20 deference.
+VT LEG #385895 v.2
+
+BILL AS INTRODUCED S.169
+2026 Page 7 of 22
+1 (g) Clearly erroneous. Upon appeal to the Supreme Court, the Board’s
+2 findings of fact shall be accepted unless clearly erroneous.
+3 (h) Completion of case. A case shall be deemed completed when the Board
+4 enters a final decision even if that decision is appealed to the Supreme Court
+5 and remanded by that Court.
+6 (i) Court of record; jurisdiction. The Board shall have the powers of a
+7 court of record in the determination and adjudication of all matters within its
+8 jurisdiction. It may initiate proceedings on any matter within its jurisdiction.
+9 It may render judgments and enforce the same by any suitable process issuable
+10 by courts in this State. An order issued by the Board on any matter within its
+11 jurisdiction shall have the effect of a judicial order. The Board’s jurisdiction
+12 shall include:
+13 (1) the issuance of declaratory rulings on the applicability of this chapter
+14 and rules or orders issued under this chapter, pursuant to 3 V.S.A. § 808; and
+15 (2) the issuance of decisions on appeals pursuant to sections 6007 and
+16 6089 of this title.
+17 Sec. 5. 10 V.S.A. § 6007 is amended to read:
+18 § 6007. ACT 250 DISCLOSURE STATEMENT; JURISDICTIONAL
+19 DETERMINATION
+20 * * *
+VT LEG #385895 v.2
+
+BILL AS INTRODUCED S.169
+2026 Page 8 of 22
+1 (c) With respect to the partition or division of land, or with respect to an
+2 activity that might or might not constitute development, any person may
+3 submit to the district coordinator an “Act 250 Disclosure Statement” and other
+4 information required by the rules of the Board and may request a jurisdictional
+5 opinion from the district coordinator concerning the applicability of this
+6 chapter. If a requestor wishes a final determination to be rendered on the
+7 question, the district coordinator, at the expense of the requestor and in
+8 accordance with rules of the Board, shall publish notice of the issuance of the
+9 opinion in a local newspaper generally circulating in the area where the land
+10 that is the subject of the opinion is located and shall serve the opinion on all
+11 persons listed in subdivisions 6085(c)(1)(A) through (D) of this title. In
+12 addition, the requestor who is seeking a final determination shall consult with
+13 the district coordinator and obtain approval of a subdivision 6085(c)(1)(E) list
+14 of persons who shall be notified by the district coordinator because they are
+15 adjoining property owners or other persons who would be likely to be able to
+16 demonstrate a particularized interest protected by this chapter that may be
+17 affected by an act or decision by a District Commission.
+18 (d) Appeals to the Board.
+19 (1) The appellant shall provide notice of the filing of an appeal to each
+20 person entitled to notice under subdivisions 6085(c)(1)(A)–(D) of this title and
+21 to each person on an approved subdivision 6085(c)(1)(E) list.
+VT LEG #385895 v.2
+
+BILL AS INTRODUCED S.169
+2026 Page 9 of 22
+1 (2) Failure to appeal within 30 days following the issuance of the
+2 jurisdictional opinion shall render the decision of the district coordinator under
+3 subsection (c) of this section the final determination regarding jurisdiction
+4 unless the underlying jurisdictional opinion was not properly served on persons
+5 listed in subdivisions 6085(c)(1)(A)–(D) of this title and on persons on a
+6 subdivision 6085(c)(1)(E) list approved under subsection (c) of this section.
+7 Sec. 6. 10 V.S.A. § 6083a is amended to read:
+8 § 6083a. ACT 250 FEES
+9 * * *
+10 (k) All persons filing an appeal, cross appeal, or petition from a District
+11 Commission decision or jurisdictional opinion shall pay a fee of $295.00, plus
+12 publication costs, unless the Board approves a waiver of fees based on
+13 indigency.
+14 Sec. 7. 10 V.S.A. chapter 220 is amended to read:
+15 CHAPTER 220. CONSOLIDATED ENVIRONMENTAL APPEALS
+16 § 8501. PURPOSE
+17 It is the purpose of this chapter to:
+18 (1) consolidate existing appeal routes for municipal zoning and
+19 subdivision decisions and acts or decisions of the Secretary of Natural
+20 Resources, district environmental coordinators, and District Commissions,
+VT LEG #385895 v.2
+
+BILL AS INTRODUCED S.169
+2026 Page 10 of 22
+1 excluding enforcement actions brought pursuant to chapters 201 and 211 of
+2 this title and the adoption of rules under 3 V.S.A. chapter 25;
+3 (2) standardize the appeal periods, the parties who may appeal these acts
+4 or decisions, and the ability to stay any act or decision upon appeal, taking into
+5 account the nature of the different programs affected;
+6 (3) encourage people to get involved in the Act 250 permitting process
+7 at the initial stages of review by a District Commission by requiring
+8 participation as a prerequisite for an appeal of a District Commission decision
+9 to the Environmental Division;
+10 (4) assure ensure that clear appeal routes exist for acts and decisions of
+11 the Secretary of Natural Resources; and
+12 (5)(4) consolidate appeals of decisions related to renewable energy
+13 generation plants and telecommunications facilities with review under,
+14 respectively, 30 V.S.A. §§ 248 and 248a, with appeals and consolidation of
+15 proceedings pertaining to telecommunications facilities occurring only while
+16 30 V.S.A. § 248a remains in effect.
+17 § 8502. DEFINITIONS
+18 As used in this chapter:
+19 (1) “District Commission” means a District Environmental Commission
+20 established under chapter 151 of this title. [Repealed.]
+VT LEG #385895 v.2
+
+BILL AS INTRODUCED S.169
+2026 Page 11 of 22
+1 (2) “District coordinator” means a district environmental coordinator
+2 attached to a District Commission established under chapter 151 of this title.
+3 [Repealed.]
+4 (3) “Environmental Court” or “Environmental Division” means the
+5 Environmental Division of the Superior Court established by 4 V.S.A. § 30.
+6 (4) “Land Use Review Board” or “Board” means the Board established
+7 under chapter 151 of this title.
+8 (5) “Party by right” means the following:
+9 (A) the applicant;
+10 (B) the landowner, if the applicant is not the landowner;
+11 (C) the municipality in which the project site is located and the
+12 municipal and regional planning commissions for that municipality;
+13 (D) if the project site is located on a boundary, any Vermont
+14 municipality adjacent to that border and the municipal and regional planning
+15 commissions for that municipality;
+16 (E) the solid waste management district in which the land is located,
+17 if the development or subdivision constitutes a facility pursuant to subdivision
+18 6602(10) of this title; and
+19 (F) any State agency affected by the proposed project.
+20 (6) “Person” means any individual; partnership; company; corporation;
+21 association; joint venture; trust; municipality; the State of Vermont or any
+VT LEG #385895 v.2
+
+BILL AS INTRODUCED S.169
+2026 Page 12 of 22
+1 agency, department, or subdivision of the State; any federal agency; or any
+2 other legal or commercial entity.
+3 (7) “Person aggrieved” means a person who alleges an injury to a
+4 particularized interest protected by the provisions of law listed in section 8503
+5 of this title, attributable to an act or decision by a district coordinator, District
+6 Commission, the Secretary, or the Environmental Division that can be
+7 redressed by the Environmental Division or the Supreme Court.
+8 (8) “Secretary” means the Secretary of Natural Resources or the
+9 Secretary’s duly authorized representative. As used in this chapter,
+10 “Secretary” shall also mean means the Commissioner of Environmental
+11 Conservation,; the Commissioner of Forests, Parks and Recreation,; and the
+12 Commissioner of Fish and Wildlife, with respect to those statutes that refer to
+13 the authority of that commissioner or department.
+14 § 8503. APPLICABILITY
+15 (a) This chapter shall govern all appeals of an act or decision of the
+16 Secretary, excluding enforcement actions under chapters 201 and 211 of this
+17 title and rulemaking, under the following authorities and under the rules
+18 adopted under those authorities:
+19 * * *
+VT LEG #385895 v.2
+
+BILL AS INTRODUCED S.169
+2026 Page 13 of 22
+1 (b) This chapter shall govern:
+2 (1) all appeals from an act or decision of a District Commission under
+3 chapter 151 of this title, excluding appeals of application fee refund requests;
+4 (2) appeals from an act or decision of a district coordinator under
+5 subsection 6007(c) of this title; and
+6 (3) appeals from findings of fact and conclusions of law issued by the
+7 Land Use Review Board in its review of a designated growth center for
+8 conformance with the criteria of subsection 6086(a) of this title, pursuant to
+9 authority granted at 24 V.S.A. § 2793c(f).
+10 (c) This chapter shall govern all appeals arising under 24 V.S.A.
+11 chapter 117, the planning and zoning chapter.
+12 (d) This chapter shall govern all appeals from an act or decision of the
+13 Environmental Division under this chapter.
+14 (e) This chapter shall not govern appeals from rulemaking decisions by the
+15 Land Use Review Board under chapter 151 of this title or enforcement actions
+16 under chapters 201 and 211 of this title.
+17 (f) This chapter shall govern all appeals of acts or decisions of the
+18 legislative body of a municipality arising under 24 V.S.A. chapter 61,
+19 subchapter 10, relating to the municipal certificate of approved location for
+20 salvage yards.
+VT LEG #385895 v.2
+
+BILL AS INTRODUCED S.169
+2026 Page 14 of 22
+1 (g) This chapter shall govern all appeals of an act or decision of the
+2 Secretary of Natural Resources that a solid waste implementation plan for a
+3 municipality proposed under 24 V.S.A. § 2202a conforms with the State Solid
+4 Waste Implementation Plan adopted pursuant to section 6604 of this title.
+5 § 8504. APPEALS TO THE ENVIRONMENTAL DIVISION
+6 (a) Act 250 and Agency appeals. Within 30 days of following the date of
+7 the act or decision, any person aggrieved by an act or decision of the Secretary,
+8 a District Commission, or a district coordinator under the provisions of law
+9 listed in section 8503 of this title, or any party by right, may appeal to the
+10 Environmental Division, except for an act or decision of the Secretary under
+11 subdivision 6086b(3)(E) of this title or governed by section 8506 of this title.
+12 * * *
+13 (c) Notice of the filing of an appeal.
+14 (1) Upon filing an appeal from an act or decision of the District
+15 Commission, the appellant shall notify all parties who had party status as of the
+16 end of the District Commission proceeding, all friends of the Commission, and
+17 the Land Use Review Board that an appeal is being filed. In addition, the
+18 appellant shall publish notice not more than 10 days after providing notice as
+19 required under this subsection, at the appellant’s expense, in a newspaper of
+20 general circulation in the area of the project that is the subject of the decision.
+21 [Repealed.]
+VT LEG #385895 v.2
+
+BILL AS INTRODUCED S.169
+2026 Page 15 of 22
+1 * * *
+2 (d) Requirement to participate before the District Commission or the
+3 Secretary.
+4 (1) Participation before District Commission. An aggrieved person shall
+5 not appeal an act or decision that was made by a District Commission unless
+6 the person was granted party status by the District Commission pursuant to
+7 subdivision 6085(c)(1)(E) of this title, participated in the proceedings before
+8 the District Commission, and retained party status at the end of the District
+9 Commission proceedings. In addition, the person may only appeal those issues
+10 under the criteria with respect to which the person was granted party status.
+11 However, notwithstanding these limitations, an aggrieved person may appeal
+12 an act or decision of the District Commission if the Environmental judge
+13 determines that:
+14 (A) there was a procedural defect that prevented the person from
+15 obtaining party status or participating in the proceeding;
+16 (B) the decision being appealed is the grant or denial of party status;
+17 or
+18 (C) some other condition exists that would result in manifest injustice
+19 if the person’s right to appeal was disallowed. [Repealed.]
+20 (2) Participation before the Secretary.
+21 * * *
+VT LEG #385895 v.2
+
+BILL AS INTRODUCED S.169
+2026 Page 16 of 22
+1 (e) Act 250 jurisdictional determinations by a district coordinator.
+2 (1) The appellant shall provide notice of the filing of an appeal to each
+3 person entitled to notice under subdivisions 6085(c)(1)(A) through (D) of this
+4 title, to each person on an approved subdivision 6085(c)(1)(E) list, and to the
+5 Land Use Review Board.
+6 (2) Failure to appeal within the time required under subsection (a) of
+7 this section shall render the decision of the district coordinator under
+8 subsection 6007(c) of this title the final determination regarding jurisdiction
+9 under chapter 151 of this title unless the underlying jurisdictional opinion was
+10 not properly served on persons listed in subdivisions 6085(c)(1)(A) through
+11 (D) of this title and on persons on a subdivision 6085(c)(1)(E) list approved
+12 under subsection 6007(c) of this title. [Repealed.]
+13 * * *
+14 (g) Consolidated appeals. The Environmental Division may consolidate or
+15 coordinate different appeals where those appeals all relate to the same project.
+16 * * *
+17 (i) Deference to Agency technical determinations. In the adjudication of
+18 appeals relating to land use permits under chapter 151 of this title, technical
+19 determinations of the Secretary shall be accorded the same deference as they
+20 are accorded by a District Commission under subsection 6086(d) of this title.
+21 [Repealed.]
+VT LEG #385895 v.2
+
+BILL AS INTRODUCED S.169
+2026 Page 17 of 22
+1 * * *
+2 (k) Limitations on appeals. Notwithstanding any other provision of this
+3 section:,
+4 (1) there shall be no appeal from a District Commission decision when
+5 the Commission has issued a permit and no hearing was requested or held, or
+6 no motion to alter was filed following the issuance of an administrative
+7 amendment;
+8 (2) a municipal decision regarding whether a particular application
+9 qualifies for a recorded hearing under 24 V.S.A. § 4471(b) shall not be subject
+10 to appeal;
+11 (3) if a District Commission issues a partial decision under subsection
+12 6086(b) of this title, any appeal of that decision must be taken within 30 days
+13 of the date of that decision; and
+14 (4) it shall be the goal of the Environmental Division to issue a decision
+15 on a case regarding an appeal of an appropriate municipal panel decision under
+16 24 V.S.A. chapter 117 within 90 days following the close of the hearing.
+17 (l) Representation. The Secretary may represent the Agency of Natural
+18 Resources in all appeals under this section. The Chair of the Land Use Review
+19 Board may represent the Board in any appeal under this section, unless the
+20 Board directs otherwise. If more than one State agency, other than the Board,
+21 either appeals or seeks to intervene in an appeal under this section, only the
+VT LEG #385895 v.2
+
+BILL AS INTRODUCED S.169
+2026 Page 18 of 22
+1 Attorney General may represent the interests of those agencies of the State in
+2 the appeal.
+3 (m) Precedent. Prior decisions of the Environmental Board, Water
+4 Resources Board, and Waste Facilities Panel shall be given the same weight
+5 and consideration as prior decisions of the Environmental Division.
+6 (n) Intervention. Any person may intervene in a pending appeal if that
+7 person:
+8 (1) appeared as a party in the action appealed from and retained party
+9 status;
+10 (2) is a party by right;
+11 (3) is the Land Use Review Board; [Repealed.]
+12 (4) is a person aggrieved, as defined in this chapter;
+13 (5) qualifies as an “interested person,” as established in 24 V.S.A.
+14 § 4465, with respect to appeals under 24 V.S.A. chapter 117; or
+15 (6) meets the standard for intervention established in the Vermont Rules
+16 of Civil Procedure.
+17 (o) With respect to review of an act or decision of the Secretary pursuant to
+18 3 V.S.A. § 2809, the Division may reverse the act or decision or amend an
+19 allocation of costs to an applicant only if the Division determines that the act,
+20 decision, or allocation was arbitrary, capricious, or an abuse of discretion. In
+VT LEG #385895 v.2
+
+BILL AS INTRODUCED S.169
+2026 Page 19 of 22
+1 the absence of such a determination, the Division shall require the applicant to
+2 pay the Secretary all costs assessed pursuant to 3 V.S.A. § 2809.
+3 (p) Administrative record. The Secretary shall certify the administrative
+4 record as defined in chapter 170 of this title and shall transfer a certified copy
+5 of that record to the Environmental Division when:
+6 (1) there is an appeal of an act or decision of the Secretary that is based
+7 on that record; or
+8 (2) there is an appeal of a decision of a District Commission, and the
+9 applicant used a decision of the Secretary based on that record to create a
+10 presumption under a criterion of subsection 6086(a) of this title that is at issue
+11 in the appeal.
+12 * * *
+13 § 8505. APPEALS TO THE SUPREME COURT
+14 (a) Any person aggrieved by a decision of the Environmental Division
+15 pursuant to this subchapter, any party by right, or any person aggrieved by a
+16 decision of the Environmental Review Board may appeal to the Supreme Court
+17 within 30 days of following the date of the entry of the order or judgment
+18 appealed from, provided that:
+19 (1) the person was a party to the proceeding before the Environmental
+20 Division; or
+VT LEG #385895 v.2
+
+BILL AS INTRODUCED S.169
+2026 Page 20 of 22
+1 (2) the decision being appealed is the denial of party status; or
+2 (3) the Supreme Court determines that:
+3 (A) there was a procedural defect that prevented the person from
+4 participating in the proceeding; or
+5 (B) some other condition exists that would result in manifest injustice
+6 if the person’s right to appeal were disallowed.
+7 * * *
+8 * * * Environmental Division * * *
+9 Sec. 8. 4 V.S.A. § 34 is amended to read:
+10 § 34. JURISDICTION; ENVIRONMENTAL DIVISION
+11 The Environmental Division shall have:
+12 (1) jurisdiction of matters arising under 10 V.S.A. chapters 201 and 220;
+13 and
+14 (2) jurisdiction of matters arising under 24 V.S.A. chapter 61,
+15 subchapter 12 and 24 V.S.A. chapter 117; and
+16 (3) original jurisdiction to revoke permits under 10 V.S.A. chapter 151.
+17 Sec. 9. 24 V.S.A. § 4471 is amended to read:
+18 § 4471. APPEAL TO ENVIRONMENTAL DIVISION OR LAND USE
+19 REVIEW BOARD
+20 (a) Participation required. An interested person who has participated in a
+21 municipal regulatory proceeding authorized under this title may appeal a
+VT LEG #385895 v.2
+
+BILL AS INTRODUCED S.169
+2026 Page 21 of 22
+1 decision rendered in that proceeding by an appropriate municipal panel to the
+2 Environmental Division or if the same project is subject to appeal at the Land
+3 Use Review Board, may file a consolidated appeal with the Board.
+4 Participation in a local regulatory proceeding shall consist of offering, through
+5 oral or written testimony, evidence or a statement of concern related to the
+6 subject of the proceeding. An appeal from a decision of the appropriate
+7 municipal panel, or from a decision of the municipal legislative body under
+8 subsection 4415(d) of this title, shall be taken in such manner as the Supreme
+9 Court may by rule provide for appeals from State agencies governed by
+10 3 V.S.A. §§ 801–816, unless the decision is an appropriate municipal panel
+11 decision which the municipality has elected to be subject to review on the
+12 record.
+13 * * *
+14 Sec. 10. RULEMAKING
+15 The Environmental Review Board shall adopt rules of procedure for its
+16 hearing process pursuant to 10 V.S.A. § 6025(a) on or before January 1, 2028.
+17 Sec. 11. CHECK-IN REPORT
+18 On or before October 1, 2027, the Chair of the Land Use Review Board
+19 shall report on the status of the Board’s workload, capacity, and numbers of
+20 recent appeals. The report shall describe the steps the Board has taken to
+21 prepare to take on hearing permit appeals. The report shall assess the Board’s
+VT LEG #385895 v.2
+
+BILL AS INTRODUCED S.169
+2026 Page 22 of 22
+1 ability to take on appeals of municipal permits and propose a timeline for
+2 doing so. The report shall be submitted to the House Committee on
+3 Environment and the Senate Committee on Natural Resources and Energy.
+4 Sec. 12. ENVIRONMENTAL DIVISION; CONTINUED JURISDICTION
+5 Notwithstanding the repeal of its jurisdictional authority to hear appeals
+6 relative to land use permits under Sec. 7 of this act, the Environmental
+7 Division of the Superior Court shall continue to have jurisdiction to complete
+8 its consideration of any appeal that is pending before it as of July 1, 2028, if
+9 the act or appeal has been filed.
+10 Sec. 13. APPROPRIATIONS; POSITION
+11 (a) In fiscal year 2027, the sum of $125,000.00 from the General Fund to
+12 the Land Use Review Board for the set-up costs for the permit appeal process.
+13 (b) In fiscal year 2027, the sum of $175,000.00 from the General Fund to
+14 the Land Use Review Board for the position established in subsection (c) of
+15 this section.
+16 (c) There is established one new full-time Legal Services Specialist
+17 position at the Land Use Review Board.
+18 * * * Effective Date * * *
+19 Sec. 14. EFFECTIVE DATE
+20 This act shall take effect on July 1, 2026.
+VT LEG #385895 v.2

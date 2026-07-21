@@ -1,0 +1,62 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.560
+2026 Page 1 of 3
+1 H.560
+2 Introduced by Representatives Sibilia of Dover, James of Manchester, and
+3 Priestley of Bradford
+4 Referred to Committee on
+5 Date:
+6 Subject: Internal security and public safety; Cybersecurity Advisory Council
+7 Statement of purpose of bill as introduced: This bill proposes to add legislative
+8 members and a representative of the Judiciary to the Cybersecurity Advisory
+9 Council.
+10 An act relating to the Cybersecurity Advisory Council
+11 It is hereby enacted by the General Assembly of the State of Vermont:
+12 Sec. 1. 20 V.S.A. § 4662 is amended to read:
+13 § 4662. CYBERSECURITY ADVISORY COUNCIL
+14 (a) Creation. There is created the Cybersecurity Advisory Council to
+15 advise on the State’s cybersecurity infrastructure, best practices,
+16 communications protocols, standards, training, and safeguards.
+17 (b) Membership. The Council shall be composed of the following
+18 members:
+19 (1) the Chief Information Officer, who shall serve as the Chair or
+20 appoint a designee from the Council to serve as the Chair;
+VT LEG #386254 v.1
+
+BILL AS INTRODUCED H.560
+2026 Page 2 of 3
+1 (2) the Chief Information Security Officer;
+2 (3) a representative from a distribution or transmission utility, appointed
+3 by the Commissioner of Public Service;
+4 (4) a representative from a State municipal water system, appointed by
+5 the Secretary of Natural Resources;
+6 (5) a representative from a Vermont hospital, appointed by the President
+7 of the Vermont Association of Hospitals and Health Systems;
+8 (6) a person representing a Vermont business related to an essential
+9 supply chain, appointed by the Chair of the Vermont Business Roundtable;
+10 (7) the Director of Vermont Emergency Management or designee;
+11 (8) the Governor’s Homeland Security Advisor or designee;
+12 (9) the Vermont Adjutant General or designee;
+13 (10) the Attorney General or designee; and
+14 (11) the President of Vermont Information Technology Leaders or
+15 designee;
+16 (12) the Chair of the House Committee on Energy and Digital
+17 Infrastructure;
+18 (13) the Chair of the Senate Committee on Institutions; and
+19 (14) a representative from the Judiciary, appointed by the Chief Justice
+20 of the Supreme Court.
+21 * * *
+VT LEG #386254 v.1
+
+BILL AS INTRODUCED H.560
+2026 Page 3 of 3
+1 Sec. 2. EFFECTIVE DATE
+2 This act shall take effect on July 1, 2026.
+VT LEG #386254 v.1
