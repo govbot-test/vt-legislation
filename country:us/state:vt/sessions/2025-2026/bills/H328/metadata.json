@@ -26,18 +26,6 @@
       "_processing": {
         "log_file_created": "2026-07-13T05:34:16Z"
       }
-    },
-    {
-      "description": "House message: House concurred in Senate proposal of amendment to House proposal of amendment",
-      "date": "2026-05-28",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-introduction"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-14T13:27:52Z"
-      }
     }
   ],
   "sponsorships": [
@@ -115,7 +103,7 @@
     "division_id": "ocd-division/country:us/state:vt"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-14T13:27:52Z",
-    "text_extraction_latest_update": "2026-07-21T06:24:22.472178Z"
+    "logs_latest_update": "2026-07-21T06:23:15Z",
+    "text_extraction_latest_update": "2026-07-14T22:13:17.205742Z"
   }
 }
