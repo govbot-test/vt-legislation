@@ -1,0 +1,702 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.935
+2026 Page 1 of 29
+1 H.935
+2 Introduced by Committee on Government Operations and Military Affairs
+3 Date:
+4 Subject: Internal security and public safety; emergency management;
+5 miscellaneous amendments
+6 Statement of purpose of bill as introduced: This bill proposes to establish the
+7 Ready Response Grant Program and authorize the Division of Emergency
+8 Management to administer the Program for purposes of sourcing, storing, and
+9 distributing shelf-stable foods and bottled water during emergencies. This bill
+10 also proposes to establish the Technical Rescue Grant Program to assist rescue
+11 agencies with the improvement of operational readiness and investment in
+12 specialized equipment. This bill also proposes to amend various statutes to
+13 require disability inclusion in emergency response planning. This bill also
+14 proposes to amend the statutes governing the State Forest Fire Warden and
+15 town forest fire wardens. This bill also proposes to authorize the use of certain
+16 funds by the Department of Public Safety to procure and install equipment for
+17 the purpose of building out a computer-aided dispatch system for public safety
+18 communications. This bill also proposes to appropriate monies to support the
+19 creation of State emergency and all-hazards response and preparedness
+20 materials in multiple languages and the operation of the Urban Search and
+21 Rescue Team, to award grants from the Ready Response Grant Program and
+VT LEG #387157 v.4
+
+BILL AS INTRODUCED H.935
+2026 Page 2 of 29
+1 Technical Rescue Grant Program, and to support current operations and
+2 programming of the Vermont Access Network.
+3 An act relating to emergency management
+4 It is hereby enacted by the General Assembly of the State of Vermont:
+5 * * * Ready Response Grant Program * * *
+6 Sec. 1. 20 V.S.A. § 52 is added to read:
+7 § 52. READY RESPONSE GRANT PROGRAM
+8 (a) As used in this section, “ready response” means the provision of short-
+9 term food and bottled water resources, including logistical support and
+10 transportation, to individuals in Vermont who do not have adequate access to
+11 food and water at agreed upon times when the Division of Emergency
+12 Management seeks resource assistance from a grantee or responds to an all-
+13 hazards event or state of emergency.
+14 (b) There is created the Ready Response Grant Program to be managed and
+15 administered by the Division of Emergency Management. The Division shall
+16 award an annual grant to an eligible food bank to source, store, and distribute
+17 shelf-stable, ready-to-eat foods and bottled water at times and in types and
+18 quantities per a written memorandum of agreement with the Division.
+19 (c) The grant shall be in an amount sufficient to compensate the grantee for
+20 all costs incurred to procure and stage food and water in agreed upon quantities
+VT LEG #387157 v.4
+
+BILL AS INTRODUCED H.935
+2026 Page 3 of 29
+1 and locations, the costs of cycling the food and water at agreed-upon intervals,
+2 the value of distribution center storage capacity, the value of operational
+3 capacity to stage materials in anticipation of need, and the costs of distribution
+4 whenever the Division seeks resource assistance from the grantee or responds
+5 to an all-hazards event or state of emergency. As used in this subsection, the
+6 “value of operational capacity” includes leased storage space, delivery
+7 vehicles, drivers, warehouse selectors, and other operational costs.
+8 (d) Food and water supplies subject to a grant and under the grantee’s
+9 control shall be rotated and replenished according to established industry
+10 guidelines and best practices. Rotated food and water shall be redistributed in
+11 an equitable manner by the grantee through Vermont’s charitable food system
+12 to Vermont nonprofit organizations qualifying under 26 U.S.C. § 501(c)(3) that
+13 provide food to individuals in Vermont.
+14 (e) To the extent that the Division requests services from the grantee that
+15 are not covered by the Grant Program, a separate agreement shall be reached
+16 between the Division and the grantee.
+17 * * * Technical Rescue Grant Program * * *
+18 Sec. 2. 20 V.S.A. § 53 is added to read:
+19 § 53. TECHNICAL RESCUE GRANT PROGRAM
+20 (a) Creation of Program. There is created the Technical Rescue Grant
+21 Program to assist Vermont fire departments, emergency medical services
+VT LEG #387157 v.4
+
+BILL AS INTRODUCED H.935
+2026 Page 4 of 29
+1 agencies, and technical rescue agencies with the improvement of operational
+2 readiness and investment in specialized equipment, personal protective gear,
+3 and training. The Program shall be administered by the Department of Public
+4 Safety.
+5 (b) Working Group. The Technical Rescue Grant Working Group is
+6 established to review applications and recommend awards to the
+7 Commissioner of Public Safety. The Working Group shall be composed of the
+8 following members:
+9 (1) the Manager of the Vermont Urban Search and Rescue Team;
+10 (2) one member of the Senate Committee on Government Operations,
+11 appointed by the Committee on Committees;
+12 (3) one member of the House Committee on Government Operations
+13 and Military Affairs, appointed by the Speaker of the House;
+14 (4) a representative of a fire department, appointed by the Commissioner
+15 of Public Safety; and
+16 (5) a representative of an emergency medical services agency, appointed
+17 by the Commissioner of Health.
+18 (c) Meetings. The Manager of the Vermont Urban Search and Rescue
+19 Team shall call the first meeting of the Working Group. At its first meeting,
+20 the Working Group shall elect a chair and a vice chair. The Working Group
+21 shall adopt procedures to govern its proceedings.
+VT LEG #387157 v.4
+
+BILL AS INTRODUCED H.935
+2026 Page 5 of 29
+1 (d) Compensation and reimbursement.
+2 (1) For attendance at meetings during adjournment of the General
+3 Assembly, a legislative member of the Working Group shall be entitled to per
+4 diem compensation and reimbursement of expenses pursuant to 2 V.S.A. § 23.
+5 These payments shall be made from monies appropriated to the General
+6 Assembly.
+7 (2) Other members of the Working Group whose participation is not
+8 supported through their employment or association shall receive per diem
+9 compensation pursuant to 32 V.S.A. § 1010 and reimbursement of travel
+10 expenses. A per diem authorized by this subdivision shall be paid from the
+11 budget of the Department of Public Safety.
+12 (e) Eligibility. Fire departments, emergency medical services agencies, and
+13 technical rescue agencies operating within Vermont shall be eligible for
+14 Program grants. Grant applicants shall demonstrate their use, planned use, or
+15 need for technical rescue operations within their service area. All grant
+16 applicants shall submit their application on a form adopted by the Department.
+17 The Department shall prioritize grant awards for applicants that:
+18 (1) maintain a memorandum of understanding with the Division of
+19 Emergency Management for swiftwater rescue; or
+20 (2) function as regional technical rescue teams providing services in
+21 multiple jurisdictions.
+VT LEG #387157 v.4
+
+BILL AS INTRODUCED H.935
+2026 Page 6 of 29
+1 (f) Grant award limitations. The maximum award to any applicant in a
+2 given fiscal year shall be not more than $5,000.00. The Program shall not
+3 award more than $25,000.00 in total grants in a given fiscal year.
+4 (g) Application review and scoring. The Department shall adopt
+5 procedures governing application submission, forms, review, scoring, and
+6 recommendation of awards. The procedures for application scoring shall
+7 include alignment with the Program priorities in subsection (a) of this section,
+8 operational need, geographic service area, feasibility of the proposed project,
+9 cost-effectiveness, and sustainability of the applicant’s services.
+10 (h) Grant recipient reporting; Department report. Each grant recipient shall
+11 submit to the Department a final expenditure report, proof of purchase or
+12 training completion, and a narrative description of how the grant improved the
+13 recipient’s technical rescue capacity. Annually on or before November 15, the
+14 Department shall submit a written report to the House Committee on
+15 Government Operations and Military Affairs and the Senate Committee on
+16 Government Operations summarizing grant awards, outcomes, and Program
+17 recommendations.
+18 (i) Rulemaking. The Department may adopt rules pursuant to 3 V.S.A.
+19 chapter 25 as needed to implement this section.
+VT LEG #387157 v.4
+
+BILL AS INTRODUCED H.935
+2026 Page 7 of 29
+1 * * * Disability Inclusion in Emergency Planning * * *
+2 Sec. 3. [Deleted.]
+3 Sec. 4. 20 V.S.A. § 6 is amended to read:
+4 § 6. LOCAL AND REGIONAL ORGANIZATION FOR EMERGENCY
+5 MANAGEMENT
+6 * * *
+7 (c)(1) Each local organization shall develop and maintain an all-hazards
+8 emergency management plan in accordance with the State Emergency
+9 Management Plan and guidance set forth by the Division of Emergency
+10 Management.
+11 * * *
+12 (3) The Division shall advise municipalities that when a shelter is sited
+13 under a local emergency plan, the municipality should work with the Agency
+14 of Human Services, the American Red Cross, disability-led organizations, and
+15 community-based emergency or charitable food providers, to assess the facility
+16 and the facility’s potential operations, including the characteristics of the
+17 surrounding area during an all-hazards event, multiple routes of travel and
+18 possible hazards that could prevent access to the shelter, and the need for
+19 immediate and sustained access to food and water for individuals using the
+20 shelter.
+VT LEG #387157 v.4
+
+BILL AS INTRODUCED H.935
+2026 Page 8 of 29
+1 (4) The Division, in coordination with the Agency of Human Services
+2 and disability-led organizations, shall advise municipalities, upon completion
+3 of a local emergency management plan, on how to conduct training and
+4 exercises pertaining to sheltering.
+5 (d) Regional emergency management committees shall be established by
+6 the Division of Emergency Management.
+7 * * *
+8 (3) A regional emergency management committee shall consist of
+9 voting and nonvoting members.
+10 (A) Voting members. The voting members of the committee shall
+11 be:
+12 (i) The local emergency management director or designee and one
+13 representative from each town and city in the region shall serve as the voting
+14 members of the committee. A representative from a town or city shall be a
+15 member of the town’s or city’s emergency services community and shall be
+16 appointed by the town’s or city’s executive or legislative branch.
+17 (ii) An individual with lived disability experience representing a
+18 disability-led organization, appointed by the Vermont Council for Independent
+19 Living.
+20 * * *
+VT LEG #387157 v.4
+
+BILL AS INTRODUCED H.935
+2026 Page 9 of 29
+1 Sec. 5. 20 V.S.A. § 32 is amended to read:
+2 § 32. LOCAL EMERGENCY PLANNING COMMITTEES; CREATION;
+3 DUTIES
+4 * * *
+5 (b) All local emergency planning committees shall include representatives
+6 from the following: fire departments; local and regional emergency medical
+7 services; local, county, and State law enforcement; other entities providing first
+8 responders or emergency management personnel; organizations serving
+9 vulnerable populations; media; transportation; regional planning commissions;
+10 hospitals; industry; the Vermont National Guard; the Department of Health’s
+11 district office; and an animal rescue organization, and may include any other
+12 interested public or private individual or organization. Where the local
+13 emergency planning committee represents more than one region of the State,
+14 the Commission shall appoint representatives that are geographically diverse.
+15 (c) A local emergency planning committee shall perform all the following
+16 duties:
+17 (1) Carry out all the requirements of a committee pursuant to EPCRA,
+18 including preparing a local emergency planning committee plan. The plan
+19 shall be coordinated with the State emergency management plan Emergency
+20 Management Plan and may be expanded to address all-hazards identified in the
+21 State emergency management plan Emergency Management Plan. A local
+VT LEG #387157 v.4
+
+BILL AS INTRODUCED H.935
+2026 Page 10 of 29
+1 emergency planning committee shall coordinate with disability-led
+2 organizations throughout all phases of emergency management planning. At a
+3 minimum, the local emergency planning committee plan shall include the
+4 following:
+5 * * *
+6 Sec. 6. 20 V.S.A. § 51 is amended to read:
+7 § 51. DIVISION OF EMERGENCY MANAGEMENT; ALL-HAZARD
+8 AND WEATHER ALERT SYSTEMS FOR MUNICIPAL
+9 CORPORATIONS
+10 (a) Upon request of a municipal corporation, the Division of Emergency
+11 Management shall assist the municipal corporation with access to the
+12 following:
+13 (1) a statewide river observation and modeling system that details
+14 current river level observations and models river flood outlooks; and
+15 (2) a statewide enhanced weather forecasting and alert system that:
+16 (A) predicts local and regional conditions using advanced modeling;
+17 and
+18 (B) issues real-time warnings for potentially dangerous weather
+19 through multiple communication channels.
+20 (b) Any all-hazard or weather alert systems used by a municipal
+21 corporation pursuant to subdivision (a)(2)(B) of this section shall, if feasible,
+VT LEG #387157 v.4
+
+BILL AS INTRODUCED H.935
+2026 Page 11 of 29
+1 include communication channels that are accessible by individuals with
+2 disabilities.
+3 * * * Town Forest Fire Wardens * * *
+4 Sec. 7. 10 V.S.A. § 2603 is amended to read:
+5 § 2603. POWERS AND DUTIES: COMMISSIONER
+6 * * *
+7 (d) The Commissioner or designee shall be the State fire warden Forest
+8 Fire Warden and may act as, and in place of, the town forest fire warden of any
+9 municipality, unorganized town, or gore as provided under subchapter 4 of this
+10 chapter. The Commissioner or designee, as State Forest Fire Warden, shall
+11 have the authority to:
+12 (1) exercise the authority and duties of a town forest fire warden as set
+13 forth in subchapter 4 of this chapter;
+14 (2) appoint special forest fire wardens and delegate the authority of the
+15 State Forest Fire Warden to the special forest fire wardens;
+16 (3) take command and control of a forest fire in any municipality or
+17 unorganized town or gore in the State when, in the State Forest Fire Warden’s
+18 determination, it is necessary to do so, or when resources are needed in
+19 addition to local resources, and act as incident commander over all other fire
+20 officials;
+VT LEG #387157 v.4
+
+BILL AS INTRODUCED H.935
+2026 Page 12 of 29
+1 (4) delegate the authority to act as incident commander of a forest fire to
+2 another person or entity;
+3 (5) serve on the Northeastern Forest Fire Protection Commission or
+4 designate an appropriate Department representative to serve in the
+5 Commissioner’s place, pursuant to section 2503 of this title, and exercise all
+6 related authority;
+7 (6) enter into mutual aid compact agreements as set forth in section
+8 2462 of this title; and
+9 (7) issue a ban on kindling fires on lands owned by the Agency of
+10 Natural Resources when necessary.
+11 * * *
+12 Sec. 8. 10 V.S.A. chapter 83, subchapter 4 is amended to read:
+13 Subchapter 4. Forest Fires and Fire Prevention
+14 § 2641. TOWN FOREST FIRE WARDENS; APPOINTMENT AND
+15 REMOVAL
+16 (a) Upon approval by the selectboard and acceptance by the appointee, the
+17 Commissioner shall appoint a town forest fire warden for a term of five years
+18 or until a successor is appointed. A town forest fire warden may be reappointed
+19 for successive five-year terms by the Commissioner or until a successor is
+20 approved by the selectboard and appointed by the Commissioner. The warden
+21 may be removed for cause at any time by the Commissioner with the approval
+VT LEG #387157 v.4
+
+BILL AS INTRODUCED H.935
+2026 Page 13 of 29
+1 of the selectboard. A warden shall comply with training requirements
+2 established by the Commissioner. The chief of the fire department, fire
+3 district, or private fire department with the jurisdictional responsibility to
+4 respond to a municipality, unorganized town, or gore is designated as the town
+5 forest fire warden and shall have the authority to exercise all the powers and
+6 duties of a town forest fire warden. For any municipality, unorganized town,
+7 or gore that is covered by two or more fire districts or has two or more fire
+8 departments, the municipality, unorganized town, or gore shall designate one
+9 fire chief as town forest fire warden and shall notify the Commissioner of the
+10 designation.
+11 (b) The Commissioner may appoint a forest fire warden for an unorganized
+12 town or gore, who shall serve for a term of five years or until a successor is
+13 appointed. An appointed forest fire warden for an unorganized town or gore
+14 may be reappointed for successive five-year terms by the Commissioner until
+15 the Commissioner appoints and the unorganized town or gore approves a
+16 successor. The warden may be removed for cause at any time by the
+17 Commissioner with the approval of the unorganized town or gore. The forest
+18 fire warden of an unorganized town or gore shall have the same powers and
+19 duties as town forest fire wardens and shall be subject to the requirements of
+20 this subchapter. The chief of the fire department, fire district, or private fire
+21 department with the jurisdictional responsibility to respond to a municipality,
+VT LEG #387157 v.4
+
+BILL AS INTRODUCED H.935
+2026 Page 14 of 29
+1 unorganized town, or gore, as town forest fire warden, may designate deputy
+2 town forest fire wardens. The town forest fire warden shall provide a list of all
+3 designated deputy forest fire wardens to the Commissioner. Deputy forest fire
+4 wardens shall only have the authority to issue permits to kindle a fire as set
+5 forth in sections 2644 and 2645 of this subchapter.
+6 (c) When there are woodlands within the limits of a city, the chief of the
+7 fire department of such city shall act as the city forest fire warden with all the
+8 powers and duties of town forest fire wardens. When a municipality,
+9 unorganized town, or gore does not have a fire department or is not covered by
+10 a fire district, the municipality, unorganized town, or gore may contract with a
+11 neighboring fire department or fire district to designate the chief of the fire
+12 department or fire district to serve as the town forest fire warden for the
+13 municipality, unorganized town, or gore. When a private fire department
+14 provides fire suppression and control services to a municipality, unorganized
+15 town, or gore, the chief of the private fire department may serve as the town
+16 forest fire warden when approved by the municipality, unorganized town, or
+17 gore.
+18 (d) When the Commissioner deems it difficult in any municipality for one
+19 warden to take charge of protecting the entire municipality from forest fires, he
+20 or she may appoint one or more deputy forest fire wardens. Such wardens
+21 under the direction of the fire warden shall have the same powers, duties, and
+VT LEG #387157 v.4
+
+BILL AS INTRODUCED H.935
+2026 Page 15 of 29
+1 pay and make the same reports through the fire warden to the Commissioner as
+2 forest fire wardens. [Repealed.]
+3 (e) The Commissioner may appoint designate special forest fire wardens
+4 who shall hold office during at the pleasure of the Commissioner. Such The
+5 fire wardens shall be employees of the Department of Forests, Parks and
+6 Recreation with forest fire suppression and control training, and shall have the
+7 same powers and duties throughout the State as town forest fire wardens,
+8 except that all expenses and charges incurred on account of their official acts
+9 shall be paid from the appropriations for the Department.
+10 § 2642. SALARY AND COMPENSATION OF TOWN FOREST FIRE
+11 WARDENS
+12 (a) The salary of a town forest fire warden and any deputy town forest fire
+13 warden shall be determined by the selectboard members for time spent in the
+14 performance of the duties of his or her the warden’s office, which shall be paid
+15 by the town. In addition thereto, he or she shall receive from the
+16 Commissioner $30.00 annually for fulfilling the requirements of section 2645
+17 of this title and keeping the required State records. He or she shall also receive
+18 from the Commissioner $30.00 per diem for attendance at each training
+19 required by the Commissioner. He or she shall also receive annually an amount
+20 of $10.00 for each fire report that is submitted by the forest fire warden under
+21 section 2644 of this title.
+VT LEG #387157 v.4
+
+BILL AS INTRODUCED H.935
+2026 Page 16 of 29
+1 * * *
+2 § 2643. TOWN’S LIABILITY FOR SUPPRESSION OF FOREST FIRES;
+3 STATE AID
+4 (a) A municipality in which a forest fire occurs shall pay the cost to
+5 suppress a forest fire that occurs on land that is not owned by the Agency of
+6 Natural Resources, including the costs of personnel and equipment. The
+7 Commissioner may, according to the Department fire suppression
+8 reimbursement policy when funds have been appropriated or are otherwise
+9 available, reimburse a municipality for all or a portion of the costs of
+10 suppressing a forest fire on land that is not owned by the Agency of Natural
+11 Resources.
+12 (b) For the purpose of suppressing forest fires on lands owned by the
+13 Agency of Natural Resources, the State shall may reimburse a town
+14 municipality or unorganized town or gore for some or all its forest fire
+15 suppression costs at a rate determined by the Commissioner according to the
+16 Department fire suppression reimbursement policy. If the total acreage of a
+17 forest fire is determined to be partially on land owned by the Agency of
+18 Natural Resources and partially on land owned by another party, the
+19 Commissioner shall, at a minimum, reimburse the town at a rate determined by
+20 the Commissioner according to the Department fire suppression
+21 reimbursement policy for costs incurred by the municipality on land owned by
+VT LEG #387157 v.4
+
+BILL AS INTRODUCED H.935
+2026 Page 17 of 29
+1 the Agency of Natural Resources if, at a minimum, the requirements in
+2 subsection (c) of this section are satisfied. The Commissioner may establish
+3 additional requirements and guidance regarding reimbursement.
+4 (c) For any forest fire on lands owned by the Agency of Natural Resources
+5 to be considered eligible for reimbursement from the State, a town forest fire
+6 warden shall have reported the forest fire to the Commissioner within 14 days
+7 of extinguishment of the fire as required under section 2644 of this title. For
+8 reimbursement of fire suppression costs for forest fires on land owned by the
+9 Agency of Natural Resources, the town forest fire warden and the
+10 Commissioner or designee shall approve the costs before submission to the
+11 municipality for payment. The town forest fire warden may submit to the State
+12 on an annual basis a request for reimbursement of fire suppression costs on
+13 lands owned by the Agency of Natural Resources. The State shall reimburse a
+14 town for all applicable forest fire suppression costs when the reimbursement
+15 request is presented in a form approved by the Commissioner to the
+16 Commissioner by December 31 of each year. a municipality, unorganized
+17 town, or gore shall, at a minimum, satisfy the following requirements:
+18 (1) The town forest fire warden of a municipality, unorganized town, or
+19 gore shall request assistance within one hour of discovery after the forest fire
+20 from the Department of Forests, Parks and Recreation Wildland Fire Team, for
+VT LEG #387157 v.4
+
+BILL AS INTRODUCED H.935
+2026 Page 18 of 29
+1 the suppression of the forest fire on land owned by the Agency of Natural
+2 Resources.
+3 (2) The town forest fire warden shall submit a report of the forest fire to
+4 the Commissioner within 24 hours after extinguishment of the fire as required
+5 under section 2644 of this title.
+6 (3) The municipality, unorganized town, or gore shall submit detailed
+7 documentation of the costs of suppression of the forest fire to the
+8 Commissioner within 60 days after extinguishment of the forest fire.
+9 (4) The Commissioner shall review and approve the request for
+10 reimbursement.
+11 (d) For requests for reimbursement approved by the Commissioner for
+12 forest fire suppression costs of a municipality, unorganized town, or gore on
+13 land owned by the Agency of Natural Resources, payment of the costs shall be
+14 made by the Commissioner of Finance and Management to the municipality,
+15 unorganized town, or gore. The funds for the payment are to be taken from the
+16 appropriation for forest fire suppression.
+17 § 2644. DUTIES AND POWERS OF FIRE WARDEN
+18 (a) When a forest fire or fire threatening a forest forestland is discovered in
+19 his or her town the warden’s jurisdiction of responsibility, the town forest fire
+20 warden shall enter upon any premises and take measures for its prompt control,
+21 suppression, and extinguishment. The town forest fire warden may call upon
+VT LEG #387157 v.4
+
+BILL AS INTRODUCED H.935
+2026 Page 19 of 29
+1 any person for assistance. The town forest fire warden may choose to share or
+2 delegate command authority to a chief engineer of a responding fire
+3 department or, in the chief’s absence, the highest ranking assistant firefighter
+4 present during the fire. Within 24 hours after discovery of the forest fire on
+5 lands not owned by the Agency of Natural Resources, the town forest fire
+6 warden shall notify the Department of Forests, Parks and Recreation that the
+7 fire was discovered.
+8 (b) A town forest fire warden shall keep prepare a report for all forest fires
+9 in the warden’s jurisdiction that includes, at a minimum, the following
+10 information: a record of his or her the warden’s acts, the number of forest fires
+11 and causes of the forest fires, the areas burned over, and the character and
+12 amount of damages done in the warden’s jurisdiction. Within two weeks 48
+13 hours after the extinguishment of a fire, the town forest fire warden shall file a
+14 report of the fire to the Commissioner, but the making of a report under this
+15 subsection shall not be a charge against the town.
+16 * * *
+17 (d) Within 12 hours after granting permission to kindle a fire pursuant to
+18 section 2645 of this subchapter, the town forest fire warden or deputy forest
+19 fire warden shall issue a written “Permit to Kindle” stating when and where the
+20 fire may be kindled, including any conditions deemed appropriate by the town
+21 forest fire warden.
+VT LEG #387157 v.4
+
+BILL AS INTRODUCED H.935
+2026 Page 20 of 29
+1 § 2645. OPEN BURNING; PERMITS
+2 (a) Except as otherwise provided in this section, a person shall not kindle or
+3 authorize another person to kindle a fire in the open air for the purpose of
+4 burning natural wood, brush, weeds, or grass without first obtaining
+5 permission a permit to kindle a fire from the town forest fire warden or deputy
+6 forest fire warden stating when and where such the fire may be kindled and
+7 imposing any conditions deemed necessary by the town forest fire warden or
+8 deputy forest fire warden. Special forest fire wardens designated by the
+9 Commissioner shall issue permits for Category 3 fires on land owned by the
+10 Agency of Natural Resources. Wood, brush, weeds, or grass shall not be
+11 burned if they have been altered in any way by surface applications or injection
+12 of paints, stains, preservatives, oils, glues, or pesticides. Whenever such
+13 permission is granted, the fire warden, within 12 hours, shall issue a written
+14 “Permit to Kindle” for record purposes stating when and where such fire may
+15 be kindled.
+16 (b) With the written approval of the Secretary, during During periods of
+17 increased fire hazard, or when the Department of Environmental Conservation
+18 has issued an Air Quality Alert due to forecasted ambient air quality, the
+19 Commissioner may:
+VT LEG #387157 v.4
+
+BILL AS INTRODUCED H.935
+2026 Page 21 of 29
+1 (1) notify Notify town forest fire wardens that for a specified period no
+2 burning permits to kindle a fire shall be issued. The forest fire wardens shall
+3 issue no permits during the specified period.
+4 (2) Notify town forest fire wardens that for a specified period of time
+5 permits for Category 2 or 3 fires shall be prohibited or restricted as set forth by
+6 the Commissioner.
+7 (3) Notify town forest fire wardens that for a specified period of time,
+8 Category 1 fires shall be prohibited or restricted as set forth by the
+9 Commissioner.
+10 (c) The provisions of this section will not apply to A permit to kindle a fire
+11 is not required for the following categories or conditions when the
+12 requirements set forth below are satisfied:
+13 (1) the kindling of a fire in a location where there is snow surrounding
+14 the open burning site;
+15 (2) fires built in stone arches, outdoor fireplaces, or existing fire rings at
+16 State recreational areas or fires built in stone arches, outdoor fireplaces, or fire
+17 rings on private property that are not located within woodland, timberland, or a
+18 field containing dry grass or other flammable plant material contiguous to
+19 woodland; Category 1 fires; or
+VT LEG #387157 v.4
+
+BILL AS INTRODUCED H.935
+2026 Page 22 of 29
+1 (3) the kindling of a fire in a location that is 200 feet or more from any
+2 woodland, timberland, or field containing dry grass or other flammable plant
+3 material contiguous to woodland; or
+4 (4) areas within cities maintaining a fire department. the kindling of a
+5 fire that complies with all requirements established by rule adopted by the
+6 Commissioner of Forests, Parks and Recreation when a person is primitive
+7 camping on lands owned by the Agency of Natural Resources.
+8 (d)(1) The Commissioner of Forests, Parks and Recreation may issue a ban
+9 on kindling fires on lands owned by the Agency of Natural Resources when
+10 necessary.
+11 (e) As used in this section, “natural wood”:
+12 (1) “Category 1” includes campfires that meet the following
+13 requirements:
+14 (A) fires 36 inches in diameter or less that are built in stone arches,
+15 outdoor fireplaces, or existing fire rings at State recreational areas, other public
+16 recreational areas, or on private property; or
+17 (B) fires 36 inches in diameter or less built in a location that is 200
+18 feet or more from any forestland, or field containing dry grass or other
+19 flammable plant materials contiguous to forestland.
+VT LEG #387157 v.4
+
+BILL AS INTRODUCED H.935
+2026 Page 23 of 29
+1 (2) “Category 2” includes natural wood fires that meet the following
+2 requirements:
+3 (A) fires in piles larger than 36 inches in diameter; or
+4 (B) fires 36 inches in diameter or less, not built in stone arches,
+5 outdoor fireplaces, or existing fires rings at State recreational areas, other
+6 public recreational areas, or on private property.
+7 (3) “Category 3 broadcast burn” includes fires that meet the following
+8 requirements:
+9 (A) Fires applied to existing vegetation in a predetermined land area,
+10 in a manner to meet specific or prescribed objectives, including fuels
+11 management, slash abatement, firefighter training, agricultural field burning,
+12 forest management, wildlife habitat management, or introduced species
+13 management.
+14 (B) All Category 3 fires must have a plan that includes location,
+15 objectives, and contingency for escaped fire.
+16 (4) “Forestland” means woodlands, timberland, brushland, forest, and
+17 woodlots.
+18 (5) “Natural wood” means:
+19 * * *
+20 (2)(6) “Natural wood” does not mean other wood products such as
+21 sawdust, plywood, particle board, or press board. “Natural wood” does not
+VT LEG #387157 v.4
+
+BILL AS INTRODUCED H.935
+2026 Page 24 of 29
+1 mean wood, brush, weeds, or grass if they have been altered in any way by
+2 surface applications or injections of paints, stains, preservatives, oils, glues, or
+3 pesticides.
+4 * * *
+5 § 2646. PROCLAMATION BY GOVERNOR PROHIBITING KINDLING
+6 OF FIRES: CLOSING OF WOODLANDS FORESTLANDS
+7 (a) Whenever it appears to the Governor that there is excessive danger of
+8 forest fires, he or she the Governor may prohibit by proclamation the kindling
+9 of a fire in or adjoining forestland or close any or all sections of woodland
+10 forestland, or brushland, in any town for such time as the Governor may
+11 designate, to all persons except the owner and his or her household, his or her
+12 tenants, servants, or agents and persons in the public employment engaged in
+13 abating such fire-hazardous condition.
+14 (b) Proclamations shall be published in such newspapers of the State and
+15 posted in such places and in such manner as the Governor may order in
+16 writing. A copy of such publication the proclamation and order, attested by the
+17 Secretary of Civil and Military Affairs, shall be filed with the Secretary of
+18 State and a like copy shall be furnished to the Commissioner who shall attend
+19 to the publication and posting thereof of the proclamation. The expenses of
+20 such publication and posting shall be paid by the Department. Notice of
+21 removal of restrictions imposed by proclamation shall be in the same manner.
+VT LEG #387157 v.4
+
+BILL AS INTRODUCED H.935
+2026 Page 25 of 29
+1 § 2647. FIRES IN WOODS FORESTLAND OF ANOTHER; PERMISSION
+2 No one shall build a fire in the woodlands forestland of another without the
+3 permission of the owner, lessee, holder of right-of-way, or his or her
+4 authorized agent between April 1 and November 1. A person who builds a fire
+5 in or adjoining any woods shall totally extinguish such fire before leaving it.
+6 § 2648. SLASH REMOVAL
+7 (a) A person may cut or cause to be cut forest growth only if all slash
+8 adjoining the right-of-way of any public highway, or the boundary lines of
+9 woodlots forestland owned by adjoining property owners, is treated as follows:
+10 (1) All slash shall be removed for a distance of 50 feet from the right-of-
+11 way of any public highway or from the boundary lines of woodlots forestland
+12 owned by adjoining property owners.
+13 * * *
+14 (d) As used in this section, “slash” means the branches, tree tops, and other
+15 woody debris left on the forest floor after logging.
+16 Sec. 9. REPEAL
+17 10 V.S.A. chapter 83, subchapter 7 (uniform fire prevention ticket) is
+18 repealed.
+VT LEG #387157 v.4
+
+BILL AS INTRODUCED H.935
+2026 Page 26 of 29
+1 Sec. 10. 20 V.S.A. § 2673 is amended to read:
+2 § 2673. POWERS AND DUTIES DURING HAZARDOUS CHEMICAL OR
+3 SUBSTANCE INCIDENT, FIRES; THREAT OF FIRES OR
+4 EXPLOSIONS; FOREST FIRES
+5 * * *
+6 (e) The chief of a fire district is designated as the town forest fire warden
+7 under 10 V.S.A chapter 83, subchapter 4 and shall have the authority and
+8 duties related to forest fires pursuant to that subchapter.
+9 Sec. 11. 20 V.S.A. § 2992 is amended to read:
+10 § 2992. DEFINITION
+11 The term “private fire department” includes fire protection organizations
+12 operated by industries, institutions, and establishments for self-protection and
+13 also nonprofit volunteer fire associations. Nothing contained in this subchapter
+14 shall be construed to interfere with the exclusive jurisdiction vested by law in
+15 the State Forester and the State Forester’s subordinates or the State Forest Fire
+16 Warden over forest fires as provided in 10 V.S.A. § 2603(d); 10 V.S.A. chapter
+17 83, subchapters subchapter 4 and 7; or 10 V.S.A. chapter 81, nor to affect the
+18 laws governing prevention or extinguishment of forest fires. Nothing
+19 contained in this subchapter shall be construed to interfere with general
+20 authorization vested by law in a chief engineer of a fire district or chief of a
+VT LEG #387157 v.4
+
+BILL AS INTRODUCED H.935
+2026 Page 27 of 29
+1 volunteer fire department to give outside aid as provided in sections 2674 and
+2 2961 of this title.
+3 * * * Public Safety Communications * * *
+4 Sec. 12. DEPARTMENT OF PUBLIC SAFETY; PUBLIC SAFETY
+5 COMMUNICATIONS TASK FORCE; AUTHORIZATION FOR
+6 ONGOING EXPENDITURE OF FUNDS
+7 (a) The General Assembly authorizes the use of monies appropriated or
+8 held in reserve pursuant 2022 Acts and Resolves No. 185, Sec. B.1100, as
+9 amended by 2023 Acts and Resolves No. 78, Sec. C.115 and 2023 Acts and
+10 Resolves No. 87, Sec. 49, for the Department of Public Safety to procure and
+11 implement a multidisciplinary computer-aided dispatch system for public
+12 safety communications, subject to the following:
+13 (1) $2,250,000.00 shall be available for immediate costs associated with
+14 establishing the multidisciplinary computer-aided dispatch system and five
+15 years of software licensing fees, provided that the Department issues requests
+16 for proposal and signs contracts for services on or before January 1, 2027;
+17 (2) $190,000.00 shall be immediately available for cybersecurity,
+18 expanded use of Rapid SOS, and geographic information systems; and
+19 (3) $4,500,000.00 shall be available incrementally over two years to
+20 implement and expand the Land Mobile Radio network to include a Statewide
+21 conceptual design.
+VT LEG #387157 v.4
+
+BILL AS INTRODUCED H.935
+2026 Page 28 of 29
+1 (b) Notwithstanding any provisions of 2023 Acts and Resolves No. 78, Sec.
+2 C.114 to the contrary, the Public Safety Communications Task Force shall
+3 continue in existence until February 15, 2027. The Task Force shall meet as
+4 necessary to advise the Department of Public Safety on executing the Task
+5 Force recommendations and final design plan. Notwithstanding 2023 Acts and
+6 Resolves No. 78, Sec. C.114(d)(3), members of the Task Force shall be entitled
+7 to per diem compensation and reimbursement of expenses permitted under 32
+8 V.S.A. § 1010. These payments shall be made from monies appropriated to
+9 the Department of Public Safety.
+10 * * * Appropriations * * *
+11 Sec. 13. APPROPRIATIONS
+12 The following sums are appropriated from the General Fund in fiscal year
+13 2027:
+14 (1) $70,163.00 to the Agency of Administration for purposes of
+15 supporting the creation of State emergency and all-hazards response and
+16 preparedness materials in 15 languages, including English and American Sign
+17 Language, through the Vermont Language Justice Project;
+18 (2) $720,000.00 to the Department of Public Safety for the purpose of
+19 supporting the Urban Search and Rescue Team;
+20 (3) $25,000.00 to the Department of Public Safety for the purpose of
+21 awarding grants from the Technical Rescue Grant Program;
+VT LEG #387157 v.4
+
+BILL AS INTRODUCED H.935
+2026 Page 29 of 29
+1 (4) $540,000.00 to the Office of the Secretary of State for the purpose of
+2 supporting Vermont Access Network current operations and programming; and
+3 (5) $1,000,000.00 to the Department of Public Safety for the Ready
+4 Response Grant Program administered by the Division of Emergency
+5 Management.
+6 * * * Effective Date * * *
+7 Sec. 14. EFFECTIVE DATE
+8 This act shall take effect on July 1, 2026.
+VT LEG #387157 v.4

@@ -1,0 +1,865 @@
+Title: 
+Official Title: 
+Source: versions - Senate Proposal of Amendment (OfficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate proposal of amendment
+H. 938
+An act relating to establishing the Vermont Homelessness Response
+Continuum.
+The Senate proposes to the House to amend the bill by striking out all after
+the enacting clause and inserting in lieu thereof the following:
+* * * Findings, Legislative Intent, and Purpose * * *
+Sec. 1. FINDINGS
+The General Assembly finds that:
+(1) although an imperfect tool for measuring the true number of
+unhoused Vermonters, the Vermont Homeless Management Information
+System as of December 2025 indicated that there were 4,022 individuals who
+were homeless in the State, 863 of whom were children under 18 years of age;
+and
+(2) the 2024 Vermont Housing Needs Assessment notes that of the
+36,000 primary homes needed in Vermont between 2025 and 2029, the number
+needed to address homelessness is 3,295.
+Sec. 2. LEGISLATIVE INTENT
+It is the intent of the General Assembly that:
+(1) unsheltered homelessness be eliminated and that homelessness in
+Vermont be rare, brief, and nonrecurring;
+(2) Vermont reduce reliance on the inefficient use of hotel and motel
+rooms for emergency housing;
+(3) utilization of an emergency housing benefit to access hotels and
+motels through the General Assistance program end and be replaced by a
+continuum of services; and
+(4) a continuum of supports and services be available and administered
+flexibly in a manner that:
+(A) provides a stable pathway to permanent housing;
+(B) meets the specific needs of households experiencing
+homelessness; and
+(C) supports community partners.
+Sec. 3. PURPOSE
+It is the purpose of this act to:
+
+(1) establish a continuum of supports and services for households who
+are experiencing homelessness or who are at risk of experiencing
+homelessness;
+(2) ensure that tailored, temporary emergency housing assistance is
+available to Vermonters in a manner that encourages efficient and accountable
+use of taxpayer funds;
+(3) support self-sufficiency and reduce returns to homelessness by
+developing personalized housing plans with required participation by
+households;
+(4) establish clear eligibility criteria and require active household
+participation;
+(5) expand the use of alternative emergency housing models in
+partnership with municipalities, nonprofit community-based providers, and
+private landlords;
+(6) integrate supportive services to assist households to achieve
+permanent housing stability;
+(7) establish transparent accountability measures, reporting
+requirements, and oversight mechanisms;
+(8) increase Program efficiency and promote maximum flexibility in
+administering services and supports in the continuum;
+(9) empower local communities to administer emergency housing
+services with maximum flexibility; and
+(10) create a diversified system of emergency housing options,
+including shelters, specialized shelters, shared housing arrangements, host-
+home models, master-lease units, and rapid rehousing placements, that provide
+cost-effective, sustainable, and supportive outcomes to households.
+* * * Creation of the Vermont Homelessness Response Continuum * * *
+Sec. 4. 33 V.S.A. chapter 22 is added to read:
+CHAPTER 22. VERMONT HOMELESSNESS RESPONSE CONTINUUM
+§ 2201. DEFINITIONS
+As used in this chapter:
+(1) “Alternative housing options” means housing options including
+shelters, specialized shelters, transitional housing, recovery residences, shared
+housing arrangements, host-home models, master-lease units, and rapid
+rehousing placements.
+(2) “Applicant” means a household that applies for emergency housing
+assistance.
+
+(3) “At risk of homelessness” means precariously housed without
+sufficient income, resources, or support to prevent homelessness.
+(4) “Case management services” means individualized supportive
+services.
+(5) “Coordinated entry” means a process that standardizes the way
+households at risk of homelessness or experiencing homelessness access and
+are assessed for and referred to the housing and services that a household
+needs for housing stability.
+(6) “Department” means the Department for Children and Families.
+(7) “Disability” means a physical, sensory, cognitive, developmental, or
+mental health condition or substance use disorder that substantially limits one
+or more major life activities, or that requires ongoing support, accommodation,
+or treatment to maintain an individual’s health, safety, or independence. The
+term includes chronic or episodic conditions that significantly impact daily
+functioning, regardless of whether the individual is receiving, or is eligible to
+receive, federal disability benefits.
+(8) “Diversion” means a strategy aimed at preventing homelessness by
+helping households find immediate alternative housing options instead of
+entering shelters. Diversion focuses on addressing the needs of those who
+have recently lost their housing.
+(9) “Eligible household” means a household that is homeless and is
+physically present and intends to reside in Vermont as evidenced by active
+participation in a housing, employment, or other Agency of Human Services–
+recognized plan.
+(10) “Emergency cold-weather shelter” means publicly funded shelter
+beds made available to households during periods when the National Weather
+Service is forecasting temperatures at or below 10 degrees Fahrenheit
+including windchill for the majority of the State.
+(11) “Emergency housing” means temporary shelter, lodging, or other
+housing support, or related services provided to eligible households to protect
+the health, safety, and welfare of an eligible household when no safe housing
+option is immediately available.
+(12) “Highly structured shelter” means a shelter that provides
+programming that emphasizes case management, housing stability,
+employment, education, or treatment services, as well as other services as
+appropriate, in a manner that accommodates an eligible household’s disability,
+if any.
+(13) “Homeless” means:
+(A) lacking a fixed, regular, and adequate nighttime residence;
+
+(B) facing imminent loss of a primary nighttime residence;
+(C) fleeing or attempting to flee domestic violence, dating violence,
+sexual assault, stalking, and other dangerous or life-threatening conditions that
+relate to violence against a household or household member that either takes
+place in the primary nighttime residence or causes the household or household
+member to be afraid to return to the primary nighttime residence;
+(D) residing in a place not meant for human habitation, such as cars,
+parks, abandoned buildings, or streets; or
+(E) otherwise defined as homeless under federal law.
+(14) “Household” means an individual or group of individuals, with or
+without children, including individuals who reside together as one economic
+unit, who are married, parties to a civil union, or unmarried.
+(15) “Low-barrier shelter” means a shelter that minimizes barriers to
+entry by reducing the rules and programmatic requirements found in highly
+structured shelters, while still providing case management and other housing
+support services in a manner that accommodates an eligible household’s
+disability, if any.
+(16) “Minor child” means an individual under 18 years of age.
+(17) “Office” means the Office of Economic Opportunity.
+(18) “Permanent supportive housing” means long-term housing with
+wraparound services for individuals with complexhealth and social needs.
+(19) “Prevention” means services intended to prevent a household from
+becoming homeless, including housing relocation or stabilization services or
+short-term rental assistance, including rental arrearage.
+(20) “Program” means the Vermont Homelessness Response
+Continuum.
+(21) “Rapid rehousing” means short- to medium-term rental assistance
+and supportive services aimed at assisting a household to quickly exit
+homelessness.
+(22) “Shelter” means a facility that meets the Department’s shelter
+standards.
+(23) “Specialized shelter” means a facility that meets the Department’s
+shelter standards and applicable standards for the delivery of additional
+services, including health care, mental health services, or services related to
+substance use disorder.
+(24) “Supportive services” means individualized supports that assist a
+household in obtaining and maintaining housing, including:
+
+(A) intake assessments and services for diversion from homelessness;
+(B) household needs assessments;
+(C) case management;
+(D) individualized household plans to address identified needs;
+(E) housing navigation services;
+(F) assistance obtaining and retaining housing, including financial
+assistance;
+(G) landlord-tenant outreach, education, and conflict resolution;
+(H) navigation to other services and supports as identified in the
+household’s housing plan, including economic benefits, peer-supported
+services, job training and employment services, services related to disability
+and independent living advocacy, and referral to health care assistance,
+including treatment for mental health conditions and substance use disorder;
+(I) progress monitoring of interventions; and
+(J) services to ensure continuity after a permanent placement.
+(25) “Unsheltered homelessness” means sleeping in a location not
+designed for or ordinarily used as a regular sleeping accommodation, including
+cars, parks, abandoned buildings, or streets.
+§ 2202. ESTABLISHMENT; VERMONT HOMELESSNESS RESPONSE
+CONTINUUM
+(a) The Vermont Homelessness Response Continuum is established to
+create an array of services that prevent and address homelessness in Vermont.
+The Program shall be administered by the Department’s Office of Economic
+Opportunity.
+(b) The Office shall maintain a continuum of services that is flexible,
+housing focused, and designed to prevent homelessness whenever possible.
+The continuum shall prioritize early intervention, rapid resolution of housing
+crises, and equitable access to emergency and permanent housing.
+(c) The Program shall:
+(1) provide temporary emergency housing to eligible households
+experiencing homelessness or at imminent risk of homelessness;
+(2) reduce reliance on hotels and motels for emergency housing
+assistance;
+(3) expand the use of alternative housing options in partnership with
+community organizations, municipalities, and private landlords;
+
+(4) integrate case management and individualized housing plans into
+all emergency housing placements; and
+(5) ensure accountability, transparency, and cost efficiency in the use
+of public funds.
+(d) All funding opportunities available under the Program shall be open to
+any entity or community partner, including those that did not previously
+receive funding.
+§ 2203. PROGRAM COMPONENTS
+(a) The continuum of services shall consist of the following:
+(1) level 1: prevention and diversion services;
+(2) level 2: shelter services:
+(A) level 2A: highly structured shelter services; and
+(B) level 2B: low-barrier shelter services;
+(3) level 3: specialized shelter services;
+(4) level 4: hotels and motels;
+(5) permanent supportive housing services; and
+(6) other emergency housing services.
+(b) The Office shall address each of the services in subsection (a) of this
+section by separate line items in its budget. The Department shall be
+responsible for any transfers to other Agency of Human Services departments
+necessary to implement the services listed in subsection (a) of this section.
+The Department and other departments within the Agency of Human Services
+shall maximize federal receipts, as applicable, for services listed in subsection
+(a) of this section.
+(c) Upon assessing a household’s needs, the Office or community partners
+shall offer to place the household in the appropriate level of care to address the
+household’s specific needs if capacity, staffing, and geographic accessibility
+are available.
+§ 2204. PREVENTION AND DIVERSION SERVICES
+Level 1: prevention and diversion services.
+(1) Prevention and diversion services shall function as the primary entry
+point to the Vermont Homelessness Response Continuum for all households,
+although connection may be made at any level. The Office shall ensure that
+prevention and diversion services are provided through an agreement with one
+or more community partners in each region of the State in a manner that
+
+accommodates an eligible household’s disability, if any. All households, upon
+request for assistance, shall receive a brief, standardized initial prevention and
+diversion assessment to identify safe alternatives to homelessness and resolve
+immediate housing barriers.
+(2) Prevention includes activities to avert entry into homelessness.
+Diversion includes problem-solving interventions and supports that safely
+resolve a housing crisis without the use of shelter or hotel or motel placements.
+(3) Funds administered for prevention and diversion services shall have
+maximum flexibility.
+§ 2205. SHELTER SERVICES
+(a) Level 2A: highly structured shelter services.
+(1) To the extent funds are appropriated for this purpose, the Office
+shall determine the need for highly structured shelter services and develop
+sufficient highly structured shelter beds to address that need. The Department
+through the Office shall enter into agreements for a period of not less than two
+years at a time with community partners for the provision of highly structured
+shelter services.
+(2) Highly structured shelters shall offer programming that emphasizes
+case management, housing stability, employment, education, or treatment
+services, as well as other services as appropriate, in a manner that
+accommodates an eligible household’s disability, if any. Eligible households
+receiving highly structured shelter services shall participate in case
+management and other services to the extent of their ability.
+(3) The Office shall ensure that highly structured shelter services meet
+the Department of Public Safety, Vermont Fire and Building Safety Code
+(CVR 28-070-001).
+(4) If an eligible household’s needs cannot be met with the level 1
+prevention and diversion services in section 2204 of this chapter, highly
+structured shelter services are the preferred initial placement if capacity,
+staffing, and geographic accessibility are available.
+(b) Level 2B: low-barrier shelter services.
+(1) To the extent funds are appropriated for this purpose, the Office
+shall determine the need for low-barrier shelter services and develop sufficient
+low-barrier shelters to address that need. The Department through the Office
+shall enter into agreements for a period of not less than two years at a time
+with community partners for the provision of low-barrier shelter services.
+(2) Low-barrier shelters shall minimize barriers to entry by reducing the
+rules and programmatic requirements found in highly structured shelters, while
+still providing case management and other housing support services in a
+
+manner that accommodates an eligible household’s disability, if any. Stays in
+low-barrier shelters shall be time limited, and eligible households shall be
+transitioned to highly structured shelter services or permanent housing as soon
+as feasible.
+(3) The Office shall ensure that low-barrier shelter services meet the
+Department of Public Safety, Vermont Fire and Building Safety Code (CVR
+28-070-001).
+(4) If an eligible household’s needs cannot be met with the level 1
+prevention and diversion services in section 2204 of this chapter or the highly
+structured shelter services in subsection (a) of this section, low-barrier shelter
+services may be utilized if capacity, staffing, and geographic accessibility are
+available.
+§ 2206. SPECIALIZED SHELTER SERVICES
+Level 3: specialized shelter services.
+(1) To the extent funds are appropriated for this purpose:
+(A) the relevant Agency of Human Services departments shall
+determine the need for and, to the extent funds permit, develop specialized
+shelter services that comply with the Department of Public Safety, Vermont
+Fire and Building Safety Code (CVR 28-070-001), as well as any other
+applicable standards relevant to the specialty population; and
+(B) the relevant Agency of Human Services departments shall enter
+into agreements for a period of not less than two years at a time with
+community partners for the provision of specialized shelter services.
+(2) Specialized service shelters shall offer services delivered in a highly
+structured shelter as well as additional specialty services, such as services for
+substance use disorder and mental and physical health conditions. Eligible
+households receiving specialized shelter services shall participate in case
+management and other services to the extent of their ability.
+(3) If an eligible household’s needs cannot be met with the level 1
+prevention and diversion services in section 2204 of this chapter or the level 2
+shelter services in section 2205 of this chapter, a specialized service shelter
+may be utilized if capacity, staffing, and geographic accessibility are available
+and the eligible household requires specialized services.
+§ 2207. HOTELS AND MOTELS
+Level 4: hotels and motels.
+(1) It is the intent of the General Assembly to decrease reliance on hotel
+and motel rooms. However, until sufficient permanent affordable housing or
+
+shelter services are available, the use of hotel and motel services shall be
+permitted.
+(2) If a hotel or motel is utilized pursuant to this section, the Department
+shall:
+(A) enter into an agreement with one or more community partners to
+provide relevant supportive services to eligible households;
+(B) permit a population-specific placement to the extent certain
+populations are not isolated from the wider community served through the
+Program;
+(C) propose hotel and motel rates as part of its budget presentation
+for the General Assembly’s consideration;
+(D) use only hotel and motel rates established by the General
+Assembly;
+(E) enter into agreements for the use of blocks of hotel and motel
+rooms and negotiate conditions of use for those blocks, including access to
+providers of case management and other supportive services, with space to
+provide services as negotiated; and
+(F) ensure that services are not provided pursuant to this section on a
+night-by-night basis.
+(3) If a hotel or motel is utilized pursuant to this section, the eligible
+household shall participate in case management services, planning for housing
+stability, and other services to the extent of the eligible household’s ability.
+(4) A hotel or motel used pursuant to this chapter shall comply with
+Program rules and the following rules:
+(A) Department of Health, Licensed Lodging Establishment Rule
+(CVR 13-140-023); and
+(B) Department of Public Safety, Vermont Fire and Building Safety
+Code (CVR 28-070-001).
+(5)(A) To the extent funds are appropriated for this purpose:
+(i) between April 1 and November 30 of each year, the utilization
+of hotel and motel rooms pursuant to this section shall be capped at 700 rooms
+per night; and
+(ii) between December 1 and March 31 of each year, the
+utilization of hotel and motel rooms pursuant to this section shall be capped at
+1,000 rooms per night.
+
+(B) Hotel and motel rooms utilized by individuals served under
+section 602 of this title shall not be included in the room caps provided in this
+subdivision (5).
+(6) If an eligible household’s needs cannot be met by levels 1–3 of the
+Program as described in sections 2204–2206 of this chapter, the Office may
+utilize hotels and motels if capacity, staffing, and geographic accessibility are
+available.
+§ 2208. PERMANENT SUPPORTIVE HOUSING SERVICES
+The Agency of Human Services’ departments or their community partners
+shall offer to provide permanent supportive housing services to an eligible
+household participating in the Program. Permanent supportive housing
+services provided pursuant to this section shall combine long-term,
+community-based rental assistance with voluntary, flexible supportive services,
+such as family supportive housing and other supportive housing services
+funded in whole or in part by Medicaid, if the household and services are
+eligible for Medicaid. An eligible household receiving permanent supportive
+housing services shall participate in case management, planning for housing
+stability, and other services to the extent of the eligible household’s ability.
+Permanent supportive housing services may be utilized by an eligible
+household for as long as the eligible household’s plan indicates it is necessary.
+§ 2209. OTHER EMERGENCY HOUSING SERVICES
+(a) Municipal supports. The Department through the Office shall provide
+grants to municipalities in areas of the State with a high volume of unsheltered
+homelessness, including municipalities underserved by traditional funding
+sources. An eligible municipality may submit to the Office a grant application
+containing the estimated cost of the municipality’s proposal and other
+identified funding sources. The use of grant funding awarded pursuant to this
+subsection is at the discretion of the municipality and shall include the
+provision of basic life-sustaining shelter when the National Weather Service
+declares a cold weather advisory. Shelter provided pursuant to this subsection
+shall be time limited, shall not require a coordinated entry assessment or case
+management, and shall have minimal data reporting requirements.
+(b) Emergency cold-weather shelters. Emergency cold-weather shelters
+shall be managed through an agreement between the Office and one or more
+community partners to provide overnight, low-barrier shelter when weather
+conditions warrant. The Office and community partners shall ensure equitable
+access to emergency cold-weather shelters for communities with a high
+number of households experiencing unsheltered homelessness. Shelter
+provided pursuant to this subsection shall be time limited, shall not require a
+coordinated entry assessment or case management, and shall have minimal
+data reporting requirements.
+
+(c) Alternative Agency of Human Services housing solutions. The Agency
+of Human Services, through its various departments, provides households with
+other time-limited or permanent housing. Such services include recovery
+housing, various residential supports for individuals with intellectual or
+developmental disabilities, home care services for older Vermonters and
+individuals with physical disabilities, transitional housing for individuals
+exiting correctional custody, and residential options for individuals with
+mental health challenges. Emergency housing provided through the Program
+is not intended to take the place of any other Agency of Human Services time-
+limited or permanent housing.
+§ 2210. HOUSEHOLD RESPONSIBILITIES
+(a) Within the funds appropriated for this purpose, a household shall
+qualify for services under the Program if the household:
+(1) is physically present and intends to reside in Vermont as evidenced
+by active participation in a housing, employment, or other Agency of Human
+Services–recognized plan;
+(2) agrees to a coordinated entry assessment that prioritizes the
+household for permanent housing, unless explicitly exempt under this chapter;
+(3) agrees to engage with a case manager to develop a housing plan,
+unless explicitly exempt from case management requirements under this
+chapter or by federal law; and
+(4) abides by Program rules and refrains from misconduct.
+(b)(1) The Office or a community partner shall provide clear written notice
+to all applicants regarding penalties for fraud at the time of application.
+(2) The Office or a community partner shall not impose a penalty upon
+a household for a good faith, immaterial error that was corrected upon notice
+within a reasonable period of time.
+(3) A household that knowingly provides false, misleading, or
+incomplete information regarding residency, disability status, household
+composition, or other eligibility criteria shall be subject to termination of
+services within 30 days after receiving written notice from the Department or a
+community partner.
+(4) Pending the outcome of a relevant Human Services Board hearing,
+the Office may refer cases of suspected fraud to the Office of the Attorney
+General or a State’s Attorney for investigation and prosecution under
+applicable State law.
+(c) A household may be terminated from the Program for repeatedly
+refusing suitable placements following documented suitability assessments and
+reasonable accommodations.
+
+(d) A member or members of an eligible household may be subject to
+immediate termination of services as necessary for the safety of others if the
+member or members are engaged in:
+(1) criminal activity; or
+(2) misconduct that is not related to a disability or to victimization
+related to abuse, sexual assault, or stalking.
+(e) As used in this section, “misconduct” means documented behaviors that
+materially endanger the safety of others, involve the intentional destruction of
+property, or constitute illegal activity.
+§ 2211. PRIORITIZATION
+(a) The Office, either directly or through community partners, shall
+prioritize services within the funds appropriated for this purpose to eligible
+households who are homeless or at risk of becoming homeless and have a
+member who:
+(1) is 65 years of age or older;
+(2) has a disability;
+(3) is a minor child;
+(4) is pregnant;
+(5) is experiencing domestic violence, dating violence, sexual assault,
+stalking, human trafficking, or other dangerous or life-threatening conditions;
+or
+(6) is under court-ordered eviction or constructive eviction due to
+circumstances over which the household has no control.
+(b)(1) Proof of an eligible household’s disability shall be verified by:
+(A) a health care provider licensed or certified and practicing in
+Vermont;
+(B) a determination or certification from a State- or federally
+recognized agency or program that provides services to individuals with
+disabilities; or
+(C) self-attestation by the eligible household, subject to verification
+by the State or community partner within 30 days when other documentation is
+not reasonably available at the time of application.
+(2) The presence of an eligible household member’s disability shall be
+verified by the Office or a community partner during the household’s initial
+application process and shall be redetermined annually if the household is still
+receiving services. An eligible household with a member who has a lifelong
+
+disability, such as an intellectual or developmental disability, shall not be
+required to have the disability redetermined.
+(c) The Office and community partners shall comply with the Americans
+with Disabilities Act, 42 U.S.C. § 12101–12213, and section 504 of the
+Rehabilitation Act of 1973, 29 U.S.C. § 794, for the purposes of providing
+reasonable modifications, effective communication, and accessible placements.
+Program rules and case management requirements shall be reasonably
+modified, including with the use of plain language, as necessary to avoid
+discrimination against eligible households with a member who has a disability.
+§ 2212. TIME LIMITS FOR PROGRAM PARTICIPATION
+(a) Time limits for Program participation shall be governed by the level of
+service provided as follows:
+(1) Level 1: Any temporary housing that is not provided in the form of
+temporary rental assistance through the Program’s prevention and diversion
+services shall not exceed 30 days per rolling 12-month period.
+(2) Level 2: The Office, in collaboration with shelter providers, shall
+establish the maximum length of stay in highly structured shelters and low-
+barrier shelters in rule or shelter standards.
+(3) Level 3: The Department, in collaboration with other relevant
+Agency of Human Services departments, shall establish the maximum length
+of stay in specialized shelters in rule or shelter standards.
+(4) Level 4: Hotels and motels:
+(A) Between April 1 and November 30 of each year, eligible
+households may receive housing at hotels and motels with supportive services
+for not more than 70 days per rolling 12-month period as calculated from the
+date of the eligible household’s application through the same day of the month
+12 months later.
+(B) Between December 1 and March 31 of each year, eligible
+households may receive continuous services in cold-weather-use hotels and
+motels, which shall not be applied toward the time limit established in
+subdivision (A) of this subdivision (4).
+(b) The Department may grant extensions to the time limits established in
+subsection (a) of this section pursuant to criteria adopted in rule, including for:
+(1) an eligible household actively awaiting a placement in housing,
+treatment, or other services;
+(2) medical necessity;
+(3) lack of reasonable alternative accessible placements for a member of
+the eligible household with a disability; and
+
+(4) imminent risk to the health or safety of one or more of the eligible
+household’s members.
+§ 2213. CASE MANAGEMENT SERVICES
+Each eligible household shall be assigned a case manager, except where
+specifically exempted for certain services, which may be from any Agency of
+Human Services department or a community partner. Case management
+services provided pursuant to this chapter shall be informed by the acuity level
+of the eligible household and include individualized supports that connect an
+eligible household to public assistance, health care, employment, permanent
+housing, and other services. A household may request, but is not guaranteed, a
+specific case manager or change in case manager.
+§ 2214. NEEDS ASSESSMENT
+The Office and community partners shall provide advice and consultation to
+the Department of Housing and Community Development in its completion of
+a needs assessment that identifies gaps in services for households that are
+homeless in the State and includes recommendations to ensure the provision of
+equitable services throughout the State.
+§ 2215. NOTICE; APPEALS; RIGHT TO FAIR HEARING
+(a) The Office or a community partner shall provide written notice to any
+applicant or household whose participation in the Program is denied, reduced,
+suspended, or terminated. Notice shall include:
+(1) the specific factual and legal basis for the Office or community
+partner’s decision;
+(2) the effective date of the action, which in the case of termination,
+reduction, or suspension of services shall provide timely written notice by
+email or U.S. mail;
+(3) a statement of the right to request a fair hearing pursuant to this
+section; and
+(4) clear instructions, in plain language, on the process and deadlines for
+filing an appeal.
+(b) An applicant for or a recipient of assistance pursuant to this chapter
+may file a request for a fair hearing with the Human Services Board pursuant
+to 3 V.S.A. § 3091 when:
+(1) an application for assistance under the Program is denied in whole
+or part;
+(2) a household’s benefits are terminated, reduced, or suspended; or
+
+(3) the household believes that benefits have not been provided in
+accordance with applicable rules or policies.
+(c) An applicant or household shall file a request for a fair hearing with the
+Human Services Board within 60 days after the date of the written notice
+pursuant to subsection (a) of this section.
+(d) If a household files a request for a fair hearing within 14 days after
+receiving notice pursuant to subsection (a) of this section, the Office or
+community partner providing notice shall continue to provide services under
+the Program without interruption until a decision is issued by the Human
+Services Board, unless:
+(1) the household voluntarily waives continued services; or
+(2) a household or household member’s continued receipt of services
+poses a risk of safety to others.
+(e) Fair hearings held pursuant to this section shall be conducted in
+accordance with 3 V.S.A. §§ 3090–3091.
+§ 2216. RULEMAKING
+The Department shall adopt rules pursuant to 3 V.S.A. chapter 25 for the
+implementation of the Vermont Homelessness Response Continuum,
+addressing at a minimum:
+(1) requirements for community providers participating in the Program;
+(2) standards for highly structured, low-barrier, and specialized shelters;
+(3) documentation requirements for household eligibility, including
+disability;
+(4) required elements for supportive services, including case
+management;
+(5) the creation of a brief, standardized initial assessment form that may
+be completed by hand, electronically, or by telephone;
+(6) a process for issuing timely, written approval or denial notifications
+to applicants;
+(7) a process for issuing advance notice to households when the
+household is being terminated from the Program;
+(8) applicant and household appeal procedures;
+(9) time limits for Program participation, including procedures for
+extensions;
+(10) a process for reinstatement of services after a household’s
+termination from the Program;
+
+(11) expectations for the Office’s oversight and quality monitoring,
+including performance measurements applicable to all community partners and
+grantees; and
+(12) other subjects as deemed necessary.
+§ 2217. REPORTING
+(a) Annually, as part of the Department’s budget presentation, the
+Department shall provide a status report addressing each level of the Vermont
+Homelessness Response Continuum. Minimally, the status report shall
+address:
+(1) the number of households served within each level of the Program;
+(2) the average length of participation for households within each level
+of the Program and the rate at which households successfully transition to
+permanent housing;
+(3) the number of households diverted from entering shelters or hotel
+and motel placements through prevention and diversion services;
+(4) the utilization of hotels and motels, including:
+(A) the average nightly number of rooms used;
+(B) the average and median length of stay;
+(C) the extent to which hotel and motel usage has decreased relative
+to the prior fiscal year; and
+(D) the number of eligible households denied a hotel or motel room
+due to authorized rooms being fully occupied;
+(5) housing stability outcomes, including rates of return to homelessness
+within sixand 12 months following exit from the Program;
+(6) an assessment of regional capacity and access to services, including
+identification of geographic areas with unmet needs or disproportionate
+utilization of emergency housing resources;
+(7) total expenditures by Program level and funding source, including
+State, federal, and other funds, and an analysis of cost efficiency across
+housing models; and
+(8) any operational barriers to implementation of the Program, along
+with recommendations for administrative or legislative action.
+(b) Annually, as part of the Department’s budget presentation, the
+Department shall set goals for increased housing capacity, including permanent
+supportive housing, permanent affordable housing, and shelter beds. The
+Department shall provide data pertaining to the increased shelter capacity and
+
+the extent to which shelter capacity meets the needs of eligible households
+experiencing homelessness each year.
+(c) On or before the last day of each month, the Office, or other relevant
+agency or department, shall post on its website a substantially similar report to
+that due pursuant to 2023 Acts and Resolves No. 81, Sec. 6(b), including the
+Office’s monthly expenditure on the Program by level.
+* * * Continuums of Care; Required Merger * * *
+Sec. 5. MERGER OF CONTINUUMS OF CARE
+(a) In order to promote the effective use of resources and continuity of
+care, the Department for Children and Families’ Office of Economic
+Opportunity shall work in collaboration with the Chittenden County Homeless
+Alliance, the Balance of State Continuum of Care, and the U.S. Department of
+Housing and Urban Development to establish a single continuum of care in the
+State on or before October 1, 2028.
+(b) On or before January 15, 2028, the Office shall submit a written report
+to the House Committee on Human Services and to the Senate Committee on
+Health and Welfare summarizing efforts to establish a single continuum of care
+pursuant to this section.
+* * * Effective October 1, 2028, Requirements of Grantees * * *
+Sec. 6. 33 V.S.A. § 2218 is added to read:
+§ 2218. GRANT REQUIREMENTS
+Any grant or other agreement executed by the Agency of Human Services
+or its departments shall require a community partner, as appropriate, to:
+(1) participate in the local housing coalition or other group established
+to assist eligible households who are homeless;
+(2) utilize the coordinated entry assessment for eligible households who
+are homeless or at risk of homelessness;
+(3) utilize the appropriate planning process and options for an eligible
+household transitioning into permanent housing, including for eligible
+households with an individual who has an intellectual or developmental
+disability, older Vermonters, or individuals transitioning from a correctional
+facility or hospital; and
+(4) measure performance outcomes, including diversion success, time to
+housing, and housing retention.
+* * * Fiscal Year 2027 Time Limits for Use of Hotels and Motels * * *
+Sec. 6a. FISCALYEAR 2027 TIME LIMITS; HOTELS AND MOTELS
+
+In fiscal year 2027, an eligible household utilizing General Assistance
+emergency housing in a hotel or motel during the previous fiscal year shall not
+be subject to a reset of the 70-day limit established in 33 V.S.A.
+§ 2212(a)(4)(A) until the 12-month anniversary of the eligible household’s
+fiscal year 2026 application.
+* * * Transition and Rulemaking; Vermont Homelessness Response
+Continuum * * *
+Sec. 7. TRANSITION TO THE VERMONT HOMELESSNESS RESPONSE
+CONTINUUM
+Recognizing that the Department and community partners do not have the
+capacity to fully implement the Vermont Homelessness Response Continuum
+established in 33 V.S.A. chapter 22 on July 1, 2026, the Department through
+the Office and community partners shall implement the Program to the fullest
+extent of their ability in fiscal year 2027 while developing the capacity to fully
+implement the Program in fiscal year 2028.
+Sec. 8. INTERIM EMERGENCY RULEMAKING; DEADLINE FOR
+ADOPTION OF PERMANENT RULES
+(a)(1) Pending the adoption of permanent rules on the Vermont
+Homelessness Response Continuum, the Commissioner for Children and
+Families shall adopt and maintain emergency rules pursuant to 3 V.S.A. § 844,
+which shall be deemed to meet the standard for emergency rulemaking
+pursuant to 3 V.S.A. § 844(a). Emergency rules required by this subsection
+shall take effect on September 1, 2026, and shall, at a minimum, address the
+required topics listed in 33 V.S.A. § 2216.
+(2) Between July 1, 2026, and August 31, 2026, the Commissioner for
+Children and Families shall administer the Vermont Homelessness Response
+Continuum by applying the General Assistance Emergency Housing rules
+approved by the Legislative Committee on Administrative Rules on March 13,
+2025, for the administration of this act.
+(b)(1) Unless extended by the Legislative Committee on Administrative
+Rules pursuant to 3 V.S.A. § 843(c), the Department shall, on or before
+October 1, 2027, adopt permanent rules pursuant to 3 V.S.A. chapter 25 on the
+Vermont Homelessness Response Continuum as required by 33 V.S.A. § 2216.
+(2) Prior to filing the permanent rule with the Secretary of State
+pursuant to 3 V.S.A. § 838, the Department shall:
+(A) work in collaboration with stakeholders to develop the rule,
+including holding at least five regional stakeholder hearings throughout the
+State; and
+
+(B) on or before April 1, 2027, submit a draft of the rules to the
+House Committee on Human Services and the Senate Committee on Health
+and Welfare for review and consideration of Committee comments.
+Sec. 9. IMPLEMENTATION STATUS REPORT; VERMONT
+HOMELESSNESS RESPONSE CONTINUUM
+On or before February 15, 2027, the Department for Children and Families’
+Office of Economic Opportunity shall present a progress report to the House
+Committee on Human Services and to the Senate Committee on Health and
+Welfare on the Office’s implementation of the Vermont Homelessness
+Response Continuum established pursuant to 33 V.S.A. chapter 22. The
+Office’s presentation shall include an initial draft of the Department’s
+permanent rules for the implementation of the Vermont Homelessness
+Response Continuum and any recommendations for legislative action.
+* * * Supportive and Shelter Services for Households Experiencing Domestic
+or Sexual Violence * * *
+Sec. 10. 33 V.S.A. chapter 6 is amended to read:
+CHAPTER 6. PREVENTION AND TREATMENT OF SEXUALABUSE
+AND DOMESTIC AND SEXUALVIOLENCE
+* * *
+§ 602. SUPPORTIVE SERVICES AND SHELTER FOR HOUSEHOLDS
+EXPERIENCING DOMESTIC OR SEXUALVIOLENCE
+The Department shall select and enter into an agreement with a statewide
+organization to provide or cause to be provided supportive services and shelter
+to those households that are experiencing or that have experienced domestic or
+sexual violence. If the statewide organization cannot fulfill its responsibilities
+under this section, the Department shall work with another entity to ensure that
+there is not a gap in services.
+* * * Vermont Rental Assistance Bridge Program * * *
+Sec. 11. VERMONT RENTALASSISTANCE BRIDGE PROGRAM
+(a) The Vermont Rental Assistance Bridge Program is established within
+the Vermont State Housing Authority for the purpose of linking households
+who require rental assistance to permanent housing when the household does
+not otherwise have access to relevant U.S. Department of Housing and Urban
+Development rental assistance.
+(b)(1) The Agency shall collaborate with the Vermont State Housing
+Authority to develop a framework for establishing a unified housing voucher
+program that consolidates the voucher assistance currently provided though the
+Agency’s departments. In developing this framework, the Agency and the
+Vermont State Housing Authority shall:
+
+(A) analyze the fiscal implications of consolidating existing voucher
+programs into a unified program, including projected costs, potential
+efficiencies, and impacts on funding sources;
+(B) assess the projected impact on the total number of individuals
+served and on distinct populations, including:
+(i) individuals exiting homelessness;
+(ii) individuals facing eviction;
+(iii) individuals with mental health challenges;
+(iv) individuals with disabilities; and
+(v) any other population served by the department-administered
+voucher programs;
+(C) identify administrative, operational, and statutory changes
+required to implement a unified program; and
+(D) propose options and recommendations for the structure,
+governance, and implementation of the unified program.
+(2) The Agency and the Vermont State Housing Authority shall report
+their findings and recommendations to the House Committee on Human
+Services and to the Senate Committee on Health and Welfare on or before
+January 15, 2027.
+(c) The Vermont State Housing Authority and relevant departments of the
+Agency of Human Services shall jointly work to:
+(1) incorporate existing rental assistance that is funded by the Agency
+and its departments and designated for Vermonters exiting homelessness into
+the Program established in this section; and
+(2) establish eligibility criteria, any prioritization that may be necessary
+for this use of funds appropriated for this Program, and the appropriate length
+of assistance under this section.
+(d) The Program shall not provide the full amount of a household’s rental
+payment and shall not be a permanent voucher. Program priority shall be
+given to current recipients of the HOME Program, established pursuant to
+10 V.S.A. § 321(b)(2), who have not yet reached 24 months of rental
+assistance. Program payments shall be made directly from the Vermont State
+Housing Authority to a household’s landlord.
+(e) The Program shall be accessible to eligible households served by each
+of the Agency’s departments, with priority given to those exiting homelessness
+and not to the exclusion of other eligible populations.
+* * * Payment Rate Structure and Fiscal Year 2027 Expenditures * * *
+
+Sec. 12. PAYMENT RATE STRUCTURE; SHELTER SERVICES
+The Department for Children and Families, in collaboration with the
+Agency of Human Services and relevant community partners, shall propose a
+payment rate structure, including periodic rate reviews, for all shelter services
+required by this act. The structure shall include a base rate and potential for
+supplemental payment to the base if necessary and appropriate.
+(1) On or before April 1, 2027, the Department shall submit an interim
+report to the House Committee on Human Services and to the Senate
+Committee on Health and Welfare regarding the implementation of the
+payment rate structure and the Department’s proposed timeline for
+implementation.
+(2) On or before November 1, 2027, the Department shall submit a final
+report to the Joint Fiscal Committee regarding the implementation of the
+payment rate structure and the Department’s proposed timeline for
+implementation.
+Sec. 13. FISCALYEAR 2027 CAPPED ROOM RATES
+In fiscal year 2027, the Department for Children and Families or
+community partners shall pay a hotel or motel establishment providing
+emergency housing not more than the hotel’s lowest advertised room rate and
+not more than $80.00 a day per room to shelter a household participating in the
+Vermont Homelessness Response Continuum. The Department for Children
+and Families or community partners may shelter a household in more than one
+hotel or motel room depending on the household’s size and composition.
+Sec. 14. EXPENDITURES; VERMONT HOMELESSNESS RESPONSE
+CONTINUUM
+(a) This act provides for the fiscal year 2027 expenditure of
+$82,634,153.00 for the provision of services, implementation of the Vermont
+Homelessness Response Continuum, shelter development and operation, rental
+assistance, and supportive services, including case management, as follows:
+(1) $39,284,606.00 for the Housing Opportunity Grant Program
+operations, of which $38,251,696.00 is base funding from the General Fund,
+$830,422.00 is federal funding, and $202,488.00 is from the Global
+Commitment Fund;
+(2) $4,400,000.00 for the shelter development, of which $1,400,000.00
+is base funding from the General Fund and $3,000,000.00 is one-time funding
+from the General Fund;
+(3) $23,370,000.00 for emergency housing in hotels and motels, of
+which $9,251,120.00 is base funding from the General Fund and
+$14,118,880.00 is one-time funding from the General Fund;
+
+(4) $2,400,000.00 for case management, of which $2,400,000.00 is base
+funding from the General Fund;
+(5) $4,200,000.00 for permanent supportive housing and family
+supportive housing, of which $778,987.00 is base funding from the General
+Fund and $3,421,013.00 is from the Global Commitment Fund;
+(6) $3,000,000.00 for rental assistance, of which $3,000,000.00 is base
+funding from the General Fund;
+(7) $500,000.00 for grants to municipalities pursuant to 33 V.S.A.
+§ 2209(a), of which $500,000.00 is one-time funding from the General Fund;
+(8) $1,500,000.00 for emergency cold-weather shelters, of which
+$1,500,000.00 is one-time funding from the General Fund;
+(9) $314,618.00 for other expenses, of which $314,618.00 is from
+federal funding;
+(10) $3,164,929.00 for staffing, grants, and contracts, of which
+$1,100,000.00 is base funding from the General Fund and $2,064,929.00 is
+one-time funding from the General Fund; and
+(11) $500,000.00 for the Community Resource Center, of which
+$500,000.00 is base funding from the General Fund.
+(b) Any funds that remain unspent at the end of fiscal year 2027 shall be
+carried forward for the same purpose for which they were originally
+appropriated.
+(c) Any funds appropriated for General Assistance emergency housing or
+the Housing Opportunity Grant Program that remain unspent at the end of
+fiscal year 2026 shall be carried forward for investment in the Vermont
+Homelessness Response Continuum in fiscal year 2027.
+(d) On or before October 1, 2026; January 1, 2027; and April 1, 2027, the
+Office shall submit a written report to the House Committees on
+Appropriations and on Human Services and to the Senate Committee on
+Appropriations and on Health and Welfare describing how the funds
+referenced in subsection (a) of this section have been utilized to date, including
+whether expended funds were one-time or base General Fund, federal funds, or
+Global Commitment funds.
+* * * Removing General Assistance Annual Report * * *
+Sec. 15. 33 V.S.A. § 2115 is amended to read:
+§ 2115. GENERALASSISTANCE PROGRAM REPORT
+On or before September 1 of each year, the Commissioner for Children and
+Families shall submit a written report to the Joint Fiscal Committee; the House
+
+Committees on Appropriations, on General, Housing, and Military Affairs, and
+on Human Services; and the Senate Committees on Appropriations and on
+Health and Welfare. The report shall contain the following:
+(1) an evaluation of the General Assistance program during the previous
+fiscal year;
+(2) any recommendations for changes to the program;
+(3) a plan for continued implementation of the program;
+(4) statewide statistics using deidentified data related to the use of
+emergency housing vouchers during the preceding State fiscal year, including
+demographic information, client data, shelter and motel usage rates, clients’
+primary stated cause of homelessness, and average lengths of stay in
+emergency housing by demographic group and by type of housing; and
+(5) other information the Commissioner deems appropriate. [Repealed.]
+* * * Effective Dates * * *
+Sec. 16. EFFECTIVE DATES
+(a) This section and Sec. 8 (deadline for adoption of permanent rules;
+interim emergency rulemaking) shall take effect on passage.
+(b) Sec. 6 (grant requirements) shall take effect on October 1, 2028.
+(c) All remaining sections shall take effect on July 1, 2026.

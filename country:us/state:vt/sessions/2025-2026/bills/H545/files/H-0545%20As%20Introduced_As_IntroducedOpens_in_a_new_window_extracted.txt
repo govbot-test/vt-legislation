@@ -1,0 +1,223 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.545
+2026 Page 1 of 9
+1 H.545
+2 Introduced by Representatives Wood of Waterbury and Black of Essex
+3 Referred to Committee on
+4 Date:
+5 Subject: Health; public health; immunizations; recommendations; standing
+6 orders; liability; purchasing authority; insurance overage
+7 Statement of purpose of bill as introduced: This bill proposes to authorize the
+8 Commissioner of Health to issue immunization recommendations for children
+9 and adults as part of the Department’s immunization program. This bill further
+10 proposes to allow the Commissioner of Health to issue standing orders for
+11 recommended immunizations and provides immunity from civil and
+12 administrative liability for health care professionals acting in accordance with
+13 the standing orders. It proposes to allow the Commissioner of Health to
+14 purchase immunizations from either the Centers for Disease Control and
+15 Prevention or another vendor. It also proposes to require health insurers to
+16 cover immunizations recommended by the Commissioner of Health without
+17 any co-payment, coinsurance, or deductible requirements. Lastly, this bill
+18 proposes to amend the membership of the Vermont Immunization Advisory
+19 Council.
+20 An act relating to issuing immunization recommendations
+VT LEG #385826 v.1
+
+BILL AS INTRODUCED H.545
+2026 Page 2 of 9
+1 It is hereby enacted by the General Assembly of the State of Vermont:
+2 Sec. 1. 18 V.S.A. § 1130 is amended to read:
+3 § 1130. IMMUNIZATION FUNDING
+4 (a) As used in this section:
+5 * * *
+6 (4) “Immunizations Recommended immunization” means vaccines an
+7 immunization and the application of the vaccines immunization as
+8 recommended by the practice guidelines for children and adults established by
+9 the Advisory Committee on Immunization Practices (ACIP) to the Centers for
+10 Disease Control and Prevention (CDC) Commissioner pursuant to section
+11 1130a of this title.
+12 * * *
+13 (b)(1) The Department of Health shall administer an immunization
+14 program with the goals of ensuring universal access to vaccines recommended
+15 immunizations for all Vermonters individuals domiciled in the State at no
+16 charge to the individual and reducing the cost at which the State may purchase
+17 vaccines recommended immunizations. The Department shall purchase,
+18 provide for the distribution of, and monitor the use of vaccines recommended
+19 immunizations as provided for in this subsection and subsection (c) of this
+20 section. The cost of the vaccines recommended immunizations and an
+VT LEG #385826 v.1
+
+BILL AS INTRODUCED H.545
+2026 Page 3 of 9
+1 administrative surcharge shall be reimbursed by health insurers as provided for
+2 in subsections (e) and (f) of this section.
+3 (2) The Department shall solicit, facilitate, and supervise the
+4 participation of health care professionals, health care facilities, and health
+5 insurers in the immunization program in order to accomplish the State’s goal
+6 of universal access to recommended immunizations at the lowest practicable
+7 cost to individuals, insurers, and State health care programs.
+8 (3) The Department shall gather and analyze data regarding the
+9 immunization program for the purpose of ensuring its quality and maximizing
+10 protection of Vermonters against diseases preventable by vaccination
+11 immunization.
+12 (c) The Department shall determine which recommended immunizations
+13 shall be purchased under the program. The immunization program shall
+14 purchase vaccines recommended immunizations from the federal Centers for
+15 Disease Control and Prevention or another vendor at the lowest available cost
+16 identified by the Department. The Department shall determine annually which
+17 vaccines for adults shall be purchased under the program.
+18 (d) The immunization program shall provide for distribution of the
+19 vaccines recommended immunizations to health care professionals and health
+20 care facilities for administration to patients.
+VT LEG #385826 v.1
+
+BILL AS INTRODUCED H.545
+2026 Page 4 of 9
+1 (e) Health insurers shall remit to the Department the cost of vaccines
+2 recommended immunizations, as that cost is established by the Commissioner
+3 of Health based on the recommendation of the Immunization Funding
+4 Advisory Committee established in subsection (g) of this section.
+5 (f) The Department shall charge each health insurer a surcharge for the
+6 costs and administration of the immunization program. The surcharge shall be
+7 deposited into an existing special fund and used solely for the purpose of
+8 administering the program.
+9 (g)(1) The Immunization Funding Advisory Committee is established to
+10 provide the Commissioner of Health with an annual per-member per-month
+11 cost for vaccines recommended immunizations for the pediatric population, an
+12 annual per-member per-month cost for vaccines recommended immunizations
+13 for the adult population, and a recommendation for the amount of the yearly
+14 vaccine immunization assessment. The Committee shall comprise the
+15 following nine members:
+16 (A) the Executive Officer of the Board of Pharmacy;
+17 (B) the Executive Director of the Green Mountain Care Board;
+18 (C) a representative of the Vermont Blueprint for Health, nominated
+19 by the Director of the Blueprint and appointed by the Commissioner of Health;
+VT LEG #385826 v.1
+
+BILL AS INTRODUCED H.545
+2026 Page 5 of 9
+1 (D) three representatives of health insurers, one from each of the
+2 State’s largest private health insurers, as determined by the number of covered
+3 lives, appointed by the Commissioner of Health;
+4 (E) a representative of the American Academy of Pediatrics,
+5 Vermont chapter, appointed by the Commissioner of Health;
+6 (F) a representative of the American Academy of Family Medicine,
+7 Vermont chapter, appointed by the Commissioner of Health; and
+8 (G) a representative of employers that self-insure for health coverage,
+9 appointed by the Commissioner of Health.
+10 (2) The Committee shall select a chair from among its members at the
+11 first meeting of each calendar year. The Committee shall receive
+12 administrative support from the Department of Health.
+13 (3) By January 1 of each year, the Committee shall provide to the
+14 Commissioner the annual fiscal assessment and the per-member per-month
+15 cost for pediatric vaccines recommended immunizations based on the total
+16 number of pediatric covered lives reported by health insurers and the per-
+17 member per-month cost for adult vaccines recommended immunizations based
+18 on the total number of adult covered lives reported by health insurers.
+19 (h) If federal purchase requirements do not further the goal of ensuring
+20 universal access to vaccines recommended immunizations for all, the
+21 Commissioner may, following consultation with the Immunization Funding
+VT LEG #385826 v.1
+
+BILL AS INTRODUCED H.545
+2026 Page 6 of 9
+1 Advisory Committee, discontinue the program with six months’ advance
+2 notice to all health care professionals and to all health insurers with Vermont
+3 covered lives.
+4 (i) The Department may adopt rules under 3 V.S.A. chapter 25 to
+5 implement this section.
+6 Sec. 2. 18 V.S.A. § 1130a is added to read:
+7 § 1130a. RECOMMENDED IMMUNIZATIONS
+8 (a) The Commissioner shall periodically issue recommendations regarding:
+9 (1) which immunizations children and adults should receive;
+10 (2) the recommended age at which each immunization should be given;
+11 (3) the number of immunization doses that should be administered;
+12 (4) the amount of time between doses of an immunization; and
+13 (5) any other recommendations regarding immunizations necessary to
+14 ensure the maintenance of public health and disease prevention in the State.
+15 (b) Prior to issuing recommendations under subsection (a) of this section,
+16 the Commissioner shall:
+17 (1) consult with the Vermont Immunization Advisory Council,
+18 established under section 1131 of this title; and
+19 (2) consider recommendations for immunizations issued by the Centers
+20 for Disease Control and Prevention’s Advisory Committee on Immunization
+21 Practices (ACIP), the American Academy of Pediatrics (AAP), the American
+VT LEG #385826 v.1
+
+BILL AS INTRODUCED H.545
+2026 Page 7 of 9
+1 Academy of Family Physicians (AAFP), the American College of
+2 Obstetricians and Gynecologists (ACOG), the American College of Physicians
+3 (ACP), and any other organizations the Commissioner may deem necessary.
+4 (c) A health care professional who prescribes, dispenses, or administers an
+5 immunization in accordance with the recommendations issued pursuant to
+6 subsection (a) of this section shall be immune from civil and administrative
+7 liability for immunization-caused adverse events, unless the health care
+8 professional’s actions regarding prescribing, dispensing, or administering an
+9 immunization constituted gross negligence, recklessness, or intentional
+10 misconduct.
+11 (d) The Commissioner may issue a standing order authorizing health care
+12 professionals, including pharmacists, to prescribe, dispense, or administer
+13 recommended immunizations, or any combination thereof, to the extent that
+14 prescribing, dispensing, or administering recommended immunizations is
+15 within the scope of the health care professional’s scope of practice.
+16 (e) As used in this section, “health care professional” and “recommended
+17 immunization” have the same meanings as in section 1130 of this title.
+18 Sec. 3. 18 V.S.A. § 1131 is amended to read:
+19 § 1131. VERMONT IMMUNIZATION ADVISORY COUNCIL
+20 (a) Creation. There is created the Vermont Immunization Advisory
+21 Council for the purpose of providing education policy, medical, and
+VT LEG #385826 v.1
+
+BILL AS INTRODUCED H.545
+2026 Page 8 of 9
+1 epidemiological expertise and advice to the Department with regard to the
+2 safety of immunizations and immunization schedules.
+3 (b) Membership. The Council shall be composed of the following
+4 members:
+5 (1) a representative of the Vermont Board of Medical Practice,
+6 appointed by the Governor;
+7 (2) the Secretaries of Human Services and of Education or their
+8 designees;
+9 (3) the State epidemiologist or designee;
+10 (4) the Department of Health’s Immunization Program Manager or
+11 designee;
+12 (5) a practicing pediatrician licensed pursuant to 26 V.S.A. chapter 23 or
+13 33, appointed by the Governor;
+14 (6) two individuals who are professors, researchers, or physicians
+15 licensed pursuant to 26 V.S.A. chapter 23 or 33, or any combination these
+16 individuals, with expertise in infectious disease and human immunizations,
+17 appointed by the Governor;
+18 (7) a family or internal medicine physician licensed pursuant to 26
+19 V.S.A. chapter 23 or 33, appointed by the Governor;
+20 (5)(8) a representative of both public and independent schools,
+21 appointed by the Governor; and
+VT LEG #385826 v.1
+
+BILL AS INTRODUCED H.545
+2026 Page 9 of 9
+1 (6)(9) any other persons deemed necessary by the Commissioner.
+2 (c) Powers and duties Duties. The Council shall:
+3 (1) review and make recommendations regarding the State’s
+4 immunization schedule for attendance in schools and child care facilities; and
+5 (2) provide any other advice and expertise requested by the
+6 Commissioner, including advice regarding immunization recommendations
+7 issued by the Commissioner pursuant to subsection 1130a(a) of this title.
+8 (d) Assistance. The Council shall have the administrative, technical, and
+9 legal assistance of the Department.
+10 (e) Meetings.
+11 (1) The Council shall convene at the call of the Commissioner, but no
+12 less than once each year.
+13 (2) The Council shall select a chair from among its members at the first
+14 meeting.
+15 (3) A majority of the membership shall constitute a quorum.
+16 Sec. 4. EFFECTIVE DATE
+17 This act shall take effect on July 1, 2026.
+VT LEG #385826 v.1

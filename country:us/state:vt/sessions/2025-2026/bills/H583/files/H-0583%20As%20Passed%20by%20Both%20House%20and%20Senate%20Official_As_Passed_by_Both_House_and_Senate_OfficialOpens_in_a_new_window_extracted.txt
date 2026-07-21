@@ -1,0 +1,934 @@
+Title: 
+Official Title: 
+Source: versions - As Passed by Both House and Senate (OfficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.583
+2026 Page 1 of 40
+1 H.583
+2 Introduced by Representatives Black of Essexand Bluemle of Burlington
+3 Referred to Committee on
+4 Date:
+5 Subject: Health; health care facilities; Attorney General; health care entity
+6 transactions; corporate practice of medicine
+7 Statement of purpose of bill as introduced: This bill proposes to prohibit
+8 certain financial transactions involving health care entities. It would also
+9 prohibit corporations from practicing medicine or otherwise interfering with
+10 health care providers’ professional judgment and clinical decision making.
+11 The bill would deem violations of these prohibitions to be violations of the
+12 Consumer Protection Act. The bill would also require public reporting on
+13 ownership and control of certain health care entities.
+14 An act relating to health care financial transactions and clinical decision
+15 making
+An act relating to clinical decision making
+16 It is hereby enacted by the General Assembly of the State of Vermont:
+17 Sec. 1. 18 V.S.A. chapter 226 is added to read:
+18 CHAPTER 226. TRANSACTION LIMITATIONS AND CLINICAL
+19 DECISION MAKING
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.583
+2026 Page 2 of 40
+1 Subchapter 1. General Provisions
+2 § 9521. DEFINITIONS
+3 As used in this chapter:
+4 (1) “Acquisition” means the direct or indirect purchase in any manner,
+5 including by lease, transfer, exchange, option, receipt of a conveyance,
+6 creation of a joint venture, or any other manner of purchase, such as by a
+7 health care system, private equity group, hedge fund, publicly traded company,
+8 real estate investment trust, management services organization, insurance
+9 company, or a subsidiary of any of these entities, of a material amount of the
+10 assets or operations of a health care entity.
+11 (2) “Affiliate” means:
+12 (A) a person who directly, indirectly, or through one or more
+13 intermediaries, controls, is controlled by, or is under common control or
+14 ownership of another person;
+15 (B) a person whose business is operated under a lease, management,
+16 or operating agreement by another entity, or a person substantially all of whose
+17 property is operated under a management or operating agreement with that
+18 other entity;
+19 (C) an entity that operates the business or substantially all of the
+20 property of another entity under a lease, management, or operating agreement;
+21 or
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.583
+2026 Page 3 of 40
+1 (D) any out-of-state operations or corporate affiliate of an affiliate, as
+2 defined in subdivision (A), (B), or (C) of this subdivision (2), including
+3 significant equity investors, health care real estate investment trusts, and
+4 management services organizations.
+5 (3) “Change of control” means an arrangement in which any other
+6 person acquires direct or indirect control over the operations of a health care
+7 entity in whole or in substantial part. As used in this subdivision,
+8 “arrangement” includes any agreement, association, partnership, joint venture,
+9 management services agreement, professional services agreement, health care
+10 staffing company agreement, or other arrangement that results in a change of
+11 governance or control of a health care entity or a department, subdivision, or
+12 subsidiary of a health care entity.
+13 (4) “Control,” including “controlling,” “controlled by,” and “under
+14 common control with,” means the direct or indirect power through ownership,
+15 contractual agreement, or otherwise, to:
+16 (A) vote more than 10 percent of any class of voting shares of a
+17 health care entity; or
+18 (B) direct the actions or policies of the specified entity.
+19 (5) “Health care entity” means a health care provider, health care
+20 facility, provider organization, pharmacy benefit manager as defined in section
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.583
+2026 Page 4 of 40
+1 3602 of this title, or health insurer as defined in section 9402 of this title that
+2 offers a health insurance plan in this State.
+3 (6) “Health care facility” has the same meaning as in section 9432 of
+4 this title.
+5 (7) “Health care provider” has the same meaning as in section 9402 of
+6 this title.
+7 (8) “Health care services” has the same meaning as in section 9481 of
+8 this title and includes all of the following:
+9 (A) inpatient, outpatient, habilitative, rehabilitative, dental,
+10 palliative, therapeutic, supportive, nursing home, home health, mental health,
+11 and substance use disorder services provided by a health care entity;
+12 (B) pharmacy services, including drugs, devices, and medical
+13 supplies;
+14 (C) performance of functions to refer, arrange, and coordinate care;
+15 (D) durable medical equipment, diagnostic equivalent, surgical
+16 devices, and infusion equipment; and
+17 (E) technology associated with providing the services and equipment
+18 set forth in subdivisions (A)–(D) of this subdivision (8), such as telehealth,
+19 electronic health records, software, claims processing, and utilization systems.
+20 (9) “Health care staffing company” means a person engaged in the
+21 business of providing or procuring health care personnel for temporary
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.583
+2026 Page 5 of 40
+1 employment or contracting by a health care facility, but does not include an
+2 individual who independently provides the individual’s own services on a
+3 temporary basis to health care facilities as an employee or contractor.
+4 (10) “Licensee” means an individual licensed in this State as a physician
+5 pursuant to 26 V.S.A. chapter 23 or 33, as an advanced practice registered
+6 nurse pursuant to 26 V.S.A. chapter 28, or as a physician assistant pursuant to
+7 26 V.S.A. chapter 31 who is authorized to diagnose and treat in the applicable
+8 clinical setting.
+9 (11) “Management services organization” means any organization or
+10 entity that contracts with a health care provider or provider organization to
+11 perform management or administrative services relating to, supporting, or
+12 facilitating the provision of health care services.
+13 (12)(A) “Material change transaction” means any of the following,
+14 occurring during a single transaction or in a series of related transactions
+15 involving a health care entity within the State that has total assets, annual
+16 revenues, or anticipated annual revenues for new entities, of at least
+17 $1,000,000.00, including both in-state and out-of-state assets and revenues:
+18 (i) a corporate merger including one or more health care entities;
+19 (ii) an acquisition of one or more health care entities, including
+20 insolvent health care entities;
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.583
+2026 Page 6 of 40
+1 (iii) any affiliation, arrangement, or contract that results in a
+2 change of control for a health care entity;
+3 (iv) the formation of a partnership, joint venture, accountable care
+4 organization, parent organization, or management services organization for the
+5 purpose of administering contracts with health insurers, third-party
+6 administrators, pharmacy benefit managers, or health care providers;
+7 (v) a sale, purchase, lease, affiliation, or transfer of control of a
+8 board of directors or governing body of a health care entity;
+9 (vi) a real estate sale or lease agreement involving a material
+10 amount of assets of a health care entity; or
+11 (vii) the closure of a health care facility, or the closure,
+12 discontinuance, or significant reduction of any essential health service
+13 provided by a health care entity that is either a provider organization or health
+14 care facility or any new contracts or clinical or contractual affiliations that will
+15 eliminate or significantly reduce essential services.
+16 (B) “Material change transaction” does not include any of the
+17 following:
+18 (i) a clinical affiliation of health care entities formed solely for the
+19 purpose of collaborating on clinical trials;
+20 (ii) graduate medical education programs;
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.583
+2026 Page 7 of 40
+1 (iii) the mere offer of employment to, or hiring of, an individual
+2 health care provider; or
+3 (iv) situations in which the health care entity directly, or indirectly
+4 through one or more intermediaries, already controls, is controlled by, or is
+5 under common control with, all other parties to the transaction, such as a
+6 corporate restructuring.
+7 (13) “Medical practice” means a corporate entity or partnership
+8 organized for the purpose of practicing medicine and permitted to practice
+9 medicine in this State, including partnerships, professional corporations,
+10 limited liability companies, and limited liability partnerships.
+11 (14) “Noncompetition agreement” means a written agreement between a
+12 licensee and another person in which the licensee agrees that the licensee,
+13 either alone or as an employee, associate, or affiliate of a third person, will not
+14 compete with the other person in providing products, processes, or services
+15 that are similar to the other person’s products, processes, or services for a
+16 period of time or within a specified geographic area after termination of
+17 employment or termination of a contract under which the licensee supplied
+18 goods to or performed services for the other person.
+19 (15) “Nondisclosure agreement” means a written agreement under the
+20 terms of which a licensee must refrain from disclosing partially, fully, directly,
+21 or indirectly to any person, other than another party to the written agreement
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.583
+2026 Page 8 of 40
+1 or to a person specified in the agreement as a third-party beneficiary of the
+2 agreement:
+3 (A) a policy or practice that a party to the agreement required the
+4 licensee to use in patient care, other than individually identifiable health
+5 information that the licensee must not disclose under the Health Insurance
+6 Portability and Accountability Act of 1996, Pub. L. No. 104-191;
+7 (B) a policy, practice, or other information about or associated with
+8 the licensee’s employment, conditions of employment, or rate or amount of
+9 pay or other compensation; or
+10 (C) any other information the licensee possesses or to which the
+11 licensee has access by reason of the licensee’s employment by, or provision of
+12 services for or on behalf of, a party to the agreement, other than information
+13 that is subject to protection under applicable law as a trade secret of, or
+14 otherwise proprietary to, another party to the agreement or to a person
+15 specified in the agreement as a third-party beneficiary of the agreement.
+16 (16) “Nondisparagement agreement” means a written agreement under
+17 which a licensee must refrain from making to a third party a statement about
+18 another party to the agreement or about another person specified in the
+19 agreement as a third-party beneficiary of the agreement, the effect of which
+20 causes or threatens to cause harm to the other party’s or person’s reputation,
+21 business relations, or other economic interests.
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.583
+2026 Page 9 of 40
+1 (17) “Ownership or investment interest” means any of the following:
+2 (A) direct or indirect possession of equity in the capital, stock, or
+3 profits totaling more than five percent of an entity;
+4 (B) interest held by an investor or group of investors who engage in
+5 the raising or returning of capital and who invest, develop, or dispose of
+6 specified assets; or
+7 (C) interest held by a pool of funds by investors, including a pool of
+8 funds managed or controlled by private limited partnerships, if those investors
+9 or the management of that pool or private limited partnership employs
+10 investment strategies of any kind to earn a return on that pool of funds.
+11 (18) “Private equity fund” means a publicly traded or nonpublicly
+12 traded company that collects capital investments from individuals or entities
+13 and purchases a direct or indirect ownership share or controlling interest of a
+14 health care entity.
+15 (19) “Provider organization” means any corporation, partnership,
+16 business trust, association, or organized group of persons that is in the business
+17 of health care delivery or management, whether incorporated or not, that
+18 represents one or more health care providers in contracting with health insurers
+19 for payment for health care services. The term includes physician
+20 organizations, physician-hospital organizations, independent practice
+21 associations, provider networks, accountable care organizations, management
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.583
+2026 Page 10 of 40
+1 services organizations, and any other organization that contracts with health
+2 insurers for payment for health care services.
+3 (20) “Significant equity investor” means:
+4 (A) any private equity fund with a direct or indirect ownership or
+5 investment interest in a health care facility;
+6 (B) an investor, group of investors, or other entity with a direct or
+7 indirect possession of equity in the capital, stock, or profits totaling more than
+8 10 percent of a provider or provider organization; or
+9 (C) any private equity fund, investor, group of investors, or other
+10 entity with a direct or indirect controlling interest in a health care entity or that
+11 operates the business or substantially all the property of a health care entity
+12 under a lease, management, or operating agreement.
+13 Subchapter 2. Prohibited Transactions
+14 § 9525. PROHIBITED TRANSACTIONS
+15 (a) The following transactions are prohibited:
+16 (1) a transaction that would give a party ownership of the core business
+17 operations of an essential community provider, as defined in 45 C.F.R.
+18 § 156.235(c);
+19 (2) a transaction that involves financing the acquisition of a health care
+20 entity through the use of debt that will become an obligation of one or more of
+21 the health care entities that are party to the transaction;
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.583
+2026 Page 11 of 40
+1 (3) a transaction that involves issuing dividends or other shareholder
+2 returns financed by debt that will become an obligation of one or more of the
+3 health care entities that are party to the transaction;
+4 (4) a transaction that involves entering into any contract or other service
+5 or purchasing arrangement with an affiliated legal entity, except for a contract
+6 or arrangement to provide services or products, or both, that are necessary to
+7 accomplish the legitimate health care purposes of the relevant health care
+8 entity and the contract or arrangement provides for compensation or
+9 reimbursement that is consistent with the fair market value of the services
+10 rendered or products delivered; or
+11 (5) a transaction that would result in one or more health care entities
+12 that does not accept, or that places limitations on, patients covered by
+13 Medicaid, original Medicare, or Medicare Advantage.
+14 (b) Nothing in this section shall be construed to limit or alter any existing
+15 authority of the Attorney General or any other State agency to enforce any
+16 other law, including State or federal antitrust law, or to review transactions
+17 involving nonprofit entities.
+18 Subchapter 3. Prohibition on Corporate Practice of Medicine
+19 § 9531. CORPORATE PRACTICE OF MEDICINE PROHIBITED
+20 (a) It is unlawful for an individual, corporation, partnership, or
+21 any other entity without a license under 26 V.S.A. chapter 23 or 33 to own a
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.583
+2026 Page 12 of 40
+1 medical practice, employ licensees, or otherwise engage in the practice of
+2 medicine.
+3 (b) Notwithstanding subsection (a) of this section, an individual,
+4 corporation, partnership, or any other entity without a license under 26 V.S.A.
+5 chapter 23 or 33 that is permitted to employ licensees under section 9532 of
+6 this chapter shall not indirectly or directly interfere with, control, or otherwise
+7 direct the professional judgment or clinical decisions of a licensee.
+8 § 9532. CORPORATE ENTITIES PERMITTED TO EMPLOY
+9 PHYSICIANS
+10 (a) A medical practice organized for the purpose of practicing medicine
+11 may employ physicians and engage in the practice of medicine only if all of
+12 the following conditions are met:
+13 (1) Licensees who are licensed in this State to practice medicine must
+14 hold the majority of each class of shares that are entitled to vote.
+15 (2) Licensees who are licensed in this State to practice medicine must
+16 comprise a majority of the directors.
+17 (3) All officers except the secretary and treasurer, if any, must be
+18 licensees who are licensed in this State to practice medicine. The same
+19 individual may hold any two or more offices.
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.583
+2026 Page 13 of 40
+1 (b) Notwithstanding any provision of subsection (a) of this section to the
+2 contrary, the following entities may employ physicians and engage in the
+3 practice of medicine:
+4 (1) federally qualified health centers;
+5 (2) rural health clinics;
+6 (3) free and referral clinics;
+7 (4) nonprofit hospitals;
+8 (5) hospitals and other health care facilities owned or operated, or both,
+9 by the State;
+10 (6) ambulatory surgical centers; and
+11 (7) school-based health clinics, including student health centers at
+12 postsecondary schools.
+13 § 9533. REGULATION OF CONTRACTS BETWEEN MEDICAL
+14 PRACTICES AND MANAGEMENT SERVICES
+15 ORGANIZATIONS
+16 (a) Prohibition on straw ownership.
+17 (1) Each licensee owner of a medical practice shall exhibit meaningful
+18 ownership of the medical practice.
+19 (2) Meaningful ownership means that each licensee owner is duly
+20 licensed and present in this State and is substantially engaged in delivering
+21 medical care or managing the medical practice, or both.
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.583
+2026 Page 14 of 40
+1 (b) Prohibition on dual ownership or interests.
+2 (1) Except as provided in subdivision (2) of this subsection, a
+3 shareholder, director, or officer of a medical practice shall not do any of the
+4 following:
+5 (A) own or control shares in, serve as a director or officer of, be an
+6 employee of or an independent contractor with, or otherwise participate in
+7 managing both the medical practice and a management services organization
+8 with which the medical practice has a contract; or
+9 (B) receive substantial compensation or remuneration from a
+10 management services organization in return for ownership or management of
+11 the medical practice.
+12 (2) Subdivision (1) of this subsection shall not apply to the
+13 shareholders, directors, or officers of a medical practice if the medical practice
+14 owns a majority of the interest in the management services organization or
+15 separate legal entity.
+16 (c) Prohibition on stock transfer restriction agreements.
+17 (1) A medical practice shall not transfer or relinquish control over the
+18 sale, the restriction of the sale, or the encumbrance of the sale of the medical
+19 practice’s shares or assets.
+20 (2) A medical practice shall not transfer or relinquish control over the
+21 issuing of shares of stock in the medical practice, in a subsidiary of the
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.583
+2026 Page 15 of 40
+1 medical practice or an entity affiliated with the medical practice, or the paying
+2 of dividends.
+3 (d) Prohibition on restrictive covenants.
+4 (1) Noncompetition agreements.
+5 (A) Except as provided in subdivision (B) of this subdivision (d)(1),
+6 a noncompetition agreement between a licensee and another person is void and
+7 unenforceable.
+8 (B) Notwithstanding subdivision (A) of this subdivision (d)(1), a
+9 noncompetition agreement between a licensee and another person is valid and
+10 enforceable if the licensee is a shareholder or member of the other person or
+11 otherwise owns or controls an ownership or membership interest that is
+12 equivalent to 25 percent or more of the entire ownership or membership
+13 interest that exists in the other person.
+14 (2) Nondisclosure and nondisparagement agreements.
+15 (A) Except as provided in subdivision (B) of this subdivision (d)(2),
+16 a nondisclosure agreement or nondisparagement agreement between a licensee
+17 and a management services organization is void and unenforceable.
+18 (B) Subdivision (A) of this subdivision (d)(2) shall not be deemed to
+19 limit or otherwise affect any cause of action that:
+20 (i) a party to, or third-party beneficiary of, the agreement may
+21 have with respect to a statement of a licensee that constitutes libel, slander, a
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.583
+2026 Page 16 of 40
+1 tortious interference with contractual relations, or another tort for which the
+2 party has a cause of action against the licensee; and
+3 (ii) does not depend upon or derive from a breach or violation of
+4 an agreement described in subdivision (1) of this subsection (d).
+5 (e) Limitations on advertising. It is unlawful for a management services
+6 organization or other legal entity that is not the medical practice to advertise
+7 the medical practice’s services under the name of the entity that is not the
+8 medical practice.
+9 (f) Prohibition on relinquishing control of medical practice.
+10 (1) A medical practice shall not, by means of a contract or other
+11 agreement or arrangement, by providing in the medical practice’s articles of
+12 incorporation or bylaws, by forming a subsidiary or affiliated entity, or by
+13 other means, relinquish control over or otherwise transfer de facto control over
+14 any of the medical practice’s administrative, business, or clinical operations
+15 that may affect clinical decision making or the nature or quality of medical
+16 care that the medical practice delivers.
+17 (2) Conduct prohibited under subdivision (1) of this subsection
+18 includes relinquishing ultimate decision-making authority over:
+19 (A) hiring or termination, setting work schedules and compensation,
+20 or otherwise specifying terms of employment of employees who are licensed
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.583
+2026 Page 17 of 40
+1 to practice medicine in this State or who are licensed in this State as a
+2 physician assistant or advanced practice registered nurse;
+3 (B) the disbursement of revenue generated from physician fees and
+4 other revenue generated by physician services;
+5 (C) collaboration and negotiation with hospitals and other health care
+6 facilities in which the licensees of the medical practice may deliver clinical
+7 care, including controlling licensee schedules as a means of discipline;
+8 (D) setting staffing levels, or specifying the period of time that a
+9 licensee may spend with a patient, for any location that serves patients;
+10 (E) making diagnostic coding decisions;
+11 (F) setting clinical standards or policies;
+12 (G) setting policies for patient, client, or customer billing and
+13 collection;
+14 (H) setting the prices, rates, or amounts the medical practice charges
+15 for a licensee’s services; or
+16 (I) negotiating, executing, performing, enforcing, or terminating
+17 contracts with third-party payers or persons who are not employees of the
+18 medical practice.
+19 (3) The conduct described in subdivision (2) of this subsection does not
+20 prohibit:
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.583
+2026 Page 18 of 40
+1 (A) collection of quality metrics as required by law or in accordance
+2 with an agreement to which the medical practice is a party; or
+3 (B) setting criteria for reimbursement under a contract between the
+4 medical practice and an insurer or a payer or entity that otherwise reimburses
+5 the medical practice for providing medical care.
+6 (4) A medical practice may relinquish or transfer control over the
+7 medical practice’s administrative, business, or clinical operations that will not
+8 affect clinical decision making or the nature or quality of medical care that the
+9 medical practice delivers, provided that the medical practice executes a
+10 shareholder agreement exclusively between or among and for the benefit of a
+11 majority of shareholders who are physicians licensed in this State to practice
+12 medicine and the shareholder agreement.
+13 § 9534. PROTECTIONS FOR EMPLOYED LICENSEES
+14 (a) Application. The provisions set forth in this section apply to licensees
+15 who are employed by, or who provide health care services under contract with,
+16 an unlicensed person, corporation, or other entity under section 9532 of this
+17 chapter.
+18 (b) Prohibition on restrictive covenants.
+19 (1) Noncompetition agreements. A noncompetition agreement between
+20 a licensee and an employer or other entity is void and unenforceable.
+21 (2) Nondisclosure and nondisparagement agreements.
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.583
+2026 Page 19 of 40
+1 (A) Except as provided in subdivision (B) of this subdivision (b)(2),
+2 a nondisclosure agreement or nondisparagement agreement between a licensee
+3 and an employer or other entity is void and unenforceable.
+4 (B) Subdivision (A) of this subdivision (b)(2) shall not be deemed to
+5 limit or otherwise affect any cause of action that:
+6 (i) a party to, or third-party beneficiary of, the agreement may
+7 have with respect to a statement of a licensee that constitutes libel, slander, a
+8 tortious interference with contractual relations, or another tort for which the
+9 party has a cause of action against the licensee; and
+10 (ii) does not depend upon or derive from a breach or violation of
+11 an agreement described in subdivision (1) of this subsection (b).
+12 (c) Prohibition on directing licensee’s professional judgment or clinical
+13 decisions. Conduct prohibited under subsection 9531(b) of this chapter
+14 includes controlling, either directly or indirectly, through discipline,
+15 punishment, threats, adverse employment actions, coercion, retaliation,
+16 excessive pressure, or otherwise, any one or more of the following:
+17 (1) the period of time a licensee may spend with a patient, including the
+18 time permitted for a licensee to triage patients in the emergency department or
+19 evaluate admitted patients;
+20 (2) the period of time within which a licensee must discharge a patient;
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.583
+2026 Page 20 of 40
+1 (3) the clinical status of a patient, including whether the patient should
+2 be admitted to inpatient status, whether the patient should be kept in
+3 observation status, whether the patient should receive palliative care, and
+4 whether and where the patient should be referred upon discharge, such as a
+5 skilled nursing facility;
+6 (4) the diagnoses, diagnostic terminology, or codes that are entered into
+7 the medical record by the licensee;
+8 (5) the range of clinical orders available to licensees, including by
+9 configuring the medical record to prohibit or significantly limit the options
+10 available to the licensee; or
+11 (6) any other action specified by rule to constitute impermissible
+12 interference or control over the clinical judgment and decision making of a
+13 licensee.
+14 Subchapter 4. Transparency in Ownership and Control of Health Care Entities
+15 § 9541. REPORTING OF OWNERSHIP AND CONTROLOF HEALTH
+16 CARE ENTITIES
+17 (a) Except as otherwise provided in subsection (b) of this section, each
+18 health care entity shall report to the Attorney General and the Green Mountain
+19 Care Board at least once every two years and upon the consummation of a
+20 material change transaction involving the entity, in a form and manner
+21 required by the Green Mountain Care Board, the following information:
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.583
+2026 Page 21 of 40
+1 (1) the health care entity’s legal name;
+2 (2) the health care entity’s business address;
+3 (3) the locations of the health care entity’s operations;
+4 (4) the health care entity’s business identification numbers, as
+5 applicable, including:
+6 (A) taxpayer identification number (TIN);
+7 (B) national provider identifier (NPI);
+8 (C) employer identification number (EIN);
+9 (D) Centers for Medicare and Medicaid Services certification number
+10 (CCN);
+11 (E) National Association of Insurance Commissioners (NAIC)
+12 identification number;
+13 (F) a personal identification number associated with a license issued
+14 by the Department of Financial Regulation; and
+15 (G) a pharmacy benefit manager identification number associated
+16 with a licensed issued to a pharmacy benefit manager in this State;
+17 (5) the name and contact information of a representative of the health
+18 care entity;
+19 (6) the name, business address, and business identification numbers
+20 listed in subdivision (4) of this subsection for each person who, with respect to
+21 the relevant health care entity:
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.583
+2026 Page 22 of 40
+1 (A) has an ownership or investment interest;
+2 (B) has a controlling interest;
+3 (C) is a management services organization; or
+4 (D) is a significant equity investor;
+5 (7) a current organizational chart showing the business structure of the
+6 health care entity, including:
+7 (A) any entity listed in subdivision (6) of this subsection (a);
+8 (B) affiliates, including entities that control or are under common
+9 control as the health care entity; and
+10 (C) subsidiaries;
+11 (8) for a health care entity that is a provider organization or a health
+12 care facility:
+13 (A) the affiliated health care providers identified by name, license
+14 type, specialty, NPI, and other applicable identification number listed in
+15 subdivision (4) of this subsection (a); the address of each health care
+16 provider’s principal practice location; and whether the health care provider is
+17 employed or contracted by the entity; and
+18 (B) the name and address of affiliated health care facilities by license
+19 number, license type, and capacity;
+20 (9) the names; NPI, if applicable; and compensation of:
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.583
+2026 Page 23 of 40
+1 (A) the members of the health care entity’s governing board, board
+2 of directors, or similar governance body;
+3 (B) any entity that is owned or controlled by, affiliated with, or under
+4 common control as the health care entity; and
+5 (C) any entity listed in subdivision (6) of this subsection (a); and
+6 (10) comprehensive financial reports of the health care entity and any
+7 ownership and control entities, including audited financial statements, cost
+8 reports, annual costs, annual receipts, realized capital gains and losses,
+9 accumulated surplus, and accumulated reserves.
+10 (b) The following health care entities are exempt from the reporting
+11 requirements set forth in subsection (a) of this section:
+12 (1) a health care entity that is an independent provider organization,
+13 without any ownership or control entities, consisting of two or fewer
+14 physicians; provided, however, that if such health care entity experiences a
+15 material change transaction under subchapter 2 of this chapter, the health care
+16 entity is subject to reporting under subsection (a) of this section upon the
+17 consummation of the transaction; and
+18 (2) a health care provider or provider organization that is owned or
+19 controlled by another health care entity, if the health care provider
+20 organization is shown in the organizational chart submitted under subdivision
+21 (a)(7) of this section and the controlling health care entity reports all the
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.583
+2026 Page 24 of 40
+1 information required under subsection (a) of this section on behalf of the
+2 controlled or owned entity; provided, however, that health care facilities are
+3 not subject to this exemption.
+4 § 9542. SHARING OF OWNERSHIP INFORMATION TO IMPROVE
+5 TRANSPARENCY
+6 (a) Information provided under this section shall be public information and
+7 shall not be considered confidential, proprietary, or a trade secret; provided,
+8 however, that any individual health care provider’s taxpayer ID that is also the
+9 individual’s Social Security number shall be exempt from public inspection
+10 and copying under the Public Records Act and shall be kept confidential.
+11 (b) On or before February 1, 2027, and every two years thereafter, the
+12 Green Mountain Care Board shall post on its website a report with respect to
+13 the previous two-year period, including:
+14 (1) the number of health care entities reporting for such year,
+15 disaggregated by the business structure of each specified entity;
+16 (2) the names, addresses, business structure of any entities with an
+17 ownership or controlling interest in each health care entity;
+18 (3) any change in ownership or control for each health care entity;
+19 (4) any change in the taxidentification number of a health care entity;
+20 (5) as applicable, the name, address, taxidentification number, and
+21 business structure of other affiliates under common control, subsidiaries, and
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.583
+2026 Page 25 of 40
+1 management services entities as the health care entity, including the business
+2 type and the taxidentification number of each; and
+3 (6) an analysis of trends in horizontal and vertical consolidation,
+4 disaggregated by business structure and provider type.
+5 (c) The Green Mountain Care Board may share information reported under
+6 this subchapter with the Attorney General, the Secretary of State, other State
+7 agencies, and other State officials to reduce or avoid duplication in reporting
+8 requirements or to facilitate oversight or enforcement pursuant to the Vermont
+9 law, or both, and any taxidentification numbers that are individual Social
+10 Security numbers may be shared with the Attorney General, other State
+11 agencies, and other State officials who agree to maintain the confidentiality of
+12 such information. The Board may, in consultation with the relevant State
+13 agencies, merge similar reporting requirements where appropriate.
+14 Subchapter 5. Enforcement of Chapter
+15 § 9547. ENFORCEMENT OF CHAPTER
+16 (a) A violation of this chapter shall be deemed a violation of the Consumer
+17 Protection Act, 9 V.S.A. chapter 63. The Attorney General shall have the
+18 same authority as provided in 9 V.S.A. chapter 63, subchapter 1.
+19 (b) Notwithstanding any provision of 9 V.S.A. § 2458 to the contrary:
+20 (1) for a violation of section 9531, 9532, or 9534 of this chapter, the
+21 civil penalty imposed shall be not more than $10,000.00 per violation; and
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.583
+2026 Page 26 of 40
+1 (2) for a violation of section 9525 or 9533 of this chapter, the civil
+2 penalty imposed shall be not less than $100,000.00 per violation.
+3 (c) Penalties collected pursuant to this section shall be deposited in the
+4 Transaction Oversight and Clinical Decision-Making Fund established
+5 pursuant to section 9548 of this chapter.
+6 § 9548. TRANSACTION OVERSIGHT AND CLINICALDECISION-
+7 MAKING FUND
+8 There is established the Transaction Oversight and Clinical Decision-
+9 Making Fund as a special fund pursuant to 32 V.S.A. chapter 7, subchapter 5,
+10 for the purpose of providing a financial means for the Office of the Attorney
+11 General to administer its duties under this chapter, including hiring outside
+12 experts and investigators as needed. The Fund shall consist of the penalty
+13 sums collected pursuant to section 9547 of this chapter.
+14 Sec. 2. EFFECTIVE DATE
+15 This act shall take effect on July 1, 2026.
+Sec. 1. 18 V.S.A. chapter 233 is added to read:
+CHAPTER 233. CLINICAL DECISION MAKING
+§ 9771. DEFINITIONS
+As used in this chapter:
+(1) “Health care facility” has the same meaning as in section 9432 of
+this title.
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.583
+2026 Page 27 of 40
+(2) “Health care provider” has the same meaning as in section 9402 of
+this title.
+(3) “Health care services” has the same meaning as in section 9481 of
+this title and includes all of the following:
+(A) inpatient; outpatient; habilitative; rehabilitative; dental;
+palliative, including hospice; therapeutic; supportive; nursing home; home
+health; mental health; and substance use disorder services, provided by a
+health care facility;
+(B) pharmacy services, including drugs, devices, and medical
+supplies;
+(C) performance of functions to refer, arrange, and coordinate care;
+(D) durable medical equipment, diagnostic equipment, surgical
+devices, and infusion equipment; and
+(E) technology associated with providing the services and equipment
+set forth in subdivisions (A)–(D) of this subdivision (3), such as telehealth,
+electronic health records, software, claims processing, and utilization systems.
+(4) “Health care staffing company” means a person engaged in the
+business of providing or procuring health care personnel for temporary
+employment or contracting by a health care facility, but does not include an
+individual who independently provides the individual’s own services on a
+temporary basis to health care facilities as an employee or contractor.
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.583
+2026 Page 28 of 40
+(5)(A) “Hedge fund” means a pool of funds managed by investors for
+the purpose of earning a return on those funds, regardless of the strategies
+used to manage the funds. Hedge funds include a pool of funds managed or
+controlled by private limited partnerships.
+(B) “Hedge fund” does not include:
+(i) individuals or entities that contribute, or promise to contribute,
+funds to a hedge fund but do not participate in the management of the hedge
+fund or the fund’s assets or in any change of control of the hedge fund or the
+fund’s assets; or
+(ii) entities that solely provide or manage debt financing secured
+in whole or in part by the assets of a health care facility, including banks,
+credit unions, commercial real estate lenders, bond underwriters, and trustees.
+(6) “Management services organization” means any organization or
+entity that contracts with a health care provider or provider organization to
+perform management or administrative services relating to, supporting, or
+facilitating the provision of health care services.
+(7) “Ownership or investment interest” means any of the following:
+(A) direct or indirect possession of equity in the capital, stock, or
+profits totaling more than five percent of an entity;
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.583
+2026 Page 29 of 40
+(B) interest held by an investor or group of investors who engage in
+the raising or returning of capital and who invest, develop, or dispose of
+specified assets; or
+(C) interest held by a pool of funds by investors, including a pool of
+funds managed or controlled by private limited partnerships, if those investors
+or the management of that pool or private limited partnership employs
+investment strategies of any kind to earn a return on that pool of funds.
+(8)(A) “Private equity group” means an investor or group of investors
+who primarily engage in the raising or returning of capital and who invest,
+develop, dispose of, or purchase any equity interest in assets, either as a parent
+company or through another entity the investor or investors completely or
+partially own or control.
+(B) “Private equity group” does not include individuals or entities
+that contribute, or promise to contribute, funds to the private equity group but
+otherwise do not participate in the management of the private equity group or
+the group’s assets, or in any change in control of the private equity group or
+the group’s assets.
+(9) “Provider organization” means any corporation, partnership,
+business trust, association, or organized group of persons that is in the
+business of health care delivery or management, whether incorporated or not,
+that represents one or more health care providers in contracting with health
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.583
+2026 Page 30 of 40
+insurers for payment for health care services. The term includes physician
+organizations, physician-hospital organizations, independent practice
+associations, provider networks, accountable care organizations, management
+services organizations, and any other organization that contracts with health
+insurers for payment for health care services.
+(10) “Significant equity investor” means:
+(A) any private equity group with a direct or indirect ownership or
+investment interest in a health care facility or management services
+organization;
+(B) an investor, group of investors, or other entity with a direct or
+indirect possession of equity in the capital, stock, or profits totaling more than
+10 percent of a health care provider or provider organization; or
+(C) any private equity group, investor, group of investors, or other
+entity with a direct or indirect controlling interest in a health care facility or
+management services organization or that operates the business or
+substantially all the real or personal property, or both, of a health care facility
+or management services organization under a lease, management, or operating
+agreement.
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.583
+2026 Page 31 of 40
+§ 9772. LIMITATIONS ON CONTROL OVER CLINICAL DECISION
+MAKING BY PRIVATE EQUITY GROUP OR HEDGE FUND
+(a) The purpose of this section is to ensure that clinical decision making
+and treatment decisions are exclusively in the hands of health care providers
+and to safeguard against nonlicensed individuals or entities, such as private
+equity groups and hedge funds, exerting influence or control over health care
+delivery.
+(b) A private equity group or hedge fund involved in any manner with a
+health care facility doing business in this State, including as an investor in a
+health care facility or as an investor or owner of the assets of a health care
+facility, shall not do any of the following with respect to the health care
+facility:
+(1) interfere with the judgment of health care providers in making health
+care decisions, including any of the following:
+(A) determining which diagnostic tests are appropriate for a
+particular condition;
+(B) determining the need for referrals to or consultation with another
+health care provider;
+(C) determining the patient’s care plan, including the treatment
+options available to the patient; and
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.583
+2026 Page 32 of 40
+(D) determining how many patients a health care provider shall see
+in any given period of time or how many hours a health care provider shall
+work; or
+(2) exercise control over, or be delegated the power to do, any of the
+following:
+(A) setting clinical standards or policies, including clinical staffing
+levels;
+(B) controlling or otherwise determining the content of patient
+medical records;
+(C) hiring or firing health care providers, clinical staff, or medical
+assistants, or any combination of these, based in whole or in part on clinical
+competency or proficiency;
+(D) setting the parameters under which a health care provider or
+health care facility shall enter into contractual relationships with third-party
+payers;
+(E) setting the prices, rates, or amounts the health care facility
+charges for a health care provider’s services;
+(F) setting the clinical competency or proficiency parameters under
+which a health care provider shall enter into contractual relationships with
+other health care providers for the delivery of health care services;
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.583
+2026 Page 33 of 40
+(G) making decisions regarding the coding and billing of diagnoses
+and procedures for patient care services; and
+(H) selecting or approving the selection of medical equipment and
+medical supplies for the health care facility.
+(c) A private equity group or hedge fund, or an entity controlled directly in
+whole or in part by a private equity group or hedge fund, shall not enter into
+an agreement or arrangement with a health care facility doing business in this
+State if the agreement or arrangement would enable the person to interfere
+with the ability of health care providers to make health care decisions, as set
+forth in subdivision (b)(1) of this section, or to exercise control over or be
+delegated the powers set forth in subdivision (b)(2) of this section.
+(d)(1) The organizational form of a health care facility as a sole
+proprietorship, partnership, foundation, or corporate entity of any kind shall
+not affect the applicability of this section.
+(2) Nothing in this section shall be construed to prohibit an unlicensed
+individual or entity from providing nonclinical management, administrative, or
+business services to; assisting; or consulting with a health care facility doing
+business in this State with respect to the decisions and activities described in
+subdivision (b)(2) of this section, provided that a licensed health care provider
+retains the ultimate responsibility for or approval of those decisions and
+activities and the services provided do not constitute an exercise of de facto
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.583
+2026 Page 34 of 40
+control over the administrative, business, or clinical operations of a health
+care facility in a manner that affects a health care provider’s clinical decision
+making or the nature or quality of the health care services that the health care
+facility delivers.
+(e) A health care provider who is aggrieved by the actions of a private
+equity group or hedge fund, or an entity controlled directly in whole or in part
+by a private equity group or hedge fund, in violation of this section may bring
+an action in Superior Court for appropriate equitable relief, actual damages,
+reasonable costs, and attorney’s fees.
+§ 9773. REPORTING OF OWNERSHIP AND CONTROL OF CERTAIN
+HEALTH CARE ENTITIES
+(a) On or before July 1, 2026 March 1, 2027, each health care facility and
+each management services organization shall provide to the Green Mountain
+Care Board either:
+(1) for a health care facility or management services organization in
+which one or more private equity groups or hedge funds held an ownership or
+investment interest as of June 1, 2026, the information required by subsection
+(b) of this section; or
+(2) for a health care facility or management services organization in
+which no private equity group or hedge fund held an ownership or investment
+interest as of June 1, 2026, an attestation that the health care facility or
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.583
+2026 Page 35 of 40
+management services organization currently has no private equity or hedge
+fund ownership or investment.
+(b) Each health care facility or management services organization in which
+one or more private equity groups or hedge funds holds an ownership or
+investment interest as of June 1, 2026, shall report the following information to
+the Green Mountain Care Board, in a form and manner required by the Board:
+(1) the name, business address, and business identification numbers for
+each person that, with respect to the relevant health care facility or
+management services organization:
+(A) has an ownership or investment interest;
+(B) has a controlling interest;
+(C) for health care facilities only, is a management services
+organization; or
+(D) is a significant equity investor;
+(2) a current organizational chart showing the business structure of the
+health care facility or management services organization, including:
+(A) any entity listed in subdivision (1) of this subsection (b);
+(B) affiliates, including entities that control or are under common
+control as the health care facility or management services organization; and
+(C) subsidiaries; and
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.583
+2026 Page 36 of 40
+(3) the health care facility’s or management services organization’s
+most recent fiscal year’s profit and loss statement and balance sheet.
+(c) After July 1, 2026 March 1, 2027, a health care facility or management
+services organization shall report the information described in subsection (b)
+of this section any time that:
+(1) a private equity group or hedge fund takes on an ownership or
+investment interest in the health care facility or management services
+organization that had not previously been reported to the Green Mountain
+Care Board in accordance with subsection (b) of this section; or
+(2) there is a modification to a private equity group’s or hedge fund’s
+existing ownership or investment interest in the health care facility or
+management services organization.
+(d) The Green Mountain Care Board shall collaborate with relevant
+stakeholders to develop the processes for reporting data pursuant to this
+section and the Agency of Human Services shall provide relevant, necessary
+data to the Board.
+(d)(e) The following entities are exempt from the reporting requirements set
+forth in this section:
+(1) nursing homes, as defined in 33 V.S.A. § 7102;
+(2) health care staffing companies;
+(3) federally qualified health centers; and
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.583
+2026 Page 37 of 40
+(4) entities whose health care services delivered in Vermont are provided
+exclusively through telehealth, including services delivered using telemedicine
+and store-and-forward means, as those terms are defined in 8 V.S.A. § 4098a,
+and all forms of remote patient monitoring.
+(e)(f) Information provided pursuant to this section shall be public
+information and shall not be considered confidential, proprietary, or a trade
+secret, except that:
+(1) any individual health care provider’s taxpayer ID that is also the
+individual’s Social Security number, and any nonbusiness telephone number,
+email address, physical address, or mailing address of any individual health
+care provider, shall be exempt from public inspection and copying under the
+Public Records Act and shall be kept confidential; and
+(2) all profit and loss statements and balance sheets submitted pursuant
+to subdivision (b)(3) of this section shall be exempt from public inspection and
+copying under the Public Records Act and shall be kept confidential, except
+that the Board shall provide copies of these materials, or the information
+contained in them, to the Office of the Health Care Advocate, which shall not
+further disclose this confidential information.
+(f)(g)(1) A health care facility or management services organization that
+knowingly fails to report the information required by this section is liable to
+the State for a civil penalty of not more than $50.00 for each day, not to exceed
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.583
+2026 Page 38 of 40
+a total of $10,000.00 for each year, that it fails to report the required
+information.
+(2) A health care facility or management services organization that
+makes a material misrepresentation in a report required under this section is
+liable to the State for a civil penalty of not more than $25,000.00 for each
+material misrepresentation included in the report.
+(3) The Attorney General may maintain an action in Superior Court to
+collect the penalties imposed in this subsection and to seek appropriate
+injunctive relief.
+§ 9774. SHARING OF OWNERSHIP INFORMATION TO IMPROVE
+TRANSPARENCY
+(a) On or before February July 1, 2027, and every two years thereafter, the
+Green Mountain Care Board shall post on its website a report regarding the
+information provided to the Board pursuant to section 9773 of this chapter
+during the previous two-year period, including:
+(1) the number of health care facilities and management services
+organizations reporting for such year, disaggregated by the business structure
+of each specified entity;
+(2) the names, addresses, and business structure of any entities with an
+ownership or controlling interest in each health care facility or management
+services organization;
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.583
+2026 Page 39 of 40
+(3) any change in ownership or control for each health care facility or
+management services organization;
+(4) any change in the tax identification number of a health care facility
+or management services organization; and
+(5) as applicable, the name, address, tax identification number, and
+business structure of other affiliates under common control, subsidiaries, and
+management services entities as the health care facility or management
+services organization, including the business type and the tax identification
+number of each.
+(b) Information provided pursuant to this section shall be public
+information and shall not be considered confidential, proprietary, or a trade
+secret; provided, however, that any individual health care provider’s taxpayer
+ID that is also the individual’s Social Security number shall be exempt from
+public inspection and copying under the Public Records Act and shall be kept
+confidential.
+(c) The Green Mountain Care Board may share information reported under
+this chapter with the Attorney General, the Secretary of State, other State
+agencies, and other State officials to reduce or avoid duplication in reporting
+requirements or to facilitate oversight or enforcement pursuant to Vermont law,
+or both, and any tax identification numbers that are individual Social Security
+numbers and other confidential information may be shared with the Attorney
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.583
+2026 Page 40 of 40
+General, other State agencies, and other State officials who agree to maintain
+the confidentiality of such information. The Board may, in consultation with
+the relevant State agencies, merge similar reporting requirements where
+appropriate.
+Sec. 2. EFFECTIVE DATE
+This act shall take effect on July 1, 2026.

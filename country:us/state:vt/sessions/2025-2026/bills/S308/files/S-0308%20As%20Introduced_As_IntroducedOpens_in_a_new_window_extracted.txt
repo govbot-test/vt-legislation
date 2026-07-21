@@ -1,0 +1,62 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED S.308
+2026 Page 1 of 3
+1 S.308
+2 Introduced by Senators Brock, Beck, Chittenden, Ingalls, Mattos, Ram
+3 Hinsdale, Weeks and Westman
+4 Referred to Committee on
+5 Date:
+6 Subject: Taxation; income tax; military retirement
+7 Statement of purpose of bill as introduced: This bill proposes to remove the
+8 income-based eligibility requirements for excluding military retirement income
+9 from income taxation.
+10 An act relating to the military retirement income tax exclusion
+11 It is hereby enacted by the General Assembly of the State of Vermont:
+12 Sec. 1. 32 V.S.A. § 5830e is amended to read:
+13 § 5830e. RETIREMENT INCOME; SOCIAL SECURITY INCOME
+14 * * *
+15 (d) U.S. military retirement income and U.S. military survivor benefit
+16 income. For taxpayers of any filing status, U.S. military retirement income,
+17 and U.S. military survivor benefit income received by an eligible beneficiary,
+18 received by a taxpayer of this State shall be excluded from taxable income
+19 under subdivision 5811(21)(B)(iv) of this chapter as follows:
+VT LEG #385844 v.1
+
+BILL AS INTRODUCED S.308
+2026 Page 2 of 3
+1 (1) If the federal adjusted gross income of the taxpayer is less than or
+2 equal to $125,000.00, all federally taxable U.S. military retirement income and
+3 survivor benefit income shall be excluded.
+4 (2) If the federal adjusted gross income of the taxpayer is greater than
+5 $125,000.00 but less than $175,000.00, the percentage of federally taxable
+6 U.S. military retirement income and survivor benefit income to be excluded
+7 shall be proportional to the amount of the taxpayer’s federal adjusted gross
+8 income over $125,000.00, determined by:
+9 (A) subtracting the federal adjusted gross income of the taxpayer
+10 from $175,000.00;
+11 (B) dividing the value under subdivision (A) of this subdivision (2)
+12 by $50,000.00; and
+13 (C) multiplying the value under subdivision (B) of this subdivision
+14 (2) by the federally taxable U.S. military retirement income and survivor
+15 benefit income received.
+16 (3) If the federal adjusted gross income of the taxpayer is equal to or
+17 greater than $175,000.00, no amount of the federally taxable U.S. military
+18 retirement income and survivor benefit income received shall be excluded
+19 under this section.
+20 * * *
+VT LEG #385844 v.1
+
+BILL AS INTRODUCED S.308
+2026 Page 3 of 3
+1 Sec. 2. EFFECTIVE DATE
+2 Notwithstanding 1 V.S.A. § 214, this act shall take effect retroactively on
+3 January 1, 2026, and apply to taxable years beginning on and after January 1,
+4 2026.
+VT LEG #385844 v.1

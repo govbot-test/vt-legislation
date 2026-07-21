@@ -1,0 +1,343 @@
+Title: 
+Official Title: 
+Source: versions - As Passed by Both House and Senate (UnofficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+AS PASSED BY HOUSE AND SENATE H.583
+2026 Page 1 of 14
+1 H.583
+2 An act relating to clinical decision making
+3 It is hereby enacted by the General Assembly of the State of Vermont:
+4 Sec. 1. 18 V.S.A. chapter 233 is added to read:
+5 CHAPTER 233. CLINICAL DECISION MAKING
+6 § 9771. DEFINITIONS
+7 As used in this chapter:
+8 (1) “Health care facility” has the same meaning as in section 9432 of
+9 this title.
+10 (2) “Health care provider” has the same meaning as in section 9402 of
+11 this title.
+12 (3) “Health care services” has the same meaning as in section 9481 of
+13 this title and includes all of the following:
+14 (A) inpatient; outpatient; habilitative; rehabilitative; dental;
+15 palliative, including hospice; therapeutic; supportive; nursing home; home
+16 health; mental health; and substance use disorder services, provided by a health
+17 care facility;
+18 (B) pharmacy services, including drugs, devices, and medical
+19 supplies;
+20 (C) performance of functions to refer, arrange, and coordinate care;
+21 (D) durable medical equipment, diagnostic equipment, surgical
+22 devices, and infusion equipment; and
+VT LEG #390024 v.1
+
+AS PASSED BY HOUSE AND SENATE H.583
+2026 Page 2 of 14
+1 (E) technology associated with providing the services and equipment
+2 set forth in subdivisions (A)–(D) of this subdivision (3), such as telehealth,
+3 electronic health records, software, claims processing, and utilization systems.
+4 (4) “Health care staffing company” means a person engaged in the
+5 business of providing or procuring health care personnel for temporary
+6 employment or contracting by a health care facility, but does not include an
+7 individual who independently provides the individual’s own services on a
+8 temporary basis to health care facilities as an employee or contractor.
+9 (5)(A) “Hedge fund” means a pool of funds managed by investors for
+10 the purpose of earning a return on those funds, regardless of the strategies used
+11 to manage the funds. Hedge funds include a pool of funds managed or
+12 controlled by private limited partnerships.
+13 (B) “Hedge fund” does not include:
+14 (i) individuals or entities that contribute, or promise to contribute,
+15 funds to a hedge fund but do not participate in the management of the hedge
+16 fund or the fund’s assets or in any change of control of the hedge fund or the
+17 fund’s assets; or
+18 (ii) entities that solely provide or manage debt financing secured
+19 in whole or in part by the assets of a health care facility, including banks, credit
+20 unions, commercial real estate lenders, bond underwriters, and trustees.
+VT LEG #390024 v.1
+
+AS PASSED BY HOUSE AND SENATE H.583
+2026 Page 3 of 14
+1 (6) “Management services organization” means any organization or
+2 entity that contracts with a health care provider or provider organization to
+3 perform management or administrative services relating to, supporting, or
+4 facilitating the provision of health care services.
+5 (7) “Ownership or investment interest” means any of the following:
+6 (A) direct or indirect possession of equity in the capital, stock, or
+7 profits totaling more than five percent of an entity;
+8 (B) interest held by an investor or group of investors who engage in
+9 the raising or returning of capital and who invest, develop, or dispose of
+10 specified assets; or
+11 (C) interest held by a pool of funds by investors, including a pool of
+12 funds managed or controlled by private limited partnerships, if those investors
+13 or the management of that pool or private limited partnership employs
+14 investment strategies of any kind to earn a return on that pool of funds.
+15 (8)(A) “Private equity group” means an investor or group of investors
+16 who primarily engage in the raising or returning of capital and who invest,
+17 develop, dispose of, or purchase any equity interest in assets, either as a parent
+18 company or through another entity the investor or investors completely or
+19 partially own or control.
+20 (B) “Private equity group” does not include individuals or entities
+21 that contribute, or promise to contribute, funds to the private equity group but
+VT LEG #390024 v.1
+
+AS PASSED BY HOUSE AND SENATE H.583
+2026 Page 4 of 14
+1 otherwise do not participate in the management of the private equity group or
+2 the group’s assets, or in any change in control of the private equity group or
+3 the group’s assets.
+4 (9) “Provider organization” means any corporation, partnership,
+5 business trust, association, or organized group of persons that is in the business
+6 of health care delivery or management, whether incorporated or not, that
+7 represents one or more health care providers in contracting with health insurers
+8 for payment for health care services. The term includes physician
+9 organizations, physician-hospital organizations, independent practice
+10 associations, provider networks, accountable care organizations, management
+11 services organizations, and any other organization that contracts with health
+12 insurers for payment for health care services.
+13 (10) “Significant equity investor” means:
+14 (A) any private equity group with a direct or indirect ownership or
+15 investment interest in a health care facility or management services
+16 organization;
+17 (B) an investor, group of investors, or other entity with a direct or
+18 indirect possession of equity in the capital, stock, or profits totaling more than
+19 10 percent of a health care provider or provider organization; or
+20 (C) any private equity group, investor, group of investors, or other
+21 entity with a direct or indirect controlling interest in a health care facility or
+VT LEG #390024 v.1
+
+AS PASSED BY HOUSE AND SENATE H.583
+2026 Page 5 of 14
+1 management services organization or that operates the business or substantially
+2 all the real or personal property, or both, of a health care facility or
+3 management services organization under a lease, management, or operating
+4 agreement.
+5 § 9772. LIMITATIONS ON CONTROL OVER CLINICAL DECISION
+6 MAKING BY PRIVATE EQUITY GROUP OR HEDGE FUND
+7 (a) The purpose of this section is to ensure that clinical decision making
+8 and treatment decisions are exclusively in the hands of health care providers
+9 and to safeguard against nonlicensed individuals or entities, such as private
+10 equity groups and hedge funds, exerting influence or control over health care
+11 delivery.
+12 (b) A private equity group or hedge fund involved in any manner with a
+13 health care facility doing business in this State, including as an investor in a
+14 health care facility or as an investor or owner of the assets of a health care
+15 facility, shall not do any of the following with respect to the health care
+16 facility:
+17 (1) interfere with the judgment of health care providers in making health
+18 care decisions, including any of the following:
+19 (A) determining which diagnostic tests are appropriate for a
+20 particular condition;
+VT LEG #390024 v.1
+
+AS PASSED BY HOUSE AND SENATE H.583
+2026 Page 6 of 14
+1 (B) determining the need for referrals to or consultation with another
+2 health care provider;
+3 (C) determining the patient’s care plan, including the treatment
+4 options available to the patient; and
+5 (D) determining how many patients a health care provider shall see in
+6 any given period of time or how many hours a health care provider shall work;
+7 or
+8 (2) exercise control over, or be delegated the power to do, any of the
+9 following:
+10 (A) setting clinical standards or policies, including clinical staffing
+11 levels;
+12 (B) controlling or otherwise determining the content of patient
+13 medical records;
+14 (C) hiring or firing health care providers, clinical staff, or medical
+15 assistants, or any combination of these, based in whole or in part on clinical
+16 competency or proficiency;
+17 (D) setting the parameters under which a health care provider or
+18 health care facility shall enter into contractual relationships with third-party
+19 payers;
+20 (E) setting the prices, rates, or amounts the health care facility
+21 charges for a health care provider’s services;
+VT LEG #390024 v.1
+
+AS PASSED BY HOUSE AND SENATE H.583
+2026 Page 7 of 14
+1 (F) setting the clinical competency or proficiency parameters under
+2 which a health care provider shall enter into contractual relationships with
+3 other health care providers for the delivery of health care services;
+4 (G) making decisions regarding the coding and billing of diagnoses
+5 and procedures for patient care services; and
+6 (H) selecting or approving the selection of medical equipment and
+7 medical supplies for the health care facility.
+8 (c) A private equity group or hedge fund, or an entity controlled directly in
+9 whole or in part by a private equity group or hedge fund, shall not enter into an
+10 agreement or arrangement with a health care facility doing business in this
+11 State if the agreement or arrangement would enable the person to interfere with
+12 the ability of health care providers to make health care decisions, as set forth in
+13 subdivision (b)(1) of this section, or to exercise control over or be delegated
+14 the powers set forth in subdivision (b)(2) of this section.
+15 (d)(1) The organizational form of a health care facility as a sole
+16 proprietorship, partnership, foundation, or corporate entity of any kind shall
+17 not affect the applicability of this section.
+18 (2) Nothing in this section shall be construed to prohibit an unlicensed
+19 individual or entity from providing nonclinical management, administrative, or
+20 business services to; assisting; or consulting with a health care facility doing
+21 business in this State with respect to the decisions and activities described in
+VT LEG #390024 v.1
+
+AS PASSED BY HOUSE AND SENATE H.583
+2026 Page 8 of 14
+1 subdivision (b)(2) of this section, provided that a licensed health care provider
+2 retains the ultimate responsibility for or approval of those decisions and
+3 activities and the services provided do not constitute an exercise of de facto
+4 control over the administrative, business, or clinical operations of a health care
+5 facility in a manner that affects a health care provider’s clinical decision
+6 making or the nature or quality of the health care services that the health care
+7 facility delivers.
+8 (e) A health care provider who is aggrieved by the actions of a private
+9 equity group or hedge fund, or an entity controlled directly in whole or in part
+10 by a private equity group or hedge fund, in violation of this section may bring
+11 an action in Superior Court for appropriate equitable relief, actual damages,
+12 reasonable costs, and attorney’s fees.
+13 § 9773. REPORTING OF OWNERSHIP AND CONTROL OF CERTAIN
+14 HEALTH CARE ENTITIES
+15 (a) On or before March 1, 2027, each health care facility and each
+16 management services organization shall provide to the Green Mountain Care
+17 Board either:
+18 (1) for a health care facility or management services organization in
+19 which one or more private equity groups or hedge funds held an ownership or
+20 investment interest as of June 1, 2026, the information required by subsection
+21 (b) of this section; or
+VT LEG #390024 v.1
+
+AS PASSED BY HOUSE AND SENATE H.583
+2026 Page 9 of 14
+1 (2) for a health care facility or management services organization in
+2 which no private equity group or hedge fund held an ownership or investment
+3 interest as of June 1, 2026, an attestation that the health care facility or
+4 management services organization currently has no private equity or hedge
+5 fund ownership or investment.
+6 (b) Each health care facility or management services organization in which
+7 one or more private equity groups or hedge funds holds an ownership or
+8 investment interest as of June 1, 2026, shall report the following information to
+9 the Green Mountain Care Board, in a form and manner required by the Board:
+10 (1) the name, business address, and business identification numbers for
+11 each person that, with respect to the relevant health care facility or
+12 management services organization:
+13 (A) has an ownership or investment interest;
+14 (B) has a controlling interest;
+15 (C) for health care facilities only, is a management services
+16 organization; or
+17 (D) is a significant equity investor;
+18 (2) a current organizational chart showing the business structure of the
+19 health care facility or management services organization, including:
+VT LEG #390024 v.1
+
+AS PASSED BY HOUSE AND SENATE H.583
+2026 Page 10 of 14
+1 (A) any entity listed in subdivision (1) of this subsection (b);
+2 (B) affiliates, including entities that control or are under common
+3 control as the health care facility or management services organization; and
+4 (C) subsidiaries; and
+5 (3) the health care facility’s or management services organization’s most
+6 recent fiscal year’s profit and loss statement and balance sheet.
+7 (c) After March 1, 2027, a health care facility or management services
+8 organization shall report the information described in subsection (b) of this
+9 section any time that:
+10 (1) a private equity group or hedge fund takes on an ownership or
+11 investment interest in the health care facility or management services
+12 organization that had not previously been reported to the Green Mountain Care
+13 Board in accordance with subsection (b) of this section; or
+14 (2) there is a modification to a private equity group’s or hedge fund’s
+15 existing ownership or investment interest in the health care facility or
+16 management services organization.
+17 (d) The Green Mountain Care Board shall collaborate with relevant
+18 stakeholders to develop the processes for reporting data pursuant to this section
+19 and the Agency of Human Services shall provide relevant, necessary data to
+20 the Board.
+VT LEG #390024 v.1
+
+AS PASSED BY HOUSE AND SENATE H.583
+2026 Page 11 of 14
+1 (e) The following entities are exempt from the reporting requirements set
+2 forth in this section:
+3 (1) nursing homes, as defined in 33 V.S.A. § 7102;
+4 (2) health care staffing companies;
+5 (3) federally qualified health centers; and
+6 (4) entities whose health care services delivered in Vermont are
+7 provided exclusively through telehealth, including services delivered using
+8 telemedicine and store-and-forward means, as those terms are defined in
+9 8 V.S.A. § 4098a, and all forms of remote patient monitoring.
+10 (f) Information provided pursuant to this section shall be public
+11 information and shall not be considered confidential, proprietary, or a trade
+12 secret, except that:
+13 (1) any individual health care provider’s taxpayer ID that is also the
+14 individual’s Social Security number, and any nonbusiness telephone number,
+15 email address, physical address, or mailing address of any individual health
+16 care provider, shall be exempt from public inspection and copying under the
+17 Public Records Act and shall be kept confidential; and
+18 (2) all profit and loss statements and balance sheets submitted pursuant
+19 to subdivision (b)(3) of this section shall be exempt from public inspection and
+20 copying under the Public Records Act and shall be kept confidential, except
+21 that the Board shall provide copies of these materials, or the information
+VT LEG #390024 v.1
+
+AS PASSED BY HOUSE AND SENATE H.583
+2026 Page 12 of 14
+1 contained in them, to the Office of the Health Care Advocate, which shall not
+2 further disclose this confidential information.
+3 (g)(1) A health care facility or management services organization that
+4 knowingly fails to report the information required by this section is liable to
+5 the State for a civil penalty of not more than $50.00 for each day, not to exceed
+6 a total of $10,000.00 for each year, that it fails to report the required
+7 information.
+8 (2) A health care facility or management services organization that
+9 makes a material misrepresentation in a report required under this section is
+10 liable to the State for a civil penalty of not more than $25,000.00 for each
+11 material misrepresentation included in the report.
+12 (3) The Attorney General may maintain an action in Superior Court to
+13 collect the penalties imposed in this subsection and to seek appropriate
+14 injunctive relief.
+15 § 9774. SHARING OF OWNERSHIP INFORMATION TO IMPROVE
+16 TRANSPARENCY
+17 (a) On or before July 1, 2027, and every two years thereafter, the Green
+18 Mountain Care Board shall post on its website a report regarding the
+19 information provided to the Board pursuant to section 9773 of this chapter
+20 during the previous two-year period, including:
+VT LEG #390024 v.1
+
+AS PASSED BY HOUSE AND SENATE H.583
+2026 Page 13 of 14
+1 (1) the number of health care facilities and management services
+2 organizations reporting for such year, disaggregated by the business structure
+3 of each specified entity;
+4 (2) the names, addresses, and business structure of any entities with an
+5 ownership or controlling interest in each health care facility or management
+6 services organization;
+7 (3) any change in ownership or control for each health care facility or
+8 management services organization;
+9 (4) any change in the tax identification number of a health care facility
+10 or management services organization; and
+11 (5) as applicable, the name, address, tax identification number, and
+12 business structure of other affiliates under common control, subsidiaries, and
+13 management services entities as the health care facility or management
+14 services organization, including the business type and the tax identification
+15 number of each.
+16 (b) Information provided pursuant to this section shall be public
+17 information and shall not be considered confidential, proprietary, or a trade
+18 secret; provided, however, that any individual health care provider’s taxpayer
+19 ID that is also the individual’s Social Security number shall be exempt from
+20 public inspection and copying under the Public Records Act and shall be kept
+21 confidential.
+VT LEG #390024 v.1
+
+AS PASSED BY HOUSE AND SENATE H.583
+2026 Page 14 of 14
+1 (c) The Green Mountain Care Board may share information reported under
+2 this chapter with the Attorney General, the Secretary of State, other State
+3 agencies, and other State officials to reduce or avoid duplication in reporting
+4 requirements or to facilitate oversight or enforcement pursuant to Vermont
+5 law, or both, and any tax identification numbers that are individual Social
+6 Security numbers and other confidential information may be shared with the
+7 Attorney General, other State agencies, and other State officials who agree to
+8 maintain the confidentiality of such information. The Board may, in
+9 consultation with the relevant State agencies, merge similar reporting
+10 requirements where appropriate.
+11 Sec. 2. EFFECTIVE DATE
+12 This act shall take effect on July 1, 2026.
+VT LEG #390024 v.1

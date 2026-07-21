@@ -1,0 +1,17 @@
+Title: 
+Official Title: 
+Source: versions - House Proposal of Amendment (OfficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House Proposal of Amendment
+S. 181
+An act relating to eliminating the requirement for a presentence
+investigation for imposition of a deferred sentence
+The House proposes to the Senate to amend the bill in Sec. 1, 13 V.S.A.
+§ 7041, by inserting a new subdivision to be subdivision (a)(3) to read as
+follows:
+(3) If the offense is not a listed crime as provided in subdivision 5301(7)
+of this title, the court may, at its discretion, order a presentence investigation.

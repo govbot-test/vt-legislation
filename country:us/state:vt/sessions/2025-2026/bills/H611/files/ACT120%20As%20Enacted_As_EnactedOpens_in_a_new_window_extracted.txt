@@ -1,0 +1,331 @@
+Title: 
+Official Title: 
+Source: versions - As EnactedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+No. 120 Page 1 of 13
+2026
+No. 120. An act relating to miscellaneous provisions affecting the
+Department of Vermont Health Access.
+(H.611)
+It is hereby enacted by the General Assembly of the State of Vermont:
+Sec. 1. 18 V.S.A. § 4635 is amended to read:
+§ 4635. PRESCRIPTION DRUG COST TRANSPARENCY
+(a) As used in this section:
+(1) “Health insurer” means a health insurer, as defined in section 9402
+of this title, with more than 5,000 covered lives in this State for major medical
+health insurance, as defined in 8 V.S.A. § 4011. The term does not include
+Vermont Medicaid.
+(2) “Manufacturer” shall have has the same meaning as “pharmaceutical
+manufacturer” in section 4631a of this title.
+(2)(3) “Prescription drug” means a drug as defined in 21 U.S.C. § 321.
+(b)(1)(A) The Department of Vermont Health Access shall create annually
+a list of 10 prescription drugs on which the State spends significant health care
+dollars and for which the wholesale acquisition cost has increased by 50
+percent or more over the past five years or by 15 percent or more during the
+previous calendar year, creating a substantial public interest in understanding
+the development of the drugs’ pricing. The list shall include at least one
+generic and one brand-name drug and shall indicate each of the drugs on the
+list that the Department considers to be specialty drugs. The Department shall
+include the percentage of the wholesale acquisition cost increase for each drug
+VT LEG #390165 v.1
+
+No. 120 Page 2 of 13
+2026
+on the list; rank the drugs on the list from those with the largest increase in
+wholesale acquisition cost to those with the smallest increase; indicate whether
+each drug was included on the list based on its cost increase over the past five
+years or during the previous calendar year, or both; and provide the
+Department’s total expenditure for each drug on the list during the most recent
+calendar year.
+(B) The Department of Vermont Health Access shall create annually
+a list of 10 prescription drugs on which the State spends significant health care
+dollars and for which the cost to the Department of Vermont Health Access,
+net of rebates and other price concessions, has increased by 50 percent or more
+over the past five years or by 15 percent or more during the previous calendar
+year, creating a substantial public interest in understanding the development of
+the drugs’ pricing. The list shall include at least one generic and one brand-
+name drug and shall indicate each of the drugs on the list that the Department
+considers to be specialty drugs. The Department shall rank the drugs on the
+list from those with the greatest increase in net cost to those with the smallest
+increase and indicate whether each drug was included on the list based on its
+cost increase over the past five years or during the previous calendar year, or
+both.
+(C)(i) Each health insurer with more than 5,000 covered lives in this
+State for major medical health insurance shall create annually a list of 10
+prescription drugs on which its health insurance plans spend significant
+VT LEG #390165 v.1
+
+No. 120 Page 3 of 13
+2026
+amounts of their premium dollars and for which the cost to the plans, net of
+rebates and other price concessions, has increased by 50 percent or more over
+the past five years or by 15 percent or more during the previous calendar year,
+or both, creating a substantial public interest in understanding the development
+of the drugs’ pricing. The list shall include at least one generic and one brand-
+name drug and shall indicate each of the drugs on the list that the health insurer
+considers to be specialty drugs. The health insurer shall rank the drugs on the
+list from those with the greatest increase in net cost to those with the smallest
+increase and indicate whether each drug was included on the list based on its
+cost increase over the past five years or during the previous calendar year, or
+both.
+(ii)(B) Each health insurer creating a list pursuant to subdivision
+(i)(A) of this subdivision (b)(1)(C) shall provide to the Office of the Attorney
+General the percentage by which the net cost to its plans increased over the
+applicable period or periods for each drug on the list, as well as the insurer’s
+total expenditure, net of rebates and other price concessions, for each drug on
+the list during the most recent calendar year. Information provided to the
+Office of the Attorney General pursuant to this subdivision (b)(1)(C)(ii)(B) is
+exempt from public inspection and copying under the Public Records Act and
+shall not be released.
+(2) The Department of Vermont Health Access and the health insurers
+shall provide to the Office of the Attorney General and the Green Mountain
+VT LEG #390165 v.1
+
+No. 120 Page 4 of 13
+2026
+Care Board the lists of prescription drugs developed pursuant to subdivisions
+(1)(A), (B), and (C)(i) subdivision (1) of this subsection annually on or before
+June 1. The Office of the Attorney General and the Green Mountain Care
+Board shall make all of the information available to the public on their
+respective websites.
+(c)(1)(A) Of the prescription drugs listed by the Department of Vermont
+Health Access and the health insurers pursuant to subdivisions (b)(1)(B) and
+(C) subdivision (b)(1) of this section, the Office of the Attorney General shall
+identify 15 drugs as follows:
+(i) of the drugs appearing on more than one payer’s list, the Office
+of the Attorney General shall identify the top 15 drugs on which the greatest
+amount of money was spent across all payers during the previous calendar
+year, to the extent information is available; and
+(ii) if fewer than 15 drugs appear on more than one payer’s list,
+the Office of the Attorney General shall rank the remaining drugs based on the
+amount of money spent by any one payer during the previous calendar year, in
+descending order, and select as many of the drugs at the top of the list as
+necessary to reach a total of 15 drugs.
+(B) For the 15 drugs identified by the Office of the Attorney General
+pursuant to subdivision (A) of this subdivision (c)(1), the Office of the
+Attorney General shall require the manufacturer of each such drug to provide
+all of the following:
+VT LEG #390165 v.1
+
+No. 120 Page 5 of 13
+2026
+(i) Justification for the increase in the net cost of the drug to the
+Department of Vermont Health Access, to one or more health insurers, or both,
+which shall be provided to the Office of the Attorney General in a format that
+the Office of the Attorney General determines to be understandable and
+appropriate and shall be provided in accordance with a timeline specified by
+the Office of the Attorney General. The manufacturer shall submit to the
+Office of the Attorney General all relevant information and supporting
+documentation necessary to justify the manufacturer’s net cost increase to the
+Department of Vermont Health Access, to one or more health insurers, or both
+during the identified period of time, including:
+(I) each factor that specifically caused the net cost increase to
+the Department of Vermont Health Access, to one or more health insurers, or
+both during the specified period of time;
+* * *
+Sec. 2. 18 V.S.A. § 4682 is amended to read:
+§ 4682. DISCRIMINATION AGAINST 340B ENTITIES PROHIBITED
+* * *
+(b) A manufacturer or its agent shall not directly or indirectly require a
+340B covered entity to submit any claims, utilization, encounter, purchase, or
+other data as a condition for allowing the acquisition of a 340B drug by or
+delivery of a 340B drug to a 340B contract pharmacy or a 340B covered entity
+VT LEG #390165 v.1
+
+No. 120 Page 6 of 13
+2026
+unless the claims or utilization data sharing is required by the U.S. Department
+of Health and Human Services.
+* * *
+(d) A manufacturer or its agent shall offer or otherwise make available
+340B drug pricing to a 340B covered entity or 340B contract pharmacy in the
+form of a discount at the time of purchase and shall not offer or otherwise
+make available 340B drug pricing in the form of a rebate. [Repealed.]
+Sec. 3. 33 V.S.A. § 402 is amended to read:
+§ 402. MEDICAID AND EXCHANGE ADVISORY COMMITTEE
+(a) A The Medicaid and Exchange Advisory Committee is created for the
+purpose of advising the Commissioner of Vermont Health Access with respect
+to policy development and program administration for the Vermont Health
+Benefit Exchange, Medicaid, and Medicaid-funded programs, consistent with
+the requirements of federal law.
+(b)(1) The Commissioner of Vermont Health Access shall appoint
+members of the Advisory Committee established by this section, who shall
+serve staggered three-year terms. The total membership of the Advisory
+Committee shall be at least 22 members and shall include individuals who are
+also members of the Beneficiary Advisory Committee, as required by 42
+C.F.R. § 431.12. The Commissioner may remove members of the Committee
+who fail to attend three consecutive meetings and may appoint replacements.
+The Commissioner may reappoint members to serve more than one term.
+VT LEG #390165 v.1
+
+No. 120 Page 7 of 13
+2026
+(2)(A) The Commissioner of Vermont Health Access shall appoint one
+representative of health insurers licensed to do business in Vermont to serve on
+the Advisory Committee. The Commissioner of Health shall also serve on the
+Advisory Committee.
+(B) Of the remaining members of the Advisory Committee, one-
+quarter of the members shall be from each of the following constituencies:
+(i) beneficiaries of Medicaid or Medicaid-funded programs;
+(ii) representatives of those eligible for or enrolled in qualified
+health plans, such as individuals, self-employed individuals, health insurance
+brokers and agents, and representatives of businesses eligible for or enrolled in
+the Vermont Health Benefit Exchange small business owners and employees;
+(iii) advocates for consumer organizations; and
+(iv) health care professionals and representatives from a broad
+range of health care professionals.
+* * *
+Sec. 4. 33 V.S.A. § 1813 is amended to read:
+§ 1813. REFLECTIVE HEALTH BENEFIT PLANS
+(a)(1) In the event that federal cost-sharing reduction payments to insurers
+are suspended or discontinued, registered carriers may offer to individuals and
+employees of small employers nonqualified reflective health benefit plans that
+do not include funding to offset the loss of the federal cost-sharing reduction
+payments. These plans shall be similar to, but contain at least one variation
+VT LEG #390165 v.1
+
+No. 120 Page 8 of 13
+2026
+from, qualified health benefit plans offered through the Vermont Health
+Benefit Exchange that include funding to offset the loss of the federal cost-
+sharing reduction payments.
+* * *
+Sec. 5. 33 V.S.A. § 2031 is amended to read:
+§ 2031. CREATION OF CLINICAL UTILIZATION REVIEW BOARD
+(a) No later than June 15, 2010, the The Department of Vermont Health
+Access shall create a maintain the Clinical Utilization Review Board to
+examine existing medical services, emerging technologies, and relevant
+evidence-based clinical practice guidelines and make recommendations to the
+Department regarding coverage, unit limitations, place of service, and
+appropriate medical necessity of services in the State’s Medicaid programs.
+(b) The Board shall comprise a minimum of 10 members with diverse
+medical experience, to be appointed by the Governor upon recommendation of
+the Commissioner of Vermont Health Access. The Board shall solicit
+additional input as needed from individuals with expertise in areas of relevance
+to the Board’s deliberations. The Chief Medical Director Officer of the
+Department of Vermont Health Access shall serve as the State’s liaison to the
+Board. Board member terms shall may be staggered, but in no event longer
+than three years from the date of appointment. The and the Board shall meet at
+least quarterly, provided that the Board shall meet no less frequently than once
+per month for the first six months following its formation.
+VT LEG #390165 v.1
+
+No. 120 Page 9 of 13
+2026
+* * *
+Sec. 6. 33 V.S.A. § 2072 is amended to read:
+§ 2072. GENERAL ELIGIBILITY
+(a) An individual shall be eligible for assistance under this subchapter if the
+individual:
+(1) is a resident of Vermont at the time of application for benefits;
+(2) is at least 65 years of age or is an individual with disabilities as
+defined in subdivision 2071(1) of this title; and
+(3) has a household income, when calculated using modified adjusted
+gross income as defined in 26 U.S.C. § 36B(d)(2)(B), no not greater than 225
+percent of the federal poverty level.
+* * *
+Sec. 7. INCREASE TO PREPAID BURIAL ARRANGEMENTS FOR
+MEDICAID ELIGIBILITY PURPOSES; RULEMAKING
+(a) Subject to approval from the Centers for Medicare and Medicaid
+Services, the Agency of Human Services shall amend its rules and procedures
+allowing Medicaid applicants and recipients to preserve monies for funeral and
+burial expenses to increase from $10,000.00 to $15,000.00 the limit on the
+amount that may be preserved through an irrevocable prepaid funeral
+arrangement, as described in 26 V.S.A. § 1271, provided that:
+(1) the written contract for the arrangement, as described in 26 V.S.A.
+§ 1273, includes a provision specifying that Vermont Medicaid shall receive
+VT LEG #390165 v.1
+
+No. 120 Page 10 of 13
+2026
+all amounts remaining after payment of the deceased individual’s expenses up
+to an amount equal to the total Medicaid amount paid on behalf of the
+deceased individual; and
+(2) in the event that the person responsible for making the funeral
+arrangements for the deceased individual fails to have funeral services
+provided, after the retention of assets by the funeral director as set forth in
+26 V.S.A. § 1274(c), Vermont Medicaid shall receive all amounts remaining
+up to an amount equal to the total Medicaid amount paid on behalf of the
+deceased individual.
+(b) Subject to approval from the Centers for Medicare and Medicaid
+Services, the Agency’s amended rules and procedures shall apply to prepaid
+funeral arrangements entered into on or after July 1, 2027.
+Sec. 8. 2025 Acts and Resolves No. 50, Sec. 7 is amended to read:
+Sec. 7. STATE PLAN AMENDMENT
+Not later than July 1, 2026 2027, the Department of Vermont Health Access
+shall seek a state plan amendment from the Centers for Medicare and Medicaid
+Services to allow Vermont’s Medicaid program to provide coverage for doula
+services in accordance with 33 V.S.A. § 1901n, as added by this act.
+Sec. 9. 2025 Acts and Resolves No. 50, Sec. 8 is amended to read:
+Sec. 8. EFFECTIVE DATES
+(a) Secs. 1–4 (establishing certification program for community-based
+perinatal doulas) shall take effect on July 1, 2026 2027, provided that the
+VT LEG #390165 v.1
+
+No. 120 Page 11 of 13
+2026
+Director of the Office of Professional Regulation shall commence the
+rulemaking process prior to that date in order to ensure that the rules will be in
+effect on July 1, 2026 2027.
+(b) Sec. 5 (33 V.S.A. § 1901n; Medicaid coverage for doula services) shall
+take effect on the later of July 1, 2026 2027, or approval of the state plan
+amendment requested pursuant to Sec. 7 of this act.
+(c) The remaining sections shall take effect on passage.
+Sec. 10. 8 V.S.A. § 4077 is amended to read:
+§ 4077. REPRODUCTIVE HEALTH CARE SERVICES
+* * *
+(h)(1) As used in this subsection:
+(A) “HIV prevention drug” means any preexposure prophylaxis drug
+or postexposure prophylaxis drug, including oral and long-acting injectable
+formulations, that is approved by the FDA for HIV prevention or that is
+otherwise authorized for HIV prevention pursuant to FDA labeling or federal
+clinical guidelines.
+(B) “Supportive health service” means any health service that is
+necessary to monitor a patient to ensure the safe and effective ongoing use of
+an HIV prevention drug and includes:
+(i) an office visit;
+(ii) laboratory testing;
+(iii) testing for a sexually transmitted infection;
+VT LEG #390165 v.1
+
+No. 120 Page 12 of 13
+2026
+(iv) medication self-management and adherence counseling;
+(v) patient education and counseling by the patient’s health care
+provider regarding the appropriate use of the HIV prevention drug; and
+(vi) any other health services that are components of
+comprehensive HIV prevention drug services as determined by the patient’s
+health care provider.
+(2) A health insurance plan shall provide coverage for HIV preexposure
+prophylaxis drugs as recommended by the U.S. Preventive Services Task
+Force as of August 22, 2023. This coverage shall be provided without any
+deductible, coinsurance, co-payment, or other cost-sharing requirement, except
+to the extent that such coverage would disqualify a high-deductible health plan
+from eligibility for a health savings account pursuant to 26 U.S.C. § 223.
+(3) Medicaid and any other public health care assistance program
+offered or administered by the State or by any subdivision or instrumentality of
+the State, except for any program funded in whole or in part by federal grants
+that include prohibitions on coverage of HIV prevention drugs, shall provide
+coverage of HIV prevention drugs and supportive health services and shall:
+(A) not require any cost sharing, including co-payments;
+(B) provide coverage without requiring prior authorization or any
+other protocol that may restrict or delay dispensing for at least one FDA-
+approved drug in each category of preexposure and postexposure prophylaxis
+drugs; and
+VT LEG #390165 v.1
+
+No. 120 Page 13 of 13
+2026
+(C) not deny coverage based on the type of health care professional
+issuing the prescription for any HIV prevention drug for which Medicaid does
+not require prior authorization, provided the health care professional is acting
+within the professional’s authorized scope of practice and is enrolled as a
+participating provider in Vermont Medicaid.
+Sec. 11. EFFECTIVE DATE
+This act shall take effect on passage.
+Date Governor signed bill: June 8, 2026
+VT LEG #390165 v.1

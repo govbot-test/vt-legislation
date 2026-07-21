@@ -1,0 +1,360 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.613
+2026 Page 1 of 15
+1 H.613
+2 Introduced by Representatives Bos-Lun of Westminster, Berbeco of Winooski,
+3 Burrows of West Windsor, Carris Duncan of Whitingham, Cina
+4 of Burlington, Cole of Hartford, Dodge of Essex, Donahue of
+5 Northfield, Goldman of Rockingham, Headrick of Burlington,
+6 Howard of Rutland City, Logan of Burlington, McCann of
+7 Montpelier, McGill of Bridport, Mrowicki of Putney, Olson of
+8 Starksboro, Pezzo of Colchester, Pouech of Hinesburg, and
+9 Rachelson of Burlington
+10 Referred to Committee on
+11 Date:
+12 Subject: Law enforcement; victims; mental health; ethics; training
+13 Statement of purpose of bill as introduced: This bill proposes to treat victims
+14 of officer-involved shootings of an individual experiencing a mental health
+15 crisis as crime victims with greater access to victims’ services and
+16 compensation. This bill further proposes to authorize the Center for Crime
+17 Victim Services to hire independent victim guardians to advocate for victims
+18 and coordinate with the Department of State’s Attorneys and Sheriffs. This
+19 bill also proposes to mandate mental health crisis training as part of the
+20 Vermont Criminal Justice Council’s law enforcement officer certification and
+21 training requirements. Finally, this bill proposes to incorporate mental health
+VT LEG #385372 v.2
+
+BILL AS INTRODUCED H.613
+2026 Page 2 of 15
+1 crisis de-escalation techniques into the Vermont Criminal Justice Council’s use
+2 of force policy.
+3 An act relating to victims of officer-involved shootings of an individual
+4 experiencing a mental health crisis
+5 It is hereby enacted by the General Assembly of the State of Vermont:
+6 Sec. 1. 13 V.S.A. § 5301 is amended to read:
+7 § 5301. DEFINITIONS
+8 As used in this chapter:
+9 (1) “Disposition” means the sentencing or determination of penalty or
+10 punishment to be imposed upon a person convicted of a crime or against whom
+11 a finding of sufficient facts for conviction is made.
+12 (2) “Family member” means a spouse, child, sibling, parent, next of kin,
+13 domestic partner, or legal guardian of a victim.
+14 (3) “Restitution” means money or services that a court orders a
+15 defendant to pay or render to a victim as a part of the disposition.
+16 (4) “Victim” means a person who sustains physical, emotional, or
+17 financial injury or death as a direct result of the commission or attempted
+18 commission of a crime, or act of delinquency, or officer-involved shooting of
+19 an individual experiencing a mental health crisis and shall also include
+VT LEG #385372 v.2
+
+BILL AS INTRODUCED H.613
+2026 Page 3 of 15
+1 includes the family members of a minor, a person who has been found to be
+2 incompetent, or a homicide victim.
+3 (5) “Affected person” means any of the following persons who has
+4 requested notification in writing from the court or the Department of
+5 Corrections:
+6 (A) witnesses;
+7 (B) jurors;
+8 (C) family members who are not covered by subdivision (4) of this
+9 section; or
+10 (D) any other persons who demonstrate to the court that the release or
+11 escape of a defendant will constitute a threat of physical, emotional, or
+12 financial injury or death.
+13 * * *
+14 (8) “Officer-involved shooting” means a law enforcement officer who
+15 discharges a firearm in the performance of the officer’s duties.
+16 Sec. 2. 13 V.S.A. § 5351 is amended to read:
+17 § 5351. DEFINITIONS
+18 As used in this chapter:
+19 (1) “Board” means the Victims Compensation Board established under
+20 this chapter.
+VT LEG #385372 v.2
+
+BILL AS INTRODUCED H.613
+2026 Page 4 of 15
+1 (2) “Dependent” means the victim’s spouse, domestic partner, or a
+2 person who is legally dependent for support upon a victim. To qualify as a
+3 domestic partner, a couple shall share a residence for at least six months prior
+4 to applying, be 18 years of age or older, not be married to anyone, and not be
+5 related by blood closer than would bar marriage under State law.
+6 (3) “Crime” includes delinquent acts and an act of terrorism, as defined
+7 in 18 U.S.C. § 2331, committed outside the United States against a resident of
+8 this State.
+9 (4) “Injury” means actual bodily harm or pregnancy, or emotional harm
+10 resulting from the crime.
+11 (5) “Pecuniary loss” means, in the case of a victim, the amount of
+12 medical or medically related expenses, loss of wages, property damage,
+13 cleanup of biological or hazardous materials or fluids, and any other expenses
+14 that the Board feels became necessary as a direct result of the crime. Medical
+15 or medically related expenses may include, but are not limited to, the costs of
+16 individual or family psychological, psychiatric, or mental health counseling
+17 and the costs of replacing or repairing eyeglasses, hearing aids, dentures, or
+18 any prosthetic devices that were taken, lost, or destroyed during the
+19 commission of the crime. In the case of a dependent, “pecuniary loss” means
+20 the cost of psychological, psychiatric, or mental health counseling, funeral
+21 expenses for the victim, property damage, cleanup of biological or hazardous
+VT LEG #385372 v.2
+
+BILL AS INTRODUCED H.613
+2026 Page 5 of 15
+1 materials, and, upon demonstration of financial hardship, temporary living
+2 expenses.
+3 (6) “Unreimbursed pecuniary loss” means a pecuniary loss:
+4 (A) that is not covered by medical, hospitalization, or disability
+5 insurance or workers’ compensation; and
+6 (B) that has not been ordered by the court to be restored to the victim
+7 or dependent by the person who caused the loss; or
+8 (C) that has been ordered by the court to be restored to the victim or
+9 dependent but has not been paid by the person who caused the loss.
+10 (7) “Victim” means:
+11 (A) a person who sustains injury or death as a direct result of the
+12 commission or attempted commission of a crime or officer-involved shooting
+13 of an individual experiencing a mental health crisis;
+14 (B) an intervenor who is physically injured or killed in an attempt to
+15 assist the person described in subdivision (A) of this subdivision (7) or a
+16 protected professional as defined in subdivision 1028(d)(1) of this title;
+17 (C) a surviving immediate family member of a homicide victim or
+18 the victim of an officer-involved shooting of an individual experiencing a
+19 mental health crisis, including a spouse, domestic partner, parent, sibling,
+20 child, grandparent, or other survivor who may suffer severe emotional harm as
+VT LEG #385372 v.2
+
+BILL AS INTRODUCED H.613
+2026 Page 6 of 15
+1 a result of the victim’s death as determined on a case-by-case basis in the
+2 discretion of the Board; or
+3 (D) a resident of this State who is injured or killed as the result of a
+4 crime or officer-involved shooting of an individual experiencing a mental
+5 health crisis committed outside the United States.
+6 (8) “Profits from crimes” means:
+7 (A) any property obtained through or income generated from the
+8 commission of a crime in for which the defendant was convicted;
+9 (B) any property obtained by or income generated from the sale,
+10 conversion, or exchange of proceeds of a crime, including any gain realized by
+11 such sale, conversion, or exchange;
+12 (C) any property that the defendant obtained or any income generated
+13 as a result of having committed the crime, including any assets obtained
+14 through the use of unique knowledge acquired during the commission of or in
+15 preparation for the commission of the crime, as well as any property obtained
+16 or income generated from the sale, conversion, or exchange of such property
+17 and any gain realized by such sale, conversion, or exchange; and
+18 (D) any property that the defendant obtained or any income generated
+19 from the sale of tangible property the value of which is increased by the
+20 notoriety gained from the conviction commission of an offense by the person
+21 accused or convicted of the crime.
+VT LEG #385372 v.2
+
+BILL AS INTRODUCED H.613
+2026 Page 7 of 15
+1 (9) “Officer-involved shooting” has the same meaning as in subdivision
+2 5301(8) of this title.
+3 Sec. 3. 13 V.S.A. § 5353 is amended to read:
+4 § 5353. APPLICATION FOR COMPENSATION
+5 (a) A victim or a dependent of a victim shall, upon application, be eligible
+6 for compensation if:
+7 (1) a law enforcement official has filed a report concluding that a crime
+8 was committed, or an officer-involved shooting of an individual experiencing a
+9 mental health crisis occurred, which resulted in the injury or death of the
+10 victim; and
+11 (2) the crime or officer-involved shooting of an individual experiencing
+12 a mental health crisis was committed in this State; or
+13 (3) the victim is a Vermont resident, the state in which the crime
+14 occurred does not have an eligible crime Victims Compensation Program, and
+15 the applicant would have been eligible for compensation under this chapter if
+16 the crime had been committed in this State; or
+17 (4) the victim is a Vermont resident who is injured or killed by an act of
+18 terrorism outside the United States, to the extent that compensation is not
+19 otherwise available under federal law.
+20 (b) Victims of crimes subject to federal jurisdiction, and their dependents,
+21 shall be eligible for compensation on the same basis as victims of State crimes.
+VT LEG #385372 v.2
+
+BILL AS INTRODUCED H.613
+2026 Page 8 of 15
+1 (c) The application for compensation shall be signed by the applicant and
+2 shall contain at least the following information, which shall be provided
+3 subject to the penalties of perjury:
+4 (1) A description of the date, nature, and circumstances of the crime.
+5 (2) A complete financial statement, including pecuniary losses and the
+6 extent to which the applicant has been or may be indemnified for these
+7 expenses from any source.
+8 (3) When appropriate, a statement indicating the extent of any disability
+9 resulting from the injury.
+10 (4) When reasonably available, copies of all law enforcement reports
+11 and reports from all health care providers who treated or examined the victim
+12 at the time of or after the crime or who treated or examined the dependent.
+13 (5) The applicant’s Social Security number for the purpose of making
+14 cash payment to the applicant in accordance with section 5356 of this title.
+15 (d) In any case in which the person entitled to compensation under this
+16 chapter is a minor or is mentally incompetent or unable to apply because of his
+17 or her the person’s physical condition, the application may be made on the
+18 person’s behalf by a parent, spouse, guardian, or other person authorized to
+19 administer the estate.
+20 (e) In any case in which a victim otherwise eligible for compensation under
+21 this chapter dies without making an application, the Board may, upon
+VT LEG #385372 v.2
+
+BILL AS INTRODUCED H.613
+2026 Page 9 of 15
+1 application, award medical or medically related expenses and pecuniary losses
+2 to the victim’s estate.
+3 (f) The Board may award funeral expenses and pecuniary expenses to the
+4 next of kin of a deceased victim who is not survived by a dependent.
+5 (g) A victim or a dependent of a victim shall be eligible for compensation
+6 for pecuniary losses sustained as a result of a crime that occurred after July 1,
+7 1987, if the losses occurred on or after July 1, 1990.
+8 (h) A victim who is under the age of 18 years of age at the time the
+9 application for compensation is filed shall be eligible for compensation for
+10 pecuniary losses sustained as a result of a crime, no matter when the crime
+11 occurred, if the losses occurred on or after July 1, 1990.
+12 (i) A victim shall be eligible for compensation for pecuniary losses
+13 sustained as a result of a crime which that occurred before July 1, 1987, if at
+14 the time of application the case is being investigated or is being prosecuted.
+15 Sec. 4. 13 V.S.A. § 5361a is added to read:
+16 § 5361a. VICTIM GUARDIANS
+17 (a) There is created the position of victim guardian within the Center for
+18 Crime Victim Services. Victim guardians shall be independent of any criminal
+19 investigation or prosecution in order to provide conflict-free advocacy for
+20 victims. Victim guardians shall coordinate with the Department of State’s
+VT LEG #385372 v.2
+
+BILL AS INTRODUCED H.613
+2026 Page 10 of 15
+1 Attorneys and Sheriffs’ Victim Advocate Program and other victim advocacy
+2 organizations as appropriate.
+3 (b) Victim guardians shall perform services in accordance with the job
+4 descriptions established and maintained by the Center for Crime Victim
+5 Services, including providing assistance to family members of a person who
+6 was a victim of an officer-involved shooting of an individual experiencing a
+7 mental health crisis. Such assistance shall include coordinating with the family
+8 to make arrangements for the cleanup of biological or hazardous materials or
+9 property damage at the scene of the incident and the disposition of human
+10 remains. At the request of the family, payment of such expenses shall be made
+11 directly from the Center for Crime Victim Services to vendors. Family that
+12 does not make such a request for direct payment may apply to the Victims
+13 Compensation Fund for reimbursement of expenses as provided in section
+14 5353 of this title.
+15 Sec. 5. 20 V.S.A. § 2365c is added to read:
+16 § 2365c. MENTAL HEALTH CRISIS TRAINING
+17 (a) In order to remain certified, law enforcement officers shall receive by
+18 January 1, 2028, at least 15 hours of mental health crisis training in a program
+19 approved by the Vermont Criminal Justice Council and the Vermont
+20 Department of Mental Health.
+VT LEG #385372 v.2
+
+BILL AS INTRODUCED H.613
+2026 Page 11 of 15
+1 (b) Law enforcement officers shall receive mental health crisis retraining
+2 every two years in a program approved by the Vermont Criminal Justice
+3 Council.
+4 (c) The Vermont Police Academy shall employ a mental health crisis
+5 trainer for the sole purpose of training Vermont law enforcement and related
+6 practitioners on issues related to mental health crises.
+7 Sec. 6. 20 V.S.A. § 2368 is amended to read:
+8 § 2368. STANDARDS FOR LAW ENFORCEMENT USE OF FORCE
+9 (a) Definitions. As used in this section:
+10 * * *
+11 (3) “Force” means the physical coercion employed by a law
+12 enforcement officer to compel a person’s compliance with the officer’s
+13 instructions.
+14 (4) “Imminent threat of death or serious bodily injury” means when,
+15 based on the totality of the circumstances, a reasonable officer in the same
+16 situation would believe that a person has the present ability, opportunity, and
+17 apparent intent to immediately cause death or serious bodily injury to the law
+18 enforcement officer or another person. An imminent threat is not merely a fear
+19 of future harm, no matter how great the fear and no matter how great the
+20 likelihood of the harm, but is one that, from appearances, must be immediately
+21 addressed and confronted.
+VT LEG #385372 v.2
+
+BILL AS INTRODUCED H.613
+2026 Page 12 of 15
+1 (5) “Law enforcement officer” has the same meaning as in section
+2 2351a of this title.
+3 (6) “Totality of the circumstances” means the conduct and decisions of
+4 the law enforcement officer leading up to the use of force and all facts known
+5 to the law enforcement officer at the time, including the conduct of the person
+6 or persons involved.
+7 (b) Use of force.
+8 (1) Whether the decision by a law enforcement officer to use force was
+9 objectively reasonable shall be evaluated from the perspective of a reasonable
+10 officer in the same situation, based on the totality of the circumstances. A law
+11 enforcement officer’s failure to use feasible and reasonable alternatives to
+12 force shall be a consideration for whether its use was objectively reasonable.
+13 (2) A law enforcement officer shall use only the force objectively
+14 reasonable, necessary, and proportional to effect an arrest, to prevent escape, or
+15 to overcome resistance of a person the officer has reasonable cause to believe
+16 has committed a crime or to achieve any other lawful law enforcement
+17 objective.
+18 (3) The authority of law enforcement to use physical force is a serious
+19 responsibility that shall be exercised judiciously and with respect for human
+20 rights and dignity and for the sanctity of every human life. Every person has a
+VT LEG #385372 v.2
+
+BILL AS INTRODUCED H.613
+2026 Page 13 of 15
+1 right to be free from excessive use of force by officers acting under authority
+2 of the State.
+3 (4) The decision by a law enforcement officer to use force shall be
+4 evaluated carefully and thoroughly, in a manner that reflects the gravity of that
+5 authority and the serious consequences of the use of force by law enforcement
+6 officers, in order to ensure that officers use force consistent with law and with
+7 agency policies.
+8 (5) When a law enforcement officer knows that a subject’s conduct is
+9 the result of a medical condition, mental impairment, developmental disability,
+10 physical limitation, language barrier, drug or alcohol impairment, or other
+11 factor beyond the subject’s control, the officer shall take that information into
+12 account in determining the amount of force appropriate to use on the subject, if
+13 any. Unless impracticable, a law enforcement officer who encounters a subject
+14 experiencing the conditions described in this subdivision shall employ de-
+15 escalating tactics prior to using any force, including:
+16 (A) avoiding forced entry into a residence unless there is an
+17 imminent threat of death or serious bodily injury;
+18 (B) employing time, distance, and containment measures to reduce
+19 the probability of confrontation;
+20 (C) permitting mental health professionals to lead crisis engagement,
+21 if these professionals are present; or
+VT LEG #385372 v.2
+
+BILL AS INTRODUCED H.613
+2026 Page 14 of 15
+1 (D) involving natural supports to de-escalate the encounter, including
+2 family, friends, or other trusted persons.
+3 (6) A law enforcement officer who makes or attempts to make an arrest
+4 need not retreat or desist from his or her the officer’s efforts by reason of the
+5 resistance or threatened resistance of the person being arrested. A law
+6 enforcement officer shall not be deemed an aggressor or lose the right to self-
+7 defense by the use of proportional force if necessary in compliance with
+8 subdivision (2) of this subsection to effect the arrest or to prevent escape or to
+9 overcome resistance. For the purposes of this subdivision, “retreat” does not
+10 mean tactical repositioning or other de-escalation tactics.
+11 (7) A law enforcement officer has a duty to intervene when the officer
+12 observes another officer using a chokehold on a person.
+13 * * *
+14 Sec. 7. POSITIONS; APPROPRIATIONS
+15 (a) Two full-time, classified permanent positions for victim guardian are
+16 created in the Vermont Center for Crime Victim Services.
+17 (b) There is appropriated to the Vermont Center for Crime Victim Services
+18 from the General Fund in fiscal year 2027 the sum of:
+19 (1) $230,000.00 for two victim guardians; and
+VT LEG #385372 v.2
+
+BILL AS INTRODUCED H.613
+2026 Page 15 of 15
+1 (2) $20,000.00 for the purpose of paying the following expenses related
+2 to an officer-involved shooting of an individual experiencing a mental health
+3 crisis:
+4 (A) cleanup of biological or hazardous materials or fluids at the scene
+5 of the shooting and repairs to property damage; and
+6 (B) disposition of human remains.
+7 Sec. 8. EFFECTIVE DATE
+8 This act shall take effect on July 1, 2026.
+VT LEG #385372 v.2

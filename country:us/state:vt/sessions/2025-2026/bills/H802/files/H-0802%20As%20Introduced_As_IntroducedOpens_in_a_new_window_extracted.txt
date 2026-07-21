@@ -1,0 +1,113 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.802
+2026 Page 1 of 5
+1 H.802
+2 Introduced by Representative Long of Newfane
+3 Referred to Committee on
+4 Date:
+5 Subject: Education; special education; census grant; education finance
+6 Statement of purpose of bill as introduced: This bill proposes to adjust the
+7 special education census grant for inflation for fiscal year 2027 and onward.
+8 An act relating to adjusting the census grant for inflation
+9 It is hereby enacted by the General Assembly of the State of Vermont:
+10 Sec. 1. 16 V.S.A. § 2961 is amended to read:
+11 § 2961. CENSUS GRANT
+12 (a) As used in this section:
+13 (1) “Average daily membership” shall have has the same meaning as in
+14 subdivision 4001(1) of this title, except it shall exclude excludes State-placed
+15 students.
+16 (2) “Average daily membership of a supervisory union” means the
+17 aggregate average daily membership of the school districts that are members of
+18 the supervisory union or, for a supervisory district, the average daily
+19 membership of the supervisory district.
+VT LEG #386391 v.1
+
+BILL AS INTRODUCED H.802
+2026 Page 2 of 5
+1 (3) “Long-term membership” of a supervisory union in any school year
+2 means the average of the supervisory union’s average daily membership over
+3 the most recent three school years for which data are available.
+4 (4) “Uniform base amount” means an amount determined by:
+5 (A) dividing an amount:
+6 (i) equal to the average State appropriation for fiscal years 2018,
+7 2019, and 2020 for special education under sections 2961 (standard
+8 mainstream block grants), 2963 (special education expenditures
+9 reimbursement), and 2963a (exceptional circumstances) of this title; and , as
+10 adjusted for inflation,
+11 (ii) increased by:
+12 (I) for each of fiscal years 2021, 2022, and 2023, the annual
+13 change in the National Income and Product Accounts (NIPA) Implicit Price
+14 Deflator for State and Local Government Consumption Expenditures and
+15 Gross Investment as reported by the U.S. Department of Commerce, Bureau of
+16 Economic Analysis (inflation factor); and
+17 (II) for each of fiscal years 2024, 2025, and 2026, the average
+18 inflation factor for fiscal years 2021, 2022, and 2023; by
+19 (B) the statewide long-term membership.
+20 (5) “Adjusted for inflation” means adjusting the uniform base amount
+21 by the National Income and Product Accounts (NIPA) implicit price deflator
+VT LEG #386391 v.1
+
+BILL AS INTRODUCED H.802
+2026 Page 3 of 5
+1 for state and local government consumption expenditures and gross investment
+2 published by the U.S. Department of Commerce, Bureau of Economic
+3 Analysis, from fiscal year 2020 through the fiscal year for which the amount is
+4 being determined, and rounding upward to the nearest whole dollar amount.
+5 (b) The State commits to satisfying its special education maintenance of
+6 fiscal support requirement under 34 C.F.R. § 300.163(a).
+7 (c) Each supervisory union shall receive a census grant each fiscal year to
+8 support the provision of special education services to students on an
+9 individualized education program. Supervisory unions shall use this funding
+10 and other available sources of funding to provide special education services to
+11 students in accordance with their individualized education programs as
+12 mandated under federal law. A supervisory union may use census grant funds
+13 to support the delivery of the supervisory union’s comprehensive system of
+14 educational services under sections 2901 and 2902 of this title, but shall not
+15 use census grant funds in a manner that abrogates its responsibility to provide
+16 special education services to students in accordance with their individualized
+17 education programs as mandated under federal law.
+18 (d)(1)(A) For fiscal year 2023, the amount of the census grant for a
+19 supervisory union shall be:
+20 (i) the average amount it received for fiscal years 2018, 2019, and
+21 2020 or the average amount it received for fiscal years 2019, 2020, and 2021,
+VT LEG #386391 v.1
+
+BILL AS INTRODUCED H.802
+2026 Page 4 of 5
+1 whichever amount is greater, from the State for special education under
+2 sections 2961 (standard mainstream block grants), 2963 (special education
+3 expenditures reimbursement), and 2963a (exceptional circumstances) of this
+4 title; increased by
+5 (ii) the annual change in the National Income and Product
+6 Accounts (NIPA) Implicit Price Deflator for State and Local Government
+7 Consumption Expenditures and Gross Investment as reported by the U.S.
+8 Department of Commerce, Bureau of Economic Analysis.
+9 (B) The amount determined under subdivision (A) of this subdivision
+10 (1) shall be divided by the supervisory union’s long-term membership, to
+11 determine the base amount of the census grant, which is the amount of the
+12 census grant calculated on a per student basis.
+13 (2) For fiscal year 2027 and subsequent fiscal years, the The amount of
+14 the census grant for a supervisory union shall be the uniform base amount
+15 multiplied by the supervisory union’s long-term membership.
+16 (3) For fiscal years 2024, 2025, and 2026, the amount of the census
+17 grant for a supervisory union shall be determined by multiplying the
+18 supervisory union’s long-term membership by a base amount established under
+19 this subdivision. The base amounts for each supervisory union for fiscal years
+20 2024, 2025, and 2026 shall move gradually the supervisory union’s fiscal year
+21 2023 base amount to the fiscal year 2027 uniform base amount by prorating the
+VT LEG #386391 v.1
+
+BILL AS INTRODUCED H.802
+2026 Page 5 of 5
+1 change between the supervisory union’s fiscal year 2023 base amount and the
+2 fiscal year 2027 uniform base amount over this three-fiscal-year period.
+3 Sec. 2. EFFECTIVE DATE
+4 This act shall take effect on July 1, 2026.
+VT LEG #386391 v.1

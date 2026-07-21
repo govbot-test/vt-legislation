@@ -1,0 +1,56 @@
+Title: 
+Official Title: 
+Source: versions - Senate Proposal of Amendment (OfficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate proposal of amendment
+H. 527
+An act relating to extending the sunset of 30 V.S.A. § 248a.
+The Senate proposes to the House to amend the bill by striking out all after
+the enacting clause and inserting in lieu thereof the following:
+Sec. 1. 30 V.S.A. § 248a is amended to read:
+§ 248a. CERTIFICATE OF PUBLIC GOOD FOR COMMUNICATIONS
+FACILITIES
+* * *
+(e) Notice. No less than 60 days prior to filing an application for a
+certificate of public good under this section, the applicant shall serve written
+notice of an application to be filed with the Commission pursuant to this
+section to the legislative bodies and municipal and regional planning
+commissions in the communities in which the applicant proposes to construct
+or install facilities; the Secretary of Natural Resources; the Secretary of
+Transportation; the Division for Historic Preservation; the Commissioner of
+Public Service and its Director for Public Advocacy; the Land Use Review
+Board if the application concerns a telecommunications facility for which a
+permit previously has been issued under 10 V.S.A. chapter 151; and the
+landowners of record of property adjoining the project sites. In addition, at
+least one copy of each application shall be filed with each of these municipal
+and regional planning commissions. The notices to the legislative body and
+planning commission of the municipality shall attach a statement that itemizes
+the rights and opportunities available to those bodies under subdivisions (c)(2)
+and (e)(2) of this section and under subsections (m), (n), and (o) of this section
+and informs them of the guide published under subsection (p) of this section
+and how to obtain a copy of that guide.
+* * *
+(2) On the request of For any application other than a de minimis
+modification, as defined in subsection (b)(2) or a facility of limited size and
+scope, as defined in subsection (b)(4), the municipal legislative body or the
+planning commission, shall hold and the applicant shall attend a duly warned
+public meeting with the municipal legislative body or planning commission, or
+both, within the 60-day notice period before filing an application for a
+certificate of public good. The Department of Public Service shall attend the
+public meeting on the request of the municipality. The Department shall
+consider the comments made and information obtained at the meeting in
+making recommendations to the Commission on the application and in
+determining whether to retain additional personnel under subsection (o) of this
+section.
+
+* * *
+(i) Sunset of Commission authority. Effective on July 1, 2026 2029, no
+new applications for certificates of public good under this section may be
+considered by the Commission.
+* * *
+Sec. 2. EFFECTIVE DATE
+This act shall take effect on passage.
