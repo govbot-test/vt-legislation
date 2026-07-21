@@ -1,0 +1,151 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED S.231
+2026 Page 1 of 6
+1 S.231
+2 Introduced by Senators Hardy, Brock, Clarkson, Gulick, Lyons, Major and
+3 Williams
+4 Referred to Committee on
+5 Date:
+6 Subject: Taxation; income tax; tax credit; family caregiver tax credit
+7 Statement of purpose of bill as introduced: This bill proposes to create an
+8 income tax credit for family caregivers. The bill would further exclude an
+9 individual’s income from household income for purposes of a property tax
+10 credit if a member of the household has properly claimed a family caregiver
+11 credit for the individual in the most recent tax year.
+12 An act relating to a family caregiver tax credit
+13 It is hereby enacted by the General Assembly of the State of Vermont:
+14 Sec. 1. 32 V.S.A. § 5813 is amended to read:
+15 § 5813. STATUTORY PURPOSES
+16 * * *
+17 (bb) The statutory purpose of the family caregiver tax credit in section
+18 5830g of this title is to compensate Vermont taxpayers who incur expenses
+19 relating to care provided to a family member with long-term care needs.
+VT LEG #385018 v.2
+
+BILL AS INTRODUCED S.231
+2026 Page 2 of 6
+1 Sec. 2. 32 V.S.A. § 5830g is added to read:
+2 § 5830g. VERMONT FAMILY CAREGIVER TAX CREDIT
+3 (a) A resident individual or part-year resident individual shall be entitled to
+4 a refundable credit against the tax imposed by section 5822 of this title.
+5 (b) The credit available under this section shall be limited to expenses that:
+6 (1) are qualified expenses under this section; and
+7 (2) are not creditable to the Child and Dependent Care Credit under 26
+8 U.S.C. § 21, including expenses that do not qualify as employment-related
+9 expenses under 26 U.S.C. § 21(b)(2) and expenses for an individual with long-
+10 term care needs who is not a qualifying individual under 26 U.S.C. § 21(b)(1).
+11 (c)(1) The amount of credit available under this section shall be equal to 30
+12 percent of the qualified expenses paid by the taxpayer during the taxable year
+13 for an individual with long-term care needs. The maximum allowable credit
+14 per taxable year shall be $2,500.00. The amount of the credit for a part-year
+15 resident shall be multiplied by the percentage that the individual’s income that
+16 is earned or received during the period of the individual’s residency in this
+17 State bears to the individual’s total income.
+18 (2) The amount of the credit provided under this section shall be
+19 reduced by $50.00 for each $1,000.00, or fraction thereof, by which the
+20 individual’s adjusted gross income exceeds $125,000.00, irrespective of the
+VT LEG #385018 v.2
+
+BILL AS INTRODUCED S.231
+2026 Page 3 of 6
+1 individual’s filing status. For purposes of this subsection, spouses filing
+2 jointly shall be considered an individual.
+3 (3) Beginning with taxable year 2027, the maximum allowable credit
+4 shall be adjusted annually for inflation using the last Consumer Price Index for
+5 All Urban Consumers published by the U.S. Department of Labor.
+6 (d) Definitions. As used in this section:
+7 (1) “Activities of daily living” means:
+8 (A) tasks such as eating, toileting, grooming, dressing, bathing, and
+9 transferring; and
+10 (B) meal planning and preparation; managing finances; shopping for
+11 food, clothing, and other essential items; performing essential household
+12 chores; communicating by phone or other media; and traveling around and
+13 participating in the community.
+14 (2) “Individual with long-term care needs” means an individual who:
+15 (A) is at least 14 years of age;
+16 (B) is related to the caregiver by blood, civil marriage, or adoption;
+17 (C) has a medically diagnosed disability or health condition;
+18 (D) does not reside at a residential care home, an assisted living
+19 residence, or nursing home as defined by 33 V.S.A. § 7102, or any other
+20 similar adult care home that is licensed or required to be licensed pursuant to
+21 33 V.S.A. chapter 71; and
+VT LEG #385018 v.2
+
+BILL AS INTRODUCED S.231
+2026 Page 4 of 6
+1 (E) is unable to perform without substantial assistance from another
+2 individual at least two activities of daily living due to a loss of functional
+3 capacity; or
+4 (F) requires substantial supervision to protect the individual from
+5 threats to health and safety due to severe cognitive impairment and is unable to
+6 perform, without reminding or cuing assistance, at least one activity of daily
+7 living.
+8 (3) “Qualified expenses” means expenditures for goods, services, and
+9 supports that assist an individual with long-term care needs with
+10 accomplishing activities of daily living and may include reasonable
+11 expenditures for goods, services, and supports for the caregiver. Qualified
+12 expenses include expenditures relating to care, such as respite care, adult
+13 daycare, counseling, support groups, training, lost wages for unpaid time off
+14 due to providing care as verified by an employer, travel costs relating to care,
+15 and assistive technologies. For purposes of this subsection, “goods, supports,
+16 and services” means:
+17 (A) human assistance, supervision, cuing, and standby assistance;
+18 (B) assistive technologies and devices, including remote health
+19 monitoring;
+20 (C) environmental modifications, including home modifications;
+21 (D) health maintenance tasks, such as medication management;
+VT LEG #385018 v.2
+
+BILL AS INTRODUCED S.231
+2026 Page 5 of 6
+1 (E) transportation of the qualified care recipient; and
+2 (F) coordination of and services for people who live in their own
+3 home, a residential setting, or a nursing facility, as well as the cost of care in
+4 these or other locations.
+5 (e) The Commissioner, in the Commissioner’s discretion, may require a
+6 substantiation of any expense claimed and may deny a credit, or portion of a
+7 credit, based on a lack of credible documentation.
+8 (f) A taxpayer electing to claim the credit under this section may also claim
+9 the credit available under section 5828c of this title, provided all of the
+10 expenses claimed under this section are separate and distinct from the expenses
+11 claimed under the Child and Dependent Care Credit.
+12 Sec. 3. 32 V.S.A. § 6061 is amended to read:
+13 § 6061. DEFINITIONS
+14 * * *
+15 (3)(A) “Household” means, for any individual and for any taxable year,
+16 the individual and such other persons as resided with the individual in the
+17 principal dwelling at any time during the taxable year.
+18 (B) The following shall not be considered members of the household:
+19 (i) a person who is not related to any member of the household
+20 and who is residing in the household under a written homesharing agreement
+21 pursuant to a nonprofit homesharing program;
+VT LEG #385018 v.2
+
+BILL AS INTRODUCED S.231
+2026 Page 6 of 6
+1 (ii) a person residing in the household who was granted
+2 humanitarian parole to enter the United States pursuant to 8 U.S.C.
+3 § 1182(d)(5), who is seeking or has been granted asylum pursuant to 8 U.S.C.
+4 § 1158, or who qualifies as a refugee pursuant to 8 U.S.C. § 1101(a)(42),
+5 provided the person is not eligible under the laws of the United States to apply
+6 for adjustment of status to lawful permanent resident; or
+7 (iii) a person residing in a household who is hired as a bona fide
+8 employee to provide personal care to a member of the household and who is
+9 not related to the person for whom the care is provided; or
+10 (iv) a person residing in a household who is an “individual with
+11 long-term care needs” and a member of the household has properly claimed a
+12 credit for the individual under section 5830g of this title in the most recent tax
+13 year.
+14 * * *
+15 Sec. 4. EFFECTIVE DATE
+16 Notwithstanding 1 V.S.A. § 214, this act shall take effect retroactively on
+17 January 1, 2026 and apply to taxable years beginning on and after January 1,
+18 2026.
+VT LEG #385018 v.2

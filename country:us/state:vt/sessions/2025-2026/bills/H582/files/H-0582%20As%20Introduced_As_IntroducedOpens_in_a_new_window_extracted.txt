@@ -1,0 +1,161 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.582
+2026 Page 1 of 7
+1 H.582
+2 Introduced by Representative Noyes of Wolcott
+3 Referred to Committee on
+4 Date:
+5 Subject: Human services; Department of Disabilities, Aging, and Independent
+6 Living; vulnerable adults; adult protective services
+7 Statement of purpose of bill as introduced: This bill proposes to modify the
+8 definition of neglect for purposes of the statutes protecting vulnerable adults
+9 from abuse, neglect, and exploitation. It would require reports of alleged
+10 neglect in a State-licensed facility or program or by a State-licensed individual
+11 to be reported to the relevant licensing entity. The bill would also extend the
+12 time periods within which the Human Services Board must hold a fair hearing,
+13 and the hearing officer must issue findings and a recommendation, when an
+14 alleged perpetrator requests relief from the Board based on a substantiated
+15 report that the alleged perpetrator abused, neglected, or exploited a vulnerable
+16 adult.
+17 An act relating to adult protective services
+18 It is hereby enacted by the General Assembly of the State of Vermont:
+19 Sec. 1. 33 V.S.A. § 6902 is amended to read:
+20 § 6902. DEFINITIONS
+VT LEG #386128 v.1
+
+BILL AS INTRODUCED H.582
+2026 Page 2 of 7
+1 As used in this chapter:
+2 * * *
+3 (21)(A) “Neglect” means purposeful, knowing, or reckless failure or
+4 omission by a caregiver that has resulted in, or could be expected to result in,
+5 physical or psychological harm, including a failure or omission to:
+6 (i) provide care or arrange for goods or services necessary to
+7 maintain the health or safety of a vulnerable adult, including food, clothing,
+8 medicine, shelter, supervision, and medical services, unless the caregiver is
+9 acting pursuant to the wishes of the vulnerable adult or the vulnerable adult’s
+10 representative, or an advance directive, as defined in 18 V.S.A. § 9701;
+11 (ii) make a reasonable effort, in accordance with the authority
+12 granted the caregiver, to protect a vulnerable adult from abuse, neglect, or
+13 exploitation by others;
+14 (iii) carry out a plan of care for a vulnerable adult unless the
+15 caregiver is acting pursuant to the wishes of the vulnerable adult or the
+16 vulnerable adult’s representative, or an advance directive, as defined in 18
+17 V.S.A. § 9701; or
+18 (iv) report significant changes in the health status of a vulnerable
+19 adult to a physician, nurse, or immediate supervisor, when the caregiver is
+20 employed by an organization that offers, provides, or arranges for personal
+21 care the failure of a caregiver, agent, or fiduciary to provide the goods or
+VT LEG #386128 v.1
+
+BILL AS INTRODUCED H.582
+2026 Page 3 of 7
+1 services that are necessary to maintain the health or safety, or both, of a
+2 vulnerable adult.
+3 (B) Neglect “Neglect” does not include self-neglect.
+4 (C) The actions or inactions of a caregiver or fiduciary shall not be
+5 considered neglect if the caregiver or fiduciary is acting pursuant to:
+6 (i) the wishes of the vulnerable adult;
+7 (ii) at the direction and authority of the vulnerable adult’s
+8 representative; or
+9 (iii) in accordance with the terms of the vulnerable adult’s
+10 advance directive.
+11 * * *
+12 (26) “Report” means the statements provided to Adult Protective
+13 Services from a reporter alleging that a vulnerable adult has been abused,
+14 neglected, or exploited.
+15 (27) “Reporter” means the person who has submitted a report to Adult
+16 Protective Services or to a licensing entity in accordance with section 6904 of
+17 this chapter.
+18 (28) “Representative” means a court-appointed guardian, an agent acting
+19 under an advance directive executed pursuant to 18 V.S.A. chapter 231, or an
+20 agent under a power of attorney, unless otherwise specified in the terms of the
+21 power of attorney.
+VT LEG #386128 v.1
+
+BILL AS INTRODUCED H.582
+2026 Page 4 of 7
+1 * * *
+2 (35) “Advance directive” has the same meaning as in 18 V.S.A. § 9701.
+3 (36)(A) “Fiduciary” means an individual or entity with the legal
+4 responsibility to:
+5 (i) make decisions on behalf of and for the benefit of another
+6 individual; and
+7 (ii) act in good faith and with fairness.
+8 (B) The term “fiduciary” includes a trustee, guardian, conservator,
+9 executor, agent under a power of attorney or an advance directive, or
+10 representative payee.
+11 Sec. 2. 33 V.S.A. § 6904 is amended to read:
+12 § 6904. NATURE AND CONTENT OF REPORT; TO WHOM MADE
+13 (a) A Except as otherwise provided for certain reports of neglect in
+14 subsection (b) of this section, a report shall be made to the Commissioner or
+15 the Commissioner’s designee. To be considered a report to the Commissioner
+16 or designee, it shall contain the name and address of the reporter as well as the
+17 names and addresses of the vulnerable adult and persons responsible for the
+18 vulnerable adult’s care, if known; the age of the vulnerable adult; the nature of
+19 the vulnerable adult’s disability; the nature and extent of the vulnerable adult’s
+20 abuse, neglect, or exploitation together with any evidence of previous abuse,
+21 neglect, or exploitation of the vulnerable adult; and any other information that
+VT LEG #386128 v.1
+
+BILL AS INTRODUCED H.582
+2026 Page 5 of 7
+1 the reporter believes might be helpful in establishing the cause of any injuries
+2 or reasons for the abuse, neglect, or exploitation as well as in protecting the
+3 vulnerable adult. If the reporter is in possession of documentation that
+4 establishes the alleged victim’s conditions, needs, or services, that shall be
+5 included in the report. Any evidence of maltreatment shall also be cited in the
+6 report. If a report of abuse, neglect, or exploitation involves the acts or
+7 omissions of the Commissioner or employees of the Department, then such
+8 reports shall be directed to the Secretary of Human Services, who shall cause
+9 the report to be investigated by appropriate staff other than staff of the
+10 Department.
+11 (b)(1) If neglect is alleged to have been perpetrated within a facility
+12 licensed by the State or a program licensed by the State, or to have been
+13 perpetrated by an individual licensed by the State, the report shall be made to
+14 the relevant licensing entity as follows:
+15 (A) Neglect within a licensed facility or program shall be reported to
+16 the applicable State licensing unit in accordance with State and federal
+17 licensing rules and regulations.
+18 (B) Neglect by an individual licensed by the Office of Professional
+19 Regulation shall be reported to the Office of Professional Regulation.
+20 (C) Neglect by an individual licensed by the Board of Medical
+21 Practice shall be reported to the Board of Medical Practice.
+VT LEG #386128 v.1
+
+BILL AS INTRODUCED H.582
+2026 Page 6 of 7
+1 (2) If a licensing entity identifies neglect allegedly perpetrated within a
+2 licensed facility or program or by a licensed individual, the licensing entity
+3 shall make a report to Adult Protective Services.
+4 Sec. 3. 33 V.S.A. § 6906 is amended to read:
+5 § 6906. ASSESSMENT AND INVESTIGATION
+6 * * *
+7 (c) Investigation.
+8 * * *
+9 (10) Within 30 calendar days after the date of the notice advising that a
+10 report has been substantiated, an alleged perpetrator against whom a complaint
+11 has been lodged may apply to the Human Services Board for relief on the
+12 grounds that it is unsubstantiated. The Human Services Board shall hold a fair
+13 hearing under 3 V.S.A. § 3091. Unless the Commissioner agrees otherwise,
+14 the hearing shall be given priority by the Human Services Board, and an
+15 expedited hearing shall be provided, not later than 30 90 calendar days after
+16 the date of the notice advising that a report has been substantiated, and a
+17 decision alleged perpetrator’s request for a fair hearing, and the hearing
+18 officer’s written findings and recommendation shall be issued within seven 30
+19 calendar days after the hearing.
+20 * * *
+VT LEG #386128 v.1
+
+BILL AS INTRODUCED H.582
+2026 Page 7 of 7
+1 Sec. 4. EFFECTIVE DATE
+2 This act shall take effect on passage.
+VT LEG #386128 v.1

@@ -1,0 +1,26 @@
+Title: 
+Official Title: 
+Source: versions - Senate Proposal of Amendment (OfficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate proposal of amendment
+H. 648
+An act relating to banking, insurance, and securities.
+The Senate proposes to the House to amend the bill as follows:
+First: In Sec. 1, 8 V.S.A. § 2102, in subdivision (b)(9), by striking the first
+instance of “registration” and inserting in lieu thereof “registration license”
+Second: By striking out Sec. 22, 8 V.S.A. § 10301, community
+reinvestment reports, in its entirety and inserting in lieu thereof the following:
+Sec. 22. [Deleted]
+Third: By adding a Sec. 14a to read as follows:
+Sec. 14a. 8 V.S.A. § 2577(f) is amended to read:
+(f) Moratorium. To protect the public safety and welfare and safeguard the
+rights of consumers, virtual-currency kiosks shall not be permitted to operate
+in Vermont prior to July 1, 2026 2027. This moratorium shall not apply to a
+virtual-currency kiosk that was duly licensed and operational in Vermont on or
+before June 30, 2024.
+Fourth: In Sec. 48, 9 V.S.A. § 5202, in subdivision (14)(B), by striking out
+“section 5302” and inserting in lieu thereof “subsection 5302(c)”

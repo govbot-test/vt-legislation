@@ -1,0 +1,840 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.717
+2026 Page 1 of 35
+1 H.717
+2 Introduced by Representative Campbell of St. Johnsbury
+3 Referred to Committee on
+4 Date:
+5 Subject: Public safety; building energy; Residential Building Energy
+6 Standards; Commercial Building Energy Standards; residential
+7 building code
+8 Statement of purpose of bill as introduced: This bill proposes to change the
+9 name of the Division of Fire Safety to the Division of Fire and Building Safety
+10 and to transfer jurisdiction over the Residential and Commercial Building
+11 Energy Standards from the Department of Public Service to the Division of
+12 Fire and Building Safety. The bill also proposes to require the Division of Fire
+13 and Building Safety to adopt a residential building code that applies to public
+14 buildings that contain residential units.
+15 An act relating to the Residential and Commercial Building Energy
+16 Standards and the adoption of a residential building code
+17 It is hereby enacted by the General Assembly of the State of Vermont:
+18 * * * Residential and Commercial Building Energy Standards * * *
+VT LEG #386266 v.3
+
+BILL AS INTRODUCED H.717
+2026 Page 2 of 35
+1 Sec. 1. 20 V.S.A. chapter 173, subchapter 2 is amended to read:
+2 Subchapter 2. Division of Fire and Building Safety
+3 § 2728. DIRECTOR OF FIRE SAFETY
+4 There shall be a Director of Fire and Building Safety, who shall be
+5 responsible for the operation and supervision of the Fire and Building Safety
+6 Division of the Department of Public Safety. The Director shall report directly
+7 to the Commissioner and shall serve as a member of the Fire Service Training
+8 Council. The Director shall be an exempt State employee and shall be
+9 appointed by the Commissioner, with the approval of the Governor.
+10 * * *
+11 § 2731. RULES; INSPECTIONS; VARIANCES
+12 * * *
+13 (l) Energy standard certificates. Provision of a certificate as required by
+14 30 V.S.A. § 51 section 2772 of this title (residential building energy standards)
+15 or 53 section 2774 of this title (commercial building energy standards) shall be
+16 a condition precedent to the issuance of a certificate of use or occupancy for a
+17 public building under the rules adopted pursuant to this section.
+18 * * *
+19 § 2734. PENALTIES
+20 (a) A person who violates any provision of this subchapter or subchapter
+21 2B of this chapter or any order or rule issued pursuant to this subchapter shall
+VT LEG #386266 v.3
+
+BILL AS INTRODUCED H.717
+2026 Page 3 of 35
+1 be fined not more than $10,000.00. The State’s Attorney of the county in
+2 which the violation occurs shall prosecute the violation and may commence a
+3 proceeding in the Superior Court to compel compliance with the order or rule,
+4 and the court may make orders and decrees in relation to the proceeding by
+5 way of writ of injunction or otherwise.
+6 * * *
+7 (c) The Commissioner may, after notice and opportunity for hearing, assess
+8 an administrative penalty of not more than $1,000.00 for each violation of this
+9 subchapter or subchapter 2B of this chapter or any rule adopted under this
+10 subchapter. Penalties assessed pursuant to this subsection shall be based on the
+11 severity of the violation. An election by the Commissioner to proceed under
+12 this subsection shall not limit or restrict the Commissioner’s authority under
+13 subsection (a) of this section.
+14 (d) Violation of any rule adopted under this subchapter or subchapter 2B of
+15 this chapter shall be prima facie evidence of negligence in any civil action for
+16 damage or injury that is the result of the violation.
+17 * * *
+18 § 2736. MUNICIPAL ENFORCEMENT
+19 (a)(1) The legislative body of a municipality may appoint one or more
+20 trained and qualified officials and may establish procedures to enforce rules
+21 and standards adopted under subsection 2731(a) of this title and sections 2772
+VT LEG #386266 v.3
+
+BILL AS INTRODUCED H.717
+2026 Page 4 of 35
+1 (residential building energy standards) and 2774 (commercial building energy
+2 standards) of this title.
+3 (2) After considering the type of buildings within the municipality, if the
+4 Commissioner determines that the training, qualifications, and procedures are
+5 sufficient, he or she the Commissioner may assign responsibility to the
+6 municipality for enforcement of some or all of these the rules and standards
+7 adopted under subsection 2731(a) of this title and sections 2772 (residential
+8 building energy standards) and 2774 (commercial building energy standards)
+9 of this title. The Commissioner may also assign responsibility for enforcement
+10 of the rules of the Access Board adopted under section 2902 of this title.
+11 (3) The Commissioner shall provide continuing review, consultation,
+12 and assistance as may be necessary.
+13 (4) The assignment of responsibility may be revoked by the
+14 Commissioner after notice and an opportunity for hearing if the Commissioner
+15 determines that the training, qualifications, or procedures are insufficient.
+16 (5) The assignment of responsibility shall not affect the Commissioner’s
+17 authority under this subchapter.
+18 * * *
+19 Sec. 2. REPEAL
+20 30 V.S.A. chapter 2, subchapter 1 (building energy standards) is repealed.
+VT LEG #386266 v.3
+
+BILL AS INTRODUCED H.717
+2026 Page 5 of 35
+1 Sec. 3. 20 V.S.A. chapter 173, subchapter 2B is added to read:
+2 Subchapter 2B. Building Energy Standards
+3 § 2771. DEFINITIONS
+4 As used in this subchapter:
+5 (1) “Builder” means the general contractor or other person in charge of
+6 construction, who has the power to direct others with respect to the details to
+7 be observed in construction.
+8 (2) “CBES” means the Commercial Building Energy Standards adopted
+9 pursuant to section 2774 of this subchapter.
+10 (3) “Commercial buildings” means all buildings that are not residential
+11 buildings as defined in subdivision (6) of this section or farm structures as
+12 defined in 24 V.S.A. § 4413. With respect to a structure that is a mixed-use
+13 building that shares residential and commercial users:
+14 (A) if the structure is three stories or fewer in height, the term
+15 “commercial building” includes all commercial uses within the structure and
+16 all common areas and facilities that serve both residential and commercial
+17 uses; and
+18 (B) if the structure is four stories or more in height, the term
+19 “commercial building” includes all uses and areas within the structure.
+20 (4) “Director” means the Director of the Division of Fire and Building
+21 Safety.
+VT LEG #386266 v.3
+
+BILL AS INTRODUCED H.717
+2026 Page 6 of 35
+1 (5) “IECC” means the International Energy Conservation Code of the
+2 International Code Council.
+3 (6) “Residential buildings” means two-family dwellings and multi-
+4 family housing three stories or fewer in height.
+5 (A) With respect to a structure that is three stories or fewer in height
+6 and is a mixed-use building that shares residential and commercial users, the
+7 term “residential building” includes the living spaces in the structure and the
+8 nonliving spaces in the structure that serve only the residential users such as
+9 common hallways, laundry facilities, residential management offices,
+10 community rooms, storage rooms, and foyers.
+11 (B) “Residential buildings” does not include hunting camps.
+12 (7) “Residential construction” means new construction of residential
+13 buildings, and the construction of additions, alterations, renovations, or repairs
+14 to an existing residential building.
+15 (8) “Stretch code” means a building energy code for residential
+16 buildings that achieves greater energy savings than the RBES and is adopted in
+17 accordance with subsection 2772(c) of this section.
+VT LEG #386266 v.3
+
+BILL AS INTRODUCED H.717
+2026 Page 7 of 35
+1 § 2772. RESIDENTIAL BUILDING ENERGY STANDARDS; STRETCH
+2 CODE
+3 (a) Adoption of Residential Building Energy Standards (RBES). The
+4 Director shall adopt RBES as provided pursuant to this section, and residential
+5 construction shall be in compliance with the RBES adopted by the Director.
+6 (b) Revision and interpretation of RBES. The Director shall amend and
+7 update the RBES by means of administrative rules adopted in accordance with
+8 3 V.S.A. chapter 25. The Director shall endeavor to update and revise the
+9 RBES promptly after the issuance of updated standards for residential
+10 construction under the IECC. The Department of Public Service shall provide
+11 technical assistance and expert advice to the Director in the interpretation of
+12 the RBES and in the formulation of specific proposals for amending the RBES.
+13 Prior to final adoption of each required revision of the RBES, the Director
+14 shall convene an advisory committee to include one or more mortgage lenders;
+15 builders; building designers; individuals with expertise in building science;
+16 utility representatives; architects; civil, mechanical, and electrical engineers;
+17 environmental organizations; consumer advocates; energy efficiency experts;
+18 the Attorney General or designee; and other persons with experience and
+19 expertise that the Director and Commissioner deem to be appropriate, such as
+20 consumer advocates and energy conservation experts. The advisory committee
+VT LEG #386266 v.3
+
+BILL AS INTRODUCED H.717
+2026 Page 8 of 35
+1 may provide the Director with additional recommendations for the revision of
+2 the RBES.
+3 (1) Any amendments to the RBES shall be:
+4 (A) consistent with duly adopted State energy policy, as specified in
+5 30 V.S.A. § 202a, and consistent with duly adopted State housing policy;
+6 (B) evaluated relative to their technical applicability and reliability;
+7 and
+8 (C) cost-effective and affordable from the consumer’s perspective.
+9 (2) Each time the RBES are amended by the Director, the amended
+10 RBES shall become effective upon a date specified in the adopted rule, which
+11 shall not be less than three months after the date of adoption. Persons
+12 commencing residential construction before the effective date of the amended
+13 RBES shall have the option of complying with the applicable provisions of the
+14 earlier or the amended RBES. After the effective date of the original or the
+15 amended RBES, any person commencing residential construction shall comply
+16 with the most recent version of the RBES.
+17 (3) The RBES shall include standards for:
+18 (A) ventilation;
+19 (B) sealed combustion or induced or forced draft combustion
+20 equipment when exhaust-only ventilation systems are installed; and
+VT LEG #386266 v.3
+
+BILL AS INTRODUCED H.717
+2026 Page 9 of 35
+1 (C) adequate replacement air ducted directly to the combustion area
+2 of wood and pellet stoves and fireplaces.
+3 (4)(A)(i) The Division of Fire and Building Safety, in consultation with
+4 the Department of Public Service, shall develop and disseminate criteria that
+5 builders may use in lieu of any computer software, calculations and trade-off
+6 worksheets, or systems analysis to comply with the Code. An example
+7 package that complies with the Code shall be included in the rules and updated
+8 as appropriate.
+9 (ii) The Division of Fire and Building Safety, in consultation with
+10 the Department of Public Service, may, as determined to be appropriate by the
+11 Director of Fire and Building Safety, develop and disseminate information and
+12 guidance regarding compliance with the performance and Energy Rating Index
+13 approaches to compliance with the IECC.
+14 (B) To provide for flexibility, additional packages that are equivalent
+15 to the example package developed pursuant to subdivision (4)(A)(i) of this
+16 subsection (b) and that satisfy the performance approach shall be developed
+17 and disseminated by the Division of Fire and Building Safety in consultation
+18 with Department of Public Service. Each time the RBES are amended by the
+19 Director, the Division of Fire and Building Safety shall, in consultation with
+20 the Department of Public Service, develop modified compliance packages that
+VT LEG #386266 v.3
+
+BILL AS INTRODUCED H.717
+2026 Page 10 of 35
+1 will become available to the public by the date that the amendment becomes
+2 effective.
+3 (5) A home energy rating conducted at the time of construction by a
+4 Vermont-accredited home energy rating organization shall be an acceptable
+5 means of demonstrating compliance if the rating indicates energy performance
+6 equivalent to the RBES.
+7 (c) Stretch code. The Director may adopt a stretch code by rule. This
+8 stretch code shall meet the requirements of subdivision (b)(1) of this section.
+9 The stretch code shall be available for adoption by municipalities under
+10 24 V.S.A. chapter 117 and, on final adoption by the Director, shall apply in
+11 proceedings under 10 V.S.A. chapter 151 (Act 250) in accordance with
+12 subsection (d) of this section.
+13 (d) Role of RBES and stretch code in Act 250. Substantial and reliable
+14 evidence of compliance with the RBES and, when adopted, the stretch code
+15 established and updated under this section shall serve as a presumption of
+16 compliance with 10 V.S.A. § 6086(a)(9)(F), except no presumption shall be
+17 created insofar as compliance with 10 V.S.A. § 6086(a)(9)(F) involves the role
+18 of electric resistance space heating. In attempting to rebut a presumption of
+19 compliance created under this subsection, a challenge may only focus on the
+20 question of whether or not there will be compliance with the RBES and stretch
+21 code established and updated under this section. A presumption under this
+VT LEG #386266 v.3
+
+BILL AS INTRODUCED H.717
+2026 Page 11 of 35
+1 subsection shall not be overcome by evidence that the RBES and stretch code
+2 adopted and updated under this section fail to comply with 10 V.S.A.
+3 § 6086(a)(9)(F).
+4 (e) Certification.
+5 (1) Issuance; recording.
+6 (A)(i) A certification may be issued by a builder, a licensed
+7 professional engineer, a licensed architect, or an accredited home energy rating
+8 organization.
+9 (ii) The Director shall develop and make available to the public a
+10 certificate that lists key features of the RBES. Any person certifying shall use
+11 this certificate or one substantially like it to certify compliance with the RBES.
+12 (iii) Certification shall be issued by completing and signing a
+13 certificate and permanently affixing it to the outside of the heating or cooling
+14 equipment, to the electrical service panel located inside the building, or in a
+15 visible location in the vicinity of one of these three areas.
+16 (iv) The certificate shall certify that residential construction meets
+17 the RBES.
+18 (v) The person certifying under this subsection (e) shall provide a
+19 copy of each certificate to the Division of Fire and Building Safety.
+20 (B) A builder may contract with a licensed professional engineer, a
+21 licensed architect, or an accredited home energy rating organization to issue
+VT LEG #386266 v.3
+
+BILL AS INTRODUCED H.717
+2026 Page 12 of 35
+1 certification and to indemnify the builder from any liability to the owner of the
+2 residential construction caused by noncompliance with the RBES.
+3 (2) Condition precedent. Provision of a certificate as required by
+4 subdivision (1) of this subsection shall be a condition precedent to:
+5 (A) issuance by the Division of Fire and Building Safety or a
+6 municipal official acting under section 2736 of this chapter of any final
+7 occupancy permit required by the rules of the Commissioner of Public Safety
+8 for use or occupancy of residential construction; and
+9 (B) issuance by a municipality of a certificate of occupancy if the
+10 municipality requires such a certificate under 24 V.S.A. chapter 117.
+11 (f) Action for damages.
+12 (1) Except as otherwise provided in this subsection, a person aggrieved
+13 by noncompliance with this section may bring a civil action against a person
+14 that has the obligation of certifying compliance under subsection (e) of this
+15 section. This action may seek injunctive relief, damages, court costs, and
+16 attorney’s fees. As used in this subdivision, “damages” means:
+17 (A) costs incidental to increased energy consumption; and
+18 (B) labor, materials, and other expenses associated with bringing the
+19 structure into compliance with the RBES in effect on the date construction was
+20 commenced.
+VT LEG #386266 v.3
+
+BILL AS INTRODUCED H.717
+2026 Page 13 of 35
+1 (2) A person’s failure to affix the certification as required by this section
+2 shall not be an affirmative defense in such an action against the person.
+3 (3) The rights and remedies created by this section shall not be
+4 construed to limit any rights and remedies otherwise provided by law.
+5 (g) Applicability and exemptions. The construction of a residential
+6 addition to a building shall not create a requirement that the entire building
+7 comply with this subchapter. The following residential construction shall not
+8 be subject to the requirements of this subchapter:
+9 (1) buildings or additions whose peak energy use design rate for all
+10 purposes is less than 3.4 BTUs per hour, per square foot, or less than one watt
+11 per square foot of floor area;
+12 (2) homes subject to Title VI of the National Manufactured Housing
+13 Construction and Safety Standards Act of 1974 (42 U.S.C. §§ 5401–5426);
+14 (3) buildings or additions that are neither heated nor cooled; and
+15 (4) residential construction by an owner, if all of the following apply:
+16 (A) The owner of the residential construction is the builder, as
+17 defined under this section.
+18 (B) The residential construction is used as a dwelling by the owner.
+19 (C) The owner in fact directs the details of construction with regard
+20 to the installation of materials not in compliance with the RBES.
+VT LEG #386266 v.3
+
+BILL AS INTRODUCED H.717
+2026 Page 14 of 35
+1 (D) The owner discloses in writing to a prospective buyer, before
+2 entering into a binding purchase and sales agreement, the nature and extent of
+3 any noncompliance with the RBES. Any statement or certificate given to a
+4 prospective buyer shall itemize how the home does not comply with the RBES
+5 and shall itemize which measures do not meet the RBES in effect at the time
+6 construction commenced. Any certificate given under this subsection (g) shall
+7 be sent to the Division of Fire and Building Safety within 30 days following
+8 sale of the property by the owner.
+9 (h) Title validity not affected. A defect in marketable title shall not be
+10 created by a failure to issue certification or a certificate, as required under
+11 subsection (e) or subdivision (g)(4) of this section, by a failure under either
+12 subsection to affix or provide a certificate, or by a failure to provide a copy of
+13 a certificate to the Division of Fire and Building Safety.
+14 § 2773. HOME ENERGY RATING ORGANIZATION ACCREDITATION
+15 (a) The Department of Public Service shall carry out an accreditation
+16 process for home energy rating organizations, in consultation with the Division
+17 of Fire and Building Safety and representatives of interested parties, including
+18 builders, building designers, building science experts, mortgage lenders, real
+19 estate licensees, home appraisers, utilities, nonutility fuel suppliers, the
+20 Vermont Housing Finance Agency, and contractors who provide home energy
+21 rating services. As part of the accreditation process, the Department of Public
+VT LEG #386266 v.3
+
+BILL AS INTRODUCED H.717
+2026 Page 15 of 35
+1 Service shall consider any national home energy rating system guidelines and
+2 shall determine whether each provider of home energy ratings in the State of
+3 Vermont complies with the accreditation criteria adopted pursuant to this
+4 section.
+5 (b) Once the Department of Public Service carries out an accreditation
+6 process pursuant to subsection (a) of this section, no organization shall provide
+7 home energy rating services in the State unless the organization has been
+8 accredited by the Department.
+9 (c) The Department shall consult with the organizations described in
+10 subsection (a) of this section to facilitate a public information program to
+11 inform homeowners, renters, sellers, and others regarding the accreditation
+12 process and of the statewide home energy rating organizations accredited by
+13 the Department.
+14 § 2774. COMMERCIAL BUILDING ENERGY STANDARDS
+15 (a) Adoption of Commercial Building Energy Standards (CBES). The
+16 Director shall adopt Commercial Building Energy Standards to ensure that
+17 commercial building construction is designed and constructed in a manner that
+18 complies with the most recent edition of ANSI/ASHRAE/IESNA standard
+19 90.1 or of the IECC, whichever provides the greatest level of energy savings,
+20 that is in effect on the date the CBES are adopted.
+VT LEG #386266 v.3
+
+BILL AS INTRODUCED H.717
+2026 Page 16 of 35
+1 (b) Revision and interpretation of energy standards. The Director shall
+2 endeavor to amend and update the CBES by means of administrative rules
+3 adopted in accordance with 3 V.S.A. chapter 25 promptly after the issuance of
+4 updated standards for commercial construction under the IECC or ANSI/
+5 ASHRAE/IESNA standard 90.1, whichever provides the greatest level of
+6 energy savings. Prior to final adoption of each required revision of the CBES,
+7 the Director shall convene an advisory committee to include the Commissioner
+8 of Public Service or designee; one or more mortgage lenders; builders;
+9 building designers; individuals with expertise in building science; utility
+10 representatives; architects; civil, mechanical, and electrical engineers;
+11 environmental organizations; consumer advocates; energy efficiency experts;
+12 the Attorney General or designee; and other persons with experience and
+13 expertise that the Director and Commissioner deem to be appropriate, such as
+14 consumer advocates and energy conservation experts. The advisory committee
+15 may provide the Director with additional recommendations for the revision of
+16 the CBES, including the frequency of the updates.
+17 (1) Any amendments to the CBES shall be:
+18 (A) consistent with duly adopted State energy policy, as specified in
+19 30 V.S.A. § 202a; and
+20 (B) evaluated relative to their technical applicability and reliability.
+VT LEG #386266 v.3
+
+BILL AS INTRODUCED H.717
+2026 Page 17 of 35
+1 (2) Each time the CBES are amended by the Director, the amended
+2 CBES shall become effective upon a date specified in the adopted rule, which
+3 shall not be less than three months after the date of adoption. Persons
+4 submitting an application for any local permit authorizing commercial
+5 construction or an application for construction plan approval by the Division of
+6 Fire and Building Safety pursuant to this chapter before the effective date of
+7 the amended CBES shall have the option of complying with the applicable
+8 provisions of the earlier or the amended CBES. After the effective date of the
+9 amended CBES, any person submitting an application for commercial
+10 construction in an area subject to the CBES shall comply with the most recent
+11 version of the CBES.
+12 (3) The Director may adopt rules interpreting and implementing the
+13 CBES.
+14 (4) The Director may grant written variances or exemptions from the
+15 CBES or rules adopted under this section where strict compliance would entail
+16 practical difficulty or unnecessary hardship, or is otherwise found unwarranted,
+17 provided that:
+18 (A) any such variance or exemption shall be consistent with State
+19 energy policy, as specified in 30 V.S.A. § 202a;
+20 (B) any petitioner for such a variance or exemption can demonstrate
+21 that the methods, means, or practices proposed to be taken in lieu of
+VT LEG #386266 v.3
+
+BILL AS INTRODUCED H.717
+2026 Page 18 of 35
+1 compliance with the rule or rules provide, in the opinion of the Director, equal
+2 energy efficiency to that attained by compliance with the rule or rules;
+3 (C) a copy of any such variance or exemption shall be recorded by
+4 the petitioner in the land records of the city or town in which the building is
+5 located; and
+6 (D) a record of each variance or exemption shall be maintained by
+7 the Director, together with the certifications received by the Director.
+8 (c) Requirement for compliance. Commercial building construction with
+9 respect to which any local building permit application or application for
+10 construction plan approval by the Division of Fire and Building Safety
+11 pursuant to this chapter has been submitted shall be designed and constructed
+12 in substantial compliance with the CBES adopted by the Director pursuant to
+13 this section.
+14 (d) Certification requirement.
+15 (1)(A) The design of commercial buildings shall be certified by the
+16 primary designer as compliant with the CBES in accordance with this
+17 subsection (d), except as compliance is excused by a variance or exemption
+18 issued under subdivision (b)(4) of this section.
+19 (B)(i) If applicable law requires that the primary designer be a
+20 licensed professional engineer, licensed architect, or other licensed
+VT LEG #386266 v.3
+
+BILL AS INTRODUCED H.717
+2026 Page 19 of 35
+1 professional, a member of a pertinent licensed profession shall issue this
+2 certification.
+3 (ii) If one or more licensed professional engineers or licensed
+4 architects is involved in the design of the project, one of these licensees shall
+5 issue this certificate.
+6 (iii) If a licensed professional engineer or a licensed architect is
+7 not involved in designing the project, the design shall be reviewed and certified
+8 by a licensed professional engineer or a licensed architect.
+9 (C) Any certification shall be accompanied by an affidavit and shall
+10 certify that the commercial building was designed in substantial compliance
+11 with the requirements of the CBES and that, if applicable, the designer acted in
+12 accordance with the designer’s professional duty of care in designing the
+13 building.
+14 (D) The Director shall develop and make available to the public a
+15 certificate that lists key requirements of the CBES, sets forth certifying
+16 language in accordance with this subdivision (1), and requires disclosure of
+17 persons relied upon by the primary designer who have contracted to indemnify
+18 the primary designer for damages arising out of that reliance. Any person
+19 certifying under this subdivision (1) shall use this certificate or one
+20 substantially like it to satisfy these certification obligations.
+VT LEG #386266 v.3
+
+BILL AS INTRODUCED H.717
+2026 Page 20 of 35
+1 (E) Certification shall be issued by completing and signing a
+2 certificate and permanently affixing it to the outside of the heating or cooling
+3 equipment, to the electrical service panel located inside the building, or in a
+4 visible location in the vicinity of one of these three areas.
+5 (i) In certifying under this subsection (d), the certifying person
+6 may reasonably rely on one or more supporting affidavits received from other
+7 persons who contributed to the design affirming that the portions of the design
+8 produced by them were properly certifiable under this subsection (d).
+9 (ii) The certifying person may contract for indemnification from
+10 those on which the person relies pursuant to this subdivision (1) against
+11 damages arising out of that reliance. This indemnification shall not limit any
+12 rights of action of an aggrieved party.
+13 (2)(A) The construction of a commercial building shall be certified as
+14 compliant with the CBES in accordance with this subsection (d), except as
+15 compliance is excused by a variance or exemption issued under subdivision
+16 (b)(4) of this section.
+17 (B) This certification shall be issued by the general contractor,
+18 construction manager, or other party having primary responsibility for
+19 coordinating the construction of the subject building, or in the absence of such
+20 a person, by an accredited energy rating organization approved by the Director.
+VT LEG #386266 v.3
+
+BILL AS INTRODUCED H.717
+2026 Page 21 of 35
+1 (C) Any certification shall be accompanied by an affidavit and shall
+2 certify that the subject commercial building was constructed in accordance
+3 with the ordinary standard of care applicable to the participating construction
+4 trades and that the subject commercial building was constructed substantially
+5 in accordance with the construction documents, including the plans and
+6 specifications certified under subdivision (1) of this subsection (d) for that
+7 building.
+8 (D) The Director shall develop and make available to the public a
+9 certificate that sets forth certifying language in accordance with this
+10 subdivision (2) and that requires disclosure of persons who have been relied
+11 upon by the person with primary responsibility for coordinating the
+12 construction of the building and who have contracted to indemnify that person
+13 for damages arising out of that reliance. The person certifying under this
+14 subdivision (2) shall use that certificate or one substantially like it to satisfy
+15 these certification obligations.
+16 (E) Certification shall be issued by completing and signing a
+17 certificate and permanently affixing it to the outside of the heating or cooling
+18 equipment, to the electrical service panel located inside the building, or in a
+19 visible location in the vicinity of one of these three areas.
+20 (F)(i) In certifying under this subdivision (2), the certifying person
+21 may reasonably rely on one or more supporting affidavits received from
+VT LEG #386266 v.3
+
+BILL AS INTRODUCED H.717
+2026 Page 22 of 35
+1 subcontractors or others engaged in the construction of the subject commercial
+2 building affirming that the portions of the building constructed by them were
+3 properly certifiable under this subdivision (2).
+4 (ii) The certifying person may contract for indemnification from
+5 those on which the person relies pursuant to this subdivision (2) against
+6 damages arising out of that reliance. This indemnification shall not limit any
+7 rights of action of an aggrieved party.
+8 (3) Any person certifying under this subsection shall provide a copy of
+9 the person’s certificate and any accompanying affidavit to the Department of
+10 Public Service.
+11 (4) Provision of a certificate as required by subdivision (1) of this
+12 subsection and of a certificate as required by subdivision (2) of this subsection
+13 shall be conditions precedent to:
+14 (A) issuance by the Division of Fire and Building Safety, or a
+15 municipal official acting under section 2736 of this chapter, of any final
+16 occupancy permit required by the rules of the Commissioner of Public Safety
+17 for use or occupancy of a commercial building that is also a public building;
+18 and
+19 (B) issuance by a municipality of a certificate of occupancy for
+20 commercial construction if the municipality requires such a certificate under
+21 24 V.S.A. chapter 117.
+VT LEG #386266 v.3
+
+BILL AS INTRODUCED H.717
+2026 Page 23 of 35
+1 (e) Exemptions.
+2 (1) The following commercial buildings, or portions of those buildings,
+3 separated from the remainder of the building by thermal envelope assemblies
+4 complying with this section shall be exempt from the building thermal
+5 envelope provisions of the CBES:
+6 (A) those that do not contain conditioned space; and
+7 (B) those with a peak design rate of energy usage less than an amount
+8 specified in the CBES adopted under subsection (a) of this section.
+9 (2) The CBES adopted pursuant to this section shall not apply to
+10 equipment or portions of building energy systems that use energy primarily to
+11 provide for industrial or manufacturing processes.
+12 (f) Private right of action for damages against a certifier.
+13 (1) Except as otherwise provided in this subsection, a person aggrieved
+14 by another person’s breach of the representations contained in a certification or
+15 supporting affidavit issued or received as provided under subsection (d) of this
+16 section, within 10 years after the earlier of completion of construction or
+17 occupancy of the affected commercial building or portion of that building, may
+18 bring a civil action in Superior Court against a person who has an obligation of
+19 certifying compliance under subsection (d) of this section alleging breach of
+20 the representations contained in that person’s certification. This action may
+21 seek injunctive relief, damages arising from the aggrieved party’s reliance on
+VT LEG #386266 v.3
+
+BILL AS INTRODUCED H.717
+2026 Page 24 of 35
+1 the accuracy of those representations, court costs, and reasonable attorney’s
+2 fees in an amount to be determined by the court. For purposes of this
+3 subdivision, “damages” includes costs incidental to increased energy
+4 consumption.
+5 (2) A person’s failure to affix the certification as required by this section
+6 shall not be an affirmative defense in such an action against the person.
+7 (3) The rights and remedies created by this section shall not be
+8 construed to limit any rights and remedies otherwise provided by law.
+9 (4) The right of action established in this subsection shall not be waived
+10 by contract or other agreement.
+11 (5) It shall be a defense to an action under this subsection that either at
+12 the time of completion or at any time thereafter, the commercial building or
+13 portion of building covered by a certificate under subsection (d) of this section,
+14 as actually constructed, met or exceeded the overall performance standards
+15 established in the CBES in effect on the date construction was commenced.
+16 (g) State or local enforcement. Any person who knowingly makes a false
+17 certification under subsection (d) of this section, or any party who fails to
+18 certify under subsection (d) of this section when required to do so, shall be
+19 subject to a civil penalty of not more than $250.00 per day, up to $10,000.00
+20 for each year the violation continues.
+VT LEG #386266 v.3
+
+BILL AS INTRODUCED H.717
+2026 Page 25 of 35
+1 (h) Title validity not affected. A defect in marketable title shall not be
+2 created by a failure to record a variance or exemption pursuant to subdivision
+3 (b)(4) of this section, by a failure to issue certification or a certificate, as
+4 required under subsection (d) of this section, or by a failure under that
+5 subsection to affix a certificate or provide a copy of a certificate to the
+6 Department of Public Service.
+7 § 2775. COMPLIANCE PLAN
+8 (a) The Director shall:
+9 (1) Adopt and regularly update a plan for ensuring compliance with the
+10 energy standards adopted under this subchapter in new and renovated
+11 residential and commercial building space. In preparing the plan and any
+12 updates to it, the Director shall:
+13 (A) consider enforcement mechanisms for building energy codes that
+14 have been adopted in other jurisdictions; and
+15 (B) solicit comments and recommendations from one or more
+16 mortgage lenders; builders; building designers; building scientists; architects;
+17 civil, mechanical, and electrical engineers; utility representatives;
+18 environmental organizations; consumer advocates; energy efficiency experts;
+19 the Attorney General; and other persons who are potentially affected or have
+20 relevant expertise.
+VT LEG #386266 v.3
+
+BILL AS INTRODUCED H.717
+2026 Page 26 of 35
+1 (2) Coordinate with the Office of Economic Opportunity, the Office of
+2 Professional Regulation, the Department of Public Service, and any private
+3 energy organizations, as the Director deems appropriate, to implement
+4 trainings and services in support of building energy code certification and
+5 building science education.
+6 (b) The Director may:
+7 (1) Establish a system for measuring the rate of compliance each year
+8 with the energy standards adopted under this subchapter. If the Director
+9 establishes such a system, the Director shall annually measure the rate of
+10 compliance and publish that information on the website of the Division of Fire
+11 and Building Safety.
+12 (2) Adopt administrative rules pursuant to 3 V.S.A. chapter 25 to
+13 implement this subchapter.
+14 § 2776. PRIORITY HOUSING PROJECTS; STRETCH CODE
+15 A priority housing project as defined in 10 V.S.A. § 6001 shall meet or
+16 exceed the stretch codes established by the Director under this subchapter.
+17 Sec. 4. 26 V.S.A. § 5509 is amended to read:
+18 § 5509. REQUIREMENTS OF REGISTRANTS
+19 * * *
+VT LEG #386266 v.3
+
+BILL AS INTRODUCED H.717
+2026 Page 27 of 35
+1 (b) Writing.
+2 (1) A person registered under this chapter shall execute a written
+3 contract prior to receiving a deposit or commencing residential construction
+4 work if the estimated value of the labor and materials exceeds $10,000.00.
+5 * * *
+6 (4) Any contract for the residential construction services of a person
+7 registered under this chapter shall provide that the residential contractor is
+8 required to comply with 20 V.S.A. § 2772 (residential building energy
+9 standards) and 20 V.S.A. § 2774 (commercial building energy standards).
+10 * * *
+11 Sec. 5. RESIDENTIAL BUILDING CONTRACTOR CONTRACT
+12 TEMPLATES
+13 The Office of Professional Regulation shall update any contract template
+14 the Office furnishes for residential building contracting to provide that the
+15 residential contractor is required to comply with 20 V.S.A. § 2772 (residential
+16 building energy standards) and 20 V.S.A. § 2774 (commercial building energy
+17 standards).
+18 Sec. 6. RESIDENTIAL BUILDING CONTRACTOR; ENERGY
+19 STANDARDS CERTIFICATION; TRADE SERVICES
+20 (a) For each trade service compiled pursuant to subsection (b) of this
+21 section, the Office of Professional Regulation shall develop a certification as
+VT LEG #386266 v.3
+
+BILL AS INTRODUCED H.717
+2026 Page 28 of 35
+1 that term is defined in 26 V.S.A. § 3101a recognizing proficiency in State
+2 building energy standards under 20 V.S.A. § 2772 (residential building energy
+3 standards) and 20 V.S.A. § 2774 (commercial building energy standards). If
+4 the Office determines that the qualifications attested to by the certification
+5 developed for a trade service are substantially similar to those required for the
+6 performance of another trade service in compliance with State building energy
+7 standards, the Office may employ the certification for each such trade service.
+8 (b) The Office shall compile a list of trade services offered as residential
+9 construction work by persons registered under 26 V.S.A. chapter 106.
+10 Sec. 7. PERMIT SYSTEM REDESIGN; ENERGY CODES
+11 The Division of Fire Safety shall include in its permit data system redesign,
+12 currently in process, data fields for salient building energy code data, such as
+13 certificate tracking number, date filed, by whom, conditioned square footage,
+14 an industry-standard measure of airtightness, and energy use intensity or
+15 similar metric.
+16 Sec. 8. RESIDENTIAL AND COMMERCIAL BUILDING ENERGY
+17 STANDARDS; TRANSITION
+18 The Residential Building Energy Standards adopted pursuant to 30 V.S.A.
+19 § 51 and the Commercial Building Energy Standards adopted pursuant to
+20 30 V.S.A. § 53 that are in effect on December 30, 2029, shall, on December
+21 31, 2029, become the Residential Building Energy Standards and the
+VT LEG #386266 v.3
+
+BILL AS INTRODUCED H.717
+2026 Page 29 of 35
+1 Commercial Building Energy Standards of the Division of Fire and Building
+2 Safety until they are amended or repealed.
+3 Sec. 9. INTEGRATION OF BUILDING AND ENERGY CODES; TASK
+4 FORCE; REPORTS
+5 (a) Creation. There is created the Building and Energy Codes Integration
+6 Task Force to ensure that the Division of Fire Safety, upon assuming
+7 jurisdiction over the Residential Building Energy Standards (RBES) and the
+8 Commercial Building Energy Standards (CBES), shall be able to administer
+9 Vermont’s building codes and energy standards in an integrated and
+10 streamlined manner.
+11 (b) Membership. The Task Force shall be composed of the following
+12 members:
+13 (1) the Director of Fire Safety or designee;
+14 (2) the Director of the Office of Professional Regulation or designee;
+15 (3) the Commissioner of Public Service or designee;
+16 (4) the Commissioner of Labor or designee;
+17 (5) the Secretary of Natural Resources or designee;
+18 (6) the Managing Director of Efficiency Vermont or designee;
+19 (7) the Executive Director of the American Institute of Architects,
+20 Vermont chapter, or designee;
+VT LEG #386266 v.3
+
+BILL AS INTRODUCED H.717
+2026 Page 30 of 35
+1 (8) the President of the Associated General Contractors of Vermont or
+2 designee;
+3 (9) the President of the Vermont Builders and Remodelers Association
+4 or designee;
+5 (10) the President of the American Society of Heating, Refrigerating,
+6 and Air Conditioning Engineers, Champlain Valley Chapter, or designee; and
+7 (11) the President of the ICC Building Safety Association of Vermont or
+8 designee.
+9 (c) Powers and duties. The Task Force shall advise the Division of Fire
+10 Safety and develop proposed measures to ensure that the Division of Fire
+11 Safety, upon assuming jurisdiction over the RBES and CBES, shall be able to
+12 administer Vermont’s building codes and energy standards in an integrated and
+13 streamlined manner, including the following:
+14 (1) develop a plan, schedule, and budget for the Division of Fire Safety
+15 to establish the administrative framework necessary to assume jurisdiction over
+16 the RBES and CBES on or before December 31, 2029, which shall:
+17 (A) identify specific steps that must be taken for the Division to
+18 assume jurisdiction over the RBES and CBES;
+19 (B) include a plan and schedule for hiring and training staff needed to
+20 administer the RBES and CBES;
+VT LEG #386266 v.3
+
+BILL AS INTRODUCED H.717
+2026 Page 31 of 35
+1 (C) identify information technology needs and a timeline for
+2 acquisition; and
+3 (D) provide a detailed estimate of related costs for each State fiscal
+4 year;
+5 (2) recommend potential revenue sources to support both the process of
+6 transitioning the administration of the RBES and CBES to the Division of Fire
+7 Safety and the ongoing administration of the RBES and CBES following the
+8 transition;
+9 (3) recommend the membership of a permanent advisory board to assist
+10 the Division of Fire Safety with:
+11 (A) carrying out its duties with respect to the RBES and CBES;
+12 (B) determining a schedule and process for regularly updating the
+13 RBES and CBES;
+14 (C) identifying strategies for integrated and streamlined enforcement
+15 of the RBES and CBES in conjunction with Vermont’s other building codes;
+16 and
+17 (D) identifying any legislative action necessary to facilitate the
+18 integrated and streamlined enforcement of the RBES and CBES in conjunction
+19 with Vermont’s other building codes; and
+VT LEG #386266 v.3
+
+BILL AS INTRODUCED H.717
+2026 Page 32 of 35
+1 (4) examine:
+2 (A) the overlapping jurisdiction of the Division of Fire Safety and the
+3 Office of Professional Regulation with respect to contractors and individuals
+4 working in the construction trades; and
+5 (B) potential opportunities to simplify and streamline the regulation
+6 of contractors and individuals working in the construction trades.
+7 (d) Assistance. The Task Force shall have the administrative, technical,
+8 and legal assistance of Department of Public Safety and the Division of Fire
+9 Safety.
+10 (e) Report. Annually, on or before November 1, the Task Force shall
+11 submit a written report to the House Committees on Energy and Digital
+12 Infrastructure and on Housing and General Affairs and to the Senate
+13 Committees on Economic Development, Housing and General Affairs and on
+14 Natural Resources and Energy with a summary of its work during the
+15 preceding year and any recommendations for legislative action.
+16 (f) Meetings.
+17 (1) The Director of Fire Safety shall call the first meeting of the Task
+18 Force to occur on or before November 1, 2026.
+19 (2) The Task Force shall meet at least once per calendar quarter.
+20 (3) The Task Force shall select a chair from among its members at the
+21 first meeting.
+VT LEG #386266 v.3
+
+BILL AS INTRODUCED H.717
+2026 Page 33 of 35
+1 (4) A majority of the membership shall constitute a quorum.
+2 (5) The Task Force shall cease to exist on January 1, 2030.
+3 (g) Compensation and reimbursement. Members of the Task Force who
+4 are not otherwise compensated for their attendance at meetings shall be entitled
+5 to per diem compensation as permitted under 32 V.S.A. § 1010 for not more
+6 than four meetings per year. These payments shall be made from monies
+7 appropriated to the Division of Fire Safety.
+8 Sec. 10. CONFORMING REVISIONS
+9 When preparing the Vermont Statutes Annotated for publication, the Office
+10 of Legislative Counsel shall make the following revisions throughout the
+11 statutes as needed for consistency with Secs. 1, 2, and 3 of this act, provided
+12 the revisions have no other effect on the meaning of the affected statutes:
+13 (1) replace “Division of Fire Safety” with “Division of Fire and
+14 Building Safety”;
+15 (2) replace “30 V.S.A. § 51” with “20 V.S.A. § 2772”;
+16 (3) replace “30 V.S.A. § 53” with “20 V.S.A. § 2774”; and
+17 (4) revisions that are substantially similar to those described in
+18 subdivisions (1)–(3) of this section.
+19 * * * Adoption of Residential Building Code * * *
+20 Sec. 11. ADOPTION OF RESIDENTIAL BUILDING CODE;
+21 APPROPRIATION; POSITION
+VT LEG #386266 v.3
+
+BILL AS INTRODUCED H.717
+2026 Page 34 of 35
+1 (a) The Division of Fire Safety shall adopt a residential building code for
+2 public buildings that contain residential units to take effect on or before
+3 December 31, 2027. The residential building code shall be based on the
+4 International Residential Code. The Director of Fire Safety shall, on or before
+5 April 1, 2027, file with the Office of the Secretary of State pursuant to 3
+6 V.S.A. § 838 proposed rules necessary to carry out the provisions of this
+7 subsection.
+8 (b)(1) The establishment of one permanent, exempt full-time residential
+9 building code administrator in the Division of Fire Safety is authorized for
+10 fiscal year 2027.
+11 (2) It is the intent of the General Assembly that the residential building
+12 code administrator position authorized pursuant to this subsection shall be
+13 filled in time to commence work on or before January 1, 2027.
+14 (c) The amount of $50,000.00 is appropriated from the General Fund to the
+15 Division of Fire Safety in fiscal year 2027 for salary and benefits of the
+16 residential building code administrator authorized pursuant to subsection (b) of
+17 this section.
+18 * * * Effective Dates * * *
+19 Sec. 12. EFFECTIVE DATES
+20 (a) This section and Secs. 4–7 (requirements and certifications related to
+21 RBES and CBES) shall take effect on passage.
+VT LEG #386266 v.3
+
+BILL AS INTRODUCED H.717
+2026 Page 35 of 35
+1 (b) Secs. 1–3 (transfer of jurisdiction over RBES and CBES to Division of
+2 Fire and Building Safety), 8 (transition of RBES and CBES), and 10
+3 (conforming revisions) shall take effect on December 31, 2029.
+4 (c) Sec. 9 (Building and Energy Codes Integration Task Force) and Sec. 11
+5 (adoption of residential building code) shall take effect on July 1, 2026.
+VT LEG #386266 v.3

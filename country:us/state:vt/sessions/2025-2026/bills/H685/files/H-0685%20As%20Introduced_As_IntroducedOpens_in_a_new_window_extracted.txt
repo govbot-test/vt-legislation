@@ -1,0 +1,47 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.685
+2026 Page 1 of 2
+1 H.685
+2 Introduced by Representative Krasnow of South Burlington
+3 Referred to Committee on
+4 Date:
+5 Subject: Health; health insurance; chemotherapy; scalp cooling
+6 Statement of purpose of bill as introduced: This bill proposes to require health
+7 insurance coverage for scalp cooling systems used in connection with cancer
+8 chemotherapy treatment.
+9 An act relating to health insurance coverage for scalp cooling systems
+10 It is hereby enacted by the General Assembly of the State of Vermont:
+11 Sec. 1. 8 V.S.A. § 4095d is amended to read:
+12 § 4095d. CHEMOTHERAPY TREATMENT AND ORAL ANTICANCER
+13 MEDICATIONS
+14 (a) A health insurance plan shall provide coverage for medically necessary
+15 growth cell stimulating factor injections taken as part of a prescribed
+16 chemotherapy regimen.
+17 (b)(1) A health insurance plan shall provide coverage for scalp cooling
+18 systems used in connection with cancer chemotherapy treatment.
+19 (2) As used in this subsection, “scalp cooling system” means any device
+20 used to cool the human scalp to prevent or reduce hair loss during cancer
+VT LEG #385696 v.1
+
+BILL AS INTRODUCED H.685
+2026 Page 2 of 2
+1 chemotherapy treatment, provided that the device is designed and intended for
+2 repeated use and is primarily and customarily used to serve a medical purpose.
+3 (c) A health insurance plan shall provide coverage for prescribed, orally
+4 administered anticancer medications used to kill or slow the growth of
+5 cancerous cells that is not less favorable on a financial basis than intravenously
+6 administered or injected anticancer medications covered under the covered
+7 individual’s plan.
+8 Sec. 2. EFFECTIVE DATE
+9 This act shall take effect on January 1, 2027, and shall apply to all health
+10 insurance plans issued on and after January 1, 2027, on such date as a health
+11 insurer offers, issues, or renews the health insurance plan, but in no event later
+12 than January 1, 2028.
+VT LEG #385696 v.1

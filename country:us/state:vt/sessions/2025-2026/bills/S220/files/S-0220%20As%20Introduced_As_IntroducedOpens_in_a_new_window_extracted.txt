@@ -1,0 +1,61 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED S.220
+2026 Page 1 of 3
+1 S.220
+2 Introduced by Senator Baruth
+3 Referred to Committee on
+4 Date:
+5 Subject: Taxation and finance; education property tax; education; State
+6 funding of public education; education spending; per pupil education
+7 spending; allowable growth
+8 Statement of purpose of bill as introduced: This bill proposes to limit the
+9 growth in each school district’s per pupil education spending in fiscal years
+10 2028 and 2029 to a specified allowable growth percentage of the district’s
+11 prior year per pupil education spending.
+12 An act relating to addressing education spending in fiscal years 2028 and
+13 2029
+14 It is hereby enacted by the General Assembly of the State of Vermont:
+15 Sec. 1. ALLOWABLE GROWTH IN EDUCATION SPENDING FOR
+16 FISCAL YEARS 2028 AND 2029
+17 (a) Notwithstanding any other provision of law, for fiscal years 2028 and
+18 2029 only, a school district’s per pupil education spending, as defined in
+19 16 V.S.A. § 4001(14), shall not exceed the sum of the district’s per pupil
+20 education spending in the prior fiscal year and the district’s allowable growth.
+VT LEG #386345 v.4
+
+BILL AS INTRODUCED S.220
+2026 Page 2 of 3
+1 (b) As used in this section:
+2 (1) “Allowable growth” for a school district means the product of the
+3 district’s allowable growth percentage and the district’s per pupil education
+4 spending in the prior fiscal year.
+5 (2)(A) “Allowable growth percentage” for a school district means nine
+6 percent of the difference in per pupil education spending in the prior fiscal year
+7 between the district and the highest spending district, excluding gores,
+8 expressed as a percentage of the district’s per pupil education spending in the
+9 prior fiscal year, provided that the minimum allowable growth percentage shall
+10 be three percent.
+11 (B) A school district’s “allowable growth percentage” is calculated as
+12 follows:
+13 (i) subtract the district’s per pupil education spending in the prior
+14 fiscal year from the highest per pupil education spending in any district,
+15 excluding gores, in the prior fiscal year;
+16 (ii) divide the difference determined under subdivision (i) of this
+17 subdivision (2)(B) by the district’s per pupil education spending in the prior
+18 fiscal year; and
+19 (iii) multiply the percentage determined under subdivision (ii) of
+20 this subdivision (2)(B) by nine percent.
+VT LEG #386345 v.4
+
+BILL AS INTRODUCED S.220
+2026 Page 3 of 3
+1 Sec. 2. EFFECTIVE DATE
+2 This act shall take effect on July 1, 2026.
+VT LEG #386345 v.4

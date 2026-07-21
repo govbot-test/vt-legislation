@@ -1,0 +1,1349 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED S.272
+2026 Page 1 of 55
+1 S.272
+2 Introduced by Senators Beck, Benson, Brennan, Brock, Collamore, Heffernan,
+3 Mattos, Weeks and Williams
+4 Referred to Committee on
+5 Date:
+6 Subject: Crimes and criminal procedure; recidivism; juvenile proceedings
+7 Statement of purpose of bill as introduced: This bill proposes to increase the
+8 number of Big 14 offenses that commence in the Criminal Division of the
+9 Superior Court rather than the Family Division when committed by a juvenile;
+10 repeal the Raise the Age initiative for offenders who are 19 years of age;
+11 transfer jurisdiction over youthful offender proceedings from the Family
+12 Division to the Criminal Division; require the court to prioritize and expedite
+13 motions to transfer juvenile proceedings between the Criminal and Family
+14 Divisions; establish procedures for bail revocation and an appeal of a denial of
+15 a request to revoke bail; prohibit the court from ordering a sentence that is
+16 suspended, deferred, or served as a supervised sentence if a person has a prior
+17 conviction for escape or three or more convictions for a felony listed crime
+18 unless the court makes findings on the record that there are compelling reasons
+19 why such a sentence will serve the interests of justice and protect the public;
+20 prohibit the court from suspending a sentence for a person who has previously
+21 been found to have violated probation, been unsatisfactorily discharged from
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 2 of 55
+1 probation, or had furlough revoked unless the court makes findings on the
+2 record that there are compelling reasons why such a sentence will serve the
+3 interests of justice and protect the public; require the court to make written
+4 findings if the court orders a deferred sentence over the objections of the
+5 prosecutor; require that criminal history records related to deferred sentences
+6 are sealed instead of expunged upon completion of the sentence; prohibit the
+7 court from reducing the sentence for a conviction of a listed crime if the
+8 defendant has three or more convictions for a listed crime or five or more
+9 pending criminal charges; redefine how recidivism is calculated; establish a
+10 graduated classification system to track persons who recidivate; establish
+11 definitions, calculations, and classification systems to measure persons who
+12 commit repeat violent offenses; repeal the statutes providing earned time and
+13 midpoint probation review for sentenced offenders; establish a forensic facility
+14 for certain criminal justice-involved individuals; require the court, unless
+15 contrary to the interests of justice, to dismiss misdemeanor charges against a
+16 person who has been found incompetent to stand trial if, after the finding of
+17 incompetence, the case remains inactive for a continuous period of time equal
+18 to or greater than the maximum sentence for the offense; and limit the
+19 applicability of the Vermont Rules of Evidence in proceedings involving
+20 competency restoration and granting or revoking conditional release from a
+21 forensic facility.
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 3 of 55
+1 An act relating to juvenile proceedings, criminal procedures, and forensic
+2 facilities for criminal justice-involved individuals
+3 It is hereby enacted by the General Assembly of the State of Vermont:
+4 * * * Juvenile and Youthful Offender Proceedings * * *
+5 Sec. 1. 33 V.S.A. § 5201 is amended to read:
+6 § 5201. COMMENCEMENT OF DELINQUENCY PROCEEDINGS
+7 * * *
+8 (c)(1) Any proceeding concerning a child who is alleged to have committed
+9 an act specified in subsection 5204(a) of this title after attaining 14 years of
+10 age, but not 22 years of age, shall originate in the Criminal Division of the
+11 Superior Court, provided that jurisdiction may be transferred in accordance
+12 with this chapter and chapter 52A of this title, unless the State’s Attorney files
+13 the charge directly as a youthful offender petition in the Family Division.
+14 * * *
+15 (3) Any proceeding concerning a child who is alleged to have
+16 committed one of the following acts after attaining 16 years of age, but not 22
+17 years of age, shall originate in the Criminal Division of the Superior Court,
+18 provided that jurisdiction may be transferred in accordance with this chapter
+19 and chapter 52A of this title, unless the State’s Attorney files the charge
+20 directly as a youthful offender petition in the Family Division:
+21 (A) using carrying a firearm while committing a felony in violation
+22 of 13 V.S.A. § 4005, or an attempt to commit that offense; or
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 4 of 55
+1 (B) trafficking a regulated drug in violation of 18 V.S.A. chapter 84,
+2 subchapter 1, or an attempt to commit that offense; or
+3 (C) aggravated stalking as defined in 13 V.S.A. § 1063(a)(3), or an
+4 attempt to commit that offense.
+5 * * *
+6 Sec. 2. 33 V.S.A. § 5204 is amended to read:
+7 § 5204. TRANSFER FROM FAMILY DIVISION OF THE SUPERIOR
+8 COURT
+9 (a) After a petition has been filed alleging delinquency, upon motion of the
+10 State’s Attorney and after hearing, the Family Division of the Superior Court
+11 may transfer jurisdiction of the proceeding to the Criminal Division of the
+12 Superior Court if the child had attained 16 years of age but not 19 years of age
+13 at the time the act was alleged to have occurred and the delinquent act set forth
+14 in the petition is a felony not specified in subdivisions (1)–(11)(14) of this
+15 subsection or if the child had attained 12 years of age but not 14 years of age at
+16 the time the act was alleged to have occurred, and if the delinquent act set forth
+17 in the petition was any of the following:
+18 (1) arson causing death as defined in 13 V.S.A. § 501 or an attempt to
+19 commit that offense;
+20 (2) assault and robbery with a dangerous weapon as defined in 13
+21 V.S.A. § 608(b) or an attempt to commit that offense;
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 5 of 55
+1 (3) assault and robbery causing bodily injury as defined in 13 V.S.A.
+2 § 608(c) or an attempt to commit that offense;
+3 (4) aggravated assault as defined in 13 V.S.A. § 1024 or an attempt to
+4 commit that offense;
+5 (5) murder as defined in 13 V.S.A. § 2301 and aggravated murder as
+6 defined in 13 V.S.A. § 2311 or an attempt to commit either of those offenses;
+7 (6) manslaughter as defined in 13 V.S.A. § 2304 or an attempt to
+8 commit that offense;
+9 (7) kidnapping as defined in 13 V.S.A. § 2405 or an attempt to commit
+10 that offense;
+11 (8) unlawful restraint as defined in 13 V.S.A. § 2406 or 2407 or an
+12 attempt to commit that offense;
+13 (9) maiming as defined in 13 V.S.A. § 2701 or an attempt to commit
+14 that offense;
+15 (10) sexual assault as defined in 13 V.S.A. § 3252(a)(1) or (a)(2) or an
+16 attempt to commit that offense; or
+17 (11) aggravated sexual assault as defined in 13 V.S.A. § 3253 and
+18 aggravated sexual assault of a child as defined in 13 V.S.A. § 3253a or an
+19 attempt to commit either of those offenses;
+20 (12) aggravated stalking as defined in 13 V.S.A. § 1063(a)(3) or an
+21 attempt to commit that offense;
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 6 of 55
+1 (13) first degree aggravated domestic assault as defined in 13 V.S.A.
+2 § 1043 or second degree aggravated domestic assault as defined in 13 V.S.A.
+3 § 1044 or an attempt to commit either of those offenses; or
+4 (14) lewd or lascivious conduct as defined in 13 V.S.A. § 2601 or lewd
+5 or lascivious conduct with a child as defined in 13 V.S.A. § 2602 or an attempt
+6 to commit either of those offenses.
+7 * * *
+8 Sec. 3. 33 V.S.A. § 5280 is amended to read:
+9 § 5280. COMMENCEMENT OF YOUTHFUL OFFENDER
+10 PROCEEDINGS IN THE FAMILY DIVISION
+11 (a) A youthful offender proceeding under this chapter shall be commenced
+12 by:
+13 (1) the filing of a youthful offender petition by a State’s Attorney in the
+14 Criminal Division of the Superior Court; or
+15 (2) transfer to the Family Court of a proceeding from the Criminal
+16 Division of the Superior Court as provided in section 5281 of this title the
+17 filing of a motion in the Criminal Division of the Superior Court by the State’s
+18 Attorney, the defendant, or the court on its own motion requesting that a
+19 defendant in a criminal proceeding who has attained 14 years of age but not 22
+20 years of age at the time the offense is alleged to have been committed be
+21 treated as a youthful offender.
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 7 of 55
+1 (b) A State’s Attorney may commence a proceeding in the Family Division
+2 of the Superior Court concerning a child who is alleged to have committed an
+3 offense after attaining 14 years of age but not 22 years of age that could
+4 otherwise be filed in the Criminal Division.
+5 (1) Upon the filing of a petition or a motion under subdivision (a)(1) or
+6 (2) of this section and the entering of a conditional plea of guilty by the youth,
+7 the Criminal Division of the Superior Court shall enter an order deferring the
+8 sentence and hold a hearing on the motion. If the youth declines to enter a
+9 conditional plea, youthful offender status shall be denied.
+10 (2) As used in this subsection, “conditional plea of guilty” means
+11 agreement by the parties to a plea arrangement that:
+12 (A) includes outcomes for successful and unsuccessful youthful
+13 offender rehabilitation program completion; and
+14 (B) is conditioned on the granting of youthful offender status that
+15 may be withdrawn in the event that youthful offender status is denied.
+16 (c) If a State’s Attorney files a petition under subdivision (a)(1) of this
+17 section, the The case shall proceed as provided under subsection 5281(b) of
+18 this title. Except as provided in subdivision 5283(c)(2) of this title, upon the
+19 commencement of a youthful offender proceeding, and after hearing from the
+20 parties and the victim, the court may seal future proceedings until youthful
+21 offender status is denied or revoked if it finds for good cause shown that
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 8 of 55
+1 safeguarding the physical and psychological well-being of a youth under 18
+2 years of age outweighs the public’s interest in open proceedings. The court
+3 shall make specific findings on the record supporting an order under this
+4 subsection.
+5 (d)(1) Within 15 days after the Upon commencement of a youthful
+6 offender proceeding pursuant to subsection (a) of this section, the court shall
+7 notify the youth that the youth is required to complete a risk and needs
+8 screening, which shall be conducted by the Department or by a community
+9 provider that has contracted with the Department to provide risk and needs
+10 screenings. The notice shall inform the youth that youthful offender status
+11 may be denied if the youth fails to participate in the risk and needs screening.
+12 (2) The risk and needs screening shall be completed prior to the youthful
+13 offender status hearing held pursuant to section 5283 of this title. Unless the
+14 court extends the period for the risk and needs screening for good cause
+15 shown, the Family Division court shall reject the case for youthful offender
+16 treatment if the youth does not complete the risk and needs screening within 15
+17 days after the offer for the risk and needs screening.
+18 (3) The Department or the community provider shall report the risk level
+19 result of the screening, the number and source of the collateral contacts made,
+20 and the recommendation for charging or other alternatives to the State’s
+21 Attorney.
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 9 of 55
+1 (4) Information related to the present alleged offense directly or
+2 indirectly derived from the risk and needs screening or other conversation with
+3 the Department or community-based provider shall not be used against the
+4 youth in the youth’s criminal or juvenile case for any purpose, including
+5 impeachment or cross-examination. However, the fact of participation in risk
+6 and needs screening may be used in subsequent proceedings.
+7 (e) The State’s Attorney shall may refer a youth directly to court diversion
+8 a youth alleged to have committed any offense other than those specified in
+9 subsection 5204(a) of this title who presents a low to moderate risk to reoffend
+10 based on the results of the risk and needs screening, unless the State’s Attorney
+11 states on the record at the hearing held pursuant to section 5283 of this title
+12 why a referral would not serve the ends of justice. If the court diversion
+13 program does not accept the case or if the youth fails to complete the program
+14 in a manner deemed satisfactory and timely by the provider, the youth’s case
+15 shall return to the State’s Attorney for charging consideration.
+16 Sec. 4. 33 V.S.A. § 5281 is amended to read:
+17 § 5281. MOTION PROCEDURES IN CRIMINAL DIVISION OF
+18 SUPERIOR COURT
+19 (a) A motion may be filed in the Criminal Division of the Superior Court
+20 requesting that a defendant under 22 years of age in a criminal proceeding who
+21 had attained 12 years of age but not 22 years of age at the time the offense is
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 10 of 55
+1 alleged to have been committed be treated as a youthful offender. The motion
+2 may be filed by the State’s Attorney, the defendant, or the court on its own
+3 motion.
+4 (b) Unless the State’s Attorney refers the youth directly to court diversion
+5 pursuant to subsection 5280(e) of this title, upon the filing of a motion under
+6 this section or the filing of a youthful offender petition pursuant to section
+7 5280 of this title, the Family Division court shall hold a hearing pursuant to
+8 section 5283 of this title. Pursuant to section 5110 of this title, the The hearing
+9 shall be confidential as provided in section 5284 of this title. Copies of all
+10 records relating to the case shall be forwarded to the Family Division.
+11 Conditions of release and any Department of Corrections supervision or
+12 custody shall remain in effect until:
+13 (1) the Family Division accepts the case for treatment as a youthful
+14 offender and orders conditions of juvenile probation pursuant to section 5284
+15 of this title;
+16 (2) any conditions of release or bail are modified, amended, or vacated
+17 pursuant to 13 V.S.A. chapter 229; or
+18 (3)(2) the case is otherwise concluded.
+19 (c)(b)(1) If the Family Division court rejects the case for youthful offender
+20 treatment pursuant to section 5284 of this title, the case shall be transferred to
+21 the Criminal Division. The conditions of release imposed by the Criminal
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 11 of 55
+1 Division shall remain in effect, and the case shall proceed as though the motion
+2 for youthful offender treatment or youthful offender petition had not been
+3 filed.
+4 (2) Subject to Rule 11 of the Vermont Rules of Criminal Procedure and
+5 Rule 410 of the Vermont Rules of Evidence, the Family Division’s court’s
+6 denial of the motion for youthful offender treatment and any information
+7 related to the youthful offender proceeding shall be inadmissible against the
+8 youth for any purpose in the subsequent Criminal Division proceeding.
+9 (d)(c) If the Family Division accepts the case for youthful offender
+10 treatment, the case shall proceed to a confidential merits hearing or admission
+11 pursuant to sections 5227-5229 of this title the youth shall not be permitted to
+12 withdraw the youth’s plea of guilty after youthful offender status is approved
+13 except to correct manifest injustice pursuant to Rule 32(d) of the Vermont
+14 Rules of Criminal Procedure.
+15 Sec. 5. 33 V.S.A. § 5282 is amended to read:
+16 § 5282. REPORT FROM THE DEPARTMENT
+17 (a) Within 30 days after the youth has completed the risk and needs
+18 screening pursuant to section 5280 of this title, unless the court extends the
+19 period for good cause shown or the State’s Attorney refers the youth directly to
+20 court diversion pursuant to subsection 5280(e) of this title, the Department for
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 12 of 55
+1 Children and Families shall file a report with the Family Division of the
+2 Superior Court.
+3 (b) A report filed pursuant to this section shall include the following
+4 elements:
+5 (1) a recommendation as to whether diversion is appropriate for the
+6 youth because the youth is a low to moderate risk to reoffend;
+7 (2) a recommendation as to whether youthful offender status is
+8 appropriate for the youth; and
+9 (3) a description of the services that may be available for the youth.
+10 (c) A report filed pursuant to this section is privileged and shall not be
+11 disclosed to any person other than:
+12 (1) the Department;
+13 (2) the court;
+14 (3) the State’s Attorney;
+15 (4) the youth, the youth’s attorney, and the youth’s guardian ad litem;
+16 (5) the youth’s parent, guardian, or custodian if the youth is under 18
+17 years of age, unless the court finds that disclosure would be contrary to the best
+18 interests of the child;
+19 (6) the Department of Corrections; or
+20 (7) any other person when the court determines that the best interests of
+21 the youth would make such a disclosure desirable or helpful. [Repealed.]
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 13 of 55
+1 Sec. 6. 33 V.S.A. § 5283 is amended to read:
+2 § 5283. DISPOSITION HEARING IN FAMILY DIVISION
+3 (a) Timeline. Unless the State’s Attorney refers the youth directly to court
+4 diversion pursuant to subsection 5280(e) of this title, a youthful offender
+5 consideration disposition hearing shall be held not later than 60 days after the
+6 transfer of the case from the Criminal Division or filing of a youthful offender
+7 petition in the Family Division 30 days after the filing of a motion or the filing
+8 of a youthful offender petition under section 5280 of this title.
+9 (b) Notice. Notice of the hearing shall be provided to the State’s Attorney;
+10 the youth; the youth’s parent, guardian, or custodian; the victim; the
+11 Department; and the Department of Corrections. The court shall not exclude
+12 any victim from the proceeding or any portion of it unless, after hearing from
+13 the parties and the victim, the court makes a finding on the record of good
+14 cause. As used in this subsection, “victim” means a person who is the victim
+15 of a crime for which a youth is charged; a parent, guardian, or legal
+16 representative of the victim; or a victim’s advocate.
+17 (c) Hearing procedure.
+18 (1) If the motion is contested, all parties shall have the right to present
+19 evidence and examine witnesses. Hearsay may be admitted and may be relied
+20 on to the extent of its probative value. If reports are admitted, the parties shall
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 14 of 55
+1 be afforded an opportunity to examine those persons making the reports, but
+2 sources of confidential information need not be disclosed.
+3 (2) For individuals who had attained 18 years of age but not 22 years of
+4 age at the time the act is alleged to have been committed, hearings under
+5 5284(a) of this title shall be open to the public. All other youthful offender
+6 proceedings shall be confidential.
+7 (d) Burden of proof. The burden of proof shall be on the moving party to
+8 prove by a preponderance of the evidence that a child should be granted
+9 youthful offender status. If the court makes the motion, the burden shall be on
+10 the youth.
+11 (e) Further hearing. On its own motion or the motion of a party, the court
+12 may schedule a further hearing within not more than 10 business days to obtain
+13 reports or other information necessary for the appropriate disposition of the
+14 case.
+15 Sec. 7. 33 V.S.A. § 5284 is amended to read:
+16 § 5284. YOUTHFUL OFFENDER DETERMINATION AND DISPOSITION
+17 ORDER
+18 (a)(1) In a hearing on a motion or petition for youthful offender status, the
+19 court shall first consider whether public safety will be protected by treating the
+20 youth as a youthful offender. If the court finds that public safety will not be
+21 protected by treating the youth as a youthful offender, the court shall deny the
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 15 of 55
+1 motion and transfer the case to the Criminal Division of the Superior Court
+2 pursuant to subsection 5281(d) of this title, the conditions of release imposed
+3 by the Criminal Division shall remain in effect, and the case shall proceed as
+4 though the motion or petition for youthful offender treatment had not been
+5 filed. If the court finds that public safety will be protected by treating the
+6 youth as a youthful offender, the court shall proceed to make a determination
+7 under subsection (b) of this section.
+8 (2) When determining whether public safety will be protected by
+9 treating the youth as a youthful offender, the court shall consider, on the basis
+10 of the evidence admitted:
+11 (A) the nature and circumstances of the charge and whether violence
+12 was involved;
+13 (B) the youth’s mental health treatment history and needs;
+14 (C) the youth’s substance abuse history and needs;
+15 (D) the youth’s residential housing status;
+16 (E) the youth’s employment and educational situation;
+17 (F) whether the youth has complied with conditions of release;
+18 (G) the youth’s criminal record and whether the youth has engaged in
+19 subsequent criminal or delinquent behavior since the original charge;
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 16 of 55
+1 (H) whether supervising the youth on youthful offender probation is
+2 appropriate considering the nature of the charged offense and the age and
+3 specialized needs of the youth;
+4 (I) whether the youth has previously not successfully completed
+5 youthful offender treatment or otherwise had youthful offender status revoked;
+6 (J) whether the youth has connections to the community; and
+7 (J)(K) the youth’s history of violence and history of illegal or violent
+8 conduct involving firearms or other deadly weapons.
+9 (b)(1) The court shall deny the motion if the court finds that:
+10 (A) public safety will not be protected by treating the youth as a
+11 youthful offender;
+12 (B) the youth is not amenable to treatment or rehabilitation as a
+13 youthful offender; or
+14 (B)(C) there are insufficient services in the juvenile court system and
+15 the Department for Children and Families and the Department of Corrections
+16 to meet the youth’s treatment and rehabilitation needs.
+17 (2) The court shall grant the motion if the court finds that:
+18 (A) public safety will be protected by treating the youth as a youthful
+19 offender;
+20 (B) the youth is amenable to treatment or rehabilitation as a youthful
+21 offender; and
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 17 of 55
+1 (B)(C) there are sufficient services in the juvenile court system and
+2 the Department for Children and Families and the Department of Corrections
+3 to meet the youth’s treatment and rehabilitation needs.
+4 (c)(1) If the court approves the motion for youthful offender treatment after
+5 an adjudication pursuant to subsection 5281(d) of this title, the court:
+6 (A) shall place the youth on conditions of probation pursuant to 28
+7 V.S.A. chapter 5, or such additional conditions imposed by the court, provided
+8 that the requirements of this subdivision (A) may be satisfied by entering the
+9 single condition of probation required under subdivision (C) of this subdivision
+10 (c)(1);
+11 (B) shall approve a disposition case plan and impose conditions of
+12 juvenile probation on the youth; and
+13 (C) shall include as a condition of probation adherence to the
+14 disposition case plan approved by the court; and
+15 (B)(D) may transfer legal custody of the youth to a parent, relative,
+16 person with a significant relationship with the youth, or Commissioner for
+17 Children and Families, provided that any transfer of custody shall expire on the
+18 youth’s 18th birthday.
+19 (2) Prior to the approval of a disposition case plan, the court may refer a
+20 child directly to a youth-appropriate community-based provider that has been
+21 approved by the department and which that may include a community justice
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 18 of 55
+1 center or a balanced and restorative justice program. Referral to a community-
+2 based provider pursuant to this subdivision shall not require the court to place
+3 the child on probation. If the community-based provider does not accept the
+4 case or if the child fails to complete the program in a manner deemed
+5 satisfactory and timely by the provider, the child shall return to the court for
+6 further proceedings, including the imposition of the disposition order.
+7 (d)(1) The Department for Children and Families and the Department of
+8 Corrections shall be responsible for supervision of and providing services to
+9 the youth until the youth reaches 22 years of age the earlier of:
+10 (A) the youth successfully completing treatment and supervision; or
+11 (B) the revocation of the youth’s youthful offender designation
+12 pursuant to section 5285 of this title.
+13 (2) Both Departments the Department for Children and Families and the
+14 Department of Corrections shall designate a case manager who together shall
+15 appoint a lead Department department to have final decision-making authority
+16 over the case plan and the provision of services to the youth. The youth shall
+17 be eligible for appropriate community-based programming and services
+18 provided by both Departments the Agency of Human Services.
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 19 of 55
+1 Sec. 8. 33 V.S.A. § 5285 is amended to read:
+2 § 5285. MODIFICATION OR REVOCATION OF DISPOSITION
+3 (a) If it appears that the youth has violated the terms of juvenile probation
+4 ordered by the court pursuant to subdivision 5284(c)(1) of this title, a motion
+5 for modification or revocation of youthful offender status may be filed in the
+6 Family Division of the Superior Court. The court shall set the motion for
+7 hearing as soon as practicable within 10 business days. The hearing may be
+8 joined with a hearing on a violation of conditions of probation under section
+9 5265 of this title. A Consistent with the procedures of 28 V.S.A. § 301, a
+10 supervising juvenile or adult probation officer may detain in an adult facility a
+11 youthful offender who has attained 18 years of age for violating conditions of
+12 probation. A youthful offender who has not attained 18 years of age may be
+13 detained in a facility for juveniles pursuant to section 5266 of this title. A
+14 youthful offender who is detained prior to attaining 18 years of age may be
+15 transferred to an adult facility after the offender attains 18 years of age.
+16 (b) A hearing under this section shall be held in accordance with section
+17 5268 of this title.
+18 (c) If the court finds after the hearing that the youth has violated the terms
+19 of his or her the youth’s probation, the court may:
+20 (1) maintain the youth’s status as a youthful offender, with modified
+21 conditions of juvenile probation if the court deems it appropriate;
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 20 of 55
+1 (2) revoke the youth’s status as a youthful offender and transfer the case
+2 with a record of the petition, affidavit, adjudication, disposition, and revocation
+3 to the Criminal Division for sentencing; or
+4 (3) transfer supervision of the youth to the Department of Corrections
+5 with all of the powers and authority of the Department and the Commissioner
+6 under Title 28, including graduated sanctions and electronic monitoring.
+7 (d) If a youth’s status as a youthful offender is revoked and the case is
+8 transferred to the Criminal Division pursuant to subdivision (c)(2) of this
+9 section, the court shall enter a conviction of guilty based on the admission to or
+10 finding of merits, hold a sentencing hearing, and impose sentence in
+11 accordance with the conditional plea agreed to under subsection 5280(c) of this
+12 title. Unless it serves the interest of justice, the case shall not be transferred
+13 back to the Family Division pursuant to section 5203 of this title. When
+14 determining an appropriate sentence, the court may take into consideration the
+15 youth’s degree of progress toward or regression from rehabilitation while on
+16 youthful offender status. The Criminal Division shall have access to all Family
+17 Division records of the proceeding.
+18 Sec. 9. 33 V.S.A. § 5286 is amended to read:
+19 § 5286. REVIEW PRIOR TO 18 YEARS OF AGE
+20 (a) If a youth is on probation as a youthful offender prior to reaching 18
+21 years of age, the Family Division court shall review the youth’s case before he
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 21 of 55
+1 or she the youth reaches 18 years of age and set a hearing to determine whether
+2 the court’s jurisdiction over the youth should be continued past 18 years of
+3 age. The hearing may be joined with a motion to terminate youthful offender
+4 status under section 5285 of this title. The court shall provide notice and an
+5 opportunity to be heard at the hearing to the State’s Attorney, the youth, the
+6 Department for Children and Families, and the Department of Corrections.
+7 (b) After receiving a notice of review under this section, the State may file
+8 a motion to modify or revoke pursuant to section 5285 of this title. If such a
+9 motion is filed, it shall be consolidated with the review under this section and
+10 all options provided for under section 5285 of this title shall be available to the
+11 court.
+12 (c) The following reports shall be filed with the court prior to the hearing:
+13 (1) The Department for Children and Families and the Department of
+14 Corrections shall jointly report their recommendations, with supporting
+15 justifications, as to whether the Family Division court should continue
+16 jurisdiction over the youth past 18 years of age and, if continued jurisdiction is
+17 recommended, propose a case plan for the youth to ensure compliance with
+18 and completion of the juvenile disposition.
+19 (2) If the Departments departments recommend continued supervision
+20 of the youthful offender past 18 years of age, the Departments departments
+21 shall report on the services that would be available for the youth.
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 22 of 55
+1 (d) If the court finds that it is in the best interests of the youth and
+2 consistent with community safety to continue the case past 18 years of age, it
+3 shall make an order continuing the court’s jurisdiction up to 22 years of age.
+4 The Department for Children and Families and the Department of Corrections
+5 shall jointly develop a case plan for the youth and coordinate services and
+6 share information to ensure compliance with and completion of the juvenile
+7 youthful offender disposition.
+8 (e) If the court finds that it is not in the best interests of the youth to
+9 continue the case past 18 years of age, it shall terminate the disposition order,
+10 discharge the youth, and dismiss the case in accordance with subsection
+11 5287(c) of this title.
+12 Sec. 10. 33 V.S.A. § 5287 is amended to read:
+13 § 5287. TERMINATION OR CONTINUANCE OF PROBATION
+14 (a) A motion or stipulation may be filed at any time in the Family Criminal
+15 Division requesting that the court terminate the youth’s status as a youthful
+16 offender and discharge him or her the youth from probation. The motion may
+17 be filed by the State’s Attorney, the youth, the Department, or the court on its
+18 own motion.
+19 (b) In determining whether a youth has successfully completed the terms of
+20 probation, the court shall consider:
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 23 of 55
+1 (1) the degree to which the youth fulfilled the terms of the case plan and
+2 the probation order;
+3 (2) the youth’s performance during treatment;
+4 (3) reports of treatment personnel; and
+5 (4) any other relevant facts associated with the youth’s behavior.
+6 (c) If the court finds that the youth has successfully completed the terms of
+7 the probation order, it shall terminate youthful offender status, discharge the
+8 youth from probation, and file a written order dismissing the Family Division
+9 case. The Family Division shall provide notice of the dismissal to the Criminal
+10 Division, which shall dismiss the criminal case.
+11 (d) Upon discharge and dismissal under subsection (c) of this section, all
+12 records relating to the case in the Criminal Division shall be expunged, and all
+13 records relating to the case in the Family Court shall be sealed pursuant to
+14 section 5119 of this title sealed.
+15 (e) If the court denies the motion to discharge the youth from probation, the
+16 court may extend or amend the probation order as it deems necessary.
+17 (f) Upon the termination of the period of probation, the youth shall be
+18 discharged from probation.
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 24 of 55
+1 * * * Repeal of Raise the Age for 19-Year-Olds * * *
+2 Sec. 11. 2025 Acts and Resolves No. 4, Secs. 5–10 are amended to read:
+3 Sec. 5. [Deleted.]
+4 Sec. 6. [Deleted.]
+5 Sec. 7. [Deleted.]
+6 Sec. 8. [Deleted.]
+7 Sec. 9. [Deleted.]
+8 Sec. 10. [Deleted.]
+9 Sec. 12. 2025 Acts and Resolves No. 4, Sec. 11 is amended to read:
+10 Sec. 11. EFFECTIVE DATES; APPLICABILITY
+11 (a) Secs. 1, and 2, and 10 shall take effect on July 1, 2025.
+12 (b) Secs. 3 and 4 and this section shall take effect on March 31, 2025.
+13 (c) Secs. 5–9 shall take effect on July 1, 2027. [Deleted.]
+14 * * * Expedited Transfers Between the Family and Criminal Divisions * * *
+15 Sec. 13. 33 V.S.A. § 5203 is amended to read:
+16 § 5203. TRANSFER FROM OTHER COURTS
+17 * * *
+18 (f) Motions to transfer made under this section shall be given priority by
+19 the court and heard on an expedited basis.
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 25 of 55
+1 Sec. 14. 33 V.S.A. § 5204 is amended to read:
+2 § 5204. TRANSFER FROM FAMILY DIVISION OF THE SUPERIOR
+3 COURT
+4 * * *
+5 (b)(1) The State’s Attorney of the county where the juvenile petition is
+6 pending may move in the Family Division of the Superior Court for an order
+7 transferring jurisdiction under subsection (a) of this section at any time prior to
+8 adjudication on the merits. The filing of the motion to transfer jurisdiction
+9 shall automatically stay the time for the hearing provided for in section 5225 of
+10 this title, which stay shall remain in effect until such time as the Family
+11 Division of the Superior Court may deny the motion to transfer jurisdiction.
+12 Motions to transfer made under this subsection shall be given priority by the
+13 court and heard on an expedited basis.
+14 * * *
+15 Sec. 15. 33 V.S.A. § 5280 is amended to read:
+16 § 5280. COMMENCEMENT OF YOUTHFUL OFFENDER
+17 PROCEEDINGS IN THE FAMILY DIVISION
+18 * * *
+19 (f) Motions to transfer made under this section shall be given priority by
+20 the court and heard on an expedited basis.
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 26 of 55
+1 * * * Bail * * *
+2 Sec. 16. BAIL REVOCATION; INTENT
+3 It is the intent of the General Assembly that Vermont’s bail revocation
+4 statute is consistent with State v. Sauve, 159 Vt. 566 (1993); State v. Gates,
+5 2016 VT 36; and their progeny so that repeated failures to appear in court,
+6 repeated violations of conditions of release, and other violations of court orders
+7 constitute a compelling State interest that falls within the statutory definition of
+8 “disrupts the prosecution.”
+9 Sec. 17. 13 V.S.A. § 7575 is amended to read:
+10 § 7575. REVOCATION OF THE RIGHT TO BAIL
+11 (a) The prosecutor, or the court on its own motion, may move to revoke
+12 bail pursuant to this section.
+13 (b) The right to bail may be revoked entirely if the judicial officer finds that
+14 the accused has:
+15 (1) intimidated or harassed a victim, potential witness, juror, or judicial
+16 officer in violation of a condition of release; or
+17 (2) repeatedly violated conditions of release in a manner that impedes
+18 disrupts the prosecution of the accused; or
+19 (3) violated a condition or conditions of release that constitute a threat to
+20 the integrity of the judicial system; or
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 27 of 55
+1 (4) without just cause, failed to appear at a specified time and place
+2 ordered by a judicial officer; or
+3 (5) in violation of a condition of release, been charged with a felony or a
+4 crime against a person or an offense similar to the underlying charge, for
+5 which, after hearing, probable cause is found.
+6 (c) If the court revokes bail, it shall order the defendant’s immediate arrest
+7 without a warrant if the person is within the State and declare any bond
+8 pledged by the defendant forfeited.
+9 (d)(1) If a defendant’s bail is revoked, the court shall set the defendant’s
+10 case for trial not more than 60 days from the date of revocation.
+11 (2) If the trial is not commenced within 60 days after revocation and the
+12 delay is not attributable to the defense, the court shall immediately schedule a
+13 bail hearing for the defendant.
+14 (e) If a request to revoke bail is denied, an appeal may be taken by the State
+15 to a single Justice of the Supreme Court who may hear the matter or at the
+16 Justice’s discretion refer it to the entire Supreme Court for hearing. No further
+17 appeal may lie from the ruling of a single Justice in matters to which this
+18 subsection applies. Any order so appealed shall be affirmed if it is supported
+19 by the proceedings below. If the order is not supported, the Supreme Court or
+20 single Justice hearing the matter may remand the case for a further hearing or
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 28 of 55
+1 may, with or without additional evidence, modify or vacate the order. The
+2 appeal shall be determined promptly.
+3 * * * Reduced, Suspended, and Deferred Sentences * * *
+4 Sec. 18. 13 V.S.A. § 7031 is amended to read:
+5 § 7031. FORM OF SENTENCES; MAXIMUM AND MINIMUM TERMS
+6 (a) When a respondent is sentenced to any term of imprisonment, other
+7 than for life, the court imposing the sentence shall not fix the term of
+8 imprisonment, unless the term is definitely fixed by statute, but shall establish
+9 a maximum and may establish a minimum term for which the respondent may
+10 be held in imprisonment. The maximum term shall not be more than the
+11 longest term fixed by law for the offense of which the respondent is convicted,
+12 and the minimum term shall be not less than the shortest term fixed by law for
+13 the offense. If the court suspends a portion of the sentence, the unsuspended
+14 portion of the sentence shall be the minimum term of sentence solely for the
+15 purpose of any reductions of term for good behavior as set forth in 28 V.S.A.
+16 § 811. A sentence shall not be considered fixed as long as the maximum and
+17 minimum terms are not identical.
+18 (b) The sentence of imprisonment of any person convicted of an offense
+19 shall commence to run from the date on which the person is received at the
+20 correctional facility for service of the sentence. The court shall give the person
+21 credit toward service of his or her the person’s sentence for any days spent in
+22 custody as follows:
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 29 of 55
+1 (1) The period of credit for concurrent and consecutive sentences shall
+2 include all days served from the date of arraignment or the date of the earliest
+3 detention for the offense, whichever occurs first, and end on the date of the
+4 sentencing. Only a single credit shall be awarded in cases of consecutive
+5 sentences, and no credit for one period of time shall be applied to a later
+6 period.
+7 (2) In sentencing a violation of probation, the court shall give the person
+8 credit for any days spent in custody from the time the violation is filed or the
+9 person is detained on the violation, whichever occurs first, until the violation is
+10 sentenced. In a case in which probation is revoked and the person is ordered to
+11 serve the underlying sentence, the person shall receive credit for all time
+12 previously served in connection with the offense.
+13 (3) A defendant who has received pre-adjudication treatment in a
+14 residential setting for a substance use disorder after the charge has been filed
+15 shall earn a reduction of one day in the offender’s minimum and maximum
+16 sentence for each day that the offender receives the inpatient treatment,
+17 provided the defendant has no pending criminal charges.
+18 (c) If any such person is committed to a jail or other place of detention to
+19 await transportation to the place at which his or her the person’s sentence is to
+20 be served, his or her the sentence shall commence to run from the date on
+21 which he or she the person is received at the jail or the place of detention.
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 30 of 55
+1 (d) A person who receives a zero minimum sentence for a conviction of a
+2 nonviolent misdemeanor or nonviolent felony as defined in 28 V.S.A. § 301
+3 shall report to probation and parole as directed by the court and begin to serve
+4 the sentence in the community immediately, unless the person is serving a
+5 prior sentence at the time.
+6 (e) For a conviction of a listed crime pursuant to subdivision 5301(7) of
+7 this title, a court shall not order a sentence that is suspended, deferred, or
+8 served as a supervised sentence if the person has a prior conviction for escape
+9 pursuant to section 1501 of this title or three or more convictions for a felony
+10 listed crime unless the court makes findings on the record that there are
+11 compelling reasons why such a sentence will serve the interests of justice and
+12 protect the public.
+13 (f) A court shall not suspend, in whole or in part, a sentence for a person
+14 who has previously been found to have violated probation, been
+15 unsatisfactorily discharged from probation, or had furlough revoked unless the
+16 court makes findings on the record that there are compelling reasons why such
+17 a sentence will serve the interests of justice and protect the public.
+18 Sec. 19. 13 V.S.A. § 7041 is amended to read:
+19 § 7041. DEFERRED SENTENCE
+20 (a) Upon an adjudication of guilt and after the filing of a presentence
+21 investigation report, the court may defer sentencing and place the respondent
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 31 of 55
+1 on probation upon such terms and conditions as it may require if a written
+2 agreement concerning the deferring of sentence is entered into between the
+3 State’s Attorney and the respondent and filed with the clerk of the court.
+4 (b) Notwithstanding subsection (a) of this section, the court may defer
+5 sentencing and place the respondent on probation without a written agreement
+6 between the State’s Attorney and the respondent if the following conditions are
+7 met:
+8 (1) [Repealed.]
+9 (2) the crime for which the respondent is being sentenced is not a listed
+10 crime as defined in subdivision 5301(7) of this title;
+11 (3) the court orders a presentence investigation in accordance with the
+12 procedures set forth in V.R.C.P. Rule 32, unless the State’s Attorney agrees to
+13 waive the presentence investigation;
+14 (4) the court permits the victim to submit a written or oral statement
+15 concerning the consideration of deferment of sentence;
+16 (5) the court reviews the presentence investigation and the victim’s
+17 impact statement with the parties; and
+18 (6) the court determines makes written findings that deferring sentence
+19 is in the interests of justice.
+20 (c) Notwithstanding subsections (a) and (b) of this section, the court may
+21 not defer a sentence for a violation of section 3253a (aggravated sexual assault
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 32 of 55
+1 of a child), section 2602 (lewd and lascivious conduct with a child unless the
+2 victim and the defendant were within five years of age and the act was
+3 consensual), 3252(c) (sexual assault of a child under 16 unless the victim and
+4 the defendant were within five years of age and the act was consensual),
+5 3252(d) or (e) (sexual assault of a child), 3253(a)(8) (aggravated sexual
+6 assault), or 3253a (aggravated sexual assault of a child) of this title.
+7 (d) Entry of deferment of sentence shall constitute an appealable judgment
+8 for purposes of appeal in accordance with 12 V.S.A. § 2383 and V.R.A.P. Rule
+9 3. Except as otherwise provided, entry of deferment of sentence shall
+10 constitute imposition of sentence solely for the purpose of sentence review in
+11 accordance with section 7042 of this title. The court may impose sentence at
+12 any time if the respondent violates the conditions of the deferred sentence
+13 during the period of deferment.
+14 (e) Upon violation of the terms of probation or of the deferred sentence
+15 agreement, the court shall impose sentence. Upon fulfillment of the terms of
+16 probation and of the deferred sentence agreement, the court shall strike the
+17 adjudication of guilt and discharge the respondent. Except as provided in
+18 subsection (h) of this section, the record of the criminal proceedings shall be
+19 expunged sealed upon the discharge of the respondent from probation, absent a
+20 finding of good cause by the court. The court shall issue an order to expunge
+21 seal all records and files related to the arrest, citation, investigation, charge,
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 33 of 55
+1 adjudication of guilt, criminal proceedings, and probation related to the
+2 deferred sentence. Copies of the order shall be sent to each agency,
+3 department, or official named therein. Thereafter, the court, law enforcement
+4 officers, agencies, and departments shall reply to any request for information
+5 that no record exists with respect to such person upon inquiry in the matter.
+6 Notwithstanding this subsection, the record shall not be expunged sealed until
+7 restitution has been paid in full.
+8 (f) A deferred sentence imposed under subsection (a) or (b) of this section
+9 may include a restitution order issued pursuant to section 7043 of this title.
+10 Nonpayment of restitution shall not constitute grounds for imposition of the
+11 underlying sentence.
+12 (g) [Repealed.]
+13 (h) The Vermont Crime Information Center shall retain a special index of
+14 deferred sentences for sex offenses that require registration pursuant to
+15 subchapter 3 of chapter 167, subchapter 3 of this title. This index shall only
+16 list the name and date of birth of the subject of the expunged sealed files and
+17 records, the offense for which the subject was convicted, and the docket
+18 number of the proceeding that was the subject of the expungement sealing.
+19 The special index shall be confidential and may be accessed only by the
+20 director of the Vermont Crime Information Center and a designated clerical
+21 staffperson for the purpose of providing information to the Department of
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 34 of 55
+1 Corrections in the preparation of a presentence investigation in accordance
+2 with 28 V.S.A. §§ 204 and 204a.
+3 Sec. 20. 13 V.S.A. § 7042 is amended to read:
+4 § 7042. SENTENCE REVIEW
+5 (a) Any court imposing a sentence under the authority of this title, within
+6 90 days of the imposition of that sentence, or within 90 days after entry of any
+7 order or judgment of the Supreme Court upholding a judgment of conviction,
+8 may upon its own initiative or motion of the defendant, reduce the sentence.
+9 (b) A State’s Attorney or the Attorney General, within seven business days
+10 of the imposition of a sentence, may file with the sentencing judge a motion to
+11 increase, reduce, or otherwise modify the sentence. This motion shall set forth
+12 reasons why the sentence should be altered. After hearing, the court may
+13 confirm, increase, reduce, or otherwise modify the sentence.
+14 (c) After a motion is filed under subsection (b) of this section, a
+15 defendant’s time for filing an appeal under 12 V.S.A. § 2383 shall commence
+16 to run upon entry of a final order under subsection (b).
+17 (d) A court shall not reduce the sentence for a conviction of a listed crime
+18 as provided by subdivision 5301(7) of this title if the defendant has three or
+19 more convictions for a listed crime or five or more pending criminal charges.
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 35 of 55
+1 * * * Recidivism * * *
+2 Sec. 21. FINDINGS AND INTENT
+3 (a) Findings. The General Assembly finds:
+4 (1) The State’s current definition of recidivism is based upon offenders
+5 who are sentenced to more than one year of incarceration and who, after
+6 release, return to an incarcerative setting within three years, but only after
+7 conviction of a new offense or a violation of Department of Corrections’
+8 supervision and the new sentence for the violation is not fewer than 90 days.
+9 (2) The vast majority of misdemeanor crimes have maximum terms of
+10 imprisonment of not more than six months.
+11 (3) Few, if any, misdemeanor sentences are served in a Department of
+12 Corrections’ facility.
+13 (4) Under current law, a person could commit 10 instances of retail theft
+14 within a calendar year, be convicted of each separate offense and sentenced to
+15 probation or incarcerative sentences of a few days for each offense, and the
+16 behavior would not constitute recidivism.
+17 (b) Intent. It is the intent of the General Assembly that:
+18 (1) the definition of recidivism more accurately reflect new convictions,
+19 returns to incarceration, and probation violations and revocations; and
+20 (2) the State establish a statutory measure of violent crime recidivism
+21 and of individual success.
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 36 of 55
+1 Sec. 22. 28 V.S.A. § 3 is amended to read:
+2 § 3. GENERAL DEFINITIONS
+3 As used in this title:
+4 (1) “Child” means any person:
+5 (A) charged with having committed a delinquent act as defined in
+6 33 V.S.A. § 5102 or adjudicated a delinquent and committed to the custody of
+7 the Commissioner; or
+8 (B) charged with being or adjudicated unmanageable as defined by
+9 33 V.S.A. § 5102(3)(C) and (D), and committed to the custody of the
+10 Commissioner for Children and Families and subsequently transferred to the
+11 custody of the Commissioner.
+12 (C) [Repealed.]
+13 (2) “Commissioner” means the Commissioner of Corrections.
+14 (3) “Correctional facility” or “facility” means any building, enclosure,
+15 space, or structure of or supported by the Department and used for the
+16 confinement of persons committed to the custody of the Commissioner, or for
+17 any other matter related to such confinement.
+18 (4) “Department” means the Department of Corrections.
+19 (5) “Inmate” means any person, not a child, committed to the custody of
+20 the Commissioner pursuant to the law of the State and subsequently committed
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 37 of 55
+1 to a correctional facility and any person confined at a correctional facility
+2 during the pendency of a prosecution against him or her the person.
+3 (6) “Law” includes the laws and ordinances of the State, its political
+4 subdivisions, and municipalities.
+5 (7) “Law enforcement officer” means a State Police officer, a sheriff, a
+6 deputy sheriff, a municipal police officer, a constable, the Commissioner, or a
+7 member of the Department of Corrections when appointed in writing by the
+8 Commissioner and when his or her the person’s appointment is filed in the
+9 Office of the Secretary of State. The Commissioner or such member shall
+10 have the same powers as a sheriff.
+11 (8) “Offender” means any person convicted of a crime or offense under
+12 the laws of this State, and, for purposes of work crew community restitution, a
+13 person found in civil contempt under 15 V.S.A. § 603.
+14 (9) “Supervising officer” means the highest administrative officer in
+15 charge of any correctional facility.
+16 (10) “Correctional officer” means any person who is an employee of the
+17 Department of Corrections whose official duties or job classification includes
+18 the supervision or monitoring of a person on parole, probation, or serving any
+19 sentence of incarceration whether inside or outside a correctional facility, and
+20 who has received training, as approved by the Commissioner of Corrections, as
+21 provided in section 551a of this title.
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 38 of 55
+1 (11) “Recidivism” means a person who is convicted of a criminal
+2 offense after receiving a criminal conviction for a previous crime.
+3 (12) “Repeat violent offender” means a person who commits repeated
+4 criminal offenses for which the crime type against another person is considered
+5 violent.
+6 (13) “Restorative justice program” means a program developed and
+7 implemented by the Commissioner, consistent with State policy and legislative
+8 intent as provided by section 2a of this title.
+9 (12)(14) Despite other names this concept has been given in the past or
+10 may be given in the future, “segregation” “Segregation” means a form of
+11 separation from the general population that may or may not include placement
+12 in a single-occupancy cell and that is used for disciplinary, administrative, or
+13 other reasons, but shall not mean confinement to an infirmary or a residential
+14 treatment setting for purposes of evaluation, treatment, or provision of
+15 services.
+16 Sec. 23. 28 V.S.A. § 4 is amended to read:
+17 § 4. STANDARD MEASURE AND CLASSIFICATIONS OF RECIDIVISM;
+18 REPEAT VIOLENT OFFENDERS
+19 (a) Recidivism.
+20 (1) Classifications. The Department shall calculate classify the rate type
+21 of recidivism based upon offenders persons who are sentenced to more than
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 39 of 55
+1 one year of incarceration who, after release from incarceration, return to prison
+2 within three years for a conviction for a new offense or a violation of
+3 supervision resulting, and the new incarceration sentence or time served on the
+4 violation is at least 90 days convicted of a criminal offense and meet one of the
+5 following:
+6 (A) Class one recidivism. Not less than one year has elapsed from
+7 the time of sentencing before the person commits a new offense that results in
+8 a conviction.
+9 (B) Class two recidivism. Not less than three years have elapsed
+10 from the time of sentencing before the person commits a new offense that
+11 results in a conviction.
+12 (C) Class three recidivism. Not less than five years have elapsed
+13 from the time of sentencing before the person commits a new offense that
+14 results in a conviction.
+15 (D) Class four recidivism. Not less than 10 years have elapsed from
+16 the time of sentencing before the person commits a new offense that results in
+17 a conviction.
+18 (2) Calculations.
+19 (A) Persons sentenced to incarceration will be considered eligible to
+20 recidivate upon release from a correctional facility.
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 40 of 55
+1 (B) Persons sentenced to a noncarceral sentence are considered
+2 eligible to recidivate on the disposition date of a case.
+3 (C) A conviction shall determine whether a person has recidivated.
+4 (D) The arraignment date associated with the conviction shall
+5 determine the recidivism classification.
+6 (b) Repeat violent offenders. The Department shall calculate the rate of
+7 repeat violent offenders based upon persons who are convicted of a criminal
+8 offense and meet one of the following classifications:
+9 (1) Class one repeat violence. Not less than one year has elapsed from
+10 the time of sentencing before the person is convicted of a violent offense.
+11 (2) Class two repeat violence. Not less than three years have elapsed
+12 from the time of sentencing before the person is convicted of a violent offense.
+13 (3) Class three repeat violence. Not less than five years have elapsed
+14 from the time of sentencing before the person is convicted of a violent offense.
+15 (4) Class four repeat violence. Not less than 10 years have elapsed from
+16 the time of sentencing before the person is convicted of a violent offense.
+17 Sec. 24. 28 V.S.A. § 125(b) is amended to read:
+18 (b) Definitions. As used in this section:
+19 * * *
+20 (5) “Recidivism” has the same meaning as in section 4 subdivision 3(11)
+21 of this title.
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 41 of 55
+1 Sec. 25. 13 V.S.A. § 7555 is amended to read:
+2 § 7555. PRETRIAL SUPERVISION PROGRAM
+3 (a) Purpose. The purpose of the Pretrial Supervision Program is to assist
+4 eligible people through the use of evidence-based strategies to improve pretrial
+5 compliance with conditions of release, to coordinate and support the provision
+6 of pretrial services when appropriate, to ensure attendance at court
+7 appearances, and to decrease the potential to recidivate while awaiting trial.
+8 (b) Definition. As used in this section, “absconded” has the same meaning
+9 as “absconding” as defined in 28 V.S.A. § 722(1)(B)–(C)(1)(B) and (C).
+10 (c) Pretrial supervision.
+11 (1) Except as provided in subsection (g) of this section, beginning on
+12 January 1, 2025, the Pretrial Supervision Program shall, if ordered by the court
+13 pursuant to subsection (d) of this section, monitor defendants who have been
+14 charged with violating a condition of release pursuant to section 7559 of this
+15 title or have not fewer than five pending dockets and pose a risk of
+16 nonappearance at court hearings, a risk of flight, or a risk of endangering the
+17 public.
+18 (2) The Department shall assign a pretrial supervision officer to monitor
+19 defendants in a designated region of Vermont and help coordinate any pretrial
+20 services needed by the defendant. The Department shall determine the
+21 appropriate level of supervision using evidence-based screenings of those
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 42 of 55
+1 defendants eligible to be placed in the Program. The Department’s supervision
+2 levels may include use of:
+3 (A) the Department’s telephone monitoring system;
+4 (B) telephonic meetings with a pretrial supervision officer;
+5 (C) in-person meetings with a pretrial supervision officer;
+6 (D) electronic monitoring; or
+7 (E) any other means of contact deemed appropriate.
+8 (3) When placing a defendant into the Program pursuant to subsection
+9 (d) of this section, the court shall issue an order that sets the defendant’s level
+10 of supervision based on the recommendations submitted by the Department of
+11 Corrections.
+12 (d) Procedure.
+13 (1) At arraignment or at a subsequent hearing, the prosecutor or the
+14 defendant may move, or on the court’s own motion, that the defendant be
+15 reviewed by the court to determine whether the defendant is appropriate for
+16 pretrial supervision. The review shall be scheduled upon the court’s receipt of
+17 a report from the Department of Corrections containing recommendations
+18 pertaining to the defendant’s supervision level.
+19 (2) A defendant is eligible for pretrial supervision if the person has:
+20 (A) violated conditions of release pursuant to section 7559 of this
+21 title; or
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 43 of 55
+1 (B) not fewer than five pending court dockets.
+2 (3) After a hearing and review of the Department of Corrections’ report
+3 containing the defendant’s supervision level recommendations, the court may
+4 order that the defendant be released to the Pretrial Supervision Program,
+5 provided that the court finds placing the defendant under pretrial supervision
+6 will reasonably ensure the person’s appearance in court when required, will
+7 reasonably mitigate the risk of flight, or reasonably ensure protection of the
+8 public. In making such a determination, the court shall consider the following:
+9 (A) the nature of the violation of conditions of release pursuant to
+10 section 7559 of this title;
+11 (B) the nature and circumstances of the underlying offense or
+12 offenses with which the defendant is charged;
+13 (C) the defendant’s prior convictions, history of violence, medical
+14 and mental health needs, history of supervision, and risk of flight;
+15 (D) any risk or undue burden to third parties or risk to public safety
+16 that may result from the placement; or
+17 (E) any other factors that the court deems appropriate.
+18 (e) Compliance and review.
+19 (1) Pretrial supervision officers shall notify the prosecutor or the court
+20 and use reasonable efforts to notify the defendant of any violations of court-
+21 imposed Program conditions committed by the defendant.
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 44 of 55
+1 (2) Pretrial supervision officers may notify the prosecutor or the court
+2 and use reasonable efforts to notify the defendant of any violations of
+3 Department-imposed administrative conditions committed by the defendant.
+4 (3) Upon the motion of the prosecutor or the defendant, or on the court’s
+5 own motion, a defendant’s compliance with pretrial supervision conditions
+6 may be reviewed by the court.
+7 (4) Upon submission of the pretrial supervision officer’s sworn affidavit
+8 to the court by either the prosecutor or the pretrial supervision officer, the
+9 court:
+10 (A) may issue a warrant for the arrest of a defendant who fails to
+11 report to the pretrial supervision officer, commits multiple one or more
+12 violations of supervision requirements, or has absconded; and
+13 (B) shall issue a warrant for the arrest of a defendant who meets the
+14 criteria of subdivision (A) of this subdivision (e)(4) if the defendant also has
+15 five or more pending criminal charges.
+16 (f) Policies and procedures.
+17 (1) On or before November 1, 2024, the Department of Corrections shall
+18 establish written policies and procedures for the Pretrial Supervision Program
+19 to be used by the Department and any contractors or grantees that the
+20 Department engages with to assist in the monitoring operations of the Program
+21 and to assist the courts in understanding the Program.
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 45 of 55
+1 (2) The Department shall develop policies and procedures concerning
+2 supervision levels, evidence-based criteria for each supervision level, and the
+3 means of contact that is appropriate for each supervision level.
+4 (g) Contingent on funding. The Pretrial Supervision Program established
+5 in this section shall operate only to the extent funds are appropriated for its
+6 operation. If the Program is not operating in a particular county, the courts
+7 shall not order pretrial supervision as a condition of release in accordance with
+8 section 7554 of this title.
+9 (h) Program support. The Department may support the operation of the
+10 Program through grants of financial assistance to, or contracts for services
+11 with, any public entity that meets the Department’s requirements.
+12 * * * Repeal of Earned Time and Midpoint Review * * *
+13 Sec. 26. REPEAL
+14 28 V.S.A. § 818 (earned time; reduction of term) is repealed.
+15 Sec. 27. 28 V.S.A. § 252 is amended to read:
+16 § 252. CONDITIONS OF PROBATION AND MIDPOINT REVIEW
+17 * * *
+18 (d) Review and recommendation for discharge.
+19 (1) The Commissioner shall review the record of each probationer
+20 serving a specified term during the month prior to the midpoint of that
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 46 of 55
+1 probationer’s specified term and shall file a motion requesting the sentencing
+2 court to dismiss the probationer from probation if the offender:
+3 (A) has not been found by the court to have violated the conditions of
+4 probation in the six months prior to the review;
+5 (B) is not serving a sentence for committing a crime specified in 13
+6 V.S.A. chapter 19, subchapters 6 and 7; 13 V.S.A. chapter 72, subchapter 1; or
+7 13 V.S.A. § 2602; and
+8 (C) has completed those rehabilitative or risk reduction services
+9 required as a condition of probation that have a duration that is set and
+10 knowable at the outset of probation.
+11 (2) If the probationer does not meet the criteria set forth in subdivision
+12 (1) of this subsection, the Commissioner shall file a motion requesting the
+13 sentencing court to discharge the probation term once the probationer meets
+14 the criteria set forth in subdivision (1) of this subsection.
+15 (3) If a probationer meets the criteria set forth in subdivision (1) of this
+16 subsection and is subject to a pending criminal charge or violation of probation
+17 complaint, the Commissioner may file a motion requesting the sentencing
+18 court to dismiss the probationer from probation pursuant to this subsection.
+19 The motion shall identify the pending criminal charge or probation violation.
+20 After any pending criminal charges and probation violations are resolved, and
+21 if the probationer still meets the criteria set forth in subdivision (1) of this
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 47 of 55
+1 subsection, the Commissioner shall file the motion requesting the sentencing
+2 court to dismiss the probationer from probation.
+3 (4) The prosecutor shall make a reasonable effort to notify any victim of
+4 record of a motion filed to reduce a probationer’s term pursuant to this
+5 subsection. “Reasonable effort” means attempting to contact the victim by
+6 first-class mail at the victim’s last known address and by telephone at the
+7 victim’s last known phone number.
+8 (5) Notwithstanding 1 V.S.A. § 214, and notwithstanding the
+9 requirement in subdivision (1) of this subsection that the Commissioner review
+10 the probationer’s record during the month prior to the midpoint of that
+11 probationer’s specified term, this subsection shall apply retroactively to any
+12 probationer serving a specified term of probation. If the probationer has
+13 already reached the midpoint of that probationer’s specified term on or before
+14 the effective date of this act, the Commissioner shall review the probationer’s
+15 record as soon as possible for purposes of filing a motion pursuant to this
+16 section. [Repealed.]
+17 Sec. 28. PROSPECTIVE EFFECT
+18 (a) Sec. 26 of this act shall not be construed to limit or affect earned time
+19 that an offender has earned on or before the effective date of this act.
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 48 of 55
+1 (b) Sec. 27 of this act shall not be construed to limit or affect orders to
+2 dismiss or discharge a defendant from probation pursuant to this section issued
+3 by the court on or before the effective date of this act.
+4 * * * Forensic Facility * * *
+5 Sec. 29. 13 V.S.A. § 4815a is added to read:
+6 § 4815a. COMPETENCY RESTORATION SERVICES WITHIN
+7 FORENSIC FACILITY
+8 (a) An individual shall be transferred to the forensic facility established in
+9 section 4826 of this title if the individual has been charged with an offense
+10 punishable by a life sentence, the individual is not deemed a “person in need of
+11 treatment” pursuant to 18 V.S.A. § 7101, and has been found not competent to
+12 stand trial.
+13 (b) Upon admission, the forensic facility shall cause the individual to be
+14 evaluated for competency to stand trial not less often than the shorter of either
+15 every six months or upon the determination by the forensic facility’s clinical
+16 services director that the individual is likely competent to stand trial. The
+17 results of all evaluations shall be supplied to the court and the parties to the
+18 underlying criminal action.
+19 (c) An individual shall remain at the forensic facility until the individual
+20 receives a verdict in the individual’s underlying criminal case or until the
+21 charges against the individual have been dismissed.
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 49 of 55
+1 (d) The individual shall receive competency restoration services while at
+2 the forensic facility according to a plan approved by the forensic facility’s
+3 clinical services director. Such services may include any appropriate
+4 combination of medication, education, accommodations, habilitation, or other
+5 services identified as necessary or proper to achieve and maintain competency
+6 to stand trial. The individual’s refusal to receive competency restoration
+7 services shall not be grounds for release or dismissal from the forensic facility.
+8 (e) Competency restoration services shall be maintained until the individual
+9 receives a verdict in the individual’s underlying criminal case.
+10 (f) The Commissioner shall receive prior approval of the Criminal Division
+11 of the Superior Court where the individual’s underlying criminal charge is
+12 pending for any competency restoration plan involving involuntary medication.
+13 The court shall not approve involuntary medication unless the court finds that
+14 the involuntary medication is clinically appropriate and is likely to aid in the
+15 restoration of the individual’s competency to stand trial.
+16 Sec. 30. 13 V.S.A § 4819a is added to read:
+17 § 4819a. FORENSIC FACILITY PLACEMENT FOR INDIVIDUALS
+18 AQUITTED OF CERTAIN CRIMES
+19 (a) An individual shall be transferred to the forensic facility established in
+20 section 4826 of this title if the individual has been acquitted of an offense
+21 punishable by a life sentence pursuant to section 4819 of this chapter and the
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 50 of 55
+1 individual is not deemed a “person in need of treatment” pursuant to 18 V.S.A.
+2 § 7101.
+3 (b)(1) A hearing shall be held by the Criminal Division of the Superior
+4 Court within 40 days after admission to the forensic facility, unless that period
+5 is extended by the court.
+6 (2) At the hearing, the court shall order the individual committed to the
+7 forensic facility, unless the individual establishes by clear and convincing
+8 evidence that the individual is no longer suffering from a mental disease or
+9 defect, that upon the individual’s release, would create a substantial risk of
+10 bodily injury to another person or serious damage to property of another
+11 person. If the court finds that the individual has established the individual’s
+12 burden under this subdivision, the court may enter an order consistent with
+13 subdivision (d)(2) of this section.
+14 (3) Prior to the date of the hearing, the court shall order that a
+15 psychiatric or psychological examination of the individual be conducted, and
+16 that a psychiatric or psychological report be filed with the court addressing the
+17 individual’s history and present symptoms; a description of the psychiatric,
+18 psychological, and medical tests that were employed and their results; the
+19 examiner’s findings; and the examiner’s opinions as to diagnosis, prognosis,
+20 and whether the individual is suffering from a mental disease or defect, that
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 51 of 55
+1 upon the individual’s release, would create a substantial risk of bodily injury to
+2 another person or serious damage to property of another person.
+3 (c) A placement of an individual at the forensic facility shall be for an
+4 indeterminate period and shall not have a specified end date. The individual
+5 shall not be released until the individual establishes by clear and convincing
+6 evidence that the individual is no longer suffering from a mental disease or
+7 defect, that upon the individual’s release, would create a substantial risk of
+8 bodily injury to another person or serious damage to property of another
+9 person.
+10 (d)(1) The Commissioner of Corrections shall petition the unit of the
+11 Criminal Division of the Superior Court in which the acquittal was returned
+12 not less frequently than the shorter of every five years or upon certification by
+13 the clinical services director that the individual is no longer suffering from a
+14 mental disease or defect, that upon the individual’s release, would create a
+15 substantial risk of bodily injury to another person or serious damage to
+16 property of another person.
+17 (2) If the reviewing court finds by clear and convincing evidence that
+18 the individual is no longer suffering from a mental disease or defect, that upon
+19 the individual’s release, would create a substantial risk of bodily injury to
+20 another person or serious damage to property of another person, the court shall:
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 52 of 55
+1 (A) order the release of the individual under a prescribed regimen of
+2 medical, psychiatric, or psychological care or treatment that the forensic
+3 facility’s clinical services director has certified as appropriate, and that has
+4 been found by the court to be appropriate; and
+5 (B) order, as an explicit condition of release, that the individual
+6 comply with the prescribed regimen of medical, psychiatric, or psychological
+7 care or treatment together with any other conditions appropriate to protect the
+8 public.
+9 (e) The Commissioner of Corrections shall actively monitor compliance
+10 with orders issued under subdivision (d)(2) of this section and shall
+11 immediately return the person to the forensic facility if the Commissioner or
+12 the Commissioner’s agents determine that the individual is noncompliant with
+13 the order and that the noncompliance may create a risk of bodily injury to
+14 another person or serious damage to property of another. The Commissioner
+15 shall notify the Criminal Division of the Superior Court in the county where
+16 the individual was acquitted upon return of the individual to the forensic
+17 facility. Upon readmission, the court shall hold a hearing where the
+18 Commissioner shall have the burden of establishing by a preponderance of the
+19 evidence that the individual was noncompliant with the court’s order for
+20 conditional release and that the noncompliance creates a risk of bodily injury
+21 to another person or serious damage to property of another.
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 53 of 55
+1 Sec. 31. 13 V.S.A. § 4826 is added to read:
+2 § 4826. FORENSIC FACILITY
+3 (a) The Commissioner of Corrections shall establish and operate a locked
+4 secure forensic facility for the assessment and safe housing of individuals who
+5 are subject to any stage of proceedings under this chapter or who have been
+6 acquitted pursuant to section 4819 of this chapter. The forensic facility shall
+7 not refuse any individuals it is ordered to admit, nor shall it require any clinical
+8 or diagnostic prerequisites for admission. All forensic, clinical, and
+9 competency restoration services provided at the forensic facility shall be
+10 overseen by a clinical services director.
+11 (b) Any records related to an individual placed at the forensic facility shall
+12 be exempt from public inspection and copying under the Public Records Act
+13 and shall be kept confidential, except that records shall be made available to
+14 the parties in the underlying criminal case upon request.
+15 (c) Individuals shall be admitted to and maintained at the forensic facility
+16 pursuant to sections 4815a and 4819a of this section.
+17 (d) The Commissioner shall adopt rules pursuant to 3 V.S.A. chapter 25 to
+18 implement this section.
+19 Sec. 32. RULEMAKING; FORENSIC FACILITY
+20 Pending the adoption of permanent rules pursuant to 3 V.S.A. chapter 25 to
+21 implement the provisions of Secs. 29–31 of this act, the Commissioner of
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 54 of 55
+1 Corrections shall adopt emergency rules pursuant to 3 V.S.A. § 844 not later
+2 than January 1, 2027, which shall be deemed to meet the emergency
+3 rulemaking standard in 3 V.S.A. § 844(a).
+4 Sec. 33. 13 V.S.A. § 4817 is amended to read:
+5 § 4817. COMPETENCY TO STAND TRIAL; DETERMINATION;
+6 DISMISSAL
+7 * * *
+8 (e) When a person has been found incompetent to stand trial for an alleged
+9 misdemeanor offense, the charges against the person shall be dismissed with
+10 prejudice if, after the finding of incompetence, the case remains inactive for a
+11 continuous period of time equal to or greater than the maximum sentence for
+12 the offense. Dismissal under this section shall not be required if the court finds
+13 that dismissing the case would be contrary to the interests of justice.
+14 Sec. 34. Rule 1101 of the Vermont Rules of Evidence is amended to read:
+15 Rule 1101. APPLICABILITY OF RULES
+16 (a) Rules applicable. Except as otherwise provided in subdivision (b),
+17 these rules apply to all actions and proceedings in the courts of this state.
+18 (b) Rules inapplicable. The rules other than those with respect to privileges
+19 do not apply in the following situations:
+20 * * *
+VT LEG #385977 v.1
+
+BILL AS INTRODUCED S.272
+2026 Page 55 of 55
+1 (3) Miscellaneous Proceedings. Proceedings for extradition or rendition;
+2 inquest proceedings; except as otherwise provided by statute or rule
+3 promulgated by the Supreme Court, sentencing or granting or revoking
+4 probation; proceedings concerning competency restoration; granting or
+5 revoking conditional release from a forensic facility; finding probable cause
+6 for arrests without warrant and issuance of citations, warrants for arrest,
+7 criminal summonses, and search warrants.
+8 * * *
+9 * * * Effective Dates * * *
+10 Sec. 35. EFFECTIVE DATES
+11 (a) This section and Secs. 1–15 shall take effect on passage.
+12 (b) Secs. 16–34 shall take effect July 1, 2026.
+VT LEG #385977 v.1

@@ -1,0 +1,18 @@
+Title: 
+Official Title: 
+Source: versions - Senate Proposal of Amendment (Official)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate proposal of amendment
+H. 206
+An act relating to the Uniform Commercial Code
+The Senate proposes to the House to amend the bill as follows:
+First: In Sec. 11, transitional provisions for articles 9 and 12 of the
+Uniform Commercial Code amendments, in subdivision (b)(1)(A), following
+“transaction validly entered into”, by inserting “before”
+Second: In Sec. 11, transitional provisions for articles 9 and 12 of the
+Uniform Commercial Code amendments, in subdivision (d)(2), following “as
+amended by this act, on”, by striking out “July 1, 2025”

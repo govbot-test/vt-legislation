@@ -1,0 +1,614 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.793
+2026 Page 1 of 25
+1 H.793
+2 Introduced by Representatives Satcowitz of Randolph, Priestley of Bradford,
+3 White of Bethel, Bos-Lun of Westminster, Burrows of West
+4 Windsor, Chapin of East Montpelier, Cole of Hartford, Graning
+5 of Jericho, Headrick of Burlington, Holcombe of Norwich,
+6 Hooper of Randolph, Hoyt of Hartford, Logan of Burlington,
+7 McCann of Montpelier, McGill of Bridport, Mrowicki of
+8 Putney, Nugent of South Burlington, Ode of Burlington, Olson
+9 of Starksboro, Pouech of Hinesburg, Rachelson of Burlington,
+10 Scheu of Middlebury, Sibilia of Dover, Tomlinson of Winooski,
+11 and Torre of Moretown
+12 Referred to Committee on
+13 Date:
+14 Subject: Corporations, partnerships, and associations; formation, bylaws, and
+15 meetings; limited liability companies; Vermont business corporations;
+16 nonprofit corporations; mutual benefit enterprises; elections; power to
+17 engage in election activity or ballot-issue activity
+18 Statement of purpose of bill as introduced: This bill proposes to amend Titles
+19 11, 11A, 11B, and 11C to define “ballot-issue activity” and “election activity”
+20 and remove any corporate power to pay, contribute, or expend money on those
+21 defined activities.
+VT LEG #385330 v.6
+
+BILL AS INTRODUCED H.793
+2026 Page 2 of 25
+1 An act relating to removing the power of Vermont corporations to spend
+2 money on election activities
+3 It is hereby enacted by the General Assembly of the State of Vermont:
+4 Sec. 1. FINDINGS AND PURPOSE
+5 (a) The General Assembly finds that artificial legal persons, including
+6 corporations, limited liability companies, partnerships, cooperative
+7 associations, and mutual benefit enterprises are created under the laws of this
+8 State and possess only those powers that the State expressly grants.
+9 (b) Under Chapter II, § 69 of the Vermont Constitution, the General
+10 Assembly provides by general law for the organization of corporations and
+11 retains the authority to alter or repeal such general laws from time to time.
+12 Accordingly, the General Assembly retains full authority to revise, limit, or
+13 withdraw the statutory powers conferred upon artificial legal persons as a
+14 matter of general law, as the General Assembly determines.
+15 (c) Broad statutory clauses in Vermont’s entity laws, including
+16 authorizations to do all things necessary or convenient to carry out an entity’s
+17 purposes, have at times been construed to include powers to engage in election
+18 activity and ballot-issue activity. The General Assembly finds that such
+19 political spending authority was never intended to be among the powers
+20 granted to artificial legal persons under Vermont law.
+VT LEG #385330 v.6
+
+BILL AS INTRODUCED H.793
+2026 Page 3 of 25
+1 (d) The purposes of this act are to:
+2 (1) revoke any prior broad grants of powers to artificial legal persons
+3 that may be construed to authorize election activity or ballot-issue activity;
+4 (2) regrant only those powers necessary or convenient for lawful
+5 business, charitable, cooperative, or organizational purposes, which powers do
+6 not include, and shall not be construed to include, any authority to engage in
+7 election activity or ballot-issue activity;
+8 (3) establish uniform limitations across all entity forms while preserving
+9 distinctions among them; and
+10 (4) preserve and protect the constitutional rights of natural persons and
+11 the lawful activities of political committees and political parties.
+12 Sec. 2. 11 V.S.A. § 42 is amended to read:
+13 § 42. SPECIFIC PURPOSES
+14 Subject to the provisions of this title, one or more persons may form a
+15 private corporation for the specific purposes and in the manner following:
+16 (1) To operate a regional clearinghouse and a cooperative loan plan,
+17 commonly called a central fund, or either, for those banks in the State which
+18 that become stockholders or members of the corporation. Such corporations
+19 may be organized only with the consent of the Commissioner of Financial
+20 Regulation, with or without capital stock.
+VT LEG #385330 v.6
+
+BILL AS INTRODUCED H.793
+2026 Page 4 of 25
+1 (A) In addition to the powers conferred by this chapter, they as
+2 limited by this section, private corporations shall have the following powers:
+3 (i) all the powers necessary or convenient for carrying out the
+4 purposes herein set forth, including the power to receive deposits of funds from
+5 a member bank and to administer the same, and to require such deposits from
+6 all member banks in uniform percentages, but not in excess of three percent, of
+7 the total deposits of any one bank;
+8 (ii) to assist member banks when they are temporarily in need of
+9 cash or hold investments which that cannot readily be liquidated;
+10 (iii) to borrow money and to pledge its assets as security therefor;
+11 (iv) to issue scrip to the extent and with such security and under
+12 such regulations as the Commissioner of Financial Regulation, with the
+13 consent of the Governor, may approve;
+14 (v) to make loans to member banks and to guarantee the
+15 performance of any obligation of a member bank; and
+16 (vi) to establish reserves, and to take over from member banks
+17 property, securities, or investments for the purpose of managing, liquidating,
+18 exchanging, or adjusting the same.
+19 * * *
+20 (2) To operate a corporation for the rehabilitation of individuals and
+21 families by enabling them to secure subsistence and gainful employment from
+VT LEG #385330 v.6
+
+BILL AS INTRODUCED H.793
+2026 Page 5 of 25
+1 the soil, from coordinate and affiliated industries and enterprises and
+2 otherwise, and to receive and administer money for that purpose which may
+3 become available from any source. Such corporations shall have all the
+4 powers of corporations organized under this chapter and in addition thereto
+5 may loan money and secure the payment thereof by mortgage, pledge, or lien,
+6 insure or guarantee any indebtedness incurred by others, and become secured
+7 for so doing by mortgage, pledge, or lien. Such corporations shall not be
+8 organized for profit, and shall not be subject to taxation, nor shall any stock or
+9 indebtedness of such corporations or any evidence thereof be taxable to any
+10 holder thereof under any provision of law. The capital stock of such
+11 corporations may be with or without par value and the amount thereof,
+12 notwithstanding the provisions of this title, may be less than $500.00 and in
+13 case the stock has no par value then the number of shares of such stock may be
+14 less than ten 10, representing less than $500.00. The Governor may designate
+15 any such corporation as his or her the Governor’s agent or an agency of the
+16 State to carry on rehabilitation activities within the State. Such corporations
+17 shall not be subject to the provisions of 8 V.S.A. chapters 1, 3, 21, and 29 and
+18 8 V.S.A. part 3 and 9 V.S.A. chapter 131, or to the provisions of section 131 of
+19 this title.
+VT LEG #385330 v.6
+
+BILL AS INTRODUCED H.793
+2026 Page 6 of 25
+1 (3) A corporation organized pursuant to this chapter possesses no power
+2 to engage in election activity or ballot-issue activity, and any such activity is
+3 ultra vires and void.
+4 (4) As used in this section:
+5 (A) “Ballot-issue activity” means paying, contributing, or expending
+6 money or anything of value to support or oppose any initiative, referendum,
+7 recall, constitutional amendment, charter amendment, or any other question
+8 formally certified or submitted to the electors of the State or any of its political
+9 subdivisions. “Ballot-issue activity” does not include any bona fide news
+10 story, commentary, or editorial distributed through an independent news
+11 organization not owned or controlled by a political party, political committee,
+12 or candidate.
+13 (B) “Election activity” means paying, contributing, or expending
+14 money or anything of value to support or oppose a candidate, political party, or
+15 political committee. “Election activity” does not include any bona fide news
+16 story, commentary, or editorial distributed through an independent news
+17 organization not owned or controlled by a political party, political committee,
+18 or candidate.
+VT LEG #385330 v.6
+
+BILL AS INTRODUCED H.793
+2026 Page 7 of 25
+1 Sec. 3. 11 V.S.A. § 108 is amended to read:
+2 § 108. BANKS, TRUST AND MUTUAL INSURANCE COMPANIES
+3 (a) A corporation organized under the provisions of 8 V.S.A. chapter 202
+4 or 203, to conduct the business of a financial institution, and a mutual
+5 insurance company organized under the provisions of 8 V.S.A. chapter 101,
+6 may make such contributions for religious, charitable, scientific, literary, or
+7 educational purposes as are authorized by its directors or trustees to an amount
+8 not to exceed five percent of its net income for the previous calendar year
+9 computed in the manner specified by the Internal Revenue Code in effect
+10 during the year applicable for corporations. Contributions in excess of the five
+11 percent of the net income may be made by a vote of its stockholders,
+12 depositors, or members.
+13 (b) A corporation organized under the provisions of 8 V.S.A. chapter 202
+14 or 203, to conduct the business of a financial institution, and a mutual
+15 insurance company organized under the provisions of 8 V.S.A. chapter 101,
+16 possesses no power to engage in election activity or ballot-issue activity, and
+17 any such activity is ultra vires and void.
+18 (c) As used in this section:
+19 (1) “Ballot-issue activity” means paying, contributing, or expending
+20 money or anything of value to support or oppose any initiative, referendum,
+21 recall, constitutional amendment, charter amendment, or any other question
+VT LEG #385330 v.6
+
+BILL AS INTRODUCED H.793
+2026 Page 8 of 25
+1 formally certified or submitted to the electors of the State or any of its political
+2 subdivisions. “Ballot-issue activity” does not include any bona fide news
+3 story, commentary, or editorial distributed through an independent news
+4 organization not owned or controlled by a political party, political committee,
+5 or candidate.
+6 (2) “Election activity” means paying, contributing, or expending money
+7 or anything of value to support or oppose a candidate, political party, or
+8 political committee. “Election activity” does not include any bona fide news
+9 story, commentary, or editorial distributed through an independent news
+10 organization not owned or controlled by a political party, political committee,
+11 or candidate.
+12 Sec. 4. 11 V.S.A. § 994 is amended to read:
+13 § 994. POWERS
+14 (a) Each association incorporated under this subchapter shall have the
+15 following powers:
+16 * * *
+17 (10) To do everything necessary, suitable, or proper for the
+18 accomplishment of any of the purposes or the attainment of any of the objects
+19 herein enumerated, or conducive to or expedient for the interest or benefit of
+20 the association, and to contract accordingly; to exercise and possess all powers,
+21 rights, and privileges necessary or incidental to the purposes for which the
+VT LEG #385330 v.6
+
+BILL AS INTRODUCED H.793
+2026 Page 9 of 25
+1 association is organized or to the activities in which it is engaged, and, in
+2 addition, any other rights, powers, and privileges granted by the laws of this
+3 State to corporations organized under the general laws of this State, except
+4 such as are inconsistent with the express provisions of this subchapter and to
+5 the extent consistent with the artificial-person powers defined in subsection (e)
+6 of this section; and to do any such thing anywhere.
+7 (b) A cooperative association organized pursuant to this chapter has
+8 artificial-person powers and only the powers expressly granted elsewhere in
+9 this chapter.
+10 (c) The creation and continued existence of a cooperative association
+11 organized pursuant to this chapter is a conditional grant of legal status by the
+12 State and remains subject to revocation or alteration at any time.
+13 (d) Any action of a cooperative association constituting election activity or
+14 ballot-issue activity is void and ultra vires.
+15 (e) As used in this section:
+16 (1) “Artificial-person powers” means the powers necessary or
+17 convenient to lawful cooperative association purposes, excluding any authority
+18 to engage in election activity or ballot-issue activity.
+19 (2) “Ballot-issue activity” means paying, contributing, or expending
+20 money or anything of value to support or oppose any initiative, referendum,
+21 recall, constitutional amendment, charter amendment, or any other question
+VT LEG #385330 v.6
+
+BILL AS INTRODUCED H.793
+2026 Page 10 of 25
+1 formally certified or submitted to the electors of the State or any of its political
+2 subdivisions. “Ballot-issue activity” does not include any bona fide news
+3 story, commentary, or editorial distributed through an independent news
+4 organization not owned or controlled by a political party, political committee,
+5 or candidate.
+6 (3) “Election activity” means paying, contributing, or expending money
+7 or anything of value to support or oppose a candidate, political party, or
+8 political committee. “Election activity” does not include any bona fide news
+9 story, commentary, or editorial distributed through an independent news
+10 organization not owned or controlled by a political party, political committee,
+11 or candidate.
+12 Sec. 5. 11 V.S.A. chapter 8 is amended to read:
+13 CHAPTER 8. WORKER COOPERATIVE CORPORATIONS
+14 * * *
+15 § 1093. POWERS
+16 (a) The creation and continued existence of a worker cooperative
+17 corporation governed by this chapter is a conditional grant of legal status by
+18 the State and remains subject to revocation or alteration at any time.
+19 (b) A worker cooperative corporation governed by this chapter has only
+20 artificial-person powers and the powers otherwise applicable pursuant to Title
+21 11A and expressly modified or supplemented by this chapter.
+VT LEG #385330 v.6
+
+BILL AS INTRODUCED H.793
+2026 Page 11 of 25
+1 (c) A worker cooperative corporation governed by this chapter possesses
+2 no power to engage in election activity or ballot-issue activity, and any such
+3 activity is ultra vires and void.
+4 (d) As used in this section:
+5 (1) “Artificial-person powers” means the powers necessary or
+6 convenient to lawful worker cooperative corporation purposes, excluding any
+7 authority to engage in election activity or ballot-issue activity.
+8 (2) “Ballot-issue activity” means paying, contributing, or expending
+9 money or anything of value to support or oppose any initiative, referendum,
+10 recall, constitutional amendment, charter amendment, or any other question
+11 formally certified or submitted to the electors of the State or any of its political
+12 subdivisions. “Ballot-issue activity” does not include any bona fide news
+13 story, commentary, or editorial distributed through an independent news
+14 organization not owned or controlled by a political party, political committee,
+15 or candidate.
+16 (3) “Election activity” means paying, contributing, or expending money
+17 or anything of value to support or oppose a candidate, political party, or
+18 political committee. “Election activity” does not include any bona fide news
+19 story, commentary, or editorial distributed through an independent news
+20 organization not owned or controlled by a political party, political committee,
+21 or candidate.
+VT LEG #385330 v.6
+
+BILL AS INTRODUCED H.793
+2026 Page 12 of 25
+1 Sec. 6. 11 V.S.A. § 4011 is amended to read:
+2 § 4011. NATURE OF BUSINESS AND POWERS; GOVERNING LAW
+3 * * *
+4 (e)(1) A limited liability company shall possess and may exercise all the
+5 powers and privileges granted by this chapter, any other law, its articles of
+6 organization, or its operating agreement, together with any powers incidental
+7 thereto, so far as the powers and privileges are necessary or convenient to the
+8 conduct, promotion, or attainment of the business purposes or activities of the
+9 limited liability company, including power to sue and to be sued, complain and
+10 defend in its company name, and the power to do all things necessary or
+11 convenient to carry on its activities The creation and continued existence of a
+12 limited liability company governed by this chapter is a conditional grant of
+13 legal status by the State and remains subject to revocation or alteration at any
+14 time.
+15 (2) A limited liability company has only artificial-person powers and the
+16 powers expressly granted elsewhere in this chapter.
+17 (3) A limited liability company governed by this chapter possesses no
+18 power to engage in election activity or ballot-issue activity, and any such
+19 activity is ultra vires and void.
+20 (4) A limited liability company that undertakes, finances, or directs
+21 election activity or ballot-issue activity without authority pursuant to this
+VT LEG #385330 v.6
+
+BILL AS INTRODUCED H.793
+2026 Page 13 of 25
+1 chapter shall be required to remit payment to the Office of the State Treasurer
+2 of an amount equal to the value expended in the activity.
+3 (5) A foreign limited liability company that directly or indirectly
+4 undertakes, finances, or directs election activity or ballot-issue activity in this
+5 State, or with respect to any election or ballot measure submitted to the
+6 electors of this State, is conclusively deemed to be transacting business in this
+7 State for jurisdiction and enforcement purposes.
+8 (6) Nothing in this section shall be construed to invalidate, impair, or
+9 modify any contract, debt instrument, security, or other legal obligation
+10 lawfully entered into by a limited liability company on or before December 31,
+11 2026.
+12 * * *
+13 (h) As used in this section:
+14 (1) “Artificial-person powers” means the powers necessary or
+15 convenient to lawful limited liability company purposes, excluding any
+16 authority to engage in election activity or ballot-issue activity.
+17 (2) “Ballot-issue activity” means paying, contributing, or expending
+18 money or anything of value to support or oppose any initiative, referendum,
+19 recall, constitutional amendment, charter amendment, or any other question
+20 formally certified or submitted to the electors of the State or any of its political
+21 subdivisions. “Ballot-issue activity” does not include any bona fide news
+VT LEG #385330 v.6
+
+BILL AS INTRODUCED H.793
+2026 Page 14 of 25
+1 story, commentary, or editorial distributed through an independent news
+2 organization not owned or controlled by a political party, political committee,
+3 or candidate.
+4 (3) “Election activity” means paying, contributing, or expending money
+5 or anything of value to support or oppose a candidate, political party, or
+6 political committee. “Election activity” does not include any bona fide news
+7 story, commentary, or editorial distributed through an independent news
+8 organization not owned or controlled by a political party, political committee,
+9 or candidate.
+10 Sec. 7. 11 V.S.A. § 3208 is added to read:
+11 § 3208. POLITICAL ACTIVITY; LIMITATIONS
+12 (a) A limited partnership organized under this chapter shall possess no
+13 authority to engage in election activity or ballot-issue activity.
+14 (b) Any election activity or ballot-issue activity undertaken, financed, or
+15 directed by a limited partnership is ultra vires and void.
+16 (c) A limited partnership that undertakes an ultra vires election activity or
+17 ballot-issue activity shall be required to remit payment to the Office of the
+18 State Treasurer of an amount equal to the value expended in the activity.
+19 (d) The liability provisions set forth in subsection (b) of this section apply
+20 to limited partnerships and to all general partners, limited partners, and other
+VT LEG #385330 v.6
+
+BILL AS INTRODUCED H.793
+2026 Page 15 of 25
+1 persons of the limited partnership who authorize, direct, control, or knowingly
+2 participate in such activity.
+3 (e) This section applies only to limited partnerships and does not apply to
+4 general partnerships or other associations in which all partners bear unlimited
+5 personal liability for the obligations of the partnership.
+6 (f) As used in this section:
+7 (1) “Artificial-person powers” means the powers necessary or
+8 convenient to limited partnership purposes, excluding any authority to engage
+9 in election activity or ballot-issue activity.
+10 (2) “Ballot-issue activity” means paying, contributing, or expending
+11 money or anything of value to support or oppose any initiative, referendum,
+12 recall, constitutional amendment, charter amendment, or any other question
+13 formally certified or submitted to the electors of the State or any of its political
+14 subdivisions. “Ballot-issue activity” does not include any bona fide news
+15 story, commentary, or editorial distributed through an independent news
+16 organization not owned or controlled by a political party, political committee,
+17 or candidate.
+18 (3) “Election activity” means paying, contributing, or expending money
+19 or anything of value to support or oppose a candidate, political party, or
+20 political committee. “Election activity” does not include any bona fide news
+21 story, commentary, or editorial distributed through an independent news
+VT LEG #385330 v.6
+
+BILL AS INTRODUCED H.793
+2026 Page 16 of 25
+1 organization not owned or controlled by a political party, political committee,
+2 or candidate.
+3 Sec. 8. 11 V.S.A. § 3408 is added to read:
+4 § 3408. POLITICAL ACTIVITY; LIMITATIONS
+5 (a) A limited liability partnership organized under this chapter shall possess
+6 no authority to engage in election activity or ballot-issue activity.
+7 (b) Any election activity or ballot-issue activity undertaken, financed, or
+8 directed by a limited liability partnership is ultra vires and void.
+9 (c) A limited liability partnership that undertakes an ultra vires election
+10 activity or ballot-issue activity shall be required to remit payment to the Office
+11 of the State Treasurer of an amount equal to the value expended in the activity.
+12 (d) The liability provisions set forth in subsection (b) of this section apply
+13 to limited liability partnerships and to all partners and other persons who
+14 authorize, direct, control, or knowingly participate in such activity.
+15 (e) This section applies only to limited liability partnerships and does not
+16 apply to general partnerships or other associations in which all partners bear
+17 unlimited personal liability for the obligations of the partnership.
+18 (f) As used in this section:
+19 (1) “Artificial-person powers” means the powers necessary or
+20 convenient to limited liability partnership purposes, excluding any authority to
+21 engage in election activity or ballot-issue activity.
+VT LEG #385330 v.6
+
+BILL AS INTRODUCED H.793
+2026 Page 17 of 25
+1 (2) “Ballot-issue activity” means paying, contributing, or expending
+2 money or anything of value to support or oppose any initiative, referendum,
+3 recall, constitutional amendment, charter amendment, or any other question
+4 formally certified or submitted to the electors of the State or any of its political
+5 subdivisions. “Ballot-issue activity” does not include any bona fide news
+6 story, commentary, or editorial distributed through an independent news
+7 organization not owned or controlled by a political party, political committee,
+8 or candidate.
+9 (3) “Election activity” means paying, contributing, or expending money
+10 or anything of value to support or oppose a candidate, political party, or
+11 political committee. “Election activity” does not include any bona fide news
+12 story, commentary, or editorial distributed through an independent news
+13 organization not owned or controlled by a political party, political committee,
+14 or candidate.
+15 Sec. 9. 11A V.S.A. § 3.02 is amended to read:
+16 § 3.02. GENERAL POWERS
+17 (a) All powers, privileges, and capacities granted or implied under the laws
+18 of this State to a corporation organized under this title on or before December
+19 31, 2026, are hereby revoked in their entirety.
+20 (b) Unless its articles of incorporation provide otherwise, every Every
+21 corporation has perpetual duration and succession in its corporate name and
+VT LEG #385330 v.6
+
+BILL AS INTRODUCED H.793
+2026 Page 18 of 25
+1 has the same powers as an individual to do all things necessary and convenient
+2 to carry out its business and affairs organized under this title is granted
+3 artificial-person powers along with any enumerated power that is consistent
+4 with such artificial-person powers, including without limitation the power:
+5 * * *
+6 (c)(1) The creation and continued existence of a corporation organized
+7 under this title is a conditional grant of legal status by the State and remains
+8 subject to revocation or alteration at any time.
+9 (2) Any act of a corporation organized under this title constituting
+10 election activity or ballot-issue activity is ultra vires and void and results in
+11 forfeiture of all charter privileges. The Secretary of State shall only reinstate
+12 the corporation’s charter upon the corporation’s payment to the Office of the
+13 State Treasurer of the amount equal to the unlawful expenditures along with a
+14 certification of compliance.
+15 (3) A foreign corporation that directly or indirectly undertakes, finances,
+16 or directs election activity or ballot-issue activity in this State, or with respect
+17 to any election or ballot measure submitted to the electors of this State, is
+18 conclusively deemed to be transacting business in this State for jurisdiction and
+19 enforcement purposes
+20 (4) Nothing in this section shall be construed to invalidate, impair, or
+21 modify any contract, debt instrument, security, or other legal obligation
+VT LEG #385330 v.6
+
+BILL AS INTRODUCED H.793
+2026 Page 19 of 25
+1 lawfully entered into by a corporation organized pursuant to this title on or
+2 before December 31, 2026.
+3 (d) As used in this section:
+4 (1) “Artificial-person powers” means the powers necessary or
+5 convenient to carry out the lawful purposes of a corporation, excluding any
+6 authority of the corporation to engage in election activity or ballot-issue
+7 activity.
+8 (2) “Ballot-issue activity” means paying, contributing, or expending
+9 money or anything of value to support or oppose any initiative, referendum,
+10 recall, constitutional amendment, charter amendment, or any other question
+11 formally certified or submitted to the electors of the State or any of its political
+12 subdivisions. “Ballot-issue activity” does not include any bona fide news
+13 story, commentary, or editorial distributed through an independent news
+14 organization not owned or controlled by a political party, political committee,
+15 or candidate.
+16 (3) “Election activity” means paying, contributing, or expending money
+17 or anything of value to support or oppose a candidate, political party, or
+18 political committee. “Election activity” does not include any bona fide news
+19 story, commentary, or editorial distributed through an independent news
+20 organization not owned or controlled by a political party, political committee,
+21 or candidate.
+VT LEG #385330 v.6
+
+BILL AS INTRODUCED H.793
+2026 Page 20 of 25
+1 Sec. 10. 11B V.S.A. chapter 3 is amended to read:
+2 CHAPTER 3. PURPOSES AND POWERS
+3 § 3.01. PURPOSES
+4 (a) A corporation may be organized under this chapter for any lawful
+5 purpose or purposes consistent with the artificial-person powers granted
+6 pursuant to section 3.02 of this chapter, including, without being limited to,
+7 any one or more of the following purposes: charitable; benevolent;
+8 eleemosynary; educational; civic; patriotic; political; religious; social;
+9 fraternal; sororal; literary; cultural; athletic; scientific; agricultural;
+10 horticultural; animal husbandry; and professional, commercial, industrial, or
+11 trade association. Under no circumstances shall election activity or ballot-
+12 issue activity be deemed a lawful purpose of a corporation organized under this
+13 chapter.
+14 * * *
+15 § 3.02. GENERAL POWERS
+16 (a) All powers, privileges, and capacities granted or implied under the laws
+17 of this State to a corporation organized under this title on or before December
+18 31, 2026, are hereby revoked in their entirety.
+19 (b) Unless its articles of incorporation provide otherwise, every Every
+20 corporation has perpetual duration and succession in its corporate name and
+21 has the same powers as an individual to do all things necessary or convenient
+VT LEG #385330 v.6
+
+BILL AS INTRODUCED H.793
+2026 Page 21 of 25
+1 to carry out its affairs organized under this title is granted artificial-person
+2 powers along with any enumerated power that is consistent with such artificial-
+3 person powers, including, without limitation, the power:
+4 * * *
+5 (18) to do all things necessary or convenient, not inconsistent with law,
+6 and within the scope of artificial-person powers, to further the activities and
+7 affairs of the corporation.
+8 (c)(1) A corporation organized under this title that operates primarily as a
+9 political committee or political party may engage in election activity or ballot-
+10 issue activity only to the extent permitted by law and shall claim no charter
+11 privilege other than limited liability for its members, directors, and officers.
+12 (2) The creation and continued existence of a corporation organized
+13 under this title is a conditional grant of legal status by the State and remains
+14 subject to revocation or alteration at any time.
+15 (3) Any act of a corporation organized under this title constituting
+16 election activity or ballot-issue activity is ultra vires and void and results in
+17 forfeiture of all charter privileges. The Secretary of State shall only reinstate
+18 the corporation’s charter upon the corporation’s payment to the Office of the
+19 State Treasurer of the amount equal to the unlawful expenditures along with a
+20 certification of compliance.
+VT LEG #385330 v.6
+
+BILL AS INTRODUCED H.793
+2026 Page 22 of 25
+1 (4) A foreign corporation that directly or indirectly undertakes, finances,
+2 or directs election activity or ballot-issue activity in this State, or with respect
+3 to any election or ballot measure submitted to the electors of this State, is
+4 conclusively deemed to be transacting business in this State for jurisdiction and
+5 enforcement purposes.
+6 (5) Nothing in this section shall be construed to invalidate, impair, or
+7 modify any contract, debt instrument, security, or other legal obligation
+8 lawfully entered into by a corporation organized pursuant to this title on or
+9 before December 31, 2026.
+10 (d) As used in this chapter:
+11 (1) “Artificial-person powers” means the powers necessary or
+12 convenient to carry out the lawful purposes of a corporation, excluding any
+13 authority of the corporation to engage in election activity or ballot-issue
+14 activity.
+15 (2) “Ballot-issue activity” means paying, contributing, or expending
+16 money or anything of value to support or oppose any initiative, referendum,
+17 recall, constitutional amendment, charter amendment, or any other question
+18 formally certified or submitted to the electors of the State or any of its political
+19 subdivisions. “Ballot-issue activity” does not include any bona fide news
+20 story, commentary, or editorial distributed through an independent news
+VT LEG #385330 v.6
+
+BILL AS INTRODUCED H.793
+2026 Page 23 of 25
+1 organization not owned or controlled by a political party, political committee,
+2 or candidate.
+3 (3) “Election activity” means paying, contributing, or expending money
+4 or anything of value to support or oppose a candidate, political party, or
+5 political committee.
+6 * * *
+7 Sec. 11. 11C V.S.A. § 106 is amended to read:
+8 § 106. POWERS
+9 (a) All powers, privileges, and capacities granted or implied under the laws
+10 of this State to a mutual benefit enterprise organized under this title on or
+11 before December 31, 2026, are hereby revoked in their entirety.
+12 (b) A mutual benefit enterprise may sue and be sued in its own name and
+13 do all things necessary or convenient to carry on its activities is granted only
+14 artificial-person powers. An enterprise may maintain an action against a
+15 member for harm caused to the enterprise by the member’s violation of a duty
+16 to the enterprise or of the organic laws or organic rules.
+17 (c)(1) The creation and continued existence of an enterprise organized
+18 under this title is a conditional grant of legal status by the State and remains
+19 subject to revocation or alteration at any time.
+20 (2) Any act of an enterprise organized under this title constituting
+21 election activity or ballot-issue activity is ultra vires and void.
+VT LEG #385330 v.6
+
+BILL AS INTRODUCED H.793
+2026 Page 24 of 25
+1 (3) Nothing in this section shall be construed to invalidate, impair, or
+2 modify any contract, debt instrument, security, or other legal obligation
+3 lawfully entered into by an enterprise organized pursuant to this title on or
+4 before December 31, 2026.
+5 (d) As used in this section:
+6 (1) “Artificial-person powers” means the powers necessary or
+7 convenient to carry out the lawful purposes of an enterprise, excluding any
+8 authority of the enterprise to engage in election activity or ballot-issue activity.
+9 (2) “Ballot-issue activity” means paying, contributing, or expending
+10 money or anything of value to support or oppose any initiative, referendum,
+11 recall, constitutional amendment, charter amendment, or any other question
+12 formally certified or submitted to the electors of the State or any of its political
+13 subdivisions. “Ballot-issue activity” does not include any bona fide news
+14 story, commentary, or editorial distributed through an independent news
+15 organization not owned or controlled by a political party, political committee,
+16 or candidate.
+17 (3) “Election activity” means paying, contributing, or expending money
+18 or anything of value to support or oppose a candidate, political party, or
+19 political committee. “Election activity” does not include any bona fide news
+20 story, commentary, or editorial distributed through an independent news
+VT LEG #385330 v.6
+
+BILL AS INTRODUCED H.793
+2026 Page 25 of 25
+1 organization not owned or controlled by a political party, political committee,
+2 or candidate.
+3 Sec. 12. APPLICABILITY OF CORPORATE POWER RESET
+4 (a) Nothing in this act shall invalidate, impair, or modify any contract, debt
+5 instrument, security, or other legal obligation lawfully entered into on or before
+6 December 31, 2026.
+7 (b) No power, privilege, or capacity withheld or limited by this act shall be
+8 revived, reinstated, or implied by operation of law or judicial construction.
+9 (c) If any provision of this act is held invalid as applied to any artificial
+10 legal person, the invalidity shall not be construed to authorize that entity to
+11 engage in election activity or ballot-issue activity or to revive any power,
+12 privilege, or capacity withheld by this act.
+13 Sec. 13. EFFECTIVE DATE
+14 This act shall take effect on January 1, 2027.
+VT LEG #385330 v.6

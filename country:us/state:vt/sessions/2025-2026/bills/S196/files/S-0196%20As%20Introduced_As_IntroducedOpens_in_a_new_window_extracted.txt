@@ -1,0 +1,223 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED S.196
+2026 Page 1 of 9
+1 S.196
+2 Introduced by Senator Clarkson
+3 Referred to Committee on
+4 Date:
+5 Subject: Taxation; property taxes; delinquent taxes; tax sale; redemption; right
+6 of purchaser to secure property
+7 Statement of purpose of bill as introduced: This bill proposes to reduce the
+8 redemption period after a municipal tax sale and to authorize the purchaser of a
+9 property at tax sale to enter the property during the redemption period for the
+10 purpose of securing the property against illegal activity, fire hazard, damage,
+11 or deterioration.
+12 An act relating to property tax sales
+13 It is hereby enacted by the General Assembly of the State of Vermont:
+14 Sec. 1. 32 V.S.A. § 5252 is amended to read:
+15 § 5252. LEVY AND NOTICE OF SALE; SECURING PROPERTY
+16 (a) When the collector of taxes of a town or of a municipality within it has
+17 for collection a tax assessed against real estate in the town and the taxpayer
+18 owes a minimum of $1,500.00 and is delinquent for a period longer than one
+19 year, the collector may extend a warrant on such land. However, no warrant
+20 shall be extended until a delinquent taxpayer is given an opportunity to enter a
+VT LEG #385572 v.1
+
+BILL AS INTRODUCED S.196
+2026 Page 2 of 9
+1 written reasonable repayment plan pursuant to subsection (c) of this section. If
+2 a collector receives notice from a mobile home park owner pursuant to 10
+3 V.S.A. § 6248(b), the collector shall, within 15 days after the notice,
+4 commence tax sale proceedings to hold a tax sale within 60 days after the
+5 notice. If the collector fails to initiate such proceedings, the town may initiate
+6 tax sale proceedings only after complying with 10 V.S.A. § 6249(f). If the tax
+7 collector extends the warrant, the collector shall:
+8 (1) File in the office of the town clerk for record a true and attested copy
+9 of the warrant and so much of the tax bill committed to the collector for
+10 collection as relates to the tax against the delinquent taxpayer, a sufficient
+11 description of the land so levied upon, and a statement in writing that by virtue
+12 of the original tax warrant and tax bill committed to the collector for
+13 collection, the collector has levied upon the described land.
+14 (2) Advertise forthwith such land for sale at public auction in the town
+15 where it lies three weeks successively in a newspaper circulating in the
+16 vicinity, the last publication to be at least 10 days before such sale.
+17 (3) Give the delinquent taxpayer written notice by certified mail
+18 requiring a return receipt directed to the last known address of the delinquent
+19 of the date and place of such sale at least 30 days prior thereto if the delinquent
+20 is a resident of the town and 30 days prior thereto if the delinquent is a
+21 nonresident of the town. If the notice by certified mail is returned unclaimed:
+VT LEG #385572 v.1
+
+BILL AS INTRODUCED S.196
+2026 Page 3 of 9
+1 (A) notice shall be provided to the taxpayer by resending the notice
+2 by first-class mail or by personal service pursuant to Rule 4 of the Vermont
+3 Rules of Civil Procedure; and
+4 (B) notice shall be provided by email, provided the tax collector can
+5 acquire the email address of the delinquent taxpayer using reasonable effort;
+6 and
+7 (C) notice shall be affixed to the front door of the property subject to
+8 tax sale, provided it has a structure.
+9 (4) Give to the mortgagee or lien holder of record written notice of such
+10 sale at least 30 days prior thereto if a resident of the town and, if a nonresident,
+11 30 days’ notice to the mortgagee or lien holder of record or the mortgagee’s or
+12 lien holder’s agent or attorney by certified mail requiring a return receipt
+13 directed to the last known address of such person. If the notice by certified
+14 mail is returned unclaimed, notice shall be provided by resending the notice by
+15 first-class mail or by personal service pursuant to Rule 4 of the Vermont Rules
+16 of Civil Procedure.
+17 (5) Post a notice of such sale in some public place in the town.
+18 (6) Enclose the following statement, with directions to a resource
+19 translating the notice into the five most common non-English languages used
+20 in this State, with the notices required under subdivisions (3) and (4) of this
+21 subsection and with every delinquent tax notice: Warning: There are unpaid
+VT LEG #385572 v.1
+
+BILL AS INTRODUCED S.196
+2026 Page 4 of 9
+1 property taxes at (address of property), which you may own, or have a legal
+2 interest, in or which may be contiguous to your property. The property will be
+3 sold at public auction on (date set for sale) unless the overdue taxes, fees, and
+4 interest in the amount of (dollar amount due) is paid. To make payment or
+5 receive further information, contact (name of tax collector) immediately at
+6 (office address), (mailing address), (email address), or (telephone number).
+7 (7) The resource for translation of the notice required under subdivision
+8 (6) of this subsection shall be made available to all municipalities by the
+9 Vermont Department of Taxes.
+10 (b)(1) If the warrant and levy for delinquent taxes has been recorded
+11 pursuant to subsection (a) of this section, the municipality in which the real
+12 estate lies may secure the property against illegal activity, damage from
+13 exposure to the elements, deterioration, and potential fire hazards after giving
+14 the mortgagee or lien holder of record written notice at least 10 days prior to
+15 such action.
+16 (2) Notwithstanding any provision of this section to the contrary, when a
+17 warrant and levy for delinquent taxes has been recorded pursuant to subsection
+18 (a) of this section, it shall be for all delinquent taxes due at the time the warrant
+19 and levy is filed.
+20 (c)(1) A municipality shall not initiate a tax sale proceeding until it has,
+21 after attempting to consult with the taxpayer, offered a delinquent taxpayer a
+VT LEG #385572 v.1
+
+BILL AS INTRODUCED S.196
+2026 Page 5 of 9
+1 written reasonable repayment plan and the taxpayer has either denied the offer,
+2 failed to respond within 30 days, or failed to make a payment under the plan
+3 within the time frame established by the collector. When establishing a plan
+4 under this subsection, the municipality may request related information and
+5 shall consider the following:
+6 (A) the income and income schedule of the taxpayer, if offered by the
+7 taxpayer;
+8 (B) the taxpayer’s tax payment history with the municipality;
+9 (C) the amount of tax debt owed to the municipality;
+10 (D) the amount of time tax has been delinquent; and
+11 (E) the taxpayer’s reason for the delinquency, if offered by the
+12 taxpayer.
+13 (2) A collector is only required to offer one payment plan per
+14 delinquency, without regard for whether it is agreed to by the delinquent
+15 taxpayer.
+16 (3) A collector may void a payment plan and proceed to tax sale if a
+17 delinquent taxpayer agrees to a payment plan under this subsection and fails to
+18 make a timely payment.
+VT LEG #385572 v.1
+
+BILL AS INTRODUCED S.196
+2026 Page 6 of 9
+1 Sec. 2. 32 V.S.A. § 5253 is amended to read:
+2 § 5253. FORM OF ADVERTISEMENT AND NOTICE OF SALE
+3 The form of advertisement and notice of sale provided for in section 5252
+4 of this title shall be substantially in the following form:
+5 The resident and nonresident owners, lien holders, and mortgagees of lands in
+6 the town of __________ in the county of __________ are hereby notified that
+7 the taxes assessed by such town for the years ______ (insert years the taxes are
+8 unpaid) ______ remain, either in whole or in part, unpaid on the following
+9 described lands in such town, to wit,
+10 _________________________________________
+11 _________________________________________
+12 (insert description of lands)
+13 and so much of such lands will be sold at public auction at ______ a public
+14 place in such town, on the _____ day of ______ (month), ______ (year) at
+15 ______ o’clock ____ (am/pm), as shall be requisite to discharge such taxes
+16 with costs and fees, unless previously paid.
+17 Be advised that the owner or mortgagee, or the owner’s or mortgagee’s
+18 representatives or assigns, of lands sold for taxes shall have a right to
+19 redemption for a period of one year six months from the date of sale pursuant
+20 to 32 V.S.A. § 5260.
+VT LEG #385572 v.1
+
+BILL AS INTRODUCED S.196
+2026 Page 7 of 9
+1 Dated at __________, Vermont, this ________ day of _______ (month), ____
+2 (year).
+3 _________________________________________
+4 Collector of Town Taxes
+5 Sec. 3. 32 V.S.A. § 5254a is added to read:
+6 § 5254a. ENTRY TO SECURE PROPERTY
+7 After providing the mortgagee or lien holder of record written notice of at
+8 least 10 days, the purchaser of real estate subject to this subchapter may enter
+9 the property to secure the property against illegal activity, damage from
+10 exposure to the elements, deterioration, and potential fire hazards.
+11 Sec. 4. 32 V.S.A. § 5260 is amended to read:
+12 § 5260. REDEMPTION
+13 (a) When the owner, lien holder, or mortgagee of lands sold for taxes, or
+14 the owner’s, lien holder’s, or mortgagee’s representatives or assigns, within
+15 one year six months from the day of sale, pays or tenders to the collector who
+16 made the sale or in the case of the collector’s death or removal from the town
+17 where the land lies, to the town clerk of such town, the sum for which the land
+18 was sold with interest thereon calculated at a rate of one percent per month or
+19 fraction thereof from the day of sale to the day of payment, a deed of the land
+20 shall not be made to the purchaser, but the money paid or tendered by the
+21 owner, lien holder, or mortgagee or the owner’s, lien holder’s, or mortgagee’s
+VT LEG #385572 v.1
+
+BILL AS INTRODUCED S.196
+2026 Page 8 of 9
+1 representatives or assigns to the collector or town clerk shall be paid over to
+2 such purchaser on demand. In the event that a municipality purchases
+3 contaminated land pursuant to section 5259 of this title, the cost to redeem
+4 shall include all costs expended for assessment and remediation, including
+5 expenses incurred or authorized by any local, State, or federal government
+6 authority.
+7 (b) During the redemption period, the tax collector shall:
+8 (1) Serve the delinquent taxpayer with the written notice required under
+9 subsection (c) of this section between 90 and 120 days prior to the end of the
+10 redemption period using certified mail requiring a return receipt, directed to
+11 the last known address of the delinquent taxpayer. If the notice by certified
+12 mail is returned unclaimed, notice shall be provided by resending the notice by
+13 first-class mail or by personal service pursuant to Rule 4 of the Vermont Rules
+14 of Civil Procedure.
+15 (2) Post the notice in some public place in the municipality between 90
+16 and 120 days prior to the end of redemption period.
+17 (c) The tax collector shall enclose the following statement, with directions
+18 to a resource translating the notice into the five most common non-English
+19 languages used in this State, with every notice required under this section:
+20 Warning: There are unpaid property taxes at (address of property), which you
+21 may own, or have a legal interest in, or which may be contiguous to your
+VT LEG #385572 v.1
+
+BILL AS INTRODUCED S.196
+2026 Page 9 of 9
+1 property. The property was sold at public auction on (date). Unless the
+2 overdue taxes, fees, and interest are paid by (last day of redemption period),
+3 the deed to the property will transfer to the purchaser. To redeem the property
+4 and avoid losing your legal interest, you must pay (dollar amount due for
+5 redemption). The amount you must pay to redeem the property increases every
+6 month due to interest, mailing costs, and other costs. To make payment or
+7 receive further information, contact (name of tax collector) immediately at
+8 (office address), (mailing address), (email address), and (telephone number).
+9 (d) The resource for translation of the notice required under subsection (c)
+10 of this section shall be made available to all municipalities by the Vermont
+11 Department of Taxes.
+12 Sec. 5. APPLICATION OF CHANGES MADE BY THIS ACT
+13 The amendments to 32 V.S.A. §§ 5253 and 5260 (notice and redemption)
+14 shall not apply to a property that was subject to a notice of sale nor to a
+15 property that has been sold at tax sale prior to July 1, 2026.
+16 Sec. 6. EFFECTIVE DATE
+17 This act shall take effect on July 1, 2026.
+VT LEG #385572 v.1

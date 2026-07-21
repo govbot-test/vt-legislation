@@ -1,0 +1,342 @@
+Title: 
+Official Title: 
+Source: versions - As Passed By the House (OfficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILLAS PASSED BY THE HOUSE H.642
+2026 Page 1 of 15
+1 H.642
+2 Introduced by Representative LaLonde of South Burlington
+3 Referred to Committee on
+4 Date:
+5 Subject: Human services; youthful offender; court procedures
+6 Statement of purpose of bill as introduced: This bill proposes the following
+7 changes to judicial proceedings involving youthful offenders: to require the
+8 court to consider whether the youth has acknowledged that harm was caused
+9 by the youth’s alleged conduct when the court is determining whether public
+10 safety will be protected by treating the youth as a youthful offender; to require
+11 the court to revoke the youth’s youthful offender status if while on probation
+12 for the offense the youth is charged with a violent crime, unless the youth
+13 shows that public safety will continue to be protected and that the youth
+14 remains amenable to treatment as a youthful offender; to require the court to
+15 revoke the youth’s youthful offender status if the youth fails to appear at a
+16 probation revocation hearing unless the court finds there was good cause for
+17 the failure to appear; and to clarify that victims have a right to attend and
+18 express their views at the youthful offender consideration hearing as well as
+19 the disposition hearing.
+20 An act relating to youthful offender proceedings
+
+BILLAS PASSED BY THE HOUSE H.642
+2026 Page 2 of 15
+1 It is hereby enacted by the General Assembly of the State of Vermont:
+2 Sec. 1. 33 V.S.A. § 5284 is amended to read:
+3 § 5284. YOUTHFULOFFENDER DETERMINATION AND DISPOSITION
+4 ORDER
+5 (a)(1) In a hearing on a motion for youthful offender status, the court shall
+6 first consider whether public safety will be protected by treating the youth as a
+7 youthful offender. If the court finds that public safety will not be protected by
+8 treating the youth as a youthful offender, the court shall deny the motion and
+9 transfer the case to the Criminal Division of the Superior Court pursuant to
+10 subsection 5281(d) of this title. If the court finds that public safety will be
+11 protected by treating the youth as a youthful offender, the court shall proceed
+12 to make a determination under subsection (b) of this section.
+13 (2) When determining whether public safety will be protected by
+14 treating the youth as a youthful offender, the court shall consider, on the basis
+15 of the evidence admitted:
+16 (A) the nature and circumstances of the charge and whether violence
+17 was involved;
+18 (B) the youth’s mental health treatment history and needs;
+19 (C) the youth’s substance abuse history and needs;
+20 (D) the youth’s residential housing status;
+21 (E) the youth’s employment and educational situation;
+
+BILLAS PASSED BY THE HOUSE H.642
+2026 Page 3 of 15
+1 (F) whether the youth has complied with conditions of release;
+2 (G) the youth’s criminal record and whether the youth has engaged
+3 in subsequent criminal or delinquent behavior since the original charge;
+4 (H) whether supervising the youth on youthful offender probation is
+5 appropriate considering the nature of the charged offense and the age and
+6 specialized needs of the youth;
+7 (I) whether the youth has connections to the community; and
+8 (J) the youth’s history of violence and history of illegal or violent
+9 conduct involving firearms or other deadly weapons; and
+10 (K) whether the youth has acknowledged that harm was caused by
+11 the youth’s alleged conduct.
+12 (b)(1) The court shall deny the motion if the court finds that:
+13 (A) the youth is not amenable to treatment or rehabilitation as a
+14 youthful offender; or
+15 (B) there are insufficient services in the juvenile court system and the
+16 Department for Children and Families and the Department of Corrections to
+17 meet the youth’s treatment and rehabilitation needs.
+18 (2) The court shall grant the motion if the court finds that:
+19 (A) the youth is amenable to treatment or rehabilitation as a youthful
+20 offender; and
+
+BILLAS PASSED BY THE HOUSE H.642
+2026 Page 4 of 15
+1 (B) there are sufficient services in the juvenile court system and the
+2 Department for Children and Families and the Department of Corrections to
+3 meet the youth’s treatment and rehabilitation needs.
+4 (c)(1) If the court approves the motion for youthful offender treatment
+5 after an adjudication pursuant to subsection 5281(d) of this title, the court:
+6 (A) shall approve a disposition case plan and impose conditions of
+7 juvenile probation on the youth; and
+8 (B) may transfer legal custody of the youth to a parent, relative,
+9 person with a significant relationship with the youth, or Commissioner,
+10 provided that any transfer of custody shall expire on the youth’s 18th birthday.
+11 (2) Prior to the approval of a disposition case plan, the court may refer a
+12 child directly to a youth-appropriate community-based provider that has been
+13 approved by the department Department and which may include a community
+14 justice center or a balanced and restorative justice program. Referral to a
+15 community-based provider pursuant to this subdivision shall not require the
+16 court to place the child on probation. If the community-based provider does
+17 not accept the case or if the child fails to complete the program in a manner
+18 deemed satisfactory and timely by the provider, the child shall return to the
+19 court for further proceedings, including the imposition of the disposition order.
+20 (d) The Department for Children and Families and the Department of
+21 Corrections shall be responsible for supervision of and providing services to
+
+BILLAS PASSED BY THE HOUSE H.642
+2026 Page 5 of 15
+1 the youth until the youth reaches 22 years of age. Both Departments shall
+2 designate a case manager who together shall appoint a lead Department to
+3 have final decision-making authority over the case plan and the provision of
+4 services to the youth. The youth shall be eligible for appropriate community-
+5 based programming and services provided by both Departments.
+6 Sec. 2. 33 V.S.A. § 5285 is amended to read:
+7 § 5285. MODIFICATION OR REVOCATION OF DISPOSITION
+8 (a) If it appears that the youth has violated the terms of juvenile probation
+9 ordered by the court pursuant to subdivision 5284(c)(1) of this title, a motion
+10 for modification or revocation of youthful offender status may be filed in the
+11 Family Division of the Superior Court. The court shall set the motion for
+12 hearing as soon as practicable. The hearing may be joined with a hearing on a
+13 violation of conditions of probation under section 5265 of this title. A
+14 supervising juvenile or adult probation officer may detain in an adult facility a
+15 youthful offender who has attained 18 years of age for violating conditions of
+16 probation.
+17 (b) A hearing under this section shall be held in accordance with section
+18 5268 of this title.
+19 (c)(1) If the court finds after the hearing that the youth has violated the
+20 terms of his or her the youth’s probation, the court may:
+
+BILLAS PASSED BY THE HOUSE H.642
+2026 Page 6 of 15
+1 (1)(A) maintain the youth’s status as a youthful offender, with modified
+2 conditions of juvenile probation if the court deems it appropriate;
+3 (2)(B) revoke the youth’s status as a youthful offender and transfer the
+4 case with a record of the petition, affidavit, adjudication, disposition, and
+5 revocation to the Criminal Division for sentencing; or
+6 (3)(C) transfer supervision of the youth to the Department of
+7 Corrections with all of the powers and authority of the Department and the
+8 Commissioner under Title 28, including graduated sanctions and electronic
+9 monitoring.
+10 (2) If the court finds after the hearing that while on juvenile probation
+11 the youth was charged with a crime an element of which involves an act of
+12 violence against another person, the court shall revoke the youth’s status as a
+13 youthful offender and transfer the case with a record of the petition, affidavit,
+14 adjudication, disposition, and revocation to the Criminal Division for
+15 sentencing, unless the youth proves to the court by a preponderance of the
+16 evidence that:
+17 (A) the public will be protected by continuing to treat the youth as a
+18 youthful offender; and
+19 (B) the youth remains amenable to treatment or rehabilitation as a
+20 youthful offender.
+
+BILLAS PASSED BY THE HOUSE H.642
+2026 Page 7 of 15
+1 (d) If the youth fails to appear at a probation revocation hearing under this
+2 section, the court shall, unless it finds there was good cause for the failure to
+3 appear, revoke the youth’s status as a youthful offender and transfer the case
+4 with a record of the petition, affidavit, adjudication, disposition, and
+5 revocation to the Criminal Division for sentencing.
+6 (e) If a youth’s status as a youthful offender is revoked and the case is
+7 transferred to the Criminal Division pursuant to subdivision (c)(2) (c)(1)(B) of
+8 this section, the court shall enter a conviction of guilty based on the admission
+9 to or finding of merits, hold a sentencing hearing, and impose sentence.
+10 Unless it serves the interest interests of justice, the case shall not be transferred
+11 back to the Family Division pursuant to section 5203 of this title. When
+12 determining an appropriate sentence, the court may take into consideration the
+13 youth’s degree of progress toward or regression from rehabilitation while on
+14 youthful offender status. The Criminal Division shall have access to all
+15 Family Division records of the proceeding.
+16 Sec. 3. 33 V.S.A. § 5288 is amended to read:
+17 § 5288. RIGHTS OF VICTIMS IN YOUTHFULOFFENDER
+18 PROCEEDINGS
+19 (a) The victim in a proceeding involving a youthful offender shall have the
+20 following rights:
+
+BILLAS PASSED BY THE HOUSE H.642
+2026 Page 8 of 15
+1 (1) To be notified by the prosecutor in a timely manner:
+2 (A) when a court proceeding is scheduled to take place and when a
+3 court proceeding to of which the victim has been notified will not take place as
+4 scheduled; and
+5 (B) of any conditions of release or conditions of probation and of any
+6 restitution unless otherwise limited by court order.
+7 (2) To be present during all court proceedings subject to the provisions
+8 of Rule 615 of the Vermont Rules of Evidence; to attend the hearing on the
+9 motion to consider youthful offender status and the disposition hearing to
+10 present a victim impact statement and to express reasonably the victim’s views
+11 concerning the offense and, the youth, and the appropriateness of youthful
+12 offender status, including testimony in support of the victim’s claim for
+13 restitution; and to submit oral or written statements to the court at such other
+14 times as the court may allow. The court shall consider the victim’s statement
+15 when ordering disposition.
+16 (3) To be notified by the agency having custody of the youth before the
+17 youth is released into the community from a secure or staff-secured residential
+18 facility.
+19 (4) To be notified by the prosecutor as to the final disposition of the
+20 case.
+
+BILLAS PASSED BY THE HOUSE H.642
+2026 Page 9 of 15
+1 (5) To be notified by the prosecutor of the victim’s rights under this
+2 section.
+3 (b) In accordance with court rules, at a hearing on a motion for to consider
+4 youthful offender treatment status, the court shall ask if the victim is present
+5 and, if so, whether the victim would like to be heard regarding disposition the
+6 motion. In ordering youthful offender status or disposition, the court shall
+7 consider any views offered at the hearing by the victim. If the victim is not
+8 present, the court shall ask whether the victim has expressed, either orally or in
+9 writing, views regarding youthful offender status or disposition and shall take
+10 those views into consideration in ordering youthful offender status or
+11 disposition.
+12 (c) No youthful offender proceeding shall be delayed or voided by reason
+13 of the failure to give the victim the required notice or the failure of the victim
+14 to appear.
+15 (d) As used in this section, “victim” shall have has the same meaning as in
+16 13 V.S.A. § 5301(4).
+17 (e) This section shall not prohibit a victim from discussing underlying facts
+18 of the alleged offense that resulted in death or physical, emotional, or financial
+19 injury to the victim, provided that, unless otherwise provided by law or court
+20 order, a victim shall not disclose what occurs during a court proceeding or
+21 information learned through a court proceeding that is not an underlying fact
+
+BILLAS PASSED BY THE HOUSE H.642
+2026 Page 10 of 15
+1 of the alleged offense that resulted in death or physical, emotional, or financial
+2 injury to the victim.
+3 Sec. 4. EFFECTIVE DATE
+4 This act shall take effect on passage.
+Sec. 1. 33 V.S.A. § 5285 is amended to read:
+§ 5285. MODIFICATION OR REVOCATION OF DISPOSITION
+(a)(1) If it appears that the youth has violated the terms of juvenile
+probation ordered by the court pursuant to subdivision 5284(c)(1) of this title,
+a motion for modification or revocation of youthful offender status may be filed
+in the Family Division of the Superior Court. The court shall set the motion
+for hearing as soon as practicable. The hearing may be joined with a hearing
+on a violation of conditions of probation under section 5265 of this title. A
+supervising juvenile or adult probation officer may detain in an adult facility a
+youthful offender who has attained 18 years of age for violating conditions of
+probation.
+(2) Notwithstanding subdivision 5103(c)(2)(B) of this title, when a
+motion for revocation of youthful offender status is pending pursuant to this
+section, the Family Division’s jurisdiction over the youth shall remain in effect
+until the youth is discharged or until probation is revoked. The Family
+Division may extend its jurisdiction over the youth beyond the youth’s 22nd
+birthday to the extent necessary to maintain jurisdiction under this subdivision.
+
+BILLAS PASSED BY THE HOUSE H.642
+2026 Page 11 of 15
+(b) A hearing under this section shall be held in accordance with section
+5268 of this title.
+(c)(1) If the court finds after the hearing that the youth has violated the
+terms of his or her the youth’s probation, the court may:
+(1)(A) maintain the youth’s status as a youthful offender, with modified
+conditions of juvenile probation if the court deems it appropriate;
+(2)(B) revoke the youth’s status as a youthful offender and transfer the
+case with a record of the petition, affidavit, adjudication, disposition, and
+revocation to the Criminal Division for sentencing; or
+(3)(C) transfer supervision of the youth to the Department of
+Corrections with all of the powers and authority of the Department and the
+Commissioner under Title 28, including graduated sanctions and electronic
+monitoring.
+(2) For purposes of making its determination under subdivision (1) of
+this subsection, the court shall consider whether:
+(A) under the criteria of subdivision 5284(a)(2) of this title, public
+safety will be protected by continuing to treat the youth as a youthful offender;
+(B) the youth continues to be amenable to treatment or rehabilitation
+as a youthful offender; and
+
+BILLAS PASSED BY THE HOUSE H.642
+2026 Page 12 of 15
+(C) there continues to be sufficient services in the juvenile court
+system and the Department for Children and Families and the Department of
+Corrections to meet the youth’s treatment and rehabilitation needs.
+(d) If the youth fails to appear at a probation revocation hearing under this
+section, the court may, unless it finds there was good cause for the failure to
+appear, issue an order pursuant to subsection 5108(c) of this title for an officer
+to pick up the youth and bring the youth to court.
+(e) If a youth’s status as a youthful offender is revoked and the case is
+transferred to the Criminal Division pursuant to subdivision (c)(2) (c)(1)(B) of
+this section, the court shall enter a conviction of guilty based on the admission
+to or finding of merits, hold a sentencing hearing, and impose sentence.
+Unless it serves the interest interests of justice, the case shall not be transferred
+back to the Family Division pursuant to section 5203 of this title. When
+determining an appropriate sentence, the court may take into consideration the
+youth’s degree of progress toward or regression from rehabilitation while on
+youthful offender status. The Criminal Division shall have access to all
+Family Division records of the proceeding.
+Sec. 2. 33 V.S.A. § 5288 is amended to read:
+§ 5288. RIGHTS OF VICTIMS IN YOUTHFUL OFFENDER
+PROCEEDINGS
+
+BILLAS PASSED BY THE HOUSE H.642
+2026 Page 13 of 15
+(a) The victim in a proceeding involving a youthful offender shall have the
+following rights:
+(1) To be notified by the prosecutor in a timely manner:
+(A) when a court proceeding is scheduled to take place and when a
+court proceeding to of which the victim has been notified will not take place as
+scheduled; and
+(B) of any conditions of release or conditions of probation and of any
+restitution unless otherwise limited by court order.
+(2) To be present during all court proceedings subject to the provisions
+of Rule 615 of the Vermont Rules of Evidence; to attend the hearing on the
+motion to consider youthful offender status and the disposition hearing to
+present a victim impact statement and to express reasonably the victim’s views
+concerning the offense and, the youth, and the appropriateness of youthful
+offender status, including testimony in support of the victim’s claim for
+restitution; and to submit oral or written statements to the court at such other
+times as the court may allow. The court shall consider the victim’s statement
+when ordering disposition.
+(3) To be notified by the agency having custody of the youth before the
+youth is released into the community from a secure or staff-secured residential
+facility.
+
+BILLAS PASSED BY THE HOUSE H.642
+2026 Page 14 of 15
+(4) To be notified by the prosecutor as to the final disposition of the
+case.
+(5) To be notified by the prosecutor of the victim’s rights under this
+section.
+(b) In accordance with court rules, at a hearing on a motion for to consider
+youthful offender treatment status, the court shall ask if the victim is present
+and, if so, whether the victim would like to be heard regarding disposition the
+motion. In ordering youthful offender status or disposition, the court shall
+consider any views offered at the hearing by the victim. If the victim is not
+present, the court shall ask whether the victim has expressed, either orally or
+in writing, views regarding youthful offender status or disposition and shall
+take those views into consideration in ordering youthful offender status or
+disposition.
+(c) No youthful offender proceeding shall be delayed or voided by reason of
+the failure to give the victim the required notice or the failure of the victim to
+appear.
+(d) As used in this section, “victim” shall have has the same meaning as in
+13 V.S.A. § 5301(4).
+(e) This section shall not prohibit a victim from discussing underlying facts
+of the alleged offense that resulted in death or physical, emotional, or financial
+injury to the victim, provided that, unless otherwise provided by law or court
+
+BILLAS PASSED BY THE HOUSE H.642
+2026 Page 15 of 15
+order, a victim shall not disclose what occurs during a court proceeding or
+information learned through a court proceeding that is not an underlying fact
+of the alleged offense that resulted in death or physical, emotional, or financial
+injury to the victim.
+Sec. 3. EFFECTIVE DATE
+This act shall take effect on July 1, 2026.

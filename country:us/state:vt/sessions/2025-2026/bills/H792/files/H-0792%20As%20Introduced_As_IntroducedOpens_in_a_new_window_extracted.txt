@@ -1,0 +1,311 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.792
+2026 Page 1 of 13
+1 H.792
+2 Introduced by Representatives Priestley of Bradford, Berbeco of Winooski,
+3 Burrows of West Windsor, Cole of Hartford, Graning of
+4 Jericho, Headrick of Burlington, Holcombe of Norwich,
+5 McCann of Montpelier, McGill of Bridport, Mrowicki of
+6 Putney, Nugent of South Burlington, Ode of Burlington, Pouech
+7 of Hinesburg, Rachelson of Burlington, Scheu of Middlebury,
+8 Sweeney of Shelburne, Tomlinson of Winooski, and Torre of
+9 Moretown
+10 Referred to Committee on
+11 Date:
+12 Subject: Commerce and trade; consumer protection; artificial intelligence;
+13 liability standards
+14 Statement of purpose of bill as introduced: This bill proposes to set liability
+15 standards for developers and deployers of certain artificial intelligence
+16 systems.
+17 An act relating to liability standards for developers and deployers of
+18 artificial intelligence systems
+VT LEG #386292 v.1
+
+BILL AS INTRODUCED H.792
+2026 Page 2 of 13
+1 It is hereby enacted by the General Assembly of the State of Vermont:
+2 Sec. 1. 9 V.S.A. chapter 118 is added to read:
+3 CHAPTER 118. ARTIFICIAL INTELLIGENCE
+4 Subchapter 1. Liability Standards
+5 § 4193a. LEGISLATIVE INTENT
+6 (a) Artificial intelligence systems are products that shift decision-making
+7 power and responsibility away from persons to software-based systems, often
+8 without direct human oversight. An artificial intelligence system can be
+9 inherently dangerous due to its capabilities, potential for misuse or
+10 exploitation, and ability to unilaterally evolve.
+11 (b) Developers of sophisticated artificial intelligence systems have an
+12 obligation to make the systems safe when used in reasonably foreseeable ways.
+13 Deployers of these products also have an obligation to ensure that the products
+14 are safe and used in a way that does not materially affect an individual’s rights.
+15 § 4193b. DEFINITIONS
+16 As used in this subchapter:
+17 (1) “Adequate warning or instruction” means a warning that a
+18 reasonably prudent person in the same or similar circumstances would have
+19 provided to a consumer with respect to the danger and communicates sufficient
+20 information on the dangers and safe use of a product.
+VT LEG #386292 v.1
+
+BILL AS INTRODUCED H.792
+2026 Page 3 of 13
+1 (2) “Artificial intelligence system” means an engineered or machine-
+2 based system that varies in its level of autonomy and that can, for explicit or
+3 implicit objectives, infer from the input it receives how to generate outputs that
+4 can influence physical or virtual environments.
+5 (3) “Consequential decision” means a decision that has either a legal or
+6 similarly significant effect on an individual’s access to the criminal justice
+7 system, housing, employment, credit, education, health care, or insurance.
+8 (4)(A) “Deployer” means a person, including a developer, that operates
+9 an artificial intelligence system for internal use or for use by a third party.
+10 (B) “Deployer” does not include an individual or a small business.
+11 For purposes of this definition, a small business is one with fewer than 20
+12 employees or that has fewer than 10,000 users of its product.
+13 (5) “Design” means the intended or known physical and material
+14 characteristics of a product and includes any intended or known formulation or
+15 content of the product and the usual result of the intended development or
+16 other process used to produce the product, which includes unexpected skills or
+17 behaviors that appear in a product.
+18 (6) “Developer” means a person who designs, codes, produces, owns, or
+19 substantially modifies an artificial intelligence system for internal use or for
+20 use by a third party.
+VT LEG #386292 v.1
+
+BILL AS INTRODUCED H.792
+2026 Page 4 of 13
+1 (7) “Express warranty” means any material, positive statement,
+2 affirmation of fact, promise, or description relating to a product, including any
+3 sample or model of a product.
+4 (8) “Generative artificial intelligence system” means an artificial
+5 intelligence system that can generate derived synthetic content, such as text,
+6 images, video, and audio, that emulates the structure and characteristics of the
+7 artificial intelligence’s training data.
+8 (9) “Harm” means:
+9 (A) damage to property other than the product itself;
+10 (B) personal physical, financial, or reputational injury;
+11 (C) illness or death;
+12 (D) mental or psychological anguish, emotional harm, or distortion of
+13 a person’s behavior that would be highly offensive to a reasonable person; or
+14 (E) any loss of consortium or services or other loss deriving from any
+15 type of harm described in this subdivision (9).
+16 (10) “High-impact artificial intelligence system” means any artificial
+17 intelligence system, regardless of the number of parameters and supervision
+18 structure, that:
+VT LEG #386292 v.1
+
+BILL AS INTRODUCED H.792
+2026 Page 5 of 13
+1 (A) is used, or reasonably foreseeable as being used:
+2 (i) as a controlling factor in making a consequential decision;
+3 (ii) to categorize groups of persons by protected characteristics,
+4 such as race, ethnic origin, or religious belief;
+5 (iii) in the direct management or operation of critical
+6 infrastructure;
+7 (iv) in a vehicle, a medical device, or the safety system of a
+8 vehicle or medical device; or
+9 (v) to engage in a synthetic relationship; or
+10 (B) exhibits, or could be easily modified to exhibit, high levels of
+11 performance at tasks that pose a serious risk to economic security, public
+12 health or safety, or any combination of those matters.
+13 (11) “Intimate visual depiction” has the meaning as in 15 U.S.C. § 6851.
+14 (12) “Material fact” means any specific characteristic or quality of the
+15 product, but does not include a general opinion about, or praise of, the product
+16 or its quality.
+17 (13)(A) “Product” means a high-impact artificial intelligence system or
+18 a generative artificial intelligence system.
+19 (B) “Product” does not include a product used strictly for peer-
+20 reviewed scientific research.
+VT LEG #386292 v.1
+
+BILL AS INTRODUCED H.792
+2026 Page 6 of 13
+1 (14) “Synthetic relationship” means a series of interactions between an
+2 individual and an artificial intelligence system that mimics human interaction
+3 and emotional responses.
+4 § 4193c. DEVELOPER LIABILITY
+5 (a) Limited liability. In a products liability action pursuant to this
+6 subchapter, a developer shall be liable to a plaintiff only if the plaintiff
+7 establishes that the developer failed to exercise reasonable care with respect to:
+8 (1) the design of the product, and that the defective design was a
+9 proximate cause of harm to the plaintiff;
+10 (2) providing adequate instructions or warnings applicable to the
+11 product that caused the harm that is the subject of the complaint, and that the
+12 failure to provide adequate instructions or warnings was a proximate cause of
+13 harm to the plaintiff; or
+14 (3) providing an express warranty applicable to the product that caused
+15 the harm that is the subject of the complaint, and that the product failed to
+16 conform to the warranty, which caused harm to the plaintiff.
+17 (b) Design defect.
+18 (1) In an action alleging that a product is unreasonably dangerous
+19 because of a defective design, the plaintiff shall prove by a preponderance of
+20 the evidence that, at the time the product left the developer’s control:
+VT LEG #386292 v.1
+
+BILL AS INTRODUCED H.792
+2026 Page 7 of 13
+1 (A) the developer knew or, considering then-existing scientific and
+2 technical knowledge, reasonably should have known of the danger that caused
+3 the plaintiff’s harm;
+4 (B) the developer accounted for both intended uses and reasonably
+5 foreseeable unintended uses of the developer’s systems; and
+6 (C) there existed a technologically feasible and practical alternative
+7 design, including a consideration of the product release and method of
+8 development, that would have reduced or avoided a foreseeable risk of harm
+9 without significantly impairing the usefulness of the product to the group of
+10 persons who are the intended and legitimate users of the product.
+11 (2) For purposes of subdivision (1)(C) of this subsection:
+12 (A) “Method of development” means the selection of training data
+13 used for the product and includes training, testing, auditing, and fine-tuning of
+14 the product.
+15 (B) “Product release” means the specific way in which a product is
+16 integrated and made accessible within a production environment, including
+17 how it interacts with data sources, delivers predictions or results, and is
+18 accessed by users
+19 (c) Failure to warn. The following applies in an action against a developer
+20 in which the claim alleges that the developer failed to provide an adequate
+21 instruction or warning:
+VT LEG #386292 v.1
+
+BILL AS INTRODUCED H.792
+2026 Page 8 of 13
+1 (1) The plaintiff shall prove by a preponderance of the evidence that, at
+2 the time the product left the developer’s control, the developer knew or,
+3 considering then-existing scientific and technical knowledge, reasonably
+4 should have known of the danger that caused the plaintiff’s harm.
+5 (2)(A) The developer shall not be liable for failure to provide adequate
+6 instruction or warning about a danger that is known or open and obvious to the
+7 user or consumer of the product or should have been known or open and
+8 obvious to the user or consumer of the product, considering the characteristics
+9 of, and the ordinary knowledge common to, the persons who ordinarily use or
+10 consume the product.
+11 (B) A danger is presumed to not be open and obvious to a user or
+12 consumer of the product who is under 18 years of age.
+13 (d) Express warranty. A product may be unreasonably dangerous because
+14 it did not conform to an express warranty only if the plaintiff proves by a
+15 preponderance of the evidence that:
+16 (1) the plaintiff reasonably relied on an express warranty made by the
+17 developer about a material fact concerning the safety of the product;
+18 (2) this express warranty proved to be untrue; and
+19 (3) had the representation been true, the plaintiff would not have been
+20 harmed.
+VT LEG #386292 v.1
+
+BILL AS INTRODUCED H.792
+2026 Page 9 of 13
+1 (e) Safe harbor for developers. In a products liability action brought
+2 against a developer pursuant to this subchapter, a court shall recognize a
+3 rebuttable presumption that a product is not defective if, and only if, that
+4 developer has:
+5 (1) conducted a documented testing, evaluation, verification, validation,
+6 and auditing of that system consistent with industry best practices;
+7 (2) mitigated foreseeable risks to the extent possible and has considered
+8 alternatives;
+9 (3) disclosed foreseeable risks and mitigation tactics directly to
+10 deployers and consumers using the product;
+11 (4) maintained and made available upon request by the Attorney
+12 General an artificial intelligence data sheet that includes, at a minimum, the
+13 following information:
+14 (A) information on the intended contexts and uses of the artificial
+15 intelligence system in accordance with industry best practices;
+16 (B) information regarding the datasets upon which the artificial
+17 intelligence system was trained, including sources, volume, whether the dataset
+18 is proprietary, and how the datasets further the intended purpose of the
+19 product;
+20 (C) accounting of foreseeable risks identified and steps taken to
+21 manage them consistent with industry best practices; and
+VT LEG #386292 v.1
+
+BILL AS INTRODUCED H.792
+2026 Page 10 of 13
+1 (D) results of red-teaming testing and steps taken to mitigate
+2 identified risks, consistent with industry best practices;
+3 (5) if the product is designed for or is reasonably likely to be used by
+4 individuals under 18 years of age:
+5 (A) documented assessments of use of the product’s impact on
+6 cognitive and emotional development;
+7 (B) implemented age-gating or content restrictions for a product that
+8 poses foreseeable risks; and
+9 (C) provided to deployers and direct consumers and their guardians
+10 clear, accessible disclosures about potential risks; and
+11 (6) prominently included in the terms and conditions of a product the
+12 information included in the artificial intelligence data sheet maintained
+13 pursuant to subdivision (4) of this subsection, which deployers of such product
+14 may rely upon when making fit-for-use and deployment decisions.
+15 § 4193d. DEPLOYER LIABILITY
+16 (a) Liability as developer. A deployer shall be deemed to be liable as a
+17 developer pursuant to section 4193c of this subchapter, subject to subsections
+18 (b) and (c) of this section, for harm caused by a product if the deployer:
+VT LEG #386292 v.1
+
+BILL AS INTRODUCED H.792
+2026 Page 11 of 13
+1 (1) makes a material and substantial change to the product; or
+2 (2) intentionally misuses the product contrary to an express warranty
+3 provided by the developer of the product and that misuse was a proximate
+4 cause of harm to the plaintiff.
+5 (b) Intended use. Use of the product by a deployer that was an intended
+6 use by the developer of the product is not misuse or alteration nor does it
+7 constitute a material or substantial change of the product. If a developer does
+8 not specify an intended use for the product, intended use shall be inferred by
+9 the targeted market and manner of distribution.
+10 (c) Licensing. A deployer licensing a product shall not be liable to a
+11 plaintiff for a violation of subsection 4193c(a) of this subchapter solely due to
+12 the deployer’s ownership or use of the product.
+13 (d) Safe harbor for deployers. In a products liability action brought
+14 pursuant to this subchapter against a deployer, a court shall recognize a
+15 rebuttable presumption that a product is not defective if, and only if, the
+16 deployer has designed and implemented a risk management policy that:
+17 (1) specifies the principles, processes, and personnel that the deployer
+18 shall use in maintaining the risk management policy to identify, mitigate, and
+19 document any risk, especially those impacting individuals under 18 years of
+20 age, that is a reasonably foreseeable consequence of deploying or using such a
+21 system;
+VT LEG #386292 v.1
+
+BILL AS INTRODUCED H.792
+2026 Page 12 of 13
+1 (2) is consistent with industry best practices;
+2 (3) is reasonable considering the:
+3 (A) size and complexity of the deployer;
+4 (B) nature and scope of the system, including the intended uses and
+5 unintended uses and the modifications made to the system by the deployer; and
+6 (C) data that the system, once deployed, processes as inputs; and
+7 (4) is electronically available to employees of the deployer and to the
+8 Attorney General upon request.
+9 § 4193e. APPLICABILITY
+10 (a) Supplemental. This subchapter shall supplement any existing common
+11 law tort liability and State product liability laws and shall not prohibit any
+12 product liability cause of action involving a generative artificial intelligence
+13 system or a high-impact artificial intelligence system brought under a different
+14 claim pursuant to product liability common law or statute.
+15 (b) Joint fault. In a liability action brought under this subchapter:
+16 (1) the court shall apply a comparative negligence standard, whereby a
+17 plaintiff’s recovery shall be diminished in proportion to the percentage of fault
+18 attributable to the plaintiff, and developers and deployers may be held jointly
+19 and severally liable for the portion of harm that contributed to the plaintiff’s
+20 injury; and
+VT LEG #386292 v.1
+
+BILL AS INTRODUCED H.792
+2026 Page 13 of 13
+1 (2) the damages for which a deployer is otherwise liable shall be
+2 reduced by the percentage of responsibility for the plaintiff’s harm attributable
+3 to a violation of section 4193c of this subchapter by another person if the
+4 deployer establishes that such percentage of the plaintiff’s harm was
+5 proximately caused by a violation of section 4193c of this subchapter.
+6 § 4193f. ENFORCEMENT
+7 (a) A developer or deployer that violates this subchapter or rules adopted
+8 pursuant to this subchapter commits an unfair and deceptive act in commerce
+9 in violation of section 2453 of this title.
+10 (b) The Attorney General shall have the same authority under this
+11 subchapter to make rules, conduct civil investigations, bring civil actions, and
+12 enter into assurances of discontinuance as provided under chapter 63 of this
+13 title.
+14 Sec. 2. EFFECTIVE DATE
+15 This act shall take effect on July 1, 2026.
+VT LEG #386292 v.1

@@ -1,0 +1,1826 @@
+Title: 
+Official Title: 
+Source: versions - As Passed by Both House and Senate (OfficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 1 of 59
+1 S.198
+2 Introduced by Senators Lyons and Clarkson
+3 Referred to Committee on Econ. Development, Housing & General Affairs
+4 Date: January 6, 2026
+5 Subject: Tobacco; taxation; tobacco products; tobacco substitutes; Department
+6 of Liquor and Lottery; Department of Taxes
+7 Statement of purpose of bill as introduced: This bill proposes to expand the
+8 scope of businesses required to obtain a tobacco license, increase the license
+9 fees, and decouple tobacco licensure from liquor licensure. The bill would
+10 expand the definition of a tobacco substitute to specifically include nicotine
+11 pouches and increase the monetary penalties for selling tobacco products and
+12 tobacco substitutes without a license and for selling these items to minors. It
+13 would eliminate prohibitions on and penalties for minors’ purchase, use, and
+14 possession of tobacco products, tobacco substitutes, or tobacco paraphernalia.
+15 The bill would require contraband tobacco products and tobacco substitutes to
+16 be destroyed at the violator’s expense in compliance with hazardous waste
+17 rules. It would direct that all funds received by the State from violations of
+18 tobacco laws, from tobacco-related settlements, and from increased tobacco
+19 licensing fees be deposited in the Tobacco Trust Fund and used for tobacco
+20 cessation and prevention activities. The bill would require taxstamps for
+21 tobacco substitutes and would impose a higher taxon tobacco substitutes with
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 2 of 59
+1 a nicotine concentration of five milligrams or more per gram. The bill would
+2 also create a new investigator position in the Department of Liquor and Lottery
+3 to enforce, and to investigate potential violations of, Vermont laws relating to
+4 direct-to-consumer sales and delivery of alcohol and tobacco products.
+5 Finally, the bill would direct the Departments of Taxes and of Liquor and
+6 Lottery to report on whether responsibility for tobacco taxes and licensure of
+7 wholesale dealers should transition from the Department of Taxes to the
+8 Department of Liquor and Lottery.
+9 An act relating to the regulation and taxation of tobacco products and
+10 tobacco substitutes
+An act relating to the regulation of tobacco products and tobacco
+substitutes
+11
+12 It is hereby enacted by the General Assembly of the State of Vermont:
+13 Sec. 1. 7 V.S.A. chapter 40 is amended to read:
+14 CHAPTER 40. TOBACCO PRODUCTS
+15 § 1001. DEFINITIONS
+16 As used in this chapter:
+17 * * *
+18 (5) “Tobacco license” means a license issued by the Division of Liquor
+19 Control under this chapter permitting the licensee to engage in the importation,
+20 distribution, wholesale sale, or retail sale, or a combination of these, of
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 3 of 59
+1 tobacco products, tobacco substitutes, substances containing nicotine or
+2 otherwise intended for use with a tobacco substitute, or tobacco paraphernalia.
+3 * * *
+4 (8)(A) “Tobacco substitute” means products, including any product that
+5 meets all of the following conditions:
+6 (i) The product is manufactured from, is derived from, or contains
+7 tobacco or nicotine, whether natural or synthetic, including nicotine alkaloids
+8 and nicotine analogs.
+9 (ii) The product is intended for human consumption by smoking,
+10 chewing, inhaling, sucking, absorbing, or consuming in any other manner.
+11 (iii) The product is not a tobacco product, as defined in this
+12 section.
+13 (B) The term “tobacco substitute” includes electronic cigarettes or
+14 and other electronic or battery-powered devices, that contain or are designed to
+15 deliver nicotine or other substances into the body through the inhalation of
+16 vapor and that have not been approved by the U.S. Food and Drug
+17 Administration for tobacco cessation or other medical purposes. The term also
+18 includes nicotine pouches and any liquids, whether nicotine based or not, and
+19 delivery devices sold separately for use with a tobacco substitute.
+20 (C) Cannabis products as defined in section 831 of this title or
+21 products that have been approved by the U.S. Food and Drug Administration
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 4 of 59
+1 for tobacco cessation or other medical purposes shall not be considered to be
+2 tobacco substitutes.
+3 § 1002. LICENSE REQUIRED; APPLICATION; FEE; ISSUANCE
+4 (a)(1) Except as provided in subsection (h) of this section, no person shall
+5 engage in the retail sale of tobacco products, tobacco substitutes, or tobacco
+6 paraphernalia in the person’s place of business without a tobacco license
+7 obtained from the Division of Liquor Control.
+8 (2) No person shall engage in the retail sale of tobacco substitutes
+9 without also obtaining a tobacco substitute endorsement from the Division of
+10 Liquor Control.
+11 (3) Tobacco licenses and tobacco substitute endorsements shall expire at
+12 midnight, April 30, of each year.
+13 (b)(1) The Board shall prepare and issue tobacco license and tobacco
+14 substitute endorsement forms and applications. These shall be incorporated
+15 into the liquor license forms and applications prepared and issued under this
+16 title.
+17 (2) The licenses issued under this section shall be entitled “LIQUOR
+18 LICENSE,” “LIQUOR-TOBACCO LICENSE,” or “TOBACCO LICENSE,”
+19 as applicable. The endorsements issued under this section shall be entitled
+20 “TOBACCO SUBSTITUTE ENDORSEMENT.”
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 5 of 59
+1 (3) The Board shall also provide simple instructions for licensees,
+2 designed to assist them in complying with the provisions of this chapter.
+3 (c) Each tobacco license and tobacco substitute endorsement shall be
+4 prominently displayed on the premises identified in the license.
+5 (d)(1) For a license or endorsement required under this section, a person
+6 shall apply to the legislative body of the municipality and shall pay the
+7 following fees:
+8 (A) to the Division of Liquor Control, the applicable liquor license
+9 fee provided in section 204 of this title for a liquor license and a tobacco
+10 license;
+11 (B) to the legislative body of the municipality, a fee of $110.00
+12 $1,000.00 for a tobacco license or renewal; and
+13 (C) to the legislative body of the municipality, a fee of $50.00
+14 $1,000.00 for a tobacco substitute endorsement as provided in subdivision
+15 (a)(2) of this section.
+16 (2) The municipal clerk shall forward the application to the Division,
+17 and the Division shall issue the tobacco license and the tobacco substitute
+18 endorsement, as applicable, and shall forward all fees to the Commissioner for
+19 deposit in the Liquor Control Enterprise Fund.
+20 (e) A person who sells tobacco products, tobacco substitutes, or tobacco
+21 paraphernalia without obtaining a tobacco license and a tobacco substitute
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 6 of 59
+1 endorsement, as applicable, in violation of this section shall be guilty of a
+2 misdemeanor and fined subject to a civil penalty of not more than $200.00
+3 $2,000.00 for the first offense and not more than $500.00 $5,000.00 for each
+4 subsequent offense.
+5 (f) No individual under 16 years of age may sell tobacco products, tobacco
+6 substitutes, or tobacco paraphernalia.
+7 (g) No person shall engage in the importation, distribution, wholesale sale,
+8 or retail sale, or a combination of these, of tobacco products, tobacco
+9 substitutes, substances containing nicotine or otherwise intended for use with a
+10 tobacco substitute, or tobacco paraphernalia in the State unless the person is a
+11 licensed wholesale dealer as defined in 32 V.S.A. § 7702 or has purchased the
+12 tobacco products, tobacco substitutes, substances containing nicotine or
+13 otherwise intended for use with a tobacco substitute, or tobacco paraphernalia
+14 from a licensed wholesale dealer.
+15 (h) This section shall not apply to a cannabis establishment licensed
+16 pursuant to chapter 33 of this title to engage in the retail sale of cannabis
+17 products as defined in section 831 of this title but not engaged in the sale of
+18 tobacco products or tobacco substitutes.
+19 * * *
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 7 of 59
+1 § 1005. PERSONS UNDER 21 YEARS OF AGE; POSSESSION OF
+2 TOBACCO PRODUCTS; MISREPRESENTING AGE OR
+3 PURCHASING TOBACCO PRODUCTS; PENALTY
+4 (a)(1) A person under 21 years of age shall not possess, purchase, or
+5 attempt to purchase tobacco products, tobacco substitutes, or tobacco
+6 paraphernalia unless:
+7 (A) the person is an employee of a holder of a tobacco license and is
+8 in possession of tobacco products, tobacco substitutes, or tobacco
+9 paraphernalia to effect a sale in the course of employment; or
+10 (B) the person is in possession of tobacco products or tobacco
+11 paraphernalia in connection with Indigenous cultural tobacco practices.
+12 (2) A person under 21 years of age shall not misrepresent his or her age
+13 to purchase or attempt to purchase tobacco products, tobacco substitutes, or
+14 tobacco paraphernalia.
+15 (b) A person who possesses tobacco products, tobacco substitutes, or
+16 tobacco paraphernalia in violation of subsection (a) of this section shall be
+17 subject to having the tobacco products, tobacco substitutes, or tobacco
+18 paraphernalia immediately confiscated and shall be further subject to a civil
+19 penalty of $25.00. An action under this subsection shall be brought in the same
+20 manner as a traffic violation pursuant to 23 V.S.A. chapter 24.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 8 of 59
+1 (c) A person under 21 years of age who misrepresents the person’s age by
+2 presenting false identification to purchase tobacco products, tobacco
+3 substitutes, or tobacco paraphernalia shall be subject to a civil penalty of not
+4 more than $50.00 or provide up to 10 hours of community service, or both.
+5 [Repealed.]
+6 * * *
+7 § 1007. FURNISHING TOBACCO TO PERSONS INDIVIDUALS UNDER
+8 21 YEARS OF AGE; PENALTIES; REPORT
+9 (a) A person that sells or furnishes tobacco products, tobacco substitutes, or
+10 tobacco paraphernalia to a person under 21 years of age shall be subject to a
+11 civil penalty of not more than $100.00 $1,000.00 for the first offense and not
+12 more than $500.00, for any subsequent offense, a civil penalty and license
+13 suspension or revocation as set forth in subdivision (b)(2) of this section. An
+14 action under this section shall be brought in the same manner as for a traffic
+15 violation pursuant to 23 V.S.A. chapter 24 and shall be brought within 24
+16 hours of following the occurrence of the alleged violation.
+17 (b)(1) The Division of Liquor Control shall conduct or contract for
+18 compliance tests of tobacco licensees as frequently and as comprehensively as
+19 necessary to ensure consistent statewide compliance with the prohibition on
+20 sales to persons under 21 years of age of at least 90 percent for buyers who are
+21 between 17 and 20 years of age. An individual under 21 years of age
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 9 of 59
+1 participating in a compliance test shall not be in violation of section 1005 of
+2 this title.
+3 (2) Any violation by a tobacco licensee of subsection 1003(a) of this
+4 title and or this section after a sale violation or during a compliance test
+5 conducted within sixmonths of after a previous violation shall be considered a
+6 multiple violation and shall result in the following civil penalties and
+7 minimum license suspension suspensions or license revocation, in addition to
+8 any other penalties available under this title. Minimum license suspensions for
+9 multiple violations shall be assessed as follows:
+10 (A) two violations second violation: suspension for two consecutive
+11 weekdays and $1,000.00 civil penalty;
+12 (B) three violations 15-day third violation: suspension for 15
+13 consecutive days and $2,000.00 civil penalty;
+14 (C) four violations 90-day fourth violation: suspension for 90
+15 consecutive days and $3,500.00 civil penalty; and
+16 (D) five violations one-year suspension fifth violation: revocation
+17 of license and $5,000.00 civil penalty.
+18 * * *
+19 § 1009. CONTRABAND AND SEIZURE
+20 (a) Any cigarettes or other tobacco products or tobacco substitutes that
+21 have been sold, offered for sale, or possessed for sale in violation of section
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 10 of 59
+1 1003, 1010, or 1013 of this title, 20 V.S.A. § 2757, 32 V.S.A. § 7786, or 33
+2 V.S.A. § 1919, and any commercial cigarette rolling machines possessed or
+3 utilized in violation of section 1011 of this title, shall be deemed contraband
+4 and shall be subject to seizure by the Commissioner, the Commissioner’s
+5 agents or employees, the Commissioner of Taxes, or any agent or employee of
+6 the Commissioner of Taxes, or by any law enforcement officer of this State
+7 when directed to do so by the either Commissioner or by the Department of
+8 Liquor and Lottery. All cigarettes or other tobacco products items seized
+9 under this subsection shall be destroyed at the expense of the violator, and
+10 disposition shall be in compliance with the Agency of Natural Resources,
+11 Hazardous Waste Management Regulations (CVR 12-032-001).
+12 (b)(1) Any person in possession of property considered contraband under
+13 this section shall be fined not more than $1,000.00 nor less than $500.00 per
+14 item.
+15 (2) Any vehicle, aircraft or watercraft, or other conveyance in which
+16 property considered contraband under this section is found may be seized and
+17 subject to forfeiture and condemnation pursuant to sections 570 and 572–574
+18 of this title.
+19 § 1010. INTERNET SALES
+20 * * *
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 11 of 59
+1 (b) No person shall cause cigarettes, roll-your-own tobacco, little cigars,
+2 snuff, tobacco substitutes, substances containing nicotine or otherwise intended
+3 for use with a tobacco substitute, or tobacco paraphernalia, ordered or
+4 purchased by mail or through a computer network, telephonic network, or
+5 other electronic network, to be shipped to anyone other than a licensed
+6 wholesale dealer or retail dealer in this State.
+7 (c) No person shall, with knowledge or reason to know of the violation,
+8 provide substantial assistance to a person in violation of this section.
+9 (d) A violation of this section is punishable as follows:
+10 (1) A knowing or intentional violation of this section shall be
+11 punishable by imprisonment for not more than five years or a fine of not more
+12 than $5,000.00, or both.
+13 (2) In addition to or in lieu of any other civil or criminal remedy
+14 provided by law, upon a determination that a person has violated this section,
+15 the Attorney General may impose a civil penalty in an amount not to exceed
+16 $5,000.00 for each violation. For purposes of this subsection, each shipment
+17 or transport of cigarettes, roll-your-own tobacco, little cigars, or snuff, tobacco
+18 substitutes, substances containing nicotine or otherwise intended for use with a
+19 tobacco substitute, or tobacco paraphernalia shall constitute a separate
+20 violation.
+21 * * *
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 12 of 59
+1 § 1013. DECEPTIVE TOBACCO PRODUCTS AND TOBACCO
+2 SUBSTITUTES PROHIBITED
+3 No person shall market, promote, label, brand, advertise, distribute, offer
+4 for sale, or sell a tobacco product or tobacco substitute by:
+5 (1) imitating a product that is not a tobacco product or tobacco
+6 substitute, including:
+7 (A) a food or brand of food commonly marketed to minors, including
+8 candy, desserts, cereal, and beverages;
+9 (B) school supplies commonly used by minors, including erasers,
+10 highlighters, pens, and pencils;
+11 (C) portable devices, including smartphones, smartwatches, video
+12 games or video game consoles, and inhalers; and
+13 (D) a product based on or depicting a character, personality, or
+14 symbol known to appeal to minors, including a celebrity; a character in a
+15 comic book, movie, television show, or video game; or a mythical creature;
+16 (2) concealing the nature of the tobacco product or tobacco substitute;
+17 or
+18 (3) using terms for, describing, or depicting a product described in
+19 subdivision (1) of this section.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 13 of 59
+1 § 1014. ENFORCEMENT
+2 The Department of Liquor and Lottery shall have the same powers and
+3 authority to enforce the provisions of this chapter as the Department has for
+4 enforcement of laws relating to alcoholic beverages under this title.
+5 § 1015. USE OF FUNDS FROM LICENSING FEES, PENALTIES, AND
+6 SETTLEMENTS
+7 All penalties collected from violations of this chapter, all monies received
+8 by the State from settlements based on violations or alleged violations of
+9 Vermont laws relating to tobacco, and all revenue generated from licensing
+10 fees established in this chapter that exceed the amounts necessary for
+11 administration and enforcement of this chapter shall be deposited in the
+12 Tobacco Trust Fund established in 18 V.S.A. § 9502 and used for tobacco
+13 cessation and prevention activities.
+14 Sec. 2. 3 V.S.A. § 167a is amended to read:
+15 § 167a. COMPLEX LITIGATION SPECIALFUND
+16 * * *
+17 (b) The Fund shall consist of:
+18 (1) Such sums as may be appropriated or transferred by the General
+19 Assembly.
+20 (2) Settlement monies other than consumer restitution collected by the
+21 Office of the Attorney General, except for those recoveries that by law are
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 14 of 59
+1 transferred or appropriated for other uses pursuant to 7 V.S.A. § 1015 or 9
+2 V.S.A. § 2458(b)(4), and subject to the Fund balance cap in subsection (c) of
+3 this section.
+4 * * *
+5 Sec. 3. 18 V.S.A. § 9502 is amended to read:
+6 § 9502. TOBACCO TRUST FUND
+7 (a)(1) The Tobacco Trust Fund is established in the Office of the State
+8 Treasurer for the purposes of creating a self-sustaining, perpetual fund for
+9 tobacco cessation and prevention that is not dependent upon tobacco sales
+10 volume.
+11 (2) The Trust Fund shall be composed of:
+12 (A) transfers made by the General Assembly; and
+13 (B) penalties and settlement amounts for violations or alleged
+14 violations of tobacco laws and tobacco licensing fees pursuant to 7 V.S.A.
+15 § 1015; and
+16 (C) contributions from any other source.
+17 * * *
+18 Sec. 4. 32 V.S.A. § 3102 is amended to read:
+19 § 3102. CONFIDENTIALITY OF TAX RECORDS
+20 * * *
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 15 of 59
+1 (e) The Commissioner may, in the Commissioner’s discretion and subject
+2 to such conditions and requirements as the Commissioner may provide,
+3 including any confidentiality requirements of the Internal Revenue Service,
+4 disclose a return or return information:
+5 * * *
+6 (25) To the Department of Liquor and Lottery, if such return or
+7 information is for purposes of investigating potential violations of and
+8 enforcing 7 V.S.A. chapter 40.
+9 * * *
+10 Sec. 5. 32 V.S.A. § 7702 is amended to read:
+11 § 7702. DEFINITIONS
+12 As used in this chapter unless the context otherwise requires:
+13 (1) “Cigarette” means any product that contains nicotine, is intended to
+14 be burned or heated under ordinary conditions of use, and consists of or
+15 contains:
+16 (A) any roll of tobacco wrapped in paper or in any substance not
+17 containing tobacco; and
+18 (B) tobacco, in any form, that is functional in the product, which,
+19 because of its appearance, the type of tobacco used in the filler, or its
+20 packaging and labeling, is likely to be offered to, or purchased by, consumers
+21 as a cigarette; or
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 16 of 59
+1 (C) any roll of tobacco wrapped in substance containing tobacco that,
+2 because of its appearance, the type of tobacco used in the filler, or its
+3 packaging and labeling, is likely to be offered to, or purchased by, consumers
+4 as a cigarette described in subdivision (A) of this subdivision (1).
+5 * * *
+6 (7) “Manufacturer” means a person who manufactures and sells
+7 cigarettes, tobacco substitutes, little cigars, roll-your-own tobacco, snuff, new
+8 smokeless tobacco, and other tobacco products.
+9 * * *
+10 (15) “Other tobacco products” means any product manufactured from,
+11 derived from, or containing tobacco or nicotine, whether natural or synthetic,
+12 including nicotine alkaloids and nicotine analogs, that is intended for human
+13 consumption by smoking, chewing, inhaling, sucking, absorbing, or
+14 consuming in any other manner, including products sold as a tobacco
+15 substitute, as defined in 7 V.S.A. § 1001(8), and including any liquids, whether
+16 nicotine based or not, or delivery devices sold separately for use with a
+17 tobacco substitute, but shall not include cigarettes, tobacco substitutes, little
+18 cigars, roll-your-own tobacco, snuff, new smokeless tobacco as defined in this
+19 section, or cannabis products as defined in 7 V.S.A. § 831.
+20 (16) “Wholesale dealer” means a person who imports or causes to be
+21 imported into the State any cigarettes, tobacco substitutes, little cigars, roll-
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 17 of 59
+1 your-own tobacco, snuff, new smokeless tobacco, or other tobacco product for
+2 sale or who sells or furnishes any of these products to other wholesale dealers
+3 or retail dealers for the purpose of resale, but not by small quantity or parcel to
+4 consumers thereof.
+5 * * *
+6 (18) “Wholesale outlet” shall mean means any premises where
+7 cigarettes, tobacco substitutes, little cigars, roll-your-own tobacco, snuff, new
+8 smokeless tobacco, or other tobacco products are sold, transferred, displayed,
+9 or held for sale by a wholesale dealer.
+10 (19) “Wholesale price” means the price at which a licensed wholesale
+11 dealer sells or furnishes cigarettes, tobacco substitutes, little cigars, roll-your-
+12 own tobacco, snuff, new smokeless tobacco, or other tobacco products to any
+13 retail dealer.
+14 * * *
+15 (22) “Tobacco substitute” has the same meaning as in 7 V.S.A. § 1001.
+16 Sec. 6. 32 V.S.A. § 7731 is amended to read:
+17 § 7731. LICENSE REQUIRED
+18 Each wholesale dealer shall secure a license from the Commissioner of
+19 Taxes before engaging in the business of selling cigarettes, tobacco substitutes,
+20 roll-your-own tobacco, little cigars, snuff, new smokeless tobacco, or other
+21 tobacco products in this State. Licensed wholesale dealers shall sell these
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 18 of 59
+1 products only to other Vermont licensed wholesale dealers or to retailers
+2 licensed pursuant to 7 V.S.A. § 1002.
+3 Sec. 7. 32 V.S.A. § 7734 is amended to read:
+4 § 7734. PENALTIES FOR SALES WITHOUT LICENSE
+5 Any licensed wholesale dealer who shall sell, offer for sale, or possess with
+6 intent to sell any cigarettes, tobacco substitutes, roll-your-own tobacco, little
+7 cigars, snuff, new smokeless tobacco, or other tobacco products, or any
+8 combination thereof, without having first obtained a license as provided in this
+9 subchapter, shall be fined subject to a civil penalty imposed by the Department
+10 of Liquor and Lottery or the Department of Taxes of not more than $25.00
+11 $2,000.00 for the first offense and not more than $200.00 nor less than $25.00
+12 $5,000.00 for each subsequent offense.
+13 Sec. 8. 32 V.S.A. § 7771 is amended to read:
+14 § 7771. RATE OF TAX
+15 (a) A taxis imposed on all cigarettes, tobacco substitutes, little cigars, and
+16 roll-your-own tobacco held in this State by any person for sale, unless such
+17 products shall be:
+18 (1) in the possession of a licensed wholesale dealer;
+19 (2) in the course of transit and consigned to a licensed wholesale dealer
+20 or retail dealer; or
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 19 of 59
+1 (3) in the possession of a retail dealer who has held the products for 24
+2 hours or less.
+3 (b) Payment of the taxon cigarettes and tobacco substitutes under this
+4 section shall be evidenced by the affixing of stamps to the packages containing
+5 the cigarettes or the tobacco substitutes. Where practicable, the Commissioner
+6 may also require that stamps be affixed to packages containing little cigars or
+7 roll-your-own tobacco. Any cigarette, tobacco substitute, little cigar, or roll-
+8 your-own tobacco on which the taximposed by this section has been paid,
+9 such payment being evidenced by the affixing of such stamp or such evidence
+10 as the Commissioner may require, shall not be subject to a further taxunder
+11 this chapter. Nothing contained in this chapter shall be construed to impose a
+12 taxon any transaction the taxation of which by this State is prohibited by the
+13 constitution of the United States U.S. Constitution. The amount of taxes
+14 advanced and paid by a licensed wholesale dealer as herein provided in this
+15 section shall be added to and collected as part of the retail sale price on the
+16 cigarettes, tobacco substitutes, little cigars, or roll-your-own tobacco.
+17 (c) A taxis also imposed on all cigarettes, tobacco substitutes, little cigars,
+18 and roll-your-own tobacco possessed in this State by any person for any
+19 purpose other than sale as follows:
+20 (1) This taxshall not apply to:
+21 (A) Products bearing a stamp affixed pursuant to this chapter.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 20 of 59
+1 (B) Products bearing a taxstamp affixed pursuant to the laws of
+2 another jurisdiction with a taxrate equal to or greater than the rate set forth in
+3 this subsection (c).
+4 (C) Products purchased outside the State by an individual in
+5 quantities of 400 or fewer cigarettes, little cigars, and 0.0325 ounce 0.0325-
+6 ounce units of roll-your-own tobacco, and brought into the State for that
+7 individual’s own use or consumption. Products that are ordered from a source
+8 outside the State and delivered into this State are not “purchased outside the
+9 State” within the meaning of this subsection (c).
+10 (2) There is allowed a credit against the taxunder this subsection for
+11 cigarette, tobacco substitute, little cigars cigar, or roll-your-own tobacco tax
+12 paid to another jurisdiction and evidenced by taxstamps affixed to the subject
+13 products pursuant to the laws of that jurisdiction.
+14 (3) A person taxable under this section shall, within 30 days of after
+15 first possessing the products in this State, file a return with the Commissioner
+16 showing the quantity of products brought into the State. The return must be
+17 made in the form and manner prescribed by the Commissioner and be
+18 accompanied by remittance of the taxdue.
+19 (d)(1) The taximposed under this section shall be at the rate of:
+20 (A) 154 mills $0.154 per cigarette or little cigar and;
+21 (B) $0.154 for each 0.0325 ounces of roll-your-own tobacco;
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 21 of 59
+1 (C) for a tobacco substitute with a nicotine concentration of less than
+2 five milligrams per gram, 92 percent of the wholesale price of the tobacco
+3 substitute; and
+4 (D) for a tobacco substitute with a nicotine concentration of five
+5 milligrams per gram or higher, 100 percent of the wholesale price of the
+6 tobacco substitute.
+7 (2) The interest and penalty provisions of section 3202 of this title shall
+8 apply to liabilities under this section.
+9 Sec. 9. 32 V.S.A. § 7772 is amended to read:
+10 § 7772. FORM AND SALE OF STAMPS
+11 (a) The Commissioner shall secure stamps of such designs and
+12 denominations as he or she the Commissioner shall prescribe to be affixed to
+13 packages of cigarettes and tobacco substitutes as evidence of the payment to of
+14 the taximposed by this chapter. The Commissioner shall sell such the stamps
+15 to licensed wholesale dealers at a discount of two and three-tenths percent of
+16 their face value for payment at time of sale.
+17 (b) At the purchaser’s request, the Commissioner may sell stamps to be
+18 affixed to packages of cigarettes and tobacco substitutes as evidence of the
+19 payment to of the taximposed by this chapter to licensed wholesale dealers for
+20 payment within 10 days, at a discount of one and five-tenths percent of their
+21 face value if timely paid. In determining whether to sell stamps for payment
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 22 of 59
+1 within 10 days, the Commissioner shall consider the credit history of the
+2 dealer and the filing and payment history, with respect to any taxadministered
+3 by the Commissioner, of the dealer or any individual, corporation, partnership,
+4 or other legal entity with which the dealer is or was associated as principal,
+5 partner, officer, director, employee, agent, or incorporator.
+6 * * *
+7 Sec. 10. 32 V.S.A. § 7774 is amended to read:
+8 § 7774. AFFIXING STAMPS
+9 Each licensed wholesale dealer shall affixor cause to be affixed to each
+10 individual package of cigarettes or tobacco substitutes sold or distributed by
+11 him or her the dealer stamps of the proper denomination as required by section
+12 7771 of this title and in such manner as the Commissioner may specify in
+13 regulations issued rules adopted pursuant to this chapter. The stamps may be
+14 affixed by a licensed wholesale dealer at any time before the cigarettes or
+15 tobacco substitutes are transferred out of his or her the dealer’s possession.
+16 Sec. 11. 32 V.S.A. § 7775 is amended to read:
+17 § 7775. RETAILDEALERS
+18 Within 24 hours after coming into possession of any cigarettes or tobacco
+19 substitutes not bearing proper stamps evidencing payment of the taximposed
+20 by this chapter and before selling the same, each retail dealer shall affixor
+21 cause to be affixed stamps of the proper denomination to each individual
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 23 of 59
+1 package of cigarettes or tobacco substitutes as required by section 7771 of this
+2 title and in such manner as the Commissioner may specify in regulations
+3 issued rules adopted pursuant to this chapter.
+4 Sec. 12. 32 V.S.A. § 7776 is amended to read:
+5 § 7776. COLLECTION OF CIGARETTE TAX THROUGH
+6 NONRESIDENT LICENSED WHOLESALE DEALERS
+7 (a) When If the Commissioner of Taxes finds that the doing so would
+8 facilitate collection of the taximposed by this chapter would be facilitated
+9 thereby, the Commissioner may, in the Commissioner’s discretion, authorize
+10 any resident or nonresident person engaged in the business of manufacturing
+11 cigarettes or tobacco substitutes or any resident or nonresident person who
+12 ships cigarettes or tobacco substitutes into this State for sale to retail dealers in
+13 this State as defined in section 7702 of this title and who qualifies as a licensed
+14 wholesale dealer as defined in section 7702 of this title, but need not have a
+15 place of business in this State, upon complying with the requirements of the
+16 Commissioner, to affixor cause to be affixed the stamps required by this
+17 chapter on behalf of the purchasers of such cigarettes or tobacco substitutes
+18 who would otherwise be taxable therefor, and the Commissioner may sell such
+19 stamps to such person as provided in section 7772 of this title.
+20 * * *
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 24 of 59
+1 Sec. 13. 32 V.S.A. § 7777 is amended to read:
+2 § 7777. RECORDS REQUIRED; INSPECTION AND EXAMINATION;
+3 ASSESSMENT OF TAX DEFICIENCY
+4 (a) Each licensed wholesale dealer and each retail dealer shall keep
+5 complete and accurate records of all cigarettes, tobacco substitutes, little
+6 cigars, and roll-your-own tobacco manufactured, produced, purchased,
+7 transferred, and sold by the dealer. The records shall be of such kind and in
+8 such form as the Commissioner may prescribe and shall be safely preserved
+9 for sixyears in such manner as to ensure permanency and accessibility for
+10 inspection by the Commissioner and authorized agents. The Commissioner or
+11 authorized agents of the Commissioner may enter in or upon any premises
+12 where the Commissioner or they have reason to believe that cigarettes, tobacco
+13 substitutes, little cigars, or roll-your-own tobacco are possessed, stored, or
+14 sold, for the purpose of determining whether the provisions of this chapter or
+15 33 V.S.A. chapter 19, subchapter 1A or 1B are being obeyed and may examine
+16 and copy the books, papers, records, and the stock of any licensed wholesale
+17 dealer or retail dealer, for the purpose of determining whether the taximposed
+18 by this chapter has been fully paid.
+19 (b) If the Commissioner determines that a licensed wholesale dealer has
+20 not purchased sufficient stamps to cover sales of cigarettes, tobacco
+21 substitutes, and little cigars, or that a retail dealer has made sales of unstamped
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 25 of 59
+1 cigarettes, tobacco substitutes, or little cigars or untaxed roll-your-own
+2 tobacco, the Commissioner shall thereupon assess the deficiency in tax, plus
+3 interest and penalties as provided in section 3202 of this title.
+4 (c) In any case in which a licensed wholesale dealer cannot produce
+5 evidence of sufficient stamp purchases to cover the dealer’s receipts and sales
+6 or other disposition of cigarettes, tobacco substitutes, or little cigars, it shall be
+7 presumed that the cigarettes, tobacco substitutes, or little cigars were sold
+8 without having the proper stamps affixed. In any case in which a licensed
+9 wholesale dealer cannot produce proper evidence of payment of the taxon
+10 roll-your-own tobacco to cover the dealer’s receipts and sales or other
+11 disposition of roll-your-own tobacco, it shall be presumed that the roll-your-
+12 own tobacco was sold without the proper taxhaving been paid.
+13 * * *
+14 Sec. 14. 32 V.S.A. § 7779 is amended to read:
+15 § 7779. SEIZURE
+16 (a) Any cigarettes or tobacco substitutes found at any place in this State
+17 without stamps affixed thereto to them as required by this chapter or any
+18 tobacco products found at any place in this State upon which the taximposed
+19 by this chapter has not been paid, are declared to be contraband goods and may
+20 be seized without a warrant by the Commissioner, the Commissioner’s agents
+21 or employees, or by any peace the Commissioner of Liquor and Lottery, or any
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 26 of 59
+1 agent or employee of the Commissioner of Liquor and Lottery, or by any law
+2 enforcement officer of this State when directed by the either Commissioner to
+3 do so, unless such cigarettes, tobacco substitutes, or tobacco products shall be
+4 in the possession of a licensed wholesale dealer, or unless they shall be in the
+5 course of transit and consigned to a licensed wholesale dealer or a retail dealer,
+6 or unless they shall have been received by a retail dealer within 24 hours.
+7 Nothing herein in this section shall be construed to require the either
+8 Commissioner, agent, employee, or law enforcement officer to confiscate
+9 unstamped cigarettes, tobacco substitutes, or tobacco products when the
+10 Commissioner shall have, agent, employee, or law enforcement officer has
+11 reason to believe that the owner thereof has possession of the same them for
+12 personal consumption or is not willfully or intentionally evading the tax
+13 imposed by this chapter.
+14 (b) Any cigarettes or tobacco substitutes found at any place in this State
+15 with stamps affixed thereto which stamps have not been paid for as required by
+16 this chapter, are declared to be contraband goods and may be seized without a
+17 warrant by the Commissioner, the Commissioner’s agents or employees, or by
+18 any peace the Commissioner of Liquor and Lottery, or any agent or employee
+19 of the Commissioner of Liquor and Lottery, or by any law enforcement officer
+20 of this State when directed by the either Commissioner to do so.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 27 of 59
+1 (c) Any cigarettes, tobacco substitutes, or tobacco products seized under
+2 the provisions of this chapter shall be destroyed by the Commissioner at the
+3 expense of the violator, and disposition shall be in compliance with the
+4 Agency of Natural Resources, Hazardous Waste Management Regulations
+5 (CVR 12-032-001). The seizure of any cigarettes or tobacco products under
+6 the provisions of this section shall not relieve any person from a fine or other
+7 penalty for violation of this chapter.
+8 Sec. 15. 32 V.S.A. § 7780 is amended to read:
+9 § 7780. HEARING
+10 When any cigarettes, tobacco substitutes, or tobacco products shall have
+11 been seized under the provisions of section 7779 of this title, any person
+12 claiming an interest in such cigarettes, tobacco substitutes, or tobacco products
+13 who has not previously been heard or who has not waived hearing may make
+14 written application to the Commissioner for a hearing, stating an interest in the
+15 cigarettes, tobacco substitutes, or tobacco products and reasons why they
+16 should not be forfeited. Further proceedings on such application for hearing
+17 shall be taken as provided in sections 7782 and 7783 of this title. No
+18 cigarettes, tobacco substitutes, or tobacco products seized under the provisions
+19 of section 7779 of this title shall be destroyed while an application for a
+20 hearing is pending before the Commissioner, but the pendency of an appeal
+21 under the provisions of section 7783 of this title shall not prevent destruction
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 28 of 59
+1 of the cigarettes, tobacco substitutes, or tobacco products unless the appellant
+2 shall post a satisfactory bond, with surety, in an amount double the estimated
+3 value of the cigarettes, tobacco substitutes, or tobacco products conditioned
+4 upon the successful termination of the appeal.
+5 Sec. 16. 32 V.S.A. § 7782 is amended to read:
+6 § 7782. APPLICATION FOR HEARING
+7 Any person aggrieved by any action of the Commissioner or his or her the
+8 Commissioner’s authorized agent under this chapter for which hearing is not
+9 elsewhere provided may apply in writing to the Commissioner within 10 days
+10 after the notice of such the action is delivered or mailed to him or her the
+11 person for a hearing, setting forth the reasons why such the hearing should be
+12 granted and the manner of relief sought. The Commissioner shall promptly
+13 consider each such application and may grant or deny the hearing requested.
+14 If the hearing be request is denied, the applicant shall be notified thereof of the
+15 denial forthwith. If it be is granted, the Commissioner shall notify the
+16 applicant of the time and place fixed for such the hearing. After such the
+17 hearing, the Commissioner may make such order in the premises as may
+18 appear to him or her the Commissioner just and lawful and shall furnish a copy
+19 of such the order to the applicant. The Commissioner may, at any time and by
+20 notice in writing, order a hearing on his or her the Commissioner’s own
+21 initiative and require the taxpayer or any other individual whom he or she the
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 29 of 59
+1 Commissioner believes to be in possession of information concerning any
+2 manufacture, importation, possession, or sale of cigarettes, tobacco substitutes,
+3 or tobacco products, or both a combination of these, which have escaped
+4 taxation to appear before him or her the Commissioner or his or her the
+5 Commissioner’s duly authorized agent with any specific books of account,
+6 paper, or other documents related to the matter for examination relative
+7 thereto.
+8 Sec. 17. INVESTIGATOR POSITION CREATED; APPROPRIATION;
+9 REPORT
+10 (a) One new permanent classified position, Investigator, is established in
+11 the Department of Liquor and Lottery to enforce, and to investigate potential
+12 violations of, Vermont laws relating to direct-to-consumer sales and delivery of
+13 alcohol and tobacco products, including 7 V.S.A. §§ 277, 279, 280, and 1010.
+14 (b)(1) The sum of $160,000.00 is appropriated to the Department of Liquor
+15 and Lottery from the Tobacco Litigation Settlement Fund in fiscal year 2027 to
+16 fund the Investigator position established in subsection (a) of this section.
+17 (2) It is the intent of the General Assembly that the position established
+18 in subsection (a) of this section should be funded from the Tobacco Litigation
+19 Settlement Fund for fiscal years 2027 and 2028. It is also the intent of the
+20 General Assembly that, beginning in fiscal year 2029, the funding for the
+21 Investigator position should be built into base funding for the Department of
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 30 of 59
+1 Liquor and Lottery’s budget, with the amount of the salary and benefits for the
+2 Investigator position offset by an equivalent amount of the revenue generated
+3 to the Department or to the Office of the Attorney General, or both, by the
+4 Investigator’s activities in enforcing and in investigating violations of Vermont
+5 law, with the remainder of the revenue deposited into the General Fund.
+6 (c) If the revenue generated by the Investigator’s activities becomes
+7 insufficient to cover the cost of the position in the future, the Department of
+8 Liquor and Lottery shall propose eliminating the position as part of its next
+9 budget or budget adjustment presentation to the General Assembly.
+10 (d)(1) On or before March 15, 2027, the Department of Liquor and Lottery
+11 shall provide an update to the House Committees on Government Operations
+12 and Military Affairs and on Human Services and the Senate Committees on
+13 Economic Development, Housing and General Affairs and on Health and
+14 Welfare regarding the status of its implementation of the new Investigator
+15 position.
+16 (2) Annually on or before December 15, the Department of Liquor and
+17 Lottery shall report to the House Committees on Government Operations and
+18 Military Affairs and on Human Services and the Senate Committees on
+19 Economic Development, Housing and General Affairs and on Health and
+20 Welfare on the impact of the Investigator’s activities on compliance with
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 31 of 59
+1 Vermont’s laws relating to direct-to-consumer sales and delivery of alcohol
+2 and tobacco products.
+3 Sec. 18. TAXATION OF CIGARETTES AND TOBACCO PRODUCTS;
+4 LICENSURE OF WHOLESALE DEALERS; REPORT
+5 The Department of Taxes and the Department of Liquor and Lottery shall
+6 consider the existing process for regulation and taxation of cigarettes and
+7 tobacco products and analyze whether responsibility for taxation and licensure
+8 of wholesale dealers should be transitioned from the Department of Taxes to
+9 the Department of Liquor and Lottery. On or before January 15, 2027, the
+10 Departments shall provide their joint findings and recommendations to the
+11 House Committees on Government Operations and Military Affairs, on
+12 Human Services, and on Ways and Means and the Senate Committees on
+13 Government Operations, on Health and Welfare, and on Finance.
+14 Sec. 19. EFFECTIVE DATE
+15 This act shall take effect on July 1, 2026, with the first report under Sec.
+16 17(d)(2) due on or before December 15, 2027.
+Sec. 1. 7 V.S.A. chapter 40 is amended to read:
+CHAPTER 40. TOBACCO PRODUCTS
+§ 1001. DEFINITIONS
+As used in this chapter:
+* * *
+(5) “Tobacco license” means a license issued by the Division of Liquor
+Control under this chapter permitting the licensee to engage in the
+importation, distribution, wholesale sale, or retail sale, or a combination of
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 32 of 59
+these, of tobacco products, tobacco substitutes, substances containing nicotine
+or otherwise intended for use with a tobacco substitute, or tobacco
+paraphernalia.
+* * *
+(8)(A) “Tobacco substitute” means products, including any product that
+meets all of the following conditions:
+(i) The product is manufactured from, is derived from, or contains
+tobacco or nicotine, whether natural or synthetic, including nicotine alkaloids
+and nicotine analogs.
+(ii) The product is intended for human consumption by smoking,
+chewing, inhaling, sucking, absorbing, or consuming in any other manner.
+(iii) The product is not a tobacco product, as defined in this
+section.
+(B) The term “tobacco substitute” includes electronic cigarettes or
+and other electronic or battery-powered devices, that contain or are designed
+to deliver nicotine or other substances into the body through the inhalation of
+vapor and that have not been approved by the U.S. Food and Drug
+Administration for tobacco cessation or other medical purposes. The term
+also includes nicotine pouches and any liquids, whether nicotine based or not,
+and delivery devices sold separately for use with a tobacco substitute.
+(C) Cannabis products as defined in section 831 of this title or
+products that have been approved by the U.S. Food and Drug Administration
+for tobacco cessation or other medical purposes shall not be considered to be
+tobacco substitutes.
+(9) “Licensed wholesale dealer” means a wholesale dealer licensed
+under the provisions of this chapter.
+(10) “Wholesale dealer” means a person who imports or causes to be
+imported into the State any cigarettes, little cigars, roll-your-own tobacco,
+snuff, new smokeless tobacco, or other tobacco product for sale or who sells or
+furnishes any of these products to other wholesale dealers or retail dealers for
+the purpose of resale, but not by small quantity or parcel to consumers of these
+products.
+(11) “Wholesale dealer’s license” means the license granted under the
+provisions of this chapter to a wholesale dealer for a wholesale outlet.
+(12) “Wholesale outlet” means any premises where cigarettes, little
+cigars, roll-your-own tobacco, snuff, new smokeless tobacco, or other tobacco
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 33 of 59
+products are sold, transferred, displayed, or held for sale by a wholesale
+dealer.
+(13) “Wholesale price” means the price at which a licensed wholesale
+dealer sells or furnishes cigarettes, little cigars, roll-your-own tobacco, snuff,
+new smokeless tobacco, or other tobacco products to any retail dealer.
+§ 1002. LICENSE REQUIRED FOR RETAIL SALE; APPLICATION;
+FEE; ISSUANCE
+(a)(1) Except as provided in subsection (h) of this section, no person shall
+engage in the retail sale of tobacco products, tobacco substitutes, or tobacco
+paraphernalia in the person’s place of business without a tobacco license
+obtained from the Division of Liquor Control.
+(2) No person shall engage in the retail sale of tobacco substitutes
+without also obtaining a tobacco substitute endorsement from the Division of
+Liquor Control.
+(3) Tobacco licenses and tobacco substitute endorsements shall expire at
+midnight, April 30, of each year.
+(b)(1) The Board shall prepare and issue tobacco license and tobacco
+substitute endorsement forms and applications. These shall be incorporated
+into the liquor license forms and applications prepared and issued under this
+title.
+(2) The licenses issued under this section shall be entitled “LIQUOR
+LICENSE,” “LIQUOR-TOBACCO LICENSE,” or “TOBACCO LICENSE,”
+as applicable. The endorsements issued under this section shall be entitled
+“TOBACCO SUBSTITUTE ENDORSEMENT.”
+(3) The Board shall also provide simple instructions for licensees,
+designed to assist them in complying with the provisions of this chapter.
+(c) Each tobacco license and tobacco substitute endorsement shall be
+prominently displayed on the premises identified in the license.
+(d)(1) For a license or endorsement required under this section, a person
+shall apply to the legislative body of the municipality and shall pay the
+following fees:
+(A) to the Division of Liquor Control, the applicable liquor license
+fee provided in section 204 of this title for a liquor license and a tobacco
+license;
+(B) to the legislative body of the municipality, a fee of $110.00
+$1,000.00 for a tobacco license or renewal; and
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 34 of 59
+(C) to the legislative body of the municipality, a fee of $50.00
+$1,000.00 for a tobacco substitute endorsement as provided in subdivision
+(a)(2) of this section.
+(B) to the legislative body of the municipality, a fee of $110.00
+$150.00 for a tobacco license or renewal; and
+(C) to the legislative body of the municipality, a fee of $50.00 $75.00
+for a tobacco substitute endorsement as provided in subdivision (a)(2) of this
+section.
+(2) The municipal clerk shall forward the application to the Division,
+and the Division shall issue the tobacco license and the tobacco substitute
+endorsement, as applicable, and shall forward all fees to the Commissioner for
+deposit in the Liquor Control Enterprise Fund.
+(e) A person who sells tobacco products, tobacco substitutes, or tobacco
+paraphernalia without obtaining a tobacco license and a tobacco substitute
+endorsement, as applicable, in violation of this section shall be guilty of a
+misdemeanor and fined subject to a civil penalty of not more than $200.00
+$2,000.00 for the first offense and not more than $500.00 $5,000.00 for each
+subsequent offense.
+(f) No individual under 16 years of age may sell tobacco products, tobacco
+substitutes, or tobacco paraphernalia.
+(g) No person shall engage in the importation, distribution, wholesale sale,
+or retail sale, or a combination of these, of tobacco products, tobacco
+substitutes, substances containing nicotine or otherwise intended for use with a
+tobacco substitute, or tobacco paraphernalia in the State unless the person is a
+licensed wholesale dealer as defined in 32 V.S.A. § 7702 or has purchased the
+tobacco products, tobacco substitutes, substances containing nicotine or
+otherwise intended for use with a tobacco substitute, or tobacco paraphernalia
+from a licensed wholesale dealer.
+(h) This section shall not apply to a cannabis establishment licensed
+pursuant to chapter 33 of this title to engage in the retail sale of cannabis
+products as defined in section 831 of this title but not engaged in the sale of
+tobacco products or tobacco substitutes.
+* * *
+§ 1002b. WHOLESALE DEALERS; LICENSE REQUIRED
+(a) License required. Each wholesale dealer shall secure a license from the
+Division of Liquor Control before engaging in the business of selling tobacco
+products or tobacco substitutes in this State. Licensed wholesale dealers shall
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 35 of 59
+sell these products only to other Vermont licensed wholesale dealers or to
+retailers licensed pursuant to section 1002 of this chapter.
+(b) Application for and issuance of license.
+(1) A separate application and license shall be required for each
+wholesale outlet when a wholesale dealer owns or controls more than one such
+outlet.
+(2) A wholesale license shall be issued by the Division upon application
+without charge, on forms prescribed by the Division, stating the name and
+address of the applicant, the address of the place of business at which the
+applicant proposes to engage in the wholesale business, the type of business,
+and such other information as the Division may require for the proper
+administration of this chapter. Each license issued pursuant to this section
+shall be prominently displayed on the premises covered by the license.
+(b) Application for and issuance of license.
+(1) A separate application and license shall be required for each
+wholesale outlet when a wholesale dealer owns or controls more than one such
+outlet. The license fee shall be $1,245.00 for each outlet.
+(2) A wholesale license shall be issued by the Division upon application
+on forms prescribed by the Division, stating the name and address of the
+applicant, the address of the place of business at which the applicant proposes
+to engage in the wholesale business, the type of business, and such other
+information as the Division may require for the proper administration of this
+chapter. Each license issued pursuant to this section shall be prominently
+displayed on the premises covered by the license.
+(c) Penalties for sales without license. Any licensed wholesale dealer who
+sells, offers for sale, or possesses with intent to sell tobacco products or
+tobacco substitutes without having first obtained a license as provided in this
+section shall be fined subject to a civil penalty of not more than $2,000.00 for
+the first offense and not more than $5,000.00 for each subsequent offense.
+(d) Term of license. Each license issued under the provisions of this section
+shall be valid as long as the licensee continues to do business at the place
+named unless revoked or suspended by the Division as provided in subsection
+(e) of this section. If the business with respect to which the license was issued
+is sold or transferred or if the licensee ceases to do business at the place
+named, the license shall immediately be returned to the Division for
+cancellation.
+(e) Revocation or suspension of license. The Division may revoke or
+suspend the license of any licensed wholesale dealer for failure to comply with
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 36 of 59
+any provision of this chapter, 11 V.S.A. chapter 15, 32 V.S.A. chapter 205, or
+33 V.S.A. chapter 19, subchapter 1B.
+* * *
+§ 1005. PERSONS UNDER 21 YEARS OF AGE; POSSESSION OF
+TOBACCO PRODUCTS; MISREPRESENTING AGE OR
+PURCHASING TOBACCO PRODUCTS; PENALTY
+(a)(1) A person under 21 years of age shall not possess, purchase, or
+attempt to purchase tobacco products, tobacco substitutes, or tobacco
+paraphernalia unless:
+(A) the person is an employee of a holder of a tobacco license and is
+in possession of tobacco products, tobacco substitutes, or tobacco
+paraphernalia to effect a sale in the course of employment; or
+(B) the person is in possession of tobacco products or tobacco
+paraphernalia in connection with Indigenous cultural tobacco practices.
+(2) A person under 21 years of age shall not misrepresent his or her age
+to purchase or attempt to purchase tobacco products, tobacco substitutes, or
+tobacco paraphernalia.
+(b) A person who possesses tobacco products, tobacco substitutes, or
+tobacco paraphernalia in violation of subsection (a) of this section shall be
+subject to having the tobacco products, tobacco substitutes, or tobacco
+paraphernalia immediately confiscated and shall be further subject to a civil
+penalty of $25.00. An action under this subsection shall be brought in the same
+manner as a traffic violation pursuant to 23 V.S.A. chapter 24.
+(c) A person under 21 years of age who misrepresents the person’s age by
+presenting false identification to purchase tobacco products, tobacco
+substitutes, or tobacco paraphernalia shall be subject to a civil penalty of not
+more than $50.00 or provide up to 10 hours of community service, or both.
+[Repealed.]
+§ 1005. PERSONS UNDER 21 YEARS OF AGE; POSSESSION OF
+TOBACCO PRODUCTS; MISREPRESENTING AGE OR
+PURCHASING TO PURCHASE TOBACCO PRODUCTS;
+PENALTY
+(a)(1) A person under 21 years of age shall not possess, purchase, or
+attempt to purchase tobacco products, tobacco substitutes, or tobacco
+paraphernalia unless:
+(A) the person is an employee of a holder of a tobacco license and is
+in possession of tobacco products, tobacco substitutes, or tobacco
+paraphernalia to effect a sale in the course of employment; or
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 37 of 59
+(B) the person is in possession of tobacco products or tobacco
+paraphernalia in connection with Indigenous cultural tobacco practices.
+(2) A person under 21 years of age shall not misrepresent his or her age
+to purchase or attempt to purchase tobacco products, tobacco substitutes, or
+tobacco paraphernalia.
+(b) A person who possesses tobacco products, tobacco substitutes, or
+tobacco paraphernalia in violation of subsection (a) of this section shall be
+subject to having the tobacco products, tobacco substitutes, or tobacco
+paraphernalia immediately confiscated and shall be further subject to a civil
+penalty of $25.00. An action under this subsection shall be brought in the same
+manner as a traffic violation pursuant to 23 V.S.A. chapter 24.
+(c) A person under 21 years of age who misrepresents the person’s age by
+presenting false identification to purchase tobacco products, tobacco
+substitutes, or tobacco paraphernalia shall be subject to a civil penalty of not
+more than $50.00 $100.00 or provide up to 10 hours of community service, or
+both. An action under this section shall be brought in the same manner as a
+traffic violation pursuant to 23 V.S.A. chapter 24.
+* * *
+§ 1007. FURNISHING TOBACCO TO PERSONS INDIVIDUALS UNDER
+21 YEARS OF AGE; PENALTIES; REPORT
+(a) A person that sells or furnishes tobacco products, tobacco substitutes,
+or tobacco paraphernalia to a person under 21 years of age shall be subject to
+a civil penalty of not more than $100.00 $1,000.00 for the first offense and not
+more than $500.00, for any subsequent offense, a civil penalty and license
+suspension or revocation as set forth in subdivision (b)(2) of this section. An
+action under this section shall be brought in the same manner as for a traffic
+violation pursuant to 23 V.S.A. chapter 24 and shall be brought within 24
+hours of following the occurrence of the alleged violation.
+(a) A person that sells or furnishes tobacco products, tobacco substitutes,
+or tobacco paraphernalia to a person an individual under 21 years of age
+shall be subject to a civil penalty of not more than $100.00 $150.00 for the
+first offense and not more than $500.00, for any subsequent offense, a civil
+penalty and license suspension or revocation as set forth in subdivision (b)(2)
+of this section. An action under this section shall be brought in the same
+manner as for a traffic violation pursuant to 23 V.S.A. chapter 24 and shall be
+brought within 24 hours of following the occurrence of the alleged violation.
+(b)(1) The Division of Liquor Control shall conduct or contract for
+compliance tests of tobacco licensees as frequently and as comprehensively as
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 38 of 59
+necessary to ensure consistent statewide compliance with the prohibition on
+sales to persons under 21 years of age of at least 90 percent for buyers who are
+between 17 and 20 years of age. An individual under 21 years of age
+participating in a compliance test shall not be in violation of section 1005 of
+this title.
+(2) Any violation by a tobacco licensee of subsection 1003(a) of this
+title and or this section after a sale violation or during a compliance test
+conducted within six months of after a previous violation shall be considered a
+multiple violation and shall result in the following civil penalties and minimum
+license suspension suspensions or license revocation, in addition to any other
+penalties available under this title. Minimum license suspensions for multiple
+violations shall be assessed as follows:
+(A) two violations second violation: suspension for two consecutive
+weekdays and $1,000.00 civil penalty;
+(B) three violations 15-day third violation: suspension for 15
+consecutive days and $2,000.00 civil penalty;
+(C) four violations 90-day fourth violation: suspension for 90
+consecutive days and $3,500.00 civil penalty; and
+(D) five violations one-year suspension fifth violation: revocation of
+license and $5,000.00 civil penalty.
+* * *
+§ 1009. CONTRABAND AND SEIZURE
+(a) Any cigarettes or other tobacco products or tobacco substitutes that
+have been sold, offered for sale, or possessed for sale in violation of section
+1003, 1010, or 1013 of this title, 20 V.S.A. § 2757, 32 V.S.A. § 7786, or 33
+V.S.A. § 1919, and any commercial cigarette rolling machines possessed or
+utilized in violation of section 1011 of this title, shall be deemed contraband
+and shall be subject to seizure by the Commissioner, the Commissioner’s
+agents or employees, the Commissioner of Taxes, or any agent or employee of
+the Commissioner of Taxes, or by any law enforcement officer of this State
+when directed to do so by the either Commissioner or by the Department of
+Liquor and Lottery. All cigarettes or other tobacco products items seized
+under this subsection shall be destroyed at the expense of the violator, and
+disposition shall be in compliance with the Agency of Natural Resources,
+Hazardous Waste Management Regulations (CVR 12-032-001).
+(b)(1) Any person in possession of property considered contraband under
+this section shall be fined not more than $1,000.00 nor less than $500.00 per
+item.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 39 of 59
+(2) Any vehicle, aircraft or watercraft, or other conveyance in which
+property considered contraband under this section is found may be seized and
+subject to forfeiture and condemnation pursuant to sections 570 and 572–574
+of this title.
+§ 1010. INTERNET SALES
+* * *
+(b) No person shall cause cigarettes, roll-your-own tobacco, little cigars,
+snuff, tobacco substitutes, substances containing nicotine or otherwise
+intended for use with a tobacco substitute, or tobacco paraphernalia, ordered
+or purchased by mail or through a computer network, telephonic network, or
+other electronic network, to be shipped to anyone other than a licensed
+wholesale dealer or retail dealer in this State.
+(c) No person shall, with knowledge or reason to know of the violation,
+provide substantial assistance to a person in violation of this section.
+(d) A violation of this section is punishable as follows:
+(1) A knowing or intentional violation of this section shall be punishable
+by imprisonment for not more than five years or a fine of not more than
+$5,000.00, or both.
+(2) In addition to or in lieu of any other civil or criminal remedy
+provided by law, upon a determination that a person has violated this section,
+the Attorney General may impose a civil penalty in an amount not to exceed
+$5,000.00 for each violation. For purposes of this subsection, each shipment
+or transport of cigarettes, roll-your-own tobacco, little cigars, or snuff,
+tobacco substitutes, substances containing nicotine or otherwise intended for
+use with a tobacco substitute, or tobacco paraphernalia shall constitute a
+separate violation.
+* * *
+§ 1013. DECEPTIVE TOBACCO PRODUCTS AND TOBACCO
+SUBSTITUTES PROHIBITED
+No person shall market, promote, label, brand, advertise, distribute, offer
+for sale, or sell a tobacco product or tobacco substitute by:
+(1) imitating a product that is not a tobacco product or tobacco
+substitute, including:
+(A) a food or brand of food commonly marketed to minors, including
+candy, desserts, cereal, and beverages;
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 40 of 59
+(B) school supplies commonly used by minors, including erasers,
+highlighters, pens, and pencils;
+(C) portable devices, including smartphones, smartwatches, video
+games or video game consoles, and inhalers; and
+(D) a product based on or depicting a character, personality, or
+symbol known to appeal to minors, including a celebrity; a character in a
+comic book, movie, television show, or video game; or a mythical creature;
+(2) concealing the nature of the tobacco product or tobacco substitute;
+or
+(3) using terms for, describing, or depicting a product described in
+subdivision (1) of this section.
+§ 1014. USE OF FUNDS FROM LICENSING FEES, PENALTIES, AND
+SETTLEMENTS
+All penalties collected from violations of this chapter, all monies received by
+the State from settlements based on violations or alleged violations of Vermont
+laws relating to tobacco, and all revenue generated from licensing fees
+established in this chapter that exceed the amounts necessary for
+administration and enforcement of this chapter shall be deposited in the
+Tobacco Trust Fund established in 18 V.S.A. § 9502 and used for tobacco
+cessation and prevention activities.
+Sec. 1a. 4 V.S.A. § 1102(b) is amended to read:
+(b) The Judicial Bureau shall have jurisdiction of the following matters:
+* * *
+(4) Violations of 7 V.S.A. § 1005, relating to possession and
+procurement of tobacco products misrepresentation of age by a person under
+21 years of age to purchase tobacco products.
+* * *
+Sec. 2. 3 V.S.A. § 167a is amended to read:
+§ 167a. COMPLEX LITIGATION SPECIAL FUND
+* * *
+(b) The Fund shall consist of:
+(1) Such sums as may be appropriated or transferred by the General
+Assembly.
+(2) Settlement monies other than consumer restitution collected by the
+Office of the Attorney General, except for those recoveries that by law are
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 41 of 59
+transferred or appropriated for other uses pursuant to 7 V.S.A. § 1014 or 9
+V.S.A. § 2458(b)(4), and subject to the Fund balance cap in subsection (c) of
+this section.
+* * *
+Sec. 3. 18 V.S.A. § 9502 is amended to read:
+§ 9502. TOBACCO TRUST FUND
+(a)(1) The Tobacco Trust Fund is established in the Office of the State
+Treasurer for the purposes of creating a self-sustaining, perpetual fund for
+tobacco cessation and prevention that is not dependent upon tobacco sales
+volume.
+(2) The Trust Fund shall be composed of:
+(A) transfers made by the General Assembly; and
+(B) penalties and settlement amounts for violations or alleged
+violations of tobacco laws and tobacco licensing fees pursuant to 7 V.S.A.
+§ 1014; and
+(C) contributions from any other source.
+Sec. 2. [Deleted.]
+Sec. 3. [Deleted.]
+Sec. 4. 32 V.S.A. § 3102 is amended to read:
+§ 3102. CONFIDENTIALITY OF TAX RECORDS
+* * *
+(e) The Commissioner may, in the Commissioner’s discretion and subject to
+such conditions and requirements as the Commissioner may provide, including
+any confidentiality requirements of the Internal Revenue Service, disclose a
+return or return information:
+* * *
+(25) To the Department of Liquor and Lottery, if such return or
+information is for purposes of investigating potential violations of and
+enforcing 7 V.S.A. chapter 40.
+* * *
+Sec. 5. 32 V.S.A. § 7702 is amended to read:
+§ 7702. DEFINITIONS
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 42 of 59
+As used in this chapter unless the context otherwise requires:
+(1) “Cigarette” means any product that contains nicotine, is intended to
+be burned or heated under ordinary conditions of use, and consists of or
+contains:
+(A) any roll of tobacco wrapped in paper or in any substance not
+containing tobacco; and
+(B) tobacco, in any form, that is functional in the product, which,
+because of its appearance, the type of tobacco used in the filler, or its
+packaging and labeling, is likely to be offered to, or purchased by, consumers
+as a cigarette; or
+(C) any roll of tobacco wrapped in substance containing tobacco
+that, because of its appearance, the type of tobacco used in the filler, or its
+packaging and labeling, is likely to be offered to, or purchased by, consumers
+as a cigarette described in subdivision (A) of this subdivision (1).
+* * *
+(5) “Licensed wholesale dealer” shall mean means a wholesale dealer
+licensed under the provisions of this chapter 7 V.S.A. § 1002b.
+* * *
+(15) “Other tobacco products” means any product manufactured from,
+derived from, or containing tobacco or nicotine, whether natural or synthetic,
+including nicotine alkaloids and nicotine analogs, that is intended for human
+consumption by smoking, chewing, inhaling, sucking, absorbing, or consuming
+in any other manner, including products sold as a tobacco substitute, as
+defined in 7 V.S.A. § 1001(8), and including any liquids, whether nicotine
+based or not, or delivery devices sold separately for use with a tobacco
+substitute, but shall not include cigarettes, little cigars, roll-your-own tobacco,
+snuff, new smokeless tobacco as defined in this section, or cannabis products
+as defined in 7 V.S.A. § 831.
+(16) “Wholesale dealer” means a person who imports or causes to be
+imported into the State any cigarettes, little cigars, roll-your-own tobacco,
+snuff, new smokeless tobacco, or other tobacco product for sale or who sells or
+furnishes any of these products to other wholesale dealers or retail dealers for
+the purpose of resale, but not by small quantity or parcel to consumers thereof
+of these products.
+(17) “Wholesale dealer’s license” shall mean means the license granted
+under the provisions of this chapter 7 V.S.A. § 1002b to a wholesale dealer for
+a wholesale outlet.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 43 of 59
+* * *
+Sec. 6. 32 V.S.A. § 7776 is amended to read:
+§ 7776. COLLECTION OF CIGARETTE TAX THROUGH
+NONRESIDENT LICENSED WHOLESALE DEALERS
+* * *
+(d) Any person complying with the provisions of this section shall
+thereupon become a licensed wholesale dealer within the meaning of 7 V.S.A.
+chapter 40 and this chapter and shall be subject to all provisions of the
+chapter both chapters applicable to wholesale dealers, including the
+furnishing of a bond specified in subchapter 2 section 7703 of this chapter.
+Sec. 7. 32 V.S.A. § 7821 is amended to read:
+§ 7821. CRIMINAL PENALTIES
+Any person who shall fail, neglect, or refuse to comply with or shall violate
+the provisions of this chapter relating to the tax on tobacco products or the
+rules adopted by the Commissioner under this chapter relating to such tax
+shall be guilty of a misdemeanor and upon conviction for a first offense shall
+be sentenced to pay a fine of not more than $250.00 or to be imprisoned for
+not more than 60 days, or both, such fine and imprisonment in the discretion of
+the court, and for a second or subsequent offense shall be sentenced to pay a
+fine of not less than $250.00 nor more than $500.00 or be imprisoned for not
+more than six months, or both, such fine and imprisonment in the discretion of
+the court. This section shall not apply to violations of sections 7731–7734 and
+section 7776 of this title.
+Sec. 8. REDESIGNATION
+32 V.S.A. § 7737 (licensed wholesale dealers; bonding) is redesignated as
+32 V.S.A. § 7703.
+Sec. 9. REPEALS
+32 V.S.A. §§ 7731–7736 (licensure of wholesale dealers) are repealed.
+Sec. 10. INVESTIGATOR POSITION CREATED; APPROPRIATION;
+REPORT
+(a) One new permanent classified position, Investigator, is established in
+the Department of Liquor and Lottery to enforce, and to investigate potential
+violations of, Vermont laws relating to online sales and other direct-to-
+consumer sales and delivery of alcohol and tobacco products, including 7
+V.S.A. §§ 277, 279, 280, and 1010.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 44 of 59
+(b)(1) The sum of $160,000.00 is appropriated to the Department of Liquor
+and Lottery from the Tobacco Litigation Settlement Fund in fiscal year 2027 to
+fund the Investigator position established in subsection (a) of this section.
+(2) It is the intent of the General Assembly that the position established
+in subsection (a) of this section should be funded from the Tobacco Litigation
+Settlement Fund for fiscal years 2027 and 2028. It is also the intent of the
+General Assembly that, beginning in fiscal year 2029, the funding for the
+Investigator position should be built into base funding for the Department of
+Liquor and Lottery’s budget, with the amount of the salary and benefits for the
+Investigator position offset by an equivalent amount of the revenue generated
+to the Department or to the Office of the Attorney General, or both, by the
+Investigator’s activities in enforcing and in investigating violations of Vermont
+law, with the remainder of the revenue deposited into the General Fund.
+(c) If the revenue generated by the Investigator’s activities becomes
+insufficient to cover the cost of the position in the future, the Department of
+Liquor and Lottery shall propose eliminating the position as part of its next
+budget or budget adjustment presentation to the General Assembly.
+(d)(1) On or before March 15, 2027, the Department of Liquor and Lottery
+shall provide an update to the House Committees on Government Operations
+and Military Affairs and on Human Services and the Senate Committees on
+Economic Development, Housing and General Affairs and on Health and
+Welfare regarding the status of its implementation of the new Investigator
+position.
+(2) Annually on or before December 15, the Department of Liquor and
+Lottery shall report to the House Committees on Government Operations and
+Military Affairs and on Human Services and the Senate Committees on
+Economic Development, Housing and General Affairs and on Health and
+Welfare on the impact of the Investigator’s activities on compliance with
+Vermont’s laws relating to direct-to-consumer sales and delivery of alcohol
+and tobacco products.
+Sec. 10. [Deleted.]
+Sec. 11. TAXATION OF TOBACCO SUBSTITUTES; TAX STAMPS;
+REPORT
+(a) The Department of Taxes, in collaboration with the Department of
+Liquor and Lottery and the Office of the Attorney General and in consultation
+with wholesale dealers and other interested stakeholders, shall:
+(1) identify efficient and effective processes by which to impose taxes on
+tobacco substitutes, as defined in 7 V.S.A. § 1001, based on the concentration
+of nicotine they contain; and
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 45 of 59
+(2) evaluate the continued use of tax stamps as evidence of payment of
+the excise tax on cigarettes, little cigars, and roll-your-own tobacco in this
+State and consider the advantages and disadvantages of alternative
+approaches of certifying tax compliance.
+(b) On or before January 15, 2027, the Department of Taxes shall provide
+its findings and recommendations for taxing tobacco substitutes based on
+nicotine concentration and regarding the continued use of tax stamps,
+including proposed next steps and legislative needs, to the House Committees
+on Human Services and on Ways and Means and the Senate Committees on
+Economic Development, Housing and General Affairs; on Finance; and on
+Health and Welfare.
+Sec. 12. EFFECTIVE DATES
+This act shall take effect on July 1, 2026, except that:
+(1) in Sec. 1 (7 V.S.A. chapter 40), § 1002b (wholesale dealers; license
+required) shall take effect on July 1, 2027;
+(2) in Sec. 5 (32 V.S.A. § 7702), the amendments to subdivisions (5)
+(definition of “licensed wholesale dealer”) and (17) (definition of “wholesale
+dealer’s license”) shall take effect on July 1, 2027; and
+(3) Secs. 6 (32 V.S.A. § 7776), 7 (32 V.S.A. § 7821), 8 (redesignation),
+and 9 (repeals) shall take effect on July 1, 2027; and.
+(4) the first report under Sec. 10(d)(2) shall be due on or before December
+15, 2027.
+Sec. 1. 7 V.S.A. chapter 40 is amended to read:
+CHAPTER 40. TOBACCO PRODUCTS
+§ 1001. DEFINITIONS
+As used in this chapter:
+* * *
+(8)(A) “Tobacco substitute” means products, including any product that
+meets all of the following conditions:
+(i) The product is manufactured from, is derived from, or contains
+tobacco or nicotine, whether natural or synthetic, including nicotine alkaloids
+and nicotine analogs.
+(ii) The product is intended for human consumption by smoking,
+chewing, inhaling, sucking, absorbing, or consuming in any other manner.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 46 of 59
+(iii) The product is not a tobacco product, as defined in this
+section.
+(B) The term “tobacco substitute” includes electronic cigarettes or
+and other electronic or battery-powered devices, that contain or are designed
+to deliver nicotine or other substances into the body through the inhalation of
+vapor and that have not been approved by the U.S. Food and Drug
+Administration for tobacco cessation or other medical purposes. The term
+also includes nicotine pouches and any liquids, whether nicotine based or not,
+and delivery devices sold separately for use with a tobacco substitute.
+(C) Cannabis products as defined in section 831 of this title or
+products that have been approved by the U.S. Food and Drug Administration
+for tobacco cessation or other medical purposes shall not be considered to be
+tobacco substitutes.
+(9) “Licensed wholesale dealer” means a wholesale dealer licensed
+under the provisions of this chapter.
+(10) “Wholesale dealer” means a person who imports or causes to be
+imported into the State any tobacco products or tobacco substitutes for sale or
+who sells or furnishes any of these products to other wholesale dealers or retail
+dealers for the purpose of resale, but not by small quantity or parcel to
+consumers of these products.
+(11) “Wholesale dealer’s license” means the license granted under the
+provisions of this chapter to a wholesale dealer for a wholesale outlet.
+(12) “Wholesale outlet” means any premises where tobacco products or
+tobacco substitutes are sold, transferred, displayed, or held for sale by a
+wholesale dealer.
+(13) “Wholesale price” means the price at which a licensed wholesale
+dealer sells or furnishes tobacco products or tobacco substitutes to any retail
+dealer.
+§ 1002. LICENSE REQUIRED FOR RETAIL SALE; APPLICATION;
+FEE; ISSUANCE
+(a)(1) Except as provided in subsection (h) of this section, no person shall
+engage in the retail sale of tobacco products, tobacco substitutes, or tobacco
+paraphernalia in the person’s place of business without a tobacco license
+obtained from the Division of Liquor Control.
+(2) No person shall engage in the retail sale of tobacco substitutes
+without also obtaining a tobacco substitute endorsement from the Division of
+Liquor Control.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 47 of 59
+(3) Tobacco licenses and tobacco substitute endorsements shall expire at
+midnight, April 30, of each year be valid for one year from the date of issue.
+(b)(1) The Board shall prepare and issue tobacco license and tobacco
+substitute endorsement forms and applications. These shall be incorporated
+into the liquor license forms and applications prepared and issued under this
+title.
+(2) The licenses issued under this section shall be entitled “LIQUOR
+LICENSE,” “LIQUOR-TOBACCO LICENSE,” or “TOBACCO LICENSE,”
+as applicable. The and the endorsements issued under this section shall be
+entitled “TOBACCO SUBSTITUTE ENDORSEMENT.”
+(3) The Board shall also provide simple instructions for licensees,
+designed to assist them in complying with the provisions of this chapter.
+(c) Each tobacco license and tobacco substitute endorsement shall be
+prominently displayed on the premises identified in the license.
+(d)(1) For a license or endorsement required under this section, a person
+shall apply to the legislative body of the municipality using the application
+provided by the Board in accordance with subdivision (b)(1) of this section and
+shall pay the following fees:
+(A) to the Division of Liquor Control, the applicable liquor license
+fee provided in section 204 of this title for a liquor license and a tobacco
+license;
+(B) to the legislative body of the municipality, a fee of $110.00:
+(A) $150.00 for a tobacco license or renewal; and
+(C) to the legislative body of the municipality, a fee of $50.00
+(B) $75.00 for a tobacco substitute endorsement as provided in
+subdivision (a)(2) of this section.
+(2) The municipal clerk shall forward the application to the Division,
+and, if the municipality’s local control commissioners have approved the
+application for a tobacco license and, if applicable, a tobacco substitute
+endorsement, the Division shall issue the tobacco license and the tobacco
+substitute endorsement, as applicable, and shall forward all fees to the
+Commissioner for deposit. Fees collected pursuant to this subsection shall be
+deposited in the Liquor Control Enterprise Fund.
+(e) A person who sells tobacco products, tobacco substitutes, or tobacco
+paraphernalia without obtaining a tobacco license and a tobacco substitute
+endorsement, as applicable, in violation of this section shall be guilty of a
+misdemeanor and fined subject to a civil penalty of not more than $200.00
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 48 of 59
+$2,000.00 for the first offense and not more than $500.00 $5,000.00 for each
+subsequent offense.
+(f) No individual under 16 years of age may sell tobacco products, tobacco
+substitutes, or tobacco paraphernalia.
+(g) No person shall engage in the importation, distribution, wholesale sale,
+or retail sale, or a combination of these, of tobacco products, tobacco
+substitutes, substances containing nicotine or otherwise intended for use with a
+tobacco substitute, or tobacco paraphernalia in the State unless the person is a
+licensed wholesale dealer as defined in 32 V.S.A. § 7702 or has purchased the
+tobacco products, tobacco substitutes, substances containing nicotine or
+otherwise intended for use with a tobacco substitute, or tobacco paraphernalia
+from a licensed wholesale dealer.
+(h) This section shall not apply to a cannabis establishment licensed
+pursuant to chapter 33 of this title to engage in the retail sale of cannabis
+products as defined in section 831 of this title but not engaged in the sale of
+tobacco products or tobacco substitutes.
+* * *
+§ 1002b. WHOLESALE DEALERS; LICENSE REQUIRED
+(a) License required. Each wholesale dealer shall secure a license from the
+Division of Liquor Control before engaging in the business of selling tobacco
+products or tobacco substitutes in this State. Licensed wholesale dealers shall
+sell these products only to other Vermont licensed wholesale dealers or to
+retailers licensed pursuant to section 1002 of this chapter.
+(b) Application for and issuance of license.
+(1) A separate application and license shall be required for each
+wholesale outlet when a wholesale dealer owns or controls more than one such
+outlet. The license fee shall be $1,245.00 annually for each outlet.
+(2) A wholesale license may be issued by the Division upon application
+on forms prescribed by the Division, stating the name and address of the
+applicant, the address of the place of business at which the applicant proposes
+to engage in the wholesale business, the type of business, and such other
+information as the Division may require for the proper administration of this
+chapter. Each license issued pursuant to this section shall be prominently
+displayed on the premises covered by the license.
+(c) Penalties for sales without license. Any wholesale dealer who sells,
+offers for sale, or possesses with intent to sell tobacco products or tobacco
+substitutes without having first obtained a license as provided in this section
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 49 of 59
+shall be subject to a civil penalty of not more than $2,000.00 for the first
+offense and not more than $5,000.00 for each subsequent offense.
+(d) Term of license. Each license issued under the provisions of this section
+shall be valid for one year from the date of issue. If the business with respect
+to which the license was issued is sold or transferred or if the licensee ceases
+to do business at the place named, the license shall immediately be returned to
+the Division for cancellation.
+(e) Revocation or suspension of license. The Division may revoke or
+suspend the license of any licensed wholesale dealer for failure to comply with
+any provision of this chapter, 11 V.S.A. chapter 15, 32 V.S.A. chapter 205, or
+33 V.S.A. chapter 19, subchapter 1B.
+* * *
+§ 1005. PERSONS INDIVIDUALS UNDER 21 YEARS OF AGE;
+POSSESSION OR PURCHASE OF TOBACCO PRODUCTS
+PROHIBITED; PENALTY FOR MISREPRESENTING AGE OR
+PURCHASING TOBACCO PRODUCTS; PENALTY
+(a)(1) A person An individual under 21 years of age shall not possess,
+purchase, or attempt to purchase tobacco products, tobacco substitutes, or
+tobacco paraphernalia unless:
+(A) the person individual is an employee of a holder of a tobacco
+license and is in possession of tobacco products, tobacco substitutes, or
+tobacco paraphernalia to effect a sale in the course of employment; or
+(B) the person individual is in possession of tobacco products or
+tobacco paraphernalia in connection with Indigenous cultural tobacco
+practices.
+(2) A person An individual under 21 years of age shall not misrepresent
+his or her the individual’s age to purchase or attempt to purchase tobacco
+products, tobacco substitutes, or tobacco paraphernalia.
+(b) A person An individual who possesses tobacco products, tobacco
+substitutes, or tobacco paraphernalia in violation of subsection (a) of this
+section shall be subject to having the tobacco products, tobacco substitutes, or
+tobacco paraphernalia immediately confiscated and shall be further subject to
+a civil penalty of $25.00. An action under this subsection shall be brought in
+the same manner as a traffic violation pursuant to 23 V.S.A. chapter 24.
+(c) A person An individual under 21 years of age who misrepresents the
+person’s individual’s age by presenting false identification to purchase
+tobacco products, tobacco substitutes, or tobacco paraphernalia shall be
+subject to a civil penalty of not more than $50.00 or provide offered the choice
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 50 of 59
+of providing up to 10 hours of community service, or both participating in a
+nationally recognized youth tobacco cessation program to be determined by
+the Department of Health. An action under this section shall be brought in the
+same manner as a traffic violation pursuant to 23 V.S.A. chapter 24.
+* * *
+§ 1007. FURNISHING TOBACCO TO PERSONS INDIVIDUALS UNDER
+21 YEARS OF AGE; PENALTIES; REPORT
+(a)(1) A person that An individual who sells or furnishes tobacco products,
+tobacco substitutes, or tobacco paraphernalia to a person an individual under
+21 years of age shall be subject to a civil penalty of not more than $100.00
+$150.00 for the first offense and not more than $500.00 for any subsequent
+offense. An action under this section shall be brought in the same manner as
+for a traffic violation pursuant to 23 V.S.A. chapter 24 and shall be brought
+within 24 hours of following the occurrence of the alleged violation.
+(2) In addition to the civil penalty imposed against an individual for a
+violation pursuant to subdivision (1) of this subsection, for any subsequent
+violation, the licensee may be subject to an administrative penalty and license
+suspension or revocation as set forth in subdivision (b)(2) of this section.
+(b)(1) The Division of Liquor Control shall conduct or contract for
+compliance tests of tobacco licensees as frequently and as comprehensively as
+necessary to ensure consistent statewide compliance with the prohibition on
+sales to persons individuals under 21 years of age of at least 90 percent for
+buyers who are between 17 and 20 years of age. An individual under 21 years
+of age participating in a compliance test shall not be in violation of section
+1005 of this title.
+(2) Any violation by a tobacco licensee of subsection 1003(a) of this
+title and or this section after a sale violation or during a compliance test
+conducted within six months of after a previous violation shall be considered a
+multiple violation and shall result in the following administrative penalties and
+minimum license suspension suspensions or license revocation, in addition to
+any other penalties available under this title. Minimum license suspensions for
+multiple violations shall be assessed as follows:
+(A) two violations second violation: suspension for two consecutive
+weekdays and an administrative penalty of not less than $1,000.00;
+(B) three violations 15-day third violation: suspension for 15
+consecutive days and an administrative penalty of not less than $2,000.00;
+(C) four violations 90-day fourth violation: suspension for 90
+consecutive days and an administrative penalty of not less than $3,500.00; and
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 51 of 59
+(D) five violations one-year suspension fifth violation: revocation of
+license and an administrative penalty of not less than $5,000.00.
+* * *
+§ 1009. CONTRABAND AND SEIZURE
+(a) Any cigarettes or other tobacco products or tobacco substitutes that
+have been sold, offered for sale, or possessed for sale in violation of section
+1003, 1010, or 1013 of this title,; 20 V.S.A. § 2757,; 32 V.S.A. § 7786,; or 33
+V.S.A. § 1919, and any commercial cigarette rolling machines possessed or
+utilized in violation of section 1011 of this title, shall be deemed contraband
+and shall be subject to seizure by the Commissioner, the Commissioner’s
+agents or employees, the Commissioner of Taxes, or any agent or employee of
+the Commissioner of Taxes, or by any law enforcement officer of this State
+when directed to do so by the either Commissioner or by the Department of
+Liquor and Lottery. All cigarettes or other tobacco products items seized
+under this subsection shall be destroyed at the expense of the violator, and
+disposition shall be in compliance with the Agency of Natural Resources,
+Hazardous Waste Management Regulations (CVR 12-032-001).
+(b)(1) Any person in possession of property considered contraband under
+this section shall be fined not more than $1,000.00 nor less than $500.00 per
+item.
+(2) Any vehicle, aircraft or watercraft, or other conveyance in which
+property considered contraband under this section is found may be seized and
+subject to forfeiture and condemnation pursuant to sections 570 and 572–574
+of this title.
+§ 1010. INTERNET SALES
+* * *
+(b)(1) No Except as provided in subdivision (2) of this subsection, no
+person shall cause cigarettes, roll-your-own tobacco, little cigars, snuff,
+tobacco substitutes, substances containing nicotine or otherwise intended for
+use with a tobacco substitute, or tobacco paraphernalia, ordered or purchased
+by mail or through a computer network, telephonic network, or other
+electronic network, to be shipped to anyone other than a licensed wholesale
+dealer or retail dealer in this State.
+(2) The prohibition set forth in subdivision (1) of this subsection shall
+not apply to a licensed wholesale dealer shipping directly to a licensed retail
+dealer in this State.
+(c) No person shall, with knowledge or reason to know of the violation,
+provide substantial assistance to a person in violation of this section.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 52 of 59
+(d) A violation of this section is punishable as follows:
+(1) A knowing or intentional violation of this section shall be punishable
+by imprisonment for not more than five years or a fine of not more than
+$5,000.00, or both.
+(2) In addition to or in lieu of any other civil or criminal remedy
+provided by law, upon a determination that a person has violated this section,
+the Attorney General may impose a civil penalty in an amount not to exceed
+$5,000.00 for each violation. For purposes of this subsection, each shipment
+or transport of cigarettes, roll-your-own tobacco, little cigars, or snuff,
+tobacco substitutes, substances containing nicotine or otherwise intended for
+use with a tobacco substitute, or tobacco paraphernalia shall constitute a
+separate violation.
+(e)(1) On or before January 15 of each year, the Department of Liquor and
+Lottery and the Office of the Attorney General shall each report to the House
+Committees on Commerce and Economic Development and on Human Services
+and the Senate Committees on Economic Development, Housing and General
+Affairs and on Health and Welfare regarding enforcement of Vermont laws
+relating to online sales of tobacco products, tobacco substitutes, and tobacco
+paraphernalia as set forth in this subsection.
+(2) The Department of Liquor and Lottery shall report at least the
+following information for the previous 12-month period:
+(A) the number of online compliance checks that the Department
+conducted;
+(B) the number of cases relating to online sales activity that the
+Department referred to the Office of the Attorney General for further action;
+and
+(C) the number of reports of unlawful online sales activity that the
+Department received from the public and the outcomes of those reports.
+(3) The Office of the Attorney General shall report at least the following
+information for the previous 12-month period:
+(A) the outcomes of cases related to online sales activity that were
+referred by the Department of Liquor and Lottery or any other governmental
+source;
+(B) the number of reports of unlawful online sales activity that the
+Office received from the public and the outcomes of those reports; and
+(C) the number and amounts of any monetary penalties imposed and
+other legal remedies executed by the Office related to online sales activity.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 53 of 59
+* * *
+§ 1013. DECEPTIVE TOBACCO PRODUCTS AND TOBACCO
+SUBSTITUTES PROHIBITED
+(a) No person shall market, promote, label, brand, advertise, distribute,
+possess for sale, offer for sale, or sell a tobacco product or tobacco substitute
+by:
+(1) imitating a product that is not a tobacco product or tobacco
+substitute, including:
+(A) a food or brand of food commonly marketed to minors, including
+candy, desserts, cereal, and beverages;
+(B) school supplies commonly used by minors, including erasers,
+highlighters, pens, and pencils;
+(C) portable devices, including smartphones, smartwatches, video
+games or video game consoles, and inhalers; and
+(D) a product based on or depicting a character, personality, or
+symbol known to appeal to minors, including a celebrity; a character in a
+comic book, movie, television show, or video game; or a mythical creature;
+(2) concealing the nature of the tobacco product or tobacco substitute;
+or
+(3) using terms for, describing, or depicting a product described in
+subdivision (1) of this subsection.
+(b)(1) In addition to or in lieu of any other civil or criminal remedy
+provided by law, upon a determination that a person has violated this section,
+the Attorney General may impose a civil penalty in an amount not to exceed
+$5,000.00 for each violation. For purposes of this subsection, each instance of
+marketing, promoting, labeling, branding, advertising, distributing, possessing
+for sale, offering for sale, or selling a deceptive tobacco product or tobacco
+substitute shall constitute a separate violation.
+(2) In any action brought pursuant to this section, the State shall be
+entitled to recover the costs of investigation, of expert witness fees, and of the
+action, and reasonable attorney’s fees.
+(3) A person who violates this section commits an unfair and deceptive
+trade practice in commerce in violation of 9 V.S.A. § 2453.
+(4) In addition to the penalties and remedies described in subdivisions
+(1)–(3) of this subsection, the Attorney General has the same authority as
+provided under 9 V.S.A. chapter 63, subchapter 1.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 54 of 59
+Sec. 2. 4 V.S.A. § 1102(b) is amended to read:
+(b) The Judicial Bureau shall have jurisdiction of the following matters:
+* * *
+(4) Violations of 7 V.S.A. § 1005, relating to possession and
+procurement of tobacco products misrepresentation of age by a person under
+21 years of age to purchase tobacco products.
+* * *
+Sec. 3. 7 V.S.A. § 210 is amended to read:
+§ 210. SUSPENSION OR REVOCATION OF LICENSE OR PERMIT;
+ADMINISTRATIVE PENALTY
+(a)(1) The control commissioners, as applicable, or the Board of Liquor
+and Lottery shall have power to suspend or revoke any permit or license
+granted pursuant to this title in the event the person holding the permit or
+license shall at any time during the term of the permit or license conduct its
+business in violation of this title, the conditions pursuant to which the permit
+or license was granted, or any rule prescribed by the Board of Liquor and
+Lottery.
+(2) No revocation shall be made until the permittee or licensee has been
+notified and given a hearing before the Board of Liquor and Lottery, unless the
+permittee or licensee has been convicted by a court of competent jurisdiction
+of violating the provisions of this title.
+(3) In the case of a suspension, the permittee or licensee shall be
+notified and given a hearing before the Board of Liquor and Lottery or the
+local control commissioners, whichever applies.
+(4) Any decision to suspend or revoke a license shall be issued in
+writing and set forth the reasons for the suspension or revocation and, if
+applicable, the duration of the suspension.
+(5) A tobacco license may not be suspended or revoked for a first-time
+violation. Suspension or revocation of a tobacco license shall not affect any
+liquor license held by the licensee.
+(b)(1) In addition to the authority to suspend or revoke any permit or
+license, the Board of Liquor and Lottery may impose an administrative penalty
+of up to $7,500.00 per violation against a holder of a wholesale dealer’s
+license or; a holder of a first-, second-, or third-class license; or a holder of
+any tobacco license for a violation of the conditions of the license or of this
+title or of any rule adopted by the Board.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 55 of 59
+(2) The administrative penalty may be imposed after a hearing before
+the Board or after the licensee has been convicted by a court of competent
+jurisdiction of violating the provisions of this title.
+(3) The Board may also impose an administrative penalty under this
+subsection against a holder of a tobacco license of up to $250.00 for a first
+violation and up to $2,500.00 for subsequent violations. [Repealed.]
+(4) For the first violation during a tobacco or alcohol compliance check
+during any three-year period, a licensee or permittee shall receive a warning
+and be required to attend a Division server training class. [Repealed.]
+* * *
+Sec. 4. 32 V.S.A. § 3102 is amended to read:
+§ 3102. CONFIDENTIALITY OF TAX RECORDS
+* * *
+(e) The Commissioner may, in the Commissioner’s discretion and subject to
+such conditions and requirements as the Commissioner may provide, including
+any confidentiality requirements of the Internal Revenue Service, disclose a
+return or return information:
+* * *
+(25) To the Department of Liquor and Lottery, if such return or
+information is for purposes of investigating potential violations of and
+enforcing 7 V.S.A. chapter 40.
+* * *
+Sec. 5. 32 V.S.A. § 7702 is amended to read:
+§ 7702. DEFINITIONS
+As used in this chapter unless the context otherwise requires:
+(1) “Cigarette” means any product that contains nicotine, is intended to
+be burned or heated under ordinary conditions of use, and consists of or
+contains:
+(A) any roll of tobacco wrapped in paper or in any substance not
+containing tobacco; and
+(B) tobacco, in any form, that is functional in the product, which,
+because of its appearance, the type of tobacco used in the filler, or its
+packaging and labeling, is likely to be offered to, or purchased by, consumers
+as a cigarette; or
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 56 of 59
+(C) any roll of tobacco wrapped in substance containing tobacco
+that, because of its appearance, the type of tobacco used in the filler, or its
+packaging and labeling, is likely to be offered to, or purchased by, consumers
+as a cigarette described in subdivision (A) of this subdivision (1).
+* * *
+(5) “Licensed wholesale dealer” shall mean means a wholesale dealer
+licensed under the provisions of this chapter 7 V.S.A. § 1002b.
+* * *
+(15)(A) “Other tobacco products” means any product manufactured
+from, derived from, or containing tobacco or nicotine, whether natural or
+synthetic, including nicotine alkaloids and nicotine analogs, that is intended
+for human consumption by smoking, chewing, or in any other manner,
+including except as otherwise specified in subdivision (B) of this subdivision
+(15).
+(B)(i) The term includes products sold as a tobacco substitute, as
+defined in 7 V.S.A. § 1001(8), and including any liquids, whether nicotine
+based or not, or and delivery devices sold separately for use with a tobacco
+substitute, but shall not including nicotine pouches.
+(ii) The term does not include cigarettes, little cigars, roll-your-
+own tobacco, snuff, new smokeless tobacco as defined in this section, or
+cannabis products as defined in 7 V.S.A. § 831.
+(16) “Wholesale dealer” means a person who imports or causes to be
+imported into the State any cigarettes, little cigars, roll-your-own tobacco,
+snuff, new smokeless tobacco, or other tobacco product for sale or who sells or
+furnishes any of these products to other wholesale dealers or retail dealers for
+the purpose of resale, but not by small quantity or parcel to consumers thereof
+of these products.
+(17) “Wholesale dealer’s license” shall mean means the license granted
+under the provisions of this chapter 7 V.S.A. § 1002b to a wholesale dealer for
+a wholesale outlet.
+* * *
+(20) “New smokeless tobacco” means any tobacco product
+manufactured from, derived from, or containing tobacco or nicotine, whether
+natural or synthetic, including nicotine alkaloids and nicotine analogs, that is
+not intended to be smoked, has a moisture content of less than 45 percent, or is
+offered in individual single-dose tablets or other discrete single-use units, and
+includes nicotine pouches.
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 57 of 59
+* * *
+Sec. 6. 32 V.S.A. § 7776 is amended to read:
+§ 7776. COLLECTION OF CIGARETTE TAX THROUGH
+NONRESIDENT LICENSED WHOLESALE DEALERS
+* * *
+(d) Any person complying with the provisions of this section shall
+thereupon become a licensed wholesale dealer within the meaning of 7 V.S.A.
+chapter 40 and this chapter and shall be subject to all provisions of the
+chapter both chapters applicable to wholesale dealers, including the
+furnishing of a bond specified in subchapter 2 section 7703 of this chapter.
+Sec. 7. 32 V.S.A. § 7821 is amended to read:
+§ 7821. CRIMINAL PENALTIES
+Any person who shall fail, neglect, or refuse to comply with or shall violate
+the provisions of this chapter relating to the tax on tobacco products or the
+rules adopted by the Commissioner under this chapter relating to such tax
+shall be guilty of a misdemeanor and upon conviction for a first offense shall
+be sentenced to pay a fine of not more than $250.00 or to be imprisoned for
+not more than 60 days, or both, such fine and imprisonment in the discretion of
+the court, and for a second or subsequent offense shall be sentenced to pay a
+fine of not less than $250.00 nor more than $500.00 or be imprisoned for not
+more than six months, or both, such fine and imprisonment in the discretion of
+the court. This section shall not apply to violations of sections 7731–7734 and
+section 7776 of this title.
+Sec. 8. REDESIGNATION
+32 V.S.A. § 7737 (licensed wholesale dealers; bonding) is redesignated as
+32 V.S.A. § 7703.
+Sec. 9. REPEALS
+32 V.S.A. §§ 7731–7736 (licensure of wholesale dealers) are repealed.
+Sec. 10. TOBACCO ENFORCEMENT CAPACITY; REPORT
+(a) The General Assembly finds that the regulation of tobacco products,
+tobacco substitutes, and the deceptive devices prohibited by 7 V.S.A. § 1013, as
+added by this act, is a significant public health priority, especially with respect
+to protecting individuals under 21 years of age from being targeted or supplied
+with these products.
+(b) On or before January 15, 2027, the Department of Liquor and Lottery,
+in consultation with the Office of the Attorney General, shall evaluate and
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 58 of 59
+report to the House Committees on Human Services and on Commerce and
+Economic Development and the Senate Committees on Health and Welfare and
+on Economic Development, Housing and General Affairs regarding the
+following:
+(1) the number of compliance checks that the Department conducted in
+fiscal years 2025 and 2026 with respect to tobacco products and tobacco
+substitutes;
+(2) whether the Department’s current enforcement staffing levels are
+sufficient to meet the compliance targets established in 7 V.S.A. § 1007(b)(1)
+and to adequately enforce 7 V.S.A. chapter 40 as amended by this act,
+including the prohibition on deceptive devices in 7 V.S.A. § 1013, the
+restrictions on internet sales in 7 V.S.A. § 1010, and the expanded wholesale
+licensure requirements;
+(3) any unmet enforcement needs identified as a result of the expanded
+scope of regulation under this act; and
+(4) whether additional staffing resources at the Department of Liquor
+and Lottery or the Office of the Attorney General, or both, would materially
+improve compliance with and enforcement of Vermont’s tobacco laws.
+Sec. 11. TAXATION OF TOBACCO SUBSTITUTES; TAX STAMPS;
+REPORT
+(a) The Office of the Attorney General, in collaboration with the
+Departments of Taxes and of Liquor and Lottery and in consultation with
+wholesale dealers and other interested stakeholders, shall:
+(1) identify efficient and effective processes by which to impose taxes on
+tobacco products and tobacco substitutes, as defined in 7 V.S.A. § 1001, as
+amended by this act, including opportunities to base taxation on a product’s
+nicotine concentration or on the volume of a product’s nicotine tank, or both;
+and
+(2) evaluate the continued use of tax stamps in this State as evidence of
+payment of the excise tax on tobacco products and tobacco substitutes, as
+defined in 7 V.S.A. § 1001, as amended by this act; explore the potential to
+transition to a more modern process, such as quick-response (QR) codes or
+other digitized systems; and consider the advantages and disadvantages of
+using alternative approaches for certifying tax compliance.
+(b) On or before January 15, 2027, the Office of the Attorney General shall
+provide its findings and recommendations for the items set forth in subsection
+(a) of this section, including proposed next steps and legislative needs, to the
+House Committees on Commerce and Economic Development, on Human
+
+BILLAS INTRODUCED AND PASSED BY SENATE AND HOUSE S.198
+2026 Page 59 of 59
+Services, and on Ways and Means and the Senate Committees on Economic
+Development, Housing and General Affairs; on Finance; and on Health and
+Welfare.
+Sec. 12. EFFECTIVE DATES
+This act shall take effect on July 1, 2026, except that:
+(1) in Sec. 1 (7 V.S.A. chapter 40), section 1002b (wholesale dealers;
+license required) shall take effect on July 1, 2027;
+(2) in Sec. 5 (32 V.S.A. § 7702), the amendments to subdivisions (5)
+(definition of “licensed wholesale dealer”) and (17) (definition of “wholesale
+dealer’s license”) shall take effect on July 1, 2027; and
+(3) Secs. 6 (32 V.S.A. § 7776), 7 (32 V.S.A. § 7821), 8 (redesignation), and
+9 (repeals) shall take effect on July 1, 2027.

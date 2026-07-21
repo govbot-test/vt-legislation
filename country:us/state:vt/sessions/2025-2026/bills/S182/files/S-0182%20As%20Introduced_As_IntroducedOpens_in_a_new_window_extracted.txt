@@ -1,0 +1,368 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED S.182
+2026 Page 1 of 15
+1 S.182
+2 Introduced by Senator Williams
+3 Referred to Committee on
+4 Date:
+5 Subject: Criminal procedures; animal cruelty; forfeiture
+6 Statement of purpose of bill as introduced: This bill proposes to expedite the
+7 procedures for forfeiture of animals that are subject to seizure as a result of
+8 animal cruelty violations and to expand the use of the Animal Welfare Fund to
+9 provide reimbursement for the costs of caring for seized animals.
+10 An act relating to animal cruelty violation forfeitures and the Animal
+11 Welfare Fund
+12 It is hereby enacted by the General Assembly of the State of Vermont:
+13 Sec. 1. 13 V.S.A. § 353 is amended to read:
+14 § 353. DEGREE OF OFFENSE; SENTENCING UPON CONVICTION
+15 (a) Penalties.
+16 (1) Except as provided in subdivision (3), (4), or (5) of this subsection,
+17 cruelty to animals under section 352 of this title shall be punishable by a
+18 sentence of imprisonment of not more than one year or a fine of not more than
+19 $2,000.00, or both. Second and subsequent convictions shall be punishable by
+VT LEG #385916 v.1
+
+BILL AS INTRODUCED S.182
+2026 Page 2 of 15
+1 a sentence of imprisonment of not more than two years or a fine of not more
+2 than $5,000.00, or both.
+3 (2) Aggravated cruelty under section 352a of this title shall be
+4 punishable by a sentence of imprisonment of not more than five years or a fine
+5 of not more than $5,000.00, or both. Second and subsequent offenses shall be
+6 punishable by a sentence of imprisonment of not more than ten 10 years or a
+7 fine of not more than $7,500.00, or both.
+8 (3) An offense committed under subdivision 352(5) or (6) of this title
+9 shall be punishable by a sentence of imprisonment of not more than five years
+10 or a fine of not more than $5,000.00, or both.
+11 (4)(A) Except as provided in subdivision (B) of this subdivision (4), a
+12 person found in violation of subdivision 352(3), (4), or (9) of this title pursuant
+13 to this subdivision shall be imprisoned not more than one year or fined not
+14 more than $2,000.00, or both. Second and subsequent convictions shall be
+15 punishable by a sentence of imprisonment of not more than two years or a fine
+16 of not more than $5,000.00, or both.
+17 (B) In lieu of a criminal citation or arrest, a law enforcement officer
+18 may issue a civil citation to a person who violates subdivision 352(3), (4), or
+19 (9) of this title if the person has not been previously adjudicated in violation of
+20 this chapter. A person adjudicated in violation of subdivision 352(3), (4), or
+21 (9) of this title pursuant to this subdivision shall be assessed a civil penalty of
+VT LEG #385916 v.1
+
+BILL AS INTRODUCED S.182
+2026 Page 3 of 15
+1 not more than $500.00. At any time prior to the person admitting the violation
+2 and paying the assessed penalty, the State’s Attorney may withdraw the
+3 complaint filed with the Judicial Bureau and file an information charging a
+4 violation of subdivision 352(3), (4), or (9) of this title in the Criminal Division
+5 of the Superior Court.
+6 (C) Nothing in this subdivision shall be construed to require that a
+7 civil citation be issued prior to a criminal charge of violating subdivision
+8 352(3), (4), or (9) of this title.
+9 (5) A person who violates subdivision 352(1) of this title by
+10 intentionally killing or attempting to kill an animal belonging to another or
+11 subdivision 352(2) of this title by torturing, administering poison to, or cruelly
+12 harming or mutilating an animal shall be imprisoned not more than two years
+13 or fined not more than $5,000.00, or both.
+14 * * *
+15 (c) Upon an order of forfeiture of an animal under this section or section
+16 354 of this title, the court shall order custody of the animal remanded to a
+17 humane society or other individual deemed appropriate by the court, for further
+18 disposition in accordance with accepted practices for humane treatment of
+19 animals. A transfer of rights under this section constitutes a transfer of
+20 ownership and shall not constitute or authorize any limitation upon the right of
+VT LEG #385916 v.1
+
+BILL AS INTRODUCED S.182
+2026 Page 4 of 15
+1 the humane society, individual, or other entity, to whom rights are granted to
+2 dispose of the animal.
+3 (d) A person convicted of violating a provision of this chapter shall be
+4 assessed a surcharge of $50.00, which shall be added to any fine or surcharge
+5 imposed by the court pursuant to section 7282 of this title. The court shall
+6 collect and transfer the surcharge assessed under this subsection to be credited
+7 to the Animal Welfare Fund established pursuant to 20 V.S.A. § 3203. The
+8 collection procedures described in section 5240 of this title shall be utilized in
+9 the collection of this surcharge.
+10 Sec. 2. 13 V.S.A. § 354 is amended to read:
+11 § 354. ENFORCEMENT; POSSESSION OF ABUSED ANIMAL;
+12 SEARCHES AND SEIZURES; FORFEITURE
+13 (a) The Secretary of Agriculture, Food and Markets shall be consulted prior
+14 to any enforcement action brought pursuant to this chapter that involves
+15 livestock and poultry. Law enforcement may consult with the Secretary in
+16 person or by electronic means, and the Secretary shall assist law enforcement
+17 in determining whether the practice or animal condition, or both, represent
+18 acceptable livestock or poultry husbandry practices.
+19 (b) Any humane officer as defined in section 351 of this title may enforce
+20 this chapter. As part of an enforcement action, a humane officer may seize an
+21 animal being cruelly treated in violation of this chapter.
+VT LEG #385916 v.1
+
+BILL AS INTRODUCED S.182
+2026 Page 5 of 15
+1 (1) Voluntary surrender. A humane officer may accept animals
+2 voluntarily surrendered by the owner anytime during the cruelty investigation.
+3 The humane officer shall have a surrendered animal examined and assessed
+4 within 72 hours by a veterinarian licensed to practice in the State of Vermont.
+5 (2) Search and seizure using a search warrant. A humane officer having
+6 probable cause to believe an animal is being subjected to cruel treatment in
+7 violation of this subchapter may apply for a search warrant pursuant to the
+8 Vermont Rules of Criminal Procedure to authorize the officer to enter the
+9 premises where the animal is kept and seize the animal. The application and
+10 affidavit for the search warrant shall be reviewed and authorized by an attorney
+11 for the State when sought by an officer other than an enforcement officer
+12 defined in 23 V.S.A. § 4(11). A veterinarian licensed to practice in Vermont
+13 must accompany the humane officer during the execution of the search
+14 warrant.
+15 (3) Seizure without a search warrant. If the humane officer witnesses a
+16 situation in which the humane officer determines that an animal’s life is in
+17 jeopardy and immediate action is required to protect the animal’s health or
+18 safety, the officer may seize the animal without a warrant. The humane officer
+19 shall immediately take an animal seized under this subdivision to a licensed
+20 veterinarian for medical attention to stabilize the animal’s condition and to
+21 assess the health of the animal.
+VT LEG #385916 v.1
+
+BILL AS INTRODUCED S.182
+2026 Page 6 of 15
+1 (c) A humane officer shall provide suitable care at a reasonable cost for an
+2 animal seized under this section, and have a lien on the animal for all expenses
+3 incurred. A humane officer may arrange for the euthanasia of a severely
+4 injured, diseased, or suffering animal upon the recommendation of a licensed
+5 veterinarian. A humane officer may arrange for euthanasia of an animal seized
+6 under this section when the owner is unwilling or unable to provide necessary
+7 medical attention required while the animal is in custodial care or when the
+8 animal cannot be safely confined under standard housing conditions. An
+9 animal not destroyed by euthanasia shall be kept in custodial care and provided
+10 with necessary medical care until final disposition of the criminal charges
+11 except as provided in subsections (d) through (h) of this section. The custodial
+12 caregiver shall be responsible for maintaining the records applicable to all
+13 animals seized, including identification, residence, location, medical treatment,
+14 and disposition of the animals.
+15 (d) If an animal is seized under this section, the State may institute a civil
+16 proceeding for forfeiture of the animal in the territorial unit of the Criminal
+17 Division of the Superior Court where the offense is alleged to have occurred.
+18 The proceeding shall be instituted by a motion for forfeiture if a criminal
+19 charge has been filed or a petition for forfeiture if no criminal charge has been
+20 filed, which shall be filed with the court and served upon the animal’s owner.
+21 The civil forfeiture proceeding is intended to run independently from any
+VT LEG #385916 v.1
+
+BILL AS INTRODUCED S.182
+2026 Page 7 of 15
+1 criminal prosecution and shall not be delayed pending disposition of any
+2 criminal proceeding.
+3 (e)(1) A preliminary hearing shall be held within 21 days of institution of
+4 the civil forfeiture proceeding. If the defendant requests a hearing on the
+5 merits, the court shall schedule a final hearing on the merits to be held within
+6 21 days of the date of the preliminary hearing. Time limits under this
+7 subsection shall not be construed as jurisdictional.
+8 (2) If the defendant fails to respond to the notice for preliminary hearing,
+9 the court shall enter a default judgment ordering the immediate forfeiture of
+10 the animal in accordance with the provisions of subsection 353(c) of this title.
+11 A motion to reopen a default judgment shall be filed in writing with the court
+12 no later than 30 days after entry of a default judgment. A default judgment
+13 shall not be reopened unless good cause is shown.
+14 (f)(1) At the hearing on the motion for forfeiture, the State shall have the
+15 burden of establishing by clear and convincing evidence that the animal was
+16 subjected to cruelty, neglect, or abandonment in violation of section 352 or
+17 352a of this title. The court shall make findings of fact and conclusions of law
+18 and shall issue a final order. If the State meets its burden of proof, the court
+19 shall order the immediate forfeiture of the animal in accordance with the
+20 provisions of subsection 353(c) of this title.
+VT LEG #385916 v.1
+
+BILL AS INTRODUCED S.182
+2026 Page 8 of 15
+1 (1) Unless a person claiming a legal interest in the animal requests a
+2 hearing pursuant to subdivision (4)(A) of this subsection, title to an animal
+3 seized pursuant to section 353 of this title shall be forfeited pursuant to
+4 subsection 353(c) of this title 20 days after seizure if the procedures of this
+5 subsection are followed. The computation of the 20-day period shall include
+6 the day on which the animal is seized.
+7 (2) A person claiming a legal interest in the seized animal at the time of
+8 the seizure who requests a hearing pursuant to subdivision (4)(A) of this
+9 subsection shall post security in an amount typically needed to cover food for
+10 that species of animal for an initial 40-day period. The amount of the security
+11 shall be set pursuant to an administrative schedule published by the Director of
+12 Animal Welfare. The security shall be posted within 10 days following the
+13 seizure, and the computation of the 10-day period shall include the day on
+14 which the animal is seized. The court shall collect and transfer the security to
+15 the Animal Welfare Fund established pursuant to 20 V.S.A. § 3203.
+16 (3) The humane officer who seizes an animal pursuant to this section
+17 shall give notice of this section at the time of the seizure by delivering a copy
+18 of it to a person who is present and claims a legal interest in the animal or by
+19 posting a copy of it at the place where the animal was seized. Any person who
+20 is known to claim a legal interest in the animal who is not present shall be
+VT LEG #385916 v.1
+
+BILL AS INTRODUCED S.182
+2026 Page 9 of 15
+1 provided with the notice by personal delivery or by certified mail as soon as
+2 reasonably possible after the person is identified. The notice shall include:
+3 (A) a description of the animal seized; the authority and purpose for
+4 the seizure; the time, place, and circumstances under which the animal was
+5 seized; and the contact information for the authority with legal custody of the
+6 animal;
+7 (B) a statement that any person claiming a legal interest in the animal
+8 at the time of seizure may post security and request a hearing concerning the
+9 seizure and that failure to do so within 10 days following the date of the notice
+10 will result in forfeiture of title and disposition of the animal;
+11 (C) a statement of the amount due as security and how to pay it; and
+12 (D) instructions for accessing the form that may be used to request a
+13 hearing under this subsection (d).
+14 (4)(A) The court shall hold a due process hearing if a request is made
+15 within 10 days after the seizure by a person claiming a legal interest in the
+16 animal at the time of the seizure. The hearing shall be held within 30 days
+17 after the request in the territorial unit of the Criminal Division of the Superior
+18 Court where the offense is alleged to have occurred.
+19 (B) The State shall have the burden of establishing by clear and
+20 convincing evidence that the animal was subjected to cruelty, neglect, or
+21 abandonment in violation of section 352 or 352a of this title. The court shall
+VT LEG #385916 v.1
+
+BILL AS INTRODUCED S.182
+2026 Page 10 of 15
+1 make findings of fact and conclusions of law and shall issue a final order
+2 within five business days after the hearing. The findings shall include the total
+3 amount of all costs incurred by the custodial caregiver. If the State meets its
+4 burden of proof, the court shall order the immediate forfeiture of the animal in
+5 accordance with the provisions of subsection 353(c) of this title.
+6 (C) Notwithstanding subdivision (B) of this subdivision (d)(4) the
+7 court may order the animal returned to the petitioner if the court finds by a
+8 preponderance of the evidence that the petitioner:
+9 (i) is not the defendant in a cruelty case involving the animal;
+10 (ii) did not participate in or expressly or implicitly consent to the
+11 alleged cruel treatment of the animal;
+12 (iii) did not have any express or implied knowledge that the
+13 defendant was likely to treat the animal cruelly; and
+14 (iv) will provide adequate care to the animal if it is returned,
+15 including any immediately necessary veterinary care or follow-up care needed
+16 in connection with the reason for seizure.
+17 (2)(D) Affidavits of law enforcement officers, humane officers,
+18 animal control officers, veterinarians, or expert witnesses of either party shall
+19 be admissible evidence that may be rebutted by witnesses called by either
+20 party. The affidavits shall be delivered to the other party at least five business
+21 days prior to the hearing. Upon request of the other party or the court, the
+VT LEG #385916 v.1
+
+BILL AS INTRODUCED S.182
+2026 Page 11 of 15
+1 party offering an affidavit shall make the affiant available by telephone at the
+2 hearing. The court may allow any witness to testify by telephone in lieu of a
+3 personal appearance and shall adopt rules with respect to such testimony.
+4 (3)(E) No testimony or other information presented by the defendant
+5 in connection with a forfeiture proceeding under this section or any
+6 information directly or indirectly derived from such testimony or other
+7 information may be used for any purpose, including impeachment and cross-
+8 examination, against the defendant in any criminal case, except a prosecution
+9 for perjury or giving a false statement.
+10 (e) If an order of forfeiture is not entered after the hearing, the animal shall
+11 be returned to the person claiming an interest in the animal upon payment to
+12 the custodial caretaker of all actual costs of care and keeping during the period
+13 of impound, including veterinary care, provided that the payment of costs shall
+14 not be required if the court finds that there was no reasonable basis for the
+15 seizure. If payment of the costs required by this subsection is not made within
+16 15 days after the final order, the custodial caretaker’s costs shall be reimbursed
+17 from the Animal Welfare Fund established pursuant to 20 V.S.A. § 3203.
+18 (g)(1)(f) If the defendant is convicted of criminal charges under this chapter
+19 or if an order of forfeiture is entered against an owner under this section, the
+20 security posted pursuant to this section shall be applied to the actual costs
+21 incurred by the custodial caretaker in caring and keeping the animal through
+VT LEG #385916 v.1
+
+BILL AS INTRODUCED S.182
+2026 Page 12 of 15
+1 the date of forfeiture, including food, boarding, and the cost of any veterinary
+2 services. Any excess shall be returned to the person who posted the security.
+3 The defendant or owner shall be required to repay all reasonable costs incurred
+4 by the custodial caregiver for caring for the animal, including veterinary
+5 expenses. The Restitution Unit within the Center for Crime Victim Services is
+6 authorized to collect the funds owed by the defendant or owner on behalf of
+7 the custodial caregiver or a governmental agency that has contracted or paid
+8 for custodial care in the same manner as restitution is collected pursuant to
+9 section 7043 of this title. The restitution order shall include the information
+10 required under subdivision 7043(e)(2)(A) of this title. The court shall make
+11 findings with respect to the total amount of all costs incurred by the custodial
+12 caregiver.
+13 (2)(A) If the defendant is acquitted of criminal charges under this chapter
+14 and a civil forfeiture proceeding under this section is not pending, an animal
+15 that has been taken into custodial care shall be returned to the defendant unless
+16 the State institutes a civil forfeiture proceeding under this section within seven
+17 business days of the acquittal.
+18 (B) If the court rules in favor of the owner in a civil forfeiture
+19 proceeding under this section and criminal charges against the owner under
+20 this chapter are not pending, an animal that has been taken into custodial care
+VT LEG #385916 v.1
+
+BILL AS INTRODUCED S.182
+2026 Page 13 of 15
+1 shall be returned to the owner unless the State files criminal charges under this
+2 section within seven business days after the entry of final judgment.
+3 (C) If an animal is returned to a defendant or owner under this
+4 subdivision, the defendant or owner shall not be responsible for the costs of
+5 caring for the animal.
+6 (h)(g)(1) A forfeiture order issued under this section may be appealed as a
+7 matter of right to the Supreme Court within 10 days after the appellant posts
+8 security pursuant to subdivision (2) of this subsection. The order shall not be
+9 stayed pending appeal.
+10 (2) The appellant shall post security in an amount typically needed to
+11 cover costs and keeping for that species of animal from the time of impound
+12 through the date of filing and an amount equal to the estimated cost of care and
+13 keeping of the animal for a subsequent 30-day period, with an additional 30-
+14 day cost and keeping allotment due every 30 days thereafter until the owner
+15 relinquishes the animal or until final disposition of the case. The amount of the
+16 security shall be set pursuant to an administrative schedule published by the
+17 Director of Animal Welfare. The court shall collect and transfer the security to
+18 the Animal Welfare Fund established pursuant to 20 V.S.A. § 3203.
+19 (3) An appeal brought pursuant to this section shall be heard on an
+20 expedited timeline, and the final decision shall be issued within five business
+21 days after the hearing, if any.
+VT LEG #385916 v.1
+
+BILL AS INTRODUCED S.182
+2026 Page 14 of 15
+1 (4) Upon payment of the security required by this subsection, the
+2 custodial caretaker may immediately begin to draw from those funds for
+3 reimbursement of the actual costs incurred in caring for the animal from the
+4 date of impoundment. Upon final disposition of the case, funds remaining
+5 after payment of actual costs shall be refunded to the owner.
+6 (i)(h) The provisions of this section are in addition to and not in lieu of the
+7 provisions of section 353 of this title.
+8 (j)(i) It is unlawful for a person to interfere with a humane officer, the
+9 Director of Animal Welfare, or the Secretary of Agriculture, Food and Markets
+10 engaged in official duties under this chapter. A person who violates this
+11 subsection shall be prosecuted under section 3001 of this title.
+12 (j)(1) The time limits established in this section are not jurisdictional and
+13 may be extended by the court for good cause shown.
+14 (2) The security required by this section may be reduced or waived by
+15 the court on the basis of financial hardship to the defendant.
+16 Sec. 3. 20 V.S.A. § 3203 is amended to read:
+17 § 3203. ANIMAL WELFARE FUND
+18 (a) The Animal Welfare Fund is established within the Department of
+19 Public Safety to fund the expenses incurred by the Division of Animal Welfare
+20 in implementing the requirements of this chapter and to provide reimbursement
+VT LEG #385916 v.1
+
+BILL AS INTRODUCED S.182
+2026 Page 15 of 15
+1 for the costs of caring for animals seized pursuant to 13 V.S.A. chapter 8. The
+2 Director of Animal Welfare shall administer the Fund.
+3 (b) The Fund shall consist of:
+4 (1) 67 percent of the revenue collected from the surcharge assessed
+5 under subsection 3581(f) of this title;
+6 (2) fees imposed by the court clerk and designated for deposit into the
+7 Fund pursuant to 13 V.S.A. § 353(d);
+8 (3) restitution as ordered by the court pursuant to 13 V.S.A. § 354;
+9 (4) security posted by defendants pursuant to 13 V.S.A. § 354; and
+10 (2)(5) appropriations made by the General Assembly.
+11 (c) All balances in the Fund at the end of the fiscal year shall be carried
+12 forward. Interest earned by the Fund shall remain in the Fund.
+13 Sec. 4. EFFECTIVE DATE
+14 This act shall take effect on July 1, 2026.
+VT LEG #385916 v.1

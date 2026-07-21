@@ -1,0 +1,72 @@
+Title: 
+Official Title: 
+Source: versions - As Passed By the Senate (UnofficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+AS PASSED BY SENATE S.220
+2026 Page 1 of 3
+1 S.220
+2 An act relating to the excess spending threshold
+3 It is hereby enacted by the General Assembly of the State of Vermont:
+4 Sec. 1. 16 V.S.A. § 4001 is amended to read:
+5 § 4001. DEFINITIONS
+6 As used in this chapter:
+7 * * *
+8 (6) “Education spending” means the amount of the school district
+9 budget, any assessment for a joint contract school, career technical center
+10 payments made on behalf of the district under subsection 1561(b) of this title,
+11 and any amount added to pay a deficit pursuant to 24 V.S.A. § 1523(b) that is
+12 paid for by the school district, but excluding any portion of the school budget
+13 paid for from any other sources such as endowments, parental fundraising,
+14 federal funds, nongovernmental grants, or other State funds such as special
+15 education funds paid under chapter 101 of this title.
+16 (A) [Repealed.]
+17 (B) For all bonds approved by voters prior to July 1, 2024, voter-
+18 approved Voter-approved bond payments toward principal and interest shall
+19 not be included in “education spending” for purposes of calculating excess
+20 spending pursuant to 32 V.S.A. § 5401(12).
+21 * * *
+VT LEG #388283 v.1
+
+AS PASSED BY SENATE S.220
+2026 Page 2 of 3
+1 Sec. 2. 32 V.S.A. § 5401 is amended to read:
+2 § 5401. DEFINITIONS
+3 As used in this chapter:
+4 * * *
+5 (12) “Excess spending” means:
+6 (A) The per pupil spending amount of the district’s education
+7 spending, as defined in 16 V.S.A. § 4001(6), plus any amount required to be
+8 added from a capital construction reserve fund under 24 V.S.A. § 2804(b).
+9 (B) In excess of 118 112 percent of the statewide average district per
+10 pupil education spending increased by inflation, as determined by the Secretary
+11 of Education on or before November 15 of each year based on the passed
+12 budgets to date. As used in this subdivision (B), “increased by inflation”
+13 means increasing the statewide average district per pupil education spending
+14 for fiscal year 2025 by the most recent New England Economic Project
+15 cumulative price index, as of November 15, for state and local government
+16 purchases of goods and services, from fiscal year 2025 through the fiscal year
+17 for which the amount is being determined.
+18 (C) A school district’s excess spending shall be zero if any of the
+19 following conditions is met:
+20 (i) the district’s education spending is not greater than the
+21 district’s educating spending for the preceding school year;
+VT LEG #388283 v.1
+
+AS PASSED BY SENATE S.220
+2026 Page 3 of 3
+1 (ii) the district’s per pupil education spending is not greater than
+2 the district’s per pupil education spending for the preceding school year; or
+3 (iii) the Secretary of Education, with the advice of three business
+4 managers and three superintendents selected by the Secretary, determines that
+5 the increase in the district’s per pupil education spending above the excess
+6 spending threshold was for good cause or beyond the district’s control, such as
+7 due to emergency capital expenditures or substantial loss of pupils or offsetting
+8 revenues.
+9 * * *
+10 Sec. 3. EFFECTIVE DATE
+11 This act shall take effect on July 1, 2026.
+VT LEG #388283 v.1

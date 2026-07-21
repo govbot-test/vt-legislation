@@ -1,0 +1,70 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.706
+2026 Page 1 of 3
+1 H.706
+2 Introduced by Representative Priestley of Bradford
+3 Referred to Committee on
+4 Date:
+5 Subject: Commerce and trade; protection of personal information; data privacy
+6 Statement of purpose of bill as introduced: This bill proposes to require a
+7 business that develops or maintains an internet browser to provide
+8 functionality within the browser that allows a consumer to send a preference
+9 that the consumer wishes to opt out of the sale of the consumer’s personal data.
+10 An act relating to internet browsers and data selling
+11 It is hereby enacted by the General Assembly of the State of Vermont:
+12 Sec. 1. 9 V.S.A. chapter 62 is amended to read:
+13 CHAPTER 62. PROTECTION OF PERSONAL INFORMATION
+14 Subchapter 1. General Provisions
+15 * * *
+16 § 2432. INTERNET BROWSER OPT-OUT
+17 (a) As used in this section:
+18 (1) “Browser” means an interactive software application that is used by
+19 consumers to locate, access, and navigate websites.
+VT LEG #386289 v.1
+
+BILL AS INTRODUCED H.706
+2026 Page 2 of 3
+1 (2) “Opt-out preference signal” means a signal that complies with this
+2 section and that communicates the consumer’s choice to opt out of the sale of
+3 the consumer’s personal data.
+4 (3) “Personal data” means any information, including derived data and
+5 unique identifiers, that is linked or reasonably linkable, alone or in
+6 combination with other information, to an identified or identifiable individual
+7 or to a device that identifies, is linked to, or is reasonably linkable to one or
+8 more identified or identifiable individuals in a household.
+9 (b) Prohibition.
+10 (1) A business shall not develop or maintain a browser that does not
+11 include functionality configurable by a consumer that enables the browser to
+12 send an opt-out preference signal to the websites with which the consumer
+13 interacts through the browser.
+14 (2) The functionality required by subdivision (1) of this subsection shall
+15 be easy for a reasonable person to locate and configure.
+16 (c) Disclosure. A business that develops or maintains a browser shall make
+17 clear to a consumer in its public disclosures how the opt-out preference signal
+18 works and the intended effect of the opt-out preference signal.
+VT LEG #386289 v.1
+
+BILL AS INTRODUCED H.706
+2026 Page 3 of 3
+1 (d) Enforcement and rulemaking.
+2 (1) A business that violates this section or rules adopted pursuant to this
+3 section commits an unfair and deceptive act in commerce in violation of
+4 section 2453 of this title.
+5 (2) The Attorney General shall have the same authority under this
+6 section to make rules, conduct civil investigations, bring civil actions, and
+7 enter into assurances of discontinuance as provided under chapter 63 of this
+8 title.
+9 (e) Safe harbor. A business that develops or maintains a browser that
+10 includes a functionality that enables the browser to send an opt-out preference
+11 signal pursuant to this section shall not be liable for a violation of this section
+12 by another business that receives the opt-out preference signal.
+13 Sec. 2. EFFECTIVE DATE
+14 This act shall take effect on January 1, 2027.
+VT LEG #386289 v.1

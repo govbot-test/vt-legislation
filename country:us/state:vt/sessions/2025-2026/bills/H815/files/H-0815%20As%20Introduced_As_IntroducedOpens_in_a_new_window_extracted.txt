@@ -1,0 +1,224 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.815
+2026 Page 1 of 9
+1 H.815
+2 Introduced by Representative Berbeco of Winooski
+3 Referred to Committee on
+4 Date:
+5 Subject: Health; health insurance; Medicaid; mental health professionals;
+6 Department of Financial Regulation; Department of Vermont Health
+7 Access
+8 Statement of purpose of bill as introduced: This bill proposes to limit the
+9 extent to which health insurers may reduce reimbursement rates for mental
+10 health services. It would also require health insurers and Vermont Medicaid to
+11 provide notice and stakeholder engagement opportunities prior to
+12 implementing any change to reimbursement methodology, billing policy,
+13 coding alignment, supervised billing requirements, or service authorization
+14 requirements affecting mental health, substance use disorder, or intellectual or
+15 developmental disability services.
+16 An act relating to health insurance and Medicaid reimbursement for certain
+17 health care services
+VT LEG #386147 v.1
+
+BILL AS INTRODUCED H.815
+2026 Page 2 of 9
+1 It is hereby enacted by the General Assembly of the State of Vermont:
+2 Sec. 1. 8 V.S.A. § 4072 is amended to read:
+3 § 4072. MENTAL HEALTH AND SUBSTANCE USE DISORDER
+4 SERVICES
+5 * * *
+6 (c) A health insurance plan shall provide coverage for treatment of a mental
+7 condition and shall:
+8 (1) not establish any rate, term, or condition that places a greater burden
+9 on a covered individual for access to treatment for a mental condition than for
+10 access to treatment for other health conditions, including no greater co-
+11 payment for primary mental health care or services than the co-payment
+12 applicable to care or services provided by a primary care provider under a
+13 covered individual’s health insurance plan and no greater co-payment for
+14 specialty mental health care or services than the co-payment applicable to care
+15 or services provided by a specialist provider under a covered individual’s
+16 health insurance plan;
+17 (2) not exclude from its network or list of authorized providers any
+18 licensed mental health or substance use disorder treatment provider located
+19 within the geographic coverage area of the health insurance plan if the provider
+20 is willing to meet the terms and conditions for participation established by the
+21 health insurer;
+VT LEG #386147 v.1
+
+BILL AS INTRODUCED H.815
+2026 Page 3 of 9
+1 (3) not reduce the reimbursement rate for more than one mental health
+2 code for the same mental health professional license type in any contract year
+3 below the reimbursement rate provided for that code and license type in the
+4 previous contract year;
+5 (4) make any deductible or out-of-pocket limits required under a health
+6 insurance plan comprehensive for coverage of both mental and physical health
+7 conditions; and
+8 (4)(5) if the health insurance plan provides prescription drug coverage,
+9 ensure that at least one medication in each therapeutic class approved by the
+10 U.S. Food and Drug Administration for the treatment of substance use
+11 disorder, including for opioid use disorder, methadone, buprenorphine, and
+12 naltrexone, is available on the lowest cost-sharing tier of the plan’s
+13 prescription drug formulary.
+14 * * *
+15 Sec. 2. 18 V.S.A. § 9418h is added to read:
+16 § 9418h. MODIFICATIONS TO REIMBURSEMENT AND CODING
+17 POLICIES FOR CERTAIN SERVICES AND PROVIDERS
+18 (a) Notwithstanding any provision of this subchapter to the contrary, a
+19 health plan shall not implement any change to reimbursement methodology,
+20 billing policy, coding alignment, supervised billing requirements, or service
+VT LEG #386147 v.1
+
+BILL AS INTRODUCED H.815
+2026 Page 4 of 9
+1 authorization requirements affecting mental health, substance use disorder, or
+2 intellectual or developmental disability services without first:
+3 (1) publicly identifying whether the change is required by federal or
+4 State law and, if so, citing the specific federal or State statute, regulation, or
+5 rule that requires the change;
+6 (2) publicly identifying which elements of the change, if any, are
+7 discretionary policy choices;
+8 (3) publishing the proposed policy language and billing guidance on its
+9 website, and sending written notice directly to providers, including
+10 independent mental health providers, designated and specialized service
+11 agencies, relevant advocacy organizations, and representatives of individuals
+12 and families of individuals who receive services that will be affected by the
+13 change, and the Department of Financial Regulation, at least 90 days prior to
+14 implementation;
+15 (4) conducting at least one public stakeholder meeting and soliciting
+16 public comments; and
+17 (5) publishing on its website a written response describing the ways in
+18 which stakeholder input and public comments were considered and
+19 incorporated.
+20 (b) Prior to implementing any reimbursement or coding policy change
+21 described in subsection (a) of this section, the health plan shall:
+VT LEG #386147 v.1
+
+BILL AS INTRODUCED H.815
+2026 Page 5 of 9
+1 (1) conduct and publicly release a fiscal impact analysis;
+2 (2) conduct and publicly release an assessment of the impact on access
+3 to care and on the provider workforce, demonstrating that the change will not
+4 reduce service availability; and
+5 (3) consult with affected providers, the Office of the Health Care
+6 Advocate, Disability Rights Vermont, and representatives of individuals and
+7 families of individuals who receive services that will be affected by the
+8 change.
+9 (c)(1) For 12 months following implementation of a reimbursement or
+10 coding policy change described in subsection (a) of this section, the health plan
+11 shall monitor and shall post on its website and report to the Department of
+12 Financial Regulation quarterly on access indicators, including:
+13 (A) provider network participation and withdrawal;
+14 (B) wait times for services; and
+15 (C) service denial rates and service reductions.
+16 (2) If monitoring demonstrates a reduction in access, the health plan
+17 shall take corrective action to restore the access levels that were in effect prior
+18 to the policy change.
+19 (d)(1) The Department of Financial Regulation shall provide written notice
+20 to the House Committees on Health Care and on Human Services and the
+21 Senate Committee on Health and Welfare at least 60 days prior to
+VT LEG #386147 v.1
+
+BILL AS INTRODUCED H.815
+2026 Page 6 of 9
+1 implementation of any policy or reimbursement change affecting mental
+2 health, substance use disorder, or intellectual or developmental disability
+3 services that does one more of the following:
+4 (A) reduces or is reasonably expected to reduce provider
+5 reimbursement;
+6 (B) increases uncompensated administrative or supervision
+7 requirements; or
+8 (C) is reasonably expected to increase wait times, reduce provider
+9 participation, or reduce availability of services, regardless of whether the
+10 change is described as coding alignment, billing clarification, compliance
+11 update, policy modernization, or otherwise.
+12 (2) The notice shall include the fiscal analysis, access impact
+13 assessment, and stakeholder engagement documentation required by this
+14 section.
+15 Sec. 3. 33 V.S.A. § 1905b is added to read:
+16 § 1905b. MODIFICATIONS TO REIMBURSEMENT AND CODING
+17 POLICIES FOR CERTAIN SERVICES AND PROVIDERS
+18 (a) Notwithstanding any provision of this subchapter to the contrary, the
+19 Department of Vermont Health Access shall not implement any change to
+20 Medicaid reimbursement methodology, billing policy, coding alignment,
+21 supervised billing requirements, or service authorization requirements
+VT LEG #386147 v.1
+
+BILL AS INTRODUCED H.815
+2026 Page 7 of 9
+1 affecting mental health, substance use disorder, or intellectual or
+2 developmental disability services without first:
+3 (1) publicly identifying whether the change is required by federal or
+4 State law and, if so, citing the specific federal or State statute, regulation, or
+5 rule that requires the change;
+6 (2) publicly identifying which elements of the change, if any, are
+7 discretionary policy choices;
+8 (3) publishing the proposed policy language and billing guidance on the
+9 Department’s website and sending written notice directly to providers,
+10 including independent mental health providers, designated and specialized
+11 service agencies, relevant advocacy organizations, and representatives of
+12 individuals and families of individuals who receive services that will be
+13 affected by the change at least 90 days prior to implementation;
+14 (4) conducting at least one public stakeholder meeting and soliciting
+15 public comments; and
+16 (5) publishing on the Department’s website a written response
+17 describing the ways in which stakeholder input and public comments were
+18 considered and incorporated.
+19 (b) Prior to implementing any Medicaid reimbursement or coding policy
+20 change described in subsection (a) of this section, the Department of Vermont
+21 Health Access shall:
+VT LEG #386147 v.1
+
+BILL AS INTRODUCED H.815
+2026 Page 8 of 9
+1 (1) conduct and publicly release a fiscal impact analysis;
+2 (2) conduct and publicly release an assessment of the impact on access
+3 to care and on the provider workforce, demonstrating that the change will not
+4 reduce service availability; and
+5 (3) consult with affected providers, the Office of the Health Care
+6 Advocate, Disability Rights Vermont, and representatives of individuals and
+7 families of individuals who receive services that will be affected by the
+8 change.
+9 (c)(1) For 12 months following implementation of a reimbursement or
+10 coding policy change described in subsection (a) of this section, the
+11 Department of Vermont Health Access shall post quarterly reports on its
+12 website showing updated access indicators, including:
+13 (A) provider network participation and withdrawal;
+14 (B) wait times for services; and
+15 (C) service denial rates and service reductions.
+16 (2) If monitoring demonstrates a reduction in access, the Department
+17 shall take corrective action to restore the access levels that were in effect prior
+18 to the policy change.
+19 (d)(1) The Department of Vermont Health Access shall provide written
+20 notice to the House Committees on Health Care and on Human Services and
+21 the Senate Committee on Health and Welfare at least 60 days prior to
+VT LEG #386147 v.1
+
+BILL AS INTRODUCED H.815
+2026 Page 9 of 9
+1 implementation of any Medicaid policy or reimbursement change affecting
+2 mental health, substance use disorder, or intellectual or developmental
+3 disability services that does one more of the following:
+4 (A) reduces or is reasonably expected to reduce provider
+5 reimbursement;
+6 (B) increases uncompensated administrative or supervision
+7 requirements; or
+8 (C) is reasonably expected to increase wait times, reduce provider
+9 participation, or reduce availability of services, regardless of whether the
+10 change is described as coding alignment, billing clarification, compliance
+11 update, policy modernization, or otherwise.
+12 (2) The notice shall include the fiscal analysis, access impact
+13 assessment, and stakeholder engagement documentation required by this
+14 section.
+15 Sec. 4. EFFECTIVE DATES
+16 (a) Sec. 1 (8 V.S.A. § 4072; mental health reimbursement rates) shall take
+17 effect on January 1, 2027.
+18 (b) The remaining sections shall take effect on passage.
+VT LEG #386147 v.1

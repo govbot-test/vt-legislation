@@ -1,0 +1,230 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.821
+2026 Page 1 of 10
+1 H.821
+2 Introduced by Representatives Cina of Burlington, Arsenault of Williston,
+3 Burrows of West Windsor, Critchlow of Colchester, Galfetti of
+4 Barre Town, Logan of Burlington, McGill of Bridport, Page of
+5 Newport City, Pouech of Hinesburg, Priestley of Bradford,
+6 Rachelson of Burlington, Sibilia of Dover, and Tomlinson of
+7 Winooski
+8 Referred to Committee on
+9 Date:
+10 Subject: Executive
+11 Statement of purpose of bill as introduced: This bill proposes to change and
+12 add new members to the Artificial Intelligence Advisory Council and require
+13 that the Council study and report back to the General Assembly regarding the
+14 effect of artificial intelligence on education, finance, and public health. This
+15 bill would also require persons that use generative artificial intelligence in their
+16 services to consumers disclose to consumers that such technology is being
+17 used.
+18 An act relating to artificial intelligence
+VT LEG #386168 v.1
+
+BILL AS INTRODUCED H.821
+2026 Page 2 of 10
+1 It is hereby enacted by the General Assembly of the State of Vermont:
+2 Sec. 1. 3 V.S.A. § 5023 is amended to read:
+3 § 5023. ARTIFICIAL INTELLIGENCE ADVISORY COUNCIL
+4 (a) Advisory Council. There is established the Artificial Intelligence
+5 Advisory Council to provide advice and counsel to the Director of the Division
+6 of Artificial Intelligence with regard to the Division’s responsibilities to review
+7 all aspects of artificial intelligence systems developed, employed, or procured
+8 in State government. The Council, in consultation with the Director of the
+9 Division, shall also engage in public outreach and education on artificial
+10 intelligence.
+11 (b) Members.
+12 (1) Members. The Advisory Council shall be composed of the
+13 following members:
+14 (A) the Secretary of Digital Services or designee;
+15 (B) the Secretary of Commerce and Community Development or
+16 designee;
+17 (C) the Commissioner of Public Safety or designee;
+18 (D) the Executive Director of the American Civil Liberties Union of
+19 Vermont or designee;
+20 (E) one member who is an expert in constitutional and legal rights,
+21 appointed by the Chief Justice of the Supreme Court;
+VT LEG #386168 v.1
+
+BILL AS INTRODUCED H.821
+2026 Page 3 of 10
+1 (F) one member with experience in the field of ethics and human
+2 rights, appointed by the Governor Board of Trustees of the Vermont chapter of
+3 the National Association of Social Workers;
+4 (G) one member who is an academic at a postsecondary institute,
+5 appointed by the Vermont Academy of Science and Engineering;
+6 (H) the Commissioner of Health or designee one member with
+7 experience in public education, appointed by the Board of Directors of the
+8 Vermont-National Education Association;
+9 (I) the Executive Director of Racial Equity or designee; and
+10 (J) the Attorney General or designee;
+11 (K) the State Treasurer or designee;
+12 (L) one member with experience in health care, appointed by the
+13 Board of the Vermont Medical Society; and
+14 (M) the Secretary of Human Services or designee.
+15 * * *
+16 (h) Repeal. This section shall be repealed on June 30, 2027 2030.
+17 Sec. 2. RESPONSIBLE AND ETHICAL USE OF ARTIFICIAL
+18 INTELLIGENCE IN HEALTH CARE, HUMAN SERVICES,
+19 EDUCATION, PUBLIC PARTICIPATION, AND PUBLIC
+20 FINANCE; REPORT
+VT LEG #386168 v.1
+
+BILL AS INTRODUCED H.821
+2026 Page 4 of 10
+1 (a) Task. The Artificial Intelligence Advisory Council, in coordination
+2 with the Director of the Division of Artificial Intelligence, shall:
+3 (1) review the guidelines and recommendations from the American
+4 Medical Association, National Association of Social Workers, National
+5 Education Association, and other relevant professional organizations regarding
+6 the use of artificial intelligence in the fields of health care, human services,
+7 education, public participation, and public finance;
+8 (2) research existing and potential uses of artificial intelligence in public
+9 participation processes and in public finance; and
+10 (3) create opportunities for public education and engagement in the
+11 development of artificial intelligence policy.
+12 (b) Report. On or before January 15, 2027, pursuant to the task set forth in
+13 subsection (a) of this section, the Artificial Intelligence Advisory Council, in
+14 coordination with the Director of the Division of Artificial Intelligence, shall
+15 submit a written report to the General Assembly that:
+16 (1) summarizes ways that government can promote the ethical and
+17 responsible use of artificial intelligence technology in health and human
+18 services and in education;
+19 (2) proposes pilot projects that improves public engagement in public
+20 finance using ethical and responsible artificial intelligence technology; and
+VT LEG #386168 v.1
+
+BILL AS INTRODUCED H.821
+2026 Page 5 of 10
+1 (3) identifies any reasons for further delaying or removing the
+2 prospective repeal of the Artificial Intelligence Advisory Council set forth in 3
+3 V.S.A. § 5023(h).
+4 Sec. 3. 9 V.S.A. chapter 118 is added to read:
+5 CHAPTER 118. ARTIFICIAL INTELLIGENCE
+6 Subchapter 1. Disclosure Requirements
+7 § 4193a. DEFINITIONS
+8 As used in this subchapter:
+9 (1)(A) “Biometric data” means data generated from the technological
+10 processing of a consumer’s unique biological, physical, or physiological
+11 characteristics that allow or confirm the unique identification of the consumer,
+12 including:
+13 (i) iris or retina scans;
+14 (ii) fingerprints;
+15 (iii) facial or hand mapping, geometry, or templates;
+16 (iv) vein patterns;
+17 (v) voice prints or vocal biomarkers; and
+18 (vi) gait or personally identifying physical movement or patterns.
+19 (B) “Biometric data” does not include:
+20 (i) a digital or physical photograph;
+21 (ii) an audio or video recording; or
+VT LEG #386168 v.1
+
+BILL AS INTRODUCED H.821
+2026 Page 6 of 10
+1 (iii) any data generated from a digital or physical photograph, or
+2 an audio or video recording, unless such data is generated to identify a specific
+3 consumer.
+4 (2) “Consumer” has the same meaning as in section 2451a of this title.
+5 (3) “Generative artificial intelligence” means an artificial intelligence
+6 technology system that:
+7 (A) is trained on data;
+8 (B) is designed to simulate human conversation with a consumer
+9 through one or more of the following:
+10 (i) text;
+11 (ii) audio; or
+12 (iii) visual communication; and
+13 (C) generates nonscripted outputs similar to outputs created by a
+14 human, with limited or no human oversight.
+15 (4) “High-risk artificial intelligence interaction” means an interaction
+16 with generative artificial intelligence that involves:
+17 (A) the collection of sensitive personal information, including:
+18 (i) health data;
+19 (ii) financial data; or
+20 (iii) biometric data;
+VT LEG #386168 v.1
+
+BILL AS INTRODUCED H.821
+2026 Page 7 of 10
+1 (B) the provision of personalized recommendations, advice, or
+2 information that could reasonably be relied upon to make significant personal
+3 decisions, including the provision of:
+4 (i) financial advice or services;
+5 (ii) legal advice or services;
+6 (iii) medical advice or services; or
+7 (iv) mental health advice or services; or
+8 (C) any other applications as set forth in rules adopted by the Office
+9 of the Attorney General.
+10 (5) “Regulated occupation” means an occupation that, in order to
+11 practice the occupation in the State, requires an individual to obtain a
+12 professional license or certification enumerated in Titles 3, 16, 20, or 26 of the
+13 Vermont Statutes Annotated.
+14 § 4193b. REQUIREMENTS
+15 (a) Disclosure. A person that uses generative artificial intelligence to
+16 interact with a consumer shall clearly and conspicuously disclose to the
+17 consumer, if asked or prompted by the consumer, that the consumer is
+18 interacting with generative artificial intelligence and not a human.
+19 (b) Regulated occupations.
+20 (1) A person providing the services of a regulated occupation to a
+21 consumer shall:
+VT LEG #386168 v.1
+
+BILL AS INTRODUCED H.821
+2026 Page 8 of 10
+1 (A) prominently disclose when the consumer receiving services is
+2 interacting with generative artificial intelligence if the use of generative
+3 artificial intelligence constitutes a high-risk artificial intelligence interaction;
+4 and
+5 (B) comply with all other requirements of the regulated occupation
+6 when providing services through generative artificial intelligence.
+7 (2) A disclosure described in subdivision (1)(A) of this subsection shall
+8 be provided to the consumer:
+9 (A) verbally at the start of a verbal interaction; or
+10 (B) in writing before the start of a written interaction.
+11 (c) Safe harbor. A person is not subject to an enforcement action pursuant
+12 to section 4193b of this subchapter if the person’s generative artificial
+13 intelligence clearly and conspicuously discloses to a consumer at the beginning
+14 of and throughout the entire interaction of an interaction pursuant to subsection
+15 (a) or (b) of this section that it is:
+16 (1) generative artificial intelligence;
+17 (2) not human; or
+18 (3) an artificial intelligence assistant.
+VT LEG #386168 v.1
+
+BILL AS INTRODUCED H.821
+2026 Page 9 of 10
+1 § 4193b. ENFORCEMENT
+2 (a) A person that violates this subchapter or rules adopted pursuant to this
+3 subchapter commits an unfair and deceptive act in commerce in violation of
+4 section 2453 of this title.
+5 (b) The Attorney General shall have the same authority under this
+6 subchapter to make rules, conduct civil investigations, bring civil actions, and
+7 enter into assurances of discontinuance as provided under chapter 63 of this
+8 title.
+9 Sec. 4. 9 V.S.A. § 2466e is added to read:
+10 § 2466e. ARTIFICIAL INTELLIGENCE AS DEFENSE
+11 (a) “General artificial intelligence” has the same meaning as in section
+12 4193a of this title.
+13 (b) Upon a claim that a person has violated section 2453 of this chapter, the
+14 person shall not be able to use as an affirmative defense that generative
+15 artificial intelligence:
+16 (1) made the violative statement;
+17 (2) undertook the violative act; or
+18 (3) was used in furtherance of the violation.
+VT LEG #386168 v.1
+
+BILL AS INTRODUCED H.821
+2026 Page 10 of 10
+1 Sec. 5. TRANSITION FOR ARTIFICIAL INTELLIGENCE COUNCIL
+2 All newly added members to the Artificial Intelligence Advisory Council
+3 pursuant to Sec. 1 of this act (amending 3 V.S.A. § 5023) shall be appointed by
+4 their appointing authority on or before September 1, 2026.
+5 Sec. 6. EFFECTIVE DATE
+6 This act shall take effect on July 1, 2026.
+VT LEG #386168 v.1

@@ -1,0 +1,112 @@
+Title: 
+Official Title: 
+Source: versions - As Passed By the Senate (OfficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.220
+2026 Page 1 of 4
+1 S.220
+2 Introduced by Senator Baruth
+3 Referred to Committee on Finance
+4 Date: January 8, 2026
+5 Subject: Taxation and finance; education property tax; education; State
+6 funding of public education; education spending; per pupil education
+7 spending; allowable growth
+8 Statement of purpose of bill as introduced: This bill proposes to limit the
+9 growth in each school district’s per pupil education spending in fiscal years
+10 2028 and 2029 to a specified allowable growth percentage of the district’s
+11 prior year per pupil education spending.
+12 An act relating to addressing education spending in fiscal years 2028 and
+13 2029
+An act relating to the excess spending threshold
+14 It is hereby enacted by the General Assembly of the State of Vermont:
+15 Sec. 1. ALLOWABLE GROWTH IN EDUCATION SPENDING FOR
+16 FISCALYEARS 2028 AND 2029
+17 (a) Notwithstanding any other provision of law, for fiscal years 2028 and
+18 2029 only, a school district’s per pupil education spending, as defined in
+19 16 V.S.A. § 4001(14), shall not exceed the sum of the district’s per pupil
+20 education spending in the prior fiscal year and the district’s allowable growth.
+21 (b) As used in this section:
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.220
+2026 Page 2 of 4
+1 (1) “Allowable growth” for a school district means the product of the
+2 district’s allowable growth percentage and the district’s per pupil education
+3 spending in the prior fiscal year.
+4 (2)(A) “Allowable growth percentage” for a school district means nine
+5 percent of the difference in per pupil education spending in the prior fiscal
+6 year between the district and the highest spending district, excluding gores,
+7 expressed as a percentage of the district’s per pupil education spending in the
+8 prior fiscal year, provided that the minimum allowable growth percentage shall
+9 be three percent.
+10 (B) A school district’s “allowable growth percentage” is calculated as
+11 follows:
+12 (i) subtract the district’s per pupil education spending in the prior
+13 fiscal year from the highest per pupil education spending in any district,
+14 excluding gores, in the prior fiscal year;
+15 (ii) divide the difference determined under subdivision (i) of this
+16 subdivision (2)(B) by the district’s per pupil education spending in the prior
+17 fiscal year; and
+18 (iii) multiply the percentage determined under subdivision (ii) of
+19 this subdivision (2)(B) by nine percent.
+20 Sec.2. EFFECTIVE DATE
+21 This act shall take effect on July 1, 2026.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.220
+2026 Page 3 of 4
+Sec. 1. 16 V.S.A. § 4001 is amended to read:
+§ 4001. DEFINITIONS
+As used in this chapter:
+* * *
+(6) “Education spending” means the amount of the school district
+budget, any assessment for a joint contract school, career technical center
+payments made on behalf of the district under subsection 1561(b) of this title,
+and any amount added to pay a deficit pursuant to 24 V.S.A. § 1523(b) that is
+paid for by the school district, but excluding any portion of the school budget
+paid for from any other sources such as endowments, parental fundraising,
+federal funds, nongovernmental grants, or other State funds such as special
+education funds paid under chapter 101 of this title.
+(A) [Repealed.]
+(B) For all bonds approved by voters prior to July 1, 2024, voter-
+approved Voter-approved bond payments toward principal and interest shall
+not be included in “education spending” for purposes of calculating excess
+spending pursuant to 32 V.S.A. § 5401(12).
+* * *
+Sec. 2. 32 V.S.A. § 5401 is amended to read:
+§ 5401. DEFINITIONS
+As used in this chapter:
+* * *
+(12) “Excess spending” means:
+(A) The per pupil spending amount of the district’s education
+spending, as defined in 16 V.S.A. § 4001(6), plus any amount required to be
+added from a capital construction reserve fund under 24 V.S.A. § 2804(b).
+(B) In excess of 118 112 percent of the statewide average district per
+pupil education spending increased by inflation, as determined by the
+Secretary of Education on or before November 15 of each year based on the
+passed budgets to date. As used in this subdivision (B), “increased by
+inflation” means increasing the statewide average district per pupil education
+spending for fiscal year 2025 by the most recent New England Economic
+Project cumulative price index, as of November 15, for state and local
+government purchases of goods and services, from fiscal year 2025 through the
+fiscal year for which the amount is being determined.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.220
+2026 Page 4 of 4
+(C) A school district’s excess spending shall be zero if any of the
+following conditions is met:
+(i) the district’s education spending is not greater than the
+district’s educating spending for the preceding school year;
+(ii) the district’s per pupil education spending is not greater than
+the district’s per pupil education spending for the preceding school year; or
+(iii) the Secretary of Education, with the advice of three business
+managers and three superintendents selected by the Secretary, determines that
+the increase in the district’s per pupil education spending above the excess
+spending threshold was for good cause or beyond the district’s control, such as
+due to emergency capital expenditures or substantial loss of pupils or offsetting
+revenues.
+* * *
+Sec. 3. EFFECTIVE DATE
+This act shall take effect on July 1, 2026.
