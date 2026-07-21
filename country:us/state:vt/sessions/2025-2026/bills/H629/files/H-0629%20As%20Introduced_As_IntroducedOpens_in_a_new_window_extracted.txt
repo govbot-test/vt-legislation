@@ -1,0 +1,68 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.629
+2026 Page 1 of 3
+1 H.629
+2 Introduced by Representative LaLonde of South Burlington
+3 Referred to Committee on
+4 Date:
+5 Subject: Court procedure; limitations of time on commencement of actions
+6 Statement of purpose of bill as introduced: This bill proposes to establish that
+7 the Family Division of the Superior Court shall have exclusive jurisdiction
+8 over any actions of judgments issued by the Family Division and clarify the
+9 tolling of judgments issued by the Family Division.
+10 An act relating to judgments issued by the Family Division of the Superior
+11 Court
+12 It is hereby enacted by the General Assembly of the State of Vermont:
+13 Sec. 1. 12 V.S.A. § 506 is amended to read:
+14 § 506. JUDGMENTS
+15 (a) Actions Notwithstanding subsection (b) of this section, actions on
+16 judgments and actions for the renewal or revival of judgments shall be brought
+17 in the Civil Division of the Superior Court by filing a new and independent
+18 action on the judgment within eight years after the rendition of the judgment,
+19 and not after.
+VT LEG #386219 v.1
+
+BILL AS INTRODUCED H.629
+2026 Page 2 of 3
+1 (b) The Family Division of the Superior Court shall have exclusive
+2 jurisdiction over actions on judgments issued by Family Division.
+3 (1) Renewal of a Family Division judgment for money or property shall
+4 be initiated specifically by a motion to renew in the county that issued the
+5 underlying judgment within eight years after the rendition of the judgment or
+6 when the last payment or action required is due, whichever occurs last. A
+7 motion to renew a Family Division judgment for money or property shall be
+8 served upon all respondent parties in the manner prescribed for the filing of a
+9 new action for divorce or parentage. A judgment issued by the Family
+10 Division pursuant to a motion to renew such a judgment shall restart the eight-
+11 year limitation on actions on judgments.
+12 (2) The filing of a motion to renew shall pause tolling of the statute of
+13 limitations until the court rules upon the motion.
+14 (3) Any of the following shall restart the statutory limitation in
+15 subdivision (1) of this subsection:
+16 (A) a written, signed acknowledgement of the debt, action, or
+17 obligation ordered in the judgment;
+18 (B) any payment made by an obligor on a Family Division judgment,
+19 including by wage withholding;
+20 (C) any affirmation action taken by an obligor toward compliance
+21 with the provisions of a Family Division judgment; or
+VT LEG #386219 v.1
+
+BILL AS INTRODUCED H.629
+2026 Page 3 of 3
+1 (D) any payment made by a third party on behalf of the obligor
+2 specifically toward the Family Division judgment.
+3 (4) All property or money judgments issued by the Family Division
+4 shall bear the following statement: “RENEWAL OF A FAMILY DIVISION
+5 JUDGMENT FOR MONEY OR PROPERTY SHALL BE INITIATED BY
+6 MOTION TO RENEW WITHIN EIGHT YEARS AFTER RENDITION OF
+7 THE JUDGMENT OR IT SHALL BE TIME BARRED.”
+8 Sec. 2. EFFECTIVE DATE
+9 This act shall take effect on July 1, 2026.
+VT LEG #386219 v.1

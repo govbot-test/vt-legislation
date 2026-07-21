@@ -1,0 +1,408 @@
+Title: 
+Official Title: 
+Source: versions - As Passed By the House (UnofficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+AS PASSED BY HOUSE H.841
+2026 Page 1 of 17
+1 H.841
+2 An act relating to miscellaneous animal welfare procedures
+3 It is hereby enacted by the General Assembly of the State of Vermont:
+4 Sec. 1. 20 V.S.A. chapter 190 is amended to read:
+5 CHAPTER 190. DIVISION OF ANIMAL WELFARE
+6 § 3201. DEFINITIONS
+7 As used in this subchapter:
+8 (1) “Animal” has the same meaning as in 13 V.S.A. § 351, provided that
+9 the animals or activities regulated under this chapter shall not apply to:
+10 (A) activities regulated by the Department of Fish and Wildlife
+11 pursuant to 10 V.S.A. Part 4;
+12 (B) scientific research governed by accepted procedural standards
+13 subject to review by an institutional animal care and use committee;
+14 (C) livestock and poultry husbandry practices for the raising,
+15 management, and use of domestic animals;
+16 (D) veterinary medical or surgical procedures; and
+17 (E) the killing of an animal as authorized pursuant to sections 3809
+18 and 3545 of this title.
+19 (2) “Director” means the Director of Animal Welfare and includes the
+20 Director’s designee.
+21 (3) “Division” means the Division of Animal Welfare.
+VT LEG #388035 v.1
+
+AS PASSED BY HOUSE H.841
+2026 Page 2 of 17
+1 (4) “Domestic animal” has the same meaning as in 6 V.S.A. § 1151(2).
+2 § 3202. ESTABLISHMENT OF DIVISION OF ANIMAL WELFARE;
+3 POWERS AND DUTIES
+4 (a)(1) The Division of Animal Welfare is established within the
+5 Department of Public Safety. The Commissioner of Public Safety shall
+6 appoint a Director of Animal Welfare who shall be in immediate charge of the
+7 Division. The Director shall be qualified by education and professional
+8 experience to perform the duties of the position. The Director shall have at
+9 least the following minimum qualifications:
+10 (A) experience in interpreting or knowledge of animal welfare laws
+11 and rules;
+12 (B) knowledge of animal welfare stakeholders in the State and
+13 regionally; and
+14 (C) knowledge of the causes and characteristics of animal welfare
+15 and animal cruelty issues.
+16 (2) The Director position shall be a classified service position in the
+17 Department of Public Safety.
+18 (b)(1) The Director shall develop a comprehensive plan for the
+19 development, implementation, and enforcement of the animal welfare laws of
+20 the State. In developing the comprehensive plan, the Director shall first review
+VT LEG #388035 v.1
+
+AS PASSED BY HOUSE H.841
+2026 Page 3 of 17
+1 the 2023 Report on Unification of Animal Welfare and Related Public Safety
+2 Function and similar reports and proposed legislation. The plan shall include:
+3 (A) how the Director shall oversee investigation and response to
+4 animal cruelty complaints in the State in order to provide the best services to
+5 Vermont’s animals statewide;
+6 (B) how the Director shall coordinate administration and enforcement
+7 of animal welfare laws in the State in a collaborative manner with those law
+8 enforcement officers and municipalities that retain authority to enforce animal
+9 cruelty requirements in the State;
+10 (C) how the State should address the extent and scope of any
+11 deficiencies in Vermont’s system of investigating and responding to animal
+12 cruelty complaints;
+13 (D) how the State should ensure that investigations of animal cruelty
+14 complaints are conducted according to systematic and documented written
+15 standard operating procedures and checklists;
+16 (E) a proposal to house and care for animals seized in response to
+17 complaints of animal cruelty, including how to pay for the care of seized
+18 animals;
+19 (F) a proposal for funding animal welfare administration and
+20 enforcement in the State, including potential sources of public and private
+21 funding; and
+VT LEG #388035 v.1
+
+AS PASSED BY HOUSE H.841
+2026 Page 4 of 17
+1 (G) recommended amendments to animal welfare statutes or rules,
+2 including standards of care for animals housed or imported by animal shelters
+3 or rescue organizations.
+4 (2) The Director of Animal Welfare shall submit the comprehensive
+5 plan required by this subsection and any revisions thereto to the House
+6 Committee on Government Operations and Military Affairs and the Senate
+7 Committee on Government Operations not later than eight months after the
+8 date of hiring of the Director.
+9 (c) The Director of Animal Welfare shall consult with other State agencies
+10 that respond to animal welfare complaints or with animal welfare
+11 responsibilities to estimate the number and type of animal welfare complaints
+12 received by State agencies and to quantify the amount of time State agency
+13 staff expend in fulfilling animal welfare responsibilities, including the costs to
+14 agencies of fulfilling the responsibilities.
+15 (d) The Director of Animal Welfare shall be the sole employee of the
+16 Division of Animal Welfare until the comprehensive plan required under
+17 subdivision (b)(2) of this section is completed and the General Assembly
+18 enacts legislation, as needed, to implement the comprehensive plan.
+19 (e)(1) The Division of Animal Welfare may adopt rules pursuant to
+20 3 V.S.A. chapter 25 to implement the provisions of this chapter.
+VT LEG #388035 v.1
+
+AS PASSED BY HOUSE H.841
+2026 Page 5 of 17
+1 (2) The Division of Animal Welfare shall adopt rules pursuant to
+2 3 V.S.A. chapter 25 to implement a certified rabies vaccinator program
+3 pursuant to the following standards:
+4 (A) The Director shall work collaboratively with the Vermont
+5 Veterinary Medical Association for purposes of developing the rules and
+6 administering the program.
+7 (B) The program shall permit licensed veterinarians to train and
+8 authorize veterinary and animal shelter staff to administer rabies vaccinations
+9 under the veterinarian’s direct or indirect supervision.
+10 (C) The program shall authorize the Director of Animal Welfare, in
+11 collaboration with the Vermont Veterinary Medical Association, to establish a
+12 program to train humane officers as certified rabies vaccinators.
+13 (D) The program shall include training in properly storing and
+14 administering rabies vaccines, issuing rabies certificates, record-keeping
+15 requirements, and providing information to owners and keepers of animals to
+16 be vaccinated.
+17 (f)(1) The Director of Animal Welfare shall require that animal shelters,
+18 rescue organizations, dog breeders, and any other person importing domestic
+19 pets into the State of Vermont for adoption, sale, other transfer, or breeding
+20 shall register with the Division of Animal Welfare. The registration required
+VT LEG #388035 v.1
+
+AS PASSED BY HOUSE H.841
+2026 Page 6 of 17
+1 by this subsection shall include information on animal intake, production,
+2 inventory, and disposition. No fee shall be charged for the registration.
+3 (2) If a person fails to register as required by subdivision (1) of this
+4 subsection the Director shall:
+5 (A) for a first violation, issue the person a warning; and
+6 (B) for a second or subsequent violation, issue a fine and a cease and
+7 desist order to the same extent that the Secretary and municipal legislative
+8 bodies have authority to issue such orders under chapter 193 of this title.
+9 (3) This subsection shall not apply to an individual importing a domestic
+10 pet for personal purposes.
+11 § 3203. ANIMAL WELFARE FUND
+12 (a) The Animal Welfare Fund is established within the Department of
+13 Public Safety to fund the expenses incurred by the Division of Animal Welfare
+14 in implementing the requirements of this chapter. The Director of Animal
+15 Welfare shall administer the Fund.
+16 (b) The Fund shall consist of:
+17 (1) 67 percent of the revenue collected from the surcharge assessed
+18 under subsection 3581(f) of this title; and
+19 (2) appropriations transfers made by the General Assembly; and
+VT LEG #388035 v.1
+
+AS PASSED BY HOUSE H.841
+2026 Page 7 of 17
+1 (3) any donations, grants, or gifts made to the Fund.
+2 (c) All balances in the Fund at the end of the fiscal year shall be carried
+3 forward. Interest earned by the Fund shall remain in the Fund.
+4 Sec. 2. 20 V.S.A. § 3552 is added to read:
+5 § 3552. SEXUAL STERILIZATION OF STRAY CATS WITH NO KNOWN
+6 OWNER
+7 An animal shelter or rescue organization that, pursuant to a contract with a
+8 municipal legislative body, impounds a stray cat with no known owner may
+9 have the cat sexually sterilized not sooner than one day after the impound.
+10 Sec. 3. 20 V.S.A. § 3581 is amended to read:
+11 § 3581. GENERAL REQUIREMENTS
+12 (a)(1) A person who is the owner of a dog or wolf-hybrid more than six
+13 months old shall annually on or before April 1 cause it to be registered,
+14 numbered, described, and licensed on a form approved by the Secretary for one
+15 year from that day in the office of the clerk of the municipality in which the
+16 dog or wolf-hybrid is kept. A person who owns a working farm dog and who
+17 intends to use that dog on a farm pursuant to the exemptions in section 3549 of
+18 this title shall cause the working farm dog to be registered as a working farm
+19 dog and shall, in addition to all other fees required by this section, pay $5.00
+20 for a working farm dog license. The owner of a dog or wolf-hybrid shall cause
+21 it to wear a collar and attach a license tag issued by the municipal clerk to the
+VT LEG #388035 v.1
+
+AS PASSED BY HOUSE H.841
+2026 Page 8 of 17
+1 collar. Dog or wolf-hybrid owners shall pay for the license $4.00 for each
+2 neutered dog or wolf-hybrid, and $8.00 for each unneutered dog or wolf-
+3 hybrid. If the license fee for any dog or wolf-hybrid is not paid on or before
+4 April 1, its owner or keeper may thereafter procure a license for that license
+5 year by paying a fee of 50 percent in excess of that otherwise required.
+6 (2) A person shall not own more than 35 dogs. When calculating the
+7 number of dogs permitted under this subsection, dogs less than four months
+8 old and dogs that have been sexually sterilized shall not be counted.
+9 (b) Before a person shall be entitled to obtain a license for a neutered dog
+10 or wolf-hybrid, he or she the person shall exhibit to the clerk a certificate
+11 signed by a duly licensed veterinarian showing that the dog or wolf-hybrid has
+12 been sexually sterilized.
+13 * * *
+14 (d)(1) Before obtaining a license for a dog or wolf-hybrid six months of
+15 age or older, a person shall deliver to the municipal clerk a certificate or a
+16 certified copy thereof issued by a duly licensed veterinarian, stating that the
+17 dog or wolf-hybrid has received a current preexposure rabies vaccination with
+18 a vaccine approved by the Secretary, and the person shall certify that the dog
+19 or wolf-hybrid described in the certificate or copy is the dog or wolf-hybrid to
+20 be licensed. The municipal clerk shall keep the certificates or copies thereof
+21 on file. The Secretary shall prescribe the size and format of rabies certificates.
+VT LEG #388035 v.1
+
+AS PASSED BY HOUSE H.841
+2026 Page 9 of 17
+1 The owner of any such dog or wolf-hybrid shall maintain a copy of the rabies
+2 vaccination form and provide it to State or municipal officials upon request.
+3 (2) Before obtaining a license for a wolf-hybrid, a person shall deliver to
+4 the municipal clerk a certificate or a certified copy thereof, issued by a duly
+5 licensed veterinarian, stating that the wolf-hybrid has been sexually sterilized.
+6 * * *
+7 Sec. 4. 20 V.S.A. § 3583 is amended to read:
+8 § 3583. DOMESTIC PETS AND WOLF-HYBRIDS KEPT FOR BREEDING
+9 PURPOSES
+10 (a) The owner or keeper of domestic pets and wolf-hybrids kept for
+11 breeding purposes may take out annually, on or before April 1, a special
+12 license for the domestic pets or wolf-hybrids, provided:
+13 (1) He or she keeps the domestic pets or wolf-hybrids within a proper
+14 enclosure. A proper enclosure is a locked fence or structure of sufficient height
+15 and sufficient depth into the ground to prevent the entry of young children and
+16 to prevent the animal from escaping. A proper enclosure also provides humane
+17 shelter for the animal.
+18 (2) The domestic pets or wolf-hybrids at all times have a current
+19 vaccination against rabies.
+VT LEG #388035 v.1
+
+AS PASSED BY HOUSE H.841
+2026 Page 10 of 17
+1 (3) When the number of domestic pets or wolf-hybrids so kept does not
+2 exceed ten, the fee shall be $30.00 and for each additional domestic pet or
+3 wolf-hybrid so kept, an annual fee of $3.00.
+4 (b) Domestic pets and wolf-hybrids covered by the special license pursuant
+5 to this section shall be exempt from other license fees, and all licenses under
+6 this section are exempt from the surcharge enacted under subsection (c) of
+7 section 3581 of this title.
+8 (c) If the license fee is not paid by April 1, the owner or keeper may
+9 thereafter procure a license for that license year by paying a fee of 50 percent
+10 in excess of that otherwise required. These license fees are in addition to any
+11 fees required for the operation of a kennel under subchapter 3 of this chapter.
+12 [Repealed.]
+13 Sec. 5. 20 V.S.A. § 3682 is amended to read:
+14 § 3682. INSPECTION OF PREMISES
+15 (a) The pet dealer’s premises may be inspected upon the issuance of the pet
+16 dealer permit or at any time the pet dealer permit is in effect. Inspections may
+17 be conducted by a municipal animal control officer, a law enforcement officer
+18 as that term is defined in 23 V.S.A. § 4(11), or a representative of the Agency
+19 of Agriculture, Food and Markets. The inspector may, at his or her the
+20 inspector’s discretion and with the approval of the municipality, be
+21 accompanied by a veterinarian or an officer or agent of a humane society
+VT LEG #388035 v.1
+
+AS PASSED BY HOUSE H.841
+2026 Page 11 of 17
+1 incorporated in Vermont. This section shall not create an obligation on the
+2 part of any municipal legislative body to conduct inspections.
+3 * * *
+4 Sec. 6. 20 V.S.A. § 3814 is amended to read:
+5 § 3814. FINDINGS
+6 The General Assembly finds:
+7 (1) The supply of dogs, cats, and wolf-hybrids in Vermont is a major
+8 concern.
+9 (2) There are insufficient resources in this State to care for or provide
+10 homes for these animals.
+11 (3) Many of these animals are ultimately euthanized or become victims
+12 of accidents, starvation, or disease.
+13 (4) Pet owners who have limited economic resources have great
+14 difficulty affording the cost of professional spaying and neutering sexual
+15 sterilization services.
+16 Sec. 7. 20 V.S.A. § 3815 is amended to read:
+17 § 3815. DOG, CAT, AND WOLF-HYBRID SPAYING AND NEUTERING
+18 SEXUAL STERILIZATION PROGRAM
+19 (a) The Agency of Human Services shall administer a dog, cat, and wolf-
+20 hybrid spaying and neutering sexual sterilization program providing reduced-
+21 cost spaying and neutering sexual sterilization services and presurgical
+VT LEG #388035 v.1
+
+AS PASSED BY HOUSE H.841
+2026 Page 12 of 17
+1 immunization for dogs, cats, and wolf-hybrids owned or cared for by
+2 individuals with low income. The Agency shall may implement the program
+3 through an agreement with a qualified organization consistent with the
+4 applicable administrative rules.
+5 (b) The program shall reimburse veterinarians who voluntarily consent to
+6 spay or neuter sexually sterilize dogs, cats, and wolf-hybrids under the
+7 auspices of the program. The reimbursement shall be less any co-payment by
+8 the owner of a dog, cat, or wolf-hybrid for the cost of each spaying or
+9 neutering sexual sterilization procedure.
+10 * * *
+11 Sec. 8. 20 V.S.A. § 3816 is amended to read:
+12 § 3816. ANIMAL SPAYING AND NEUTERING SEXUAL
+13 STERILIZATION FUND; CREATION
+14 (a) There is created, pursuant to 32 V.S.A. chapter 7, subchapter 5, in the
+15 Agency of Human Services the Dog, Cat, and Wolf-Hybrid Spaying and
+16 Neutering Sexual Sterilization Special Fund to finance the costs of the dog, cat,
+17 and wolf-hybrid spaying and neutering sexual sterilization program established
+18 in section 3815 of this title.
+19 (b) Revenue for the Fund shall be derived from:
+20 (1) the surcharge payment paid to a municipality pursuant to subdivision
+21 3581(c)(1) of this title;
+VT LEG #388035 v.1
+
+AS PASSED BY HOUSE H.841
+2026 Page 13 of 17
+1 (2) gifts from private donors; and
+2 (3) any appropriation that the General Assembly makes to the Fund.
+3 (c) Interest earned on the Fund shall be retained in the Fund.
+4 (d) The Agency of Human Services shall use the revenue in the Fund
+5 created in subsection (a) of this section for administering the dog, cat, and
+6 wolf-hybrid spaying and neutering sexual sterilization program.
+7 Sec. 9. 20 V.S.A. § 3903 is amended to read:
+8 § 3903. ANIMAL SHELTERS AND RESCUE ORGANIZATIONS
+9 (a) [Repealed.]
+10 (b) Animal intake. An animal shelter or rescue organization as defined by
+11 section 3901 of this title shall make every effort to collect the following
+12 information, if available, about an animal it accepts and report the information
+13 to the Director of Animal Welfare: the name and address of the person
+14 transferring the animal and, if known, the name of the animal; its vaccination
+15 history; and other information concerning the background, temperament, and
+16 health of the animal.
+17 * * *
+18 Sec. 10. 20 V.S.A. § 3907 is amended to read:
+19 § 3907. DENIAL OR REVOCATION OF REGISTRATION OR LICENSE
+20 Issuance of a certificate of registration may be denied to any animal shelter,
+21 rescue organization, pet dealer, or fair, or a license may be denied to any public
+VT LEG #388035 v.1
+
+AS PASSED BY HOUSE H.841
+2026 Page 14 of 17
+1 auction or pet shop or any certificate or license previously granted under this
+2 chapter may be revoked by the Secretary if, after public hearing, it is
+3 determined that the housing facilities or primary enclosures are inadequate for
+4 the purposes of this chapter or if the feeding, watering, sanitizing, and housing
+5 practices of the animal shelter, rescue organization, fair, public auction, or pet
+6 shop, as the case may be, are not consistent with this chapter or with rules
+7 adopted under this chapter.
+8 Sec. 11. 20 V.S.A. § 3911 is amended to read:
+9 § 3911. PENALTIES
+10 (a) Any person licensed or registered under this chapter who fails to
+11 provide animals under the person’s care or custody with adequate food or
+12 adequate water, as defined in section 3901 of this title, or who fails to house
+13 animals in the person’s care or custody in a manner that is adequate for their
+14 welfare, shall be fined not more than $500.00.
+15 (b) Any person who operates a fair or public auction or who transacts
+16 business as a pet shop, animal shelter, pet dealer, or rescue organization
+17 without being duly licensed or without possessing a proper certificate of
+18 registration, as the case may be, as required under this chapter, or who violates
+19 any provision of this chapter or of any rule lawfully adopted under its authority
+20 for which no other penalty is provided shall be fined not more than $300.00 or
+21 imprisoned for not more than six months, or both.
+VT LEG #388035 v.1
+
+AS PASSED BY HOUSE H.841
+2026 Page 15 of 17
+1 (c) The Secretary may assess administrative penalties under 6 V.S.A.
+2 §§ 15–17, not to exceed $1,000.00, for violations of this chapter.
+3 Sec. 12. 20 V.S.A. § 3915 is amended to read:
+4 § 3915. HEALTH CERTIFICATE FOR TRANSPORT INTO STATE
+5 (a) A dog, cat, ferret, or wolf-hybrid imported into the State for sale, resale,
+6 exchange, or donation shall be accompanied by an official health certificate or
+7 similar certificate of inspection for the dog, cat, ferret, or wolf-hybrid issued by
+8 a veterinarian licensed in the state or country of origin. The certificate shall
+9 certify that:
+10 (1) the dog, cat, ferret, or wolf-hybrid has been inspected and is free of
+11 visible signs of infections or contagious or communicable disease; and
+12 (2) if the dog, cat, ferret, or wolf-hybrid is more than three months of
+13 age, the dog, cat, ferret, or wolf-hybrid has a current rabies vaccination or is a
+14 specific breed for which a rabies vaccination is not age-appropriate; and
+15 (3) if the wolf-hybrid is more than four months of age, the wolf-hybrid
+16 has been sexually sterilized.
+17 (b) The Agency of Agriculture, Food and Markets may adopt rules
+18 regarding the issuance and contents of any certificate required under
+19 subsection (a) of this section.
+VT LEG #388035 v.1
+
+AS PASSED BY HOUSE H.841
+2026 Page 16 of 17
+1 Sec. 13. 20 V.S.A. § 3916 is added to read:
+2 § 3916. INSURANCE
+3 Pet dealers, animal shelters, rescue organizations, and keepers of animals
+4 for breeding purposes shall, as a condition of their licenses or certificates of
+5 registration, be required to obtain and maintain a commercially reasonable
+6 level of general liability insurance.
+7 Sec. 14. 20 V.S.A. § 3917 is added to read:
+8 § 3917. ADVERTISING
+9 (a) All advertisements of domestic pets for adoption or sale in Vermont
+10 shall contain:
+11 (1) the current location of the domestic pet;
+12 (2) the municipality and state in which the domestic pet was located at
+13 the time the advertisement was placed;
+14 (3) the advertiser’s rescue or shelter license number, if any; and
+15 (4) the advertiser’s license number, if any.
+16 (b) For purposes of advertising on social media accounts, subsection (a) of
+17 this section shall only apply to advertisers located in Vermont or transferring
+18 or offering to transfer domestic pets in the State of Vermont.
+19 Sec. 15. REPORT
+20 On or before December 15, 2026, the Director of Animal welfare shall
+21 report to the House Committee on Government Operations and Military
+VT LEG #388035 v.1
+
+AS PASSED BY HOUSE H.841
+2026 Page 17 of 17
+1 Affairs and the Senate Committee on Government Operations on the next steps
+2 necessary for the creation of a comprehensive animal welfare program in
+3 Vermont. The Director shall consult with stakeholders and registrants for
+4 purposes of preparing the report required by this section.
+5 Sec. 16. EFFECTIVE DATE
+6 This act shall take effect on passage.
+VT LEG #388035 v.1

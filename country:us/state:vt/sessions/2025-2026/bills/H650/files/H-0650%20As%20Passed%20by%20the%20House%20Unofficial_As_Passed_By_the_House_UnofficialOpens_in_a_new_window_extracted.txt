@@ -1,0 +1,131 @@
+Title: 
+Official Title: 
+Source: versions - As Passed By the House (UnofficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+AS PASSED BY HOUSE H.650
+2026 Page 1 of 5
+1 H.650
+2 An act relating to educational technology products
+3 It is hereby enacted by the General Assembly of the State of Vermont:
+4 Sec. 1. 9 V.S.A. chapter 62 is amended to read:
+5 CHAPTER 62. PROTECTION OF PERSONAL INFORMATION
+6 * * *
+7 Subchapter 3A. Student Privacy
+8 * * *
+9 § 2443f. ENFORCEMENT
+10 (a) A person who violates a provision of this chapter subchapter commits
+11 an unfair and deceptive act in commerce in violation of section 2453 of this
+12 title.
+13 (b) The Attorney General has the same authority to adopt rules to
+14 implement the provisions of this subchapter and to conduct civil investigations,
+15 enter into assurances of discontinuance, and bring civil actions as provided
+16 under chapter 63, subchapter 1 of this title.
+17 Subchapter 3B. Educational Technology
+18 § 2444a. REGISTRATION REQUIREMENTS
+19 (a) Definitions. As used in this section:
+20 (1) “Educational technology product” and “product” mean any student-
+21 facing software, application, or platform that may collect, process, or transmit
+VT LEG #388397 v.1
+
+AS PASSED BY HOUSE H.650
+2026 Page 2 of 5
+1 student data and that is used for teaching and learning purposes in a school in
+2 Vermont.
+3 (2) “Filing” means an initial registration, amendment, periodic report, or
+4 other filing with the Secretary of State as the Secretary may require.
+5 (3) “Provider of an educational technology product” and “provider”
+6 mean a person that provides an educational technology product that is in use at
+7 a school with or without a contract with the school or school district.
+8 (4) “School” means a public school or an independent school approved
+9 pursuant to 16 V.S.A. § 166.
+10 (b) Mandatory data reporting. In addition to all other requirements of a
+11 person registering with the Secretary of State pursuant to State law, a person
+12 doing business in this State as a provider of an educational technology product
+13 shall, at the time of a filing, provide the following:
+14 (1) the name and primary physical, email, and internet addresses of the
+15 person;
+16 (2) a link to the most recent version of the privacy policy and terms and
+17 conditions of each product in use;
+18 (3) the name of each school or school district in which the provider is
+19 operating pursuant to a contract;
+20 (4) the name and a brief description of each product of the provider, also
+21 indicating which products are offered at no cost to schools;
+VT LEG #388397 v.1
+
+AS PASSED BY HOUSE H.650
+2026 Page 3 of 5
+1 (5) which products are known by the provider to be in use in any school
+2 or school district; and
+3 (6) an attestation that each product meets:
+4 (A) the standards set forth in subchapter 3A of this chapter and
+5 subchapter 6 of this chapter (the Vermont Age-Appropriate Design Code Act);
+6 and
+7 (B) all federal and State privacy laws, including the federal
+8 Children’s Online Privacy Protection Act.
+9 * * *
+10 Sec. 2. EDUCATIONAL TECHNOLOGY REGISTRATION REVIEW;
+11 CERTIFICATION; AGENCY OF EDUCATION; REPORT
+12 (a) Task. The Agency of Education shall:
+13 (1) in consultation with the Secretary of State, review all educational
+14 technology product provider registrations pursuant to 9 V.S.A. § 2444a;
+15 (2) in consultation with schools, create a list of educational technology
+16 products in use across the State;
+17 (3) cross-reference the information gathered in subdivisions (1) and (2)
+18 of this subsection to determine the names of any unregistered educational
+19 technology providers operating in the State and forward the names of such
+20 providers to the Office of the Attorney General;
+VT LEG #388397 v.1
+
+AS PASSED BY HOUSE H.650
+2026 Page 4 of 5
+1 (4) determine where assistive technology may be included in an
+2 individualized education plan;
+3 (5) provide a recommendation as to how the State should certify
+4 educational technology products for use in schools, including:
+5 (A) which State entities should be involved in the certification
+6 process and to what extent;
+7 (B) the criteria to be considered in the certification process, which at
+8 the minimum shall include:
+9 (i) the product’s compliance with State curriculum standards;
+10 (ii) advantages of using the product compared with nondigital
+11 methods;
+12 (iii) whether the product was explicitly designed for educational
+13 use;
+14 (iv) design features of the product, including any:
+15 (I) geolocation tracking;
+16 (II) use of artificial intelligence, which includes chatbots,
+17 synthetic content, and automated decision-making tools;
+18 (III) targeted advertising;
+19 (IV) personalized recommendation systems;
+20 (V) access to adults unknown to a student; and
+21 (VI) features that would lead to compulsive use;
+VT LEG #388397 v.1
+
+AS PASSED BY HOUSE H.650
+2026 Page 5 of 5
+1 (v) whether the product serves as beneficial assistive technology
+2 or provides some other form of benefit for special education purposes; and
+3 (vi) the data privacy practices of the provider of the product;
+4 (C) the timeline and estimated cost to establish and implement the
+5 certification process;
+6 (D) the estimated cost or cost savings for schools assuming a State
+7 certification process is established; and
+8 (E) whether any third-party services, including Internet Safety Labs,
+9 should be utilized to assist in certification; and
+10 (6) provide the General Assembly with any other information it deems
+11 relevant to help ensure that educational technology products are safely and
+12 smartly used in Vermont schools.
+13 (b) Report. On or before November 15, 2027, the Agency of Education
+14 shall submit a written report to the House Committees on Commerce and
+15 Economic Development and on Education and the Senate Committees on
+16 Economic Development, Housing and General Affairs and on Education with
+17 its findings and information gathered pursuant to subsection (a) of this section
+18 along with any recommendations for legislative action concerning the
+19 certification of educational technology products.
+20 Sec. 3. EFFECTIVE DATE
+21 This act shall take effect on July 1, 2026.
+VT LEG #388397 v.1

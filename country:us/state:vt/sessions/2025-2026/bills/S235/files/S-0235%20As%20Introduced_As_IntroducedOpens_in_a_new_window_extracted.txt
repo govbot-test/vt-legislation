@@ -1,0 +1,90 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED S.235
+2026 Page 1 of 4
+1 S.235
+2 Introduced by Senator Westman
+3 Referred to Committee on
+4 Date:
+5 Subject: Commerce and trade; consumer protection; motor vehicles; service
+6 history; defects; disclosure
+7 Statement of purpose of bill as introduced: This bill proposes to require motor
+8 vehicle dealers and repair shops to provide accurate information regarding a
+9 motor vehicle’s service history and diagnostics to vehicle history information
+10 databases and providers, and to require dealers to disclose vehicle history
+11 information in the dealer’s possession to a prospective purchaser.
+12 An act relating to the reporting and disclosure of motor vehicle diagnostics
+13 and service history
+14 It is hereby enacted by the General Assembly of the State of Vermont:
+15 Sec. 1. 9 V.S.A. chapter 63, subchapter 13 is added to read:
+16 Subchapter 13. Motor Vehicle Service History
+17 § 2495. DEFINITIONS
+18 As used in this section:
+19 (1) “Dealer” means a person engaged in the business of selling or
+20 exchanging new or used motor vehicles, or both. A dealer includes any person
+VT LEG #385981 v.1
+
+BILL AS INTRODUCED S.235
+2026 Page 2 of 4
+1 that, as part of or incidental to such business, repairs motor vehicles, sells
+2 motor vehicle parts and accessories, or leases or rents motor vehicles.
+3 (2) “Repair shop” means a person that is engaged in the business of
+4 performing service or maintenance on motor vehicles but is not a dealer.
+5 (3) “Vehicle history database” means a database from which a person
+6 may obtain vehicle history information specific to a vehicle identification
+7 number (VIN).
+8 (4) “Vehicle history information” includes the following related to a
+9 motor vehicle:
+10 (A) accident or damage information;
+11 (B) the number of previous owners;
+12 (C) information regarding service or maintenance history, including
+13 diagnostic information generated while performing service or maintenance;
+14 (D) odometer reading; and
+15 (E) title information.
+16 (5) “Vehicle history report” means any written or electronic
+17 communication of vehicle history information made by a vehicle history report
+18 provider that is made available to consumers.
+19 (6) “Vehicle history report provider” means an entity that generates
+20 vehicle history reports from a vehicle history database that are provided
+21 directly to consumers. “Vehicle history report provider” does not include a
+VT LEG #385981 v.1
+
+BILL AS INTRODUCED S.235
+2026 Page 3 of 4
+1 dealer that obtains a vehicle history report from a third party that is not an
+2 affiliate of the dealer and that then communicates the vehicle history report
+3 without altering the vehicle history information in the report.
+4 § 2495a. REPORTS TO VEHICLE HISTORY REPORT PROVIDERS
+5 In any instance in which a dealer or repair shop provides information
+6 regarding a motor vehicle to a vehicle history report provider or other entity
+7 that maintains a vehicle history database, the dealer or repair shop shall
+8 provide accurate information regarding the motor vehicle, including any
+9 repairs, services, or maintenance performed on the vehicle and the results of
+10 any diagnostics performed on the vehicle.
+11 § 2495b. DISCLOSURE OF USED VEHICLE HISTORY INFORMATION
+12 TO PROSPECTIVE PURCHASERS
+13 A dealer shall disclose to a prospective purchaser of a used motor vehicle
+14 any vehicle history information related to that motor vehicle that is in the
+15 possession of the dealer, including any vehicle history reports that the dealer
+16 has obtained and any other vehicle history information that is in the possession
+17 of the dealer or is readily available to the dealer.
+18 § 2495c. VIOLATIONS
+19 (a) A violation of this subchapter is deemed to be a violation of section
+20 2453 of this title.
+VT LEG #385981 v.1
+
+BILL AS INTRODUCED S.235
+2026 Page 4 of 4
+1 (b) The Attorney General has the same authority to make rules, conduct
+2 civil investigations, enter into assurances of discontinuance, and bring civil
+3 actions, and private parties have the save rights and remedies, as provided
+4 pursuant to subchapter 1 of this chapter.
+5 Sec. 2. EFFECTIVE DATE
+6 This act shall take effect on July 1, 2026.
+VT LEG #385981 v.1

@@ -1,0 +1,1271 @@
+Title: 
+Official Title: 
+Source: versions - As Passed by Both House and Senate (UnofficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 1 of 52
+1 S.193
+2 An act relating to establishing a forensic facility for certain criminal justice-
+3 involved persons
+4 It is hereby enacted by the General Assembly of the State of Vermont:
+5 Sec. 1. LEGISLATIVE INTENT
+6 It is the intent of the General Assembly that the Secretary of Human
+7 Services shall establish and operate a locked secure forensic facility by July 1,
+8 2029, for the competency restoration, evaluation, stabilization, treatment, and
+9 care of persons who have been found not competent to stand trial or not guilty
+10 by reason of insanity for serious criminal offenses. The Department of
+11 Corrections shall not operate or staff the forensic facility, with the exception
+12 that employees of the Department of Corrections may provide security services
+13 for the facility at the admitting area of and around the outside perimeter of a
+14 forensic facility if it is colocated on the grounds of a correctional facility.
+15 Sec. 2. 13 V.S.A. § 4815a is added to read:
+16 § 4815a. COMPETENCY RESTORATION SERVICES WITHIN
+17 FORENSIC FACILITY
+18 (a) A person shall be placed at the forensic facility established in section
+19 4826 of this title if the person:
+20 (1) has been charged with an offense punishable by a life sentence;
+21 (2)(A) has been held without bail pursuant to section 7553 of this title;
+22 or
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 2 of 52
+1 (B) if the person is not held without bail pursuant to section 7553 of
+2 this title, has a qualifying condition and it has been determined that the
+3 person’s release would create a substantial risk of bodily injury to another
+4 person;
+5 (3) is not currently:
+6 (A) receiving treatment through an order of hospitalization pursuant
+7 to 18 V.S.A. § 7619 or section 4822 of this title; or
+8 (B) subject to an order of commitment to the Commissioner of
+9 Disabilities, Aging, and Independent Living issued under 18 V.S.A. § 8845 or
+10 section 4823 of this title, unless the person is detained in a correctional facility
+11 pending trial; and
+12 (4) has been found not competent to stand trial.
+13 (b)(1) The forensic facility shall cause the person to be evaluated for
+14 competency to stand trial:
+15 (A) six months from the date of admission, and thereafter every
+16 six months from the issuance of an order for continued competency restoration
+17 treatment under subdivision (3)(B) of this subsection (b); and
+18 (B) at any time upon the determination by the Agency of Human
+19 Services Medical Director that the person is likely competent to stand trial or
+20 that it is unlikely that the person’s competency can be restored.
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 3 of 52
+1 (2) The court shall hold a hearing after the competency evaluation, and,
+2 prior to the hearing, the results of all evaluations shall be supplied to the court
+3 and the parties to the underlying criminal action.
+4 (3)(A) If the court finds after the hearing that the person is competent to
+5 stand trial, the court shall immediately notify the State’s Attorney and the
+6 person’s counsel in the criminal case.
+7 (B) If the court finds after the hearing that the person is not
+8 competent to stand trial, the court shall order continued competency restoration
+9 treatment at the facility pursuant to this section.
+10 (4) Notwithstanding any other provision of law or rule, witnesses at
+11 hearings held pursuant to this section shall be permitted to provide testimony
+12 remotely.
+13 (c)(1) At the request of a party or the Agency of Human Services Medical
+14 Director, the court may order that a competency evaluation conducted pursuant
+15 to subsection (b) of this section include an opinion on whether the person’s
+16 competency can be restored. If a request is made pursuant to this subsection,
+17 the forensic facility shall cause the person to be evaluated for restorability to
+18 competence prior to the hearing.
+19 (2) If the court finds that the person’s competency can be restored, the
+20 court shall order continued competency restoration treatment at the facility
+21 pursuant to this section.
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 4 of 52
+1 (3)(A) If the court finds that the person’s competency cannot be
+2 restored, the court shall hold a hearing within 60 days unless that period is
+3 extended by the court for good cause.
+4 (B) Prior to the date of the hearing, the court shall order that a
+5 forensic risk assessment of the person be conducted by an evaluator
+6 appropriately qualified for the qualifying condition of the person that includes:
+7 (i) the person’s history and present dangerousness;
+8 (ii) a description of any tests that were employed and the results of
+9 the tests;
+10 (iii) the examiner’s findings;
+11 (iv) the examiner’s opinion as to whether the person’s release
+12 would create a substantial risk of bodily injury to another person;
+13 (v) recommendations for evidence-based treatment and
+14 supervision, including in a community-based placement, that would support
+15 the person’s success and mitigate risk of aggression and violence;
+16 (vi) the examiner’s opinion as to whether the person is a person in
+17 need of custody, care, and habilitation as defined in 18 V.S.A. § 8839; and
+18 (vii) the examiner’s opinion as to whether the person is competent
+19 to stand trial.
+20 (C) The results of all evaluations shall be supplied to the court and
+21 the parties to the underlying criminal action.
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 5 of 52
+1 (4)(A) If the State’s Attorney demonstrates by clear and convincing
+2 evidence at a hearing held pursuant to subdivision (3)(A) of this subsection (c)
+3 or (B) of this subdivision (4) that the person has a qualifying condition that,
+4 upon the person’s release, would create a substantial risk of bodily injury to
+5 another person, the court shall order continued commitment of the person
+6 consistent with the person’s forensic risk assessment. The court shall order
+7 treatment of the person, which may include appropriate supervision and
+8 supervised housing, including a community-based placement, in the least
+9 restrictive setting consistent with the person’s forensic risk assessment and
+10 treatment needs.
+11 (B) If continued commitment is ordered pursuant to subdivision (A)
+12 of this subdivision (4), the person’s commitment shall be reviewed by the
+13 court:
+14 (i) every 12 months;
+15 (ii) at any time upon the determination by the Agency of Human
+16 Services Medical Director that the person no longer has a qualifying condition
+17 and the person’s release would not create a substantial risk of bodily injury to
+18 another person; and
+19 (iii) upon petition of the person filed at any time after 90 days
+20 following an order of continued commitment issued pursuant to subdivision
+21 (A) of this subdivision (4), and thereafter not earlier than six months from the
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 6 of 52
+1 issuance of an order for continued commitment under subdivision (4)(A) of
+2 this subsection (c).
+3 (5)(A) If the State’s Attorney does not demonstrate by clear and
+4 convincing evidence at a hearing held pursuant to subdivision (3)(A) or (4)(B)
+5 of this subsection (c) that the person has a qualifying condition and the
+6 person’s release would create a substantial risk of bodily injury to another
+7 person, the court shall:
+8 (i) order the release of the person under a prescribed regimen of
+9 medical, psychiatric, or psychological care or treatment, housing, and
+10 supervision by the Commissioner of Mental Health; the Department of
+11 Disabilities, Aging, and Independent Living; or the Department of Health, that
+12 the Agency of Human Services Medical Director has certified as appropriate;
+13 and
+14 (ii) order, as an explicit condition of supervision, that the person
+15 comply with the prescribed regimen of medical, psychiatric, or psychological
+16 care or treatment, housing, and supervision by the Commissioner of Mental
+17 Health; the Department of Disabilities, Aging, and Independent Living; or the
+18 Department of Health, together with any other conditions appropriate to protect
+19 the public.
+20 (B) A person’s release pursuant to this subdivision (5) shall be
+21 reviewed by the court every 12 months. The person shall be released from the
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 7 of 52
+1 supervision of the Commissioner of Mental Health; the Department of
+2 Disabilities, Aging, and Independent Living; or the Department of Health
+3 unless the State’s Attorney demonstrates by clear and convincing evidence at
+4 the hearing that continued treatment and supervision is necessary to prevent the
+5 person from becoming a substantial risk of bodily injury to another person.
+6 (C)(i) The State’s Attorney shall make a reasonable effort to provide
+7 the victim with prior notice of any hearing held pursuant to this subdivision
+8 (5). The court may continue the hearing if the victim has not been provided
+9 with the notice required by this subdivision (C)(i).
+10 (ii) At any hearing under this subdivision (5), the court shall ask if
+11 the victim is present and, if so, shall offer the victim the opportunity to be
+12 heard. The court may consider any views offered at the hearing by the victim,
+13 including the victim’s views concerning the offense and preferences for the
+14 person’s placement and care. If the victim is not present at the hearing, the
+15 court shall ask whether the victim has expressed oral or written views
+16 concerning the offense and preferences for the person’s placement and care,
+17 and, if so, the court may consider those views.
+18 (6)(A) If the court finds that the person’s competency cannot be
+19 restored, and finds by clear and convincing evidence that the person is a person
+20 in need of custody, care, and habilitation as defined in 18 V.S.A. § 8839, the
+21 court shall issue an order of commitment for up to one year directed to the
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 8 of 52
+1 Commissioner of Disabilities, Aging, and Independent Living for placement in
+2 a designated program in the least restrictive environment consistent with the
+3 person’s need for custody, care, and habilitation. The order of commitment
+4 shall have the same force and effect as an order issued under 18 V.S.A. chapter
+5 206, subchapter 3 and persons committed under the order shall have the same
+6 status, and the same rights, including the right to receive care and habilitation,
+7 to be examined and discharged, and to apply for and obtain judicial review of
+8 their cases, as persons ordered committed under 18 V.S.A. chapter 206,
+9 subchapter 3.
+10 (B)(i) The Commissioner shall provide appropriate custody, care, and
+11 habilitation in a designated program to a person committed under subdivision
+12 (A) of this subdivision (6).
+13 (ii) The court may order continued treatment at the forensic
+14 facility for a period not to exceed one year if the court finds that the
+15 Commissioner is not currently able to provide appropriate custody, care, and
+16 habilitation in a designated program. For good cause shown, the court may
+17 extend the one-year period by an additional period not to exceed six months.
+18 (C)(i) The court shall review an order of continued treatment issued
+19 pursuant to subdivision (B)(ii) of this subdivision (6) every 90 days.
+20 (ii) If the court finds at the review that appropriate custody, care,
+21 and habilitation can be provided to the person in a designated program, the
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 9 of 52
+1 court shall vacate the order for continued treatment and order the person
+2 committed to the custody of the Commissioner pursuant to subdivision (A) of
+3 this subdivision (6).
+4 (iii) If the court finds at the review that appropriate custody, care,
+5 and habilitation cannot be provided to the person in a designated program, the
+6 court shall order continued treatment at the forensic facility pursuant to
+7 subdivision (B)(ii) of this subdivision (6).
+8 (D) The Commissioner may at any time certify to the court that
+9 appropriate custody, care, and habilitation can be provided to the person in a
+10 designated program, and after such a certification the court shall vacate the
+11 order for continued treatment and order the person committed to the custody of
+12 the Commissioner pursuant to subdivision (A) of this subdivision (6).
+13 (E) As used in this subdivision (6), “Commissioner” means the
+14 Commissioner of Disabilities, Aging, and Independent Living.
+15 (d) Except as provided in subdivisions (c)(4)(A), (c)(5), and (c)(6)(A) of
+16 this section, the person shall remain at the forensic facility until the person is
+17 restored to competency or until there is a final disposition of the charges
+18 against the person.
+19 (e) The person shall receive competency restoration services while at the
+20 forensic facility according to a plan approved by the Agency of Human
+21 Services Medical Director. Such services shall include any appropriate
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 10 of 52
+1 combination of medication, education, accommodations, habilitation, or other
+2 services identified as necessary or proper to achieve and maintain competency
+3 to stand trial. The person’s refusal to receive competency restoration services
+4 shall not be grounds for release or dismissal from the forensic facility.
+5 (f) Competency restoration services shall be provided to the person at the
+6 forensic facility, or at another location as part of a discharge plan, until the
+7 person is restored to competency or until there is a final disposition of the
+8 charges against the person.
+9 (g)(1) As appropriate for the needs of the person, the Commissioner of
+10 Mental Health; of Health; or of Disabilities, Aging, and Independent Living
+11 shall actively monitor compliance with orders issued pursuant to subdivision
+12 (c)(5) of this section. Upon request from the commissioner monitoring the
+13 person, the court shall immediately order return of a person to the forensic
+14 facility if:
+15 (A) the person was released from the facility pursuant to subdivision
+16 (c)(5) of this section; and
+17 (B) the Agency of Human Services Medical Director has reason to
+18 believe that the person continues to have a qualifying condition and that the
+19 person’s continued release would create a substantial risk of bodily injury to
+20 another person.
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 11 of 52
+1 (2) The commissioner monitoring the person shall notify the court
+2 where the person was committed upon return of the person to the forensic
+3 facility. Upon readmission, the court shall hold a hearing at which the State’s
+4 Attorney shall have the burden of establishing by clear and convincing
+5 evidence that the person has a qualifying condition and that the person’s
+6 continued release would create a substantial risk of bodily injury to another
+7 person. If the State’s Attorney meets its burden, the court shall order the
+8 person readmitted to the forensic facility for treatment pursuant to this section.
+9 If the State’s Attorney does not meet its burden, the court shall order the
+10 person restored to the status the person had when the person was returned to
+11 the facility.
+12 (h) The Agency of Human Services Medical Director shall receive prior
+13 approval of the Criminal Division of the Superior Court where the person’s
+14 underlying criminal charge is pending for any competency restoration plan
+15 involving involuntary medication. The court shall not approve involuntary
+16 medication unless the State’s Attorney establishes by clear and convincing
+17 evidence that:
+18 (1) the involuntary medication is medically appropriate;
+19 (2) the involuntary medication serves the important governmental
+20 interests of bringing to trial an individual accused of a serious crime and
+21 ensuring a fair, timely prosecution;
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 12 of 52
+1 (3) the involuntary medication significantly furthers these important
+2 governmental interests by making it substantially likely to render the defendant
+3 competent to stand trial; and
+4 (4) any alternative, less intrusive treatments are unlikely to achieve the
+5 same results.
+6 (i) When an evaluation is required of the person’s competency or
+7 restorability under this section, the defense shall be entitled to conduct an
+8 independent evaluation and introduce the results at the hearing.
+9 Sec. 3. 13 V.S.A. § 4817 is amended to read:
+10 § 4817. COMPETENCY TO STAND TRIAL; DETERMINATION;
+11 DISMISSAL
+12 * * *
+13 (e)(1) When a person has been found incompetent to stand trial for an
+14 alleged misdemeanor offense, the charges against the person shall be dismissed
+15 without prejudice if, after the finding of incompetence, the case remains
+16 inactive for a continuous period of time equal to or greater than the maximum
+17 sentence for the offense. Dismissal under this section shall not be required if
+18 the court finds that dismissing the case would be contrary to the interests of
+19 justice.
+20 (2)(A) If the offense is not a qualifying crime under subdivision 7601(4)
+21 of this title, the court shall hold a hearing prior to dismissing a case under this
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 13 of 52
+1 subsection (e). The State’s Attorney shall make a reasonable effort to provide
+2 the victim with prior notice of the hearing, and the court may continue the
+3 hearing if the victim has not been provided with the notice required by this
+4 subdivision (2)(A).
+5 (B) At the hearing, the court shall ask if the victim is present and, if
+6 so, shall offer the victim the opportunity to be heard. The court may consider
+7 any views offered at the hearing by the victim, including the victim’s views
+8 concerning the offense and the interests of justice. If the victim is not present
+9 at the hearing, the court shall ask whether the victim has expressed oral or
+10 written views concerning the offense and the interests of justice, and, if so, the
+11 court may consider those views.
+12 Sec. 4. 13 V.S.A § 4819a is added to read:
+13 § 4819a. FORENSIC FACILITY PLACEMENT FOR PERSONS
+14 NOT GUILTY BY REASON OF INSANITY FOR CERTAIN
+15 CRIMES
+16 (a)(1) A person who is charged with an offense punishable by a life
+17 sentence and is found not guilty only by reason of insanity at the time of the
+18 offense charged shall be committed to a forensic facility pursuant to this
+19 section. This section shall not be construed to prohibit the temporary transfer
+20 of a person requiring inpatient treatment through an order of hospitalization
+21 pursuant to 18 V.S.A. § 7619 or section 4822 of this title.
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 14 of 52
+1 (2) The committing court shall retain jurisdiction over the person for all
+2 proceedings under this section.
+3 (b)(1) A hearing shall be held by the court where the person was tried
+4 within 60 days following admission to the forensic facility, unless that period
+5 is extended by the court.
+6 (2) Prior to the date of the hearing, the court shall order that a forensic
+7 risk assessment of the person be conducted that includes:
+8 (A) the person’s history and present dangerousness;
+9 (B) a description of any tests that were employed and the results of
+10 the tests;
+11 (C) the examiner’s findings;
+12 (D) the examiner’s opinion as to whether the person’s release would
+13 create a substantial risk of bodily injury to another person; and
+14 (E) recommendations for evidence-based treatment and supervision
+15 that would support the individual’s success and mitigate risk of aggression and
+16 violence.
+17 (3) The results of all evaluations shall be supplied to the court and the
+18 parties to the underlying criminal action.
+19 (4)(A) At the hearing, the court shall order the person committed to the
+20 forensic facility if the State’s Attorney establishes by clear and convincing
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 15 of 52
+1 evidence that the person has a qualifying condition that, upon the person’s
+2 release, would create a substantial risk of bodily injury to another person.
+3 (B) If the State’s Attorney does not establish by clear and convincing
+4 evidence that the person has a qualifying condition that, upon the person’s
+5 release, would create a substantial risk of bodily injury to another person, the
+6 court shall enter an order releasing the person pursuant to subdivisions
+7 (e)(3)(A) and (B) of this section.
+8 (C) Notwithstanding any other provision of law or rule, witnesses at
+9 the hearing shall be permitted to provide testimony remotely.
+10 (c) A person committed to the forensic facility pursuant to this section shall
+11 not be released until the court finds pursuant to subsection (e) of this section
+12 that the person no longer has a qualifying condition that, upon the person’s
+13 release, would create a substantial risk of bodily injury to another person.
+14 (d) The Agency of Human Services Medical Director shall, taking into
+15 account public safety and the least restrictive conditions applicable, provide
+16 adequate care and individualized treatment at the forensic facility to persons
+17 ordered committed pursuant to this section. In order that the Medical Director
+18 may adequately determine the nature of the person’s condition and needs, all
+19 persons committed pursuant to this section shall be promptly examined by
+20 qualified personnel in order to provide a proper evaluation, diagnosis, and
+21 treatment plan.
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 16 of 52
+1 (e)(1)(A)(i) The State’s Attorney shall petition the committing court for
+2 review of the person’s commitment:
+3 (I) six months after the date that the person is committed
+4 pursuant to subdivision (b)(4)(A) of this section;
+5 (II) three years after a commitment order issued following a
+6 review under subdivision (I) of this subdivision (i);
+7 (III) every fifth year after a commitment order issued following
+8 a review under subdivision (II) of this subdivision (i); and
+9 (IV) at any time upon certification at any time to the Secretary
+10 of Human Services by the Agency of Human Services Medical Director that
+11 the person no longer has a qualifying condition that, upon the person’s release,
+12 would create a substantial risk of bodily injury to another person.
+13 (ii) The Secretary of Human Services shall provide all reports
+14 required under this section to the State’s Attorney, who shall file them with the
+15 petition.
+16 (B)(i) A person committed pursuant to subdivision (b)(4)(A) of this
+17 section may petition the committing court for release on the grounds that the
+18 person no longer has a qualifying condition that, upon the person’s release,
+19 would create a substantial risk of bodily injury to another person.
+20 (ii) A petition shall not be filed pursuant to this subdivision (B):
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 17 of 52
+1 (I) until at least 90 days after the issuance of the commitment
+2 order pursuant to subdivision (b)(4)(A) of this section; and
+3 (II) more frequently than once during each applicable period
+4 set forth in subdivision (A)(i) of this subdivision (e)(1).
+5 (2) If the State’s Attorney establishes by clear and convincing evidence
+6 that the person has a qualifying condition that, upon the person’s release,
+7 would create a substantial risk of bodily injury to another person, the court
+8 shall deny the petition and order the person committed to the forensic facility
+9 for continued treatment pursuant to this section.
+10 (3) If the State’s Attorney does not establish by clear and convincing
+11 evidence that the person has a qualifying condition that, upon the person’s
+12 release, would create a substantial risk of bodily injury to another person, the
+13 court shall:
+14 (A) order the release of the person under a prescribed regimen of
+15 medical, psychiatric, or psychological care or treatment, including supervision
+16 and housing, that the Agency of Human Services Medical Director has
+17 certified as appropriate; and
+18 (B) order, as an explicit condition of supervision, that the person
+19 comply with the prescribed regimen of evidence-informed medical,
+20 psychiatric, or psychological care or treatment, including supervision and
+21 housing, together with any other conditions appropriate to protect the public.
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 18 of 52
+1 (f) As appropriate for the needs of the person, the Commissioner of Mental
+2 Health; of Health; or of Disabilities, Aging, and Independent Living shall
+3 actively monitor compliance with orders issued pursuant to subdivision (e)(2)
+4 of this section. Upon request from the commissioner monitoring the person,
+5 the court shall immediately order return of the person to the forensic facility if
+6 the Agency of Human Services Medical Director determines that the person is
+7 noncompliant with the order and that the noncompliance may create a risk of
+8 bodily injury to another person. The commissioner monitoring the person shall
+9 notify the court where the person was committed upon return of the person to
+10 the forensic facility. Upon readmission, the court shall hold a hearing at which
+11 the State’s Attorney shall have the burden of establishing by clear and
+12 convincing evidence that the person was noncompliant with the court’s order
+13 for conditional release and that the noncompliance creates a risk of bodily
+14 injury to another person.
+15 (g)(1) The State’s Attorney shall provide the victim with prior notice of any
+16 hearing held pursuant to this section. The court may continue the hearing if the
+17 victim has not been provided with the notice required by this subdivision.
+18 (2) At any hearing under this section, the court shall ask if the victim is
+19 present and, if so, shall offer the victim the opportunity to be heard. The court
+20 may consider any views offered at the hearing by the victim, including the
+21 victim’s views concerning the offense and preferences for the person’s
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 19 of 52
+1 placement and care. If the victim is not present at the hearing, the court shall
+2 ask whether the victim has expressed oral or written views concerning the
+3 offense and preferences for the person’s placement and care, and, if so, the
+4 court may consider those views.
+5 Sec. 5. 13 V.S.A. § 4826 is added to read:
+6 § 4826. FORENSIC FACILITY; DEFINITIONS
+7 (a)(1) As used in this chapter:
+8 (A) “Competency can be restored” means a substantial probability
+9 that in the foreseeable future the person will attain the capacity to permit the
+10 proceedings to go forward.
+11 (B) “Forensic facility” means a locked secure facility that provides a
+12 suitable clinical setting and is licensed as a therapeutic community residence as
+13 defined in 33 V.S.A. § 7102(11) where:
+14 (i) the Agency of Human Services provides for the secure
+15 competency restoration, evaluation, stabilization, treatment, and care of
+16 persons with a qualifying condition who are involved in the legal system and
+17 who do not require a hospitalization level of care; and
+18 (ii) a person is transferred pursuant to subsections 4815a(a) and
+19 4819a(a) of this title.
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 20 of 52
+1 (C) “Qualifying condition” means any condition whether mental,
+2 congenital, or traumatic, however acquired or developed, or any other
+3 circumstance that resulted in the person being determined:
+4 (i) incompetent to stand trial; or
+5 (ii) not guilty by reason of insanity.
+6 (2) The evaluations required by this chapter may be conducted pursuant
+7 to contracts entered into between the Commissioner of Buildings and General
+8 Services and evaluation providers.
+9 (3) Prior to any hearing under section 4815a or 4819a of this title, the
+10 person shall be required, at the request of a party, to permit an expert
+11 assessment of the person’s competency, forensic risk, or restorability to
+12 competency.
+13 (b) The Secretary of Human Services shall establish and operate a locked
+14 secure forensic facility for the competency restoration, evaluation,
+15 stabilization, treatment, and care of persons who have been transferred
+16 pursuant to subsections 4815a(a) and 4819a(a) of this title. The forensic
+17 facility’s clinical, forensic, and competency restoration services shall be
+18 overseen by the Agency of Human Services Medical Director. The
+19 Department of Corrections shall not play a role in the forensic facility’s
+20 operation, the provision of services, or internal security, except to provide
+21 security services for the facility at the admitting area and around the outside
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 21 of 52
+1 perimeter if the facility is colocated on the grounds of a correctional facility.
+2 The forensic facility shall:
+3 (1) be designed and operated in a manner that supports therapeutic,
+4 recovery-oriented, and trauma-informed programming in a therapeutic
+5 community residence, while maintaining appropriate levels of safety and
+6 security;
+7 (2) not refuse any persons it is ordered to admit and shall not require any
+8 clinical or diagnostic prerequisites for admission;
+9 (3) provide for the safe competency restoration, evaluation, treatment,
+10 stabilization, and care of persons, including the ability to separate the
+11 population by sex or gender and to otherwise address clinical, safety, or
+12 operational considerations as appropriate, including the possible operation of
+13 multiple facilities;
+14 (4) follow the direction of the Agency of Human Services Medical
+15 Director, who shall oversee all forensic, clinical, and competency restoration
+16 services provided to transferred persons;
+17 (5) implement staff qualifications, licensure, training, and supervision
+18 requirements that are sufficient to ensure that persons transferred to the
+19 forensic facility have access to clinically appropriate care, treatment, services,
+20 and supports consistent with individual needs and with applicable professional
+21 standards;
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 22 of 52
+1 (6) ensure that a registered nurse licensed pursuant to 26 V.S.A. chapter
+2 28 or a physician licensed pursuant to 26 V.S.A. chapter 23 or 33 is available
+3 to provide care to transferred persons as clinically necessary;
+4 (7) ensure that persons receive clinically appropriate assessment and
+5 treatment planning and competency restoration plans, as appropriate, including
+6 the development of an initial person-specific treatment plan within 72 hours
+7 following transfer, which shall be reviewed periodically as clinically indicated;
+8 (8) ensure that clinical services and programming include psychiatric
+9 care, management of medications, education about court procedures,
+10 habilitation, and trauma-informed care, as appropriate;
+11 (9) continue to provide evaluation, treatment, stabilization, and care of a
+12 resident who has regained competency while the resident awaits and
+13 participates in the resident’s trial;
+14 (10) provide residents with interpreters, as appropriate;
+15 (11) implement grievance and appeals procedures; and
+16 (12) implement a process for reporting instances of death or serious
+17 bodily injury to residents of the forensic facility to the Agency of Human
+18 Services Medical Director.
+19 (c) Any records related to a person placed at the forensic facility shall be
+20 exempt from public inspection and copying under the Public Records Act and
+21 shall be kept confidential, except that:
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 23 of 52
+1 (1) the records shall be made available to the parties in the underlying
+2 criminal case upon request; and
+3 (2) the person’s health care providers may, with the person’s
+4 permission, view forensic facility records of the person’s psychiatric
+5 assessments at the facility, including assessments of the person’s competency
+6 to stand trial and criminal responsibility.
+7 (d) Persons shall be admitted to and maintained at the forensic facility
+8 pursuant to sections 4815a and 4819a of this title, and in proceedings under
+9 those sections shall be entitled to have counsel appointed from Vermont Legal
+10 Aid to represent them.
+11 (e) The Secretary of Human Services shall regularly consult with the
+12 Commissioners of Corrections; of Mental Health; of Health; and of
+13 Disabilities, Aging, and Independent Living when performing the duties
+14 required by this chapter for operating the forensic facility.
+15 (f) The Agency of Human Services Medical Director and an evaluator
+16 submitting a report pursuant to sections 4815a and 4819a of this title shall
+17 testify at any hearing under those sections if requested by the court or a party.
+18 (g) The Secretary of Human Services shall adopt rules pursuant to 3 V.S.A.
+19 chapter 25 to implement this section.
+20 Sec. 6. 18 V.S.A. § 7257 is amended to read:
+21 § 7257. REPORTABLE ADVERSE EVENTS
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 24 of 52
+1 (a) An acute inpatient hospital, an intensive residential recovery facility, a
+2 designated agency, a psychiatric residential treatment facility for youth, a
+3 forensic facility, or a secure residential recovery facility shall report to the
+4 Department of Mental Health instances of death or serious bodily injury to
+5 individuals with a mental condition or psychiatric disability in the custody or
+6 temporary custody of the Commissioner.
+7 * * *
+8 Sec. 7. FEASIBILITY PLAN; FORENSIC FACILITY
+9 (a) On or before January 15, 2027, the Secretary of Human Services, in
+10 consultation with the Department of Buildings and General Services, shall
+11 submit a feasibility plan for the development and operation of a forensic
+12 facility to the House Committees on Appropriations, on Corrections and
+13 Institutions, on Health Care, on Human Services, and on Judiciary and to the
+14 Senate Committees on Appropriations, on Health and Welfare, on Institutions,
+15 and on Judiciary. The feasibility plan shall assume that operation, staffing, and
+16 programming at the forensic facility shall be provided by the Agency of
+17 Human Services or its departments, with the exception that the Department of
+18 Corrections shall not play a role in its operation, the provision of services, or
+19 internal security, other than the provision of security services for the facility at
+20 the admitting area and around the outside perimeter if the facility is colocated
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 25 of 52
+1 on the grounds of a correctional facility. The feasibility plan shall address the
+2 following:
+3 (1) the proposed location of a forensic facility, which shall be
+4 independent from a correctional facility, and, if on the same grounds as a
+5 correctional facility, shall be separated by sight and sound;
+6 (2) the proposed design plans for a forensic facility that allows for the
+7 ability to separate residents by sex or gender and clinical need;
+8 (3) the number of beds within a forensic facility;
+9 (4) the entity or entities responsible for operating and providing services
+10 in a forensic facility;
+11 (5) the timeline for constructing a stand-alone forensic facility or fitting
+12 up an existing stand-alone facility to operate as a forensic facility;
+13 (6) the estimated cost of constructing or fitting up and operating a
+14 forensic facility;
+15 (7) which aspects of the therapeutic community residence rule would
+16 need to be modified to operate the forensic facility as a therapeutic community
+17 residence;
+18 (8) the clinical services available at a forensic facility, including on-site
+19 competency restoration services;
+20 (9) the proposed staffing levels, staff qualifications, and potential
+21 contracting needs necessary to establish a multidisciplinary clinical team at the
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 26 of 52
+1 forensic facility that reflects best practices, including required evidence-based,
+2 trauma-informed staff training and multiple potential staffing strategies;
+3 (10) the physical and staff security plan within and around the perimeter
+4 of a forensic facility, including therapeutic design and clinical supervision that
+5 reflect best practices, which shall not involve the Department of Corrections,
+6 with the exception that employees of the Department of Corrections may
+7 provide security services for the facility at the admitting area and around the
+8 outside perimeter of the facility if it is colocated on the grounds of a
+9 correctional facility;
+10 (11) a resident discharge and community monitoring plan from each
+11 department with custody of individuals in the forensic facility, developed in
+12 consultation with the Department of Corrections, that prioritizes community
+13 safety and provides residential, clinical, and case management services;
+14 (12) opportunities and cost estimates for persons who would be eligible
+15 for placement at the forensic facility to receive, while the development of a
+16 forensic facility in Vermont is pending, placement in an out-of-state residence
+17 where clinically appropriate programming can be provided;
+18 (13) a plan for the expansion of 1988 Acts and Resolves No. 248 to
+19 include individuals with a cognitive disability;
+20 (14) annual reporting metrics on the demographics, outcomes, and
+21 staffing at the forensic facility; and
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 27 of 52
+1 (15) any recommendations for legislative action to effectuate the
+2 development of a therapeutic, trauma-informed forensic facility.
+3 (b) At the August and November 2026 meetings of the Joint Legislative
+4 Justice Oversight Committee, the Secretary of Human Services or designee
+5 shall provide an interim status update on the development of the feasibility
+6 plan required pursuant to subsection (a) of this section and on the emergency
+7 rulemaking required by Sec. 12 of this act.
+8 (c)(1) Funds appropriated to the Agency of Human Services and its
+9 departments in fiscal year 2027 shall be used to complete the feasibility plan
+10 required by this section and any other planning activities necessary to
+11 implement this act, but absent further legislative enactment by the General
+12 Assembly, the Agency and its departments shall not expend funds in fiscal year
+13 2027 for the construction or fit-up of a forensic facility.
+14 (2) No further legislative enactment by the General Assembly shall be
+15 required to implement the interim forensic and competency restoration
+16 program established by emergency rules adopted pursuant to Sec. 12 of this
+17 act. The interim forensic and competency restoration program is contingent on
+18 the availability of sufficient resources, including appropriate staffing levels.
+19 Sec. 8. Rule 1101 of the Vermont Rules of Evidence is amended to read:
+20 RULE 1101. APPLICABILITY OF RULES
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 28 of 52
+1 (a) Rules applicable. Except as otherwise provided in subdivision (b),
+2 these rules apply to all actions and proceedings in the courts of this state.
+3 (b) Rules inapplicable. The rules other than those with respect to privileges
+4 do not apply in the following situations:
+5 * * *
+6 (3) Miscellaneous Proceedings. Proceedings for extradition or
+7 rendition; inquest proceedings; except as otherwise provided by statute or rule
+8 promulgated by the Supreme Court, sentencing or granting or revoking
+9 probation; proceedings concerning competency restoration; granting or
+10 revoking conditional release from a forensic facility; finding probable cause
+11 for arrests without warrant and issuance of citations, warrants for arrest,
+12 criminal summonses, and search warrants.
+13 * * *
+14 Sec. 9. 13 V.S.A. § 4815a is added to read:
+15 § 4815a. COMPETENCY RESTORATION SERVICES WITHIN
+16 FORENSIC FACILITY
+17 (a) A person shall be placed at the forensic facility established in section
+18 4826 of this title if the person:
+19 (1) has been charged with an offense punishable by a life sentence;
+20 (2)(A) has been held without bail pursuant to section 7553 of this title;
+21 or
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 29 of 52
+1 (B) if the person is not held without bail pursuant to section 7553 of
+2 this title, has a qualifying condition and it has been determined that the
+3 person’s release would create a substantial risk of bodily injury to another
+4 person;
+5 (3) is not currently:
+6 (A) receiving treatment through an order of hospitalization pursuant
+7 to 18 V.S.A. § 7619 or section 4822 of this title; or
+8 (B) subject to an order of commitment to the Commissioner of
+9 Disabilities, Aging, and Independent Living issued under 18 V.S.A. § 8845 or
+10 section 4823 of this title, unless the person is detained in a correctional facility
+11 pending trial; and
+12 (4) has been found not competent to stand trial.
+13 (b)(1) The forensic facility shall cause the person to be evaluated for
+14 competency to stand trial:
+15 (A) six months from the date of admission, and thereafter every six
+16 months from the issuance of an order for continued competency restoration
+17 treatment under subdivision (3)(B) of this subsection (b); and
+18 (B) at any time upon the determination by the Agency of Human
+19 Services Medical Director that the person is likely competent to stand trial or
+20 that it is unlikely that the person’s competency can be restored.
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 30 of 52
+1 (2) The court shall hold a hearing after the competency evaluation, and,
+2 prior to the hearing, the results of all evaluations shall be supplied to the court
+3 and the parties to the underlying criminal action.
+4 (3)(A) If the court finds after the hearing that the person is competent to
+5 stand trial, the court shall immediately notify the State’s Attorney and the
+6 person’s counsel in the criminal case.
+7 (B) If the court finds after the hearing that the person is not
+8 competent to stand trial, the court shall order continued competency restoration
+9 treatment at the facility pursuant to this section.
+10 (4) Notwithstanding any other provision of law or rule, witnesses at
+11 hearings held pursuant to this section shall be permitted to provide testimony
+12 remotely.
+13 (c)(1) At the request of a party or the Agency of Human Services Medical
+14 Director, the court may order that a competency evaluation conducted pursuant
+15 to subsection (b) of this section include an opinion on whether the person’s
+16 competency can be restored. If a request is made pursuant to this subsection,
+17 the forensic facility shall cause the person to be evaluated for restorability to
+18 competence prior to the hearing.
+19 (2) If the court finds that the person’s competency can be restored, the
+20 court shall order continued competency restoration treatment at the facility
+21 pursuant to this section.
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 31 of 52
+1 (3)(A) If the court finds that the person’s competency cannot be
+2 restored, the court shall hold a hearing within 60 days unless that period is
+3 extended by the court for good cause.
+4 (B) Prior to the date of the hearing, the court shall order that a
+5 forensic risk assessment of the person be conducted by an evaluator
+6 appropriately qualified for the qualifying condition of the person that includes:
+7 (i) the person’s history and present dangerousness;
+8 (ii) a description of any tests that were employed and the results of
+9 the tests;
+10 (iii) the examiner’s findings;
+11 (iv) the examiner’s opinion as to whether the person’s release
+12 would create a substantial risk of bodily injury to another person;
+13 (v) recommendations for evidence-based treatment and
+14 supervision, including in a community-based placement, that would support
+15 the person’s success and mitigate risk of aggression and violence; and
+16 (vi) the examiner’s opinion as to whether the person is a person in
+17 need of custody, care, and habilitation as defined in 18 V.S.A. § 8839.
+18 (C) The results of all evaluations shall be supplied to the court and
+19 the parties to the underlying criminal action.
+20 (4)(A) If the State’s Attorney demonstrates by clear and convincing
+21 evidence at a hearing held pursuant to subdivision (3)(A) of this subsection (c)
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 32 of 52
+1 or subdivision (B) of this subdivision (4) that the person has a qualifying
+2 condition that, upon the person’s release, would create a substantial risk of
+3 bodily injury to another person, the court shall order continued commitment of
+4 the person consistent with the person’s forensic risk assessment. The court
+5 shall order treatment of the person, which may include appropriate supervision
+6 and supervised housing, including in a community-based placement, in the
+7 least restrictive setting consistent with the person’s forensic risk assessment
+8 and treatment needs.
+9 (B) If continued commitment is ordered pursuant to subdivision (A)
+10 of this subdivision (4), the person’s commitment shall be reviewed by the
+11 court:
+12 (i) every 12 months;
+13 (ii) at any time upon the determination by the Agency of Human
+14 Services Medical Director that the person no longer has a qualifying condition
+15 and the person’s release would not create a substantial risk of bodily injury to
+16 another person; and
+17 (iii) upon petition of the person filed at any time after 90 days
+18 following an order of continued commitment issued pursuant to subdivision
+19 (A) of this subdivision (4), and thereafter not earlier than six months from the
+20 issuance of an order for continued commitment under subdivision (4)(A) of
+21 this subsection (c).
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 33 of 52
+1 (5)(A) If the State’s Attorney does not demonstrate by clear and
+2 convincing evidence at a hearing held pursuant to subdivision (3)(A) or (4)(B)
+3 of this subsection (c) that the person has a qualifying condition and the
+4 person’s release would create a substantial risk of bodily injury to another
+5 person, the court shall:
+6 (i) order the release of the person under a prescribed regimen of
+7 medical, psychiatric, or psychological care or treatment, housing, and
+8 supervision by the Department of Corrections in collaboration with the
+9 Commissioner of Mental Health; the Department of Disabilities, Aging, and
+10 Independent Living; or the Department of Health that the Agency of Human
+11 Services Medical Director has certified as appropriate; and
+12 (ii) order, as an explicit condition of supervision, that the person
+13 comply with the prescribed regimen of medical, psychiatric, or psychological
+14 care or treatment, housing, and supervision by the Department of Corrections
+15 in collaboration with the Commissioner of Mental Health; the Department of
+16 Disabilities, Aging, and Independent Living; or the Department of Health,
+17 together with any other conditions appropriate to protect the public.
+18 (B) A person’s release pursuant to this subdivision (5) shall be
+19 reviewed by the court every 12 months. The person shall be released from the
+20 supervision of the Commissioner of Corrections unless the State’s Attorney
+21 demonstrates by clear and convincing evidence at the hearing that continued
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 34 of 52
+1 treatment and supervision is necessary to prevent the person from becoming a
+2 substantial risk of bodily injury to another person.
+3 (C)(i) The State’s Attorney shall make a reasonable effort to provide
+4 the victim with prior notice of any hearing held pursuant to this subdivision
+5 (5). The court may continue the hearing if the victim has not been provided
+6 with the notice required by this subdivision (C)(i).
+7 (ii) At any hearing under this subdivision (5), the court shall ask if
+8 the victim is present and, if so, shall offer the victim the opportunity to be
+9 heard. The court may consider any views offered at the hearing by the victim,
+10 including the victim’s views concerning the offense and preferences for the
+11 person’s placement and care. If the victim is not present at the hearing, the
+12 court shall ask whether the victim has expressed oral or written views
+13 concerning the offense and preferences for the person’s placement and care,
+14 and, if so, the court may consider those views.
+15 (6)(A) If the court finds that the person’s competency cannot be
+16 restored, and finds by clear and convincing evidence that the person is a person
+17 in need of custody, care, and habilitation as defined in 18 V.S.A. § 8839, the
+18 court shall issue an order of commitment for up to one year directed to the
+19 Commissioner of Disabilities, Aging, and Independent Living for placement in
+20 a designated program in the least restrictive environment consistent with the
+21 person’s need for custody, care, and habilitation. The order of commitment
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 35 of 52
+1 shall have the same force and effect as an order issued under 18 V.S.A. chapter
+2 206, subchapter 3 and persons committed under the order shall have the same
+3 status, and the same rights, including the right to receive care and habilitation,
+4 to be examined and discharged, and to apply for and obtain judicial review of
+5 their cases, as persons ordered committed under 18 V.S.A. chapter 206,
+6 subchapter 3.
+7 (B)(i) The Commissioner shall provide appropriate custody, care, and
+8 habilitation in a designated program to a person committed under subdivision
+9 (A) of this subdivision (6).
+10 (ii) The court may order continued treatment at the forensic
+11 facility for a period not to exceed one year if the court finds that the
+12 Commissioner is not currently able to provide appropriate custody, care, and
+13 habilitation in a designated program. For good cause shown, the court may
+14 extend the one-year period by an additional period not to exceed six months.
+15 (C)(i) The court shall review an order of continued treatment issued
+16 pursuant to subdivision (B)(ii) of this subdivision (6) every 90 days.
+17 (ii) If the court finds at the review that appropriate custody, care,
+18 and habilitation can be provided to the person in a designated program, the
+19 court shall vacate the order for continued treatment and order the person
+20 committed to the custody of the Commissioner pursuant to subdivision (A) of
+21 this subdivision (6).
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 36 of 52
+1 (iii) If the court finds at the review that appropriate custody, care,
+2 and habilitation cannot be provided to the person in a designated program, the
+3 court shall order continued treatment at the forensic facility pursuant to
+4 subdivision (B)(ii) of this subdivision (6).
+5 (D) The Commissioner may at any time certify to the court that
+6 appropriate custody, care, and habilitation can be provided to the person in a
+7 designated program, and after such a certification the court shall vacate the
+8 order for continued treatment and order the person committed to the custody of
+9 the Commissioner pursuant to subdivision (A) of this subdivision (6).
+10 (E) As used in this subdivision (6), “Commissioner” means the
+11 Commissioner of Disabilities, Aging, and Independent Living.
+12 (d) Except as provided in subdivisions (c)(4)(A), (c)(5), and (c)(6)(A) of
+13 this section, the person shall remain at the forensic facility until the person is
+14 restored to competency or until there is a final disposition of the charges
+15 against the person.
+16 (e) The person shall receive competency restoration services while at the
+17 forensic facility according to a plan approved by the Agency of Human
+18 Services Medical Director. Such services shall include any appropriate
+19 combination of medication, education, accommodations, habilitation, or other
+20 services identified as necessary or proper to achieve and maintain competency
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 37 of 52
+1 to stand trial. The person’s refusal to receive competency restoration services
+2 shall not be grounds for release or dismissal from the forensic facility.
+3 (f) Competency restoration services shall be provided to the person at the
+4 forensic facility, or at another location as part of a discharge plan, until the
+5 person is restored to competency or until there is a final disposition of the
+6 charges against the person.
+7 (g)(1) As appropriate for the needs of the person, the Agency of Human
+8 Services Medical Director, in consultation with the Commissioner of Mental
+9 Health; of Health; or of Disabilities, Aging, and Independent Living, shall
+10 actively monitor compliance with orders issued pursuant to subdivision (c)(5)
+11 of this section. Upon request from the Agency of Human Services Medical
+12 Director, the court shall immediately order the return of a person to the
+13 forensic facility if:
+14 (A) the person was released from the facility pursuant to subdivision
+15 (c)(5) of this section; and
+16 (B) the Agency of Human Services Medical Director has reason to
+17 believe that the person has a qualifying condition and that the person’s
+18 continued release would create a substantial risk of bodily injury to another
+19 person.
+20 (2) The Agency of Human Services Medical Director shall notify the
+21 court where the person was committed upon return of the person to the forensic
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 38 of 52
+1 facility. Upon readmission, the court shall hold a hearing at which the State’s
+2 Attorney shall have the burden of establishing by clear and convincing
+3 evidence that the person has a qualifying condition and that the person’s
+4 continued release would create a substantial risk of bodily injury to another
+5 person. If the State’s Attorney meets its burden, the court shall order the
+6 person readmitted to the forensic facility for treatment pursuant to this section.
+7 If the State’s Attorney does not meet its burden, the court shall order the
+8 person restored to the status the person had when the person was returned to
+9 the facility.
+10 (h) The Agency of Human Services Medical Director shall receive prior
+11 approval of the Criminal Division of the Superior Court where the person’s
+12 underlying criminal charge is pending for any competency restoration plan
+13 involving involuntary medication. The court shall not approve involuntary
+14 medication unless the State’s Attorney establishes by clear and convincing
+15 evidence that:
+16 (1) the involuntary medication is medically appropriate;
+17 (2) the involuntary medication serves the important governmental
+18 interests of bringing to trial an individual accused of a serious crime and
+19 ensuring a fair, timely prosecution;
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 39 of 52
+1 (3) the involuntary medication significantly furthers these important
+2 governmental interests by making it substantially likely to render the defendant
+3 competent to stand trial; and
+4 (4) any alternative, less intrusive treatments are unlikely to achieve the
+5 same results.
+6 (i) When an evaluation of the person’s competency or restorability is
+7 required under this section, the defense shall be entitled to conduct an
+8 independent evaluation and introduce the results at the hearing.
+9 Sec. 10. 13 V.S.A § 4819a is added to read:
+10 § 4819a. FORENSIC FACILITY PLACEMENT FOR PERSONS
+11 NOT GUILTY BY REASON OF INSANITY FOR CERTAIN
+12 CRIMES
+13 (a)(1) A person who is charged with an offense punishable by a life
+14 sentence and is found not guilty only by reason of insanity at the time of the
+15 offense charged shall be committed to a forensic facility pursuant to this
+16 section. This section shall not be construed to prohibit the temporary transfer
+17 of a person requiring inpatient treatment through an order of hospitalization
+18 pursuant to 18 V.S.A. § 7619 or section 4822 of this title.
+19 (2) The committing court shall retain jurisdiction over the person for all
+20 proceedings under this section.
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 40 of 52
+1 (b)(1) A hearing shall be held by the court where the person was tried
+2 within 60 days following admission to the forensic facility, unless that period
+3 is extended by the court.
+4 (2) Prior to the date of the hearing, the court shall order that a forensic
+5 risk assessment of the person be conducted that includes:
+6 (A) the person’s history and present dangerousness;
+7 (B) a description of any tests that were employed and the results of
+8 the tests;
+9 (C) the examiner’s findings;
+10 (D) the examiner’s opinion as to whether the person’s release would
+11 create a substantial risk of bodily injury to another person; and
+12 (E) recommendations for evidence-based treatment and supervision
+13 that would support the individual’s success and mitigate risk of aggression and
+14 violence.
+15 (3) The results of all evaluations shall be supplied to the court and the
+16 parties to the underlying criminal action.
+17 (4)(A) At the hearing, the court shall order the person committed to the
+18 forensic facility if the State’s Attorney establishes by clear and convincing
+19 evidence that the person has a qualifying condition that, upon the person’s
+20 release, would create a substantial risk of bodily injury to another person.
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 41 of 52
+1 (B) If the State’s Attorney does not establish by clear and convincing
+2 evidence that the person has a qualifying condition that, upon the person’s
+3 release, would create a substantial risk of bodily injury to another person, the
+4 court shall enter an order releasing the person pursuant to subdivisions
+5 (e)(3)(A) and (B) of this section.
+6 (C) Notwithstanding any other provision of law or rule, witnesses at
+7 the hearing shall be permitted to provide testimony remotely.
+8 (c) A person committed to the forensic facility pursuant to this section shall
+9 not be released until the court finds pursuant to subsection (e) of this section
+10 that the person no longer has a qualifying condition that, upon the person’s
+11 release, would create a substantial risk of bodily injury to another person.
+12 (d) The Agency of Human Services Medical Director shall, taking into
+13 account public safety and the least restrictive conditions applicable, provide
+14 adequate care and individualized treatment at the forensic facility to persons
+15 ordered committed pursuant to this section. In order that the Medical Director
+16 may adequately determine the nature of the person’s condition and needs, all
+17 persons committed pursuant to this section shall be promptly examined by
+18 qualified personnel in order to provide a proper evaluation, diagnosis, and
+19 treatment plan.
+20 (e)(1)(A)(i) The State’s Attorney shall petition the committing court for
+21 review of the person’s commitment:
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 42 of 52
+1 (I) six months after the date that the person is committed
+2 pursuant to subdivision (b)(4)(A) of this section;
+3 (II) three years after a commitment order issued following a
+4 review under subdivision (I) of this subdivision (i);
+5 (III) every fifth year after a commitment order issued following
+6 a review under subdivision (II) of this subdivision (i); and
+7 (IV) at any time upon certification at any time to the Secretary
+8 of Human Services by the Agency of Human Services Medical Director that
+9 the person no longer has a qualifying condition that, upon the person’s release,
+10 would create a substantial risk of bodily injury to another person.
+11 (ii) The Secretary of Human Services shall provide all reports
+12 required under this section to the State’s Attorney, who shall file them with the
+13 petition.
+14 (B)(i) A person committed pursuant to subdivision (b)(4)(A) of this
+15 section may petition the committing court for release on the grounds that the
+16 person no longer has a qualifying condition that, upon the person’s release,
+17 would create a substantial risk of bodily injury to another person.
+18 (ii) A petition shall not be filed pursuant to this subdivision (B):
+19 (I) until at least 90 days after the issuance of the commitment
+20 order pursuant to subdivision (b)(4)(A) of this section; and
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 43 of 52
+1 (II) more frequently than once during each applicable period
+2 set forth in subdivision (A)(i) of this subdivision (e)(1).
+3 (2) If the State’s Attorney establishes by clear and convincing evidence
+4 that the person has a qualifying condition that, upon the person’s release,
+5 would create a substantial risk of bodily injury to another person, the court
+6 shall deny the petition and order the person committed to the forensic facility
+7 for continued treatment pursuant to this section.
+8 (3) If the State’s Attorney does not establish by clear and convincing
+9 evidence that the person has a qualifying condition that, upon the person’s
+10 release, would create a substantial risk of bodily injury to another person, the
+11 court shall:
+12 (A) order the release of the person under a prescribed regimen of
+13 medical, psychiatric, or psychological care or treatment, including supervision
+14 and housing, that the Agency of Human Services Medical Director has
+15 certified as appropriate; and
+16 (B) order, as an explicit condition of supervision, that the person
+17 comply with the prescribed regimen of evidence-informed medical,
+18 psychiatric, or psychological care or treatment, including supervision and
+19 housing, together with any other conditions appropriate to protect the public.
+20 (f) As appropriate for the needs of the person, the Agency of Human
+21 Services Medical Director, in consultation with the Commissioner of Mental
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 44 of 52
+1 Health; of Health; or of Disabilities, Aging, and Independent Living, shall
+2 actively monitor compliance with orders issued pursuant to subdivision (e)(2)
+3 of this section. Upon request from the Agency of Human Services Medical
+4 Director, the court shall immediately order the return of the person to the
+5 forensic facility if the Medical Director determines that the person is
+6 noncompliant with the order and that the noncompliance may create a risk of
+7 bodily injury to another person. The Agency of Human Services Medical
+8 Director shall notify the court where the person was committed upon return of
+9 the person to the forensic facility. Upon readmission, the court shall hold a
+10 hearing at which the State’s Attorney shall have the burden of establishing by
+11 clear and convincing evidence that the person was noncompliant with the
+12 court’s order for conditional release and that the noncompliance creates a risk
+13 of bodily injury to another person.
+14 (g)(1) The State’s Attorney shall provide the victim with prior notice of any
+15 hearing held pursuant to this section. The court may continue the hearing if the
+16 victim has not been provided with the notice required by this subdivision.
+17 (2) At any hearing under this section, the court shall ask if the victim is
+18 present and, if so, shall offer the victim the opportunity to be heard. The court
+19 may consider any views offered at the hearing by the victim, including the
+20 victim’s views concerning the offense and preferences for the person’s
+21 placement and care. If the victim is not present at the hearing, the court shall
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 45 of 52
+1 ask whether the victim has expressed oral or written views concerning the
+2 offense and preferences for the person’s placement and care, and, if so, the
+3 court may consider those views.
+4 Sec. 11. 13 V.S.A. § 4826 is added to read:
+5 § 4826. FORENSIC FACILITY; DEFINITIONS
+6 (a)(1) As used in this chapter:
+7 (A) “Competency can be restored” means a substantial probability
+8 that in the foreseeable future the person will attain the capacity to permit the
+9 proceedings to go forward.
+10 (B) “Forensic facility” means the interim forensic and competency
+11 restoration program established by emergency rules adopted pursuant to Sec.
+12 12 of this act, which shall be a locked secure facility where:
+13 (i) the Agency of Human Services provides for the secure
+14 competency restoration, evaluation, stabilization, treatment, and care of
+15 persons with a qualifying condition who are involved in the legal system and
+16 who do not require a hospitalization level of care; and
+17 (ii) a person is transferred pursuant to subsections 4815a(a) and
+18 4819a(a) of this title.
+19 (C) “Qualifying condition” means any condition whether mental,
+20 congenital, or traumatic, however acquired or developed, or any other
+21 circumstance that resulted in the person being determined:
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 46 of 52
+1 (i) incompetent to stand trial; or
+2 (ii) not guilty by reason of insanity.
+3 (2) The evaluations required by this chapter may be conducted pursuant
+4 to contracts entered into between the Commissioner of Buildings and General
+5 Services and evaluation providers.
+6 (3) Prior to any hearing under section 4815a or 4819a of this title, the
+7 person shall be required, at the request of a party, to permit an expert
+8 assessment of the person’s competency, forensic risk, or restorability to
+9 competency.
+10 (b) The Secretary of Human Services shall establish and operate a locked
+11 secure forensic facility for the competency restoration, evaluation,
+12 stabilization, treatment, and care of persons who have been transferred
+13 pursuant to subsections 4815a(a) and 4819a(a) of this title. The forensic
+14 facility’s clinical, forensic, and competency restoration services shall be
+15 overseen by the Agency of Human Services Medical Director. The forensic
+16 facility shall:
+17 (1) be designed and operated in a manner that supports therapeutic,
+18 recovery-oriented, and trauma-informed programming while maintaining
+19 appropriate levels of safety and security;
+20 (2) not refuse any persons it is ordered to admit and shall not require any
+21 clinical or diagnostic prerequisites for admission;
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 47 of 52
+1 (3) provide for the safe competency restoration, evaluation, treatment,
+2 stabilization, and care of persons, including the ability to separate the
+3 population by sex or gender and to otherwise address clinical, safety, or
+4 operational considerations as appropriate, including the possible operation of
+5 multiple facilities;
+6 (4) follow the direction of the Agency of Human Services Medical
+7 Director, who shall oversee all forensic, clinical, and competency restoration
+8 services provided to transferred persons;
+9 (5) implement staff qualifications, licensure, training, and supervision
+10 requirements that are sufficient to ensure that persons transferred to the
+11 forensic facility have access to clinically appropriate care, treatment, services,
+12 and supports consistent with individual needs and with applicable professional
+13 standards;
+14 (6) ensure that a registered nurse licensed pursuant to 26 V.S.A. chapter
+15 28 or a physician licensed pursuant to 26 V.S.A. chapter 23 or 33 is available
+16 to provide care to transferred persons as clinically necessary;
+17 (7) ensure that persons receive clinically appropriate assessment and
+18 treatment planning and competency restoration plans, as appropriate, including
+19 the development of an initial person-specific treatment plan within 72 hours
+20 following transfer, which shall be reviewed periodically as clinically indicated;
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 48 of 52
+1 (8) ensure that clinical services and programming include psychiatric
+2 care, management of medications, education about court procedures,
+3 habilitation, and trauma-informed care, as appropriate;
+4 (9) continue to provide evaluation, treatment, stabilization, and care of a
+5 resident who has regained competency while the resident awaits and
+6 participates in the resident’s trial;
+7 (10) provide residents with interpreters, as appropriate;
+8 (11) implement grievance and appeals procedures; and
+9 (12) implement a process for reporting instances of death or serious
+10 bodily injury to residents of the forensic facility to the Agency of Human
+11 Services Medical Director.
+12 (c) Any records related to a person placed at the forensic facility shall be
+13 exempt from public inspection and copying under the Public Records Act and
+14 shall be kept confidential, except that:
+15 (1) the records shall be made available to the parties in the underlying
+16 criminal case upon request; and
+17 (2) the person’s health care providers may, with the person’s
+18 permission, view forensic facility records of the person’s psychiatric
+19 assessments at the facility, including assessments of the person’s competency
+20 to stand trial and criminal responsibility.
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 49 of 52
+1 (d) Persons shall be admitted to and maintained at the forensic facility
+2 pursuant to sections 4815a and 4819a of this title and in proceedings under
+3 those sections shall be entitled to have counsel appointed from Vermont Legal
+4 Aid to represent them.
+5 (e) The Secretary of Human Services shall regularly consult with the
+6 Agency of Human Services Medical Director and the Commissioners of
+7 Corrections; of Mental Health; of Health; and of Disabilities, Aging, and
+8 Independent Living when performing the duties required by this chapter for
+9 operating the forensic facility.
+10 (f) The Agency of Human Services Medical Director and an evaluator
+11 submitting a report pursuant to sections 4815a and 4819a of this title shall
+12 testify at any hearing under those sections if requested by the court or a party.
+13 Sec. 12. EMERGENCY RULEMAKING; INTERIM FORENSIC
+14 AND COMPETENCY RESTORATION PROGRAM
+15 (a) On or before December 31, 2026, the Secretary of Human Services, in
+16 consultation with the Departments of Corrections; of Health; of Mental Health;
+17 and of Disabilities, Aging, and Independent Living, shall adopt emergency
+18 rules pursuant to 3 V.S.A. chapter 25 to establish an interim forensic and
+19 competency restoration program that shall be effective on July 1, 2027, and
+20 shall operate pending the completion of a permanent forensic facility. The
+21 emergency rules shall establish for the interim forensic and competency
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 50 of 52
+1 restoration program, consistent with the standards and procedures of Secs. 9,
+2 10, and 11 of this act:
+3 (1) clinically appropriate standards governing the provision of services
+4 in the forensic and competency restoration program, including requirements
+5 related to staffing patterns and ratios; staff qualifications; where the person is
+6 placed within a Department of Corrections facility; licensure and training;
+7 clinical supervision; and the delivery of safe, effective, evidence-informed
+8 care;
+9 (2) standards for quality assurance and improvement; clinical oversight;
+10 documentation and reporting requirements; safety and risk management
+11 protocols; and mechanisms for monitoring compliance;
+12 (3) the manner in which the Department of Corrections would cooperate
+13 with and obtain necessary information from other departments about persons
+14 released under supervision from the forensic and competency restoration
+15 program;
+16 (4) opportunities and cost estimates for persons who would be eligible
+17 for placement at the forensic facility to receive, while the development of a
+18 forensic facility in Vermont is pending, competency restoration services within
+19 a Vermont correctional facility, provided that the entity that provides the
+20 services shall not be under contract with the Department of Corrections;
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 51 of 52
+1 (5) victim notification procedures, including:
+2 (A) which events within the program will trigger victim notification;
+3 (B) who will provide victim notification and by what methods;
+4 (C) how victims will be informed of their right to receive
+5 notifications; and
+6 (D) the processes that will permit victims to opt in and opt out of
+7 receiving notifications; and
+8 (6) any other provisions necessary to ensure the safe, effective, and
+9 clinically appropriate implementation of Secs. 9, 10, and 11 of this act,
+10 including potentially requiring the provision of forensic services in a unit that
+11 is separate from other correctional populations.
+12 (b) The emergency rules adopted pursuant to this section shall:
+13 (1) be deemed to have met the standard for emergency rulemaking set
+14 forth in 3 V.S.A. § 844(a);
+15 (2) notwithstanding 3 V.S.A. § 844(b), remain in effect until July 1,
+16 2029; and
+17 (3) be repealed on July 1, 2029.
+18 Sec. 13. REPEALS
+19 Secs. 9–11 shall be repealed on July 1, 2029.
+VT LEG #390042 v.1
+
+AS PASSED BY HOUSE AND SENATE S.193
+2026 Page 52 of 52
+1 Sec. 14. EFFECTIVE DATES
+2 (a) This section, Sec. 1, Sec. 3, and Secs. 6–13 shall take effect on July 1,
+3 2026.
+4 (b) Secs. 2, 4, and 5 shall take effect on July 1, 2029.
+VT LEG #390042 v.1

@@ -1,0 +1,39 @@
+Title: 
+Official Title: 
+Source: versions - House Proposal of Amendment (OfficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House Proposal of Amendment
+S. 208
+An act relating to standards for law enforcement identification
+The House proposes to the Senate to amend the bill by striking out all after
+the enacting clause and inserting in lieu thereof the following:
+Sec. 1. 20 V.S.A. § 2373 is added to read:
+§ 2373. STATEWIDE MODELPOLICY; LAW ENFORCEMENT
+IDENTIFICATION STANDARDS
+(a) As used in this section:
+(1) “Facial covering” means any opaque mask, garment, disguise, or
+other item that conceals or obscures the facial identity of an individual,
+including a balaclava, gaiter mask, ski mask, and other similar types of facial
+coverings.
+(2) “Law enforcement agency” has the same meaning as in section
+2351a of this title.
+(3) “Law enforcement officer” has the same meaning as in section
+2351a of this title.
+(b) On or before July 1, 2027, the Law Enforcement Advisory Board shall
+establish a model statewide policy governing the standards for law
+enforcement identification and the wearing of facial coverings applicable to
+law enforcement officers to ensure consistent statewide application of the
+standards.
+(c) On or before October 1, 2027, every law enforcement agency shall
+adopt a policy consistent with the model statewide policy developed by the
+Law Enforcement Advisory Board pursuant to subsection (b) of this section.
+If a law enforcement agency or law enforcement officer who is not employed
+by a law enforcement agency fails to adopt a policy pursuant to this section,
+the agency or officer shall be deemed to have adopted the model statewide
+policy developed by the Law Enforcement Advisory Board.
+Sec. 2. EFFECTIVE DATE
+This act shall take effect on passage.

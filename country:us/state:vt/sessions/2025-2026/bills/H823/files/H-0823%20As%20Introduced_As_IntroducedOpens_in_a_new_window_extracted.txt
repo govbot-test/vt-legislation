@@ -1,0 +1,111 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.823
+2026 Page 1 of 5
+1 H.823
+2 Introduced by Representatives Arsenault of Williston and Goodnow of
+3 Brattleboro
+4 Referred to Committee on
+5 Date:
+6 Subject: Commerce and trade; consumer protection; social media warning
+7 labels
+8 Statement of purpose of bill as introduced: This bill proposes to require
+9 persons that operate social media platforms to place warning labels on the
+10 platforms that warn their users of the mental health dangers of using social
+11 media.
+12 An act relating to social media warning labels
+13 It is hereby enacted by the General Assembly of the State of Vermont:
+14 Sec. 1. 9 V.S.A. chapter 63, subchapter 1F is added to read:
+15 Subchapter 1F. Social Media Warning Labels
+16 § 2470oo. WARNING LABELS AND NOTIFICATIONS
+17 (a) Requirements. A person shall include a mental health warning label on
+18 a social media platform it operates that:
+19 (1) follows the guidelines developed by the Attorney General pursuant
+20 to subsection (b) of this section;
+VT LEG #386321 v.1
+
+BILL AS INTRODUCED H.823
+2026 Page 2 of 5
+1 (2) appears in a size that is easily readable by the average user each time
+2 a user accesses the platform;
+3 (3) warns a user of potential negative mental health impacts of accessing
+4 the platform;
+5 (4) provides the user with access to resources to address the potential
+6 negative mental health impacts of social media and includes the website and
+7 telephone number of a national suicide prevention and mental health crisis
+8 hotline system, including the 988 Suicide and Crisis Lifeline; and
+9 (5) only disappears when the user:
+10 (A) exits the platform; or
+11 (B) acknowledges the potential for harm and chooses to hide or
+12 minimize the label.
+13 (b) Guidelines. The Attorney General, in consultation with the
+14 Commissioner of Health, shall develop guidelines for the mental health
+15 warning label to be used by social media platforms in order to conform with
+16 the requirements of this section. The guidelines shall be based on current
+17 evidence regarding the negative mental health impacts of social media
+18 platforms. The Attorney General shall review and revise the guidelines as
+19 appropriate.
+20 (c) Prohibitions. As it pertains to a warning label required by this section, a
+21 social media platform shall not:
+VT LEG #386321 v.1
+
+BILL AS INTRODUCED H.823
+2026 Page 3 of 5
+1 (1) provide the warning label exclusively in the social media platform’s
+2 terms and conditions;
+3 (2) include extraneous information in the warning label that obscures the
+4 visibility or prominence of the warning label; or
+5 (3) allow a user to disable the warning label, except as provided under
+6 subdivision (a)(5) of this section.
+7 (d) Time used on platform.
+8 (1) Except as provided in subdivision (2) of this subsection, a social
+9 media platform shall display a conspicuous pop-up notification not less than
+10 once every 30 minutes for a user who is actively using the platform. The
+11 notification shall:
+12 (A) inform the user:
+13 (i) that the user has actively used the platform for the relevant
+14 consecutive period of time; and
+15 (ii) of the total time the user has actively used the platform that
+16 calendar day; and
+17 (B) only disappear upon the user closing the notification.
+18 (2) A social media platform may allow a user to customize the period of
+19 time resulting in the notification, provided that the maximum time period shall
+20 not exceed 60 minutes.
+21 (e) Enforcement and rulemaking.
+VT LEG #386321 v.1
+
+BILL AS INTRODUCED H.823
+2026 Page 4 of 5
+1 (1) A person that violates this section or rules adopted pursuant to this
+2 section commits an unfair and deceptive act in commerce in violation of
+3 section 2453 of this chapter.
+4 (2) The Attorney General shall have the same authority under this
+5 section to make rules, conduct civil investigations, bring civil actions, and
+6 enter into assurances of discontinuance as provided in this chapter.
+7 (f) Definitions. As used in this section, “social media platform” means a
+8 website, mobile application, or internet medium that:
+9 (1) permits a person to become a registered user, establish an account, or
+10 create a profile for the purpose of allowing users to create, share, and view
+11 user-generated content through such an account or profile;
+12 (2) enables one or more users to generate content that can be viewed by
+13 other users of the medium; and
+14 (3) primarily serves as a medium for users to interact with content
+15 generated by other users of the medium.
+16 Sec. 2. SOCIAL MEDIA WARNING LABEL GUIDELINES
+17 The Attorney General shall publish the guidelines for social media warning
+18 labels pursuant to 9 V.S.A. § 2470oo(b) on or before April 1, 2027.
+VT LEG #386321 v.1
+
+BILL AS INTRODUCED H.823
+2026 Page 5 of 5
+1 Sec. 3. EFFECTIVE DATES
+2 This act shall take effect on July 1, 2027, except that this section (effective
+3 dates) and Sec. 2 (social media warning label guidelines) shall take effect on
+4 July 1, 2026.
+VT LEG #386321 v.1

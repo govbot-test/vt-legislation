@@ -1,0 +1,72 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.581
+2026 Page 1 of 3
+1 H.581
+2 Introduced by Representative Burrows of West Windsor
+3 Referred to Committee on
+4 Date:
+5 Subject: Health; prescription drugs; Vermont Prescription Monitoring System;
+6 reproductive health care services; gender-affirming health care
+7 services
+8 Statement of purpose of bill as introduced: This bill proposes not to require
+9 the reporting of controlled substances prescribed for reproductive or gender-
+10 affirming care to the Vermont Prescription Monitoring System unless the
+11 Commissioner of Health determines that reporting is necessary to protect the
+12 public health. The bill would also require that any information about those
+13 medications that is in the Vermont Prescription Monitoring System be
+14 excluded from sharing with other states’ prescription monitoring systems.
+15 An act relating to limiting the reporting of certain medications to the
+16 Vermont Prescription Monitoring System
+17 It is hereby enacted by the General Assembly of the State of Vermont:
+18 Sec. 1. 18 V.S.A. § 4283 is amended to read:
+19 § 4283. CREATION; IMPLEMENTATION
+VT LEG #386242 v.1
+
+BILL AS INTRODUCED H.581
+2026 Page 2 of 3
+1 (a) The Department shall maintain an electronic database and reporting
+2 system for monitoring Schedules II, III, and IV controlled substances, as
+3 defined in 21 C.F.R. Part 1308, as amended and as may be amended, that are
+4 dispensed within the State of Vermont by a health care provider or dispenser or
+5 dispensed to an address within the State by a pharmacy licensed by the
+6 Vermont Board of Pharmacy.
+7 (b) As required by the Department, every dispenser who is licensed by the
+8 Vermont Board of Pharmacy shall report to the Department in a timely manner
+9 data for each controlled substance in Schedules II, III, and IV, as amended and
+10 as may be amended, dispensed to a patient within Vermont. Reporting shall
+11 not be required for:
+12 (1) a drug administered directly to a patient; or
+13 (2) a drug dispensed by a health care provider at a facility licensed by
+14 the Department, provided that the quantity dispensed is limited to an amount
+15 adequate to treat the patient for a maximum of 48 hours; or
+16 (3) a medication prescribed for purposes of reproductive health care
+17 services or gender-affirming health care services, as those terms are defined in
+18 1 V.S.A. § 150, unless the Commissioner determines that the reporting of those
+19 medications is necessary to protect the public health.
+20 * * *
+VT LEG #386242 v.1
+
+BILL AS INTRODUCED H.581
+2026 Page 3 of 3
+1 Sec. 2. 18 V.S.A. § 4288 is amended to read:
+2 § 4288. RECIPROCAL AGREEMENTS
+3 The Department of Health may enter into reciprocal agreements with other
+4 states that have prescription monitoring programs so long as provided access
+5 under each such agreement is consistent with the privacy, security, and
+6 disclosure protections in this chapter, and further provided that if the Vermont
+7 Prescription Monitoring System contains any information regarding
+8 medications prescribed for purposes of reproductive health care services or
+9 gender-affirming health care services, as those terms are defined in 1 V.S.A.
+10 § 150, the reciprocal agreements shall exclude those medications and any
+11 information about their prescribers, dispensers, and recipients from the
+12 information to be disclosed to another state’s prescription monitoring program.
+13 Sec. 3. EFFECTIVE DATE
+14 This act shall take effect on July 1, 2026.
+VT LEG #386242 v.1

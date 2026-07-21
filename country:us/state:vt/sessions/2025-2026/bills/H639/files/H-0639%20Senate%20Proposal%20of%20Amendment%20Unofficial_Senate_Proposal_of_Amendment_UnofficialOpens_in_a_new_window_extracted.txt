@@ -1,0 +1,39 @@
+Title: 
+Official Title: 
+Source: versions - Senate Proposal of Amendment (UnofficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE PROPOSAL OF AMENDMENT H.639
+2026 Page 1 of 2
+1 H.639
+2 An act relating to genetic data privacy
+3 The Senate proposes to the House to amend the bill as follows:
+4 First: In Sec. 1, 9 V.S.A. chapter 61A, in section 2421b, in subsection (d),
+5 by striking out subdivisions (2) and (3) in their entireties and inserting in lieu
+6 thereof a new subdivision (2) to read as follows:
+7 (2) Genetic data and biological samples of consumers shall:
+8 (A) not be stored within the territorial boundaries of any country
+9 currently sanctioned in any way by the U.S. Office of Foreign Assets Control
+10 or designated as a foreign adversary under 15 C.F.R. § 7.4(a); and
+11 (B) only be transferred or stored outside the United States with the
+12 express consent of the consumer.
+13 Second: In Sec. 1, 9 V.S.A. chapter 61A, in section 2421c, by adding a new
+14 subsection to be subsection (c) to read as follows:
+15 (c)(1) A consumer pursuing a civil action pursuant to subsection 2461(b) of
+16 this title against a direct-to-consumer genetic testing company or service
+17 provider for an alleged violation of this subchapter shall, before initiating the
+18 civil action, send a written notice to the company or service provider that
+19 includes as many details as possible of the alleged violation.
+20 (2) If the company or service provider does not cure the alleged
+21 violation within 60 days after the notice is received by the company or service
+VT LEG #389380 v.1
+
+SENATE PROPOSAL OF AMENDMENT H.639
+2026 Page 2 of 2
+1 provider or if there is a disagreement as to whether the alleged violation has
+2 been cured, the consumer shall have the right to initiate a civil action against
+3 the company or service provider pursuant to subsection 2461(b) of this title.
+VT LEG #389380 v.1

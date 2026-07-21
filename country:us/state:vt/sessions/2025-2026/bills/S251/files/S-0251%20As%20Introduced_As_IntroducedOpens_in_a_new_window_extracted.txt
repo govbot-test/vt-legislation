@@ -1,0 +1,67 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED S.251
+2026 Page 1 of 3
+1 S.251
+2 Introduced by Senator Chittenden
+3 Referred to Committee on
+4 Date:
+5 Subject: Health; health insurance; diagnosis and treatment of certain pediatric
+6 neuropsychiatric conditions
+7 Statement of purpose of bill as introduced: This bill proposes to health
+8 insurance coverage for diagnosis and treatment of Pediatric Autoimmune
+9 Neuropsychiatric Disorders Associated with Streptococcal Infections
+10 (PANDAS) and Pediatric Acute-onset Neuropsychiatric Syndrome (PANS).
+11 An act relating to health insurance coverage for diagnosis and treatment of
+12 certain pediatric neuropsychiatric conditions
+13 It is hereby enacted by the General Assembly of the State of Vermont:
+14 Sec. 1. 8 V.S.A. § 4085 is added to read:
+15 § 4085. DIAGNOSIS AND TREATMENT OF CERTAIN PEDIATRIC
+16 NEUROPSYCHIATRIC CONDITIONS
+17 (a) As used in this section:
+18 (1) “PANDAS” means Pediatric Autoimmune Neuropsychiatric
+19 Disorders Associated with Streptococcal Infections (PANDAS).
+VT LEG #385003 v.1
+
+BILL AS INTRODUCED S.251
+2026 Page 2 of 3
+1 (2) “PANS” means Pediatric Acute-onset Neuropsychiatric Syndrome
+2 (PANS).
+3 (b)(1) A health insurance plan shall provide coverage for the medically
+4 necessary diagnosis and treatment of PANDAS and PANS that is prescribed or
+5 ordered by the covered individual’s treating health care professional. Covered
+6 treatments shall include antibiotics, medication therapy and mental health
+7 services to manage neuropsychiatric symptoms, immunomodulating
+8 medicines, plasma exchange, and intravenous immunoglobulin therapy.
+9 (2) Coverage for PANDAS and PANS shall adhere to the treatment
+10 recommendations set forth in current clinical practice guidelines published in
+11 peer-reviewed medical literature or endorsed by organizations composed of
+12 expert treating health care professionals.
+13 (c) A health insurance plan shall not impose greater coinsurance, co-
+14 payment, deductible, or other cost-sharing requirements for coverage of the
+15 diagnosis or treatment of PANDAS or PANS than apply to the diagnosis and
+16 treatment of any other physical or mental condition under the plan.
+17 (d) For billing and diagnosis purposes, PANDAS and PANS may be coded
+18 as autoimmune encephalitis until such time as the American Medical
+19 Association and the Centers for Medicare and Medicaid Services create and
+20 assign a specific code for PANDAS and PANS. After a specific code has been
+21 established, PANDAS and PANS may be coded as autoimmune encephalitis,
+VT LEG #385003 v.1
+
+BILL AS INTRODUCED S.251
+2026 Page 3 of 3
+1 PANDAS, or PANS. If PANDAS or PANS is known by a different common
+2 name in the future, that name may be used for coding purposes and this section
+3 shall apply to that disorder or syndrome.
+4 Sec. 2. EFFECTIVE DATE
+5 This act shall take effect on January 1, 2027, and shall apply to all health
+6 insurance plans issued on and after January 1, 2027, on such date as a health
+7 insurer offers, issues, or renews the health insurance plan, but in no event later
+8 than January 1, 2028.
+VT LEG #385003 v.1

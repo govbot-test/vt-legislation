@@ -1,0 +1,119 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.645
+2026 Page 1 of 5
+1 H.645
+2 Introduced by Representatives Pinsonault of Dorset, Pritchard of Pawlet, and
+3 Southworth of Walden
+4 Referred to Committee on
+5 Date:
+6 Subject: Municipal and county government; town clerks; land records;
+7 recording and indexing; indorsement; procedure for expedited or
+8 delayed indorsement and recording; professions and occupations; real
+9 estate broker or salesperson; property; conveyance of real estate;
+10 attorneys; affidavit
+11 Statement of purpose of bill as introduced: This bill proposes to establish a
+12 registry of secure real property transactors who utilize an approved identity
+13 verification platform to verify the identity of grantors in a real property
+14 transaction. This bill also proposes to establish a procedure for town clerks to
+15 expedite the indorsement of instruments submitted for recording if the grantor,
+16 grantee, attorney for the grantor or grantee, real estate broker or salesperson for
+17 the grantor or grantee, title insurer, or mortgage lender is a secure real property
+18 transactor or otherwise uses an approved identity verification platform. This
+19 bill also proposes to require attorneys, real estate brokers, and real estate
+20 salespersons to take reasonable steps to verify the identity of their clients who
+21 are grantors in a real property transaction.
+VT LEG #386124 v.1
+
+BILL AS INTRODUCED H.645
+2026 Page 2 of 5
+1 An act relating to identity verification in real property transactions
+2 It is hereby enacted by the General Assembly of the State of Vermont:
+3 Sec. 1. 24 V.S.A. § 1159a is added to read:
+4 § 1159a. PROCEDURE FOR EXPEDITED OR DELAYED
+5 INDORSEMENT AND RECORDING
+6 (a) Prior to indorsing a certificate on an instrument conveying any interest
+7 in real property pursuant to section 1159 of this chapter, the town clerk shall
+8 verify that the grantor, grantee, attorney for the grantor or grantee, real estate
+9 broker or salesperson for the grantor or grantee, title insurer, or mortgage
+10 lender:
+11 (1) is registered with the Secretary of State as a secure real property
+12 transactor; or
+13 (2) has submitted documentation concerning the verification of the
+14 grantor’s identity using a platform approved by the Secretary of State.
+15 (b) The town clerk shall prioritize and expedite the indorsement of
+16 instruments that meet the requirements of subsection (a) of this section.
+17 (c) If the town clerk is not able to verify the information required by
+18 subsection (a) of this section, the clerk shall provide notice to the parties that
+19 the instrument shall not be indorsed or deemed recorded until the date that the
+20 required information is received or 15 days after the date that the instrument
+21 was submitted for recording, whichever is sooner.
+VT LEG #386124 v.1
+
+BILL AS INTRODUCED H.645
+2026 Page 3 of 5
+1 (d) The Secretary of State shall maintain a list of approved identity
+2 verification platforms that may be used to verify the grantor’s identity in a real
+3 property transfer. The Secretary of State may adopt procedures governing the
+4 requirements that a platform must meet before being added to the list. At
+5 minimum, the procedures shall establish minimum standards for the identity
+6 documents used by the platform, data privacy and security, and methods for
+7 verifying that the grantor is the person submitting the identity documentation
+8 through the platform.
+9 (e) The Secretary of State shall maintain a registry of secure real property
+10 transactors. A person may register as a secure real property transactor by
+11 submitting to the Secretary of State:
+12 (1) an annual registration fee of $20.00;
+13 (2) a statement that the person is a grantor, grantee, attorney, title
+14 insurer, or mortgage lender; and
+15 (3) documentation that demonstrates that the person uses an approved
+16 identity verification platform to verify the identity of the grantor in real
+17 property transactions.
+18 (f) A person’s registration as a secure real property transactor shall expire
+19 one year after the date of registration and may be renewed. A secure real
+20 property transactor shall notify the Secretary of State and amend their
+VT LEG #386124 v.1
+
+BILL AS INTRODUCED H.645
+2026 Page 4 of 5
+1 registration if at any point during the term of the registration the secure real
+2 property transactor begins using a different identity verification platform.
+3 Sec. 2. 26 V.S.A. § 2296 is amended to read:
+4 § 2296. UNPROFESSIONAL CONDUCT
+5 In addition to the conduct set forth in 3 V.S.A. § 129a, the following
+6 conduct by those regulated under this chapter constitutes unprofessional
+7 conduct:
+8 * * *
+9 (5) failing to fully disclose to a buyer the existence of an agency
+10 relationship between the licensee and the seller; and
+11 (6) failing to verify the identity of a seller pursuant to section 2300 of
+12 this subchapter.
+13 Sec. 3. 26 V.S.A. § 2300 is added to read:
+14 § 2300. DUTY TO VERIFY CLIENT IDENTITY
+15 Every real estate broker or salesperson who represents a grantor of real
+16 property shall take reasonable measures to verify the identity of the client. A
+17 real estate broker or salesperson may fulfill the duty to verify client identity by
+18 using an identity verification platform approved by the Secretary of State
+19 pursuant to 24 V.S.A. § 1159a.
+20 Sec. 4. 27 V.S.A. § 310 is added to read:
+21 § 310. ATTORNEY; AFFIDAVIT OF VERIFIED GRANTOR
+VT LEG #386124 v.1
+
+BILL AS INTRODUCED H.645
+2026 Page 5 of 5
+1 An attorney representing a grantor in any transaction that is subject to this
+2 chapter shall verify the identity of the attorney’s client. Prior to the
+3 conveyance of land or an estate or interest in land by the execution of a deed,
+4 the attorney representing the grantor shall sign an affidavit stating that the
+5 attorney has taken reasonable measures to verify the identity of the grantor.
+6 The affidavit shall be included in the documents submitted for recording in the
+7 land records and indexing in the general index.
+8 Sec. 5. EFFECTIVE DATE
+9 This act shall take effect on January 1, 2027.
+VT LEG #386124 v.1

@@ -1,0 +1,277 @@
+Title: 
+Official Title: 
+Source: versions - As Passed By the House (OfficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILLAS PASSED BY THE HOUSE H.650
+2026 Page 1 of 12
+1 H.650
+2 Introduced by Representatives Arsenault of Williston and Graning of Jericho
+3 Referred to Committee on
+4 Date:
+5 Subject: Commerce and trade; protection of personal information; educational
+6 technology certification
+7 Statement of purpose of bill as introduced: This bill proposes to require that
+8 providers of educational technology products register annually with the State.
+9 It also requires the Secretary of State to create a certification standard and
+10 review process for these products before they can be used by schools.
+11 An act relating to educational technology products
+12 It is hereby enacted by the General Assembly of the State of Vermont:
+13 Sec. 1. 9 V.S.A. chapter 62 is amended to read:
+14 CHAPTER 62. PROTECTION OF PERSONALINFORMATION
+15 * * *
+16 Subchapter 3A. Student Privacy
+17 * * *
+18 § 2443f. ENFORCEMENT
+19 A person who violates a provision of this chapter subchapter commits an
+
+BILLAS PASSED BY THE HOUSE H.650
+2026 Page 2 of 12
+1 unfair and deceptive act in commerce in violation of section 2453 of this title.
+2 Subchapter 3B. Educational Technology
+3 § 2444a. DEFINITIONS
+4 As used in this subchapter:
+5 (1) “Educational technology product” and “product” means any student-
+6 facing software, application, or platform that may collect, process, or transmit
+7 student data and that is used for teaching and learning purposes in a school.
+8 (2) “Provider of an educational technology product” and “provider”
+9 means a person that operates an educational technology product that is in use
+10 at a school with or without a contract with the school or school district.
+11 (3) “School” means a public school or an independent school approved
+12 pursuant to 16 V.S.A. § 166.
+13 § 2444b. ANNUALREGISTRATION
+14 (a) Annually, on or before January 31 following a year in which a person
+15 meets the definition of a provider of an educational technology product as set
+16 forth in section 2444a of this subchapter, the person shall:
+17 (1) register with the Secretary of State;
+18 (2) pay a registration fee of $100.00;
+19 (3) provide the following information during registration:
+20 (A) the name and primary physical, email, and internet addresses of
+21 the person; and
+
+BILLAS PASSED BY THE HOUSE H.650
+2026 Page 3 of 12
+1 (B) the most recent version of the privacy policy and terms and
+2 conditions in use by the product; and
+3 (4) list the names of all the products operated by the provider and which
+4 products, if any, have been certified by the Secretary of State pursuant to this
+5 subchapter.
+6 (b) A provider that fails to register and provide all required information
+7 pursuant to subsection (a) of this section:
+8 (1) is liable to the State for:
+9 (A) a civil penalty of $50.00 for each day, not to exceed a total of
+10 $10,000.00 for each year, it fails to register pursuant to this section;
+11 (B) an amount equal to the fees due under this section during the
+12 period it failed to register pursuant to this section; and
+13 (C) other penalties imposed by law; and
+14 (2) does not otherwise limit the provider’s responsibility to comply with
+15 the provisions required of providers set forth in this subchapter.
+16 (c) The Attorney General may maintain an action in the Civil Division of
+17 the Superior Court to collect the penalties imposed in this section and to seek
+18 appropriate injunctive relief.
+19 § 2444c. PRODUCT CERTIFICATION
+20 (a)(1) The Secretary of State shall:
+
+BILLAS PASSED BY THE HOUSE H.650
+2026 Page 4 of 12
+1 (A) have the sole authority to certify an educational technology
+2 product as set forth in this section; and
+3 (B) create a form on its website where a provider of an educational
+4 technology product can apply for the product to be reviewed by the Secretary
+5 of State for certification.
+6 (2) No school shall use an educational technology product that has not
+7 been certified by the Secretary of State pursuant to this section.
+8 (b) The Secretary of State shall develop, publish, and annually review the
+9 standards for the certification of an educational technology product. In
+10 developing the certification standards, the Secretary of State shall consider the
+11 following about an educational technology product:
+12 (1) the product’s compliance with State curriculum standards;
+13 (2) advantages of using the product compared with nondigital methods;
+14 (3) whether the product was explicitly designed for educational use;
+15 (4) design features of the product, including any:
+16 (A) geolocation tracking;
+17 (B) use of artificial intelligence;
+18 (C) targeted advertising;
+19 (D) personalized recommendation systems;
+20 (E) access to adults unknown to a student; and
+21 (F) features that would lead to compulsive use;
+
+BILLAS PASSED BY THE HOUSE H.650
+2026 Page 5 of 12
+1 (5) the data privacy practices of the provider of the product; and
+2 (6) any other factor the Secretary of State believes is relevant to the
+3 education, privacy, and safety of students.
+4 (c) Notwithstanding subsection (b) of this section, a certified product shall:
+5 (1) be compliant with all federal and State privacy laws, including the
+6 federal Children’s Online Privacy Protection Act;
+7 (2) include clear and easy-to-understand product information;
+8 (3) provide the following to a parent or guardian of a student:
+9 (A) what personal information of the student is collected by the
+10 product;
+11 (B) how the personal information collected pursuant to subdivision
+12 (A) of this subdivision (3) is maintained, used, and shared by the product; and
+13 (C) the ability to access, correct, and delete the personal information
+14 of the student;
+15 (4) not collect:
+16 (A) student data that is not essential for the product to function
+17 effectively for the purpose for which it is being utilized;
+18 (B) demographic data of a student except for the name and grade
+19 level of the student; and
+20 (C) behavioral, interactional, or sensitive health data of a student;
+21 and
+
+BILLAS PASSED BY THE HOUSE H.650
+2026 Page 6 of 12
+1 (5) not use any data collected to:
+2 (A) sell to or share with a third party; or
+3 (B) create a student profile for noneducational uses, which includes
+4 targeted advertising and disciplinary actions.
+5 (d) The Secretary of State shall post on its website and regularly update a
+6 list of educational technology products that have been certified by the
+7 Secretary of State pursuant to this section. The Secretary of State may list
+8 products that are under active consideration by the Secretary of State and
+9 products that have failed certification.
+10 (e) Nothing in this section shall be construed to limit or alter obligations
+11 under the Individuals with Disabilities Education Act, Section 504 of the
+12 Rehabilitation Act, or the Americans with Disabilities Act. Schools shall
+13 provide reasonable modifications and necessary assistive technology to ensure
+14 Free Appropriate Public Education and equal access.
+15 (f)(1) A provider that violates this section commits an unfair and deceptive
+16 act in commerce in violation of section 2453 of this title.
+17 (2) The Attorney General shall have the same authority under this
+18 subchapter to make rules, conduct civil investigations, bring civil actions, and
+19 enter into assurances of discontinuance as provided under chapter 63 of this
+20 title.
+21 * * *
+
+BILLAS PASSED BY THE HOUSE H.650
+2026 Page 7 of 12
+1 Sec. 2. CERTIFICATION TRANSITION
+2 A school shall submit a list of educational technology products, as that term
+3 is defined in 9 V.S.A. § 2444a, that are currently in use at the school to the
+4 Secretary of State on or before December 15, 2026, in a form and manner
+5 prescribed by the Secretary of State. A school may use an educational
+6 technology product that has not been certified by the Secretary of State on or
+7 before June 30, 2027.
+8 Sec. 3. EFFECTIVE DATES
+9 This act shall take effect on July 1, 2026, except that 9 V.S.A. § 2444c(a)(2)
+10 (certified product requirement) shall take effect on July 1, 2027.
+Sec. 1. 9 V.S.A. chapter 62 is amended to read:
+CHAPTER 62. PROTECTION OF PERSONAL INFORMATION
+* * *
+Subchapter 3A. Student Privacy
+* * *
+§ 2443f. ENFORCEMENT
+(a) A person who violates a provision of this chapter subchapter commits
+an unfair and deceptive act in commerce in violation of section 2453 of this
+title.
+(b) The Attorney General has the same authority to adopt rules to
+implement the provisions of this subchapter and to conduct civil investigations,
+
+BILLAS PASSED BY THE HOUSE H.650
+2026 Page 8 of 12
+enter into assurances of discontinuance, and bring civil actions as provided
+under chapter 63, subchapter 1 of this title.
+Subchapter 3B. Educational Technology
+§ 2444a. REGISTRATION REQUIREMENTS
+(a) Definitions. As used in this section:
+(1) “Educational technology product” and “product” mean any
+student-facing software, application, or platform that may collect, process, or
+transmit student data and that is used for teaching and learning purposes in a
+school in Vermont.
+(2) “Filing” means an initial registration, amendment, periodic report,
+or other filing with the Secretary of State as the Secretary may require.
+(3) “Provider of an educational technology product” and “provider”
+mean a person that provides an educational technology product that is in use
+at a school with or without a contract with the school or school district.
+(4) “School” means a public school or an independent school approved
+pursuant to 16 V.S.A. § 166.
+(b) Mandatory data reporting. In addition to all other requirements of a
+person registering with the Secretary of State pursuant to State law, a person
+doing business in this State as a provider of an educational technology product
+shall, at the time of a filing, provide the following:
+
+BILLAS PASSED BY THE HOUSE H.650
+2026 Page 9 of 12
+(1) the name and primary physical, email, and internet addresses of the
+person;
+(2) a link to the most recent version of the privacy policy and terms and
+conditions of each product in use;
+(3) the name of each school or school district in which the provider is
+operating pursuant to a contract;
+(4) the name and a brief description of each product of the provider,
+also indicating which products are offered at no cost to schools;
+(5) which products are known by the provider to be in use in any school
+or school district; and
+(6) an attestation that each product meets:
+(A) the standards set forth in subchapter 3A of this chapter and
+subchapter 6 of this chapter (the Vermont Age-Appropriate Design Code Act);
+and
+(B) all federal and State privacy laws, including the federal
+Children’s Online Privacy Protection Act.
+* * *
+Sec. 2. EDUCATIONAL TECHNOLOGY REGISTRATION REVIEW;
+CERTIFICATION; AGENCY OF EDUCATION; REPORT
+(a) Task. The Agency of Education shall:
+
+BILLAS PASSED BY THE HOUSE H.650
+2026 Page 10 of 12
+(1) in consultation with the Secretary of State, review all educational
+technology product provider registrations pursuant to 9 V.S.A. § 2444a;
+(2) in consultation with schools, create a list of educational technology
+products in use across the State;
+(3) cross-reference the information gathered in subdivisions (1) and (2)
+of this subsection to determine the names of any unregistered educational
+technology providers operating in the State and forward the names of such
+providers to the Office of the Attorney General;
+(4) determine where assistive technology may be included in an
+individualized education plan;
+(5) provide a recommendation as to how the State should certify
+educational technology products for use in schools, including:
+(A) which State entities should be involved in the certification
+process and to what extent;
+(B) the criteria to be considered in the certification process, which at
+the minimum shall include:
+(i) the product’s compliance with State curriculum standards;
+(ii) advantages of using the product compared with nondigital
+methods;
+(iii) whether the product was explicitly designed for educational
+use;
+
+BILLAS PASSED BY THE HOUSE H.650
+2026 Page 11 of 12
+(iv) design features of the product, including any:
+(I) geolocation tracking;
+(II) use of artificial intelligence, which includes chatbots,
+synthetic content, and automated decision-making tools;
+(III) targeted advertising;
+(IV) personalized recommendation systems;
+(V) access to adults unknown to a student; and
+(VI) features that would lead to compulsive use;
+(v) whether the product serves as beneficial assistive technology
+or provides some other form of benefit for special education purposes; and
+(vi) the data privacy practices of the provider of the product;
+(C) the timeline and estimated cost to establish and implement the
+certification process;
+(D) the estimated cost or cost savings for schools assuming a State
+certification process is established; and
+(E) whether any third-party services, including Internet Safety Labs,
+should be utilized to assist in certification; and
+(6) provide the General Assembly with any other information it deems
+relevant to help ensure that educational technology products are safely and
+smartly used in Vermont schools.
+
+BILLAS PASSED BY THE HOUSE H.650
+2026 Page 12 of 12
+(b) Report. On or before November 15, 2027, the Agency of Education
+shall submit a written report to the House Committees on Commerce and
+Economic Development and on Education and the Senate Committees on
+Economic Development, Housing and General Affairs and on Education with
+its findings and information gathered pursuant to subsection (a) of this section
+along with any recommendations for legislative action concerning the
+certification of educational technology products.
+Sec. 3. EFFECTIVE DATE
+This act shall take effect on July 1, 2026.

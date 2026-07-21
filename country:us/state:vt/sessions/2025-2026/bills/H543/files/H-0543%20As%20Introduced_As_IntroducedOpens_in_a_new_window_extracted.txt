@@ -1,0 +1,38 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.543
+2026 Page 1 of 2
+1 H.543
+2 Introduced by Representative Goodnow of Brattleboro
+3 Referred to Committee on
+4 Date:
+5 Subject: Court procedure; negligence actions; post-traumatic stress disorder
+6 Statement of purpose of bill as introduced: This bill proposes to permit a
+7 diagnosis of post-traumatic stress disorder to satisfy the requirement in
+8 negligence actions that the plaintiff show actual injury.
+9 An act relating to negligence actions and post-traumatic stress disorder
+10 It is hereby enacted by the General Assembly of the State of Vermont:
+11 Sec. 1. PURPOSE
+12 The purpose of this act is to overrule the Vermont Supreme Court’s
+13 decision in Zeno-Etheridge v. Comcast Corp., 219 Vt. 121 (2024) and permit a
+14 post-traumatic stress disorder diagnosis to satisfy the required element of a
+15 negligence claim that the plaintiff show actual injury.
+16 Sec. 2. 12 V.S.A. § 1036a is added to read:
+17 § 1036a. NEGLIGENCE; ACTUAL INJURY; POST-TRAUMATIC STRESS
+18 DISORDER
+VT LEG #385568 v.1
+
+BILL AS INTRODUCED H.543
+2026 Page 2 of 2
+1 In any civil action, the required element in a negligence claim of actual
+2 injury to the plaintiff may be satisfied by a diagnosis of post-traumatic stress
+3 disorder.
+4 Sec. 3. EFFECTIVE DATE
+5 This act shall take effect on passage.
+VT LEG #385568 v.1

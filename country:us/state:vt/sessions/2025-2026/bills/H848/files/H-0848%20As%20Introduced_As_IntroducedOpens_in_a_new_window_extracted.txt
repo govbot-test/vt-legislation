@@ -1,0 +1,69 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.848
+2026 Page 1 of 3
+1 H.848
+2 Introduced by Representatives North of Ferrisburgh, Burtt of Cabot, Critchlow
+3 of Colchester, Demar of Enosburgh, Lueders of Lincoln,
+4 McFaun of Barre Town, Powers of Waterford, and Tagliavia of
+5 Corinth
+6 Referred to Committee on
+7 Date:
+8 Subject: Health; hospitals; hospital networks; outpatient services; facility fees
+9 Statement of purpose of bill as introduced: This bill proposes to prohibit
+10 hospitals and hospital networks from charging a facility fee for certain
+11 categories of outpatient services and services delivered through telehealth. It
+12 would also require hospitals to provide written notice to patients before
+13 delivering services that will incur facility fees.
+14 An act relating to limiting facility fees for certain outpatient services and
+15 telehealth
+16 It is hereby enacted by the General Assembly of the State of Vermont:
+17 Sec. 1. 18 V.S.A. § 1856 is added to read:
+18 § 1856. NOTICE OF AND LIMITATIONS ON FACILITY FEES
+19 (a) As used in this section:
+VT LEG #386184 v.1
+
+BILL AS INTRODUCED H.848
+2026 Page 2 of 3
+1 (1) “Facility fee” means any fee charged or billed by a hospital or
+2 hospital network for outpatient services provided by a hospital-owned or
+3 hospital-affiliated facility that is:
+4 (A) intended to compensate the hospital or hospital network for its
+5 operational expenses; and
+6 (B) separate and distinct from a professional fee.
+7 (2) “Health care provider” has the same meaning as in section 9402 of
+8 this title.
+9 (3) “Hospital” has the same meaning as in section 9451 of this title.
+10 (4) “Hospital network” has the same meaning as in section 9451 of this
+11 title.
+12 (5) “Hospital outpatient department” means a unit of a hospital, whether
+13 on or off the main hospital campus, that is owned by or otherwise affiliated
+14 with the hospital and is designed to treat patients who do not need to be
+15 admitted to the hospital.
+16 (6) “Professional fee” means any fee charged or billed by a health care
+17 provider for professional medical services provided in a hospital-owned or
+18 hospital-affiliated facility.
+19 (7) “Telehealth” has the same meaning as in 26 V.S.A. § 3052.
+20 (b) A hospital or hospital network shall not charge or collect a facility fee
+21 for:
+VT LEG #386184 v.1
+
+BILL AS INTRODUCED H.848
+2026 Page 3 of 3
+1 (1) health care services delivered in a hospital outpatient department, or
+2 any other outpatient hospital services, that use a Current Procedural
+3 Terminology (CPT) evaluation and management code or assessment and
+4 management code; or
+5 (2) health care services delivered through telehealth.
+6 (c) A hospital shall provide a patient with notice in writing of any
+7 applicable facility fees prior to delivering any health care service that will
+8 result in the charge or collection of a facility fee.
+9 Sec. 2. EFFECTIVE DATE
+10 This act shall take effect on July 1, 2026.
+VT LEG #386184 v.1

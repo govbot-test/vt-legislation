@@ -1,0 +1,120 @@
+Title: 
+Official Title: 
+Source: versions - As EnactedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+No. 94 Page 1 of 5
+2026
+No. 94. An act relating to the calculation of recidivism and other related
+criminology measures.
+(H.410)
+It is hereby enacted by the General Assembly of the State of Vermont:
+Sec. 1. 13 V.S.A. chapter 233 is added to read:
+CHAPTER 233. CRIMINOLOGY MEASURES
+§ 8121. DEFINITION
+As used in this chapter, “recidivism” means a relapse into criminal activity
+as evidenced by an individual who is convicted of a criminal offense after
+receiving a criminal conviction for a previous crime. The date of the recidivism
+event is the date of arraignment for the subsequent offense. The arraignment
+date is used as a proxy for when the subsequent offense was committed. The
+recidivism calculation shall begin on the date an individual is released from
+incarceration or the date when an individual is sentenced to a non-custodial
+sentence.
+§ 8122. VERMONT STATISTICAL ANALYSIS CENTER ANNUAL
+REPORTS
+(a) Annual reports. Annually, on or before April 1, the Vermont Statistical
+Analysis Center (SAC) shall submit the following reports to the House and
+Senate Committees on Judiciary, the House Committee on Corrections and
+Institutions, and the Senate Committee on Institutions:
+(1) Bail rates. An annualized report on bail rates, including hold
+without bail, monetary amounts, and bail posting information aggregated by
+VT LEG #389688 v.1
+
+No. 94 Page 2 of 5
+2026
+county. The report shall include data on pretrial detainees held in Vermont
+correctional facilities, including the crime type and jurisdiction for which they
+are held.
+(2) Recidivism. A report on the annual recidivism rate that measures
+individuals who are convicted of a criminal offense after receiving a criminal
+conviction for a previous crime. The recidivism rate shall be calculated using
+a three-year and five-year period.
+(3) Arrests and clearance rates. An annualized report on arrests and
+clearance rates. Arrests shall be organized by crime according to data from the
+National Incident-Based Reporting System.
+(4) Most convicted crimes.
+(A) A report detailing aggregated information on the number, type,
+and length of sentences, including fines, for the 20 crimes with the highest
+number of convictions.
+(B) A report detailing the total combined years of probation and
+incarceration sentenced by the court in the prior year. The report shall include
+an analysis of which crimes and counties contributed most significantly to the
+sentences imposed.
+(b) Demographic variables. The information required pursuant to
+subsection (a) of this section shall include race, gender, age, and other
+demographic variables whenever possible.
+VT LEG #389688 v.1
+
+No. 94 Page 3 of 5
+2026
+(c) Data sharing. Notwithstanding any provision of law to the contrary, all
+State and local agencies and departments that possess the data necessary to
+compile the reports required pursuant to this section shall, upon request,
+provide the SAC with any data that it determines is relevant to the report. The
+obligation to disclose shall supersede any other legal obligation with respect to
+the data required pursuant to this section, and a department, agency, or other
+entity shall not decline to disclose data required based on any other purported
+legal obligation. Prior to submission of the reports required by this section, the
+SAC shall provide copies of drafts of the reports to State and local agencies
+and departments that provided the SAC with data to compile the reports and
+allow a reasonable time period for comment from such State and local
+agencies.
+Sec. 2. 28 V.S.A. § 4 is amended to read:
+§ 4. STANDARD MEASURE OF RECIDIVISM
+The Department shall calculate the rate of recidivism based upon offenders
+who are sentenced to more than one year of incarceration who, after release
+from incarceration, return to prison within three years for a conviction for a
+new offense or a violation of supervision resulting, and the new incarceration
+sentence or time served on the violation is at least 90 days. [Repealed.]
+Sec. 3. 28 V.S.A. § 125 is amended to read:
+§ 125. CRIMINAL JUSTICE INVESTMENTS AND TRENDS; REPORT
+* * *
+VT LEG #389688 v.1
+
+No. 94 Page 4 of 5
+2026
+(b) Definitions. As used in this section:
+* * *
+(5) “Recidivism” has the same meaning as in section 4 of this title.
+[Repealed.]
+* * *
+(c) Report.
+* * *
+(2) The report required pursuant to subdivision (1) of this subsection
+shall include data showing:
+(A) recidivism rates; [Repealed.]
+* * *
+Sec. 4. VERMONT STATISTICAL ANALYSIS CENTER;
+APPROPRIATIONS
+In fiscal year 2027, the following monies are appropriated from the General
+Fund to the Department of Public Safety for contracted support related to the
+Vermont Statistical Analysis Center:
+(1) $10,000.00 for the annual bail rates report required by 13 V.S.A.
+§ 8122(a)(1).
+(2) $10,000.00 for the annual recidivism report required by 13 V.S.A.
+§ 8122(a)(2).
+(3) $1,000.00 for the annual arrests and clearance rates report required
+by 13 V.S.A. § 8122(a)(3).
+VT LEG #389688 v.1
+
+No. 94 Page 5 of 5
+2026
+(4) $4,000.00 for the annual sentencing reports required by 13 V.S.A.
+§ 8122(a)(4).
+Sec. 5. EFFECTIVE DATE
+This act shall take effect July 1, 2026.
+Date Governor signed bill: May 11, 2026
+VT LEG #389688 v.1

@@ -1,0 +1,310 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.612
+2026 Page 1 of 13
+1 H.612
+2 Introduced by Representative LaLonde of South Burlington
+3 Referred to Committee on
+4 Date:
+5 Subject: Crimes and criminal procedure
+6 Statement of purpose of bill as introduced: This bill proposes to establish a
+7 State version of the federal Racketeer Influenced and Corrupt Organizations
+8 Act for the purpose of targeting organized crime.
+9 An act relating to the Vermont Racketeer Influenced and Corrupt
+10 Organizations Act
+11 It is hereby enacted by the General Assembly of the State of Vermont:
+12 Sec. 1. 13 V.S.A. chapter 69A is added to read:
+13 CHAPTER 69A. VERMONT RACKETEER INFLUENCED AND
+14 CORRUPT ORGANIZATIONS ACT
+15 § 3121. SHORT TITLE
+16 This chapter shall be known and may be cited as the “Vermont Racketeer
+17 Influenced and Corrupt Organizations Act.”
+18 § 3122. FINDINGS AND INTENT
+19 (a) The General Assembly finds that a severe problem is posed in this State
+20 by the increasing sophistication of various criminal elements and the extent to
+VT LEG #385601 v.1
+
+BILL AS INTRODUCED H.612
+2026 Page 2 of 13
+1 which the State and its citizens are harmed as a result of the activities of these
+2 elements.
+3 (b) The intent of this chapter is to impose sanctions against those who
+4 violate this chapter and to provide compensation to persons injured or
+5 aggrieved by such violations. It is not the intent of the General Assembly that
+6 isolated incidents of misdemeanor conduct or acts of civil disobedience be
+7 prosecuted under this chapter. This chapter shall apply to an interrelated
+8 pattern of criminal activity motivated by or the effect of which is pecuniary
+9 gain or economic or physical threat or injury. This chapter shall be liberally
+10 construed to effectuate the remedial purposes embodied in its operative
+11 provisions.
+12 § 3123. DEFINITIONS
+13 As used in this chapter:
+14 (1) “Civil forfeiture proceeding” means the process set forth in 18
+15 V.S.A. §§ 4242–4248, which shall apply to all property seized pursuant to this
+16 chapter.
+17 (2) “Criminal proceeding” means any proceeding commenced in the
+18 Criminal Division of the Superior Court by the Attorney General or a State’s
+19 Attorney under any provision of this chapter.
+20 (3) “Enterprise” means any person, sole proprietorship, partnership,
+21 corporation, business trust, union chartered under the laws of this State, or
+VT LEG #385601 v.1
+
+BILL AS INTRODUCED H.612
+2026 Page 3 of 13
+1 other legal entity; or any unchartered union, association, or group of
+2 individuals associated in fact although not a legal entity; and it includes illicit
+3 as well as licit enterprises and governmental as well as other entities.
+4 (4) “Pattern of racketeering activity” means:
+5 (A) engaging in at least two acts of racketeering activity in
+6 furtherance of one or more incidents, schemes, or transactions that have the
+7 same or similar intents, results, accomplices, victims, or methods of
+8 commission or otherwise are interrelated by distinguishing characteristics and
+9 are not isolated incidents, provided at least one of such acts occurred after July
+10 1, 1980, and that the last of such acts occurred within four years, excluding any
+11 periods of imprisonment, after the commission of a prior act of racketeering
+12 activity; or
+13 (B) engaging in any one or more acts of domestic terrorism as
+14 described in section 3521 of this title or any criminal attempt, criminal
+15 solicitation, or criminal conspiracy related thereto.
+16 (5)(A) “Racketeering activity” means to commit, to attempt to commit,
+17 or to solicit, coerce, or intimidate another person to commit any crime that is
+18 chargeable by indictment under the laws of this State involving:
+19 (i) unlawful distillation, manufacture, sale, and transportation of
+20 alcoholic beverages in violation of 7 V.S.A. chapter 21;
+VT LEG #385601 v.1
+
+BILL AS INTRODUCED H.612
+2026 Page 4 of 13
+1 (ii) records and reports of currency transactions in violation of
+2 8 V.S.A. chapter 79;
+3 (iii) the Vermont Uniform Securities Act (2002) in violation of
+4 9 V.S.A. chapter 150;
+5 (iv) homicide in violation of chapter 53 of this title;
+6 (v) assaults and related offenses in violation of chapter 19 of this
+7 title;
+8 (vi) kidnapping, false imprisonment, and related offenses in
+9 violation of chapter 55 of this title;
+10 (vii) prostitution, keeping a place of prostitution, soliciting,
+11 procuring, inducing, enticing, compelling, or transporting a person for the
+12 purpose of prostitution in violation of chapter 59, subchapter 2 of this title;
+13 (viii) burglary in violation of chapter 23 of this title;
+14 (ix) assault and robbery in violation of section 608 of this title;
+15 (x) arson and burning in violation of chapter 11 of this title;
+16 (xi) bombs, explosives, and destructive devices in violation of
+17 chapter 37 of this title;
+18 (xii) larceny and embezzlement in violation of chapter 57 of this
+19 title;
+20 (xiii) robbery in violation of section 608 of this title;
+VT LEG #385601 v.1
+
+BILL AS INTRODUCED H.612
+2026 Page 5 of 13
+1 (xiv) forgery and counterfeiting in any degree in violation of
+2 chapter 43 of this title;
+3 (xv) identity theft in violation of section 2030 of this title;
+4 (xvi) bribery in violation of chapter 21 of this title;
+5 (xvii) false alarms and reports in violation of chapter 41 of this
+6 title;
+7 (xviii) impersonating a public officer or employee in violation of
+8 section 3002 of this title;
+9 (xix) obstruction of justice in violation of section 3015 of this title;
+10 (xx) perjury and other related offenses in violation of chapter 65
+11 of this title;
+12 (xxi) domestic terrorism in violation of section 3521 of this title;
+13 (xxii) dangerous weapons in violation of chapter 85 of this title;
+14 (xxiii) commercial gambling in violation of chapter 51 this title;
+15 (xxiv) distributing obscene materials in violation of chapter 63 of
+16 this title;
+17 (xxv) the unlawful manufacture, distribution, dispensing, sale, or
+18 possession of noncontrolled drugs in violation of 18 V.S.A. § 4228 or
+19 18 V.S.A §§ 4231–4235a and related offenses in 18 V.S.A. chapter 84,
+20 subchapter 1;
+21 (xxvi) insurance fraud in violation of section 2031 of this title;
+VT LEG #385601 v.1
+
+BILL AS INTRODUCED H.612
+2026 Page 6 of 13
+1 (xxvii) certain felonies involving certificates of title, security
+2 interest, or liens in violation of chapter 49 of this title;
+3 (xxviii) defacing of identifying numbers in violation of 23 V.S.A.
+4 § 1703;
+5 (xxix) possession of a motor vehicle with serial or motor numbers
+6 defaced in violation of 23 V.S.A. § 1701;
+7 (xxx) abuse, neglect, and exploitation of vulnerable adults in
+8 violation of chapter 28 of this title; or
+9 (xxxi) offenses enumerated in 13 V.S.A. § 364.
+10 (B) “Racketeering activity” also means any act or threat involving
+11 murder, kidnapping, gambling, arson, robbery, theft, receipt of stolen property,
+12 bribery, extortion, obstruction of justice, dealing in narcotic or dangerous
+13 drugs, or dealing in securities that is chargeable under the laws of the United
+14 States, any territory of the United States, or any state and that is punishable by
+15 imprisonment for more than one year.
+16 (C) “Racketeering activity” also means any conduct defined as
+17 “racketeering activity” under 18 U.S.C. § 1961(1), any violation of 18 U.S.C.
+18 § 1028, or any violation of 31 U.S.C. §§ 5311–5330.
+19 (6) “Real property” means any real property situated in this State or any
+20 interest in such real property, including any lease of or mortgage upon such
+21 real property.
+VT LEG #385601 v.1
+
+BILL AS INTRODUCED H.612
+2026 Page 7 of 13
+1 § 3124. PROHIBITED ACTIVITIES
+2 (a) It shall be unlawful for any person, through a pattern of racketeering
+3 activity or proceeds derived from racketeering activity, to acquire or maintain,
+4 directly or indirectly, any interest in or control of any enterprise, real property,
+5 or personal property of any nature, including money.
+6 (b) It shall be unlawful for any person employed by or associated with any
+7 enterprise to conduct or participate in, directly or indirectly, such enterprise
+8 through a pattern of racketeering activity.
+9 (c) It shall be unlawful for any person to conspire or endeavor to violate
+10 any of the provisions of subsection (a) or (b) of this section. A person violates
+11 this subsection when:
+12 (1) the person, together with one or more persons, conspires to violate
+13 any of the provisions of subsection (a) or (b) of this section and any one or
+14 more of such persons commits any overt act to affect the object of the
+15 conspiracy; or
+16 (2) the person endeavors to violate any of the provisions of subsection
+17 (a) or (b) of this section and commits any overt act to affect the object of the
+18 endeavor.
+19 § 3125. CRIMINAL PENALTIES
+20 (a) Notwithstanding any other provision in law, a person convicted of the
+21 offense of engaging in activity in violation of section 3124 of this title shall be
+VT LEG #385601 v.1
+
+BILL AS INTRODUCED H.612
+2026 Page 8 of 13
+1 imprisoned not more than 20 years or fined not more than $25,000.00 or three
+2 times the amount of any pecuniary value gained by the person from the
+3 violation, or both. The court shall hold a hearing to determine the amount of
+4 the fine.
+5 (b) For the purposes of this section, “pecuniary value” means:
+6 (1) anything of value in the form of money, a negotiable instrument, a
+7 commercial interest, or anything else, the primary significance of which is
+8 economic advantage; or
+9 (2) any other property or service that has a value in excess of $100.00.
+10 § 3126. CIVIL REMEDIES
+11 (a) Any court in the Civil Division of the Superior Court, after making due
+12 provisions for the rights of innocent persons, may enjoin violations of section
+13 3124 of this title by issuing appropriate orders and judgments, including:
+14 (1) ordering any defendant to divest themselves of any interest in any
+15 enterprise, real property, or personal property;
+16 (2) imposing reasonable restrictions upon the future activities or
+17 investments of any defendant, including prohibiting any defendant from
+18 engaging in the same type of endeavor as the enterprise in which the defendant
+19 was engaged in violation of section 3124 of this title;
+20 (3) ordering the dissolution or reorganization of any enterprise;
+VT LEG #385601 v.1
+
+BILL AS INTRODUCED H.612
+2026 Page 9 of 13
+1 (4) ordering the suspension or revocation of any license, permit, or prior
+2 approval granted to any enterprise by any agency of the State; or
+3 (5) ordering the forfeiture of the charter of a corporation organized
+4 under the laws of this State or the revocation of a certificate authorizing a
+5 foreign corporation to conduct business within this State upon a finding that
+6 the board of directors or a managerial agent acting on behalf of the
+7 corporation, in conducting affairs of the corporation, has authorized or engaged
+8 in conduct in violation of section 3124 of this title and that, for the prevention
+9 of future criminal activity, the public interest requires that the charter of the
+10 corporation be forfeited and that the corporation be dissolved or the certificate
+11 be revoked.
+12 (b) Any aggrieved person or the State may institute a civil action under
+13 subsection (a) of this section. In the civil action, relief shall be granted in
+14 conformity with the principles that govern the granting of injunctive relief
+15 from threatened loss or damage in other civil cases, provided that no showing
+16 of special or irreparable damage to the person shall have to be made. Upon the
+17 execution of proper bond against damages for an injunction improvidently
+18 granted and a showing of immediate danger of significant loss or damage, a
+19 temporary restraining order and a preliminary injunction may be issued in any
+20 such action before a final determination on the merits.
+VT LEG #385601 v.1
+
+BILL AS INTRODUCED H.612
+2026 Page 10 of 13
+1 (c) Any person who is injured by reason of any violation of section 3124 of
+2 this title shall have a cause of action for three times the actual damages
+3 sustained and, where appropriate, punitive damages. Such person shall also
+4 recover attorney’s fees in the trial and appellate courts and the costs of
+5 investigation and litigation reasonably incurred. The defendant or any injured
+6 person may demand a trial by jury in any civil action brought pursuant to this
+7 section.
+8 (d) Any injured person shall have a right or claim to forfeited property or to
+9 the proceeds derived therefrom.
+10 (e) A conviction in any criminal proceeding shall estop the defendant in
+11 any subsequent civil action or civil forfeiture proceeding under this chapter as
+12 to all matters proved in the criminal proceeding.
+13 § 3127. CIVIL FORFEITURE PROCEEDINGS
+14 (a) All property of every kind used or intended for use in the course of,
+15 derived from, or realized through a pattern of racketeering activity shall be
+16 subject to forfeiture to the State. The Attorney General and any State’s
+17 Attorney shall be specifically authorized to commence any civil forfeiture
+18 proceeding under this chapter in matters arising under this chapter.
+19 (b) Any property subject to forfeiture pursuant to subsection (a) of this
+20 section and any proceeds are declared to be contraband and no person shall
+VT LEG #385601 v.1
+
+BILL AS INTRODUCED H.612
+2026 Page 11 of 13
+1 have a property right in them, and they shall be forfeited in accordance with
+2 the procedure set forth in 18 V.S.A. §§ 4242–4248.
+3 § 3128. LIMITATION OF TIME FOR COMMENCEMENT OF ACTIONS
+4 Notwithstanding any other provision of law, a criminal proceeding or civil
+5 action brought pursuant to this chapter shall be commenced within five years
+6 after the conduct in violation of this chapter terminates. If the State brings a
+7 criminal charge or commences a civil forfeiture proceeding pursuant to this
+8 chapter, the tolling of the period of limitations with respect to any cause of
+9 action arising under section 3124 or 3127 of this title that is based upon any
+10 matter complained of in such criminal proceeding or civil forfeiture proceeding
+11 by the State shall be suspended during the pendency of the proceedings and for
+12 two years thereafter.
+13 § 3129. APPLICATION OF CIVIL REMEDIES
+14 The application of a civil remedy under this chapter shall not preclude the
+15 application of any other remedy, civil or criminal, under this chapter or any
+16 other provision of law. Civil remedies under this chapter are supplemental and
+17 not mutually exclusive.
+18 § 3130. RECOGNITION AND ENFORCEMENT OF JUDGMENTS OF
+19 OTHER STATES; RECIPROCAL AGREEMENTS WITH OTHER
+20 STATES
+VT LEG #385601 v.1
+
+BILL AS INTRODUCED H.612
+2026 Page 12 of 13
+1 (a) A valid judgment rendered by a court of a jurisdiction having a law
+2 substantially similar to this chapter shall be recognized and enforced by the
+3 courts of this State to the extent that a judgment rendered by a court of this
+4 State pursuant to this chapter would be enforced in the other jurisdiction.
+5 (b) The Attorney General shall be authorized to enter into reciprocal
+6 agreements with the attorney general or chief prosecuting attorney of any
+7 jurisdiction having a law substantially similar to this chapter so as to further
+8 the purposes of this chapter.
+9 § 3131. VENUE
+10 For purposes of this chapter, the crime shall be considered to have been
+11 committed in any county in which an incident of racketeering occurred or in
+12 which an interest or control of an enterprise or real or personal property is
+13 acquired or maintained.
+14 § 3132. CASES OF SPECIAL IMPORTANCE
+15 In any civil action or civil forfeiture proceeding brought pursuant to this
+16 chapter, the State may file with the clerk of the court a certificate stating that
+17 the case is of special public importance. A copy of such certificate shall be
+18 furnished immediately by the clerk to the chief judge or, in the judge’s
+19 absence, the presiding chief judge of the court in which the civil action or civil
+20 forfeiture proceeding is pending. Upon receipt of the certificate, the judge
+21 shall immediately designate a judge to hear and determine the civil action or
+VT LEG #385601 v.1
+
+BILL AS INTRODUCED H.612
+2026 Page 13 of 13
+1 civil forfeiture proceeding. The judge designated shall promptly assign the
+2 civil action or civil forfeiture proceeding for hearing, participate in the
+3 hearings and determination, and cause such civil action or civil forfeiture
+4 proceeding to be expedited.
+5 Sec. 2. EFFECTIVE DATE
+6 This act shall take effect on July 1, 2026.
+VT LEG #385601 v.1

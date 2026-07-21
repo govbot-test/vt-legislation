@@ -1,0 +1,101 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.871
+2026 Page 1 of 4
+1 H.871
+2 Introduced by Representatives Harvey of Castleton, Bosch of Clarendon,
+3 Coffin of Cavendish, Goslant of Northfield, Labor of Morgan,
+4 Malay of Pittsford, Morgan, M. of Milton, Nielsen of Brandon,
+5 North of Ferrisburgh, Pinsonault of Dorset, Powers of
+6 Waterford, and Winter of Ludlow
+7 Referred to Committee on
+8 Date:
+9 Subject: Labor; unemployment insurance; work search; overpayment of
+10 benefits; false statements; data cross-checks
+11 Statement of purpose of bill as introduced: This bill proposes to require
+12 individuals to repay any unemployment insurance benefit received during a
+13 week in which the individual failed to conduct an interview for suitable work
+14 or provided a prospective employer with false or inaccurate information that
+15 prevented the employer from scheduling an interview with the individual. This
+16 bill also proposes to strengthen the penalties for false statements made to
+17 increase unemployment insurance payments. This bill also proposes to require
+18 quarterly unemployment data cross-checks by the Department of Labor.
+19 An act relating to unemployment insurance fraud
+VT LEG #386252 v.1
+
+BILL AS INTRODUCED H.871
+2026 Page 2 of 4
+1 It is hereby enacted by the General Assembly of the State of Vermont:
+2 Sec. 1. 21 V.S.A. § 1347 is amended to read:
+3 § 1347. NONDISCLOSURE OR MISREPRESENTATION;
+4 OVERPAYMENTS; WAIVER
+5 (a)(1) Any person who fails, without good cause, to make reasonable
+6 efforts to secure suitable work when directed to do so by the employment
+7 office or the Commissioner and has received any amount as benefits under this
+8 chapter with respect to weeks for which the person is determined to be
+9 ineligible because of the failure, and any person who by nondisclosure or
+10 misrepresentation by the person, or by another, of a material fact (irrespective
+11 of whether the nondisclosure or misrepresentation was known or fraudulent)
+12 has received any amount as benefits under this chapter while any conditions
+13 for the receipt of benefits imposed by this chapter were not fulfilled in the
+14 person’s case or while the person was disqualified from receiving benefits,
+15 shall be liable for the amount.
+16 (2) A person shall be deemed to have failed to make reasonable efforts
+17 to secure suitable work if the person:
+18 (A) fails, without good cause, to conduct an interview for suitable
+19 work after an employer has contacted the person to arrange such an interview;
+20 or
+VT LEG #386252 v.1
+
+BILL AS INTRODUCED H.871
+2026 Page 3 of 4
+1 (B) provides false or inaccurate information to an employer that
+2 prevents the employer from contacting the person to arrange an interview for
+3 suitable work.
+4 (3) Notice of determination in such cases shall specify that the person is
+5 liable to repay to the Fund the amount of overpaid benefits, the basis of the
+6 overpayment, and the week or weeks for which the benefits were paid. The
+7 determination shall be made within three years after the date of the
+8 overpayment.
+9 * * *
+10 Sec. 2. 21 V.S.A. § 1368 is amended to read:
+11 § 1368. FALSE STATEMENTS TO INCREASE PAYMENTS
+12 (a) A person shall not who intentionally make makes a false statement or
+13 representation to obtain or, increase, or initiate any benefit or other payment
+14 under this chapter, either for the employee whether for themselves or any other
+15 person, shall, after notice and an opportunity for a hearing, be:
+16 (1) liable to repay the amount of the overpaid benefits and any
+17 applicable penalty imposed pursuant to section 1347 of this chapter;
+18 (2) assessed a further administrative penalty of up to $5,000.00; and
+19 (3) ineligible to receive benefits pursuant to this chapter for a period of
+20 up to five years from the date on which the false statement or representation
+21 was discovered.
+VT LEG #386252 v.1
+
+BILL AS INTRODUCED H.871
+2026 Page 4 of 4
+1 (b) Interested parties shall have the right to appeal from any determination
+2 under this section and the same procedure shall be followed as provided for in
+3 subsection 1348(a) and section 1349 of this chapter.
+4 (c) The Commissioner may collect an unpaid administrative penalty by
+5 filing a civil action in the Superior Court.
+6 Sec. 3. 21 V.S.A. § 1314b is added to read:
+7 § 1314b. DATA CROSS-CHECKS
+8 To aid in the reduction and prevention of unemployment insurance fraud,
+9 the Commissioner shall conduct data cross-checks at least quarterly using the
+10 following resources:
+11 (1) the National Association of State Workforce Agencies’ Integrity
+12 Data Hub;
+13 (2) the National Directory of New Hires and the State Directory of New
+14 Hires;
+15 (3) the Vermont Department of Corrections’ incarceration records; and
+16 (4) the Vermont Department of Health’s vital statistics system.
+17 Sec. 4. EFFECTIVE DATE
+18 This act shall take effect on July 1, 2026.
+VT LEG #386252 v.1

@@ -1,0 +1,140 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.649
+2026 Page 1 of 6
+1 H.649
+2 Introduced by Representatives Graning of Jericho, Marcotte of Coventry,
+3 Bosch of Clarendon, Carris Duncan of Whitingham, Duke of
+4 Burlington, Micklus of Milton, Olson of Starksboro, and White
+5 of Bethel
+6 Referred to Committee on
+7 Date:
+8 Subject: Insurance; captive insurance companies; risk retention groups;
+9 sponsored captive insurance companies; loans; statements
+10 Statement of purpose of bill as introduced: This bill proposes to prohibit
+11 certain loans and investments made by a risk retention group; restructure report
+12 and statement requirements applicable to a risk retention group; and require a
+13 certification statement from each protected cell within a sponsored captive
+14 insurance company.
+15 An act relating to captive insurance companies
+16 It is hereby enacted by the General Assembly of the State of Vermont:
+17 Sec. 1. 8 V.S.A. § 6010 is amended to read:
+18 § 6010. LEGAL INVESTMENTS
+19 * * *
+VT LEG #386095 v.2
+
+BILL AS INTRODUCED H.649
+2026 Page 2 of 6
+1 (d) No risk retention group shall make a loan to or investment in its parent
+2 company or its parent company’s members or affiliates. This prohibition shall
+3 not apply to any loan or investment in effect prior to January 1, 2026.
+4 Sec. 2. 8 V.S.A. § 6007 is amended to read:
+5 § 6007. REPORTS AND STATEMENTS
+6 (a) Captive insurance companies shall not be required to make any annual
+7 report except as provided in this chapter.
+8 (b) Prior to March 1 of each year, and prior to March 15 of each year in the
+9 case of pure captive insurance companies, association captive insurance
+10 companies, sponsored captive insurance companies, industrial insured captive
+11 insurance companies, or agency captive insurance companies, each captive
+12 insurance company shall submit to the Commissioner a report of its financial
+13 condition, verified by oath of two of its executive officers or, in the case of a
+14 captive insurance company formed as a limited liability company or as a
+15 reciprocal insurer, of two individuals authorized by the governing board.
+16 (c) Each captive insurance company shall report using generally accepted
+17 accounting principles, statutory accounting principles, or international financial
+18 reporting standards unless the Commissioner requires, approves, or accepts the
+19 use of any other comprehensive basis of accounting, in each case with any
+20 appropriate or necessary modifications or adaptations thereof required or
+21 approved or accepted by the Commissioner for the type of insurance and kinds
+VT LEG #386095 v.2
+
+BILL AS INTRODUCED H.649
+2026 Page 3 of 6
+1 of insurers to be reported upon, and as supplemented by additional information
+2 required by the Commissioner. As used in this section, “statutory accounting
+3 principles” means the accounting principles codified in the NAIC Accounting
+4 Practices and Procedures Manual. Upon application for admission, a captive
+5 insurance company shall select, with explanation, an accounting method for
+6 reporting. Any change in a captive insurance company’s accounting method
+7 shall require prior approval. Except as otherwise provided, each risk retention
+8 group shall file its report in the form required by subsection 3561(a) of this
+9 title, and each risk retention group shall comply with the requirements set forth
+10 in section 3569 of this title.
+11 (d) The Commissioner shall by rule propose the forms in which pure
+12 captive insurance companies, association captive insurance companies,
+13 sponsored captive insurance companies, and industrial insured captive
+14 insurance companies shall report. Subdivision 6002(c)(3) of this title shall
+15 apply to each report filed pursuant to this section, except that such subdivision
+16 shall not apply to reports filed by risk retention groups.
+17 (c)(e) On or before March 1 of each year, in a form and manner prescribed
+18 by the Commissioner, each risk retention group shall file with the National
+19 Association of Insurance Commissioners (NAIC) a copy of its annual
+20 statement convention blank, the signed jurat page, the actuarial certification,
+21 and any other additional filings prescribed by the Commissioner for the
+VT LEG #386095 v.2
+
+BILL AS INTRODUCED H.649
+2026 Page 4 of 6
+1 preceding year. Any amendments and addendums to the annual statement
+2 filing subsequently filed with the Commissioner shall also be filed with the
+3 NAIC.
+4 (f) Each year, in a form and manner prescribed by the Commissioner, each
+5 risk retention group shall file with the NAIC a copy of the quarterly statements
+6 exhibiting its condition and affairs for the period beginning on January 1 of the
+7 current calendar year through and including the last day of the quarter for
+8 which the report is being made. The first quarterly statement shall be filed on
+9 or before May 15. The second quarterly statement shall be filed on or before
+10 August 15. The third quarterly statement shall be filed on or before November
+11 15. If any of the dates specified in this subsection falls on a day other than a
+12 business day, then the quarterly statement is due on or before the first business
+13 day preceding such date. Information filed with the NAIC shall include a jurat
+14 page. A copy of any amendments and addendums to a quarterly statement
+15 subsequently filed with the Commissioner shall also be filed with the NAIC.
+16 (g) The Commissioner may adopt by rule additional filing requirements for
+17 risk retention groups. All risk retention group annual and quarterly financial
+18 statements shall be filed electronically with the NAIC.
+19 (h) Any pure captive insurance company, association captive insurance
+20 company, sponsored captive insurance company, industrial insured captive
+21 insurance company, or agency captive insurance company may make written
+VT LEG #386095 v.2
+
+BILL AS INTRODUCED H.649
+2026 Page 5 of 6
+1 application for filing the required report on a fiscal year-end. If an alternative
+2 reporting date is granted:
+3 (1) the annual report is due 75 days after the fiscal year-end; and
+4 (2) in order to provide sufficient detail to support the premium tax
+5 return, the captive insurance company shall file prior to March 15 of each year
+6 for each calendar year-end, the premium schedule of the “Vermont Captive
+7 Insurance Company Annual Report.”
+8 (i) Subdivision 6002(c)(3) of this title shall apply to each report filed
+9 pursuant to this section, except that such subdivision shall not apply to a report
+10 filed by a risk retention group.
+11 Sec. 3. 8 V.S.A. § 6034i is added to read:
+12 § 6034i. CERTIFYING STATEMENT AFTER COMMENCEMENT OF
+13 BUSINESS
+14 (a) Within 30 days after commencing business, each protected cell shall file
+15 with the Commissioner a statement under oath certifying that the protected cell
+16 possessed the requisite funding prior to commencing business, including any
+17 required collateral in accordance with the protected cell’s approved plan of
+18 operation.
+19 (b) The statement required by subsection (a) of this section shall be signed
+20 by the following:
+VT LEG #386095 v.2
+
+BILL AS INTRODUCED H.649
+2026 Page 6 of 6
+1 (1) for an unincorporated protected cell, the president and secretary of
+2 the sponsored captive insurance company;
+3 (2) for an incorporated protected cell, its president and secretary; and
+4 (3) for a protected cell formed as a limited liability company or as a
+5 reciprocal insurer, two individuals authorized by the governing board.
+6 Sec. 4. EFFECTIVE DATE
+7 This act shall take effect on July 1, 2026.
+VT LEG #386095 v.2

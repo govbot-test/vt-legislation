@@ -1,0 +1,78 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED S.310
+2026 Page 1 of 3
+1 S.310
+2 Introduced by Senators Brock, Beck, Bongartz, Chittenden, Clarkson,
+3 Collamore, Hardy, Ingalls, Major, Mattos, Morley, Norris,
+4 Plunkett, Ram Hinsdale, Weeks, Westman and Williams
+5 Referred to Committee on
+6 Date:
+7 Subject: Commerce and trade; consumer protection
+8 Statement of purpose of bill as introduced: This bill proposes to amend
+9 consumer notification requirements to provide that any indefinite renewal
+10 subscription shall provide the consumer with an annual notification of the right
+11 to terminate.
+12 An act relating to subscription renewal notifications
+13 It is hereby enacted by the General Assembly of the State of Vermont:
+14 Sec. 1. 9 V.S.A. § 2454a is amended to read:
+15 § 2454a. CONSUMER CONTRACTS; AUTOMATIC RENEWAL
+16 (a) A contract between a consumer and a seller or a lessor with an initial
+17 term of one year or longer that renews for a subsequent term that is longer than
+18 one month shall not renew automatically unless:
+19 (1) the contract states clearly and conspicuously the terms of the
+20 automatic renewal provision in plain, unambiguous language in bold-face type;
+VT LEG #385906 v.1
+
+BILL AS INTRODUCED S.310
+2026 Page 2 of 3
+1 (2) in addition to accepting the contract, the consumer takes an
+2 affirmative action to opt in to the automatic renewal provision; and
+3 (3) if the consumer opts in to the automatic renewal provision, the seller
+4 or lessor provides a written or electronic notice to the consumer:
+5 (A) not less than 30 days and not more than 60 days before the
+6 earliest of:
+7 (i) the automatic renewal date;
+8 (ii) the termination date; or
+9 (iii) the date by which the consumer must provide notice to cancel
+10 the contract; and
+11 (B) that includes:
+12 (i) the date the contract will terminate and a clear statement that
+13 the contract will renew automatically unless the consumer cancels the contract
+14 on or before the termination date; and
+15 (ii) the length and any additional terms of the renewal period.
+16 (b) A seller or lessor under a contract subject to subsection (a) of this
+17 section shall:
+18 (1) provide to the consumer a toll-free telephone number, e-mail email
+19 address, a postal address if the seller or lessor directly bills the consumer, or
+20 another cost-effective, timely, and easy-to-use mechanism for canceling the
+21 contract; and
+VT LEG #385906 v.1
+
+BILL AS INTRODUCED S.310
+2026 Page 3 of 3
+1 (2) if the consumer accepted the contract online, permit the consumer to
+2 terminate the contract exclusively online, which may include a termination e-
+3 mail email formatted and provided by the seller or lessor that the consumer can
+4 send without additional information.
+5 (c) A person who violates a provision of this section commits an unfair and
+6 deceptive act in commerce in violation of section 2453 of this title.
+7 (d) The provisions of this section do not apply to:
+8 (1) a contract between a consumer and a financial institution, as defined
+9 in 8 V.S.A. § 11101, or between a consumer and a credit union, as defined in
+10 8 V.S.A. § 30101; or
+11 (2) a contract for insurance, as defined in 8 V.S.A. § 3301a.
+12 (e) A seller or a lessor, under any contract between a consumer and a seller
+13 or a lessor with an initial term of one month or longer that renews indefinitely
+14 without termination by the consumer, shall notify the consumer annually of the
+15 right to terminate the contract. The notice required by this subsection shall
+16 comply with the provisions of subsection (b) of this section.
+17 Sec. 2. EFFECTIVE DATE
+18 This act shall take effect on July 1, 2026.
+VT LEG #385906 v.1

@@ -1,0 +1,873 @@
+Title: 
+Official Title: 
+Source: versions - As EnactedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+No. 131 Page 1 of 34
+2026
+No. 131. An act relating to unclaimed property, State retirement systems,
+and capital debt.
+(H.567)
+It is hereby enacted by the General Assembly of the State of Vermont:
+* * * Unclaimed Property * * *
+Sec. 1. 27 V.S.A. § 1492 is amended to read:
+§ 1492. CONTENT OF REPORT
+(a) The report required under section 1491 of this title must:
+(1) be signed by or on behalf of the holder and verified as to its
+completeness and accuracy;
+(2) if filed electronically, be in a secure format approved by the
+Administrator that protects confidential information of the apparent owner in
+the same manner as required of the Administrator and the Administrator’s
+agent under subchapter 14 of this chapter;
+(3) describe the property;
+(4) except for a traveler’s check, money order, or similar instrument,
+contain the name, if known; last-known address, if known; and Social Security
+number or taxpayer identification number, if known or readily ascertainable, of
+the apparent owner of property with a value of $50.00 or more;
+(5) for an amount held or owing under a life, medical, or endowment
+insurance policy or annuity contract, contain the name and last-known address
+of the insured, annuitant, or other apparent owner of the policy or contract and
+of the beneficiary, as well as any explanation of benefit numbers;
+VT LEG #390203 v.1
+
+No. 131 Page 2 of 34
+2026
+* * *
+Sec. 2. 27 V.S.A. § 1543 is amended to read:
+§ 1543. EXPENSES AND SERVICE CHARGES OF ADMINISTRATOR
+Before making a deposit of funds received under this chapter to the General
+Fund, the Administrator may deduct:
+(1) expenses of disposition of property delivered to the Administrator
+under this chapter;
+(2) costs of mailing and publication in connection with property
+delivered to the Administrator under this chapter;
+(3) reasonable service charges;
+(4) expenses incurred in examining records of or collecting property
+from a putative holder or holder; and
+(5) property valued at $100.00 $150.00 or less more than 10 years after
+the abandoned property was received from the holder under subchapter 6 of
+this chapter shall be paid by the.
+(A) The Administrator shall deposit funds deducted under this
+subdivision (5) into the Vermont Retirement Security Fund created by 3
+V.S.A. § 534 up to a maximum annual total of $300,000.00.
+(B) Notwithstanding subdivision (A) of this subdivision (5), in the
+Administrator’s sole discretion, funds deducted under this subdivision (5) may
+be deposited into the Vermont Higher Education Endowment Trust Fund
+created by 16 V.S.A. § 2885 under authority of this subdivision, provided that
+VT LEG #390203 v.1
+
+No. 131 Page 3 of 34
+2026
+not more than a combined total of $300,000.00 shall be deposited into the
+Funds in a given year.
+(C) For purposes of this subdivision, the value of the abandoned
+property shall be that value as of the date the property was received from the
+holder by the Administrator.
+Sec. 3. 27 V.S.A. § 1543(5) is amended to read:
+(5) property valued at $150.00 or less more than 10 years after the
+abandoned property was received from the holder under subchapter 6 of this
+chapter.
+(A) The Administrator shall deposit funds deducted under this
+subdivision (5) into the Vermont Retirement Security Fund created by 3
+V.S.A. § 534 Vermont Higher Education Endowment Trust Fund created by
+16 V.S.A. § 2885 up to a maximum annual total of $300,000.00.
+(B) Notwithstanding subdivision (A) of this subdivision (5), in the
+Administrator’s sole discretion, funds deducted under this subdivision (5) may
+be deposited into the Vermont Higher Education Endowment Trust Fund
+created by 16 V.S.A. § 2885, provided that not more than a combined total of
+$300,000.00 shall be deposited into the Funds in a given year. [Repealed.]
+(C) For purposes of this subdivision, the value of the abandoned
+property shall be that value as of the date the property was received from the
+holder by the Administrator.
+VT LEG #390203 v.1
+
+No. 131 Page 4 of 34
+2026
+Sec. 4. 27 V.S.A. § 1553 is amended to read:
+§ 1553. CLAIM FOR PROPERTY BY PERSON CLAIMING TO BE
+OWNER
+(a) A person claiming to be the owner of property held under this chapter
+by the Administrator may file a claim for the property on a form prescribed by
+the Administrator. The claimant must verify the claim as to its completeness
+and accuracy.
+(b) The Administrator may waive the requirement in subsection (a) of this
+section and may pay or deliver property directly to a person if:
+(1) the person receiving the property or payment is shown to be the
+apparent owner included on a report filed under section 1491 of this title;
+(2) the Administrator reasonably believes the person is entitled to
+receive the property or payment; and
+(3) the property has a value of less than $250.00 1,000.00.
+Sec. 5. 27 V.S.A. § 1557 is amended to read:
+§ 1557. DECEASED OWNERS; MULTIPLE CLAIMANTS
+(a) If the Administrator holds unclaimed property in the name of a
+deceased owner, the Administrator may deliver the property as follows:
+(1) In the case of an open estate, to the Administrator administrator or
+executor.
+VT LEG #390203 v.1
+
+No. 131 Page 5 of 34
+2026
+(2) In the case of a closed estate and the unclaimed property is valued at
+less than $5,000.00 10,000.00, in accordance with the Probate Division of the
+Superior Court decree of distribution.
+(3) In the absence of an open estate or Probate Division of the Superior
+Court decree of distribution, and the unclaimed property is valued at less than
+$5,000.00 10,000.00, to the surviving spouse of the deceased owner, or, if
+there is no surviving spouse, then to the next of kin according to 14 V.S.A.
+§ 314.
+(4) In all other cases where the Administrator holds property in the
+name of a deceased owner, a probate estate shall be opened by the claimant, or
+other interested party, in order to determine the appropriate distribution of the
+unclaimed property. Where an estate is opened solely to distribute unclaimed
+property under this section, the Probate Division of the Superior Court may
+waive any filing fees.
+(b) If the Administrator holds unclaimed property valued at $250.00
+1,000.00 or less that more than one person owns, the Administrator may
+deliver the property as follows:
+(1) If the property has been listed on the Administrator’s website for less
+than one year, a proportionate share to each of the persons who owns the
+property and who files a claim.
+VT LEG #390203 v.1
+
+No. 131 Page 6 of 34
+2026
+(2) If the property has been listed on the Administrator’s website for a
+year or more, to the first person who files a claim and who owns at least a
+share of the property.
+* * * Vermont State Retirement Systems * * *
+Sec. 6. 3 V.S.A. § 488 is amended to read:
+§ 488. PAYMENT OF CONTRIBUTIONS
+(a) The contributions computed under section 487 of this title together with
+a pro rata share of the cost of the administration of the Vermont State
+Retirement System based upon the payroll of the employees of the employer
+who are members shall be certified by the Retirement Board to the Chief Fiscal
+Officer of the employer. The amounts so certified shall be a charge against the
+employer. The Chief Fiscal Officer shall pay to the State Treasurer the amount
+certified by the Retirement Board as payable under the provisions of this
+subchapter, and the State Treasurer shall credit such amounts to the Fund of
+the Vermont State Retirement System.
+(b) Any payments due that are not received within 30 days after the
+installment due date set by the Board shall result in a penalty assessment
+against the employer at the rate of one percent of the amount due for each
+month calculated from the installment due date, provided that the Board may,
+in its discretion, waive part or all of said penalty assessment if good cause is
+shown. The delinquent payments and penalties thereon may be recovered by
+action in a court of competent jurisdiction against the employer liable therefor
+VT LEG #390203 v.1
+
+No. 131 Page 7 of 34
+2026
+or may be deducted by or, at the request of the State Treasurer, from any other
+monies payable to such employer by the State or any department or agency
+thereof.
+Sec. 7. PENSION AND BENEFITS FUNDING TASK FORCE; REPORT
+(a) Creation. There is created the Pension and Benefits Funding Task
+Force to review and report on the funding methodologies of the Vermont State
+Retirement System and the State Teachers’ Retirement System of Vermont,
+including the State Employees’ Postemployment Benefits Trust Fund and the
+Retired Teachers’ Health and Medical Benefits Fund.
+(b) Membership. The Task Force shall be composed of the following
+members:
+(1) the Chair of the House Committee on Appropriations, who shall be
+an ex officio member;
+(2) the Chair of the Senate Committee on Appropriations, who shall be
+an ex officio member;
+(3) the Secretary of Administration or designee;
+(4) the State Treasurer or designee;
+(5) one member, appointed by the Vermont National Education
+Association;
+(6) one member, appointed by the Vermont State Employees’
+Association; and
+VT LEG #390203 v.1
+
+No. 131 Page 8 of 34
+2026
+(7) one member, appointed by the President of the Vermont Troopers’
+Association.
+(c) Powers and duties.
+(1) The Task Force shall review the existing funding schedules and
+methodologies for the following retirement systems:
+(A) the Vermont State Retirement Fund, 3 V.S.A. § 473;
+(B) the State Employees’ Postemployment Benefits Trust Fund,
+3 V.S.A. § 479a;
+(C) the Vermont Teachers’ Retirement Fund, 16 V.S.A. § 1944; and
+(D) the Retired Teachers’ Health and Medical Benefits Fund,
+16 V.S.A. § 1944b.
+(2) Following the review required by subdivision (1) of this subsection,
+the Task Force shall make recommendations about the funding methodologies
+of these systems, consistent with actuarial and governmental accounting
+standards, with due consideration of the following:
+(A) the long-term sustainability of the pension and benefit plans;
+(B) the total cost of funding the systems over time;
+(C) the predictability and stability of annual actuarially determined
+employer contributions;
+(D) the impact of any change in funding methodologies on the State’s
+credit rating; and
+VT LEG #390203 v.1
+
+No. 131 Page 9 of 34
+2026
+(E) best funding practices as recommended by actuaries and
+implemented by peer public pension systems.
+(3) The Task Force shall not make recommendations on member
+benefits, contribution levels, or assumed rates of return.
+(d) Assistance.
+(1) The Task Force shall have the administrative, technical, legal, and
+fiscal assistance of the Office of the State Treasurer, Vermont Pension
+Investment Commission, and the Joint Fiscal Office.
+(2) The Office of the State Treasurer is authorized to contract for
+advisory services for the Task Force from an actuarial and financial expert, as
+necessary.
+(e) Report. On or before December 15, 2026, the Task Force shall submit a
+final report to the General Assembly, the Retirement Board of the Vermont
+State Retirement System, and the Board of Trustees of the State Teachers’
+Retirement System of Vermont with its findings and any recommendations for
+legislative action.
+(f) Meetings.
+(1) The State Treasurer or designee shall be the chair. The Task Force
+shall elect a vice chair from among its members at the first meeting.
+(2) The Chair shall call the first meeting of the Task Force to occur on
+or before June 15, 2026.
+(3) A majority of the membership shall constitute a quorum.
+VT LEG #390203 v.1
+
+No. 131 Page 10 of 34
+2026
+(4) The Task Force shall cease to exist on December 31, 2026.
+(g) Compensation and reimbursement.
+(1) For attendance at meetings during adjournment of the General
+Assembly, a legislative member of the Task Force serving in the member’s
+capacity as a legislator shall be entitled to per diem compensation and
+reimbursement of expenses pursuant to 2 V.S.A. § 23 for not more than six
+meetings. These payments shall be made from monies appropriated to the
+General Assembly.
+(2) Other members of the Task Force who are not State employees shall
+be entitled to per diem compensation and reimbursement of expenses as
+permitted under 32 V.S.A. § 1010 for not more than six meetings. These
+payments shall be made from monies appropriated to the State Treasurer.
+(h) Leave. Public employee members of the Task Force shall be granted
+reasonable time by their employer to attend Task Force meetings.
+Sec. 8. 3 V.S.A. § 471 is amended to read:
+§ 471. RETIREMENT BOARD; MEDICAL BOARD; ACTUARY; RATES
+OF CONTRIBUTION; SAFEKEEPING OF SECURITIES
+* * *
+(f) The Retirement Board shall keep in convenient form such data as shall
+be necessary for actuarial valuation of the fund Fund of the Retirement System,
+and for checking the experience of the System.
+* * *
+VT LEG #390203 v.1
+
+No. 131 Page 11 of 34
+2026
+(j) The Retirement Board shall designate an actuary who shall be the
+technical advisor of the Board on matters regarding the operation of the Fund
+of the Retirement System, and shall perform such other duties as are required
+in connection therewith. Immediately after the establishment of the Retirement
+System, the Retirement Board shall adopt for the Retirement System such
+mortality and service tables as shall be deemed necessary and shall certify the
+rates of contribution payable under the provisions of this subchapter.
+Beginning July 1, 2023, at least once every three fiscal years following the
+establishment of the System, the actuary shall make an actuarial investigation
+into the mortality, service, and compensation experience of the members and
+beneficiaries of the Retirement System, and taking into account the results of
+such investigation, the Retirement Board shall adopt for the Retirement System
+such mortality, service, and other tables as shall be deemed necessary and shall
+certify the rates of contribution payable under the provisions of this
+subchapter.
+(k) On the basis of such mortality and service tables as the Retirement
+Board shall adopt, the actuary shall make annual valuations of the assets and
+liabilities of the fund Fund of the Retirement System.
+(l) The Commission shall designate from time to time a depositary for the
+securities and evidences of indebtedness held in the Fund of the System and
+may contract for the safekeeping of securities and evidences of indebtedness
+within and without the State of Vermont in such banks, trust companies, and
+VT LEG #390203 v.1
+
+No. 131 Page 12 of 34
+2026
+safe-deposit facilities as it shall from time to time determine. The necessary
+and incidental expenses of such safekeeping and for service rendered,
+including advisory services in investment matters, shall be paid from the
+operation expenses of the System as set forth in this chapter. Any agreement
+for the safekeeping of securities or evidences of indebtedness shall provide for
+the access to such securities and evidences of indebtedness, except securities
+loaned pursuant to a securities lending agreement as authorized by subsection
+(m) of this section, at any time by the custodian or any authorized agent of the
+State for audit or other purposes. [Repealed.]
+(m) The Commission may authorize the loan of its securities pursuant to
+securities lending agreements that provide for collateral consisting of cash or
+securities issued or guaranteed by the U.S. government or its agencies equal to
+100 percent or more of the market value of the loaned securities. Cash
+collateral may be invested by the lending institution in investments approved
+by the State Treasurer. Approval of investments shall be made in accordance
+with the standard of care established by the prudent investor rule under 9
+V.S.A. chapter 147. [Repealed.]
+(n) The Board shall review annually the amount of State contribution
+recommended by the actuary of the Retirement System as necessary to achieve
+and preserve the financial integrity of the fund Fund established pursuant to
+section 473 of this title. Based on this review, the Board shall recommend the
+amount of State contribution that should be appropriated for the next fiscal
+VT LEG #390203 v.1
+
+No. 131 Page 13 of 34
+2026
+year to achieve and preserve the financial integrity of the fund Fund. On or
+before November 1 of each year, the Board shall submit this recommendation
+to the Governor and the House Committees on Government Operations and
+Military Affairs and on Appropriations and the Senate Committees on
+Government Operations and on Appropriations. The provisions of 2 V.S.A.
+§ 20(d) (expiration of required reports) shall not apply to the report to be made
+under this subsection.
+Sec. 9. 3 V.S.A. § 472 is amended to read:
+§ 472. INVESTMENTS; INTEREST RATE; DISBURSEMENTS;
+STANDARDS OF CONDUCT
+(a) The members of the Vermont Pension Investment Commission
+established in chapter 17 of this title shall be the trustees of the Funds created
+by this subchapter, 16 V.S.A. chapter 55, and 24 V.S.A. chapter 125, and with
+respect to them may invest and reinvest the assets of the Fund, and hold,
+purchase, sell, assign, transfer, and dispose of the securities and investments in
+which the assets of the Fund have been invested and reinvested. Investments
+shall be made in accordance with the standard of care established by the
+prudent investor rule under 9 V.S.A. chapter 147.
+(b) From time to time, the Retirement Board shall set the rate or rates of
+regular interest at such percent rate compounded annually as shall be
+determined by the Board, such rate to be limited to a minimum of three percent
+and a maximum of five percent.
+VT LEG #390203 v.1
+
+No. 131 Page 14 of 34
+2026
+(c) The State Treasurer shall be the custodian of the assets of the Fund of
+the Retirement System. All payments from the Fund shall be made by the
+State Treasurer or his or her deputy, with approval of the Retirement Board. A
+duly attested copy of a resolution of the Retirement Board designating such
+persons and bearing on its face specimen signatures of such persons shall be
+filed with the State Treasurer as his or her authority for making payments upon
+such vouchers. [Repealed.]
+(d) Except as otherwise provided for in this section, no trustee and no
+employee of the Board or member of the Commission shall have any direct
+interest in the gains or profits of any investment made by the Commission; nor
+shall any trustee or employee of the Board or the Commission, directly or
+indirectly, for the trustee or employee personally or as an agent, in any manner
+use the same except to make such current and necessary payments as are
+authorized by the Board or Commission; nor shall any trustee or employee of
+the Board or the Commission become an endorser or surety, or in any manner
+an obligor, for the monies loaned to or borrowed from the Board. The
+Treasurer, with the approval of the Board and the Commission, shall adopt by
+rule standards of conduct for trustees and employees of the Board in order to
+maintain and promote public confidence in the integrity of the Board. Such
+rules shall prohibit trustees and employees from receiving or soliciting any
+gift, including meals, alcoholic beverages, travel fare, room and board, or any
+other thing of value, tangible or intangible, from any vendor or potential
+VT LEG #390203 v.1
+
+No. 131 Page 15 of 34
+2026
+vendor of investment services, management services, brokerage services, and
+other services to the Board or Commission.
+Sec. 10. 3 V.S.A. § 479a is amended to read:
+§ 479a. STATE EMPLOYEES’ POSTEMPLOYMENT BENEFITS TRUST
+FUND
+(a) Creation. A “State Employees’ Postemployment Benefits Trust Fund”
+(Benefits Fund) is hereby created for the purpose of accumulating and
+providing reserves to support retiree postemployment benefits for members,
+and to make distributions from the Benefits Fund for current and future
+postemployment benefits for retirees of the Vermont State Employees’
+Retirement System, excluding pensions and benefits otherwise appropriated by
+statute and for the payment of reasonable and proper expenses of administering
+the Benefits Fund and related benefit plans. The Benefits Fund shall not be
+part of the Retirement System but is intended to comply with and be a tax-
+exempt governmental trust under Section 115 of the Internal Revenue Code of
+1986, as amended.
+* * *
+(c) Administration. The Benefits Fund shall be administered by the State
+Treasurer. The Treasurer may invest monies in the Benefits Fund in
+accordance with the provisions of 32 V.S.A. § 434 or, in the alternative, may
+enter into an agreement with the Commission to invest such monies in
+accordance with the standards of care established by the prudent investor rule
+VT LEG #390203 v.1
+
+No. 131 Page 16 of 34
+2026
+under 14A V.S.A. § 902, in a manner similar to the Commission’s investment
+of retirement system monies. All balances in the Benefits Fund at the end of
+the fiscal year shall be carried forward. Interest earned shall remain in the
+Benefits Fund. The Treasurer’s annual financial report to the Governor and the
+General Assembly shall contain an accounting of receipts, disbursements, and
+earnings of the Benefits Fund. [Repealed.]
+(d) Held in trust. All funds of the Benefits Fund shall be held in one or
+more trusts, custodial accounts treated as trusts, or a combination thereof.
+Contributions to the Benefits Fund shall be irrevocable, and it shall be
+impossible at any time prior to the satisfaction of all liabilities, with respect to
+employees and their beneficiaries, for any part of the corpus or income of the
+Benefits Fund to be used for or diverted to purposes other than the payment of
+retiree postemployment benefits to members and their beneficiaries and
+reasonable expenses of administering the Benefits Fund and related benefit
+plans. All balances in the Benefits Fund at the end of the fiscal year shall be
+carried forward. Interest earned shall remain in the Benefits Fund.
+* * *
+Sec. 11. 3 V.S.A. § 521 is amended to read:
+§ 521. DEFINITIONS
+As used in this chapter:
+* * *
+VT LEG #390203 v.1
+
+No. 131 Page 17 of 34
+2026
+(4) “Plans” means the Vermont State Teachers’ Retirement System, the
+Vermont State Employees’ Retirement System, and the Vermont Municipal
+Employees’ Retirement System, the Retired Teachers’ Health and Medical
+Benefits Fund, and the State Employees’ Postemployment Benefits Trust Fund
+pursuant to section sections 472 and 479a of this title, 16 V.S.A. §§ 1943 and
+1944b, and 24 V.S.A. § 5063.
+Sec. 12. 3 V.S.A. § 522 is amended to read:
+§ 522. VERMONT PENSION INVESTMENT COMMISSION
+* * *
+(i) Assistance and expenses.
+(1) The Commission may collect proportionally from the funds of the
+three retirement systems Plans and any individual municipalities that have
+been allowed to invest their retirement funds pursuant to subsection 523(a) of
+this title, any expenses incurred that are associated with carrying out its duties,
+and any expenses incurred by the Treasurer’s office in support of the
+Commission.
+(2) The Attorney General shall serve as legal advisor to the
+Commission.
+Sec. 13. 3 V.S.A. § 523 is amended to read:
+§ 523. VERMONT PENSION INVESTMENT COMMISSION; DUTIES
+(a) General. The Vermont Pension Investment Commission shall serve as
+the custodian of the funds and shall be responsible for the investment of the
+VT LEG #390203 v.1
+
+No. 131 Page 18 of 34
+2026
+assets of the Vermont State Teachers’ Retirement System, the Vermont State
+Employees’ Retirement System, and the Vermont Municipal Employees’
+Retirement System pursuant to section 472 of this title, 16 V.S.A. § 1943, and
+24 V.S.A. § 5063 Plans. The Commission shall strive to maximize total return
+on investment, within acceptable levels of risk for public retirement systems, in
+accordance with the standards of care established by the prudent investor rule
+under 14A V.S.A. § 902 chapter 9. The Commission may, in its discretion,
+subject to approval by the Attorney General, also enter into agreements with
+municipalities administering their own retirement systems to invest retirement
+funds for those municipal pension plans. The State Treasurer shall serve as the
+custodian of the funds of all three retirement systems. The Commission may,
+in its discretion, also enter into agreements with the State Treasurer to invest
+the State Employees’ Postemployment Benefits Trust Fund, established in
+section 479a of this title, and the Retired Teachers’ Health and Medical
+Benefits Fund, established in 16 V.S.A. § 1944b.
+(b) Powers and duties. The Commission shall have the following duties:
+(1) Set the following actuarial assumptions:
+(A) the investment rate of return;
+(B) the inflation rate; and
+(C) the smoothing rate method used for the actuarial valuation of
+assets and returns.
+VT LEG #390203 v.1
+
+No. 131 Page 19 of 34
+2026
+(2) Not more than 180 days after the end of each fiscal year, conduct an
+asset allocation study that reviews the expected return of each fund Plan’s
+assets, including a risk analysis using best practices methodologies to estimate
+potential risks to the fund’s each Plan’s asset values over a five-, 10-, and 20-
+year period and the remainder of the statutory amortization period. The study
+shall be submitted to the House Committee on Government Operations and
+Military Affairs and the Senate Committee on Government Operations and the
+Office of the Governor and made publicly available within 10 days of
+following completion.
+* * *
+(d) Policies and limitations.
+(1) Except as otherwise provided in this section, no member and no
+employee of the Commission shall have any direct interest in the gains or
+profits of any investment made by the Commission; nor shall any member or
+employee of the Commission, directly or indirectly, for the member or
+employee personally or as an agent, in any manner use the same except to
+make such current and necessary payments as are authorized by the
+Commission; nor shall any member or employee of the Commission become
+an endorser or surety, or in any manner an obligor, for the monies loaned to or
+borrowed from the Commission.
+(2) The Commission shall formulate policies and procedures deemed
+necessary and appropriate to carry out its functions, including a written
+VT LEG #390203 v.1
+
+No. 131 Page 20 of 34
+2026
+statement of the responsibilities of and expectations for the Chair of the
+Commission and standards of conduct for members and employees of the
+Commission in order to maintain and promote public confidence in the
+integrity of the Commission. The standard of conduct policies shall prohibit
+members and employees from receiving or soliciting any gift, including meals,
+alcoholic beverages, travel fare, room and board, or any other thing of value,
+tangible or intangible, from any vendor or potential vendor of investment
+services, management services, brokerage services, and other services to the
+Commission.
+* * *
+(f) Asset and liability study. Beginning on July 1, 2023, and every three
+years thereafter, based on the most recent actuarial valuations of each Plan, the
+Commission shall study the assets and liabilities of each Plan over a 20-year
+period. The study shall:
+(1) project the expected path of the key indicators of each Plan’s
+financial health based on all current actuarial and investment assumptions;
+current contribution and benefit policies, including the Plans’ mark-to-market
+funded ratio; actuarially required contributions by source; payout ratio; and
+related liquidity obligations; and
+(2) project the effect on each Plan’s financial health resulting from:
+(A) possible material deviations from Plan assumptions in investment
+assumptions, including returns versus those expected and embedded in the
+VT LEG #390203 v.1
+
+No. 131 Page 21 of 34
+2026
+actuary’s estimate of actuarially required contributions and any material
+changes in capital markets volatility; and
+(B) possible material deviations from key plan Plan actuarial
+assumptions, including retiree longevity, potential benefit increases, and
+inflation.
+* * *
+(h) Annual reports.
+(1) Beginning on January 15, 2022, and every year thereafter, the
+Commission shall submit to the House Committee on Government Operations
+and Military Affairs and the Senate Committee on Government Operations:
+(A) a report on the performance of each Plan versus its demographic
+investment and other actuarial assumptions over a three-, five-, seven-, and 10-
+year period and the funding ratio of each Plan to each Plan beneficiary at the
+end of each fiscal year; and
+(B) a report on the status of the funding and investment performance
+of each Plan and any relevant information from the asset liability and scenario
+testing completed during the prior fiscal year.
+(2) The Commission shall send to each participant or beneficiary of each
+Plan a written or electronic copy of the report described in subdivision (1) of
+this subsection, in the format authorized by the participant or beneficiary. The
+report shall be consolidated with any other reports required to be sent by the
+Commission to the participants or beneficiaries of each Plan.
+VT LEG #390203 v.1
+
+No. 131 Page 22 of 34
+2026
+(3) Reports required by subdivision (1) of this subsection shall include
+an accounting of receipts, disbursements, and earnings of the State Employees’
+Postemployment Benefits Trust Fund established pursuant to section 479a of
+this title and the Retired Teachers’ Health and Medical Benefits Fund
+established pursuant to 16 V.S.A. § 1944b.
+(4) The provisions of 2 V.S.A. § 20(d) (expiration of required reports)
+shall not apply to the reports to be made under this subsection.
+(i) Securities depository. The Commission shall designate from time to
+time a depository for the securities and evidences of indebtedness held in the
+Plans and may contract for the safekeeping of securities and evidences of
+indebtedness within and outside the State of Vermont in such banks, trust
+companies, and safe-deposit facilities as it shall from time to time determine.
+The necessary and incidental expenses of such safekeeping and for service
+rendered, including advisory services in investment matters, shall be paid from
+the operation expenses of the individual Plan as hereinafter provided. Any
+agreement for the safekeeping of securities or evidences of indebtedness shall
+provide for the access to such securities and evidences of indebtedness, except
+securities loaned pursuant to a securities lending agreement as authorized by
+subsection (j) of this section, at any time by the custodian or any authorized
+agent of the State for audit or other purposes.
+(j) Securities lending agreements. The Commission may authorize the loan
+of its securities pursuant to securities lending agreements that provide for
+VT LEG #390203 v.1
+
+No. 131 Page 23 of 34
+2026
+collateral consisting of cash or securities issued or guaranteed by the U.S.
+government or its agencies equal to 100 percent or more of the market value of
+the loaned securities. Cash collateral may be invested by the lending
+institution in investments approved by the Commission. Approval of
+investments shall be made in accordance with the standard of care established
+by the prudent investor rule under 14A V.S.A. chapter 9.
+Sec. 14. 3 V.S.A. § 524 is amended to read:
+§ 524. VERMONT PENSION INVESTMENT COMMISSION SPECIAL
+FUND
+(a) Creation.
+(1) There is hereby created the Vermont Pension Investment
+Commission Special Fund, administered by the Vermont Pension Investment
+Commission, for the purpose of receiving funds transferred to the Commission
+pursuant to subsection 522(i) of this title. Monies in the Fund shall be used to
+pay expenses associated with carrying out the Commission’s duties.
+(2) As used in this section, “Fund” means the Vermont Pension
+Investment Commission Special Fund created by this section.
+(b) Funds. The Fund shall consist of:
+(1) any amounts collected and transferred by the three retirement
+systems Plans and any individual municipalities that have been allowed to
+invest their retirement funds pursuant to subsection 523(a) of this title;
+VT LEG #390203 v.1
+
+No. 131 Page 24 of 34
+2026
+(2) any amounts transferred or appropriated to it by the General
+Assembly; and
+(3) any interest earned by the Fund.
+Sec. 15. 16 V.S.A. § 1931 is amended to read:
+§ 1931. DEFINITIONS
+As used in this chapter:
+* * *
+(23) “Commission” means the Vermont Pension Investment
+Commission created by 3 V.S.A. § 522.
+Sec. 16. 16 V.S.A. § 1942 is amended to read:
+§ 1942. BOARD OF TRUSTEES; MEDICAL BOARD; ACTUARY; RATE
+OF CONTRIBUTION; SAFEKEEPING OF SECURITIES
+* * *
+(o) The Vermont Pension Investment Commission shall designate from
+time to time a depository for the securities and evidences of indebtedness held
+in the Pension Fund and may contract for the safekeeping of securities and
+evidences of indebtedness within and outside the State of Vermont in such
+banks, trust companies, and safe-deposit facilities as it shall from time to time
+determine, and the necessary and incidental expenses of such safekeeping and
+for service rendered, including advisory services in investment matters, shall
+be paid from the Pension Fund. Any agreement for the safekeeping of
+securities or evidences of indebtedness, except securities loaned pursuant to a
+VT LEG #390203 v.1
+
+No. 131 Page 25 of 34
+2026
+securities lending agreement as authorized by subsection (q) of this section,
+shall provide for the access to such securities and evidences of indebtedness at
+any time by the custodian or any authorized agent of the State for audit or other
+purposes. [Repealed.]
+* * *
+(q) The Vermont Pension Investment Commission may authorize the loan
+of its securities pursuant to securities lending agreements that provide for
+collateral consisting of cash or securities issued or guaranteed by the United
+States government or its agencies equal to 100 percent or more of the market
+value of the loaned securities. Cash collateral may be invested by the lending
+institution in investments approved by the State Treasurer. Approval of
+investments shall be made in accordance with the standard of care. [Repealed.]
+* * *
+Sec. 17. 16 V.S.A. § 1943 is amended to read:
+§ 1943. INVESTMENTS; INTEREST RATE; DISBURSEMENTS;
+STANDARDS OF CONDUCT
+(a) The members of the Vermont Pension Investment Commission
+established in 3 V.S.A. chapter 17 shall be the trustees of the Pension Fund
+created by this chapter, and with respect to them may invest and reinvest the
+assets of the Pension Fund, and hold, purchase, sell, assign, transfer, and
+dispose of the securities and investments in which the assets of the Pension
+Fund have been invested and reinvested. Investments shall be made in
+VT LEG #390203 v.1
+
+No. 131 Page 26 of 34
+2026
+accordance with the standard of care established by the prudent investor rule
+under 14A V.S.A. chapter 9.
+(b) The Board from time to time shall set rates of regular interest at such
+percentages compounded annually as it determines to be equitable both to
+members and to taxpayers of the State, but not less than three percent nor more
+than five percent.
+(c) The State Treasurer shall be the custodian of the assets of the Pension
+Fund of the System. All payment from the Pension Fund shall be made by the
+Treasurer or by a deputy treasurer, only upon vouchers signed by two persons
+designated by the Board. A duly attested copy of a resolution of the Board
+designating such persons and bearing on its face specimen signatures of such
+persons shall be filed with the State Treasurer as authority for making
+payments upon such vouchers. No vouchers shall be drawn unless it has
+previously been authorized by resolution of the Board. [Repealed.]
+(d) Except as otherwise provided in this section, no trustee and no
+employee of the Board or member of the Vermont Pension Investment
+Commission shall have any direct interest in the gains or profits of any
+investment made by the Commission; nor shall any trustee or employee of the
+Board or Commission, directly or indirectly, for himself or herself the trustee
+or employee personally or as an agent, in any manner use the same except to
+make such current and necessary payments as are authorized by the Board or
+Commission; nor shall any trustee or employee of the Board or Commission
+VT LEG #390203 v.1
+
+No. 131 Page 27 of 34
+2026
+become an endorser or surety, or in any manner an obligor, for the monies
+loaned to or borrowed from the Board. The State Treasurer, with the approval
+of the Board and the Commission, shall adopt by rule standards of conduct for
+trustees and employees of the Board in order to maintain and promote public
+confidence in the integrity of the Board. Such rules shall prohibit trustees and
+employees from receiving or soliciting any gift, including meals, alcoholic
+beverages, travel fare, room and board, or any other thing of value, tangible or
+intangible, from any vendor or potential vendor of investment services,
+management services, brokerage services, and other services to the Board.
+Sec. 18. 16 V.S.A. § 1944b is amended to read:
+§ 1944b. RETIRED TEACHERS’ HEALTH AND MEDICAL BENEFITS
+FUND
+(a) There is established the Retired Teachers’ Health and Medical Benefits
+Fund (Benefits Fund) to pay retiree postemployment benefits when due in
+accordance with the terms established by the Board of Trustees of the State
+Teachers’ Retirement System of Vermont pursuant to subsection 1942(p) and
+section 1944e of this title. The Benefits Fund is intended to comply with and
+be a tax exempt tax-exempt governmental trust under Section 115 of the
+Internal Revenue Code of 1986, as amended. The Benefits Fund shall be
+administered by the Treasurer.
+* * *
+VT LEG #390203 v.1
+
+No. 131 Page 28 of 34
+2026
+(d) The Treasurer may invest monies in the Benefits Fund in accordance
+with the provisions of 32 V.S.A. § 434 or, in the alternative, may enter into an
+agreement with the Vermont Pension Investment Commission to invest such
+monies in accordance with the standards of care established by the prudent
+investor rule under 14A V.S.A. § 902, in a manner similar to the
+Commission’s investment of retirement system monies. Interest earned shall
+remain in the Benefits Fund, and all balances remaining at the end of a fiscal
+year shall be carried over to the following year. The Treasurer’s annual
+financial report to the Governor and the General Assembly shall contain an
+accounting of receipts, disbursements, and earnings of the Benefits Fund.
+* * *
+Sec. 19. 24 V.S.A. § 5062 is amended to read:
+§ 5062. RETIREMENT BOARD; MEDICAL BOARD; ACTUARY; RATES
+OF CONTRIBUTION; SAFEKEEPING OF SECURITIES
+* * *
+(m) The Vermont Pension Investment Commission shall designate from
+time to time a depository for the securities and evidences of indebtedness held
+in the Fund of the System and may contract for the safekeeping of securities
+and evidences of indebtedness within and without the State of Vermont in such
+banks, trust companies, and safe-deposit facilities as it shall from time to time
+determine. The necessary and incidental expenses of such safekeeping and for
+service rendered, including advisory services in investment matters, shall be
+VT LEG #390203 v.1
+
+No. 131 Page 29 of 34
+2026
+paid from the operation expenses of the System as hereinafter provided. Any
+agreement for the safekeeping of securities or evidences of indebtedness shall
+provide for the access to such securities and evidences of indebtedness, except
+securities loaned pursuant to a securities lending agreement as authorized by
+subsection (o) of this section, at any time by the custodian or any authorized
+agent of the State for audit or other purposes. [Repealed.]
+* * *
+(o) The Vermont Pension Investment Commission may authorize the loan
+of its securities pursuant to securities lending agreements that provide for
+collateral consisting of cash or securities issued or guaranteed by the U.S.
+government or its agencies equal to 100 percent or more of the market value of
+the loaned securities. Cash collateral may be invested by the lending
+institution in investments approved by the State Treasurer. Approval of
+investments shall be made in accordance with the standard of care established
+by the prudent investor rule under 9 V.S.A. chapter 147. [Repealed.]
+Sec. 20. 24 V.S.A. § 5063 is amended to read:
+§ 5063. INVESTMENTS; INTEREST RATE; DISBURSEMENTS
+* * *
+(e) Except as otherwise herein provided, no trustee and no employee of the
+Retirement Board or Vermont Pension Investment Commission shall have any
+direct interest in the gains or profits of any investment made by the
+Commission, nor shall any trustee, member of the Commission, or employee
+VT LEG #390203 v.1
+
+No. 131 Page 30 of 34
+2026
+of the Board or Commission, directly or indirectly, for himself or herself the
+trustee or employee personally or as an agent, in any manner use the same
+except to make such current and necessary payments as are authorized by the
+Board or Commission; nor shall any trustee or employee of the Board or
+Commission become an endorser or surety, or in any manner an obligor, for
+monies loaned to or borrowed from the Board.
+* * * Pension Credits * * *
+Sec. 21. 16 V.S.A. § 1944 is amended to read:
+§ 1944. VERMONT TEACHERS’ RETIREMENT FUND
+* * *
+(b) Member contributions.
+* * *
+(12)(A) Any Group A or Group C member may elect to have included in
+the member’s creditable service years of service during which the member
+exercised his or her the member’s option not to be a member of the System.
+Any member who so elects shall deposit in the Pension Fund by a single
+contribution an amount computed at regular interest to be sufficient to provide
+at normal retirement an annuity equal to one and two-thirds or two percent,
+whichever is applicable pursuant to section 1937 of this title, of the member’s
+average compensation multiplied by the number of years of service for which
+the member elects to receive credit.
+VT LEG #390203 v.1
+
+No. 131 Page 31 of 34
+2026
+(B)(i) Prior to receiving a retirement allowance, any Group A or
+Group C member who is elected to serve as the president of an employee
+organization designated as the exclusive bargaining representative for
+employees in this chapter may elect to have included in the member’s
+creditable service a year during which they received no creditable service due
+to serving as the employee organization president with full release from
+employment responsibilities to a qualifying System employer, provided that on
+behalf of any member who so elects, the employee organization shall deposit
+in the Pension Fund an amount computed at regular interest to be sufficient to
+provide at normal retirement an annuity equal to one and two-thirds or two
+percent, whichever is applicable pursuant to section 1937 of this title, of the
+member’s average final compensation.
+(ii) Any purchase under this subdivision (B) shall be completed
+and payment received by the System on or before June 30 for each year of
+service purchased.
+(iii) It shall be the responsibility of the employee organization to
+initiate each purchase with the System.
+* * *
+Sec. 22. 24 V.S.A. § 5054a is amended to read:
+§ 5054a. ELECTIVE CREDITS
+* * *
+VT LEG #390203 v.1
+
+No. 131 Page 32 of 34
+2026
+(d)(1) Prior to receiving a retirement allowance, any Group A, B, or C
+member who is elected to serve as the president of an employee organization
+designated as the exclusive bargaining representative for employees in this
+chapter may elect to have included in the member’s creditable service a year
+during which they received no creditable service due to serving as the
+employee organization president with full release from employment
+responsibilities to a qualifying System employer, provided that on behalf of
+any member who so elects, the employee organization shall deposit in the
+Pension Fund an amount determined by the System’s actuary to be cost neutral
+to the System.
+(2) Any purchase under this subsection shall be completed and payment
+received by the System on or before June 30 for each year of service
+purchased.
+(3) It shall be the responsibility of the employee organization to initiate
+each purchase with the System.
+* * * Capital Debt * * *
+Sec. 23. 32 V.S.A. § 1001 is amended to read:
+§ 1001. CAPITAL DEBT AFFORDABILITY ADVISORY COMMITTEE
+* * *
+(c) Committee estimate of a prudent amount of net State tax-supported
+debt; affordability considerations. On or before September 30 of each year, the
+Committee shall submit to the Governor and the General Assembly the
+VT LEG #390203 v.1
+
+No. 131 Page 33 of 34
+2026
+Committee’s estimate of net State tax-supported debt that prudently may be
+authorized for the next fiscal year, together with a report explaining the basis
+for the estimate. The Committee’s estimate shall not take into consideration
+the balance remaining at the end of each fiscal year in the subaccounts of the
+Cash Fund for Capital and Essential Investments, established pursuant to
+section 1001b of this title. The provisions of 2 V.S.A. § 20(d) (expiration of
+required reports) shall not apply to the report to be made under this subsection.
+In developing its annual estimate, and in preparing its annual report, the
+Committee shall consider:
+* * *
+(4) The criteria that recognized bond rating agencies use to judge the
+quality of issues of State bonds, including:
+(A) existing and projected total debt service on net tax-supported
+debt as a percentage of combined General and Transportation Fund revenues,
+excluding surpluses in these revenues that may occur in an individual fiscal
+year;
+(B) existing and projected total net tax-supported debt outstanding as
+a percentage of total State personal income;
+(C) existing and projected pension and other postemployment benefit
+liability metrics; and
+VT LEG #390203 v.1
+
+No. 131 Page 34 of 34
+2026
+(D) other metrics at the Committee’s discretion adopted by
+recognized bond rating agencies, including long-term liabilities not covered in
+subdivisions (A)–(C) of this subdivision (4).
+* * *
+(11) The capital asset depreciation ratio reflecting unfunded capital
+maintenance costs Measures reflecting the remaining useful life of State
+infrastructure and the potential for future capital maintenance and replacement
+costs.
+* * *
+Sec. 24. [Deleted.]
+* * * Effective Dates * * *
+Sec. 25. EFFECTIVE DATES
+This act shall take effect on July 1, 2026, except that:
+(1) this section and Sec. 7 (Pension and Benefits Funding Task Force)
+shall take effect on passage; and
+(2) Sec. 3 (unclaimed property expenses and service charges sunset)
+shall take effect on January 1, 2040.
+Date Governor signed bill: June 15, 2026
+VT LEG #390203 v.1

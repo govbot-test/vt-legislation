@@ -1,0 +1,26 @@
+Title: 
+Official Title: 
+Source: versions - Senate Proposal of Amendment (OfficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate proposal of amendment
+H. 577
+An act relating to establishing the Vermont Prescription Drug Discount
+Card Program.
+The Senate proposes to the House to amend the bill as follows:
+First: In Sec. 1, 18 V.S.A. chapter 91, subchapter 7, in section 4691, by
+striking out subsection (e) in its entirety and inserting in lieu thereof a new
+subsection (e) to read as follows:
+(e) On or before January 15, 2028, and annually thereafter, the State
+Treasurer shall submit a report to the House Committee on Health Care, the
+Senate Committee on Health and Welfare, and the Governor detailing the
+activities of the Program during the previous calendar year, including the
+number of Vermont residents and pharmacies participating in the Program; the
+amount of savings on prescription drug costs achieved; and the impact, if any,
+of the Program on the viability of Vermont’s pharmacies.
+Second: In Sec. 3a, 32 V.S.A. § 111, in subsection (b), in the second
+sentence, following “Drug Discount”, by inserting “Card” preceding
+“Program”

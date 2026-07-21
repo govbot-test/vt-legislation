@@ -1,0 +1,796 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED H.731
+2026 Page 1 of 33
+1 H.731
+2 Introduced by Representative Sheldon of Middlebury
+3 Referred to Committee on
+4 Date:
+5 Subject: Conservation and development; water quality; lakes; classification;
+6 antidegradation
+7 Statement of purpose of bill as introduced: This bill proposes to codify the
+8 State antidegradation implementation policy in order to comply with federal
+9 law, protect the waters of the State, and prevent degradation of waters. The
+10 bill also establishes a new surface water classification system for inland lakes
+11 and ponds to ensure that management of those waters serves the public good
+12 by maximizing the functioning and health of littoral ecosystems.
+13 An act relating to the water quality of the State
+14 It is hereby enacted by the General Assembly of the State of Vermont:
+15 Sec. 1. 10 V.S.A. chapter 47, subchapter 1A is redesignated to read:
+16 Subchapter 1A 1B. Notification of Sewage and Wastewater Discharges
+17 Sec. 2. 10 V.S.A. chapter 47, subchapter 1A is added to read:
+18 Subchapter 1A. Antidegradation Policy and Implementation
+19 § 1286. DEFINITIONS
+20 As used in this subchapter:
+VT LEG #386539 v.1
+
+BILL AS INTRODUCED H.731
+2026 Page 2 of 33
+1 (1) “Agency” means the Agency of Natural Resources.
+2 (2) “Application” means any request for a permit required by State or
+3 federal law when filed with, and deemed complete by, the reviewing authority.
+4 (3) “Assimilative capacity” means a measure of the capacity of the
+5 receiving waters to assimilate wastes without lowering their quality below the
+6 applicable water quality criteria.
+7 (4) “Cumulative impact” means the collective impact of all past and
+8 present legal discharges within the watershed, upstream of the proposed point
+9 of discharge and evaluated on an individual parameter basis.
+10 (5) “Designated use” means any value or use, whether presently
+11 occurring or not, that is specified in the management objectives for each class
+12 of water as set forth in the Vermont Water Quality Standards or for each lake
+13 class set forth under a lake classification under chapter 49, subchapter 2 of this
+14 title.
+15 (6) “Equilibrium conditions” means a balance between the water flow,
+16 sediment and woody debris supplied to the stream system, and the stream
+17 capacity to transport the sediment and debris loads. Equilibrium exists when
+18 the stream maintains its dimension, pattern, and profile without unnaturally
+19 aggrading or degrading at the river reach or valley segment scales.
+VT LEG #386539 v.1
+
+BILL AS INTRODUCED H.731
+2026 Page 3 of 33
+1 (7) “Existing discharge” means any discharge to the extent authorized
+2 by a valid permit issued under section 1263 or 1265 of this title before January
+3 7, 1985.
+4 (8) “Existing use” means a use that has actually occurred on or after
+5 November 28, 1975, in or on waters, whether or not the use is included in the
+6 standard for classification of the waters, and whether or not the use is presently
+7 occurring.
+8 (9) “High quality waters” means those waters the existing quality of
+9 which exceeds any applicable water quality criteria and that provide important
+10 environmental, economic, social, and other benefits to the persons of the State.
+11 (10) “New discharge” means any discharge not authorized under section
+12 1263 of this title as of January 7, 1985, or any increased pollutant loading or
+13 demand on the assimilative capacity of the receiving waters from an existing
+14 discharge that requires the issuance of a new or amended permit.
+15 (11) “NPDES” means the National Pollutant Discharge Elimination
+16 System Program established by the federal Clean Water Act to permit certain
+17 discharges of pollutants to waters.
+18 (12) “Outstanding resource waters” means those waters designated
+19 under section 1424a of this title.
+VT LEG #386539 v.1
+
+BILL AS INTRODUCED H.731
+2026 Page 4 of 33
+1 (13) “Parameter” means a chemical, physical, or biological
+2 characteristic that is used to assess conditions and that is contained as narrative
+3 or numeric criteria in Vermont’s Water Quality Standards.
+4 (14) “Permit” means a certification, order, or other authorization in
+5 which, during the application review process, compliance with the Vermont
+6 Water Quality Standards is evaluated pursuant to applicable State or federal
+7 law.
+8 (15) “Policy” means Vermont’s antidegradation policy set forth in this
+9 subchapter.
+10 (16) “Practicable” means an alternative is available and capable of being
+11 completed after taking into consideration cost, existing technology, and
+12 logistics in light of the overall purposes of the proposed activity.
+13 (17) “Run-of-river” means flow downstream from a project or activity
+14 that is equal to inflow on an instantaneous basis. A run-of-river project or
+15 activity does not operate out of storage and, therefore, does not artificially
+16 regulate flows downstream.
+17 (18) “Standards” means the Vermont Water Quality Standards required
+18 under this chapter and adopted by the Secretary by rule.
+19 § 1287. ANTIDEGRADATION POLICY; PURPOSE
+20 (a) Purpose.
+VT LEG #386539 v.1
+
+BILL AS INTRODUCED H.731
+2026 Page 5 of 33
+1 (1) Pursuant to the federal regulations for the Clean Water Act under
+2 40 C.F.R. § 131.12, Vermont is required to adopt and implement a statewide
+3 antidegradation policy to protect and maintain water quality and existing and
+4 designated uses of the State’s waters.
+5 (2) Because the Agency of Natural Resources repeatedly has failed to
+6 comply with legislative directives to adopt a rule to implement the State’s
+7 antidegradation policy, this subchapter declares the State’s antidegradation
+8 policy and the requirements for implementation of the antidegradation policy
+9 in order to protect water quality in outstanding resource waters, protect and
+10 maintain water quality in high quality waters, and identify and protect the
+11 existing uses of all waters of the State.
+12 (b) Antidegradation policy.
+13 (1) General policy. All waters of the State shall be managed in
+14 accordance with the requirements of this subchapter and the Standards to
+15 protect, maintain, and improve water quality.
+16 (2) Protection and determination of existing uses. Existing uses of State
+17 waters and the level of water quality necessary to protect the existing uses of
+18 each water shall be maintained and protected regardless of the water’s
+19 classification.
+20 (A) A determination of what constitutes the existing uses of a
+21 particular water shall be made during the basin planning process; during lake
+VT LEG #386539 v.1
+
+BILL AS INTRODUCED H.731
+2026 Page 6 of 33
+1 classification under chapter 49, subchapter 2 of this title; or on a case-by-case
+2 basis during consideration of a petition for a classification or reclassification.
+3 The use of waters to receive or transport discharges of waste shall not
+4 constitute an existing use for purposes of the State antidegradation policy or
+5 implementation of this subchapter.
+6 (B) In determining the existing uses to be protected and maintained
+7 under this subchapter and under the Standards, the Secretary shall consider the
+8 designated uses, and at least the following factors:
+9 (i) aquatic biota and wildlife that utilize or are present in waters;
+10 (ii) habitat that supports or is capable of supporting aquatic biota,
+11 wildlife, or plant life;
+12 (iii) the use of the waters for recreation or fishing;
+13 (iv) the use of the water for a public water source or commercial
+14 activity that depends directly on the preservation of an existing high level of
+15 water quality; and
+16 (v) evidence of the use’s ecological significance in the functioning
+17 of the ecosystem or evidence of the use’s rarity.
+18 (C) Waters the existing quality of which exceed any applicable water
+19 quality criteria provide important environmental, economic, social, and other
+20 benefits to the persons of the State. Except as provided in subdivision (D) of
+21 this subdivision (2), waters shall be managed to maintain and protect the higher
+VT LEG #386539 v.1
+
+BILL AS INTRODUCED H.731
+2026 Page 7 of 33
+1 water quality and minimize risk to existing and designated uses. In all cases,
+2 the level of water quality necessary to maintain and protect all existing uses as
+3 well as applicable water quality criteria shall be maintained.
+4 (D) A limited reduction in the existing higher quality of waters that
+5 exceed existing applicable water quality criteria may be allowed only when it
+6 is shown that:
+7 (i) through the applicable permitting or approval process, the
+8 Secretary has provided public notice of the draft decision and an opportunity
+9 for public comment on the decision;
+10 (ii) after an analysis of alternatives, allowing lower water quality
+11 is necessary to prevent substantial adverse economic or social impacts on the
+12 persons of the State; and
+13 (iii) there shall be achieved the highest statutory and regulatory
+14 requirements for all new or existing point sources, and all cost-effective and
+15 reasonable best management practices for nonpoint source control, consistent
+16 with State law.
+17 (E)(i) The analysis of alternatives required under subdivision (D)(ii)
+18 of this subdivision (b)(2) shall evaluate a range of alternatives that would
+19 prevent or lessen the degradation associated with the proposed activity. When
+20 the analysis identifies one or more practicable alternatives, the Secretary shall
+VT LEG #386539 v.1
+
+BILL AS INTRODUCED H.731
+2026 Page 8 of 33
+1 only find that a lowering is necessary if one practicable alternative is selected
+2 for implementation.
+3 (ii) To the extent any reduction in the quality of high quality
+4 waters is allowed, the reduction shall be limited to that which complies with
+5 subdivision (D) of this subdivision (b)(2).
+6 (3) Protection of outstanding resource waters and natural condition
+7 lakes. The Secretary may under section 1424a of this title designate certain
+8 waters as outstanding resource waters or under chapter 49, subchapter 2 of this
+9 title designate natural condition lakes. Where the Secretary designates waters
+10 for specific exceptional natural, recreational, cultural, or scenic values, their
+11 existing quality, associated with the values for which they have been
+12 designated, shall, at a minimum, be protected and maintained.
+13 (4) Protection of wetlands. Wetlands and their functions and values
+14 shall be protected as described by the Vermont Wetland Rules.
+15 § 1288. REQUIRED IMPLEMENTATION OF ANTIDEGRADATION
+16 POLICY; APPLICABILITY
+17 (a) Applicability. The Secretary shall apply the Antidegradation Policy set
+18 forth in section 1287 of this title during the review of any application for any
+19 permit for a new discharge for which compliance with the Standards is
+20 evaluated. Discharges that do not require a permit are not subject to the
+21 Antidegradation Policy.
+VT LEG #386539 v.1
+
+BILL AS INTRODUCED H.731
+2026 Page 9 of 33
+1 (b) Activities subject to review. Activities authorized by the following
+2 permits are subject to review under the antidegradation policy:
+3 (1) NPDES direct discharge permits issued pursuant to section 1263 of
+4 this title and the rules adopted under this chapter;
+5 (2) NPDES direct discharge permits for thermal discharges issued
+6 pursuant to section 1263 of this title;
+7 (3) Concentrated Animal Feeding Operation (CAFO) permits issued
+8 under federal rules or under chapter 47, subchapter 3A of this title;
+9 (4) stormwater permits issued under section 1264 of this title, including
+10 NPDES discharge permits;
+11 (5) wetland permits issued pursuant to chapter 37 of this title;
+12 (6) water quality certifications issued pursuant to section 401 of the
+13 federal Clean Water Act for a federal license or permit, including shoreland
+14 activities, lake encroachments, and stream alterations;
+15 (7) dam orders issued pursuant to section 1082 of this title;
+16 (8) indirect discharge permits issued pursuant to sections 1251, 1259,
+17 and 1263 of this title;
+18 (9) groundwater withdrawal permits issued pursuant to section 1418 of
+19 this title; and
+20 (10) any other NPDES permit issued by the Agency.
+VT LEG #386539 v.1
+
+BILL AS INTRODUCED H.731
+2026 Page 10 of 33
+1 (c) Exemptions. The following permits are exempt from review under the
+2 antidegradation policy:
+3 (1) permits for response actions taken pursuant to section 1283, 1941,
+4 6615, or 6615b of this title or chapter 159, subchapter 3 of this title in response
+5 to a release of hazardous materials that may be hazardous to human health or
+6 that caused an existing water quality impairment;
+7 (2) orders issued pursuant to section 1272 of this title;
+8 (3) permits for discharges from wastewater treatment facilities that are
+9 designed to eliminate unpermitted discharges that pose a threat to public
+10 health, or which caused an existing water quality impairment;
+11 (4) permits for stormwater remediation projects installed to mitigate the
+12 impact of existing stormwater discharges to receiving waters; and
+13 (5) dam orders issued pursuant to section 1095 of this title that authorize
+14 actions necessary to abate a threat to human life or property.
+15 (d) Application to general permits. If a general permit issued by the
+16 Secretary of Natural Resources is reviewed under the antidegradation policy,
+17 an authorization issued under the general permit is exempt from subsequent
+18 review under the antidegradation policy unless the Secretary determines, based
+19 on credible and relevant information and best professional judgment, that the
+20 proposed activity, due to its potential impact, requires a site-specific Tier 2
+21 analysis through the use of an individual permit.
+VT LEG #386539 v.1
+
+BILL AS INTRODUCED H.731
+2026 Page 11 of 33
+1 § 1289. INFORMATION REQUIRED FROM APPLICANT
+2 (a)(1) The Secretary shall require an applicant for a permit or authorization
+3 subject to the antidegradation policy as set forth in section 1287 of this title to
+4 provide the necessary information to make a determination under the
+5 antidegradation policy.
+6 (2) When the Secretary determines there is insufficient information to
+7 make a determination under the antidegradation policy and the applicant fails
+8 to provide the required information, the Secretary shall deny the application for
+9 the relevant permit or authorization.
+10 (3) All technical, scientific, social, and economic data and analyses
+11 provided to the Secretary shall be developed by qualified professionals.
+12 (b) The Secretary may require an applicant for a permit or authorization
+13 subject to the antidegradation policy to provide the following information, as
+14 the Secretary deems appropriate:
+15 (1) an analysis of alternatives to the proposed discharge;
+16 (2) a description of the proposed activity, discharge, and facility
+17 operations, and their locations;
+18 (3) physical, chemical, and biological data for the receiving waters and
+19 the characteristics of any proposed discharge;
+VT LEG #386539 v.1
+
+BILL AS INTRODUCED H.731
+2026 Page 12 of 33
+1 (4) water quality modeling analyses;
+2 (5) the presence of existing uses;
+3 (6) the level of treatment and control necessary to maintain and protect
+4 existing and designated uses in a receiving water;
+5 (7) the magnitude, duration, and extent of any lowering of water quality
+6 due to the proposed discharge or activity by itself and in combination with
+7 other presently occurring legal discharges;
+8 (8) the potential impacts, including cumulative impacts, on designated
+9 and existing uses and on high quality waters due to the proposed discharge;
+10 and
+11 (9) social and economic data and analyses, including:
+12 (A) median household income of affected community;
+13 (B) comparison of existing and expected economic conditions and
+14 social services when the proposed activity is fully implemented;
+15 (C) economic gains or losses attributable to the proposed activity;
+16 (D) contribution to social services;
+17 (E) prevention or remediation of environmental or public health
+18 threats;
+19 (F) value of the water resources;
+20 (G) effect on environmental justice focus populations as defined in 3
+21 V.S.A. § 6002; and
+VT LEG #386539 v.1
+
+BILL AS INTRODUCED H.731
+2026 Page 13 of 33
+1 (H) other relevant environmental, social, and economic impacts of
+2 the proposed activity.
+3 (c)(1) In reviewing an application for a new discharge, the Secretary shall
+4 utilize all credible and relevant information and the best professional judgment
+5 of Agency staff.
+6 (2) Upon completion of review of an application for a new discharge,
+7 the Secretary shall post a draft decision for public review and comment for at
+8 least 30 days.
+9 § 1290. PUBLIC PARTICIPATION REQUIREMENTS
+10 (a) The Secretary shall provide an opportunity for meaningful participation
+11 for all individuals in accordance with the applicable permit or rulemaking
+12 notice requirements and civil rights requirements.
+13 (b) Public notice for the permit or rule, and the fact sheet, if applicable,
+14 shall include a statement that the permit or rule is consistent with the
+15 antidegradation policy and shall describe how the public can obtain materials
+16 used in the determination.
+17 (c) The Secretary shall provide for intergovernmental coordination,
+18 including contacting local municipal governments, federal entities, or
+19 downstream states or tribes that may be impacted by a change in water quality.
+VT LEG #386539 v.1
+
+BILL AS INTRODUCED H.731
+2026 Page 14 of 33
+1 § 1291. ANTIDEGRADATION ANALYSIS; TIER 3 PROTECTION OF
+2 OUTSTANDING RESOURCE WATERS
+3 (a) For outstanding resource waters or natural condition lakes designated
+4 for their specific exceptional natural, recreational, cultural, or scenic values,
+5 their existing water quality associated with the values for which they have been
+6 designated shall be maintained and protected.
+7 (b) The impact of the proposed discharge to the existing water quality of an
+8 outstanding resource water or natural condition lake shall be evaluated on a
+9 parameter-by-parameter basis necessary to protect the values for which the
+10 outstanding resource water or natural condition lake was designated.
+11 (c) The Secretary shall evaluate applications for proposed discharges. Only
+12 proposed discharges that meet one or both of the following criteria shall be
+13 eligible for permitting:
+14 (1) The proposed discharge will improve water quality or is necessary
+15 for the maintenance of current environmental conditions.
+16 (2) The proposed discharge is temporary, and it is expected that water
+17 quality in the receiving water will be equal to or better than that which existed
+18 prior to commencement of the discharge. In order to be considered temporary,
+19 the duration of the discharge shall typically occur over a period of days or
+20 months, not years.
+VT LEG #386539 v.1
+
+BILL AS INTRODUCED H.731
+2026 Page 15 of 33
+1 (d) A discharge that results in no measurable reduction in the physical,
+2 chemical, or biological quality of the outstanding resource water shall not be
+3 subject to review under Tier 3.
+4 § 1292. ANTIDEGRADATION ANALYSIS; TIER 2 PROTECTION OF
+5 HIGH QUALITY WATERS
+6 (a) Applicability. This section applies to high quality waters the existing
+7 quality of which exceeds any applicable water quality criteria and that provide
+8 important environmental, economic, social, and other benefits to the persons of
+9 the State.
+10 (b) Limited reduction in quality. A limited reduction in the existing quality
+11 of high quality waters may be allowed only when it is shown that:
+12 (1) through the applicable permitting or approval process, the Secretary
+13 has provided public notice of the draft permit decision and an opportunity for
+14 public comment on the draft permit decision;
+15 (2) after an analysis of alternatives, allowing lower water quality is
+16 necessary to prevent substantial adverse economic or social impacts on the
+17 persons of the State; and
+18 (3) there shall be achieved the highest statutory and regulatory
+19 requirements for all new or existing point sources, and all cost-effective and
+20 reasonable best management practices for nonpoint source control, consistent
+21 with State law.
+VT LEG #386539 v.1
+
+BILL AS INTRODUCED H.731
+2026 Page 16 of 33
+1 (c) Alternatives. The Secretary shall evaluate alternatives to the proposed
+2 activity, including the location and method of discharge, that would have the
+3 least adverse impact on waters and wetlands of the State, and provided that any
+4 proposed alternative shall not have other significant adverse human health,
+5 safety, or environmental consequences.
+6 (d) Areas not subject to Tier 2 analyses. In evaluating the impact of a
+7 proposed discharge, and considering the nature, persistence, and potential
+8 effects of pollutants contained within the discharge, the Secretary may
+9 determine that the following are not subject to Tier 2 analysis:
+10 (1) a discharge that would result in no measurable reduction in the
+11 physical, chemical, or biological quality of a water;
+12 (2) the portion of a discharge that consists of a specific pollutant when
+13 the pollutant would not be capable of being detected in the applicable receiving
+14 water;
+15 (3) flow modifying activities that would meet one or more of the
+16 following criteria:
+17 (A) no impoundment of water or no impoundment that would alter
+18 the riverine characteristics of the aquatic habitat;
+19 (B) bypass flows that meet or exceed U.S. Fish and Wildlife seasonal
+20 conservation flows (0.5/1.0/4.0);
+VT LEG #386539 v.1
+
+BILL AS INTRODUCED H.731
+2026 Page 17 of 33
+1 (C) instantaneous run-of-river mode of operation;
+2 (D) surface water withdrawals that qualify as de minimis under the
+3 Agency of Natural Resources’ Procedure for Determining Acceptable
+4 Minimum Streamflows; or
+5 (E) snowmaking water withdrawals that meet the general or de
+6 minimis standards in the Agency of Natural Resources’ Rules for Water
+7 Withdrawals for Snowmaking;
+8 (4) stream alteration activities that would result in channel geometry and
+9 fluvial processes where bed and bank erosion are neither increased nor
+10 transferred to other stream locations, and where floodplain function is
+11 maintained or restored over time; or
+12 (5) activities in waters of the United States, including navigable waters,
+13 within the boundaries of the State subject to the general permits of the U.S.
+14 Army Corps of Engineers.
+15 (e) Determination of receiving water quality.
+16 (1) Waters whose existing ambient water quality exceeds the applicable
+17 minimum water quality criteria and indices for the class to which the
+18 waterbody is assigned shall be considered high quality water.
+19 (2) A waterbody will be assessed as high quality on a parameter-by-
+20 parameter basis.
+VT LEG #386539 v.1
+
+BILL AS INTRODUCED H.731
+2026 Page 18 of 33
+1 (3) The Secretary will presume that all waters are high quality for at
+2 least one criterion or index for some portion of the year. This presumption
+3 may be rebutted by credible and relevant information obtained by or provided
+4 to the Secretary.
+5 (4) Any determination of receiving water quality shall include a
+6 consideration of cumulative impacts.
+7 (5) Depending on the nature of the proposed discharge, factors that may
+8 be considered in the evaluation of receiving water quality and assessment of
+9 cumulative impacts include:
+10 (A) existing physical, chemical, and biological data for the receiving
+11 water;
+12 (B) nature of resource impacted, such as stream, lake, river, wetland,
+13 or watershed;
+14 (C) class of the water;
+15 (D) presence of rare, threatened, or endangered species;
+16 (E) presence of salmonid spawning areas;
+17 (F) current legally authorized activities and discharges in the affected
+18 receiving water or watershed;
+19 (G) effect of the proposed activity or discharge;
+20 (H) percent of impervious cover in the associated watershed;
+VT LEG #386539 v.1
+
+BILL AS INTRODUCED H.731
+2026 Page 19 of 33
+1 (I) percent of wetland impacted;
+2 (J) stream equilibrium condition, including geomorphic condition,
+3 channel adjustment processes, and sensitivity, at the reach and valley segment
+4 scales;
+5 (K) degree of flow or water level regulation;
+6 (L) change in land cover relative to natural cover;
+7 (M) percent of cover of jurisdictional lake surface area with docks
+8 and other encroachments;
+9 (N) riparian conditions, including percent of lake shoreline length
+10 with structural stabilizations and development within 50 feet of the shore;
+11 (O) number and type of activities and extent of development in
+12 stream or river corridors, floodplains, and watershed;
+13 (P) program-specific activities, such as river corridor planning or
+14 offset programs, intended to reduce current cumulative impacts and create
+15 assimilative capacity; and
+16 (Q) biomonitoring data, including results from targeted monitoring
+17 plans for at-risk watersheds.
+18 (f) Determination of reduction of receiving water quality resulting from the
+19 proposed activity.
+20 (1) In the course of reviewing an application for an individual permit or
+21 in the development of a general permit, the Secretary shall determine the extent
+VT LEG #386539 v.1
+
+BILL AS INTRODUCED H.731
+2026 Page 20 of 33
+1 to which a proposed discharge will result in a reduction in receiving water
+2 quality by utilizing all credible and relevant information and the best
+3 professional judgment of Agency staff.
+4 (2) For discharges subject to this section, the Secretary may consider,
+5 when appropriate, one or more of the following factors when determining if a
+6 proposed new discharge will result in a reduction in water quality:
+7 (A) the predicted change in ambient water quality criteria at the
+8 appropriate critical conditions;
+9 (B) percent and total change in loadings;
+10 (C) nature, persistence, and potential effects of the pollutant;
+11 (D) ratio of stream flow to discharge flow (dilution ratio);
+12 (E) duration of discharge;
+13 (F) measurable impacts to aquatic biota or habitat;
+14 (G) existing physical, chemical, and biological data for the receiving
+15 water;
+16 (H) degree of hydrologic or sediment regime modifications; and
+17 (I) any other flow modifications.
+18 (g) Determination of socioeconomic impact. The Secretary shall consider
+19 the following factors as appropriate in determining the anticipated economic or
+20 social changes resulting from the proposed activity:
+VT LEG #386539 v.1
+
+BILL AS INTRODUCED H.731
+2026 Page 21 of 33
+1 (1) measurable changes in economic and social conditions, specifically
+2 tax base and number and types of jobs created or impacted;
+3 (2) measurable direct and indirect economic benefits;
+4 (3) correction of an environmental, public health, or public safety
+5 problem;
+6 (4) consistency with the Environmental Justice State Policy as set forth
+7 in 3 V.S.A. § 6003;
+8 (5) environmental, economic, and other benefits of maintaining the
+9 higher water quality;
+10 (6) value of the water resources;
+11 (7) reduction of aquatic biota, aquatic habitat, aesthetics, and
+12 recreational value that may result from lower water quality;
+13 (8) information provided by other government agencies and public
+14 participation;
+15 (9) public use or accessibility of a resource; and
+16 (10) proposed mitigating measures that reduce the impact of the
+17 resulting lower water quality or increase the economic and social benefits, or
+18 both.
+19 (h) Determination of allowable reduction of water quality.
+20 (1) In determining if the reduction of water quality is allowable, the
+21 Secretary shall consider:
+VT LEG #386539 v.1
+
+BILL AS INTRODUCED H.731
+2026 Page 22 of 33
+1 (A) reduction of water quality resulting from the proposed activity;
+2 (B) the importance of the anticipated socioeconomic impacts; and
+3 (C) the availability of funding programs to alleviate potential
+4 financial burdens resulting from the maintenance of higher water quality in
+5 environmental justice focus populations as defined in 3 V.S.A. § 6002.
+6 (2) The Secretary shall allow a limited reduction in the existing water
+7 quality only to the extent necessary to prevent substantial adverse
+8 socioeconomic impacts on the persons of the State.
+9 (i) Best management practices or permitting criteria; presumption of Tier 2
+10 compliance. For proposed activities that may discharge to waters of the State,
+11 the Secretary shall consider the effectiveness of best management practices or
+12 permitting criteria relative to their socioeconomic impacts and require the
+13 implementation of those best management practices that are cost-effective and
+14 reasonable. The following permits shall require implementation of best
+15 management practices determined by the Secretary to be cost-effective and
+16 reasonable, and therefore projects that comply with the following permit
+17 requirements shall be presumed to meet the Tier 2 requirements unless credible
+18 and relevant project or site-specific information rebuts the presumption:
+19 (1) Concentrated Animal Feeding Operation (CAFO) permits;
+20 (2) NPDES stormwater permits;
+VT LEG #386539 v.1
+
+BILL AS INTRODUCED H.731
+2026 Page 23 of 33
+1 (3) stormwater permits issued pursuant to section 1264 of this title;
+2 (4) wetland permits issued pursuant to chapter 37 of this title;
+3 (5) groundwater withdrawals that meet the no-undue-adverse-effect
+4 criteria pursuant to the Agency of Natural Resources’ Groundwater
+5 Withdrawal Reporting and Permitting Rules;
+6 (6) indirect discharge permits issued pursuant to the Agency of Natural
+7 Resources’ Indirect Discharge Rules; and
+8 (7) any other NPDES or State permits that depend on best management
+9 practices issued by the Agency for waters of the State.
+10 (j) Reclassifying B(1) waters. For proposed activities that may discharge to
+11 waters where the Secretary determines water quality data meets or exceeds the
+12 minimum criteria for B(1) waters or to waters where the Secretary has received
+13 an administratively and technically complete petition to reclassify the water to
+14 B(1), the Secretary shall evaluate the proposed activity relative to the B(1)
+15 criteria.
+16 § 1293. ANTIDEGRADATION ANALYSIS; WATERS CLASSIFIED AS
+17 A(1)
+18 (a) Applicability. This section applies to proposed activities that may
+19 discharge to:
+VT LEG #386539 v.1
+
+BILL AS INTRODUCED H.731
+2026 Page 24 of 33
+1 (1) waters classified as A(1);
+2 (2) waters where the Secretary determines water quality data meets or
+3 exceeds the minimum criteria for A(1); or
+4 (3) waters where the Secretary has received an administratively and
+5 technically complete petition to reclassify to A(1); and when proposed
+6 activities would result in a measurable reduction in the physical, chemical, or
+7 biological quality of such waters due to their location, size, and scale.
+8 (b) Individual permits. For any activity subject to this section, the
+9 Secretary shall require individual permit review and shall evaluate the
+10 proposed activity relative to the A(1) criteria.
+11 § 1294. TIER 1; PROTECTION OF EXISTING USES
+12 (a) The existing uses of waters, and the level of water quality necessary to
+13 protect those existing uses, shall be maintained and protected. Existing uses
+14 are a confirmation of the set of designated uses in the Standards regardless of
+15 the class of the water.
+16 (b) In making a determination of existing uses to be protected and
+17 maintained under the antidegradation policy set forth in this subchapter, the
+18 Secretary shall consider the designated uses and at least the following factors:
+19 (1) aquatic biota and wildlife that utilize or are present in the waters;
+20 (2) habitat that supports existing aquatic biota, wildlife, or plant life;
+VT LEG #386539 v.1
+
+BILL AS INTRODUCED H.731
+2026 Page 25 of 33
+1 (3) the use of the waters for recreation or fishing;
+2 (4) the use of the water for water supply, or commercial activity that
+3 depends directly on the preservation of an existing high level of water quality;
+4 and
+5 (5) with regard to the factors considered under subdivisions (1) and (2)
+6 of this subsection, evidence of the uses’ ecological significance in the
+7 functioning of the ecosystem or evidence of the uses’ rarity.
+8 (c) In identifying existing uses, the Secretary shall:
+9 (1) for contact and noncontact recreation, fishing, and public surface
+10 water supplies, consider the information that the applicant submitted in
+11 accordance with the Agency’s process for determining recreational uses;
+12 information gathered in accordance with the Agency’s basin planning
+13 procedure for determination of existing uses during the development of basin
+14 plans; any relevant information from an applicable basin plan; and any other
+15 relevant information regarding use of the receiving waters for contact and
+16 noncontact recreation, fishing, and public surface water supplies; and
+17 (2) for all other uses, including aquatic habitat and aquatic biota and
+18 wildlife, presume that if the designated uses of the receiving waters are
+19 currently being achieved and will continue to be achieved after evaluation of
+20 the proposed activity, then any identified existing uses will also be maintained
+21 and protected.
+VT LEG #386539 v.1
+
+BILL AS INTRODUCED H.731
+2026 Page 26 of 33
+1 (d) Beginning on July 1, 2026, and biannually thereafter, the Secretary
+2 shall determine through the evaluation of existing water quality data the waters
+3 that meet or exceed the minimum criteria for a higher class for one or more
+4 designated uses.
+5 (e) For waters where the Secretary determines water quality data meets or
+6 exceeds the minimum criteria for a higher class for one or more designated
+7 uses, or the Secretary has received an administratively and technically
+8 complete petition to reclassify waters, any permit issued by the Secretary shall
+9 ensure the maintenance of water quality necessary to protect that existing use.
+10 (f) On or before January 1, 2027, and upon each subsequent triennial
+11 rulemaking for the Vermont Water Quality Standards or upon each lake
+12 classification under chapter 49, subchapter 2 of this title, the Secretary shall
+13 propose to reclassify waters that meet the standards of subsection (e) of this
+14 section for one or more designated uses.
+15 Sec. 3. 10 V.S.A. chapter 49 is amended to read:
+16 CHAPTER 49. PROTECTION OF NAVIGABLE WATERS AND
+17 SHORELANDS
+18 Subchapter 1. General Use of Waters
+19 * * *
+VT LEG #386539 v.1
+
+BILL AS INTRODUCED H.731
+2026 Page 27 of 33
+1 § 1424a. OUTSTANDING RESOURCE WATERS
+2 (a) The Secretary, on his or her own motion, may hold a public hearing on
+3 the question of whether particular waters should be designated as outstanding
+4 resource waters, or whether an existing designation should be amended or
+5 repealed. On receipt of a signed written request, the Secretary shall consider
+6 the adoption, amendment, or repeal of rules regarding outstanding resource
+7 water designation and shall take appropriate action as required under 3 V.S.A.
+8 § 806. Any hearing shall be held convenient to the waters in question, or in a
+9 county where the waters are located.
+10 (b) Any hearing shall be conducted as part of the rulemaking process
+11 established under 3 V.S.A. chapter 25.
+12 (c) [Repealed.]
+13 (d) In making its rulemaking decision, the Secretary may consider, but
+14 shall not be limited to considering, the following:
+15 (1) existing water quality and current water quality classification,
+16 including classifications of lakes and ponds under section 1432 of this title;
+17 (2) the presence of aquifer protection areas;
+18 (3) the waters’ value in providing temporary water storage for flood
+19 water and storm runoff;
+VT LEG #386539 v.1
+
+BILL AS INTRODUCED H.731
+2026 Page 28 of 33
+1 (4) the waters’ value as fish habitat;
+2 (5) the waters’ value in providing or maintaining habitat for threatened
+3 or endangered plants or animals;
+4 (6) the waters’ value in providing habitat for wildlife, including stopover
+5 habitat for migratory birds;
+6 (7) the presence of gorges, rapids, waterfalls, or other significant
+7 geologic features;
+8 (8) the presence of scenic areas and sites;
+9 (9) the presence of rare and irreplaceable natural areas;
+10 (10) the presence of known archeological sites;
+11 (11) the presence of historic resources, including those designated as
+12 historic districts or structures;
+13 (12) existing usage and accessibility of the waters for recreational,
+14 educational, and research purposes and for other public uses;
+15 (13) studies, inventories, and plans prepared by local, regional,
+16 statewide, national, or international groups or agencies, that indicate the waters
+17 in question merit protection as outstanding resource waters; and
+18 (14) existing alterations, diversions, or impoundments by permit holders
+19 under State or federal law.
+20 (e) After consideration of all relevant information, the Secretary shall adopt
+21 rules designating the waters as outstanding resource waters if it finds that they
+VT LEG #386539 v.1
+
+BILL AS INTRODUCED H.731
+2026 Page 29 of 33
+1 have exceptional natural, recreational, cultural, or scenic values. Designation
+2 as outstanding resource waters shall not invalidate the terms of existing permits
+3 issued by the State or federal government.
+4 * * *
+5 Subchapter 2. Classification of Lakes and Ponds
+6 § 1431. POLICY
+7 The General Assembly finds that:
+8 (1) under the Vermont Constitution and 29 V.S.A. § 401, lakes and
+9 ponds that are public waters of Vermont and the lands lying thereunder are
+10 held by the State in a public trust for the citizens of the State;
+11 (2) the proper management of the State’s lakes and ponds is of great
+12 public interest and concern to the State in promoting the general welfare; in
+13 preventing disease; in promoting health; in providing habitat for fish, shellfish,
+14 and wildlife; as a source of recreational opportunity; and as a resource for
+15 commerce and industry; and
+16 (3) it is the policy of the State that the lakes and ponds of the State and
+17 lands thereunder shall be managed to serve the public good by maximizing the
+18 functioning and health of littoral ecosystems.
+19 § 1432. CLASSIFICATION OF STATE LAKES AND PONDS
+20 (a) Definition. As used in this subchapter, “lakes and ponds” means all
+21 natural inland lakes and ponds within Vermont.
+VT LEG #386539 v.1
+
+BILL AS INTRODUCED H.731
+2026 Page 30 of 33
+1 (b) Classifications of lakes. The Secretary of Natural Resources shall
+2 review all lakes and ponds in the State for those criteria set forth under
+3 subsection 1424a(d) of this title and shall classify each lake or pond according
+4 to the following classifications:
+5 (1) Natural condition lakes. Lakes or ponds that have exceptional
+6 natural, recreational, cultural, or scenic values where recreation may be
+7 allowed but where use for irrigation or public water supply should be limited
+8 and where development should be limited due to the value provided by the lake
+9 or pond or because adjacent lands have substantial constraints for
+10 development, such as high water tables, exposed bedrock, and unsuitable soils.
+11 (2) Moderate development lakes. Lakes or ponds that have certain
+12 identified natural, recreational, cultural, or scenic value where recreation,
+13 public water supply, or limited development has previously occurred and may
+14 continue, provided that any use of the water or adjacent lands shall not degrade
+15 the natural, recreational, cultural, or scenic value or water quality of the lake or
+16 pond.
+17 (3) General development lakes. Lakes or ponds that are generally large
+18 lakes or ponds with high levels and mixes of existing development. These
+19 lakes often are extensively used for recreation and are heavily developed
+20 around the shore. Recreation and development may continue at general
+21 development lakes, provided that use of the water or adjacent lands shall not
+VT LEG #386539 v.1
+
+BILL AS INTRODUCED H.731
+2026 Page 31 of 33
+1 degrade the water quality of the lake or pond. Second and third tiers of
+2 development are fairly common. The larger examples in this class can
+3 accommodate additional development and use.
+4 (c) Classification status.
+5 (1) Until January 1, 2028, or reclassification under this section, lakes
+6 and ponds shall retain the water quality classification identified for the water
+7 under section 1253 of this title or the Vermont Water Quality Standards.
+8 (2) A lake reclassified under this section shall maintain all uses and shall
+9 retain all protection of water quality of the lake under its classification under
+10 section 1253 of this title or the Vermont Water Quality Standards.
+11 Reclassification under this section shall only improve protection of the uses
+12 and water quality of the lake.
+13 (3) Beginning on January 1, 2028, any lake or pond that the Secretary
+14 has yet to reclassify under this section shall be classified as a natural condition
+15 lake where development of adjacent lands shall be prohibited.
+16 (d) Procedure for classification.
+17 (1) The Secretary, upon a petition from any person or on the Secretary’s
+18 own motion, may reclassify any lake or pond in the State according to the
+19 classifications set forth in subsection (b) of this section. The Secretary shall
+20 base a reclassification on the factors set forth in section 1424a of this title and
+21 the existing functions, values, and water quality of the lake or pond.
+VT LEG #386539 v.1
+
+BILL AS INTRODUCED H.731
+2026 Page 32 of 33
+1 (2) The Secretary shall hold at least one public hearing in the area to be
+2 affected by the reclassification of a lake or pond for the purposes of collecting
+3 public input and presenting the proposed classification for the lake or pond.
+4 (3) If a proposed reclassification of a lake or pond would limit or
+5 prohibit a previous use of the water and adjacent lands, the Secretary shall
+6 amend the Vermont Use of Public Waters Rules to specify the limits on the use
+7 of the water and adjacent lands.
+8 (4) If a proposed reclassification would prohibit a previous use of the
+9 lake or pond or adjacent lands, the Secretary shall conduct a use attainability
+10 analysis of the water according to the requirements of 40 C.F.R. Part 131 as
+11 published on July 1, 2026. The Secretary shall propose a prohibition of a use
+12 of a lake or pond if one or more of the following is occurring:
+13 (A) the lake or pond is not supporting the use;
+14 (B) the use is degrading the water quality of the lake or pond; or
+15 (C) the use has potential to degrade the water quality of the water to
+16 the point that other existing uses of the water will be diminished or impaired.
+17 (e) Discharges.
+18 (1) The Secretary shall not issue a permit for a direct discharge to a
+19 natural condition lake, including stormwater discharge, application of a
+20 pesticide under an aquatic nuisance permit, or a pesticide application according
+21 to an authorization issued by the Agency of Natural Resources.
+VT LEG #386539 v.1
+
+BILL AS INTRODUCED H.731
+2026 Page 33 of 33
+1 (2) The Secretary shall not issue a permit for a direct discharge to any
+2 lake if the discharge by itself or in combination with other discharges or uses
+3 of the water would result in the degradation of the water quality of the water or
+4 would impair the uses of the water.
+5 Sec. 4. IMPLEMENTATION
+6 Beginning on January 1, 2027, the Secretary of Natural Resources shall
+7 issue decisions implementing the antidegradation policy for the State under
+8 10 V.S.A. chapter 47, subchapter 1A.
+9 Sec. 5. EFFECTIVE DATE
+10 This act shall take effect on July 1, 2026.
+VT LEG #386539 v.1

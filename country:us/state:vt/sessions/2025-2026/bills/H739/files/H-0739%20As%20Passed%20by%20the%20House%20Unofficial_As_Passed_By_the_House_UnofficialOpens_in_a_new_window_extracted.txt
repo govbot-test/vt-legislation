@@ -1,0 +1,141 @@
+Title: 
+Official Title: 
+Source: versions - As Passed By the House (UnofficialOpens in a new window)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+AS PASSED BY HOUSE H.739
+2026 Page 1 of 6
+1 H.739
+2 An act relating to prohibiting the use and sale of the herbicide paraquat
+3 It is hereby enacted by the General Assembly of the State of Vermont:
+4 Sec. 1. FINDINGS
+5 The General Assembly finds that:
+6 (1) Paraquat or paraquat dichloride is a synthetic, nonselective contact
+7 herbicide that is a member of the bipyridylium chemical family and that
+8 defoliates all vegetation that it touches.
+9 (2) Paraquat was first registered in the United States in 1964, and, in
+10 1978, the U.S. Environmental Protection Agency (EPA) classified all paraquat
+11 products as restricted use pesticides because of paraquat’s high acute toxicity
+12 and potential for poisoning.
+13 (3) Paraquat has been widely used throughout the United States since its
+14 classification as a restricted use pesticide, and 24 currently registered pesticide
+15 products approved for use in the United States contain paraquat.
+16 (4) The Pesticide Action Network’s 2024 Consolidated List of Banned
+17 Pesticides identifies 72 countries as banning the use of paraquat, including
+18 Brazil, China, Malaysia, Peru, Saudi Arabia, South Korea, Turkey, and
+19 Vietnam.
+20 (5) The European Union banned paraquat in 2007 after a court
+21 determined that the relevant regulatory body had failed to apply proper
+VT LEG #388218 v.1
+
+AS PASSED BY HOUSE H.739
+2026 Page 2 of 6
+1 procedures for evaluation of the herbicide and that the regulatory body was not
+2 properly thorough in its assessments of paraquat’s effects on human and
+3 animal health.
+4 (6) Multiple studies by the National Institutes of Health have
+5 demonstrated that paraquat exposure substantially increases the risk of
+6 Parkinson’s disease in those exposed to the herbicide.
+7 (7) Studies by the National Institutes of Health and others have linked
+8 exposure to paraquat to increased risk of non-Hodgkin lymphoma and
+9 childhood leukemia.
+10 (8) In 2021, as part of a product registration review of paraquat required
+11 under the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA), the
+12 EPA issued an interim decision approving the continued registration of
+13 paraquat for use in the United States, despite multiple public comments
+14 objecting to approval and significant scientific evidence regarding the potential
+15 health effects of paraquat exposure.
+16 (9) Multiple parties subsequently moved to challenge the EPA interim
+17 decision authorizing the continued registration and use of paraquat. In
+18 particular, the challenging parties contested the EPA’s assessment of the
+19 increased risk of Parkinson’s disease due to exposure to paraquat from
+20 volatilization during use.
+VT LEG #388218 v.1
+
+AS PASSED BY HOUSE H.739
+2026 Page 3 of 6
+1 (10) In January 2025, after a petition from the EPA, a court allowed the
+2 EPA to withdraw the interim registration approval for paraquat so that the EPA
+3 may reconsider its initial conclusion concerning the potential for paraquat to
+4 volatilize and to determine whether paraquat continues to meet FIFRA’s
+5 registration standard.
+6 (11) In October 2025, the EPA issued a memorandum titled
+7 PARAQUAT: Review of the Volatilization Potential of Paraquat from Field
+8 Uses and determined that there is a greater uncertainty regarding the potential
+9 for paraquat to volatilize than previously understood. The EPA concluded that
+10 more data is needed to understand the risk paraquat poses to bystanders.
+11 (12) The EPA’s reevaluation of the risks of paraquat may take years,
+12 and the EPA’s withdrawal of the interim registration and further evaluation
+13 does not prohibit the continued use of paraquat during that review period.
+14 (13) Instead of waiting for EPA action on whether or how to use
+15 paraquat, the State of Vermont should ban the use of paraquat in order to
+16 protect Vermonters from the known, significant health effects of exposure to
+17 paraquat.
+18 Sec. 2. 6 V.S.A. § 1105d is added to read:
+19 § 1105d. USE AND SALE OF PARAQUAT; REPORT
+20 (a) Definition. As used in this section, “paraquat” means an herbicide:
+VT LEG #388218 v.1
+
+AS PASSED BY HOUSE H.739
+2026 Page 4 of 6
+1 (1) known as paraquat, with the chemical name 1,1′-Dimethyl-4,4′-
+2 bipyridinium ion and the Chemical Abstracts Service (CAS) registry
+3 number 4685-14-7;
+4 (2) known as paraquat dichloride, with the chemical name 1,1′-
+5 Dimethyl-4,4′-bipyridinium dichloride and the CAS registry number 1910-42-
+6 5;
+7 (3) known as paraquat dimethyl sulfate, with the chemical name 1,1′-
+8 Dimethyl-4,4′-bipyridinium dimethyl sulfate and the CAS registry number
+9 2074-50-2; or
+10 (4) known as paraquat, with the chemical name 1,1′-Dimethyl-4,4′-
+11 bipyridinium ion and all salts thereof.
+12 (b) Prohibition. No person shall sell, use, or apply paraquat except when
+13 authorized by the Secretary of Agriculture, Food and Markets under subsection
+14 (c) of this section.
+15 (c) Authorized use. The Secretary may issue a written permit for the sale,
+16 use, or application of paraquat within fruit-producing tree orchards only on or
+17 before November 1, 2030. The Secretary shall ensure that any authorized
+18 certified applicator of paraquat has received all training required by the
+19 Environmental Protection Agency and the Agency of Agriculture, Food and
+20 Markets not more than one year prior to receiving a permit for authorized use
+21 of paraquat. A written exemption order under this subsection shall:
+VT LEG #388218 v.1
+
+AS PASSED BY HOUSE H.739
+2026 Page 5 of 6
+1 (1) not be valid for more than three years or until November 1, 2030,
+2 whichever comes first; and
+3 (2) specify the paraquat, uses, and crops or plants to which the permit
+4 applies; the date the permit takes effect; the permit’s duration; and the permit’s
+5 geographic scope, which may include specific farms, fields, or properties.
+6 (d) Reporting. The Secretary shall report annually on all data regarding
+7 any use of paraquat in the State. The report shall include the amount of
+8 paraquat used and the date and location where the paraquat was used. The
+9 Secretary shall submit the report to the House Committee on Agriculture, Food
+10 Resiliency, and Forestry and the Senate Committee on Agriculture on or before
+11 December 15 of each year.
+12 Sec. 3. ALTERNATIVES TO PARAQUAT; STUDY; REPORT
+13 The Agricultural Innovation Board shall study and report on
+14 recommendations for alternatives to the use of paraquat for farmers. The
+15 report shall include pesticide alternatives to paraquat, recommendations for
+16 practices that reduce the use of and exposure to paraquat, and methods and
+17 standards for transitioning farmers to practices that reduce paraquat usage.
+18 The report shall also include recommendations for alternative pesticides to
+19 paraquat and alternative farming practices to reduce the usage of paraquat in
+20 the event paraquat becomes unavailable due to regulatory or commercial action
+21 prior to November 1, 2030. On or before January 15, 2027, the Agricultural
+VT LEG #388218 v.1
+
+AS PASSED BY HOUSE H.739
+2026 Page 6 of 6
+1 Innovation Board shall submit the report to the House Committee on
+2 Agriculture, Food Resiliency, and Forestry and the Senate Committee on
+3 Agriculture.
+4 Sec. 4. EFFECTIVE DATES
+5 (a) This section and Sec. 3 (alternatives to paraquat; study; report) shall
+6 take effect on July 1, 2026.
+7 (b) All other sections shall take effect on November 1, 2026.
+VT LEG #388218 v.1

@@ -1,0 +1,381 @@
+Title: 
+Official Title: 
+Source: versions - As IntroducedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BILL AS INTRODUCED S.248
+2026 Page 1 of 16
+1 S.248
+2 Introduced by Senators Harrison and Plunkett
+3 Referred to Committee on
+4 Date:
+5 Subject: Commerce and trade; consumer protection; genetic data privacy
+6 Statement of purpose of bill as introduced: This bill proposes to require direct-
+7 to-consumer genetic testing companies and related providers to protect the
+8 genetic data information of Vermonters. The bill requires companies to limit
+9 data sharing, allows consumers to access their own data, and otherwise
+10 provides other genetic data privacy protections to consumers.
+11 An act relating to genetic data privacy
+12 It is hereby enacted by the General Assembly of the State of Vermont:
+13 Sec. 1. 9 V.S.A. chapter 61A is added to read:
+14 CHAPTER 61A. DATA PRIVACY
+15 Subchapter 1. Genetic Information Privacy
+16 § 2411. SHORT TITLE AND DEFINITIONS
+17 (a) This subchapter shall be known, and may be cited, as the “Genetic
+18 Information Privacy Act.”
+VT LEG #385797 v.1
+
+BILL AS INTRODUCED S.248
+2026 Page 2 of 16
+1 (b) As used in this subchapter:
+2 (1) “Affirmative authorization” means an action that demonstrates an
+3 intentional decision by a consumer.
+4 (2) “Biological sample” means any material part of the human,
+5 discharge therefrom, or derivative thereof, such as tissue, blood, urine, or
+6 saliva, known to contain deoxyribonucleic acid (DNA).
+7 (3) “Consumer” means an individual who is a Vermont resident.
+8 (4) “Dark pattern” means a user interface designed or manipulated with
+9 the substantial effect of subverting or impairing user autonomy, decision
+10 making, or choice.
+11 (5) “Direct-to-consumer genetic testing company” means an entity that:
+12 (A) sells, markets, interprets, or otherwise offers consumer-initiated
+13 genetic testing products or services directly to consumers;
+14 (B) analyzes genetic data obtained from a consumer, except to the
+15 extent that the analysis is performed by a person licensed in the healing arts for
+16 diagnosis or treatment of a medical condition; or
+17 (C) collects, uses, maintains, or discloses genetic data that is:
+18 (i) collected or derived from a direct-to-consumer genetic testing
+19 product or service; or
+20 (ii) directly provided by a consumer.
+VT LEG #385797 v.1
+
+BILL AS INTRODUCED S.248
+2026 Page 3 of 16
+1 (6) “Disclose,” “disclosing,” or “disclosure” means to solicit, sell,
+2 assign, transfer, give, provide, or trade, whether or not for valuable
+3 consideration.
+4 (7) “Express consent” means a consumer’s affirmative authorization to
+5 grant permission in response to a clear, meaningful, and prominent notice
+6 regarding the collection, use, maintenance, or disclosure of genetic data for a
+7 specific purpose. Express consent cannot be inferred from inaction.
+8 Agreement obtained through the use of dark patterns does not constitute
+9 express consent.
+10 (8)(A) “Genetic data” means any data, regardless of its format, that
+11 results from the analysis of a biological sample from a consumer, or from
+12 another element enabling equivalent information to be obtained, and concerns
+13 genetic material. Genetic material includes deoxyribonucleic acids (DNA),
+14 ribonucleic acids (RNA), genes, chromosomes, alleles, genomes, alterations or
+15 modifications to DNA or RNA, single nucleotide polymorphisms (SNPs),
+16 uninterpreted data that results from the analysis of the biological sample, and
+17 any information extrapolated, derived, or inferred therefrom.
+18 (B) “Genetic data” does not include deidentified data. For purposes
+19 of this subdivision (B), “deidentified data” means data that cannot be used to
+20 infer information about, or otherwise be linked to, a particular individual,
+21 provided that the business that possesses the information:
+VT LEG #385797 v.1
+
+BILL AS INTRODUCED S.248
+2026 Page 4 of 16
+1 (i) takes reasonable measures to ensure that the information cannot
+2 be associated with a consumer or household;
+3 (ii) publicly commits to maintain and use the information only in
+4 deidentified form and not to attempt to reidentify the information, except that
+5 the business may periodically attempt to reidentify the information solely for
+6 the purpose of determining whether its deidentification processes satisfy the
+7 requirements of this subdivision (B), on the express condition that the business
+8 does not use or disclose any information reidentified in this process and
+9 destroys the reidentified information upon completion of that periodic
+10 assessment; and
+11 (iii) contractually obligates any recipients of the information to
+12 take reasonable measures to ensure that the information cannot be associated
+13 with a consumer or household and to commit to maintaining and using the
+14 information only in deidentified form and not to reidentify the information.
+15 (C) “Genetic data” does not include data or a biological sample to the
+16 extent that data or a biological sample is collected, used, maintained, and
+17 disclosed:
+18 (i) exclusively for scientific research conducted by an investigator
+19 with an institution that holds an assurance with the U.S. Department of Health
+20 and Human Services pursuant to 45 C.F.R. Part 46; or
+VT LEG #385797 v.1
+
+BILL AS INTRODUCED S.248
+2026 Page 5 of 16
+1 (ii) in compliance with all applicable federal and State laws and
+2 regulations for the protection of human subjects in research, including the:
+3 (I) Common Rule, 45 C.F.R. Part 46;
+4 (II) U.S. Food and Drug Administration regulations pursuant to
+5 21 C.F.R. Parts 50 and 56; and
+6 (III) Family Educational Rights and Privacy Act, 20 U.S.C.
+7 § 1232g.
+8 (9) “Genetic testing” means any laboratory test of a biological sample
+9 from a consumer for the purpose of determining information concerning
+10 genetic material contained within the biological sample, or any information
+11 extrapolated, derived, or inferred therefrom.
+12 (10) “Person” means an individual, partnership, corporation, association,
+13 business, business trust, or legal representative of an organization.
+14 (11)(A) “Publicly available information” means information that is
+15 made available through federal, state, or local government records or to the
+16 general public from widely distributed media.
+17 (B) “Publicly available information” does not include:
+18 (i) biometric data collected by a business about a consumer
+19 without the consumer’s knowledge;
+VT LEG #385797 v.1
+
+BILL AS INTRODUCED S.248
+2026 Page 6 of 16
+1 (ii) information that is collated and combined to create a consumer
+2 profile that is made available to a user of a publicly available website either in
+3 exchange for payment or free of charge;
+4 (iii) information that is made available for sale;
+5 (iv) an inference that is generated from the information described
+6 in subdivision (ii) or (iii) of this subdivision (11)(B);
+7 (v) any obscene visual depiction, as defined in 18 U.S.C. § 1460;
+8 (vi) personal data that is created through the combination of
+9 personal data with publicly available information;
+10 (vii) genetic data, unless otherwise made publicly available by the
+11 consumer to whom the information pertains;
+12 (viii) information provided by a consumer on a website or online
+13 service made available to all members of the public, for free or for a fee, where
+14 the consumer has maintained a reasonable expectation of privacy in the
+15 information, such as by restricting the information to a specific audience; or
+16 (ix) intimate images, authentic or computer generated, known to
+17 be nonconsensual.
+18 (12) “Service provider” means a sole proprietorship, partnership, limited
+19 liability company, corporation, association, or other legal entity that is
+20 involved in the collection, transportation, and analysis of the consumer’s
+21 biological sample or extracted genetic material:
+VT LEG #385797 v.1
+
+BILL AS INTRODUCED S.248
+2026 Page 7 of 16
+1 (A) on behalf of the direct-to-consumer genetic testing company;
+2 (B) on behalf of any other company that collects, uses, maintains, or
+3 discloses genetic data collected or derived from a direct-to-consumer genetic
+4 testing product or service; or
+5 (C) that is directly provided by a consumer.
+6 § 2412. REQUIREMENTS
+7 (a) Privacy terms and consent. To safeguard the privacy, confidentiality,
+8 security, and integrity of a consumer’s genetic data, a direct-to-consumer
+9 genetic testing company shall:
+10 (1) provide clear and complete information regarding the company’s
+11 policies and procedures for the collection, use, maintenance, and disclosure, as
+12 applicable, of genetic data by making available to a consumer all of the
+13 following:
+14 (A) a summary of its privacy practices, written in plain language, that
+15 includes information about the company’s collection, use, maintenance, and
+16 disclosure, as applicable, of genetic data;
+17 (B) a prominent and easily accessible privacy notice that includes, at
+18 a minimum, complete information about the company’s data collection,
+19 consent, use, access, disclosure, maintenance, transfer, security, and retention
+20 and deletion practices; and
+VT LEG #385797 v.1
+
+BILL AS INTRODUCED S.248
+2026 Page 8 of 16
+1 (C) a notice that the consumer’s deidentified genetic or phenotypic
+2 information may be shared with or disclosed to third parties for research
+3 purposes in accordance with 45 C.F.R. Part 46; and
+4 (2) obtain a consumer’s express consent for the collection, use, and
+5 disclosure of the consumer’s genetic data, including, at a minimum, separate
+6 and express consent for each of the following:
+7 (A) the use of the genetic data collected through the genetic testing
+8 product or service offered to the consumer, including:
+9 (i) who has access to genetic data;
+10 (ii) how genetic data may be shared; and
+11 (iii) the specific purposes for which the data will be collected,
+12 used, and disclosed;
+13 (B) the storage of a consumer’s biological sample after the initial
+14 testing requested by the consumer has been fulfilled;
+15 (C) each use of genetic data or the biological sample beyond the
+16 primary purpose of the genetic testing or service and inherent contextual uses;
+17 (D) each transfer or disclosure of the consumer’s genetic data or
+18 biological sample to a third party other than a service provider, including the
+19 name of the third party to which the consumer’s genetic data or biological
+20 sample will be transferred or disclosed and the intended purpose of said
+21 transfer, except that a company shall not require a consumer to expressly
+VT LEG #385797 v.1
+
+BILL AS INTRODUCED S.248
+2026 Page 9 of 16
+1 consent to the actions in this subdivision (D) in order to receive the services
+2 ordered from the company by the consumer; and
+3 (E) the marketing or facilitation of marketing to a consumer based on
+4 the consumer’s genetic data or the marketing or facilitation of marketing by a
+5 third party based upon the consumer having ordered, purchased, received, or
+6 used a genetic testing product or service.
+7 (b) Marketing exception.
+8 (1) Subdivision (a)(2)(E) of this section does not require a direct-to-
+9 consumer genetic testing company to obtain a consumer’s express consent to
+10 market to the consumer on the company’s own website or mobile application
+11 based upon the consumer having ordered, purchased, received, or used a
+12 genetic testing product or service from that company if the content of the
+13 advertisement does not depend upon any information specific to that consumer.
+14 Nothing in this subdivision alters, limits, or negates the requirements of any
+15 other antidiscrimination law or targeted advertising law.
+16 (2) Any advertisement of a third-party product or service presented to a
+17 consumer pursuant to subdivision (1) of this subsection or subdivision
+18 (a)(2)(E) of this section shall be prominently labeled as advertising content and
+19 be accompanied by the name of any third party that has contributed to the
+20 placement of the advertising. If applicable, the advertisement also shall clearly
+21 indicate that the advertised product or service, and any associated claims, have
+VT LEG #385797 v.1
+
+BILL AS INTRODUCED S.248
+2026 Page 10 of 16
+1 not been vetted or endorsed by the direct-to-consumer genetic testing
+2 company.
+3 (c) Revoking consent.
+4 (1) A direct-to-consumer genetic testing company that is subject to the
+5 requirements in subdivision (a)(2) of this section shall provide effective
+6 mechanisms, without any unnecessary steps, for a consumer to revoke consent
+7 after it is given, at least one of which utilizes the primary medium through
+8 which the company communicates with consumers.
+9 (2) If a consumer revokes consent pursuant to subdivision (1) of this
+10 subsection, the direct-to-consumer genetic testing company shall:
+11 (A) honor the consumer’s consent revocation as soon as practicable,
+12 but not later than 30 days after the individual revokes consent; and
+13 (B) if the revocation is related to the storage or use of a consumer’s
+14 biological sample, destroy the consumer’s biological sample not later than 30
+15 days after receipt of the revocation of consent.
+16 (d) Data security and access.
+17 (1) A direct-to-consumer genetic testing company shall:
+18 (A) implement and maintain reasonable security procedures and
+19 practices to protect a consumer’s genetic data against unauthorized access,
+20 destruction, use, modification, or disclosure; and
+VT LEG #385797 v.1
+
+BILL AS INTRODUCED S.248
+2026 Page 11 of 16
+1 (B) develop procedures and practices to enable a consumer to easily:
+2 (i) access the consumer’s genetic data;
+3 (ii) delete the consumer’s account and genetic data, except for
+4 genetic data that is required to be retained by the company to comply with
+5 applicable legal and regulatory requirements; and
+6 (iii) request to have and have the consumer’s biological sample
+7 destroyed.
+8 (2) Genetic data and biometric samples of consumers shall not be stored
+9 within the territorial boundaries of any country currently sanctioned in any way
+10 by the U.S. Office of Foreign Assets Control or designated as a foreign
+11 adversary under 15 C.F.R. § 7.4(a).
+12 (3) Genetic data or biometric data of consumers shall only be transferred
+13 or stored outside the United States with the express consent of the consumer.
+14 (e) Contracts. A contract between a direct-to-consumer genetic testing
+15 company and a service provider shall prohibit the service provider from:
+16 (1) retaining, using, or disclosing the biological sample, genetic data, or
+17 any information regarding the identity of the consumer, including whether that
+18 consumer has solicited or received genetic testing, for a commercial purpose
+19 other than providing the services specified in the contract with the business;
+20 and
+VT LEG #385797 v.1
+
+BILL AS INTRODUCED S.248
+2026 Page 12 of 16
+1 (2) associating or combining the biological sample, genetic data, or any
+2 information regarding the identity of the consumer, including whether that
+3 consumer has solicited or received genetic testing, with information the service
+4 provider has received from or on behalf of another person or persons, or has
+5 collected from its own interaction with consumers or as required by law.
+6 (f) Discrimination. A person or public entity shall not discriminate against
+7 a consumer because the consumer exercised any of the consumer’s rights under
+8 this subchapter by:
+9 (1) denying goods, services, or benefits to the consumer;
+10 (2) charging different prices or rates for goods or services, including
+11 through the use of discounts or other incentives, or imposing penalties;
+12 (3) providing a different level or quality of goods, services, or benefits
+13 to the consumer;
+14 (4) suggesting that the consumer will receive a different price or rate for
+15 goods, services, or benefits, or a different level or quality of goods, services, or
+16 benefits; and
+17 (5) considering the consumer’s exercise of rights under this subchapter
+18 as a basis for suspicion of criminal wrongdoing or unlawful conduct.
+19 (g) Nondisclosure. Notwithstanding any other provision in this section, a
+20 direct-to-consumer genetic testing company shall not disclose a consumer’s
+21 genetic data to any entity that is responsible for administering or making
+VT LEG #385797 v.1
+
+BILL AS INTRODUCED S.248
+2026 Page 13 of 16
+1 decisions regarding health insurance, life insurance, long-term care insurance,
+2 disability insurance, or employment, or to any entity that provides advice to an
+3 entity that is responsible for performing those functions.
+4 § 2413. ENFORCEMENT
+5 (a) A direct-to-consumer genetic testing company or service provider that
+6 violates this subchapter or rules adopted pursuant to this subchapter commits
+7 an unfair and deceptive act in commerce in violation of section 2453 of this
+8 title.
+9 (b) The Attorney General shall have the same authority under this
+10 subchapter to make rules, conduct civil investigations, bring civil actions, and
+11 enter into assurances of discontinuance against any person as provided under
+12 chapter 63 of this title.
+13 § 2414. APPLICABILITY
+14 (a) The provisions of this subchapter shall not reduce a direct-to-consumer
+15 genetic testing company’s duties, obligations, requirements, or standards under
+16 any applicable State and federal laws for the protection of privacy and security.
+17 (b) In the event of a conflict between the provisions of this subchapter and
+18 any other law, the provisions of the law that afford the greatest protection for
+19 the right of privacy for consumers shall control.
+VT LEG #385797 v.1
+
+BILL AS INTRODUCED S.248
+2026 Page 14 of 16
+1 (c) This subchapter shall not apply to any of the following:
+2 (1) protected health information that is collected, maintained, used, or
+3 disclosed by a covered entity or business associate governed by the privacy,
+4 security, and breach notification rules issued by the U.S. Department of Health
+5 and Human Services, 45 C.F.R. Parts 160 and 164, established pursuant to the
+6 Health Insurance Portability and Accountability Act of 1996, Pub. L. No. 104-
+7 191, and the Health Information Technology for Economic and Clinical Health
+8 Act, Pub. L. No. 111-5;
+9 (2) a covered entity governed by the privacy, security, and breach
+10 notification rules issued by the U.S. Department of Health and Human
+11 Services, 45 C.F.R. Parts 160 and 164, established pursuant to the Health
+12 Insurance Portability and Accountability Act of 1996, Pub. L. No. 104-191,
+13 and the Health Information Technology for Economic and Clinical Health Act,
+14 Title XIII of the American Recovery and Reinvestment Act of 2009, Pub. L.
+15 No. 111-5, to the extent that the provider or covered entity maintains, uses, and
+16 discloses genetic information in the same manner as medical information or
+17 protected health information, as described in subdivision (1) of this subsection;
+18 (3) a business associate of a covered entity governed by the privacy,
+19 security, and data breach notification rules issued by the U.S. Department of
+20 Health and Human Services, 45 C.F.R. Parts 160 and 164, established pursuant
+21 to the Health Insurance Portability and Accountability Act of 1996, Pub. L.
+VT LEG #385797 v.1
+
+BILL AS INTRODUCED S.248
+2026 Page 15 of 16
+1 No. 104-191, and the Health Information Technology for Economic and
+2 Clinical Health Act, Title XIII of the American Recovery and Reinvestment
+3 Act of 2009, Pub. L. No. 111-5, to the extent that the business associate
+4 maintains, uses, and discloses genetic information in the same manner as
+5 medical information or protected health information, as described in
+6 subdivision (1) of this subsection;
+7 (4) scientific research or educational activities conducted by a public or
+8 private nonprofit postsecondary educational institution that holds an assurance
+9 with the U.S. Department of Health and Human Services pursuant to 45 C.F.R.
+10 Part 46, to the extent that the scientific research and educational activities
+11 conducted by that institution comply with all applicable federal and State laws
+12 and regulations for the protection of human subjects in research, including the
+13 Common Rule pursuant to 45 C.F.R. Part 46, U.S. Food and Drug
+14 Administration regulations pursuant to 21 C.F.R. Parts 50 and 56, and the
+15 Family Educational Rights and Privacy Act, 20 U.S.C. § 1232g;
+16 (5) tests conducted exclusively to diagnose whether an individual has a
+17 specific disease, to the extent that all persons involved in the conduct of the
+18 test maintain, use, and disclose genetic information in the same manner as
+19 medical information or protected health information, as described in
+20 subdivision (1) of this subsection; and
+VT LEG #385797 v.1
+
+BILL AS INTRODUCED S.248
+2026 Page 16 of 16
+1 (6) genetic data used or maintained by an employer, or disclosed by an
+2 employee to an employer, to the extent that the use, maintenance, or disclosure
+3 of that data is necessary to comply with a local, State, or federal workplace
+4 health and safety ordinance, law, or regulation.
+5 (d) Nothing in this subchapter shall be construed to affect access to
+6 publicly available information.
+7 Sec. 2. EFFECTIVE DATE
+8 This act shall take effect on July 1, 2026.
+VT LEG #385797 v.1

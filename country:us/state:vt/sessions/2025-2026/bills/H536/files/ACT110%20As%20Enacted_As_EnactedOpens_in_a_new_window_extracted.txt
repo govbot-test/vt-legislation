@@ -1,0 +1,175 @@
+Title: 
+Official Title: 
+Source: versions - As EnactedOpens in a new window
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+No. 110 Page 1 of 7
+2026
+No. 110. An act relating to toxic heavy metals in baby food products.
+(H.536)
+It is hereby enacted by the General Assembly of the State of Vermont:
+Sec. 1. 18 V.S.A. chapter 82 is amended to read:
+CHAPTER 82. LABELING OF FOODS, DRUGS, COSMETICS, AND
+HAZARDOUS SUBSTANCES
+Subchapter 1. Labeling for Marketing and Sale General Provisions
+* * *
+Subchapter 3. Testing and Labeling of Certain Products
+§ 4091. BABY FOOD PRODUCTS
+(a) As used in this section:
+(1) “Baby food product” means any food manufactured, packaged, and
+labeled in a jar, pouch, tub, or box sold specifically for babies and children
+younger than two years of age. “Baby food product” does not include infant
+formula.
+(2) “Final baby food product” means the finished baby food product and
+not the constituent ingredients.
+(3) “Infant formula” means a commercially available milk-based or soy-
+based powder, concentrated liquid, or ready-to-feed substitute for human breast
+milk that is intended for infant consumption.
+VT LEG #390152 v.1
+
+No. 110 Page 2 of 7
+2026
+(4) “Production aggregate” means a quantity of product that is intended
+to have a uniform composition, character, and quality and is produced
+according to a master manufacturing order.
+(5) “Proficient laboratory” means a laboratory that:
+(A) is accredited under the standards of the International
+Organization for Standardization or the International Electrotechnical
+Commission pursuant to standard ISO/IEC 17025:2017;
+(B) uses an analytical method as sensitive as the analytical method
+described in the U.S. FDA’s Elemental Analysis Manual for Food and Related
+Products; and
+(C) demonstrates proficiency in quantifying each toxic element to at
+least six micrograms of the toxic element to kilogram of food through an
+independent proficiency test by achieving a z-score that is less than or equal to
+plus or minus two.
+(6) “QR code” means a two-dimensional matrix barcode consisting of
+blocks arranged in a grid that can be read by an imaging device.
+(7) “Representative sample” means a sample that consists of a number
+of units that are drawn based on rational criteria, including random sampling,
+and intended to ensure that the sample accurately portrays the material being
+sampled.
+(8) “Toxic heavy metal” means arsenic, cadmium, lead, and mercury.
+(9) “URL” means a uniform resource locator.
+VT LEG #390152 v.1
+
+No. 110 Page 3 of 7
+2026
+(10) “U.S. FDA” means the U.S. Food and Drug Administration.
+(b) A person shall not sell, distribute, or offer for sale any baby food
+product in the State that contains a toxic heavy metal that exceeds the
+regulatory limits established by the U.S. FDA. The provisions of this
+subsection shall not restrict the continued sale of inventory in stock before
+January 1, 2027.
+(c) A manufacturer of a baby food sold or distributed in the State shall test
+a representative sample of each production aggregate of the manufacturer’s
+final baby food product for toxic heavy metals. Testing of a baby food product
+shall be conducted by a proficient laboratory at least once a month. A
+manufacturer of baby food may test the final baby food product before
+packaging individual units for sale or distribution. Upon request of the Office
+of the Attorney General, a manufacturer shall provide the results of the test
+conducted pursuant to this subsection.
+(d)(1) Without requiring the provision of a universal product code or proof
+of purchase, for each baby food product sold, manufactured, delivered, held, or
+offered for sale in the State, a manufacturer of baby food shall make publicly
+available on its website for the duration of the product shelf life of a final baby
+food product, plus one month:
+(A) the name and level of each toxic heavy metal in the final baby
+food product as determined by the testing conducted pursuant to subsection (c)
+of this section;
+VT LEG #390152 v.1
+
+No. 110 Page 4 of 7
+2026
+(B) sufficient information, including the product name, universal
+product code, or lot or batch number, to enable consumers to identify the final
+baby food product; and
+(C) a link to the U.S. FDA’s website that provides the most recent
+U.S. FDA guidance and information about the health effects of toxic heavy
+metals on children.
+(2) A baby food product that is sold online to a consumer in Vermont by
+either a retailer or directly by the manufacturer shall contain on the product’s
+web page a clearly labeled link to an information page containing the
+information required pursuant to subdivision (1) of this subsection.
+(e) If a baby food product sold or distributed in the State is tested for a
+toxic heavy metal subject to an action level, regulatory limit, or tolerance
+established by the U.S. FDA under 21 C.F.R. § 109, the manufacturer shall
+display on the baby food product:
+(1) a label stating in a clear, legible, and conspicuous manner that more
+information about toxic element testing on the product is available by scanning
+the QR code; and
+(2) a QR code or other machine-readable code that directs the
+consumers to the manufacturer’s website or the baby food product information
+page providing:
+VT LEG #390152 v.1
+
+No. 110 Page 5 of 7
+2026
+(A) the test results for the toxic heavy metal; and
+(B) a URL to the web page on the U.S. FDA’s website that includes
+the most recent guidance and information about the health effects of toxic
+heavy metals on children.
+(f) If a consumer reasonably believes, based on the information provided
+on the baby food product, that the baby food product is being sold in the State
+in violation of this section, the consumer may report the baby food product to
+the Office of the Attorney General.
+(g) A violation of this section shall be deemed a violation of the Consumer
+Protection Act, 9 V.S.A. chapter 63. The Attorney General has the same
+authority, and private parties have the same rights and remedies, as provided
+under 9 V.S.A. chapter 63, subchapter 1.
+(h) Nothing in this section shall be construed to conflict with federal law or
+regulation.
+Sec. 2. 18 V.S.A. § 4091 is amended to read:
+§ 4091. BABY FOOD PRODUCTS
+(a) As used in this section:
+(1) “Baby food product” means any infant formula or food
+manufactured, packaged, and labeled in a jar, pouch, tub, or box sold
+specifically for babies and children younger than two years of age. “Baby food
+product” does not include infant formula.
+* * *
+VT LEG #390152 v.1
+
+No. 110 Page 6 of 7
+2026
+(g) The Attorney General, in consultation with the Commissioner of
+Health, shall suspend the application of this section to infant formula if the
+Attorney General verifies that there is insufficient infant formula in the State to
+meet the need or evidence of a declining supply. If the Attorney General
+suspends application, the Attorney General shall post notice on the Office of
+the Attorney General’s website containing specific dates that the suspension is
+in effect.
+(h) A violation of this section shall be deemed a violation of the Consumer
+Protection Act, 9 V.S.A. chapter 63. The Attorney General has the same
+authority, and private parties have the same rights and remedies, as provided
+under 9 V.S.A. chapter 63, subchapter 1.
+(h)(i) Nothing in this section shall be construed to conflict with federal law
+or regulation.
+Sec. 3. INFANT FORMULA; STOCK SUPPLY
+The provisions of Sec. 2 (18 V.S.A. § 4091) of this act shall not restrict the
+continued sale of infant formula inventory in stock in Vermont prior to the
+effective date of Sec. 2 of this act pursuant to Sec. 4(b) of this act.
+Sec. 4. EFFECTIVE DATES
+(a) This section, Sec. 1 (18 V.S.A. chapter 82), and Sec. 3 (infant formula;
+stock supply) shall take effect on January 1, 2027.
+(b) Sec. 2 (18 V.S.A. § 4091) shall take effect upon the Attorney General’s
+written confirmation to the Speaker of the House and to the President Pro
+VT LEG #390152 v.1
+
+No. 110 Page 7 of 7
+2026
+Tempore of the Senate, which shall be posted on the General Assembly’s
+website, that a law has taken effect in California or two other states with
+requirements substantially comparable to the requirements of this act regarding
+all of the following:
+(1) the prohibition on the sale and distribution of infant formula that
+contains a toxic heavy metal exceeding U.S. Food and Drug Administration
+limits;
+(2) the required testing of infant formula sold or distributed in the state
+for toxic heavy metals; and
+(3) the labeling of infant formula and the provision of information about
+toxic heavy metals in infant formula.
+Date Governor signed bill: May 26, 2026
+VT LEG #390152 v.1
